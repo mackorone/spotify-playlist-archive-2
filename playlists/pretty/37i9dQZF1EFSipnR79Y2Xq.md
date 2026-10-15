@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 88 | [La Fogata](https://open.spotify.com/track/5PFQQv2uohG7pSYmNuWa4V) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [La Fogata](https://open.spotify.com/album/0kMcbCxUPRfWPHoBudf7HH) | 2:27 |
 | 89 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 90 | [Por Si No Sabían](https://open.spotify.com/track/5JiXWzIwz574p5ha1HVMSH) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Por Si No Sabían](https://open.spotify.com/album/7kgqswkEQ6ig1otF3IDCol) | 3:14 |
-| 91 | [Del 1 al 10](https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Del 1 al 10](https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM) | 3:16 |
-| 92 | [La Clave Está En Tomar](https://open.spotify.com/track/5fPBNjHFoZDBJhVHeeuUHW) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Clave Está En Tomar](https://open.spotify.com/album/5LwpjpxsFDcchdPLPwVwab) | 3:03 |
-| 93 | [El Bolero](https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 3:15 |
+| 91 | [El Bolero](https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 3:15 |
+| 92 | [Del 1 al 10](https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Del 1 al 10](https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM) | 3:16 |
+| 93 | [La Clave Está En Tomar](https://open.spotify.com/track/5fPBNjHFoZDBJhVHeeuUHW) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Clave Está En Tomar](https://open.spotify.com/album/5LwpjpxsFDcchdPLPwVwab) | 3:03 |
 | 94 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
 | 95 | [No Que No](https://open.spotify.com/track/78q10Y9lwhzLnq2LOliaTU) | [Edicion Exclusivo](https://open.spotify.com/artist/6l1lRPATMypxpuQwkUQyyd) | [No Que No](https://open.spotify.com/album/7yFxuFzZ25DIaN2wHYMdJn) | 2:35 |
 | 96 | [Último Aviso](https://open.spotify.com/track/1AAq8oRKRz1sNtK2cPXyiH) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [¿Qué Pasaría?](https://open.spotify.com/album/0vXUz7B7Oq0NsAwK27ZQyk) | 3:06 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 116 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 117 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `Ace3hAAAAABSeY1cAWKSDkFDv0fMFt+O`
+Snapshot ID: `Ace86AAAAACYmO+EgHTXO4RY7Cs1Q/BD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Luister La Voz & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,097 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,092 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 74 | [Todo Se Supera](https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Todo Se Supera](https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0) | 3:19 |
 | 75 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
 | 76 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
-| 77 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
-| 78 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
+| 77 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
+| 78 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
 | 79 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
 | 80 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
 | 81 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 93 | [Mesera](https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Mesera](https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G) | 2:43 |
 | 94 | [Volvamos](https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [youngkinez](https://open.spotify.com/artist/5JwmmFvakv0jxaM6mj4lsf) | [Volvamos](https://open.spotify.com/album/6Vatwc1dDUYJiDRWB7im4e) | 2:58 |
 | 95 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
-| 96 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |
+| 96 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
 | 97 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
-| 98 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
+| 98 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |
 | 99 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
 | 100 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 
-Snapshot ID: `AAAAAM93hjnJ7rydvpGox57S33tOcXZh`
+Snapshot ID: `AAAAAL5djFW+uxJv+jdbzN7VO835Rvij`

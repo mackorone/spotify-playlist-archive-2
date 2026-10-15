@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,421 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,505 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 | 78 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
 | 79 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 |
-| 80 | [Time Bomb](https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Time Bomb](https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH) | 3:35 |
-| 81 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 |
+| 80 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 |
+| 81 | [Time Bomb](https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Time Bomb](https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH) | 3:35 |
 | 82 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
 | 84 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 93 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
 | 94 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
-| 96 | [I Met This Girl](https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Met This Girl](https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz) | 3:19 |
-| 97 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
+| 96 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
+| 97 | [I Met This Girl](https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Met This Girl](https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz) | 3:19 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 99 | [Blackout Betty](https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 4:01 |
 | 100 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 
-Snapshot ID: `AAAAAOPVAiLUWqkS11USvGVvdN+Rkfm+`
+Snapshot ID: `AAAAAILztssQCabVAWbnOQo12fxR83pT`

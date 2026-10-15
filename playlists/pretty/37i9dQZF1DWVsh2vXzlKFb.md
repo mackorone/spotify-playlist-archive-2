@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,184 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,135 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 25 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
 | 26 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 27 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 28 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 29 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 28 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 29 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 30 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 31 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 32 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 51 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
 | 52 | [I Saw Your Face](https://open.spotify.com/track/3B3eD9Mo22YTke9AuOirzn) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2) | 3:09 |
 | 53 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
-| 54 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
-| 55 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 54 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 55 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
 | 56 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 57 | [Malcolm In The Middle](https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2) | 2:38 |
 | 58 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 83 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 |
 | 84 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
 | 85 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
-| 86 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
-| 87 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 |
-| 88 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
-| 89 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 86 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 |
+| 87 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
+| 88 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 89 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
 | 90 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 91 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
-| 92 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
-| 93 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
+| 92 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
+| 93 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 | 94 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
 | 95 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
 | 96 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 99 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 |
 | 100 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
 
-Snapshot ID: `AAAAABigqCwsXriP0DDINib5E5YeHIpG`
+Snapshot ID: `AAAAAOxdjVsr/4E35gFOVNMR2VIWqmVV`

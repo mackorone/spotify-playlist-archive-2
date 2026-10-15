@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,810 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,890 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 35 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 36 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
 | 37 | [Jamás](https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 3:24 |
-| 38 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 |
+| 38 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
 | 39 | [Como yo te amo](https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Y..\. sigo mi camino](https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3) | 4:39 |
-| 40 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 40 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 |
 | 41 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [De Piel Negra](https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg) | 4:38 |
 | 42 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 |
 | 43 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 53 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
 | 54 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
 | 55 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 |
-| 56 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
-| 57 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
+| 56 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
+| 57 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 58 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 59 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 |
 | 60 | [Corazón mágico](https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Grandes Éxitos](https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U) | 3:18 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 71 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 72 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 |
 | 73 | [Rumores](https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:42 |
-| 74 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
-| 75 | [Digan lo que digan](https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 2:42 |
+| 74 | [Digan lo que digan](https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 2:42 |
+| 75 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
 | 76 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
 | 77 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
 | 78 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 99 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
 | 100 | [Amor de Mis Amores](https://open.spotify.com/track/1eHP1XeJWuLcU1jA7Tynl0) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [RCA 100 Años de Música](https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK) | 3:04 |
 
-Snapshot ID: `AAAAAMno5BLUpVr2hRpFrDGhlTx4D9cW`
+Snapshot ID: `AAAAACocPpR6TAErqqYJRtI3vUV7RA8A`

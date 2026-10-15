@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LEVKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,961 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,901 likes - 90 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [Brombeeren unter Dornen](https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Wenn ich ehrlich bin](https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i) | 2:36 |
 | 90 | [Keine Kriege](https://open.spotify.com/track/2o2Kpvj14Z2YIEiFNgOqo1) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [eine EP für mich](https://open.spotify.com/album/2Td7Zh9T3bqdRPGN5LxD9p) | 2:53 |
 
-Snapshot ID: `AAAAAFSX1+J0sMCM1q8ME7GS/YiS4WtH`
+Snapshot ID: `AAAAAJ842KGVrPAFls2D4l3eqD0zLf0R`

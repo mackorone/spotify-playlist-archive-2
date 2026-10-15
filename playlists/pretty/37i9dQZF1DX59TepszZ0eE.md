@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,728 likes - 99 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,760 likes - 99 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 98 | [Silawule \- Live](https://open.spotify.com/track/2A6gGJlu0Tsxqfk0vZwtaH) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Silawule \(Live\)](https://open.spotify.com/album/3FD1NloKwsEmpD7XpWsUxv) | 6:37 |
 | 99 | [Busa](https://open.spotify.com/track/2fJuxUZaQEsJC8GEvdyQvl) | [The Pursued](https://open.spotify.com/artist/6cFKsWnFO5y7GrI8t2nV14), [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Busa](https://open.spotify.com/album/2bTz05Mz5p8sXAimH34XXu) | 9:53 |
 
-Snapshot ID: `AAAAAJtsQtlSLduVNWoBr9hRuNuGCEC3`
+Snapshot ID: `AAAAAOOlvcvhgaVQMiDKmMLWJKoahLHh`

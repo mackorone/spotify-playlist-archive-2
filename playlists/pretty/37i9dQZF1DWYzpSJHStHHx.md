@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,621 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,606 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 37 | [SLPM](https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP) | [The Bures Band](https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV) | [Ozonia](https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal) | 5:44 |
 | 38 | [Kamakura](https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Kamakura](https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu) | 3:07 |
 | 39 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
-| 40 | [A Long Long Time](https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [A Long Long Time](https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4) | 4:18 |
-| 41 | [Read My Mind](https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Read My Mind](https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc) | 3:32 |
+| 40 | [Read My Mind](https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Read My Mind](https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc) | 3:32 |
+| 41 | [A Long Long Time](https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [A Long Long Time](https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4) | 4:18 |
 | 42 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
 | 43 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |
 | 44 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 46 | [Burning Tide](https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [No Chaser](https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU) | 2:40 |
 | 47 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 48 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
-| 49 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
-| 50 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 49 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 50 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
 | 51 | [Ricochet](https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Ricochet](https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh) | 3:43 |
-| 52 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
-| 53 | [Parking Lot](https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Parking Lot](https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx) | 4:13 |
+| 52 | [Parking Lot](https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Parking Lot](https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx) | 4:13 |
+| 53 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
 | 54 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
 | 55 | [Reef Prince](https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Reef Prince / Better](https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG) | 3:07 |
 | 56 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 74 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
 | 75 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
 
-Snapshot ID: `AAAAAGpWjTmMIMvBHstKm8mqlvmRQXne`
+Snapshot ID: `AAAAAP40k8y0RPM/KrQx3KnVq1Tl9MPf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,689 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,717 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 5 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 |
 | 6 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 7 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 |
-| 8 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
-| 9 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:41 |
+| 8 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:41 |
+| 9 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
 | 10 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 |
 | 11 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 12 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 49 | [No One But You](https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [The Best Of](https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq) | 3:07 |
 | 50 | [Side By Side](https://open.spotify.com/track/7hVvAoadyCej8i3v3hm3Do) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/3KzeH6j8lksLOBLCqqSiQT) | 2:52 |
 
-Snapshot ID: `AAAAAOqdwNkZwiuoo1QJSuP8kwNSw7qP`
+Snapshot ID: `AAAAAKsNiCW9FTzo7nbF4XmYgQs0w9cR`

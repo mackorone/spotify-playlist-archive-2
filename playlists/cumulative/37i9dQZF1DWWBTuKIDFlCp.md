@@ -4,11 +4,12 @@
 
 > The new era of Hillman begins\. Listen to the music from A Different World.
 
-47 songs - 2 hr 27 min
+50 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Different World \(from the Netflix Series\)](https://open.spotify.com/track/1WyAfSf0oMZuxB31HBlnoB) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [A Different World \(from the Netflix Series\)](https://open.spotify.com/album/6eXLezqrd8vyh3pLYD1Wzo) | 1:37 | 2026-09-24 |  |
+| [All My Fault](https://open.spotify.com/track/5VO0nmOVvYpiKSvfonfUGQ) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [All My Fault](https://open.spotify.com/album/6BLqFgzvhLe3KCu9bdhqMX) | 2:37 | 2026-10-14 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4S7YMreltxQSetnI1yLfOP) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/album/2MSWQp2A9An2vg3N3V4m3c) | 3:33 | 2026-09-24 |  |
 | [Before I Let Go](https://open.spotify.com/track/6COsBTLkBs5HSkqt1Fdrr1) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [The Greatest Hits: Lifelines Volume 1](https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6) | 5:08 | 2026-09-24 |  |
 | [BIG FISH](https://open.spotify.com/track/6vwnKp2ibxc334ViI4PgF0) | [Neptune XXI](https://open.spotify.com/artist/0wb1GaLfuPuzxo0XJkYQWm) | [BIG FISH](https://open.spotify.com/album/7zWniD0EYQ4cgTZUOxTZfe) | 3:44 | 2026-09-24 |  |
@@ -33,10 +34,12 @@
 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-09-24 |  |
 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 | 2026-09-24 |  |
 | [ICE CREAM DOPE](https://open.spotify.com/track/51lc8eovD2szgzHPBGu6AK) | [Astral Trap](https://open.spotify.com/artist/0ex10uj10tNgfTQKqZpGJR), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN), [Cole train](https://open.spotify.com/artist/2dYxyONXWq6YZzqH8lS7AZ) | [ICE CREAM DOPE](https://open.spotify.com/album/4owIJcF1PULDiGsQpTdFaN) | 2:15 | 2026-09-24 |  |
+| [IN TIME](https://open.spotify.com/track/6O8z22NEtQqRqQ6g4f5kbM) | [brendn](https://open.spotify.com/artist/0wPBFxE7JsngiyyiEe4efj) | [IN TIME](https://open.spotify.com/album/02WavevhosIFxUHM8mNGwv) | 2:34 | 2026-10-14 |  |
 | [Is It a Crime](https://open.spotify.com/track/4MVKOQwX7eyLftNFAJrngh) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/0KtdtdR1gT1WD2CwqRjK5Z) | 3:01 | 2026-09-24 |  |
 | [Know That You Are Loved](https://open.spotify.com/track/174yp4XX5F3HGX82Lj2JBB) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 3:22 | 2026-09-24 |  |
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/1IU7sgXhQv4FRfRMGLtDWz) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/0fRpB9AaRjSXnBiHJN0mfB) | 3:25 | 2026-09-24 |  |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2026-09-24 |  |
+| [Love Language](https://open.spotify.com/track/5IZTNjZyBcap8Y5i5xqFfJ) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Love Language](https://open.spotify.com/album/6wqk6Mn8IxzRLe5XNoZLiB) | 3:11 | 2026-10-14 |  |
 | [Love Outloud](https://open.spotify.com/track/6elrnalBsP6shvaNtMHDhq) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/6ZlfFHCrBrmS3jMNuvkh7O) | 2:57 | 2026-09-24 |  |
 | [Material Girl](https://open.spotify.com/track/74sdy3IMeq9lC8FZidCV1E) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Material Girl](https://open.spotify.com/album/5pUrxpPXvpMZUdPO3QZ06H) | 3:08 | 2026-09-24 |  |
 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 | 2026-09-24 |  |

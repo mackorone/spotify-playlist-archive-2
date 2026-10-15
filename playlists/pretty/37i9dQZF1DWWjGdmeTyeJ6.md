@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Stevie Bill\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,548 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,911 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [catch me if you can](https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA) | [moonvine](https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF) | [catch me if you can](https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE) | 2:49 |
 | 100 | [hey fever](https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [hey fever](https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG) | 2:02 |
 
-Snapshot ID: `AAAAAIEhZ9HZjI2eVoYIsn8cZrhJT6Ds`
+Snapshot ID: `AAAAAMf8Xx27vBe1TVG5CR0oFypSLcV5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,806 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,824 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 100 | [Baadal](https://open.spotify.com/track/2rVbFEMTklg9usVUYL2xG5) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Baadal](https://open.spotify.com/album/6QcuBHjc2SUXPTYP6hwNRW) | 3:02 |
 | 101 | [Panchi](https://open.spotify.com/track/3GTmT1yfqxH4KMBm8fcMsP) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Panchi](https://open.spotify.com/album/4Zl7pFDmiWC37z2EBmmufI) | 3:32 |
 
-Snapshot ID: `AAAAAPq5hTZYvn6qD+gwp+a8xBpIoxHu`
+Snapshot ID: `AAAAAPzAceYGL4MGcqNeyPWew6jVj5zx`

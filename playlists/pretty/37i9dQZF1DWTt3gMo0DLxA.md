@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,755 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,651 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Irumudi Kattu \(From "Irumudi"\)](https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ananthu](https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Irumudi Kattu \(From "Irumudi"\)](https://open.spotify.com/album/7DAcRcrJvA4MwDsDNXeRDg) | 4:09 |
 | 50 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 
-Snapshot ID: `AAAAACYEQjuQGtcuIUa1TJbzSbwUNYYK`
+Snapshot ID: `AAAAAKH4qivR9HEAdRkY1Wd7cJdApsy0`

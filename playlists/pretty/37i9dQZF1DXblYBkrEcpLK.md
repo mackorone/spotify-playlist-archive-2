@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,978 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,976 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
 | 50 | [彼方](https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [彼方](https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ) | 5:29 |
 
-Snapshot ID: `AAAAAJQ2PAoeHY5F+VA9wtddWgyED6Hm`
+Snapshot ID: `AAAAACBykdgum4WjhZHblMAhUcHfFr8H`

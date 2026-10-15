@@ -1,12 +1,12 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Soul Wun",
-  "num_followers": 139204,
+  "num_followers": 139211,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQ9wu4gXT2rW2/0tQfUnkiv/MZ+",
+  "snapshot_id": "AAAAAM48U4JhVp1A9+LlassSJGy0JhJR",
   "tracks": [
     {
       "added_at": "2026-10-08 13:01:09",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Divine Feelings",
-      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Hello (triple j Like A Version)",
         "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 169613,
       "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
       "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Piss In The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "Bluffin' (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/6oHga26im49BALtZyiLDIL"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3dltnNdpRDtPMydcL8eMSR"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 181112,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Pursuit of Anything",
-        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Lucky, Forever",
-      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Swimming In Jeans",
-        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
-      },
-      "artists": [
-        {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Blind Lovin'",
-      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "HUMAN AGAIN",
         "url": "https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "Swimming In Jeans",
+        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Blind Lovin'",
+      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "CUT_it",
         "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "making out",
-        "url": "https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0"
-      },
-      "artists": [
-        {
-          "name": "2charm",
-          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
-        }
-      ],
-      "duration_ms": 208757,
-      "name": "making out",
-      "url": "https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "duration_ms": 208757,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "Something in the Water",
         "url": "https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 227221,
       "name": "Something in the Water - Single Version",
       "url": "https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
         }
       ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
       },
       "artists": [
         {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
         }
       ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
+      "duration_ms": 192855,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
       "artists": [
         {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 192855,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1171,6 +1171,22 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "FACEDOWN",
-        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "FACEDOWN",
-      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1255,22 +1271,6 @@
       "duration_ms": 164566,
       "name": "LEZ GO!",
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1359,6 +1359,46 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
+        "name": "Evian",
+        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 302322,
+      "name": "Evian",
+      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Pull Up (feat. Pino D\u2019Angi\u00f2 & Scrufizzer)",
+        "url": "https://open.spotify.com/album/1yVo8JFEoUIsOvzNlM5iUB"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 175690,
+      "name": "Pull Up - feat. Pino D\u2019Angi\u00f2 & Scrufizzer",
+      "url": "https://open.spotify.com/track/6XTQZwVaLM1hu2kvEPeRnZ"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
         "name": "The Only One (feat. Christine and the Queens)",
         "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
       },
@@ -1391,46 +1431,6 @@
       "duration_ms": 196665,
       "name": "The Start",
       "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Pull Up (feat. Pino D\u2019Angi\u00f2 & Scrufizzer)",
-        "url": "https://open.spotify.com/album/1yVo8JFEoUIsOvzNlM5iUB"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        },
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 175690,
-      "name": "Pull Up - feat. Pino D\u2019Angi\u00f2 & Scrufizzer",
-      "url": "https://open.spotify.com/track/6XTQZwVaLM1hu2kvEPeRnZ"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
-        "name": "Evian",
-        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 302322,
-      "name": "Evian",
-      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "I Need My Woman",
-        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 265451,
-      "name": "I Need My Woman",
-      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/32ESWuEYA0d8c74Xium24Z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "I Need My Woman",
+        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 265451,
+      "name": "I Need My Woman",
+      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Beautiful Noise In My Head",
-        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 211331,
-      "name": "Beautiful Noise In My Head",
-      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 290802,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Beautiful Noise In My Head",
+        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 211331,
+      "name": "Beautiful Noise In My Head",
+      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
     },
     {
       "added_at": "2026-10-08 13:01:09",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-10-08 13:01:09",
       "album": {
-        "name": "Just One",
-        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
-      },
-      "artists": [
-        {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Just One",
-      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
-    },
-    {
-      "added_at": "2026-10-08 13:01:09",
-      "album": {
         "name": "Love Balloon",
         "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 240906,
       "name": "Love Balloon",
       "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2026-10-08 13:01:09",
+      "album": {
+        "name": "Just One",
+        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Just One",
+      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
     }
   ],
   "unique_name": "Turn Up Aus",

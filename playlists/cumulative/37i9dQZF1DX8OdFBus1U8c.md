@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-564 songs - 1 day 4 hr 59 min
+565 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 | 2023-09-12 |
 | [YA YA](https://open.spotify.com/track/3fj0T4QIHPgipVn4tAQYMe) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [5YL](https://open.spotify.com/album/3bKbUO5c7svWsHqOOeS2TN) | 2:55 | 2026-09-09 |  |
 | [YEDA YUNG \(Malayalam Remix\)](https://open.spotify.com/track/5WVtnkAexBxsRGzbAx7nml) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG \(Malayalam Remix\)](https://open.spotify.com/album/3Uvat15PoPpq7VaNKDnxgI) | 1:37 | 2025-08-13 | 2025-11-21 |
+| [YEH VAADA RAHA](https://open.spotify.com/track/5AzTYLlqqPCGmHmn53uKxC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [YEH VAADA RAHA](https://open.spotify.com/album/3xpWDzzBjR6X84YZ4R6YP6) | 2:31 | 2026-10-15 |  |
 | [yenthina \(from "nilapad"\)](https://open.spotify.com/track/7rtpgV74gMPXM2ancRANyo) | [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [yenthina \(from "nilapad"\)](https://open.spotify.com/album/7c6ZXL1JJbJEMzjCSWTV4V) | 1:58 | 2025-04-11 | 2025-05-24 |
 | [ZILL](https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Shafi Kollam](https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [ZILL](https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM) | 4:07 | 2026-02-26 |  |
 | [Zone](https://open.spotify.com/track/66WHMvBjGEOu72hMQ8rXA8) | [SWAT](https://open.spotify.com/artist/69OLk01c5cxpeLmuAiMRL1), [sleepy](https://open.spotify.com/artist/4lcdVsKp56wTjk4DCl1Iev) | [Zone](https://open.spotify.com/album/6SDpQiS8uKzTHbw97Z4kx1) | 1:31 | 2023-11-10 | 2024-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Vacra x La Rvfleuze au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435,465 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,435,304 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [L'humain](https://open.spotify.com/track/4TK7vNav592pavcStbeTsD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [L'humain](https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG) | 2:56 |
 | 40 | [FENG SHUI](https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [FENG SHUI](https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv) | 2:40 |
 
-Snapshot ID: `AAAAAOcNV9ZruzEvFFfcCEGBXMf57xfn`
+Snapshot ID: `AAAAAFfD2y60tDqdED49KDNg4+W4Eaau`

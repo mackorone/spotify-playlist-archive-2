@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Year Of The Gentleman",
+        "url": "https://open.spotify.com/album/6XIpXPC8eGUGsBc7XFJ539"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/2aisU44JcXkfSRJ7dLa02c"
+    },
+    {
+      "album": {
         "name": "Year Of The Gentleman (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 198294,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV"

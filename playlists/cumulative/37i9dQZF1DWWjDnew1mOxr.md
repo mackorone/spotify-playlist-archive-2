@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Chloe Slater
 
-504 songs - 1 day 4 hr 31 min
+505 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Antarctica](https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Antarctica](https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG) | 3:14 | 2024-11-15 | 2025-03-30 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-02-07 | 2025-03-24 |
 | [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 | 2024-10-06 | 2026-07-26 |
+| [At Any Cost](https://open.spotify.com/track/7rMZiAA0QAuSXbYlX7CKFn) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [At Any Cost](https://open.spotify.com/album/505KDNtgQ2l9lZ0g1TmFGA) | 3:31 | 2026-10-08 |  |
 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 | 2023-01-10 | 2023-02-24 |
 | [Baby Blue](https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Baby Blue](https://open.spotify.com/album/2oq55O8NF6o5FJoi1AWx6U) | 4:10 | 2024-07-12 | 2024-10-04 |
 | [Back to the Light](https://open.spotify.com/track/0zUqYUBMGJyaOs5PN5XDeB) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/6WCrKVgt2MEKgiW0mvURF8) | 3:06 | 2023-09-19 | 2023-10-15 |
@@ -479,7 +480,7 @@
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
 | [Waist 36 Leg 32](https://open.spotify.com/track/3Sm6Ytyh4Rd1bdHz03pxHB) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Waist 36 Leg 32](https://open.spotify.com/album/5YtUriXwFzwLrgB22mu82w) | 3:50 | 2026-10-08 |  |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 | 2024-01-08 |
-| [Wallow](https://open.spotify.com/track/6OFv5yKa6PTY44tSvvKePY) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Wallow](https://open.spotify.com/album/2gEnznMJS3NsZHxrlf55Rb) | 3:09 | 2026-08-28 |  |
+| [Wallow](https://open.spotify.com/track/6OFv5yKa6PTY44tSvvKePY) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Wallow](https://open.spotify.com/album/2gEnznMJS3NsZHxrlf55Rb) | 3:09 | 2026-08-28 | 2026-10-15 |
 | [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 | 2026-08-20 | 2026-10-05 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2023-01-10 | 2024-10-07 |
 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 | 2026-04-13 | 2026-04-25 |

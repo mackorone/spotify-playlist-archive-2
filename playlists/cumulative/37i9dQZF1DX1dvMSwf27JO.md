@@ -4,7 +4,7 @@
 
 > music to get fly to ft\. Erykah Badu
 
-688 songs - 1 day 13 hr 3 min
+689 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BIG FLIRT](https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ) | 2:09 | 2022-07-11 | 2022-12-17 |
 | [big flirt](https://open.spotify.com/track/355eZ7ojdzc0ZHc7LeiwE8) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/7MzgnfEIBNiLkOVU8kHhHw) | 2:09 | 2023-03-03 | 2023-07-31 |
 | [big flirt](https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:09 | 2023-08-14 | 2023-09-06 |
-| [Big Steppa](https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB) | [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Big Steppa](https://open.spotify.com/album/6KkO7DMw7kEmjD4sxi5Dyv) | 3:25 | 2023-05-19 |  |
+| [Big Steppa](https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB) | [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Big Steppa](https://open.spotify.com/album/6KkO7DMw7kEmjD4sxi5Dyv) | 3:25 | 2023-05-19 | 2026-10-15 |
 | [Big Subwoofer \(feat\. Snoop Dogg, Ice Cube, E\-40 & Too $hort \) \- Single Version](https://open.spotify.com/track/5GPm7PsMQwceQvfYlGXcCt) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Big Subwoofer](https://open.spotify.com/album/4eY1kgFWuWZ1DOhkqF9IHt) | 4:01 | 2023-05-26 | 2023-09-06 |
 | [Big World \(feat\. KIRBY\)](https://open.spotify.com/track/2MiwKPx7Cp35PsXVEhKNSQ) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/61Z4oJ5YbH1PCXjXWzCkIK) | 2:40 | 2024-02-16 | 2024-05-14 |
 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 | 2023-09-05 |  |
@@ -531,6 +531,7 @@
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2021-08-05 | 2022-12-17 |
 | [Si c'était le dernier](https://open.spotify.com/track/5wYIOyOaWKLkx3Pde6qstp) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [S.O.S.](https://open.spotify.com/album/6xI2IX2cygCOEmqrLXIVVT) | 10:51 | 2023-09-07 | 2023-10-05 |
 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 | 2023-10-04 |  |
+| [Sinner](https://open.spotify.com/track/2qOki9HRTDPFM0IA7o30zV) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Hirsh](https://open.spotify.com/artist/0ckArTsmiRmEIOB8GwvKyu), [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS), [Nick Kosma](https://open.spotify.com/artist/109htcq4m4PNL7vmZNRUt6), [RaneRaps](https://open.spotify.com/artist/2EtW8G5t9dtvsKs5PZLbdo) | [Banba](https://open.spotify.com/album/3tMOKOhKYLBPEsXmj373rG) | 4:31 | 2024-08-23 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-05-02 | 2024-05-07 |
 | [Sittin' In My Car](https://open.spotify.com/track/1nsbj6cQQmfp9x7Mlmtphl) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [Behind Bars](https://open.spotify.com/album/5NRnE7jLiB8MC1xZbDFwcg) | 3:46 | 2022-09-13 | 2022-10-08 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,643 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,571 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 4 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 |
 | 5 | [Drive Twice](https://open.spotify.com/track/4bWvzorgYJRzCYu2Xu2Pfe) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Drive Twice](https://open.spotify.com/album/0NKXIFQZPUYLAkvfMZh57i) | 2:32 |
 | 6 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
-| 7 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
-| 8 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 |
+| 7 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 |
+| 8 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 9 | [Isabelle Fly](https://open.spotify.com/track/4jrlNVzdotW3tpcaVqVnuv) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Isabelle Fly](https://open.spotify.com/album/5uE4ERkkeXvR051RYx5L22) | 3:29 |
 | 10 | [Outnumbered](https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:05 |
 | 11 | [Heavy Foot](https://open.spotify.com/track/0p3lvrvRL6VFgfdrEPyVPG) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 2:25 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 70 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 71 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
 | 72 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
-| 73 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
-| 74 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
-| 75 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
-| 76 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
+| 73 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
+| 74 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
+| 75 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
+| 76 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
 | 77 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
 | 78 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 79 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 94 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
 | 95 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
 | 96 | [Wild Spirit](https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wild Spirit](https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf) | 2:59 |
-| 97 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
-| 98 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 |
+| 97 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 |
+| 98 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
 | 99 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 100 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
 
-Snapshot ID: `AAAAAJGKtGLkhKKKKvbpb03Z1Acm8gha`
+Snapshot ID: `AAAAAC+Ubv4TwESB6oFxaKlpwLrzYljS`

@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 170411,
       "name": "After",
       "url": "https://open.spotify.com/track/1lT6k1KNFqeYeWHNgl4VHI"
@@ -14176,7 +14176,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -17250,7 +17250,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 158842,
       "name": "Mil Dramas",
       "url": "https://open.spotify.com/track/10rE29IuOx69NL0pzBZjhH"
@@ -19840,6 +19840,32 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
       "album": {
@@ -28172,7 +28198,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"
@@ -31494,7 +31520,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 115210,
       "name": "You Are Re Hermosa",
       "url": "https://open.spotify.com/track/7h276SDXbZEnCWm52lAJZ4"

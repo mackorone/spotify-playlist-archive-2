@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Txmmyily
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,405 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,440 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Bahubali](https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Bahubali](https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b) | 2:24 |
 | 80 | [One Life](https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:38 |
 
-Snapshot ID: `AAAAAAX/Lj7SMqcv+7swXsZVlnde5XB/`
+Snapshot ID: `AAAAAJOK57CZ2eiZRE+liO2AsAG89aPf`

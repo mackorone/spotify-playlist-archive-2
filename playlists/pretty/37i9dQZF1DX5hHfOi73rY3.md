@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,941 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,969 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 22 | [Young World](https://open.spotify.com/track/6TJB8afxUyE6AXdWtmhPng) | [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Young World](https://open.spotify.com/album/09zDHAHu0oYlk5gQoOy1um) | 2:57 |
 | 23 | [Berlin](https://open.spotify.com/track/7dTWh93yEmEmGbiN0FqIOv) | [DJ CARPET](https://open.spotify.com/artist/63qytgXlKsbQt7rU0h63mU) | [Berlin](https://open.spotify.com/album/01bhKjJguo4PcOErKX19Ko) | 3:06 |
 | 24 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
-| 25 | [NO CAP](https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [NO CAP](https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe) | 3:53 |
-| 26 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 25 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 26 | [NO CAP](https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [NO CAP](https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe) | 3:53 |
 | 27 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 28 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |
 | 29 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 35 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 36 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
 | 37 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
-| 38 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
-| 39 | [Stunner](https://open.spotify.com/track/6RmHESttla4I4g4vr0NLkQ) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Stunner](https://open.spotify.com/album/2N9S0Hd0AzQSdRxlLhS1oP) | 2:58 |
+| 38 | [Stunner](https://open.spotify.com/track/6RmHESttla4I4g4vr0NLkQ) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Stunner](https://open.spotify.com/album/2N9S0Hd0AzQSdRxlLhS1oP) | 2:58 |
+| 39 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
 | 40 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
 | 41 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 42 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 48 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
 | 49 | [Watch Out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch Out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 |
 
-Snapshot ID: `AAAAAHM2m071dW46w3q5Kv2agWfPH/hr`
+Snapshot ID: `AAAAAKtdxV4OxA/VWB1MkNklfm+eKSpo`

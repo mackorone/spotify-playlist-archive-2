@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,428 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,429 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 52 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
 | 53 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 54 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 |
-| 55 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
-| 56 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 55 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 56 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
 | 57 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
 | 58 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
 | 59 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 71 | [Fuck ditt liv](https://open.spotify.com/track/53goqbb9AgYdeUgH9y60h1) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:43 |
 | 72 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 |
 | 73 | [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 |
-| 74 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
-| 75 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
+| 74 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
+| 75 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
 | 76 | [KNOCKED DOWN](https://open.spotify.com/track/2fmFzhUmp5uMDbynpXWRpQ) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [KNOCKED DOWN](https://open.spotify.com/album/5qNhnAH6Tg7n2BEA8EPGEt) | 3:02 |
 | 77 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
 | 78 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 89 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
 | 90 | [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 |
 
-Snapshot ID: `AAAAAITqBfwqflttYbEGJo6o9gmeMiKk`
+Snapshot ID: `AAAAALi8F+Bt1N9QSLbBhyA9C1/4RbgW`

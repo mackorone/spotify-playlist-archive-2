@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,034 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,048 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 46 | [Pile of Bones](https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Deep in the Trouble](https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me) | 5:25 |
 | 47 | [Make It Count](https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Make It Count / Hillbilly Happy](https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw) | 4:00 |
 | 48 | [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 |
-| 49 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
-| 50 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
-| 51 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
-| 52 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 49 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
+| 50 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
+| 51 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 52 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
 | 53 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
 | 54 | [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 |
 | 55 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 59 | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Jon Harvey](https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye) | 3:40 |
 | 60 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
 | 61 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
-| 62 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |
-| 63 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
+| 62 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
+| 63 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |
 | 64 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
-| 65 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
-| 66 | [Goin' Back Where I Came From](https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Summer Skin](https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2) | 2:47 |
+| 65 | [Goin' Back Where I Came From](https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Summer Skin](https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2) | 2:47 |
+| 66 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
 | 67 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |
 | 68 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
 | 69 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 74 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 |
 | 75 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 |
 
-Snapshot ID: `AAAAAOhWjJGQunJDAvrvLb0N3fJZQMG0`
+Snapshot ID: `AAAAANrKBdic49n7noo/RfvBkdMb+hvo`

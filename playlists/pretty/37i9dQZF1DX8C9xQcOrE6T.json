@@ -1,29 +1,13 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Toy Story. ",
-  "num_followers": 5854730,
+  "num_followers": 5854883,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3qfN51kKsM3NeTHJTR8nOyoupu",
+  "snapshot_id": "AAAAAKjA9O6eAdbdmm68XLHh96x0S6GM",
   "tracks": [
-    {
-      "added_at": "2026-07-13 14:00:44",
-      "album": {
-        "name": "Toy Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
-    },
     {
       "added_at": "2026-10-07 07:00:30",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 163893,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+    },
+    {
+      "added_at": "2026-07-13 14:00:44",
+      "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
     },
     {
       "added_at": "2026-07-13 14:00:44",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2026-10-01 00:00:00",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "The Citizens of Halloween",
-          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
-    },
-    {
       "added_at": "2026-07-13 14:00:44",
       "album": {
         "name": "The Lion King: Special Edition",
@@ -501,28 +485,20 @@
       "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
     },
     {
-      "added_at": "2026-07-13 14:00:44",
+      "added_at": "2026-10-14 07:00:35",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
       "artists": [
         {
-          "name": "Gael Garcia Bernal",
-          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
-        },
-        {
-          "name": "Gabriella Flores",
-          "url": "https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS"
-        },
-        {
-          "name": "Libertad Garc\u00eda Fonzi",
-          "url": "https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA"
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
         }
       ],
-      "duration_ms": 69813,
-      "name": "Remember Me (Lullaby)",
-      "url": "https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne"
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
     },
     {
       "added_at": "2026-07-13 14:00:44",
@@ -545,22 +521,6 @@
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
     },
     {
-      "added_at": "2026-10-01 00:00:00",
-      "album": {
-        "name": "A.N.T. Farm",
-        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
-      },
-      "artists": [
-        {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
-    },
-    {
       "added_at": "2026-07-13 14:00:44",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -579,22 +539,6 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
-    },
-    {
-      "added_at": "2026-07-13 14:00:44",
-      "album": {
-        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
-      },
-      "artists": [
-        {
-          "name": "Anika Noni Rose",
-          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
     },
     {
       "added_at": "2026-07-13 14:00:44",
@@ -719,6 +663,22 @@
       "duration_ms": 169560,
       "name": "Can I Get A Chee Hoo?",
       "url": "https://open.spotify.com/track/6MA4kUYXYehYuelFsBIRTM"
+    },
+    {
+      "added_at": "2026-07-13 14:00:44",
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
     },
     {
       "added_at": "2026-07-13 14:00:44",
@@ -1193,38 +1153,6 @@
       "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
     },
     {
-      "added_at": "2026-10-01 00:00:00",
-      "album": {
-        "name": "Descendants (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Cameron Boyce",
-          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
-        },
-        {
-          "name": "Booboo Stewart",
-          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Rotten to the Core",
-      "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
-    },
-    {
       "added_at": "2026-07-13 14:00:44",
       "album": {
         "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
@@ -1519,22 +1447,6 @@
       "duration_ms": 249040,
       "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
-    },
-    {
-      "added_at": "2026-10-01 00:00:00",
-      "album": {
-        "name": "The Haunted Mansion",
-        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
-      },
-      "artists": [
-        {
-          "name": "The Happy Haunts",
-          "url": "https://open.spotify.com/artist/7wP6bEeJj1bXfaTrM53oLO"
-        }
-      ],
-      "duration_ms": 459400,
-      "name": "999 Happy Haunts",
-      "url": "https://open.spotify.com/track/7f6m6vfymOiE3dpmbmBgF6"
     },
     {
       "added_at": "2026-07-13 14:00:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141654,
+  "num_followers": 141659,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABHEV7id4gVaYWCMtF5Oppw",
+  "snapshot_id": "as10gAAAAACw8WsnVcoCXbcbgAVANuwU",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Ran Red",
         "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
     },
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doesn't He (Deserve It All)",
-        "url": "https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y"
+        "name": "Passion: Here For You (Live)",
+        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
       "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 212957,
-      "name": "Doesn't He (Deserve It All)",
-      "url": "https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v"
+      "duration_ms": 274814,
+      "name": "Lord, I Need You - Live",
+      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Here For You (Live)",
-        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
+        "name": "Doesn't He (Deserve It All)",
+        "url": "https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y"
       },
       "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 274814,
-      "name": "Lord, I Need You - Live",
-      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
+      "duration_ms": 212957,
+      "name": "Doesn't He (Deserve It All)",
+      "url": "https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v"
     },
     {
       "added_at": null,
@@ -678,15 +678,11 @@
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
         }
       ],
-      "duration_ms": 450461,
-      "name": "This Is Our God / Obsession - Medley",
-      "url": "https://open.spotify.com/track/21VV721AM5T1qoYbZyJf3i"
+      "duration_ms": 272000,
+      "name": "We Fall Down / Agnus Dei - Medley",
+      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
     },
     {
       "added_at": null,
@@ -899,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 514039,
-      "name": "Amazing Grace (My Chains Are Gone) - Live",
-      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: God Of This City (Live)",
         "url": "https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa"
       },
@@ -939,8 +915,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 514039,
+      "name": "Amazing Grace (My Chains Are Gone) - Live",
+      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Help My Unbelief",
+        "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
       },
       "artists": [
         {
@@ -948,9 +944,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 218747,
-      "name": "God's Great Dance Floor",
-      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
+      "duration_ms": 206799,
+      "name": "Help My Unbelief - Acoustic",
+      "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
     }
   ],
   "unique_name": "This Is Chris Tomlin",

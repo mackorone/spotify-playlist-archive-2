@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,416 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,241 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 17 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 18 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
 | 19 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
-| 20 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
-| 21 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
+| 20 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
+| 21 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
 | 22 | [How You Like Me Now](https://open.spotify.com/track/0kHwTHf8ye0mSd66pwcrEN) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/7DjSNptx7IUVoWuSeN4rxA) | 3:37 |
 | 23 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 24 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 74 | [Here Comes Your Man](https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 3:21 |
 | 75 | [My Number](https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad) | 4:00 |
 
-Snapshot ID: `AAAAAEZu/2vBY3hhSPqRpT+6MJ4AhFn/`
+Snapshot ID: `AAAAANfs/N8CjDK/Zh4orogyBBoTgDL7`

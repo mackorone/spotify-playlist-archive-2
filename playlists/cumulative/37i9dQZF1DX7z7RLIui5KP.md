@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Wendy Kimani
 
-347 songs - 20 hr 11 min
+348 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Time Flies \(feat\. Sauti Sol\)](https://open.spotify.com/track/1taXjBXUnhPCPunwB6xOgp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:44 | 2025-11-21 | 2025-11-28 |
 | [Top Dollar](https://open.spotify.com/track/0LbJnftqpmFdQoovMaRSUb) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Top Dollar](https://open.spotify.com/album/4Q0EDop5sO6JqWfWrjLD7C) | 3:23 | 2026-07-09 |  |
 | [Top Shotta](https://open.spotify.com/track/6Y3sJ0YFGYq793RrpmxqAn) | [Collo Blue](https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3) | [Top Shotta](https://open.spotify.com/album/3Al5YNLwEWsuvJB5kEQ2cv) | 2:40 | 2026-07-09 |  |
+| [Track 6](https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Flight 420](https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2) | 0:00 | 2026-10-01 |  |
 | [Trouble](https://open.spotify.com/track/58nQMEnfkarQyYdUVvS66b) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Watiri's Trouble](https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i) | 3:00 | 2026-07-25 | 2026-07-31 |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 | 2026-05-01 |
 | [TRUST ISSUES \(feat\. Bensoul\)](https://open.spotify.com/track/19fZrTAJOjB4pVGk86fIrB) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [THE MOTIONS](https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq) | 4:00 | 2026-07-15 | 2026-07-26 |

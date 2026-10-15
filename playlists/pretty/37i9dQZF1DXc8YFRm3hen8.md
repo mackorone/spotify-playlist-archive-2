@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,326 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,353 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
 | 2 | [Tarot](https://open.spotify.com/track/3lSXL4LbtL6Lz60z1weBb1) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Tarot](https://open.spotify.com/album/7dLR6cvf7QYXK7H0PHkzlB) | 4:44 |
-| 3 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
+| 3 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
 | 4 | [Túnel de la Vida](https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Túnel de la Vida](https://open.spotify.com/album/3WhpeIjxgEXVHzK3HHCVWP) | 4:00 |
 | 5 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 6 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 7 | [Todo Lo Que Vivimos](https://open.spotify.com/track/6biNr2utpGhugZsSApcldB) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin La Piel](https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP) | 3:31 |
-| 8 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
+| 8 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
 | 9 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 10 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 |
 | 11 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 48 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
 | 49 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 50 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
-| 51 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
+| 51 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 52 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
-| 53 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
+| 53 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 54 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 55 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 56 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 79 | [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 |
 | 80 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 |
 
-Snapshot ID: `AAAAAMVToSXHKWOtK/77cBykEOzRDm3T`
+Snapshot ID: `AAAAABvN52Bob8/nHqh/U3UnLT4NCz2k`

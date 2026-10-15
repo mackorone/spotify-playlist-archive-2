@@ -4,11 +4,11 @@
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 57 min
+85 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["From Now On We Are Enemies"](https://open.spotify.com/track/2hC4LPebn0xctVGsVPOwJX) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:36 | 2024-05-02 | 2024-06-18 |
+| ["From Now On We Are Enemies"](https://open.spotify.com/track/2hC4LPebn0xctVGsVPOwJX) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:36 | 2024-05-02 |  |
 | ["The Take Over, The Breaks Over"](https://open.spotify.com/track/3rG8ZkmKHb4Ms6CsSzEITv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:33 | 2023-12-13 |  |
 | [27](https://open.spotify.com/track/6gRgweWPiX1ii33coNlTt8) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:12 | 2024-03-26 | 2026-08-27 |
 | [7 Minutes In Heaven \(Atavan Halen\)](https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:02 | 2023-12-13 |  |
@@ -86,8 +86,9 @@
 | [Thriller](https://open.spotify.com/track/07kBp5VuebubsozpQd3nyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:29 | 2026-08-26 | 2026-08-27 |
 | [Twin Skeleton's \(Hotel In NYC\)](https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:40 | 2024-06-19 | 2024-06-21 |
 | [Uma Thurman](https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:31 | 2023-12-13 |  |
-| [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-12-13 |  |
-| [What a Time To Be Alive](https://open.spotify.com/track/6eyaiauoVhwiUuZjTcayXv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:42 | 2023-12-13 |  |
+| [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-12-13 | 2026-10-15 |
+| [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2026-10-15 |  |
+| [What a Time To Be Alive](https://open.spotify.com/track/6eyaiauoVhwiUuZjTcayXv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:42 | 2023-12-13 | 2026-10-15 |
 | [Where Did The Party Go](https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:03 | 2023-12-13 | 2025-04-25 |
 | [Where Did The Party Go](https://open.spotify.com/track/66324Jt0mZdXaM7f8uUitE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 4:03 | 2025-04-25 |  |
 | [Wilson \(Expensive Mistakes\)](https://open.spotify.com/track/2W6kVW3UZ3hwr4qbfCDp6B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:36 | 2023-12-13 | 2026-08-27 |

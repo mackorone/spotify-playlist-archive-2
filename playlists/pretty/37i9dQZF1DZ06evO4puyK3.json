@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167107,
+  "num_followers": 167110,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAyY5eOKJWvOdKjUXJk+X+N",
+  "snapshot_id": "as10gAAAAAACV6uLQ9SZXbNI8QxzBx83",
   "tracks": [
     {
       "added_at": null,
@@ -895,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSAICO",
-        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Murilo e LT",
-          "url": "https://open.spotify.com/artist/4ArCQN20tAPY2ApGtOHL9z"
-        }
-      ],
-      "duration_ms": 205750,
-      "name": "Chama Amor",
-      "url": "https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 182182,
       "name": "At\u00e9 J\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Murilo e LT",
+          "url": "https://open.spotify.com/artist/4ArCQN20tAPY2ApGtOHL9z"
+        }
+      ],
+      "duration_ms": 205750,
+      "name": "Chama Amor",
+      "url": "https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk"
     },
     {
       "added_at": null,

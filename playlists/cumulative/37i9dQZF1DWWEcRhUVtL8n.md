@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,551 songs - 5 day 16 hr 6 min
+2,552 songs - 5 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,7 +708,7 @@
 | [Eat It All Up](https://open.spotify.com/track/4qBsljPLydFTDKdLAfXjUa) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Eat It All Up](https://open.spotify.com/album/1quBPc64lRxo3RfWkmzCSE) | 2:37 | 2021-06-03 | 2021-10-24 |
 | [eat the pavement](https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [eat the pavement](https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx) | 3:44 | 2026-07-13 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2025-06-28 |
-| [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 | 2026-07-06 |  |
+| [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 | 2026-07-06 | 2026-10-15 |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 | 2025-12-12 | 2026-02-07 |
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2021-02-10 | 2021-10-12 |
@@ -2177,6 +2177,7 @@
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-14 | 2022-04-21 |
 | [supernova](https://open.spotify.com/track/2O1CzgSyDdHrBK8x6RERtr) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [too pretty for sunshine](https://open.spotify.com/album/5fMMPZt63T8NkpPS0CrpFH) | 3:12 | 2020-10-13\* | 2020-11-10 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2022-01-14 | 2022-07-26 |
+| [superstar](https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [my bad](https://open.spotify.com/album/0WTwR9yK3wgqxRAybdNlpE) | 2:59 | 2026-10-09 |  |
 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 | 2021-03-30 | 2022-04-16 |
 | [Surprise Me](https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Surprise Me](https://open.spotify.com/album/50mjO7QfQFrCAlD0Ot4be0) | 2:51 | 2022-04-15 | 2022-04-17 |
 | [Surreal](https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/0OiP7DFcv3L9ERkVz4HyeF) | 3:06 | 2020-10-13\* | 2020-10-16 |

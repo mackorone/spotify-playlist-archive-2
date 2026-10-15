@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,000 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,019 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [it's an art](https://open.spotify.com/track/4qy9er4izbT08F1gmps3lJ) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [it's an art](https://open.spotify.com/album/0IIiOoVyBgAFqwmjJ6lhIC) | 3:20 |
 | 100 | [Homecoming](https://open.spotify.com/track/4AaKQPE8FGiFx6oJbRLeos) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Homecoming](https://open.spotify.com/album/1S1zGSiS0XAXTdZ9BfYbVW) | 4:21 |
 
-Snapshot ID: `AAAAAMh20LRBjxD9w10XURPTPCNN+WPM`
+Snapshot ID: `AAAAAO7DZSjQZJZw0W0RL1DWOFdpaZ7u`

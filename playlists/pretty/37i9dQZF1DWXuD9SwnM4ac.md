@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,276 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,275 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
 | 100 | [subaru](https://open.spotify.com/track/7xM2ekDz5RZSqIm4U4AbFH) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [subaru](https://open.spotify.com/album/4zBhtAgoSI6bjksJvF1RSG) | 2:22 |
 
-Snapshot ID: `AAAAAERr1OP8xsaTITuZjoNKA13Er4Fo`
+Snapshot ID: `AAAAAIquyd35dxpfitHsJooa3DRWFrUO`

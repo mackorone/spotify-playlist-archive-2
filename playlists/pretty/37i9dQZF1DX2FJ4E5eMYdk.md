@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,254 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,263 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 6 | [Walk Like a Motherfucker](https://open.spotify.com/track/7n95VDdVQgVOg4U80TlSTI) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:05 |
 | 7 | [Sunshine Kisses](https://open.spotify.com/track/2M98LYO5rEMZg0xr4eFfPb) | [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Don't Call Me Baby](https://open.spotify.com/album/1MWyBGAfYok6QLMrotjJg6) | 4:00 |
 | 8 | [Take It As It Is](https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Take It As It Is](https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3) | 4:49 |
-| 9 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
-| 10 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
+| 9 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
+| 10 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 11 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
 | 12 | [Stoned and Starving](https://open.spotify.com/track/2YpKV2BEmWBLIGEHBXrv0N) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/6NpTqYfk9dZfMbSbaHYNtP) | 5:11 |
 | 13 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 37 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 38 | [It's About Being Free Really](https://open.spotify.com/track/0w0Lpg4kzE558vIYuuJAqc) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Fire Doesn't Grow On Trees](https://open.spotify.com/album/3Fkh5eKM6giKSamqmJy61h) | 3:29 |
 | 39 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
-| 40 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
-| 41 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
+| 40 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
+| 41 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
 | 42 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
 | 43 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
 | 44 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Our Love Will Still Be There](https://open.spotify.com/track/1wJDuuHd4t1xfb2vdOxSsl) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Lagniappe Session](https://open.spotify.com/album/4riFbIzAuXOwH3s6FzstTB) | 3:07 |
 | 60 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
 
-Snapshot ID: `AAAAAKraMrrohKdKF2OnxdlpXYInC1NU`
+Snapshot ID: `AAAAAAbQJ2+zk+vDuTbjKqtidZEgBJ46`

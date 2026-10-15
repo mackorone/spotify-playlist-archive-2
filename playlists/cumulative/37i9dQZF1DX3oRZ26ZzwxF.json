@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 152727,
       "name": "FAUT PAS TOUCHER",
       "url": "https://open.spotify.com/track/0I9MLtFI9xuo7w1qXWpOD1"
@@ -3632,6 +3632,24 @@
       "duration_ms": 139647,
       "name": "Freddy Assogba",
       "url": "https://open.spotify.com/track/6yWXntNCC2X8LKDdEmUMdk"
+    },
+    {
+      "album": {
+        "name": "freestyle baddies 1: Jeep rose bonbon",
+        "url": "https://open.spotify.com/album/39oG1zta6zE6rU4zNgLidM"
+      },
+      "artists": [
+        {
+          "name": "DRE-A",
+          "url": "https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105838,
+      "name": "freestyle baddies 1: Jeep rose bonbon",
+      "url": "https://open.spotify.com/track/5Jd0oYxwk9CMI9JqP45qfo"
     },
     {
       "album": {

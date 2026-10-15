@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,482 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,443 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 41 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
 | 42 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
 | 43 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
-| 44 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
-| 45 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 44 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 45 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
 | 46 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 47 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 48 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 58 | [The Safety Dance](https://open.spotify.com/track/5O4NFbDqJ8SOfbjnIhdPDt) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Greatest](https://open.spotify.com/album/0qj6LhMLgU1ferLbZ8Rbnw) | 2:44 |
 | 59 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 60 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
-| 61 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 62 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 |
+| 61 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 |
+| 62 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 63 | [Lola Montez](https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:27 |
 | 64 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 |
 | 65 | [Temple](https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 4:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 |
 | 70 | [Mountain Song](https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:02 |
 
-Snapshot ID: `AAAAAN1x/UNGOfhCu3mPyvgEAjchuKrp`
+Snapshot ID: `AAAAAD/Q8cV4QLIC9BJknEKa/fOAzkD3`

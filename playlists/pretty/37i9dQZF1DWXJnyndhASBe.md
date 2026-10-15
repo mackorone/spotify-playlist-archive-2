@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,006 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,009 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Mini Man](https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [Zwolnij?](https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y) | 2:28 |
 | 50 | [Grand Soir](https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV) | 2:13 |
 
-Snapshot ID: `AAAAAFHJQZJ/oh9NnLAX7CZqY/4R32D2`
+Snapshot ID: `AAAAAF2hQMFmkmg2/eqrWRQvqdn12caF`

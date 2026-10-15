@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: selines
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,753 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,755 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 64 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 65 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
 | 66 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 |
-| 67 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
-| 68 | [Por Ahorita](https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:24 |
+| 67 | [Por Ahorita](https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:24 |
+| 68 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 | 69 | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 |
 | 70 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 71 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 84 | [Luces de bengala](https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Luces de bengala](https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h) | 2:45 |
 | 85 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
 | 86 | [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 |
-| 87 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 |
-| 88 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 |
+| 87 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 |
+| 88 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 |
 | 89 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
 | 90 | [Fases](https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Fases](https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp) | 3:45 |
 | 91 | [Al Pie del Volcán](https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP) | [Yo y las Bestias](https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP) | [Al Pie del Volcán](https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr) | 4:05 |
-| 92 | [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 |
-| 93 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |
+| 92 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |
+| 93 | [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 |
 | 94 | [Primer Amor](https://open.spotify.com/track/21lTm9gdjjVAo09z44wb42) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Primer Amor](https://open.spotify.com/album/25JHS1EdTioNloWuFVe0iu) | 3:34 |
 | 95 | [Wild One](https://open.spotify.com/track/520rPNF7A4QqJctaPhzLBb) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 4:16 |
-| 96 | [Película](https://open.spotify.com/track/3Nde02lABJ4GmP3xFM2hwG) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Película](https://open.spotify.com/album/14aRXGJzyAV3zwpNcK3mQz) | 3:11 |
-| 97 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
-| 98 | [Disfruto](https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:04 |
+| 96 | [Disfruto](https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:04 |
+| 97 | [Película](https://open.spotify.com/track/3Nde02lABJ4GmP3xFM2hwG) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Película](https://open.spotify.com/album/14aRXGJzyAV3zwpNcK3mQz) | 3:11 |
+| 98 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
 | 99 | [Añil](https://open.spotify.com/track/3LgoURGK8bJ7J3YfXe5B7r) | [Víctor Herrero](https://open.spotify.com/artist/5EiRWJNynetsgkuYSXjANa) | [Hermana](https://open.spotify.com/album/1QnWoRtzW3g6Wr7JLc8Tvp) | 5:54 |
 | 100 | [Me Hubieras Dicho](https://open.spotify.com/track/6g15x479WFxdsM4bSXfLe8) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [Me Hubieras Dicho](https://open.spotify.com/album/4VJjJeu3vUU2N7Uq333dPt) | 2:38 |
 
-Snapshot ID: `AAAAAElwSJuS3jLHvSV21JkMv29r6H6x`
+Snapshot ID: `AAAAAHhZmyJBOSojjHZ9Y1lUx7+GaBpq`

@@ -2,9 +2,9 @@
 
 ### [Banda Romántica](https://open.spotify.com/playlist/37i9dQZF1DX1S3aM8sZo63)
 
-> Así como lo pediste, ponte cursi con las canciones más románticas\. Diego Herrera & Pancho Barraza en portada 📸
+> Así como lo pediste, ponte cursi con las canciones más románticas\. Plan de Escape en portada 📸
 
-328 songs - 17 hr 34 min
+329 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cada Vez Mas](https://open.spotify.com/track/0SDGUNzObl99OPmlwRROYl) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/4YdGwD0VaJOr2tLYnxWvQ9) | 3:14 | 2021-12-27 | 2025-12-07 |
 | [Cada Vez Mas](https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 3:14 | 2022-05-06 | 2022-11-13 |
 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH) | 4:10 | 2024-10-04 | 2025-11-15 |
+| [CAJETA](https://open.spotify.com/track/77ILmTvNY5SO4XKZLu2bFt) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [CAJETA](https://open.spotify.com/album/7639dfG9UL1ABs8ABtClM1) | 2:03 | 2026-10-15 |  |
 | [Canción](https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Canción](https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB) | 3:25 | 2024-10-18 | 2026-02-28 |
 | [Cariñito De Mi Vida \- En Vivo](https://open.spotify.com/track/2ZEIX2et1Fq5za4uWsETCM) | [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Puras Complacencias, Vol\. 7 \(En Vivo\)](https://open.spotify.com/album/317N0hbjQfDNwtoG26LMJK) | 2:04 | 2026-03-27 |  |
 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 | 2023-12-01 |  |
@@ -78,7 +79,7 @@
 | [De Ti Exclusivo](https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:14 | 2024-01-16 |  |
 | [De Ti Exclusivo](https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Para Ti Exclusivo \(En Vivo Desde Arandas Jalisco\)](https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO) | 3:16 | 2023-01-16 | 2023-03-04 |
 | [De Ti Me Enamoré](https://open.spotify.com/track/5DxEC5FJcjpxnOt14mwM39) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Ti Me Enamoré](https://open.spotify.com/album/4gjohobBtyIYcfpagTWyIx) | 2:52 | 2021-12-27 | 2022-06-20 |
-| [De Uno Y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 | 2022-12-16 |  |
+| [De Uno Y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 | 2022-12-16 | 2026-10-15 |
 | [Decide Tú](https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Decide Tú](https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4) | 3:52 | 2024-10-04 | 2026-01-15 |
 | [Deja](https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:36 | 2021-12-27 |  |
 | [Derecho De Antigüedad](https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antiguedad](https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s) | 3:03 | 2021-12-27 | 2023-02-15 |

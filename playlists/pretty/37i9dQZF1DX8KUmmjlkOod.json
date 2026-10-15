@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 392290,
+  "num_followers": 392294,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIoSAPWJy8b7pySmkv2MpYHH9mV2",
+  "snapshot_id": "AAAAANtxpxv6VJ3pI9Ley1wNKPSqZ50Y",
   "tracks": [
     {
       "added_at": "2024-06-12 23:23:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Big Yuyo",
-        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Me Late",
-      "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Colecci\u00f3n Suprema",
-        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
+        "name": "Big Yuyo",
+        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
       "artists": [
         {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
+      "duration_ms": 210960,
+      "name": "Me Late",
+      "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -823,6 +807,22 @@
       "duration_ms": 248706,
       "name": "Selva",
       "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Colecci\u00f3n Suprema",
+        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Tiempo De Amor",
-        "url": "https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Me Enamor\u00e9 De Una Zamba",
-      "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Mensajes Del Alma",
         "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Tiempo De Amor",
+        "url": "https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Me Enamor\u00e9 De Una Zamba",
+      "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Cosa Peligrosa",
-      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Cosa Peligrosa",
+      "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
     },
     {
       "added_at": "2024-06-12 23:23:10",

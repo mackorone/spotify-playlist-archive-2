@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > come volevi essere di Lamante sta succedendo di nuovo e siamo molto felici
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,734 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,725 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 85 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 | 86 | [Mi arrendo \(con Brunori Sas\)](https://open.spotify.com/track/5kxpGaL0c3qfrls4riTdNm) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Anatomia di uno schianto prolungato](https://open.spotify.com/album/7MC6hKYPdD8osqbRbLF2kN) | 4:16 |
 
-Snapshot ID: `AAAAAM9AH8n2Kpb9IKvFntiGg+LTobP1`
+Snapshot ID: `AAAAAAxfdQQS1Zm/ygdhAyZwiSwtQRuc`

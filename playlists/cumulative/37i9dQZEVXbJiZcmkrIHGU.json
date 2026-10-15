@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
@@ -22202,7 +22202,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -32914,7 +32914,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 146419,
       "name": "GLASWASSERFLASCHE",
       "url": "https://open.spotify.com/track/6qZuE4XCfefXPWtSIHVfEZ"
@@ -73374,6 +73374,24 @@
     {
       "album": {
         "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
         "url": "https://open.spotify.com/album/7ANxNZQm8jpjNH6nER0M2I"
       },
       "artists": [
@@ -73384,7 +73402,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 142663,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/43yprMxePR9BXo1DZg0vwY"
@@ -82918,7 +82936,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"

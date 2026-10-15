@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,203 songs - 3 day 3 hr 22 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,212 songs - 3 day 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1211,5 +1211,14 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1201 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
 | 1202 | [I'll Call You When I Land](https://open.spotify.com/track/4mcfu6tvXVOBGkQ9Z9vU4Y) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [I'll Call You When I Land](https://open.spotify.com/album/2IhBV1aBz2YOth56IHU1vv) | 3:11 |
 | 1203 | [See You](https://open.spotify.com/track/44qnyfMKO22cfAGdJIi1It) | [SUNDRAWN](https://open.spotify.com/artist/29jhmOjKuBK3iZ9aYXNZ3f) | [Recovery](https://open.spotify.com/album/3gKUmhKtQtU6ysFV8VsZFf) | 3:35 |
+| 1204 | [HardTimesTimesTimes](https://open.spotify.com/track/2RtACPtJIOptw2m7nsU6De) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [HardTimesTimesTimes](https://open.spotify.com/album/7d9PFJkDJAm2pXD6VWbuen) | 3:04 |
+| 1205 | [Giants Kingdom](https://open.spotify.com/track/5XihltvaDZ3BV8Z9pR4GOa) | [Dropstitch](https://open.spotify.com/artist/2IWa8sDlNqAtLwQOcpIKEz) | [Giants Kingdom](https://open.spotify.com/album/2fC6u61TuSUCaPCpCFC73U) | 3:41 |
+| 1206 | [Forever Falling for You \- Stripped Version](https://open.spotify.com/track/224fC2Q52qIALsPvB3LB6e) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Forever Falling for You \(Stripped Version\)](https://open.spotify.com/album/1xrNRpX5PwTb12eHotrEGA) | 2:14 |
+| 1207 | [Rechte Mucke](https://open.spotify.com/track/3A3jM1RUJGN9dfjVppU0PO) | [Punch Drunk Poets](https://open.spotify.com/artist/5AIiuf6qpRRCKnfnaLSS78), [Zirkel](https://open.spotify.com/artist/798bbZOe4VTHtiKT7rwQvi) | [Rechte Mucke](https://open.spotify.com/album/3DSYyAYrYz3fbhlwvnzNtG) | 2:59 |
+| 1208 | [Take a Bow](https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:46 |
+| 1209 | [The Outsider](https://open.spotify.com/track/7hyqQkfGXjkULDAbhffLkY) | [Sundaug](https://open.spotify.com/artist/0LfljfG0lN5qUsR8rjQ2JN) | [Till the Stars Expire](https://open.spotify.com/album/3yltKrZ5LVzqYGjOAHf5aV) | 5:59 |
+| 1210 | [Don't Tempt Me](https://open.spotify.com/track/7dwS9xjpn7TzHfyUf1KqSE) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [Don't Tempt Me](https://open.spotify.com/album/6im8rAFKvrhUxPPv2AHIPr) | 3:10 |
+| 1211 | [MAL](https://open.spotify.com/track/5vLGtYoF8DhWu6rSEalowb) | [Edu](https://open.spotify.com/artist/76nbbX7WqJH7FyhCzPwUn2) | [MAL](https://open.spotify.com/album/4l8b2ojV1jjyzQy5sLTSs2) | 2:40 |
+| 1212 | [Take me Back To '99](https://open.spotify.com/track/5ph7WFL3o7RXWcbXFr6FVs) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Take Me Back to '99](https://open.spotify.com/album/0RQcGfhSAhIMf9cWBiK9a6) | 2:28 |
 
-Snapshot ID: `AAAE4ZTool2fZW/RUjGn2IP7r1P6lhbk`
+Snapshot ID: `AAAE6jzcgPlzOODpWi5DZV1NYZLttADJ`

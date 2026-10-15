@@ -2317,6 +2317,28 @@
     },
     {
       "album": {
+        "name": "Exiting the Simulation",
+        "url": "https://open.spotify.com/album/2HN5bgw8DUMkxMJJbw8sz4"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        },
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263585,
+      "name": "Exiting the Simulation",
+      "url": "https://open.spotify.com/track/2yoFiPRSc7kV3I3XjrE7hO"
+    },
+    {
+      "album": {
         "name": "Expectation",
         "url": "https://open.spotify.com/album/2mFAkPDuFMTwaHCqRvDUXY"
       },
@@ -4340,7 +4362,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 117449,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1bk3I70Q4UdRcmGcsOsb6t"
@@ -6213,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "onward & upward",
+        "url": "https://open.spotify.com/album/0PCxk8dsXZoHuPlZ5hg9sV"
+      },
+      "artists": [
+        {
+          "name": "Gollden",
+          "url": "https://open.spotify.com/artist/6ihCC4ynwJas1AbDb030Vy"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "onward & upward",
+      "url": "https://open.spotify.com/track/6TKoq0hs1nsXXvKR1G6pz6"
+    },
+    {
+      "album": {
         "name": "Opals [Strings]",
         "url": "https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h"
       },
@@ -7840,7 +7880,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 219831,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1LIEYNjW8Uw7eaWb4IRHsE"

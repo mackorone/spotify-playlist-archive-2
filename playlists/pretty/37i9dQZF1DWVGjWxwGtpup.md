@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,259 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,262 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 | 50 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 
-Snapshot ID: `AAAAAARFbuqorvKE+zQ++s4qlWPKF2wU`
+Snapshot ID: `AAAAAItGp2O0AkVfKoYKiDEovG2i6q8A`

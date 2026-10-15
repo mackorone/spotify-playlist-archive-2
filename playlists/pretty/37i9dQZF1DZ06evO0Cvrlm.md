@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,456 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,485 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 13 | [Amazing](https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:25 |
 | 14 | [Praying for Time \- Remastered](https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
 | 15 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 |
-| 16 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
+| 16 | [A Different Corner](https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:03 |
 | 17 | [You Have Been Loved](https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:30 |
 | 18 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
 | 19 | [Waiting for That Day \- Remastered](https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:49 |
-| 20 | [A Different Corner](https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:03 |
+| 20 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
 | 21 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
 | 22 | [Outside](https://open.spotify.com/track/3sJZdXnP3zOByagpyztK90) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Outside](https://open.spotify.com/album/5ntppDOdcyWDuPdBknLEyz) | 4:46 |
 | 23 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 25 | [Miss Sarajevo](https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:10 |
 | 26 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
 | 27 | [Older](https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:33 |
-| 28 | [Everything She Wants \- Live](https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:13 |
+| 28 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
 | 29 | [Roxanne](https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:11 |
-| 30 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
+| 30 | [Everything She Wants \- Live](https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:13 |
 | 31 | [The Strangest Thing](https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:01 |
 | 32 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
 | 33 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 47 | [Through \- Live](https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 5:09 |
 | 48 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 | 49 | [Something to Save \- Remastered](https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:18 |
-| 50 | [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 |
+| 50 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 
-Snapshot ID: `asrRgAAAAAB7WntV5ikJl697t5vNW+/7`
+Snapshot ID: `as10gAAAAACqqHKxEd81nFwUwB4W2tLs`

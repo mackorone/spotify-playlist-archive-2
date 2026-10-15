@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,228 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,226 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 69 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 |
 | 70 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
 | 71 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
-| 72 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
-| 73 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
+| 72 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
+| 73 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 74 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
-| 75 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
-| 76 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 75 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
+| 76 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
 | 77 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 78 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 |
 | 79 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 87 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 88 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 |
 | 89 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
-| 90 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
-| 91 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
+| 90 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
+| 91 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 92 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 |
 | 93 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 94 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 99 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 |
 | 100 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 |
 
-Snapshot ID: `AAAAAFxTVkXk3SZeZxzYwiVugCHygiHI`
+Snapshot ID: `AAAAABqkCFG4kdqLmtKy2OE5mcYef4gQ`

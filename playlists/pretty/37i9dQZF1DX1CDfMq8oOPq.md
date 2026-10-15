@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,374 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,382 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Daria um Filme](https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [Vitor Vril](https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn) | [Daria um Filme](https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul) | 2:41 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAAHxezYsBc+cS9ULd+SKp0JVam344`
+Snapshot ID: `AAAAAOEt99kGpEE/3rV+OEPGwQTBLKTj`

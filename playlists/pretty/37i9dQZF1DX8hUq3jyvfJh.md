@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,317 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,315 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
 | 32 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 33 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
-| 34 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
-| 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
-| 36 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
+| 34 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
+| 35 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
+| 36 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 37 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
 | 38 | [Mulher no Espelho](https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH) | [Riane Mascarenhas](https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Mulher no Espelho](https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj) | 3:35 |
 | 39 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
-Snapshot ID: `AAAAAHybW8h/CLwQ5mxsAv7wwpc4Y8zW`
+Snapshot ID: `AAAAAJYEZk0HKXHHEs8/7optzuKVQ8Ik`

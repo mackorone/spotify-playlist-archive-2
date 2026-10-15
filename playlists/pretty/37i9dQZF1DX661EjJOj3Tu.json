@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513336,
+  "num_followers": 513341,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFNetj+DY91bZTrUrVOpLShX9Yy",
+  "snapshot_id": "AAAAAFom0hERPpLo8liDifIZbAmHjJVI",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Dig My Feeling",
         "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 220198,
       "name": "Dig My Feeling",
       "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Perea",
+          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Latin Jazz, Vol. 3",
         "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 185786,
       "name": "Linda Guajira",
       "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Perea",
-          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 344606,
-      "name": "Guarajazz",
-      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 344606,
+      "name": "Guarajazz",
+      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 435226,
       "name": "La Gitana",
       "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Todas Las Voces",
         "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Standards",
         "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 440600,
       "name": "El Lider",
       "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1459,26 +1459,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5OQeChqQg9hIfp2Q1jxbOl"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
       "artists": [
         {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        },
-        {
-          "name": "Fernando Silva",
-          "url": "https://open.spotify.com/artist/3FcHb7JOKIhDovhaKKKmL9"
-        },
-        {
-          "name": "Luciano Cuviello",
-          "url": "https://open.spotify.com/artist/0z6226KaYzAynQaoewHRVf"
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
         }
       ],
-      "duration_ms": 427106,
-      "name": "Palabras para Nombrarte",
-      "url": "https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK"
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1503,6 +1495,30 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5OQeChqQg9hIfp2Q1jxbOl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        },
+        {
+          "name": "Fernando Silva",
+          "url": "https://open.spotify.com/artist/3FcHb7JOKIhDovhaKKKmL9"
+        },
+        {
+          "name": "Luciano Cuviello",
+          "url": "https://open.spotify.com/artist/0z6226KaYzAynQaoewHRVf"
+        }
+      ],
+      "duration_ms": 427106,
+      "name": "Palabras para Nombrarte",
+      "url": "https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 311920,
       "name": "My Father's Eyes",
       "url": "https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Mighty Pirates Troubadours, Chapter 10: Breaking Cover",
-        "url": "https://open.spotify.com/album/0Up99fDK2t1UQwU9Mo5z6S"
-      },
-      "artists": [
-        {
-          "name": "Papo Vazquez",
-          "url": "https://open.spotify.com/artist/5qaszBh3QUZy4EjqivB0OT"
-        }
-      ],
-      "duration_ms": 306857,
-      "name": "NY Latin Jazz Mambo",
-      "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Border-Free",
         "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 549366,
       "name": "Congadanza",
       "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Mighty Pirates Troubadours, Chapter 10: Breaking Cover",
+        "url": "https://open.spotify.com/album/0Up99fDK2t1UQwU9Mo5z6S"
+      },
+      "artists": [
+        {
+          "name": "Papo Vazquez",
+          "url": "https://open.spotify.com/artist/5qaszBh3QUZy4EjqivB0OT"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "NY Latin Jazz Mambo",
+      "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Nuestra Herencia Musical (En Vivo)",
-        "url": "https://open.spotify.com/album/34dOsQQA8gHmA27ydyOaMf"
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
       "artists": [
         {
-          "name": "Janio Abreu y Aire de Concierto",
-          "url": "https://open.spotify.com/artist/01aZZuL1P2SA4USRJhVflW"
-        },
-        {
-          "name": "Victor Goines",
-          "url": "https://open.spotify.com/artist/7zdAb4j79OsvWoxJFA7I7W"
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 467974,
-      "name": "Traveling - En Vivo",
-      "url": "https://open.spotify.com/track/7kzUmhZzibDAqQ5TIfF7c9"
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     }
   ],
   "unique_name": "Latin Jazz",

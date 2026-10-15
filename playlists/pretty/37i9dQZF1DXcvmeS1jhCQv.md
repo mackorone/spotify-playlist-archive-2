@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Morgana
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,811 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,865 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 100 | [History](https://open.spotify.com/track/2HQlRWQAxJlCNQEMehwtYC) | [Jordan O'Keefe](https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x) | [History](https://open.spotify.com/album/0XoliO26rrMv7jZevm6Mjx) | 3:20 |
 | 101 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 
-Snapshot ID: `AAAAAJ2WeZ6hbs1JR+WtmxzSZusOgSbw`
+Snapshot ID: `AAAAAN/G7ohM+8Ki0C5zOgilwhhfhwP3`

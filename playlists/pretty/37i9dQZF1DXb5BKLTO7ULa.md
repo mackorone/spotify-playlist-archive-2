@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Ronnie Flex, Samuel Welten, Slayyyter, DI\-RECT, Sarah Julia, Troye Sivan, Acda en de Munnik en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,687 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,669 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [At Least Friends](https://open.spotify.com/track/1rhN9g3YcaERLAuJpWkuDd) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [At Least Friends](https://open.spotify.com/album/2sbLhYO5id0zwBnOHzADSh) | 2:30 |
 | 101 | [Turnout](https://open.spotify.com/track/1vwSR1L6EIH64pZ9SFJNDs) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Turnout](https://open.spotify.com/album/0h9ZjOMZHAnA0ubMMi5kJV) | 3:19 |
 
-Snapshot ID: `AAAAANAC0C53kmDETNmvAw7vB9s9OM3y`
+Snapshot ID: `AAAAAEih3hk+MkGAyJRzEIGZvGW/r0O7`

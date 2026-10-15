@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49168,
+  "num_followers": 49173,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6ZWQthf0zscUtWn7nIvmuikKpX",
+  "snapshot_id": "AAAAAFQS8Jz1G2ALhsXDgBGNTVOovRPs",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -571,18 +571,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "60Hz",
+        "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/2JiiQIk1Pr0k6DJdxuySB9"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -603,22 +607,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "60Hz",
-        "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/2JiiQIk1Pr0k6DJdxuySB9"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TROPPAweed (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1199,42 +1219,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Canerandagio - Parte 1",
-        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TROPPAweed (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
+      },
+      "artists": [
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        }
+      ],
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1631,34 +1631,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
-      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "BISTRO!",
         "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
       },
@@ -1683,6 +1655,34 @@
       "duration_ms": 192814,
       "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
       "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
+      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 141090,
-      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CHIODI",
         "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 141090,
+      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Modus Operandi",
         "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 186750,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "IL CUORE E LA FAME",
+        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "4 Secondi",
+      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Melograno",
         "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
       },
@@ -2163,18 +2179,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "IL CUORE E LA FAME",
-        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
       },
       "artists": [
         {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
         }
       ],
-      "duration_ms": 262613,
-      "name": "4 Secondi",
-      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2203,22 +2219,6 @@
       "duration_ms": 173877,
       "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2515,6 +2515,46 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Fuori di qua! (Stories) [2022 Remastered]",
+        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Grimorivm",
         "url": "https://open.spotify.com/album/0NX5D6rBnq9zTpO0lIjgcm"
       },
@@ -2547,26 +2587,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "IncrEdible Freestyle, pt. IV",
         "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
       },
@@ -2587,26 +2607,6 @@
       "duration_ms": 73846,
       "name": "IncrEdible Freestyle, pt. IV",
       "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Fuori di qua! (Stories) [2022 Remastered]",
-        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2839,6 +2839,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
@@ -2863,22 +2879,6 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 114863,
+  "num_followers": 114874,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAA0lf9ZNiJBst7yF5HQ9LUx",
+  "snapshot_id": "aswjAAAAAABm0Lyog/OgkSYSTea3b/4k",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 203289,
-      "name": "Dedicated",
-      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 240631,
       "name": "A Deathless Song",
       "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 203289,
+      "name": "Dedicated",
+      "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 248453,
+      "name": "Home Is For The Heartless",
+      "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva The Underdogs",
         "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 230364,
       "name": "Schattenboxen",
       "url": "https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 248453,
-      "name": "Home Is For The Heartless",
-      "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 211393,
-      "name": "Anasasis (Xenophontis)",
-      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 139473,
       "name": "Unrest",
       "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 211393,
+      "name": "Anasasis (Xenophontis)",
+      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 201034,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Old Ghost / New Regrets",
-      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
+      "duration_ms": 248506,
+      "name": "Dream Run",
+      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 248506,
-      "name": "Dream Run",
-      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
+      "duration_ms": 169960,
+      "name": "Old Ghost / New Regrets",
+      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
     },
     {
       "added_at": null,

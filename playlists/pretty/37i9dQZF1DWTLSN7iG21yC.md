@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,181 likes - 127 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,126 likes - 127 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 22 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 23 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 24 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
-| 25 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 |
+| 25 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 26 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
-| 27 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
+| 27 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 |
 | 28 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 29 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
 | 30 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 37 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
 | 38 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
 | 39 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
-| 40 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
-| 41 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
+| 40 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
+| 41 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
 | 42 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 43 | [Hold On](https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Hold On](https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J) | 2:50 |
 | 44 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 105 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
 | 106 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
 | 107 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
-| 108 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
-| 109 | [Let Her Go](https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:12 |
+| 108 | [Let Her Go](https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:12 |
+| 109 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
 | 110 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
 | 111 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 |
 | 112 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 115 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 |
 | 116 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
 | 117 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 |
-| 118 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
-| 119 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
+| 118 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
+| 119 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
 | 120 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 |
 | 121 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 |
 | 122 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 126 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 |
 | 127 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |
 
-Snapshot ID: `AAAAAA4EbVYArM2n4QKf9QsmJ0lQUlB/`
+Snapshot ID: `AAAAACUbBFwjCXJ5x08m5Q39CU923JyL`

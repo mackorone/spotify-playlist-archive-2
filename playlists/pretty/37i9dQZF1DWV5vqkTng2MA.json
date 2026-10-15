@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Frank Mastra",
-  "num_followers": 429108,
+  "num_followers": 429122,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVhoFS9pwR3J9wwimy9eBXhyBrE",
+  "snapshot_id": "AAAAAMKKh+ztBxutn0kEozf4mYaUuyIH",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:36",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Hangin' On",
-        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
-      },
-      "artists": [
-        {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
-        }
-      ],
-      "duration_ms": 211619,
-      "name": "Hangin' On",
-      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "No Tengo Valor",
         "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 182750,
       "name": "No Tengo Valor",
       "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 211619,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Is Joy Easy",
-        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Is Joy Easy",
-      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -323,18 +307,34 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
+        "name": "Is Joy Easy",
+        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
       },
       "artists": [
         {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 203446,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
+      "duration_ms": 210373,
+      "name": "Is Joy Easy",
+      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "someone to you",
+        "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "duration_ms": 199091,
+      "name": "someone to you",
+      "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "someone to you",
-        "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
       },
       "artists": [
         {
-          "name": "Macy Todd",
-          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
         }
       ],
-      "duration_ms": 199091,
-      "name": "someone to you",
-      "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
+      "duration_ms": 203446,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
+      },
+      "artists": [
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Lost Child",
         "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "By The River",
-        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
-      },
-      "artists": [
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "By The River",
-      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
+        "name": "Landfill Poetry",
+        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
+      },
+      "artists": [
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "duration_ms": 257522,
+      "name": "Hay Hay Hay",
+      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
         "name": "Hold",
         "url": "https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Landfill Poetry",
-        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Riley Downing",
-          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 257522,
-      "name": "Hay Hay Hay",
-      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1015,22 +1031,6 @@
       "duration_ms": 219880,
       "name": "Will I Ever Know",
       "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "Like We Used To",
-        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
+        "name": "What You Don't Do",
+        "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
       },
       "artists": [
         {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 229950,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "What You Don't Do",
-        "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "What You Don't Do",
-      "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "Like We Used To",
+        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "duration_ms": 229950,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
     },
     {
       "added_at": "2026-10-02 04:01:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-10-02 04:01:36",
       "album": {
-        "name": "It's Been Too Long (Since I've Loved Someone)",
-        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "It's Been Too Long (Since I've Loved Someone)",
-      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
-    },
-    {
-      "added_at": "2026-10-02 04:01:36",
-      "album": {
         "name": "Hands on the Radio",
         "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 212333,
       "name": "Hands on the Radio",
       "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
+    },
+    {
+      "added_at": "2026-10-02 04:01:36",
+      "album": {
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
     },
     {
       "added_at": "2026-10-02 04:01:36",

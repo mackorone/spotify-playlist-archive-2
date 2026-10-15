@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 36533,
+  "num_followers": 36541,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABoomKmb8xlYWbzbgac16P3",
+  "snapshot_id": "as10gAAAAAC5S78kCQoxYowX937qtMDo",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROSITA",
-        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
           "name": "JHAYCO",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 245469,
-      "name": "ROSITA",
-      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
       "added_at": null,
@@ -335,22 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
       },
       "artists": [
         {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Imaginaste",
-      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "FATAL FANTASSY",
-      "url": "https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO PASA NADA HOMBRE",
         "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 164102,
       "name": "Como El Primero",
       "url": "https://open.spotify.com/track/3o7D5IGCHkUHdUarqgrEiP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo"
     },
     {
       "added_at": null,
@@ -879,6 +879,30 @@
       "duration_ms": 143257,
       "name": "H\u00c1BLAME CLARO",
       "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo (with J Balvin & Tainy)",
+        "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 198130,
+      "name": "Voodoo (with J Balvin & Tainy)",
+      "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
     },
     {
       "added_at": null,

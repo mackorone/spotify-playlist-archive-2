@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,169 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,196 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 7 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 8 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 |
 | 9 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 10 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
+| 10 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 11 | [Sarà perchè ti amo](https://open.spotify.com/track/7xfOV2VUEd39JXePJ1j9Os) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Paolo Ortelli](https://open.spotify.com/artist/6DCH9MUMbmLfoWBO0rxJuA), [Jay C](https://open.spotify.com/artist/1q6lvZmY0FHHwQkzyCTQ9E) | [Sarà perchè ti amo](https://open.spotify.com/album/2RsFjE9J5eKYY0WCMUbsrS) | 2:45 |
 | 12 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 |
 | 13 | [I'm Good \(Blue\)](https://open.spotify.com/track/5xk3iZlyYSurXmanrktlgs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/0wrlgAW7tetQG2L3sy2wkN) | 2:55 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 39 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
 | 40 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 |
 
-Snapshot ID: `AAAAALugLpReDx13VamdS1X6be3qXSDx`
+Snapshot ID: `AAAAAL6ZYh92Tp7c7t/lmQgh5JMQ/Q6e`

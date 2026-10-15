@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,596 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,631 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 47 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 |
 | 48 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 49 | [The Kazimier Garden](https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 1:29 |
-| 50 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 51 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
+| 50 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
+| 51 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 52 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
 | 53 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 54 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
 | 100 | [I Will Be the World](https://open.spotify.com/track/0vxAJmYbzIhJ3H587gdAOX) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/6BjZX96z3VRpwLHgA6BOVP) | 4:31 |
 
-Snapshot ID: `AAAAAHYUzxRr/cJ4yPCcMMlA9Phyp5AF`
+Snapshot ID: `AAAAAJvb8y1sUStakwYvzg9FQpSwj/4s`

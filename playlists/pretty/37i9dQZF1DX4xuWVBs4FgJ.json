@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2031760,
+  "num_followers": 2031749,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKBfdDvvXtxaBMlgJqh1Bh4nMM6",
+  "snapshot_id": "AAAAAEbBaLk7qSBEsXMNkB0uIIy4ObLb",
   "tracks": [
     {
       "added_at": "2026-02-23 16:34:18",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
     },
     {
-      "added_at": "2026-09-21 14:25:05",
-      "album": {
-        "name": "And so it goes...",
-        "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 180913,
-      "name": "So mysterious",
-      "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
-    },
-    {
       "added_at": "2026-02-23 16:34:18",
       "album": {
         "name": "Turning Onto You (HNNY Remix)",
@@ -1415,6 +1399,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2026-09-21 14:25:05",
+      "album": {
+        "name": "And so it goes...",
+        "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 180913,
+      "name": "So mysterious",
+      "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
     },
     {
       "added_at": "2026-02-23 16:34:18",

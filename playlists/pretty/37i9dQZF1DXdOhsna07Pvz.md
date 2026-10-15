@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,874 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,906 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 54 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
 | 55 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
 | 56 | [São Jorge](https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM) | [Juçara Marçal e Kiko Dinucci](https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m) | [Padê](https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU) | 3:05 |
-| 57 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
+| 57 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
 | 58 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
-| 59 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
+| 59 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 60 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 | 61 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 62 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 69 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
 | 70 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
 
-Snapshot ID: `AAAAABKqLFtRy00kT/CLto7+qqaoKbgy`
+Snapshot ID: `AAAAAC2LxvbW1hL3Z0YYX2EEWLV9X5BO`

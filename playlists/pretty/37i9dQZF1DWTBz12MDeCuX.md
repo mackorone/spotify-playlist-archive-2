@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Morpheuz
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,934 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,917 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [ALLEIN](https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:23 |
 | 100 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
 
-Snapshot ID: `AAAAAKeNP8olwD5wphkadjAfqLRR7Udg`
+Snapshot ID: `AAAAAPw8FA+sYWG81ssdD8YQv5UIFHsS`

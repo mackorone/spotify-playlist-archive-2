@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,648 likes - 38 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,650 likes - 38 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 9 | [Muse](https://open.spotify.com/track/0GcIpFrLWnB1sLIlxNw1VP) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:24 |
 | 10 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 |
 | 11 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
-| 12 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
-| 13 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 |
+| 12 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 |
+| 13 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
 | 14 | [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 |
 | 15 | [butterflies](https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:24 |
 | 16 | [American Wedding](https://open.spotify.com/track/6XHYOwQyNOG3vKqTk0W7Q8) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I) | 3:10 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 37 | [praying](https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:46 |
 | 38 | [Burning](https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:20 |
 
-Snapshot ID: `asrRgAAAAABFg9EYDIs7SOtkjSgVpS7I`
+Snapshot ID: `as10gAAAAAA42jY7CdjB6BBiDyqUjXX9`

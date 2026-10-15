@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,656 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,550 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 43 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
 | 44 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 45 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
-| 46 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
-| 47 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 46 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 47 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
 | 48 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
 | 49 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
 | 50 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Luna Llena](https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Luna Llena](https://open.spotify.com/album/4hInLhxtl2xGXS5FIpPSNr) | 2:30 |
 | 100 | [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 |
 
-Snapshot ID: `AAAAAMQjBZ70NYMZ8k71bxCnuWhvDraR`
+Snapshot ID: `AAAAAOEiWqSq/zxgxIwWVvFnKjen/zQZ`

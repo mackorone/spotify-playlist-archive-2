@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21824,
+  "num_followers": 21829,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHORd4AV7GHUcQutin0yT4xbtb2F",
+  "snapshot_id": "AAAAAFCp6A9yUlHewGWI6arP+lD/O5tM",
   "tracks": [
     {
       "added_at": "2026-06-29 08:20:19",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "WE ON GO",
-        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 149546,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 189373,
       "name": "LAW (Prod. Czaer)",
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
     },
     {
       "added_at": "2026-06-29 08:20:19",

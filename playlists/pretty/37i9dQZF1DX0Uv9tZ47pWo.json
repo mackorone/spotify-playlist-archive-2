@@ -1,12 +1,12 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2640748,
+  "num_followers": 2640661,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAenRTVOQr8+kEGNpBn1xMyDgiBF",
+  "snapshot_id": "AAAAAOlLi0NPb4trmNjuDlttS0SMRePH",
   "tracks": [
     {
       "added_at": "2024-05-02 22:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Fanmail",
         "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
       "added_at": "2024-05-23 15:48:44",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 186106,
       "name": "boyfriend (with Social House)",
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "California Gurls",
-      "url": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 220883,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -1059,26 +1059,6 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+        "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+        "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         },
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+      "duration_ms": 217466,
+      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+      "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
     }
   ],
   "unique_name": "Girls' Night",

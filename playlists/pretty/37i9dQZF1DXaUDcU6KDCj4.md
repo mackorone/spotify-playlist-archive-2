@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,698 likes - 170 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,714 likes - 170 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 169 | [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 |
 | 170 | [For The Boys](https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [For The Boys](https://open.spotify.com/album/4LLlQtvQNtrVM7sMRLrSGi) | 3:04 |
 
-Snapshot ID: `AAAAAKOs/RnRAD5COh81ywftkiMEawyu`
+Snapshot ID: `AAAAAB3emnQCeMdbBTfHkR8pLdf+mda1`

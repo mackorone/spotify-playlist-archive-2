@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 239477,
+  "num_followers": 239522,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFivOygQZAbTEoL6fcSjpWUuFi9T",
+  "snapshot_id": "AAAAAIDGzyTu5+nU5YamaEvHmV+zWBCt",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -383,22 +383,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Hace Tanto Bien (En Vivo)",
-        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
       },
       "artists": [
         {
-          "name": "Mo Rivas",
-          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
-        },
-        {
-          "name": "Carlos Law",
-          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
         }
       ],
-      "duration_ms": 188789,
-      "name": "Me Hace Tanto Bien - En Vivo",
-      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -423,18 +419,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+        "name": "Me Hace Tanto Bien (En Vivo)",
+        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
       },
       "artists": [
         {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+          "name": "Mo Rivas",
+          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
+        },
+        {
+          "name": "Carlos Law",
+          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
+      "duration_ms": 188789,
+      "name": "Me Hace Tanto Bien - En Vivo",
+      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Azucar Amargo",
-        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
+        "name": "Felices los 4 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
       },
       "artists": [
         {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
         }
       ],
-      "duration_ms": 270550,
-      "name": "Azucar Amargo",
-      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
+      "duration_ms": 249088,
+      "name": "Felices los 4 - Acoustic version",
+      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Felices los 4 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
+        "name": "Azucar Amargo",
+        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
       },
       "artists": [
         {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
         }
       ],
-      "duration_ms": 249088,
-      "name": "Felices los 4 - Acoustic version",
-      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
+      "duration_ms": 270550,
+      "name": "Azucar Amargo",
+      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Enam\u00f3rate de Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Enam\u00f3rate de Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Pobre De Ti",
         "url": "https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230684,
       "name": "Pobre De Ti",
       "url": "https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Enam\u00f3rate de Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Enam\u00f3rate de Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ropa Cara",
-        "url": "https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 114624,
-      "name": "Ropa Cara",
-      "url": "https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 152000,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 114624,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1"
     },
     {
       "added_at": "2022-02-18 06:00:00",

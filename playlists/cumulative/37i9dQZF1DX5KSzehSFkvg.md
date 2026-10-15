@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-231 songs - 12 hr 18 min
+232 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 | 2023-07-07 | 2024-04-08 |
 | [3tih](https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [3tih](https://open.spotify.com/album/3qwV66sqqCRWiIHL4PhfPw) | 2:40 | 2024-08-28 | 2024-08-30 |
 | [7ALI](https://open.spotify.com/track/1qjxkqOs2llVRf2TGl9Vyl) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [7ALI](https://open.spotify.com/album/55NR3kBy6YcxNJlRWdjsc4) | 3:18 | 2025-06-02 | 2025-07-10 |
+| [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 | 2026-10-14 |  |
 | [9AD BIA](https://open.spotify.com/track/5qV1jHWF80Pe3jQHHFzIol) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [9AD BIA](https://open.spotify.com/album/5OW9hrQBgVAB4oDBuDEJp1) | 2:46 | 2023-11-07 | 2024-09-12 |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 | 2024-04-24 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 | 2024-07-03 |
@@ -102,7 +103,7 @@
 | [Hna Jina](https://open.spotify.com/track/7nTGNRNBihFEnjoaU5YHez) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [Hna Jina](https://open.spotify.com/album/3SVHyYVpdLZx96z1I8rm2z) | 2:40 | 2026-01-22 | 2026-02-24 |
 | [Hob Hyati](https://open.spotify.com/track/3vEhMhj065tdyugAB5UocD) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Hob Hyati](https://open.spotify.com/album/0U7574PB0MHasSszwhRqM2) | 4:06 | 2023-07-07 | 2024-05-28 |
 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 | 2026-05-26 |  |
-| [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 | 2024-08-29 |  |
+| [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 | 2024-08-29 | 2026-10-15 |
 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 | 2023-10-05 | 2024-06-01 |
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2023-12-10 | 2024-04-19 |
 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 | 2023-12-21 | 2024-01-27 |

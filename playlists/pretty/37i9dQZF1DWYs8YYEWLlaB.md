@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: KARM6
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,399 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,385 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 19 | [CRUSH!](https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9) | [CRUSH](https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6) | [CRUSH!](https://open.spotify.com/album/3Ayegr0sD9IvpNiGFsVzR0) | 2:28 |
 | 20 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
 | 21 | [Bana Ne Bu Sevdalardan](https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bana Ne Bu Sevdalardan](https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ) | 2:17 |
-| 22 | [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 |
+| 22 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
 | 23 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
-| 24 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
+| 24 | [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 |
 | 25 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 26 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 |
 | 27 | [TSS](https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [VAKKO](https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ) | 1:58 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 29 | [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 |
 | 30 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 |
 | 31 | [yanılmışım](https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 2:05 |
-| 32 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
-| 33 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
-| 34 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 32 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
+| 33 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 34 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
 | 35 | [Makina](https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4) | [Emir](https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK) | [Ateşten Bi Rüzgar](https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba) | 3:25 |
 | 36 | [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 |
 | 37 | [Rüya Gibiydin](https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Rüya Gibiydin](https://open.spotify.com/album/1boVHfsKiExh1Pe6zDo2Jl) | 2:59 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 41 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 |
 | 42 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 43 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
-| 44 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
-| 45 | [EĞLEN](https://open.spotify.com/track/6IIXirTrL8ueg7a0jTAc9t) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [BLEND](https://open.spotify.com/album/6P9u2ip7gJ0UBhW6w9ivWt) | 2:55 |
-| 46 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
-| 47 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
+| 44 | [EĞLEN](https://open.spotify.com/track/6IIXirTrL8ueg7a0jTAc9t) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [BLEND](https://open.spotify.com/album/6P9u2ip7gJ0UBhW6w9ivWt) | 2:55 |
+| 45 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
+| 46 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
+| 47 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
 | 48 | [İki Tas Çorba \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/5Ppj0GysGcSeKn2AznI6rT) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:11 |
 | 49 | [Kıskanç](https://open.spotify.com/track/7d89xmlIognhoDrp3vTosD) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Kıskanç](https://open.spotify.com/album/3AUZa51FrqJIOcUvM8lFom) | 2:35 |
 | 50 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 
-Snapshot ID: `AAAAAIpjp1dUBvR33xfvJ/rML6iPRw5q`
+Snapshot ID: `AAAAAJkHdKUXN7mS6PgfBo6iEk/I4A5k`

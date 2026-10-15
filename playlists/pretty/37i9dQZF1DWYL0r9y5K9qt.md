@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: pami
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,655 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,627 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 49 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 |
 | 50 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
 
-Snapshot ID: `AAAAABVpPQpUhY0DCx167nn8O9Ao3ZzK`
+Snapshot ID: `AAAAAHlBZbHAmg0RITvjyZl1QMmdSTnW`

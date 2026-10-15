@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,918 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,916 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 
-Snapshot ID: `AAAAAK7egiRkNqDKKbG9GQO3sBUXw192`
+Snapshot ID: `AAAAAHv9pRqEOlzahdfbaJlpoe8ZhrpS`

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25930,
+  "num_followers": 25934,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAN6nMG9kPQb1Y+Wbugftpm",
+  "snapshot_id": "as10gAAAAACbNeSG2QfDItFLIXTn5axQ",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "G'Day G'Day",
-        "url": "https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC"
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kate Arneman",
-          "url": "https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK"
         }
       ],
-      "duration_ms": 190826,
-      "name": "G'Day G'Day",
-      "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
+      "duration_ms": 186533,
+      "name": "Charleville",
+      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
     },
     {
       "added_at": null,
@@ -147,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+        "name": "G'Day G'Day",
+        "url": "https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kate Arneman",
+          "url": "https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Charleville",
-      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+      "duration_ms": 190826,
+      "name": "G'Day G'Day",
+      "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+      "duration_ms": 195600,
+      "name": "Never Was At All",
+      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
     },
     {
       "added_at": null,
@@ -280,15 +280,15 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 184866,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+      "duration_ms": 203200,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Never Was At All",
-      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "We've Done Us Proud",
-      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "We've Done Us Proud",
+      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 50 - The Golden Anniversary Album",
         "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 172000,
       "name": "Walk A Country Mile",
       "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "I'm Married To My Bulldog Mack",
+      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
       "duration_ms": 156800,
       "name": "A Bad Day's Fishin'",
       "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "I'm Married To My Bulldog Mack",
-      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -667,28 +667,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        },
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193493,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
       },
       "artists": [
         {
@@ -696,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
+      "duration_ms": 266706,
+      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
       "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 266706,
-      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
+      "duration_ms": 193493,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
     },
     {
       "added_at": null,

@@ -22465,6 +22465,24 @@
     },
     {
       "album": {
+        "name": "Season of Love",
+        "url": "https://open.spotify.com/album/7ApBpnemmOlTMXclveuLDP"
+      },
+      "artists": [
+        {
+          "name": "Feel Heon",
+          "url": "https://open.spotify.com/artist/4NB54UMbh6NINg6B2iVFUw"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Season of Love",
+      "url": "https://open.spotify.com/track/46cy0kfws5edDaifSX4TSk"
+    },
+    {
+      "album": {
         "name": "Season of You",
         "url": "https://open.spotify.com/album/1MakxvFh1i9UAEdJYWmZYm"
       },

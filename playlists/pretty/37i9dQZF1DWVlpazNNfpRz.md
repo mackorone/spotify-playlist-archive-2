@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain]
 
 > When the beat drops, that's Guaracha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,757 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,763 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain]
 | 75 | [At Night](https://open.spotify.com/track/3sfaKVT2nEZkwuj8U9AGBF) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L) | [At Night](https://open.spotify.com/album/0RnzyTy6ySG5rm5pVBtyMH) | 3:03 |
 | 76 | [Que Tu Quiere](https://open.spotify.com/track/51TZ1XRQSKX4EYlgEWrQ4d) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Que Tu Quiere](https://open.spotify.com/album/6WG0ITJtGEcnyqRMW2XQgb) | 3:00 |
 | 77 | [No Me Puedo Controlar](https://open.spotify.com/track/4GYlxGb5Xp972XwJopcWlU) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Afrohouse](https://open.spotify.com/artist/1Zgm4UTCMfcuVx0yONUn9m), [Karymme](https://open.spotify.com/artist/1HHGv8saxiS0VLi4kygFLD) | [Golden](https://open.spotify.com/album/7mj9hOPxdpHTo5QP66jIAC) | 3:15 |
-| 78 | [Ven A Mi \- DJ Goozo & Massianello Remix](https://open.spotify.com/track/2JQxwKtJBiMXpLYDoRwo5X) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Mari Mar](https://open.spotify.com/artist/53XALYiUai4qVdFK0ghoKH), [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7) | [This is..\. Goozo & Massianello \#Guaracha](https://open.spotify.com/album/4ZTDacq29Q7q0DmMye7aAD) | 4:07 |
+| 78 | [Ven A Mi \- DJ Goozo, Massianello Remix](https://open.spotify.com/track/2JQxwKtJBiMXpLYDoRwo5X) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [MariMar](https://open.spotify.com/artist/3GqKz5VAbs3p4QiIGvSDet), [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7) | [This is..\. Goozo & Massianello \#Guaracha](https://open.spotify.com/album/4ZTDacq29Q7q0DmMye7aAD) | 4:07 |
 | 79 | [Se Me Pega](https://open.spotify.com/track/4cIynvE0U1hV5paCLbgWME) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [MC Killer](https://open.spotify.com/artist/6O5pykCTn1t2hp3fL6j1aE) | [Se Me Pega](https://open.spotify.com/album/0U3lBE1lbCPJSKd2bfIsmk) | 2:48 |
 | 80 | [Soque Toloque](https://open.spotify.com/track/0QBSj3mEPvL3wAaUMXaytz) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua), [Gio Padronf](https://open.spotify.com/artist/1ktcTSM7pZM99Ol0JmHW2O) | [Soque Toloque](https://open.spotify.com/album/5ER4z43cgdd3t1Y9McxjrK) | 4:57 |
 | 81 | [Bailalo](https://open.spotify.com/track/0Igd371jQ2prEGGCc9FmmE) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [MRSAX](https://open.spotify.com/artist/2HLeLKNPf0OmoZikqg6omJ), [KATH HERRERA](https://open.spotify.com/artist/74hpXfY56qzwZvvGsZfWP7) | [Bailalo](https://open.spotify.com/album/0Up5mRPVydD8WGYQydwboR) | 4:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain]
 | 89 | [Twilight Zone "Ay"](https://open.spotify.com/track/0gYVixEYUic7HRp8TLsVCA) | [Afro House Dj](https://open.spotify.com/artist/6bYLlD3Tmej2eV0Tacrsbx) | [Twilight Zone "Ay"](https://open.spotify.com/album/1hXbnrYEDqGuh9z1G7A5jK) | 4:46 |
 | 90 | [Respira](https://open.spotify.com/track/45n3wDN61hmYVdUcouWoXA) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 3:19 |
 
-Snapshot ID: `AAAAAENbRcYzJyyeiwqI/jzFKWvjPXwE`
+Snapshot ID: `AAAAAOyiWEnHvf4MnuY6PlxxzPU5WRlm`

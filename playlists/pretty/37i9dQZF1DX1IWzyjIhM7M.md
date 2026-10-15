@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,510 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,514 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 19 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
 | 20 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 |
 | 21 | [Even If It Kills Me](https://open.spotify.com/track/0vaLp7HL1NjFLcEQ66bz8X) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Even If It Kills Me](https://open.spotify.com/album/6dn7V9vlP36cwozlMRPoPJ) | 3:16 |
-| 22 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
-| 23 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 |
+| 22 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 |
+| 23 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
 | 24 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 25 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 |
 | 26 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 32 | [Since September](https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [No Substance Mixtape](https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72) | 3:02 |
 | 33 | [If You Were Mine](https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C) | 3:38 |
 | 34 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
-| 35 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 |
+| 35 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 |
 | 36 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
-| 37 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 |
+| 37 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 |
 | 38 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
 | 39 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 40 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 66 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
 | 67 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
 | 68 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
-| 69 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
-| 70 | [what u like](https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH) | [what u like](https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo) | 2:48 |
-| 71 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
+| 69 | [what u like](https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH) | [what u like](https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo) | 2:48 |
+| 70 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
+| 71 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 72 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
 | 73 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 74 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 78 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 79 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
 | 80 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
-| 81 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
-| 82 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
+| 81 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
+| 82 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
 | 83 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
 | 84 | [Nobody](https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [Nobody](https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od) | 3:02 |
 | 85 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 89 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 90 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 |
 | 91 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 |
-| 92 | [Un niñato en mi cama](https://open.spotify.com/track/5uaH0LvWQVsQpH70Uq7aIv) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [AAAaaahhhhh!!!!](https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq) | 1:49 |
-| 93 | [Is It Me](https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Is It Me](https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4) | 3:14 |
-| 94 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
-| 95 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 |
+| 92 | [Is It Me](https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Is It Me](https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4) | 3:14 |
+| 93 | [Un niñato en mi cama](https://open.spotify.com/track/5uaH0LvWQVsQpH70Uq7aIv) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [AAAaaahhhhh!!!!](https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq) | 1:49 |
+| 94 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 |
+| 95 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
 | 96 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
 | 97 | [piano song](https://open.spotify.com/track/4qJz2spmxnPavbGx51W0hn) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [nou](https://open.spotify.com/album/06jwpQC21cgnHAOeQ5EJ2k) | 2:37 |
-| 98 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
-| 99 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 |
-| 100 | [autotunelove](https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [autotunelove](https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e) | 2:39 |
+| 98 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 |
+| 99 | [autotunelove](https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [autotunelove](https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e) | 2:39 |
+| 100 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
 
-Snapshot ID: `AAAAAIzHVeteJlv6OdCA1KBOclZTi1Zh`
+Snapshot ID: `AAAAAErTYxtfa9I9iFQ3YGps8jSx3+CQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,455 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,453 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 27 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
 | 28 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 29 | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi) | 2:38 |
-| 30 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
-| 31 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
-| 32 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
-| 33 | [Dame fuerza](https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Dame fuerza](https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT) | 4:32 |
+| 30 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
+| 31 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
+| 32 | [Dame fuerza](https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Dame fuerza](https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT) | 4:32 |
+| 33 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 34 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
-| 35 | [Parras](https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ) | [no hay niños en el parque](https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw) | [Parras](https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l) | 3:34 |
-| 36 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
-| 37 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
+| 35 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
+| 36 | [Parras](https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ) | [no hay niños en el parque](https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw) | [Parras](https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l) | 3:34 |
+| 37 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
 | 38 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 39 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
 | 40 | [lo que no tiene forma](https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02) | [miraflores](https://open.spotify.com/artist/2gNsyO8EaIN8NcBekODo7g) | [lo que no tiene forma](https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx) | 4:11 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 47 | [Mata a Tus Ídolos](https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [S / T](https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB) | 1:48 |
 | 48 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
 | 49 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
-| 50 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
+| 50 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
 
-Snapshot ID: `AAAAAGDKARTA6w479y0ZI//97AuWzZMn`
+Snapshot ID: `AAAAAClv08byk+jKM/kgqIHCtu805IFP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,681 likes - 90 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,695 likes - 90 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Por amarte así](https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Por amarte así](https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7) | 3:32 |
 | 90 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 
-Snapshot ID: `AAAAAIWrdvOYI+QPgJoXDsLGGUkaJbhc`
+Snapshot ID: `AAAAAAJQAPun7666iPYz61imLbzo/m0L`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,390 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,356 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 51 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 52 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
 | 53 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
-| 54 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
-| 55 | [Viaje Tropical \- El lado B](https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/0herv01D7VruP9cPQli1xn) | 3:24 |
+| 54 | [Viaje Tropical \- El lado B](https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/0herv01D7VruP9cPQli1xn) | 3:24 |
+| 55 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
 | 56 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 57 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 |
 | 58 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 73 | [Suerte y Hasta Pronto](https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Berrinche](https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb) | 3:31 |
 | 74 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
 | 75 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
-| 76 | [Lo que elegiste.](https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [\[PAULA\] Compilación VOL 1.](https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ) | 1:06 |
-| 77 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
+| 76 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
+| 77 | [Lo que elegiste.](https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [\[PAULA\] Compilación VOL 1.](https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ) | 1:06 |
 | 78 | [Tan temperamental](https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:20 |
-| 79 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
-| 80 | [Encuentro](https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Encuentro](https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI) | 2:57 |
-| 81 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
-| 82 | [Flaca](https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Flaca](https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs) | 3:46 |
+| 79 | [Encuentro](https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Encuentro](https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI) | 2:57 |
+| 80 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
+| 81 | [Flaca](https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Flaca](https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs) | 3:46 |
+| 82 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 83 | [Mi manera de querer](https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Mi manera de querer](https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG) | 3:53 |
 | 84 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 |
 | 85 | [Burn](https://open.spotify.com/track/6NHLDaBJR7QZd7Q8iS8VO0) | [goodtoknow](https://open.spotify.com/artist/4oZUJYnV2dhImBZsagR0pc), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Nano Gillio](https://open.spotify.com/artist/0jHw5SRMONIzy7bMgT8LP0) | [I'LL STAY \(EP\)](https://open.spotify.com/album/3a3VPuqZpU505o0LifvwWt) | 3:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 89 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
 | 90 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
 
-Snapshot ID: `AAAAAKrkfwc7WNXOHnbnks5iYTPFUjag`
+Snapshot ID: `AAAAAFsvkf3fA2dbBZUkUGMaQWGU4/kp`

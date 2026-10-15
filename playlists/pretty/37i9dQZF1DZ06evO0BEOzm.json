@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 314257,
+  "num_followers": 314282,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABAxqIwhgqRWM0v6R7Xl75n",
+  "snapshot_id": "as10gAAAAACkilVWNX+cgIexnNB7jOsT",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
         "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 176855,
       "name": "DNA (More Than A Game)",
       "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Wanna Be (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 137983,
       "name": "Cry Baby (feat. DaBaby)",
       "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 171067,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 152571,
       "name": "Bigger In Texas",
       "url": "https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 171067,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154389,
-      "name": "Girls in the Hood",
-      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suga",
         "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 155497,
       "name": "Savage",
       "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 154389,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 124802,
+      "name": "Running Up Freestyle",
+      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motion Party (Remix)",
         "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 156200,
       "name": "Motion Party (Remix)",
       "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 124802,
-      "name": "Running Up Freestyle",
-      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
     },
     {
       "added_at": null,

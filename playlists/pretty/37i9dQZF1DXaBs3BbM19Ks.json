@@ -1,12 +1,12 @@
 {
   "description": "La playlist oficial de Sala de Despecho. \u00a1Arma la lloradera donde quiera que est\u00e9s!",
-  "num_followers": 961664,
+  "num_followers": 961647,
   "original_name": "Despecho Pa' Llevar ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvf3qrTI07xeSYqGvk00FlQBsyp",
+  "snapshot_id": "AAAAANHI0oetrpQkaarkHWserxgiNbwB",
   "tracks": [
     {
       "added_at": "2026-08-07 22:14:35",
@@ -139,6 +139,26 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2026-08-07 22:14:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 248000,
       "name": "\u00bfY C\u00f3mo Es \u00c9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2026-08-07 22:14:35",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 295666,
       "name": "Quiero Perderme Contigo",
       "url": "https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2026-08-07 22:14:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Volare (Nel Blu di Pinto di Blu)",
-      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 188893,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Volare (Nel Blu di Pinto di Blu)",
+      "url": "https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM"
     },
     {
       "added_at": "2026-08-07 22:14:35",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2026-08-07 22:14:35",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-08-07 22:14:35",
       "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3j5BMF5Pco451TqCo3YuCJ"
+    },
+    {
+      "added_at": "2026-08-07 22:14:35",
+      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 225080,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2026-08-07 22:14:35",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     }
   ],
   "unique_name": "Despecho Pa' Llevar ",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Aqu\u00ed est\u00e1 tu pr\u00f3ximo podcast favorito.",
-  "name": "RADAR Podcasters AL SUR",
+  "description": "Ac\u00e1 est\u00e1 tu pr\u00f3ximo podcast favorito. Portada: Mientras Lav\u00e1s los Platos",
+  "name": "RADAR Creators Argentina",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 299212,
       "name": "\"Amore mio\" Paolo",
       "url": "https://open.spotify.com/episode/4eF9Vzr92w7x1avVXwyDZo"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 220403,
       "name": "\"Aventura para contar, realidad para vivir\" Helena",
       "url": "https://open.spotify.com/episode/3UEe7rybBFUWejr40fpv3F"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 308198,
       "name": "\"Nunca me voy a olvidar de Pedro\" Sof\u00eda",
       "url": "https://open.spotify.com/episode/4EDkqZlAraVzJD6DGFleEV"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 3023424,
       "name": "03.- Mitos y leyendas de Chile",
       "url": "https://open.spotify.com/episode/74kS96vtY3cJAOgF8o4qkh"
+    },
+    {
+      "album": {
+        "name": "Mientras lav\u00e1s los platos",
+        "url": "https://open.spotify.com/album/21O8wDGZF9T5wq1zpkUWyM"
+      },
+      "artists": [
+        {
+          "name": "Mientras lav\u00e1s los platos",
+          "url": "https://open.spotify.com/show/21O8wDGZF9T5wq1zpkUWyM"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3217635,
+      "name": "66. SOFI MART\u00cdNEZ \u2014 La solter\u00eda y el lado B de cumplir sue\u00f1os\u00a0",
+      "url": "https://open.spotify.com/episode/782POQHPMPMmYOk8Ru7nuA"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 3779160,
       "name": "67.- El Iceberg",
       "url": "https://open.spotify.com/episode/2YGSQTRvVwfDpXIbUxZx3r"
@@ -106,10 +124,28 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 6247368,
       "name": "86.- El Diablo",
       "url": "https://open.spotify.com/episode/0XAmPTdkHOWgRD0xPpuNyz"
+    },
+    {
+      "album": {
+        "name": "Mientras lav\u00e1s los platos",
+        "url": "https://open.spotify.com/album/21O8wDGZF9T5wq1zpkUWyM"
+      },
+      "artists": [
+        {
+          "name": "Mientras lav\u00e1s los platos",
+          "url": "https://open.spotify.com/show/21O8wDGZF9T5wq1zpkUWyM"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1072853,
+      "name": "9. COSAS QUE NATURALIZAMOS DE NUESTRAS FAMILIAS \u2013 Error 404 pudor not found",
+      "url": "https://open.spotify.com/episode/6ewWcWSi5fZWV9P5It2Adh"
     },
     {
       "album": {
@@ -124,7 +160,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 306247,
       "name": "Bienvenidxssss",
       "url": "https://open.spotify.com/episode/7n6uxetbuCr4yvpO9TKceF"
@@ -142,10 +178,28 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 7302635,
       "name": "Carrete a lo maldito ft. @lauriturri",
       "url": "https://open.spotify.com/episode/2tbwHeBCmxZ7hCT8Vs0owP"
+    },
+    {
+      "album": {
+        "name": "TENGO BOCHA PARA DECIR ",
+        "url": "https://open.spotify.com/album/4B1KZbDVT7k7OGT6zwXm6i"
+      },
+      "artists": [
+        {
+          "name": "TENGO BOCHA PARA DECIR ",
+          "url": "https://open.spotify.com/show/4B1KZbDVT7k7OGT6zwXm6i"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2897088,
+      "name": "CHARLES MANSON Y SU \"FAMILIA\"",
+      "url": "https://open.spotify.com/episode/3HmYmxknLBqSv1JSu0OuQb"
     },
     {
       "album": {
@@ -160,7 +214,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 964680,
       "name": "Charlita de: HOST, \u00bfla pel\u00edcula m\u00e1s aterradora de todos los tiempos?",
       "url": "https://open.spotify.com/episode/5vjLvquPTaoPvfYJuLStVu"
@@ -178,10 +232,82 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 2215463,
       "name": "Desde \"Intensamente\", \u00bfhacia d\u00f3nde se dirige PIXAR?",
       "url": "https://open.spotify.com/episode/4OyjdTP1Ug3KHOdZkS8j3s"
+    },
+    {
+      "album": {
+        "name": "TODO POR LA EMPRESA",
+        "url": "https://open.spotify.com/album/3UD3C42RVV3vajLVGai3KT"
+      },
+      "artists": [
+        {
+          "name": "TODO POR LA EMPRESA",
+          "url": "https://open.spotify.com/show/3UD3C42RVV3vajLVGai3KT"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1453081,
+      "name": "Episodio 38: Mi DETOX del tel\u00e9fono",
+      "url": "https://open.spotify.com/episode/6Ut3cz1rt0diZbDT8VjNNj"
+    },
+    {
+      "album": {
+        "name": "TODO POR LA EMPRESA",
+        "url": "https://open.spotify.com/album/3UD3C42RVV3vajLVGai3KT"
+      },
+      "artists": [
+        {
+          "name": "TODO POR LA EMPRESA",
+          "url": "https://open.spotify.com/show/3UD3C42RVV3vajLVGai3KT"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3455175,
+      "name": "Episodio 47: Lo que voy a extra\u00f1ar de Berlin",
+      "url": "https://open.spotify.com/episode/4EgTHZorBKPxyPxmjphV5y"
+    },
+    {
+      "album": {
+        "name": "NADA QUE OCULTAR",
+        "url": "https://open.spotify.com/album/4sXiV70nmEs8odxruJGpmx"
+      },
+      "artists": [
+        {
+          "name": "NADA QUE OCULTAR",
+          "url": "https://open.spotify.com/show/4sXiV70nmEs8odxruJGpmx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2231104,
+      "name": "Estuve 2 a\u00f1os en otro pais - CAMI MAYAN | NADA QUE OCULTAR",
+      "url": "https://open.spotify.com/episode/5q5O67gSO8GzLhjo0hif5q"
+    },
+    {
+      "album": {
+        "name": "NADA QUE OCULTAR",
+        "url": "https://open.spotify.com/album/4sXiV70nmEs8odxruJGpmx"
+      },
+      "artists": [
+        {
+          "name": "NADA QUE OCULTAR",
+          "url": "https://open.spotify.com/show/4sXiV70nmEs8odxruJGpmx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1178005,
+      "name": "Ganaba 500 usd por dia en TikTok - Cande Copello",
+      "url": "https://open.spotify.com/episode/6RDSFn59emuRBCahOpHwUK"
     },
     {
       "album": {
@@ -203,6 +329,24 @@
     },
     {
       "album": {
+        "name": "\u00bfQui\u00e9n es Qui\u00e9n? por Martu Boden",
+        "url": "https://open.spotify.com/album/3hTZfR7DZa0c9FkxebKTfZ"
+      },
+      "artists": [
+        {
+          "name": "\u00bfQui\u00e9n es Qui\u00e9n? por Martu Boden",
+          "url": "https://open.spotify.com/show/3hTZfR7DZa0c9FkxebKTfZ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1358080,
+      "name": "Gui\u0301a para estar con tu crush",
+      "url": "https://open.spotify.com/episode/6vwybHPT9PztKVYoIM5r4K"
+    },
+    {
+      "album": {
         "name": "Sin Permiso",
         "url": "https://open.spotify.com/album/0dHa3E4qx7kG3gdAmYYHPn"
       },
@@ -214,7 +358,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 1513440,
       "name": "LA ISLA SINIESTRA: Te convencemos de verla y \u00bfcu\u00e1l es el final correcto?",
       "url": "https://open.spotify.com/episode/5pwJRIKVL4RiwRerrGHpIV"
@@ -232,7 +376,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 1213361,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/episode/6DACPWvgkSJ4CBPjWnjgxd"
@@ -250,7 +394,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 995230,
       "name": "Malos h\u00e1bitos parte 1",
       "url": "https://open.spotify.com/episode/5QaK22B6iyOn5RopWY5DVE"
@@ -293,6 +437,42 @@
     },
     {
       "album": {
+        "name": "TENGO BOCHA PARA DECIR ",
+        "url": "https://open.spotify.com/album/4B1KZbDVT7k7OGT6zwXm6i"
+      },
+      "artists": [
+        {
+          "name": "TENGO BOCHA PARA DECIR ",
+          "url": "https://open.spotify.com/show/4B1KZbDVT7k7OGT6zwXm6i"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1701653,
+      "name": "RUBY FRANKE: LA MAM\u00c1 M\u00c1S ODIADA DE INTERNET",
+      "url": "https://open.spotify.com/episode/1tyd3wmgizldGQxNstaUZQ"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n es Qui\u00e9n? por Martu Boden",
+        "url": "https://open.spotify.com/album/3hTZfR7DZa0c9FkxebKTfZ"
+      },
+      "artists": [
+        {
+          "name": "\u00bfQui\u00e9n es Qui\u00e9n? por Martu Boden",
+          "url": "https://open.spotify.com/show/3hTZfR7DZa0c9FkxebKTfZ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1682773,
+      "name": "Tips para tu primera vez",
+      "url": "https://open.spotify.com/episode/3vMNnPhOfKTZFv5bKb3O2K"
+    },
+    {
+      "album": {
         "name": "Az\u00facar Amargo",
         "url": "https://open.spotify.com/album/1bNbr4EUz6NjVQuu06PT14"
       },
@@ -304,7 +484,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 9359406,
       "name": "TPC: Quiebres amorosos ft. @pecosanerd",
       "url": "https://open.spotify.com/episode/4SjYYI0DkEPNTZ5RztYpfH"
@@ -322,7 +502,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 6330758,
       "name": "T\u00f3xicas United: Superando la toxicidad ft. @berniqla",
       "url": "https://open.spotify.com/episode/4kE4sMhCNnVzfJAC0SvALZ"

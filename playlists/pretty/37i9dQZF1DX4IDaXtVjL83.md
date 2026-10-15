@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: KickFlip, iann dior\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,154 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,174 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 18 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 |
 | 19 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 20 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 |
-| 21 | [ENOuGH](https://open.spotify.com/track/7MYgrDGoz1NlwTdBU9sXAg) | [HONGJOONG](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [ENOuGH](https://open.spotify.com/album/6NNgbHl1bfglbnPKeX5aSJ) | 2:23 |
-| 22 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 |
+| 21 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 |
+| 22 | [ENOuGH](https://open.spotify.com/track/7MYgrDGoz1NlwTdBU9sXAg) | [HONGJOONG](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [ENOuGH](https://open.spotify.com/album/6NNgbHl1bfglbnPKeX5aSJ) | 2:23 |
 | 23 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 | 24 | [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 |
 | 25 | [Blink \(feat\. TZUYU\)](https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [Blink \(feat\. TZUYU\)](https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB) | 2:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 47 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 |
 | 48 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 | 49 | [i’m like that \(feat\. Loco\)](https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [i’m like that \(feat\. Loco\)](https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0) | 2:15 |
-| 50 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
+| 50 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 
-Snapshot ID: `AAAAANO0v/9naB0E3s0LPro9d0Akb8Q5`
+Snapshot ID: `AAAAAFaOu51AEvxnxnTYGzFn78fGHOaK`

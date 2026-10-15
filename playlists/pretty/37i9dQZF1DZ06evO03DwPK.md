@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 
 > This is Bruno Mars\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,350,365 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,350,645 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 23 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 |
 | 24 | [On My Soul](https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:54 |
 | 25 | [Nothing on You](https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [May 25th](https://open.spotify.com/album/1aRkJ2n9HsHuyakKVXaMe6) | 1:47 |
-| 26 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 |
+| 26 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Mac and Devin Go to High School \(Music from and Inspired by the Movie\)](https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h) | 3:27 |
 | 27 | [Grenade](https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:42 |
 | 28 | [Dance With Me](https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:39 |
-| 29 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Mac and Devin Go to High School \(Music from and Inspired by the Movie\)](https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h) | 3:27 |
+| 29 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 |
 | 30 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 31 | [Please Me](https://open.spotify.com/track/1Ydy1j4ooUkDvQYSvwxjoy) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [AM I THE DRAMA? \(Ultimate Edition\)](https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh) | 3:20 |
 | 32 | [God Was Showing Off](https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:31 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 44 | [Gorilla](https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 4:04 |
 | 45 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
 
-Snapshot ID: `asrRgAAAAAD8KMQnsltr4mhaQWMMuoP5`
+Snapshot ID: `as10gAAAAADVd65UB0milUyy205Ma7Iu`

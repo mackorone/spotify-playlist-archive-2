@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,743 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,744 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
 | 60 | [OVERZONE](https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 1:21 |
 
-Snapshot ID: `AAAAACn2bp3KxlS+wTmdzZ8Cp+y96Gwl`
+Snapshot ID: `AAAAAFH5q76S6WF4zUd6A3J/3fveRrSE`

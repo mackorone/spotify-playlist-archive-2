@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,748 songs - 6 day 16 hr 5 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 359 likes - 2,749 songs - 6 day 16 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2756,5 +2756,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2746 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 |
 | 2747 | [Tô de Boa](https://open.spotify.com/track/15hI0GEN7t3t0NBDeKbfTZ) | [J\. Bernard](https://open.spotify.com/artist/6cw4bvntntvCFSZ6zS2nx2) | [Tô de Boa](https://open.spotify.com/album/581fmi1sdvGarhkV6mbVEy) | 1:59 |
 | 2748 | [Always Me](https://open.spotify.com/track/2eeZ7feQjjbj7K8mM8ZVyE) | [Cloud Static](https://open.spotify.com/artist/3c0gCqBOn3TsFMJ0XFVGra) | [Always Me](https://open.spotify.com/album/5GETAmuKeALaBNvgWCNFv0) | 2:34 |
+| 2749 | [YOU AND I](https://open.spotify.com/track/03x89Kr9NyV9q6T8pg7VOD) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU AND I](https://open.spotify.com/album/4ikoyRjiPIaQkaWuTUfm0c) | 7:39 |
 
-Snapshot ID: `AAALxUs7tSmzhD77WOP/XXqSdS9szxbW`
+Snapshot ID: `AAALxrBGHkPM3UkUwAGnhz8v40LC8ABk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Mesafeler  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,645 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,647 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Fısılda](https://open.spotify.com/track/1GotZQa8WVe9JVahn7On82) | [Alpaka](https://open.spotify.com/artist/1WCcyCEOygUZfeldhlI3rW) | [Fısılda](https://open.spotify.com/album/3B7i4RSKNhPfHvAoiq7bRr) | 3:18 |
 | 49 | [Nükleer Reaktör](https://open.spotify.com/track/4f6JvfcWbjWIVKm7yUoasO) | [İlk Zamanlar](https://open.spotify.com/artist/2WNsoUAF6QN5shnRksmzaC) | [Nükleer Reaktör](https://open.spotify.com/album/4hxbX7IV6f7OC0lcZWbB3p) | 8:00 |
 
-Snapshot ID: `AAAAAHysZRgLcsNbZ3PVvbnmA7Y62N4e`
+Snapshot ID: `AAAAAJBBnbJy6SC/hEwJITVN409QtouH`

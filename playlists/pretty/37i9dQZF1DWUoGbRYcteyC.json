@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1855055,
+  "num_followers": 1854879,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmXZV86EIWuSc38GzzQc7krakcp",
+  "snapshot_id": "AAAAAFym3YH8M79B4rJWpR5n7cN/p9so",
   "tracks": [
     {
       "added_at": "2026-10-08 21:26:35",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
-        "name": "Un Beso Menos",
-        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 220702,
-      "name": "Un Beso Menos",
-      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
+        "name": "Un Beso Menos",
+        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 220702,
+      "name": "Un Beso Menos",
+      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
     },
     {
       "added_at": "2026-10-08 21:26:35",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-10-08 21:26:35",

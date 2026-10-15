@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Itz Tiffany
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,130 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,153 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Highly](https://open.spotify.com/track/49GfO3XiSafrwTc3pVsgwc) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Highly](https://open.spotify.com/album/0kt4RxlkvDFTH2GOVwHfXb) | 2:31 |
 | 80 | [Sika](https://open.spotify.com/track/08k1vfVq9tiN1fRUMWGnS7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sika](https://open.spotify.com/album/6w3cZP8pDu7R5wQjgsqeXj) | 4:42 |
 
-Snapshot ID: `AAAAAMAAnnKPGuyOYD4WVl9XfBKnCjQW`
+Snapshot ID: `AAAAABaPkUh3eqPkC7UmWOSc3McmtwZv`

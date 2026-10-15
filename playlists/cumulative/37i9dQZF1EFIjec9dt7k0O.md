@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-297 songs - 17 hr 40 min
+298 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [How Long](https://open.spotify.com/track/3oLjGEDskvIB1jwUgnD9mB) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:38 | 2025-04-10 |  |
 | [Human](https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:20 | 2025-10-30 |  |
 | [Human](https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:20 | 2025-10-26 | 2025-10-31 |
+| [Hurry Up And Wait](https://open.spotify.com/track/6Sk5p4wXs5CZ5N2LWKEEij) | [bcrexords](https://open.spotify.com/artist/0n0pA9DdyQMnuYPTYI2mwY) | [Hurry Up And Wait \(Justin Bieber & Cody Simpson\)](https://open.spotify.com/album/61ZSANsWJpMq8AmmCppuFt) | 3:10 | 2026-10-14 |  |
 | [Hurt](https://open.spotify.com/track/2BMX5gh37iv3qKhJFiyOyX) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:50 | 2025-04-10 |  |
 | [I Can't Be Myself \(feat\. Jaden\)](https://open.spotify.com/track/4C9pETarpQoI5ODtx6My41) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:13 | 2025-04-10 | 2025-04-12 |
 | [I Need to Know](https://open.spotify.com/track/6gCPwhhn9vmlVHxo6JGmQO) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Gossip](https://open.spotify.com/album/3b0Ribq1uYsFvdbxbB9460) | 3:37 | 2025-04-10 | 2025-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Madiel Lara & Alex Zurdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,915 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,962 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Hablame Papa \- Acoustic Version](https://open.spotify.com/track/1gX3TXU7l998jWXRgwrXhM) | [Mayo Music](https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU), [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL) | [Hablame Papa \(Acoustic Version\)](https://open.spotify.com/album/7tFo3tIwxHZhS8kBR75tAL) | 7:53 |
 | 100 | [Verde](https://open.spotify.com/track/1h6w5OgW1e5xZrpnXeX73L) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Andy Rivero](https://open.spotify.com/artist/1ZDVkkAF9YyDQDraIKyPPI) | [Verde](https://open.spotify.com/album/3E3LdRfij3CKKnjzNqUUdi) | 3:46 |
 
-Snapshot ID: `AAAAABiF07x90qN+8iC1a0eu2PrSbwcC`
+Snapshot ID: `AAAAAMX/ZoCrcJc0B6wLivi0q2Td6c5Z`

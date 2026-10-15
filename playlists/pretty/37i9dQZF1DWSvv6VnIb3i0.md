@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,625 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,662 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 18 | [Je Fais De Toi Mon Essentiel](https://open.spotify.com/track/5OjDTNdv2lM4e3WOb7OqEU) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk) | [Le Roi Soleil \(Intégrale Collector\)](https://open.spotify.com/album/4WOweN4lmGWZDyNcBC6cLw) | 3:19 |
 | 19 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 |
 | 20 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
-| 21 | [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 |
+| 21 | [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 |
 | 22 | [Liberta](https://open.spotify.com/track/3QutrqACpwGWzywF3FVZsQ) | [Pep's](https://open.spotify.com/artist/6dvyAgidTbcn9vJO1eWQ6y) | [Utopies Dans Le Décor](https://open.spotify.com/album/1fOao2GZ24fIO9qJ8Mo3y8) | 3:22 |
 | 23 | [Toi et moi](https://open.spotify.com/track/1M09D3Qd5ni7uMufLp1NvJ) | [Guillaume Grand](https://open.spotify.com/artist/49oJKbmD3pnF9uynkJUWxU) | [L'amour Est Laid](https://open.spotify.com/album/0rCbxlmHGenab5DlWwGgef) | 3:46 |
 | 24 | [Toutes les femmes de ta vie](https://open.spotify.com/track/3PkVPI5Qj87BCyNBUQ2pJB) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [L5](https://open.spotify.com/album/1tO5kLF2GXzBdoJTNJEKut) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [C'est une belle journée](https://open.spotify.com/track/5S7mQHUAKFYsEQOrtTKMth) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Les mots](https://open.spotify.com/album/5Rc8dzu798sibwLHrk8oDB) | 4:16 |
 | 60 | [Il y a trop de gens qui t'aiment](https://open.spotify.com/track/1fxXW27caC5yWWt1vFTqnF) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 4:27 |
 
-Snapshot ID: `AAAAAA1Re5u3+ktyHRXp8mbOcd51s50o`
+Snapshot ID: `AAAAAG1Mux4/CujkaOcqzgmSBsk8FPQ7`

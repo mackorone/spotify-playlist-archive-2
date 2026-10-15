@@ -1,12 +1,12 @@
 {
   "description": "This is Feid. The essential tracks, all in one playlist.",
-  "num_followers": 873025,
+  "num_followers": 873066,
   "original_name": "This Is Feid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACZZDIFXEoxRD7IKKAcCqXX",
+  "snapshot_id": "as10gAAAAAAyA8eZg9MB8GqcUUZBZNWY",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -163,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "LA INOCENTE",
-      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Xon De Que",
-        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141465,
-      "name": "A Xon De Que",
-      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
     },
     {
       "added_at": null,
@@ -579,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Brickell",
-      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
@@ -619,6 +583,26 @@
       "duration_ms": 215026,
       "name": "Llori Pari",
       "url": "https://open.spotify.com/track/5dtzqRtiXKftAk6B6vxUmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "added_at": null,
@@ -706,15 +690,11 @@
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
         }
       ],
-      "duration_ms": 157593,
-      "name": "TIEMPO SIN VXRTX",
-      "url": "https://open.spotify.com/track/1IA7a4Q967PCZELcgCkmk0"
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/3FqUvsLaAh4k3Uh2d7L3bR"
     },
     {
       "added_at": null,
@@ -899,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "SI T\u00da SUPIERAS - Bonus Track",
-      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
@@ -931,6 +895,22 @@
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "SI T\u00da SUPIERAS - Bonus Track",
+      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
     },
     {
       "added_at": null,
@@ -991,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 286243,
-      "name": "Read My Lips",
-      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -1051,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 286243,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
         "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "BORRAXXA",
+      "url": "https://open.spotify.com/track/16uvds0iYqjEK8m5EGEdVd"
     }
   ],
   "unique_name": "This Is Feid",

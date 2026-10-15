@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 25 min
+97 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 | 2023-01-14 |  |
 | [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 | 2023-01-14 |  |
 | [Dama De Los Callejones](https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Dama De Los Callejones](https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f) | 3:10 | 2023-05-29 | 2025-09-12 |
+| [De Tripas Corazon](https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [Chela Lora](https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7) | [De Tripas Corazon](https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6) | 3:01 | 2026-10-15 |  |
 | [Difícil](https://open.spotify.com/track/31Hutqdoy7EZrLiF855CCO) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 2:46 | 2023-01-14 | 2023-05-20 |
 | [Difícil](https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 2:46 | 2023-05-19 |  |
 | [Difícil](https://open.spotify.com/track/6Y0hl9kDq78tTZUXAWzT0q) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Escrito En Piedra](https://open.spotify.com/album/1nfbPPEBuDGPjreY4d9v48) | 2:37 | 2026-07-19 | 2026-09-10 |
@@ -34,7 +35,7 @@
 | [Encuentros cercanos del tercer sexo](https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:29 | 2025-06-07 |  |
 | [Eres El Mejor](https://open.spotify.com/track/7kqaIIh8JLx97FIBVh7tNW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Yo Quiero Ser Tu Celular](https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3) | 2:33 | 2024-05-25 | 2024-07-21 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/4CylBNj92fpsrBDF897Amk) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Nacho Cano](https://open.spotify.com/artist/3sNPNZwXgDcCY71Jqa7kMe), [Reparto Original Malinche El Musical](https://open.spotify.com/artist/414Ri5Zew60OnucnMZ0ZNg) | [Esta Tarde Vi Llover](https://open.spotify.com/album/5p5V4KWu8WYfOiFrOM0Xk1) | 2:27 | 2023-07-08 | 2023-11-11 |
-| [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 | 2023-11-10 |  |
+| [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 | 2023-11-10 | 2026-10-15 |
 | [Hasta que el cuerpo aguante](https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:09 | 2024-06-26 | 2026-10-13 |
 | [Hasta que el cuerpo aguante](https://open.spotify.com/track/5pSwGig86mqtRobelUwPGO) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 2:09 | 2023-05-19 | 2023-05-28 |
 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 | 2023-01-14 |  |

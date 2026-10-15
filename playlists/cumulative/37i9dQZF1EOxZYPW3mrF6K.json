@@ -233,13 +233,13 @@
     },
     {
       "album": {
-        "name": "\u00a1Viva Latino!",
-        "url": "https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "\u00a1Viva Latino!",
-          "url": "https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu"
+          "name": "",
+          "url": "https://open.spotify.com/show/null"
         }
       ],
       "date_added": "2020-11-27",

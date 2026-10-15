@@ -184,7 +184,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 242500,
       "name": "Alabama Vs. Tennessee",
       "url": "https://open.spotify.com/track/7mTvbEPdmFlwpTUKMMuwG0"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "bloodstream (Official Music Video)",
       "url": "https://open.spotify.com/track/3bssyIRidCzKTV6yvZymSo"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 196788,
       "name": "Coast 2 Coast",
       "url": "https://open.spotify.com/track/07gQQzhCuZxwHVQddKCmtD"
@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "ELLA",
+        "url": "https://open.spotify.com/album/4oLOTyCGlPmEC1eZ32lziu"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "ELLA",
+      "url": "https://open.spotify.com/track/1IU52P61Zx9dmsin52H1Kl"
+    },
+    {
+      "album": {
         "name": "ENTRE TU Y YO",
         "url": "https://open.spotify.com/album/5ZPvuxDaWL82c2QMyki3Bh"
       },
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 168298,
       "name": "GET EVEN",
       "url": "https://open.spotify.com/track/3ksPsHjq0rvoM5lfavmExY"
@@ -1670,6 +1688,24 @@
       "duration_ms": 172305,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/5Wv6LGp0NlkZmuHU7u0C4K"
+    },
+    {
+      "album": {
+        "name": "Groove Armada - Live at Portola Music Festival 2026",
+        "url": "https://open.spotify.com/album/0Wp5oGLEjGqmAqfPBDdpTl"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4348693,
+      "name": "Groove Armada - Live at Portola Music Festival 2026",
+      "url": "https://open.spotify.com/track/6rd3MctxNvnAJi7sihwAGS"
     },
     {
       "album": {
@@ -1920,7 +1956,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 183274,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/3GLzEgUE1k4rUbbmdTslHY"
@@ -2000,7 +2036,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 158878,
       "name": "La Falda",
       "url": "https://open.spotify.com/track/5cETEBzsOKq1LmVlVDJff9"
@@ -2634,7 +2670,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 212309,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
@@ -3182,6 +3218,24 @@
       "duration_ms": 312320,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
+    },
+    {
+      "album": {
+        "name": "Patient Zero (So Let's Get Into It Video)",
+        "url": "https://open.spotify.com/album/34jVkLfc10VL7TeUwPicfV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229112,
+      "name": "Patient Zero - So Let's Get Into It Video",
+      "url": "https://open.spotify.com/track/7HYdxYHJAgKPp9JqZrb2VV"
     },
     {
       "album": {
@@ -3774,7 +3828,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -4208,7 +4262,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,197 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,185 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Allang Van Mij](https://open.spotify.com/track/6cmxD3gXSujTVgEqEygqTL) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Allang Van Mij](https://open.spotify.com/album/6ZK2NXTLHNzid9R826LbCC) | 2:45 |
 | 80 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
 
-Snapshot ID: `AAAAAGOMvrs3MVajnH5/qUSuw+sk2w+F`
+Snapshot ID: `AAAAAGKZrDrjGAXdXzks4E1OCm0lzlGD`

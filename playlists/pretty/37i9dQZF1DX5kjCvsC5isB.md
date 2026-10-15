@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,126 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,134 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 59 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 60 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
 | 61 | [THE BLOB](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [THE BLOB](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
-| 62 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
-| 63 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
+| 62 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
+| 63 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 64 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 | 65 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 66 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 68 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 69 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
 | 70 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 71 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
-| 72 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 71 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 72 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 73 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
 | 74 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 75 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 99 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 100 | [They Wouldn't Let Me In](https://open.spotify.com/track/7o7KZcYFilXgZXJE2tLRf5) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [They Wouldn't Let Me In](https://open.spotify.com/album/0eiFbTOOnsB0uLhgeoESSW) | 2:43 |
 
-Snapshot ID: `AAAAAAb6hsWIvjTOXxpm7Dw0OoQjT4N/`
+Snapshot ID: `AAAAAGEVa0kRsEqflXzsjdiWetZqcQoQ`

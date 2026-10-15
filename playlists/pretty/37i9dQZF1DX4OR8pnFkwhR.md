@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,064 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,066 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [トリックスター](https://open.spotify.com/track/3IB0BJE9hybJMOxufysBpu) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [トリックスター](https://open.spotify.com/album/2mpJQNIjm5czakxjOb5cIZ) | 2:27 |
 | 60 | [otukare](https://open.spotify.com/track/0idKcK4Kn2ufuScidLGBPL) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [otukare](https://open.spotify.com/album/43PYBVng0F5Njhxpubgilf) | 2:37 |
 
-Snapshot ID: `AAAAAC2Oi7tHo9QV0L9PAhEbidwxHrpH`
+Snapshot ID: `AAAAACD3lfsjMMy5I42QYJHd6vC1AUK2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,213 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,216 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 47 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 48 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 49 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:53 |
-| 50 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:59 |
-| 51 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
-| 52 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
+| 50 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
+| 51 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:59 |
+| 52 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
 | 53 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:38 |
 | 54 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 55 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 70 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
 | 71 | [Smooth Operator \- 2011 Remastered](https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:16 |
 | 72 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
-| 73 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
-| 74 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
+| 73 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
+| 74 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 75 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 | 76 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
-| 77 | [Together In Electric Dreams \- Remastered 2003 / From "Electric Dreams" Original Motion Picture Soundtrack](https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS) | [Phil Oakey](https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn), [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Philip Oakey & Giorgio Moroder](https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm) | 3:52 |
-| 78 | [Wicked Game \- Remastered](https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 4:46 |
+| 77 | [Wicked Game \- Remastered](https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 4:46 |
+| 78 | [Together In Electric Dreams \- Remastered 2003 / From "Electric Dreams" Original Motion Picture Soundtrack](https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS) | [Phil Oakey](https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn), [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Philip Oakey & Giorgio Moroder](https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm) | 3:52 |
 | 79 | [Don't Give Up](https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 6:34 |
 | 80 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 |
 
-Snapshot ID: `AAAAAMydRTrKZ73BqRKNY6GkzYZ/0LNi`
+Snapshot ID: `AAAAAOy/jvOrkK1U3MhAy3qqYshZAhvE`

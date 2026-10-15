@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,170 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,164 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [島のうた \(セイレーンver.\)](https://open.spotify.com/track/6w3HMh6z5VhTJi90M7o1EX) | [セイレーン（CV.鈴木みのり）](https://open.spotify.com/artist/36fQ1gknvetmWIalSTbsXo), [人魚（CV.大木咲絵子）](https://open.spotify.com/artist/5uGRCIchcDlzqnsHEsxsjg), [人魚（CV.七瀬彩夏）](https://open.spotify.com/artist/4QmSelJOs7IKRpD3ncuN2V) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1](https://open.spotify.com/album/7xx5V6cnXjC9CNcpbdBQpm) | 1:22 |
 | 60 | [見知らぬ糸](https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [見知らぬ糸](https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35) | 4:11 |
 
-Snapshot ID: `AAAAAFKbvqGwFQOek9MuYLy073KA8I0c`
+Snapshot ID: `AAAAABJCL38pvLGAZWQm1ySPotWHbGrs`

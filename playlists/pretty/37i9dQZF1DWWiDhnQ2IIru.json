@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3419012,
+  "num_followers": 3419172,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgbhrBFrYRW2aLDTwqaF2mRQuJ5",
+  "snapshot_id": "AAAAAGebc3LpgHa1QhkXi/+IGUYA9X3e",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 189044,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 189044,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
     },
     {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Easter",
@@ -843,6 +827,22 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+    },
+    {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191882,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 257786,
       "name": "Jealous Guy - Remastered 2010",
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191882,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
-        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 279413,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "They Only Come Out At Night",
@@ -1611,6 +1595,22 @@
       "duration_ms": 187173,
       "name": "Free Ride",
       "url": "https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
+        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
     }
   ],
   "unique_name": "70s Road Trip",

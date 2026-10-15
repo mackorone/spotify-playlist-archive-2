@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45381,
+  "num_followers": 45391,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABw568wzw8sk4K9f7JPX2Y0",
+  "snapshot_id": "as10gAAAAACQQKnmL7SQKlB9YPd1caO2",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 189403,
-      "name": "Call Me on Your Way Back Home",
-      "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -411,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Idiots Rule the World",
-      "url": "https://open.spotify.com/track/5C4SSUPfOnRYda4FL0Yjqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -459,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -468,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+      "duration_ms": 189403,
+      "name": "Call Me on Your Way Back Home",
+      "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
     },
     {
       "added_at": null,
@@ -491,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
         {
@@ -500,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Tell It to My Heart",
-      "url": "https://open.spotify.com/track/0RxGa6ou9V1ANxQvSxYvf0"
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -519,6 +487,22 @@
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Tell It to My Heart",
+      "url": "https://open.spotify.com/track/0RxGa6ou9V1ANxQvSxYvf0"
     },
     {
       "added_at": null,
@@ -555,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Wild Flowers",
-      "url": "https://open.spotify.com/track/6C5ASolSnEXGNVy9YF85zA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 181840,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Idiots Rule the World",
+      "url": "https://open.spotify.com/track/5C4SSUPfOnRYda4FL0Yjqr"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Suicide Handbook",
         "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 199466,
-      "name": "Just Saying Hi",
-      "url": "https://open.spotify.com/track/1SNKnMIaJu8fH5XxoBJhLw"
+      "duration_ms": 275373,
+      "name": "Wild Flowers",
+      "url": "https://open.spotify.com/track/6C5ASolSnEXGNVy9YF85zA"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+        "name": "Ryan Adams",
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
       },
       "artists": [
         {
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+      "duration_ms": 234893,
+      "name": "Gimme Something Good",
+      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
     },
     {
       "added_at": null,
@@ -708,15 +692,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Pretenders",
-      "url": "https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv"
+      "duration_ms": 199466,
+      "name": "Just Saying Hi",
+      "url": "https://open.spotify.com/track/1SNKnMIaJu8fH5XxoBJhLw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ryan Adams",
-        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Gimme Something Good",
-      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 234426,
       "name": "I See Monsters",
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Pretenders",
+      "url": "https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 290520,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
+      "duration_ms": 318586,
+      "name": "The Shadowlands",
+      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
     }
   ],
   "unique_name": "This Is Ryan Adams",

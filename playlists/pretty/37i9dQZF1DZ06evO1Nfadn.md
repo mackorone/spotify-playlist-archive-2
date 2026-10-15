@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,655 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,667 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 5 | [Pero Te Amo](https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Historia de Los Exitos](https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb) | 2:42 |
 | 6 | [Cómo La Luna](https://open.spotify.com/track/3QaDuk77U04e1EURbWzUFu) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 3:01 |
 | 7 | [Quiero Volver](https://open.spotify.com/track/48gGONL6yRaf8NrT9R8DV7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:49 |
-| 8 | [El Condor Pasa](https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Condor Pasa](https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR) | 2:49 |
-| 9 | [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 |
+| 8 | [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 |
+| 9 | [El Condor Pasa](https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Condor Pasa](https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR) | 2:49 |
 | 10 | [El Teterete](https://open.spotify.com/track/6lNUzwn5EjRBdYjjt2KbhK) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:56 |
 | 11 | [Mil Gracias](https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 3:17 |
 | 12 | [Porque Es Amor](https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:30 |
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 28 | [El Zancudito](https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:44 |
 | 29 | [El Ausente](https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 para Coleccionar](https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm) | 2:16 |
 | 30 | [Para Que No Me Olvides](https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:11 |
-| 31 | [Dos Gotas de Agua](https://open.spotify.com/track/3zOX9kZFskHnK2rp1abpCJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mil Gracias](https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO) | 2:56 |
-| 32 | [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 |
+| 31 | [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 |
+| 32 | [Dos Gotas de Agua](https://open.spotify.com/track/3zOX9kZFskHnK2rp1abpCJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mil Gracias](https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO) | 2:56 |
 | 33 | [Baila Nena](https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:36 |
 | 34 | [Cuánto Te Quiero](https://open.spotify.com/track/0LOqmTGUdzodF0alpMXvGG) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 3:11 |
-| 35 | [Jacinto Pérez de la o](https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:06 |
-| 36 | [Cecy](https://open.spotify.com/track/6Tk08RJV38FjTJ0wqdffvQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:31 |
+| 35 | [Cecy](https://open.spotify.com/track/6Tk08RJV38FjTJ0wqdffvQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:31 |
+| 36 | [Jacinto Pérez de la o](https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:06 |
 | 37 | [Mujer Paseada](https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:22 |
 | 38 | [El Caderazo](https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Nueva Era de la Quebradita](https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc) | 3:15 |
-| 39 | [Ay Amigo](https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:28 |
-| 40 | [Dos camionetas](https://open.spotify.com/track/6IMCqLswmsx0KDl7M2EkFg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:15 |
+| 39 | [Dos camionetas](https://open.spotify.com/track/6IMCqLswmsx0KDl7M2EkFg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:15 |
+| 40 | [Ay Amigo](https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:28 |
 | 41 | [Hambriento Como Lobo](https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Mundo Gira](https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9) | 3:02 |
 | 42 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 |
-| 43 | [Alma de Acero](https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:26 |
-| 44 | [Corazón de oro](https://open.spotify.com/track/0IHLxmffMJ91uIpY2f8W0n) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 3:27 |
+| 43 | [Corazón de oro](https://open.spotify.com/track/0IHLxmffMJ91uIpY2f8W0n) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 3:27 |
+| 44 | [Alma de Acero](https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:26 |
 | 45 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
 | 46 | [Dulce Veneno](https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:42 |
 | 47 | [Te Necesito](https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 3:10 |
 | 48 | [Si la Ven por Ahí](https://open.spotify.com/track/1yOEp1DlTTSbC5AM2WzVIK) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:52 |
 | 49 | [Brinca Brita](https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:14 |
-| 50 | [A mis padres](https://open.spotify.com/track/1TN6hXn1VlNfEcERIGqMdP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:35 |
+| 50 | [Tu precio](https://open.spotify.com/track/2ZbVZyUkHjy6EFXV3R7dsm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:52 |
 
-Snapshot ID: `asrRgAAAAAB2mIU31rEftP/nyN0CmoNP`
+Snapshot ID: `as10gAAAAAAw/vH2+uyD7XuH36f78DqE`

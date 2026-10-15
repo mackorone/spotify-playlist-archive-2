@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais, Cardi B, Naiara Azevedo com Israel & Rodolffo, Gunna e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316,166 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,315,959 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 80 | [Insane](https://open.spotify.com/track/77PbAjyOM8Z5PEsGIHNljB) | [Felterz](https://open.spotify.com/artist/7koJQ45fvaUVgY8sdtp9JR), [Roaz](https://open.spotify.com/artist/3Y7AGik4EYQT3FX6Cx0iMk) | [Insane](https://open.spotify.com/album/0aVMyrGF2cORWfOYfWNeBg) | 3:07 |
 | 81 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
 
-Snapshot ID: `AAAAABuYGyI/w/zSBGbhgpi8bXKFzJmS`
+Snapshot ID: `AAAAAMBqSFMZre4D3KZtz+Y+0iadsrYY`

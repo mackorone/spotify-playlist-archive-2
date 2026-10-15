@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > 'tá na rua? traz salsinha?' \(eternamente\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,188 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,195 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 44 | [SAMBA DE CRIA](https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [TÁ FELIZ?!](https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg) | 3:11 |
 | 45 | [Hexagrama 28](https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 3:26 |
 | 46 | [Estragar a Amizade](https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP), [Gamboa](https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL) | [Estragar a Amizade](https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG) | 3:21 |
-| 47 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
-| 48 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
+| 47 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
+| 48 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 49 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 |
 | 50 | [Pra Sempre](https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:51 |
 | 51 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |
 | 52 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 |
 | 53 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
-| 54 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 |
+| 54 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 |
 | 55 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 |
 | 56 | [Imunização Racional](https://open.spotify.com/track/4Y4XzfNAzOqax0YcXxkP0u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 4:40 |
 | 57 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
 | 58 | [Coisas do Amor \(Me Chama\)](https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [SAGRADO, Vol 2](https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S) | 3:42 |
-| 59 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 |
+| 59 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 |
 | 60 | [Volta](https://open.spotify.com/track/7r4Y2Z10DO44Ju82dpb4ve) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:57 |
 
-Snapshot ID: `AAAAALWSxBKS3+hIcJwe249I2a66LMbS`
+Snapshot ID: `AAAAAIqnkpbBF5e44A83jbQ8WZfQYk5J`

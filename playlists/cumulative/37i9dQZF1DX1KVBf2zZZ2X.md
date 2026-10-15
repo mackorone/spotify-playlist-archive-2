@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-376 songs - 17 hr 30 min
+377 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alba Interior](https://open.spotify.com/track/6CucfbV9cRorFGJsxvawjW) | [Ambientis](https://open.spotify.com/artist/1d6rZsRCqd4bX8i1mpC5Eg) | [Alba Interior](https://open.spotify.com/album/3kKKSiPrL6WReIc6UfZITH) | 2:35 | 2025-12-03 | 2026-03-21 |
 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 | 2024-02-06 | 2024-10-20 |
 | [Amicitia](https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj) | [Novataire](https://open.spotify.com/artist/55xdv1NaYNZdMBLT7yRTEC) | [Amicitia](https://open.spotify.com/album/2ZoWABKbu1bnwjcL1YIeSi) | 1:58 | 2023-04-13 | 2023-10-07 |
-| [Among the Trees](https://open.spotify.com/track/7kdIJsL9I72X4HA4ySTxsJ) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Among the Trees](https://open.spotify.com/album/44da8CCGVhjzH4EBEMp0Bi) | 3:08 | 2026-01-21 |  |
+| [Among the Trees](https://open.spotify.com/track/7kdIJsL9I72X4HA4ySTxsJ) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Among the Trees](https://open.spotify.com/album/44da8CCGVhjzH4EBEMp0Bi) | 3:08 | 2026-01-21 | 2026-10-15 |
 | [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 | 2025-06-16 |
 | [Angelic Birds](https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5) | [Inara Rex](https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj) | [Angelic Birds](https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX) | 2:07 | 2024-02-06 | 2025-09-25 |
 | [Anima Naturale](https://open.spotify.com/track/2kFfuFMjmXUuIyWEBDoKXA) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Anima Naturale](https://open.spotify.com/album/3FjoYivEdT9lJFiD10OrHZ) | 2:28 | 2024-07-18 | 2025-09-25 |
@@ -129,6 +129,7 @@
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-21 |  |
 | [Floe](https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Floe](https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU) | 2:40 | 2026-03-20 |  |
 | [Florentis](https://open.spotify.com/track/7BgPkHOrBSKx9i5yaTb87V) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Florentis](https://open.spotify.com/album/3pqBWV3lk99dUPIq8NLvEA) | 2:07 | 2025-12-03 | 2026-08-22 |
+| [Flowing Forest](https://open.spotify.com/track/6LkTXgYZY6l4B5GaHNtG8Z) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Flowing Forest](https://open.spotify.com/album/3R8KbZtbAwoin2bXcjrdQj) | 2:50 | 2026-09-09 |  |
 | [Fluid Movement](https://open.spotify.com/track/6AwQRj5u23WSlB8tctfBet) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [Fluid Movement](https://open.spotify.com/album/4nnNYETIsH82HXqGmtycTl) | 2:38 | 2026-03-20 | 2026-06-19 |
 | [Flying Wireless](https://open.spotify.com/track/63EfgFrmklwDHZe6bNQl7Y) | [Lila Diminuto](https://open.spotify.com/artist/6GpY1TtFO3dfey4NKW7Iqm) | [Flying Wireless](https://open.spotify.com/album/5vR779W9Z1GkqQatPy1Ti5) | 4:13 | 2024-05-15 | 2025-02-07 |
 | [Forelsket \(Forest\)](https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forelsket \(Forest\)](https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK) | 2:30 | 2024-09-04 | 2025-09-25 |

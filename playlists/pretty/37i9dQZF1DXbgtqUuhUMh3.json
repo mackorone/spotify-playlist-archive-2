@@ -1,13 +1,29 @@
 {
-  "description": "Listen to Arab women, at full volume. Dana Salah is co-curating EQUAL Arabia this month.",
-  "num_followers": 7108,
+  "description": "Listen to Arab women, at full volume. Cover: Elissa. ",
+  "num_followers": 7117,
   "original_name": "EQUAL Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNFswIOcKWSMiZfKQW2mgvhsIaV",
+  "snapshot_id": "AAAAAP36RGTDjRVHHSOFmT9/oZvbaZ9h",
   "tracks": [
+    {
+      "added_at": "2026-10-14 13:41:23",
+      "album": {
+        "name": "Leebat Al Ayam",
+        "url": "https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Leebat Al Ayam",
+      "url": "https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8"
+    },
     {
       "added_at": "2026-09-01 12:57:00",
       "album": {

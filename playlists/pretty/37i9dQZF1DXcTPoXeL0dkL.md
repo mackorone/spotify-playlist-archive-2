@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,721 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,741 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 48 | [Muero por Verla](https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6) | [Luis Mateus, David Rendon Y La Nueva Generacion](https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN) | [Historia Musical de Luis Mateus y la Nueva Generación](https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP) | 4:38 |
 | 49 | [No Te Detengas](https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
 | 50 | [Amarte Mas No Pude](https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Lo Mejor 17 Grandes Exitos](https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz) | 4:50 |
-| 51 | [Directo al corazón](https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP) | [Jesús Manuel](https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:00 |
-| 52 | [Obsesión](https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7) | [Homenaje](https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ) | 3:34 |
-| 53 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
+| 51 | [Adiós Amor](https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW) | [Grandes Éxitos \- Luis Mateus y David Rendón](https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU) | 4:19 |
+| 52 | [Directo al corazón](https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP) | [Jesús Manuel](https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:00 |
+| 53 | [Obsesión](https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7) | [Homenaje](https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ) | 3:34 |
 | 54 | [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
-| 55 | [Adiós Amor](https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW) | [Grandes Éxitos \- Luis Mateus y David Rendón](https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU) | 4:19 |
+| 55 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
 | 56 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 |
 | 57 | [Acompañame](https://open.spotify.com/track/29z3uOfSJKyM4JnXHtptX5) | [Fabian Corrales](https://open.spotify.com/artist/0c59rGZvvhTT89vbLMiiM6) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:19 |
 | 58 | [Te Necesito](https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Diomedes Diaz, La Ventana Marroncita y 15 Éxitos Más!](https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV) | 4:35 |
 | 59 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
 | 60 | [El Mochuelo](https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo) | 4:57 |
 
-Snapshot ID: `AAAAAMb1odYb+LHG6rS3aS08g0cH+pLa`
+Snapshot ID: `AAAAADIPoEeW9DzZ3syknYyWGggElp6U`

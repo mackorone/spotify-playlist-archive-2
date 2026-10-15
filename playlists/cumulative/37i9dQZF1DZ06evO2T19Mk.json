@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "\"From Now On We Are Enemies\"",
       "url": "https://open.spotify.com/track/2hC4LPebn0xctVGsVPOwJX"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
@@ -1468,9 +1468,27 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "date_added": "2023-12-13",
+      "date_added": "2026-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire (Bonus Track)",
+      "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-15",
       "duration_ms": 222231,
       "name": "What a Time To Be Alive",
       "url": "https://open.spotify.com/track/6eyaiauoVhwiUuZjTcayXv"

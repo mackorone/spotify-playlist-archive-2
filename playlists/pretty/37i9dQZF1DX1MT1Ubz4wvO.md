@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Fother Muckers
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,016 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,989 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Algo Inesperado](https://open.spotify.com/track/2VCKbcZIXJ99qY1anobrQu) | [For Your Information](https://open.spotify.com/artist/4RUCfsKZRI6fbG14biFCQ9) | [Y Todo Este Futuro](https://open.spotify.com/album/3B657fzKkqcKX7l3yR0wQ2) | 2:27 |
 | 50 | [la montaña .·:¨·601·¨:·.](https://open.spotify.com/track/6eNFMLYdd6wrPPvNiIZ1Gs) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [.𖥔 ݁ ˖lucero˖ ݁ 𖥔.](https://open.spotify.com/album/6br9eq01RvnKnS1F9oqPcD) | 5:01 |
 
-Snapshot ID: `AAAAAPxicyfaRRs2cZR+fbd8DZcENubt`
+Snapshot ID: `AAAAAOhuxps1X8L/H48e5VZJp2M/R3VE`

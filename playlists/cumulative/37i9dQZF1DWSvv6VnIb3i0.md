@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2024-10-08 |  |
+| [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2024-10-08 |  |
 | [A ma place](https://open.spotify.com/track/4xDGY7Tm3burLInzkhlfTi) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Personne N'Est Parfait](https://open.spotify.com/album/6HUlhuwOCeV4Vu9Ad1iFzO) | 5:29 | 2024-01-31 |  |
 | [Allo le monde](https://open.spotify.com/track/5oAh4WgAinKO7T7XcHetLR) | [Pauline](https://open.spotify.com/artist/4zIUBMp6XPcC2rkdtbxwyL) | [Allo le monde](https://open.spotify.com/album/0D2PjanrAYvPHQlh2R7a8v) | 3:38 | 2023-03-06 |  |
 | [Angela](https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ) | [Saian Supa Crew](https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6) | [Klr](https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL) | 3:46 | 2023-03-06 |  |

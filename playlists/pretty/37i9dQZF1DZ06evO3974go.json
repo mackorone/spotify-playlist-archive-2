@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAA4nqOtW204DoBZSXsCZdJQ",
+  "snapshot_id": "as10gAAAAABvob/qQEPVXsj9Wg9JYhtg",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO YO PURPOSE",
-        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "NO YO PURPOSE",
-      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Yo Wingz",
         "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 155000,
       "name": "Got Yo Wingz",
       "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO YO PURPOSE",
+        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "NO YO PURPOSE",
+      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Be Worried",
+        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 182303,
+      "name": "To Be Worried",
+      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Be Worried",
-        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
       "artists": [
         {
@@ -472,9 +488,25 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 182303,
-      "name": "To Be Worried",
-      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
+      "duration_ms": 195908,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -499,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 195908,
-      "name": "Never Fold",
-      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Widebody",
+      "url": "https://open.spotify.com/track/6QxRfr4cpfGogzHBycDa9A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -735,6 +755,38 @@
       "duration_ms": 281704,
       "name": "No Way",
       "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 129160,
+      "name": "Cougar",
+      "url": "https://open.spotify.com/track/5JQUNxujckTWaqNlEvo3gf"
     },
     {
       "added_at": null,
@@ -787,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
       },
       "artists": [
         {
@@ -796,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 230200,
+      "name": "These Niggas Hoes",
+      "url": "https://open.spotify.com/track/5ECVfWKBsxf3hsoQxZBg9W"
     },
     {
       "added_at": null,
@@ -819,46 +871,6 @@
       "duration_ms": 276080,
       "name": "Never Made Love (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIA : Going In Afterlife",
-        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 129160,
-      "name": "Cougar",
-      "url": "https://open.spotify.com/track/5JQUNxujckTWaqNlEvo3gf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
-        "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
-      },
-      "artists": [
-        {
-          "name": "Propain",
-          "url": "https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
-      "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
     },
     {
       "added_at": null,
@@ -911,42 +923,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+        "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
+        "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
       },
       "artists": [
         {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+          "name": "Propain",
+          "url": "https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y"
         },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
-      },
-      "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+      "duration_ms": 247384,
+      "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
+      "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

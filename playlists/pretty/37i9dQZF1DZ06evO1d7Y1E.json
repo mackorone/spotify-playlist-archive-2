@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117596,
+  "num_followers": 117604,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACYusrqHNoyXGjjQIlMqevb",
+  "snapshot_id": "as10gAAAAADtMSEdFCYpGQY28JZDMkyo",
   "tracks": [
     {
       "added_at": null,
@@ -671,70 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
-      },
-      "artists": [
-        {
-          "name": "DJ WILL TN",
-          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 324843,
-      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        },
-        {
-          "name": "Mandark",
-          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Mundo Covarde",
-      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -787,6 +723,70 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Mundo Covarde",
+      "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+      },
+      "artists": [
+        {
+          "name": "DJ WILL TN",
+          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 324843,
+      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
     },
     {
       "added_at": null,
@@ -1327,6 +1327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Nova Era",
+        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -1387,26 +1411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Nova Era",
-        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
       },
       "artists": [
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,
@@ -1435,18 +1451,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+        "name": "Ordem do Mano",
+        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
       "artists": [
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
+      "duration_ms": 195553,
+      "name": "Ordem do Mano",
+      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
     },
     {
       "added_at": null,
@@ -1511,34 +1539,6 @@
       "duration_ms": 194634,
       "name": "Desde Menorzin",
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ordem do Mano",
-        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 195553,
-      "name": "Ordem do Mano",
-      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
     },
     {
       "added_at": null,

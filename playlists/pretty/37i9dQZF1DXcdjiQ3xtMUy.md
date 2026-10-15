@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Hawk, Eleni Foureira
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,532 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,530 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Glyko Antio](https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:20 |
 | 50 | [Fotia Sti Nihta](https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Fotia Sti Nihta](https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW) | 3:18 |
 
-Snapshot ID: `AAAAADJdFQeny3cOwN/OUisHsW3CGS9n`
+Snapshot ID: `AAAAAMV7t7k2DjI4Q042MFXep85YIsmJ`

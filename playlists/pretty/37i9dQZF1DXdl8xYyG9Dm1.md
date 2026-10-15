@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,286 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,327 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 46 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 |
 | 47 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 | 48 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 |
-| 49 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 |
-| 50 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
+| 49 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
+| 50 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 |
 | 51 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
 | 52 | [NO MORE SLEEP](https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO MORE SLEEP](https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q) | 2:49 |
 | 53 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 |
 | 70 | [Reason](https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Reason](https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli) | 2:01 |
 
-Snapshot ID: `AAAAAHikzoS1igIp6ZHVNBJTFp6xxENl`
+Snapshot ID: `AAAAAGEz+s3UEGz8VUEsV1ZN/oO5+P9i`

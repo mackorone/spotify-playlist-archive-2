@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,958 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,962 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 60 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
 
-Snapshot ID: `AAAAAOwoA0pRTOM1q4E4uSNrwVquUSro`
+Snapshot ID: `AAAAAIVcdLk5CtbtKO12TldJvjD3kPUF`

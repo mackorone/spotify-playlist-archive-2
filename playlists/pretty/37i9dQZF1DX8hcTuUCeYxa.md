@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bilderbuch
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,124 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,116 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Belinda](https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Belinda](https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG) | 2:45 |
 | 90 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
 
-Snapshot ID: `AAAAAP1/gOn9f3T9i1dA3DAiAFIDchf9`
+Snapshot ID: `AAAAAEZnGO6TtXXl0LmWdh597OOJp59N`

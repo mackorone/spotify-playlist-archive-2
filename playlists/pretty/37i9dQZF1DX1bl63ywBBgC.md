@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,712 likes - 90 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,769 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 5 | [TANRiCO \- Spotify Sessions](https://open.spotify.com/track/6Fhof3SolwRQJhBbhyrCci) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 2:52 |
 | 6 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
 | 7 | [mariposas en el estómago](https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [El Laberinto del Coco](https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:40 |
-| 8 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
-| 9 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:52 |
+| 8 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:52 |
+| 9 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 10 | [Luz de Día](https://open.spotify.com/track/34siP2xrwOEi3Ne1hI4aT2) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Luz de Día](https://open.spotify.com/album/1NwK0XOJbUGJZVBCkLLGM3) | 2:49 |
 | 11 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
 | 12 | [Cuando Me Enamoro](https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 50 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
 | 51 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
 | 52 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 53 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
-| 54 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
+| 53 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
+| 54 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
 | 55 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 56 | [Si Supieras](https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Exitos Originales](https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy) | 5:10 |
 | 57 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 89 | [Ella](https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:35 |
 | 90 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
 
-Snapshot ID: `AAAAAAsiEJKXyi1/M/Xir5GHBA4r4oX1`
+Snapshot ID: `AAAAAAyEto3ZkMIgLd1EVL45SGKD7Zyz`

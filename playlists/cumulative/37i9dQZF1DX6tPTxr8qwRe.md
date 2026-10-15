@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Emei on the cover
 
-1,165 songs - 2 day 6 hr 3 min
+1,166 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [FEED](https://open.spotify.com/track/2eXh5UwalI7ybBJrUj9PKe) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [FEED](https://open.spotify.com/album/65IipWudxgR60faq3AJbtH) | 3:13 | 2026-05-15 | 2026-10-02 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-07 | 2023-05-20 |
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-08-05 |
+| [Female Manipulator](https://open.spotify.com/track/07BrETXm3rBcPUqSUVpCpJ) | [katie MAC](https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5) | [Female Manipulator](https://open.spotify.com/album/0alukCT2P3kQswZ3krBrBN) | 2:15 | 2026-10-14 |  |
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 | 2024-10-05 |
 | [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 | 2026-02-20 | 2026-08-08 |
 | [Fixer Upper](https://open.spotify.com/track/75u1ZQkdlnTO0PuFFs271F) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Fixer Upper](https://open.spotify.com/album/63wmTOV6EpKEEw7rJXjBiZ) | 2:50 | 2023-05-05 | 2023-08-19 |
@@ -796,7 +797,7 @@
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-26 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-09 |
 | [Poison](https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Messy](https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD) | 2:04 | 2022-11-11 | 2023-05-20 |
-| [Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Emptiness Is Godly](https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1) | 2:41 | 2026-05-08 |  |
+| [Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Emptiness Is Godly](https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1) | 2:41 | 2026-05-08 | 2026-10-15 |
 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 | 2024-06-28 | 2024-09-14 |
 | [Popstar](https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey dad, I tried to be nice](https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH) | 3:33 | 2023-05-19 | 2023-09-09 |
 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 | 2025-11-07 | 2026-04-04 |

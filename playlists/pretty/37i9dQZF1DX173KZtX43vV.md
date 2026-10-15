@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,517 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,522 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [U&ME](https://open.spotify.com/track/73ruBI13kj6MhGFRy9ASfq) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [U&ME](https://open.spotify.com/album/1EUDYizwPNLaEO6IHd277g) | 3:12 |
 | 50 | [bigots & cunts](https://open.spotify.com/track/0RwllU4uQcE3UQKHVZ7VHz) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [bigots & cunts](https://open.spotify.com/album/4xe1tC1L0GAgXmupt9K910) | 1:51 |
 
-Snapshot ID: `AAAAALG+SMUPE1dwWzeZc4NDd8RCI0NF`
+Snapshot ID: `AAAAACEOqqYdC54w8+cv/wMMJGJaEgXh`

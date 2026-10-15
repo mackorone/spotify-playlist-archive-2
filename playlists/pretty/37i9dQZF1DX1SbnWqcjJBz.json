@@ -1,12 +1,12 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 139258,
+  "num_followers": 139267,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEg9xSkXb4y3BcOQqh+3x5o2LeJ9",
+  "snapshot_id": "AAAAAMPHH9McwjPRijKBg4pdM+dgnAOT",
   "tracks": [
     {
       "added_at": "2024-06-02 21:23:10",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 189200,
       "name": "1999",
       "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Audacious",
-        "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "Lgbt",
-      "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I Don't Wanna Grow Up",
         "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224200,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "Lgbt",
+      "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Hair Body Face",
-      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 238413,
       "name": "Let Go for Tonight",
       "url": "https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Hair Body Face",
+      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
     },
     {
       "added_at": "2024-06-02 21:23:10",

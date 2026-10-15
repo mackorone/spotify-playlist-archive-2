@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,990 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,962 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Set Me Free](https://open.spotify.com/track/1N8iihpcp6T6B8kOod9ZL8) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Asphodelle](https://open.spotify.com/artist/1JJ9hSTHglphrcCRe90ntV) | [Set Me Free](https://open.spotify.com/album/6Wlk6NrYtOuOfwRmpGmezb) | 2:44 |
 | 60 | [Haïve](https://open.spotify.com/track/5MQsyoSmKvGypaAqhYWiMC) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Haïve](https://open.spotify.com/album/3AiC8VODpkcPYaELmjvm4M) | 4:55 |
 
-Snapshot ID: `AAAAAEq541s2y9ZV01EBpq0IaB+xbR1H`
+Snapshot ID: `AAAAAK6hPkAlbft25Inq7w3HoVC+hE4W`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,349 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,368 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 16 | [Psalm 8 \(Hallé\)](https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Psalm 8 \(Hallé\)](https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm) | 3:48 |
 | 17 | [The King Is In The Room](https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:02 |
 | 18 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
-| 19 | [How Great](https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 3:26 |
-| 20 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
+| 19 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
+| 20 | [How Great](https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 3:26 |
 | 21 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
 | 22 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
 | 23 | [The Stand \(Amen\)](https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 2:02 |
-| 24 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
-| 25 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 24 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 25 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
 | 26 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
 | 27 | [Running To A Runaway](https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 3:59 |
 | 28 | [Why God \- My God](https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 48 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 49 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
 
-Snapshot ID: `asrRgAAAAAA6aQcCLNJOQCxctuh808W7`
+Snapshot ID: `as10gAAAAAC5gbACCUB98zeYrQemWXPG`

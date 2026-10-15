@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-297 songs - 17 hr 4 min
+299 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-23 | 2025-12-13 |
 | [Memory](https://open.spotify.com/track/5FGMgtXqZW9J5Coo6dbyWr) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Memory](https://open.spotify.com/album/1rkX5Sj3gMQEncQnJcyeEm) | 3:10 | 2025-07-11 | 2026-10-10 |
 | [Mess U Up](https://open.spotify.com/track/5kKvtwlvlwVYgBbxwyKQjs) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Mess U Up](https://open.spotify.com/album/4tPr94Inl1zCm7yOpiywcT) | 3:34 | 2025-08-22 | 2025-11-01 |
+| [Midnight](https://open.spotify.com/track/53gPgrOW6e0BEs2cJ6SOlQ) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Peter Illias](https://open.spotify.com/artist/4WAuVrIMOViLyvlB4t8Anz) | [Purple Whisper / Midnight](https://open.spotify.com/album/5ogDKFamCEAEIA5AwSAzph) | 4:16 | 2026-10-14 |  |
 | [Midnight Dream](https://open.spotify.com/track/4FONq8O3YTY983vTlnVMcU) | [Candidate](https://open.spotify.com/artist/2PS53GOqxGxAbQK8pvHziq), [Saigon \(UK\)](https://open.spotify.com/artist/6DBv1veS1eKwA6o7nV65JU) | [Midnight Dream](https://open.spotify.com/album/4g80lVNeHvAx6bpQl5gP9w) | 3:48 | 2026-01-30 | 2026-02-28 |
 | [Mirador](https://open.spotify.com/track/6LfEl9rNQr4rMCEsY1RHbe) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Mirador / Désir](https://open.spotify.com/album/6yaPBPPCpMUKcCWesazB3u) | 3:18 | 2026-02-27 |  |
 | [Moment](https://open.spotify.com/track/4ljIiaRgzD42JdFZxZrPNv) | [Seelo](https://open.spotify.com/artist/4n68pXVRVB9JemWAyAgRan), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Moment](https://open.spotify.com/album/3JOzuf0BB48Qr0h6XXI0Fw) | 2:53 | 2025-07-11 | 2026-01-31 |
@@ -212,6 +213,7 @@
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-07 | 2025-12-13 |
 | [Priceless](https://open.spotify.com/track/3C9kz0a6NzqtO4awIgwhBc) | [Hyperbits](https://open.spotify.com/artist/5HYYXGs19FM9JuSjmoE88Y), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Pattern Interruption](https://open.spotify.com/album/3OOs0HPAMTMTlqsSvmYVKj) | 3:41 | 2025-08-01 |  |
 | [Psychedelic World](https://open.spotify.com/track/6fLqwfY3SctOrNvoG1ighN) | [Kurt Joseph](https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof) | [Psychedelic World](https://open.spotify.com/album/3bgtp0hfIxyKp0KscfyZYs) | 2:47 | 2025-08-22 | 2025-11-08 |
+| [Purple Whisper](https://open.spotify.com/track/3eZhnzpQOFO5IqkbNXpbxJ) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Anfulage](https://open.spotify.com/artist/5noK7yZZwMxYHAn3jbWkKl) | [Purple Whisper / Midnight](https://open.spotify.com/album/5ogDKFamCEAEIA5AwSAzph) | 3:50 | 2026-10-14 |  |
 | [Radiant](https://open.spotify.com/track/01fXsZUFvPdAy3dW2lly1f) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Radiant](https://open.spotify.com/album/3VDVHErDWinXwSDtKMtOeb) | 3:31 | 2025-07-11 | 2025-08-30 |
 | [Ratchet](https://open.spotify.com/track/7sV4noDOTbAAAxNoGv0Jpn) | [Deroz](https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5), [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [Ratchet](https://open.spotify.com/album/3qaYinVyU9xGAlP4rXBtCQ) | 3:24 | 2025-07-11 | 2025-09-06 |
 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 | 2025-07-11 | 2026-02-28 |

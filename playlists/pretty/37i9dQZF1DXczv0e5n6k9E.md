@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YungKapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,716 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,708 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [BBB](https://open.spotify.com/track/4ff2Xlgyc33wNP5a8dITfj) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [BBB](https://open.spotify.com/album/04yz3K1vzsvMP05VN7WjoF) | 2:08 |
 | 60 | [Gucci Bag](https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [Gucci Bag](https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu) | 2:16 |
 
-Snapshot ID: `AAAAAAOMyNRd91SF+X1P88rVkY6cja+Z`
+Snapshot ID: `AAAAAJtdRAPL7wUkSlTA8P9Qtz8AwDYm`

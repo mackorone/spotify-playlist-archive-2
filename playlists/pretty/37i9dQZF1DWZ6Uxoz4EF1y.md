@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,800 likes - 100 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,781 likes - 100 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 13 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 14 | [En Tu Presencia](https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [En Tu Presencia](https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5) | 5:34 |
 | 15 | [En Tu Nombre \(In Jesus’ Name\)](https://open.spotify.com/track/3x4CjUZgmqiZGSb5NDRQ06) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Fiel Amor Vol\. 2](https://open.spotify.com/album/72gxwZH8TW7LqvbtpVjJ3I) | 6:00 |
-| 16 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
-| 17 | [No Hay Otro Nombre](https://open.spotify.com/track/1pd2PDUnXUjLShY22utTzc) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 7:19 |
+| 16 | [No Hay Otro Nombre](https://open.spotify.com/track/1pd2PDUnXUjLShY22utTzc) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 7:19 |
+| 17 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
 | 18 | [Viene el Rey](https://open.spotify.com/track/3vVUzorXavZFrmnxwSIyuH) | [Jon Carlo](https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK), [Caleb Worship](https://open.spotify.com/artist/2ZDCD2EjRayoBZGm3vClFL), [Efren Rivera](https://open.spotify.com/artist/4OuQcs3ivm8kZxuKPTIMvj) | [Viene el Rey](https://open.spotify.com/album/10r5EoQSsBT4gDttUC2KEX) | 6:57 |
 | 19 | [Como Río En Primavera](https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [El Mismo Cielo](https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r) | 3:50 |
 | 20 | [Beso Tus Pies](https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
 | 100 | [Por las Llagas](https://open.spotify.com/track/3IoIzDjBLx2UObchfh7tb1) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Digno Es el Señor](https://open.spotify.com/album/4prQ3uAC1aPsYwcjG3hSAi) | 5:00 |
 
-Snapshot ID: `AAAAAPxONFKN0SjAVSZKUevkXvjCY8gq`
+Snapshot ID: `AAAAABBPYEIJpqHswlpR5MTymm41nFDi`

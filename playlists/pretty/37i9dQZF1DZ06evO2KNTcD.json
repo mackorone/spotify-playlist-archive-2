@@ -1,12 +1,12 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 741,
+  "num_followers": 742,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADeGrSeDFV+ViTJjZti+ffH",
+  "snapshot_id": "as10gAAAAADVdLdgDaAyJ2dbwevTnxxQ",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "if You Feel",
-        "url": "https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG"
+        "name": "What You Need (feat THEY.)",
+        "url": "https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
           "name": "Jae Stephens",
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        },
+        {
+          "name": "The They",
+          "url": "https://open.spotify.com/artist/1sPdKjeLQGW8g9kY4GAM9G"
         }
       ],
-      "duration_ms": 166266,
-      "name": "All Our Time (feat. Jae Stephens)",
-      "url": "https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X"
+      "duration_ms": 194607,
+      "name": "What You Need (feat THEY.)",
+      "url": "https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Soft Side",
-      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
+      "duration_ms": 189693,
+      "name": "Sugar Trap",
+      "url": "https://open.spotify.com/track/3RZ6Fnxs6XdyOZcpJA4bGr"
     },
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Need (feat THEY.)",
-        "url": "https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv"
+        "name": "if You Feel",
+        "url": "https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG"
       },
       "artists": [
         {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         },
         {
-          "name": "The They",
-          "url": "https://open.spotify.com/artist/1sPdKjeLQGW8g9kY4GAM9G"
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 194607,
-      "name": "What You Need (feat THEY.)",
-      "url": "https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU"
+      "duration_ms": 166266,
+      "name": "All Our Time (feat. Jae Stephens)",
+      "url": "https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 189693,
-      "name": "Sugar Trap",
-      "url": "https://open.spotify.com/track/3RZ6Fnxs6XdyOZcpJA4bGr"
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
     },
     {
       "added_at": null,

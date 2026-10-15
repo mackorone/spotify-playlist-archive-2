@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,810 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,823 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 56 | [Eu Tenho uma Promessa \- Ao Vivo](https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa \(Ao Vivo\)](https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9) | 4:31 |
 | 57 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
 | 58 | [Santo \- Ao Vivo](https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/1RyOM2VBjuXp7PAwuhiMJS) | 9:39 |
-| 59 | [Em Todo Tempo](https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Em Todo Tempo](https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu) | 6:00 |
-| 60 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
+| 59 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
+| 60 | [Em Todo Tempo](https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Em Todo Tempo](https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu) | 6:00 |
 | 61 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 62 | [Seu Amor Dura Para Sempre \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 |
 | 63 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 
-Snapshot ID: `AAAAAAyGnupZPfmg1OJe47GC2b8vuemK`
+Snapshot ID: `AAAAAOXRUAPZs4lXmoBrwSMiFR83N7yo`

@@ -1,12 +1,12 @@
 {
   "description": "Die beste country musiek. Omslag: Glen Rozi en Bernice Armstrong",
-  "num_followers": 45079,
+  "num_followers": 45088,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtD/N98qnNlZzyxvjbcx3cEKz7d",
+  "snapshot_id": "AAAAANqRT5KlYE5d42q1GSAPFyOjwUnT",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:24",
@@ -183,18 +183,22 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -239,22 +243,18 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2026-08-20 22:01:15",

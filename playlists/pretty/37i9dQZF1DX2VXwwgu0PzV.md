@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,273 likes - 119 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,314 likes - 119 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 118 | [Avante Garde II](https://open.spotify.com/track/56jnTJaI8hwL4VMYCHNUJr) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Samgroove Odufu](https://open.spotify.com/artist/6CZpIUtD9XeBn7EAdYUx9x), [Eddiegreat](https://open.spotify.com/artist/0B6RkYhAYMotRlIF3nL9sf) | [Avante Garde II](https://open.spotify.com/album/1DQyY0zqxri6fz93Njnk5X) | 2:46 |
 | 119 | [Soji](https://open.spotify.com/track/44GL0KLGlko2aeX8l1Gyub) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7) | [Soji](https://open.spotify.com/album/6kAAyF6iXGFXKrJztg9AlR) | 2:21 |
 
-Snapshot ID: `AAAAADbz+99IAjp+y8b+NPJ2yO50hEKj`
+Snapshot ID: `AAAAADbkOPwCnlJWyozytNIJtjNinU/G`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,308 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,324 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 |
 | 2 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
 | 3 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 |
-| 4 | [Ele Não Desiste de Você](https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 4:50 |
-| 5 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
+| 4 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
+| 5 | [Ele Não Desiste de Você](https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 4:50 |
 | 6 | [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 |
 | 7 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
 | 8 | [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 26 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
 | 27 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
 | 28 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
-| 29 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
-| 30 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 |
+| 29 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 |
+| 30 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
 | 31 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 32 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
 | 33 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 74 | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Joelhos no Chão \(Ao Vivo\)](https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn) | 6:08 |
 | 75 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 |
 
-Snapshot ID: `AAAAACfNH+9psrEi6Rax+e+SYWFy7kgV`
+Snapshot ID: `AAAAADUGz6FfPeSKDy117SbTYm6n1w7M`

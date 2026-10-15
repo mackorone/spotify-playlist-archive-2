@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264570,
+  "num_followers": 264551,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADGft4vt9xcR+eClCP9DvdV",
+  "snapshot_id": "as10gAAAAAD8eQJyyKIrcYs96Bur67cp",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
       "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182112,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -531,42 +547,6 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 182112,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "recadin no espelho",
-        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 124312,
-      "name": "recadin no espelho",
-      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "added_at": null,
@@ -611,6 +591,26 @@
       "duration_ms": 215732,
       "name": "Sempre Voc\u00ea",
       "url": "https://open.spotify.com/track/6OLRROXI8aDgzNDK5oDTNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 192766,
-      "name": "Loira Gelada",
-      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BATE VOLTA",
-        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "BATE VOLTA",
-      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUTAL PARA\u00cdSO",
         "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
       },
@@ -799,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BATE VOLTA",
+        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "BATE VOLTA",
+      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CACHORRINHAS",
         "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
       },
@@ -822,11 +822,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 130446,
-      "name": "INTERE$$EIRA",
-      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -871,6 +875,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 141699,
+      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 130446,
+      "name": "INTERE$$EIRA",
+      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bossa Sempre Nova",
         "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
       },
@@ -891,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seu Desejo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 168131,
       "name": "Seu Desejo - Ao Vivo",
       "url": "https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chain Reaction",
-        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
-      },
-      "artists": [
-        {
-          "name": "X:IN",
-          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 141699,
-      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 152752,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 180343,
       "name": "escapismo",
       "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/1a8ugQMvqGdFdkV60BtKDF"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

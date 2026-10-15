@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-09",
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u042f \u0422\u043e\u043d\u044f",
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: SORRYNOLUCKY",
   "name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 174852,
       "name": "Bitch from Beverly Hills",
       "url": "https://open.spotify.com/track/0yxtZTW9myjH6zRIjPcwpI"
+    },
+    {
+      "album": {
+        "name": "L'eau Nouvelle",
+        "url": "https://open.spotify.com/album/0hYdwJHiGqfiIXcTyGAFVI"
+      },
+      "artists": [
+        {
+          "name": "Bah-Bah Genesis",
+          "url": "https://open.spotify.com/artist/4cuCwzJJZTGpvlCb2yZVI9"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230452,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4zmITKHkQrph8pKOWn22r7"
     },
     {
       "album": {
@@ -5956,7 +5974,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 182000,
       "name": "\u041d\u0435 \u0437\u0430\u043b\u0438\u0448 (Sz\u00edvver\u00e9s)",
       "url": "https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu"
@@ -7100,7 +7118,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 180276,
       "name": "\u041f\u041b\u0410\u041a\u0410\u0422\u0418",
       "url": "https://open.spotify.com/track/23Ui0tltKjGH3aqbHMPsEm"
@@ -8382,6 +8400,24 @@
       "duration_ms": 210909,
       "name": "\u0441\u0435\u043f\u0443\u043a\u0443",
       "url": "https://open.spotify.com/track/1llNmkD9I4fkicO1MRX4xx"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0435\u0440\u0434\u0435\u043d\u044c\u043a\u043e",
+        "url": "https://open.spotify.com/album/07H82rbedWIn74bQL5XOYZ"
+      },
+      "artists": [
+        {
+          "name": "Zlypni",
+          "url": "https://open.spotify.com/artist/44arGyM7t8f5j56J7xPc1f"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363958,
+      "name": "\u0421\u0435\u0440\u0434\u0435\u043d\u044c\u043a\u043e",
+      "url": "https://open.spotify.com/track/5YZsEanNQlh9Kf1nhNsoo6"
     },
     {
       "album": {
@@ -9924,7 +9960,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 102370,
       "name": "\u0445\u043b\u043e\u043f\u0447\u0438\u043a\u0438 \u043b\u044e\u0431\u043b\u044f\u0442\u044c",
       "url": "https://open.spotify.com/track/5mCMGgn3jfaHB8K3XDBtWT"
@@ -11046,6 +11082,24 @@
       "duration_ms": 170000,
       "name": "\u042f\u043a \u044f \u043c\u0430\u043b\u0430 \u0431\u0443\u043b\u0430",
       "url": "https://open.spotify.com/track/0DcCt6AMTl5fMGw7odjn4l"
+    },
+    {
+      "album": {
+        "name": "\u044f\u043a\u0449\u043e \u0442\u0438 \u0432\u0436\u0435 \u043a\u0432\u0456\u0442\u043d\u0435\u0448",
+        "url": "https://open.spotify.com/album/08oDml3zjrvcfgbSig57E7"
+      },
+      "artists": [
+        {
+          "name": "Hippocampi",
+          "url": "https://open.spotify.com/artist/17BMgPpvO63AAtdKyIefjh"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "\u044f\u043a\u0449\u043e \u0442\u0438 \u0432\u0436\u0435 \u043a\u0432\u0456\u0442\u043d\u0435\u0448",
+      "url": "https://open.spotify.com/track/4W2iG6SVSQBxd1tMzItwOu"
     },
     {
       "album": {

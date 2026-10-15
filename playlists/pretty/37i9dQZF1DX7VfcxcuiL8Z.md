@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Tooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,360 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,363 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Old Friend](https://open.spotify.com/track/4ww9k36wWGrnkt0W5Y8Ra4) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Old Friend](https://open.spotify.com/album/7Mjt7OtR5rXu9lQ5I46m0z) | 3:45 |
 | 80 | [Close Your Eyes](https://open.spotify.com/track/0Unh3BSFCSb2oWWXtMwvPU) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [The Bloody Unknown](https://open.spotify.com/album/0rWkrIwG9aCjbMy0wsB2Ez) | 3:38 |
 
-Snapshot ID: `AAAAAOKtHvS8GYRnWbGjYLSNdrOvw5+C`
+Snapshot ID: `AAAAAGI0yxC1jiIQpU9bJBYVabsuBJTA`

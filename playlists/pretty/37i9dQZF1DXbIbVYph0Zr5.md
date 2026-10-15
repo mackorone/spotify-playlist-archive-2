@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,992 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,073 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 59 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 60 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
 | 61 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
-| 62 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
-| 63 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
+| 62 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
+| 63 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
 | 64 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 65 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
 | 66 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 94 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 95 | [Ocean Front Property](https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Ocean Front Property](https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB) | 3:08 |
 | 96 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
-| 97 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
-| 98 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
+| 97 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
+| 98 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
 | 99 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 100 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 
-Snapshot ID: `AAAAAMXHxIU+xmqraYcSVOFmdqJ/WglN`
+Snapshot ID: `AAAAAPy+dC6ECGVRpjbR4tT4xvOl6k8O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 
 > The biggest sounds for the beautiful game ⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,253 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,294 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 | 30 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 |
 | 31 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 |
 | 32 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 |
-| 33 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
+| 33 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 34 | [Love Me Again](https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V) | 3:59 |
 | 35 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
 | 36 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 | 49 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 50 | [Vindaloo](https://open.spotify.com/track/6rok0MW3ze4KBEng4ZBAna) | [Fat Les](https://open.spotify.com/artist/4BHU68IINW0fZNRIvSOir5) | [Vindaloo](https://open.spotify.com/album/516PzWSkrAALZ6gft6l7oi) | 3:41 |
 
-Snapshot ID: `AAAAACO81jtxyZk9OeBDZhSM7Yc/Yy+a`
+Snapshot ID: `AAAAAP8OLlzmrxtKaijjYyU/q1EZOCY+`

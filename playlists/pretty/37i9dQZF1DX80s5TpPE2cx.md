@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,595 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,606 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 11 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 12 | [star signs](https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Runtown](https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 2:59 |
 | 13 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 |
-| 14 | [London](https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Never Gunna Be the Same](https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3) | 2:45 |
+| 14 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 |
 | 15 | [FINAL CHAMPION](https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:07 |
 | 16 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
-| 17 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 |
+| 17 | [London](https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Never Gunna Be the Same](https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3) | 2:45 |
 | 18 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
 | 19 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
 | 20 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 47 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
 | 48 | [SPACE](https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:13 |
 | 49 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
-| 50 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
-| 51 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
+| 50 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
+| 51 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
 | 52 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |
 | 53 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 | 54 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 56 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
 | 57 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
 | 58 | [TheBox](https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 3:55 |
-| 59 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
-| 60 | [Call on Me](https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Call on Me](https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb) | 3:00 |
+| 59 | [Call on Me](https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Call on Me](https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb) | 3:00 |
+| 60 | [5 Star](https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [5 Star](https://open.spotify.com/album/1NYyGd73h9In83foaNlao2) | 2:29 |
 
-Snapshot ID: `AAAAAIOhHGuUt32KviotasWV9+Jci2eG`
+Snapshot ID: `AAAAAHB16Bt0R7ElRpm/mJdlOsYZHf2k`

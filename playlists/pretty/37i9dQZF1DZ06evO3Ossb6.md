@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,073 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,137 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 9 | [Canta Corazón](https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:14 |
 | 10 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
 | 11 | [Nube Viajera](https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 4:04 |
-| 12 | [Estuve](https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:15 |
-| 13 | [Mariposa Traicionera](https://open.spotify.com/track/0ZVkYk4VS3y2EBfpVHcdHv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 4:03 |
+| 12 | [Mariposa Traicionera](https://open.spotify.com/track/0ZVkYk4VS3y2EBfpVHcdHv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 4:03 |
+| 13 | [Estuve](https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:15 |
 | 14 | [No Lo Beses](https://open.spotify.com/track/3cX7KNREYC4NBntB6ccHHt) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:34 |
 | 15 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 |
 | 16 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 30 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
 | 31 | [Más No Puedo](https://open.spotify.com/track/68teZcAANkNhea13y7GqDP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:42 |
 | 32 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 |
-| 33 | [Sin Despedida](https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Despedida](https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y) | 3:50 |
-| 34 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
-| 35 | [Mañana Es Para Siempre](https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:40 |
-| 36 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
+| 33 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
+| 34 | [Sin Despedida](https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Despedida](https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y) | 3:50 |
+| 35 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
+| 36 | [Mañana Es Para Siempre](https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:40 |
 | 37 | [Quiero Que Vuelvas](https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:37 |
 | 38 | [Dos Corazones, Dos Historias \(Dos Corações E Uma Historia\)](https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noche De Cuatro Lunas](https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX) | 3:55 |
 | 39 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 49 | [Cuando Digo Tu Nombre \(Mejor\)](https://open.spotify.com/track/5BmnwbpelhqAzcIhHxUJY2) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:18 |
 | 50 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 
-Snapshot ID: `asrRgAAAAACyLjCEeN+y/MQ4lcJxddFG`
+Snapshot ID: `as10gAAAAADcajoRvzC76xmSEp2TAC8E`

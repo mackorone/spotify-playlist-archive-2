@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,950 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,961 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO) | 4:11 |
 | 100 | [when you know, you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know, you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
 
-Snapshot ID: `AAAAAOlpP7Y715j08hXCQcqMw8ZAfAzI`
+Snapshot ID: `AAAAAMs2O9cVJQ2yFAua7IJg75fFrsaN`

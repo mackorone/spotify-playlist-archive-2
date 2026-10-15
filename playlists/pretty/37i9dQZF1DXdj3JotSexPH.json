@@ -1,12 +1,12 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35904,
+  "num_followers": 35902,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOpfQu4xkejeTzc3kd91/v6wISJV",
+  "snapshot_id": "AAAAAGYprhI9e01qZD0R20z1hBn0+J7b",
   "tracks": [
     {
       "added_at": "2026-04-13 15:38:24",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "CLIMA LINDO",
-        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
-      },
-      "artists": [
-        {
-          "name": "GXMZ",
-          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
-        },
-        {
-          "name": "Repsaj",
-          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
-        }
-      ],
-      "duration_ms": 81995,
-      "name": "CLIMA LINDO - SLOWED",
-      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
       "artists": [
         {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
         }
       ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -611,6 +595,22 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1167,22 +1183,6 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "ONE FOR YOU",
         "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 152516,
       "name": "ONE FOR YOU",
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SAY SOMETHING",
-        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 195937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SAY SOMETHING",
+        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "EUROCLUB",
+        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "THINKING ABOUT YOU",
+      "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Wall-To-Wall",
         "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 171428,
       "name": "Reset (feat. Killa P)",
       "url": "https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "EUROCLUB",
-        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
-      },
-      "artists": [
-        {
-          "name": "EUROCLUB",
-          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "THINKING ABOUT YOU",
-      "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
       },
@@ -2735,6 +2719,22 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Slingshooters",
-        "url": "https://open.spotify.com/album/2EM4b2sdXX8SxPaJhM31SU"
-      },
-      "artists": [
-        {
-          "name": "HLRTY",
-          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
-        }
-      ],
-      "duration_ms": 292012,
-      "name": "Slingshooters",
-      "url": "https://open.spotify.com/track/3e9b3CxiQ02SPSDfGWcBIY"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Slingshooters",
+        "url": "https://open.spotify.com/album/2EM4b2sdXX8SxPaJhM31SU"
+      },
+      "artists": [
+        {
+          "name": "HLRTY",
+          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
+        }
+      ],
+      "duration_ms": 292012,
+      "name": "Slingshooters",
+      "url": "https://open.spotify.com/track/3e9b3CxiQ02SPSDfGWcBIY"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/6BLqFgzvhLe3KCu9bdhqMX"
+      },
+      "artists": [
+        {
+          "name": "Alonda Rich",
+          "url": "https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/5VO0nmOVvYpiKSvfonfUGQ"
+    },
+    {
+      "album": {
         "name": "Ayy Ladies (feat. Tyga)",
         "url": "https://open.spotify.com/album/2MSWQp2A9An2vg3N3V4m3c"
       },
@@ -503,6 +521,24 @@
     },
     {
       "album": {
+        "name": "IN TIME",
+        "url": "https://open.spotify.com/album/02WavevhosIFxUHM8mNGwv"
+      },
+      "artists": [
+        {
+          "name": "brendn",
+          "url": "https://open.spotify.com/artist/0wPBFxE7JsngiyyiEe4efj"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "IN TIME",
+      "url": "https://open.spotify.com/track/6O8z22NEtQqRqQ6g4f5kbM"
+    },
+    {
+      "album": {
         "name": "Is It a Crime",
         "url": "https://open.spotify.com/album/0KtdtdR1gT1WD2CwqRjK5Z"
       },
@@ -580,6 +616,24 @@
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/6wqk6Mn8IxzRLe5XNoZLiB"
+      },
+      "artists": [
+        {
+          "name": "Alonda Rich",
+          "url": "https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5IZTNjZyBcap8Y5i5xqFfJ"
     },
     {
       "album": {

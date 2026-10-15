@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,108 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,121 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 20 | [Poison](https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 3:15 |
 | 21 | [Keep Dancing](https://open.spotify.com/track/0R8yVdPQKaC2Jg7DXqesBA) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:44 |
 | 22 | [Boyz Don't Cry](https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f) | 2:46 |
-| 23 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 |
+| 23 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 |
 | 24 | [Sky Priority](https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:58 |
-| 25 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 |
+| 25 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 |
 | 26 | [Call Your Friends](https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:33 |
 | 27 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
 | 28 | [Girl Of My Dreams](https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 39 | [Fall Fast in Love](https://open.spotify.com/track/32rUiWgyd3Du6uJe0CbXR3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:52 |
 | 40 | [Ribbon In The Sky](https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:43 |
 
-Snapshot ID: `asrRgAAAAAAl7JADv5ainig3d+AHI8KI`
+Snapshot ID: `as10gAAAAABwjOVMRyvoMAIOoUS8CJQC`

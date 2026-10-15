@@ -33189,6 +33189,24 @@
     },
     {
       "album": {
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "album": {
         "name": "the thing about you",
         "url": "https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT"
       },

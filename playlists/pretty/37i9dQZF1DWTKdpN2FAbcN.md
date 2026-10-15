@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > When you're thinking of the one who gives you the butterflies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,135 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,233 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 74 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 |
 | 75 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
 
-Snapshot ID: `AAAAAG4oV8+6Q/FLL7BAqUp2Oo9jkXH6`
+Snapshot ID: `AAAAAHFSFjz5oVA4/nto1/fGlCseTptN`

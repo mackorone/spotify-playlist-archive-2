@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Natalia Grosiak
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,508 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,502 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [chcę tu zostać](https://open.spotify.com/track/0EHfwu3900Lz5BwocEch4S) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [chcę tu zostać](https://open.spotify.com/album/0nxNfsEdFAv9fv2EEo9U4A) | 2:59 |
 | 100 | [nie mówię głośno](https://open.spotify.com/track/4RGywL7am2CC0zcwonUkBZ) | [pies](https://open.spotify.com/artist/72dn7ikoG0PxIfbCeFyf7S) | [nie mówię głośno](https://open.spotify.com/album/7ukYsZu8UxitlDbqvtLeNr) | 3:59 |
 
-Snapshot ID: `AAAAAFFJN8OhyRZpVcgkh+riaslkaYFq`
+Snapshot ID: `AAAAAJMgY9eMXs5i3wbhvHWfZiQ4rRXR`

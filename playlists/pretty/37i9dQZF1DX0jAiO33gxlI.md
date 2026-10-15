@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,140 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,119 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Abençoado Demais](https://open.spotify.com/track/5gcX8f2CRP7bid2czoj4yP) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [Caio Bretas](https://open.spotify.com/artist/7ejH7GPkpPoi1osVwNvJN1), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Abençoado Demais](https://open.spotify.com/album/0G5pv8CaBmNBc2hIVxF3XV) | 3:25 |
 | 75 | [Bonvivant](https://open.spotify.com/track/1XmkZQN1bjD1yUMjErtEqG) | [Xaolin Records](https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Cute Shawty](https://open.spotify.com/artist/2HtVwqcS6FCYQohD8RulTY), [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Camping das Minas 2.0](https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe) | 3:00 |
 
-Snapshot ID: `AAAAAGt8cKhs9zvuoLb2O7Xer/epZHoz`
+Snapshot ID: `AAAAAF/c2AYl87j0mH5TcyC1T7fWt8gi`

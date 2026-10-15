@@ -1,12 +1,12 @@
 {
   "description": "Proudly Kenyan gems made for the entire family. Cover: Wendy Kimani",
-  "num_followers": 54539,
+  "num_followers": 54552,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMa5zLePxbJYmiIOhFjFhul4FbIW",
+  "snapshot_id": "AAAAAOVy1pO/GPhM7ly5aUyfRvFCQdp5",
   "tracks": [
     {
       "added_at": "2026-10-09 12:28:45",
@@ -251,6 +251,22 @@
       "duration_ms": 181363,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/7tFWfxjtb0Rk2FYgTASHgL"
+    },
+    {
+      "added_at": "2026-10-01 23:59:28",
+      "album": {
+        "name": "Flight 420",
+        "url": "https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8"
     },
     {
       "added_at": "2026-10-01 23:59:28",

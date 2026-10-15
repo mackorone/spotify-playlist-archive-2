@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,531 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,641 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 14 | [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 |
 | 15 | [B4 B4 \(with Mayorkun & FOLA\)](https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:46 |
 | 16 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |
-| 17 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
+| 17 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
 | 18 | [Full](https://open.spotify.com/track/6ZjD4Qv5dPdV3pqouXjr0j) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [24 KARA](https://open.spotify.com/album/4GZSouPUDOnxWARfOS79hm) | 2:43 |
 | 19 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
 | 20 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LSTB](https://open.spotify.com/track/1rDl5awA0NIu0K6R0QptYA) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [LSTB](https://open.spotify.com/album/22p80BCykAAkqziP8DJz0t) | 2:22 |
 | 50 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 
-Snapshot ID: `AAAAAKlDtK9vFLAZAe1/PaJMzQzBFebq`
+Snapshot ID: `AAAAAI6UKOgkOM4gHStVz5yXVh6qHsnn`

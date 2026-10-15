@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,271 likes - 200 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,212 likes - 200 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Hurt You](https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Hurt You](https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH) | 3:34 |
 | 200 | [Find You](https://open.spotify.com/track/4xZxjYuBYdR97dSn5BVA3g) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Find You](https://open.spotify.com/album/6R6fYpAX3zZN4bBam5xQmM) | 4:10 |
 
-Snapshot ID: `AAAAAKPx3X7T0MIVJWVXc9cXKNcgRGMJ`
+Snapshot ID: `AAAAAHwYsOh/9yLcOH9WvWIrBhpALaNO`

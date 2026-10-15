@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `AAAAAKPaNUFUtR7WGgq/9YMRXY7LrqQO`
+Snapshot ID: `AAAAAGIcll76jVnIzI5hn2ezhzwMyqD3`

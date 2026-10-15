@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,866 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,789 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 50 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
 
-Snapshot ID: `AAAAAEF6n/Y1Lmye6aS685ptBWxVhC55`
+Snapshot ID: `AAAAANInNxGyu9A6Y1IgjcDHv/RahWfG`

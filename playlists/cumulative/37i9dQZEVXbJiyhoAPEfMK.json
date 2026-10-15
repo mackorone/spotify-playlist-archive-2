@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -30472,7 +30472,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -62370,6 +62370,24 @@
     {
       "album": {
         "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
         "url": "https://open.spotify.com/album/7ANxNZQm8jpjNH6nER0M2I"
       },
       "artists": [
@@ -62380,7 +62398,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 142663,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/43yprMxePR9BXo1DZg0vwY"
@@ -66442,7 +66460,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -66594,7 +66612,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -66612,7 +66630,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,396 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 37 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 | 38 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 39 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
-| 40 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
-| 41 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
+| 40 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
+| 41 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
 | 42 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
 | 43 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
 | 44 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 49 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
 | 50 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 |
 
-Snapshot ID: `AAAAAEV8l1B6XGs6WUOO9DBVBzav23Eb`
+Snapshot ID: `AAAAACtKz1QE3/TQPVd2pmUM/tX5AIze`

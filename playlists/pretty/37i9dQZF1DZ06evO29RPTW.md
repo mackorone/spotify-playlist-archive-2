@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,491 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,505 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 16 | [The Satanic Rites of Blacula](https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 2:18 |
 | 17 | [Meet The Creeper](https://open.spotify.com/track/64J18bwOzZAUmuFxn5l6Ss) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:13 |
 | 18 | [Scum Of The Earth](https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:55 |
-| 19 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
-| 20 | [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 |
+| 19 | [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 |
+| 20 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
 | 21 | [Call Of The Zombie](https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 0:30 |
 | 22 | [Dead Girl Superstar](https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:28 |
 | 23 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 4:07 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 26 | [\(I'm a\) Rock "N" Roller](https://open.spotify.com/track/7jlfQRNwTCZtcdkmlBqrXG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:32 |
 | 27 | [In The Age Of The Consecrated Vampire We All Get High](https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:15 |
 | 28 | [Shake Your Ass\-Smoke Your Grass](https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:10 |
-| 29 | [We’re An American Band](https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:29 |
+| 29 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
 | 30 | [F.T.W\. 84](https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:55 |
-| 31 | [Foxy, Foxy](https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:28 |
+| 31 | [The Devil's Rejects](https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:54 |
 | 32 | [Boom\-Boom\-Boom](https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:20 |
-| 33 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
+| 33 | [We’re An American Band](https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:29 |
 | 34 | [Heathen Days](https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 2:17 |
-| 35 | [The Devil's Rejects](https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:54 |
+| 35 | [Foxy, Foxy](https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:28 |
 | 36 | [Run Rabbit Run \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 3:01 |
 | 37 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
 | 38 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Reload](https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:25 |
 | 50 | [The Scorpion Sleeps](https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:38 |
 
-Snapshot ID: `asrRgAAAAADnwb1rviexd2xQndItWSvj`
+Snapshot ID: `as10gAAAAAAq7FN8JkmHvDs0SdwIK0Ac`

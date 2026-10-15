@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: The Young Wolf\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: THREETIME\. Artwork: Isu Kim
 
-2,701 songs - 7 day 1 hr 27 min
+2,702 songs - 7 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Locket](https://open.spotify.com/track/0Q7acTpA2CrbcN1jbQezO0) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Locket](https://open.spotify.com/album/56soBWEkMUtUFq4341HeRf) | 3:22 | 2024-07-12 | 2024-07-20 |
 | [Loop](https://open.spotify.com/track/1M10WL8DJvXVlMOaAHOfp4) | [j.rabbit](https://open.spotify.com/artist/012IKMFJSvz2xrvpFdUcyJ) | [Loop](https://open.spotify.com/album/4cuguF9qPjrOu93Hf2k0ay) | 3:01 | 2024-05-31 | 2024-06-22 |
 | [LOSER](https://open.spotify.com/track/7groJTvmcGWeomDC7Z56wC) | [THE CROW CLUB](https://open.spotify.com/artist/402nT3c5ycs17LYnK15XHR) | [LOSER](https://open.spotify.com/album/0HFavjIaQALjdqMEBz5hrN) | 3:26 | 2026-01-30 | 2026-03-21 |
-| [Lost \(รั้ง\)](https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G) | [Basket Valley](https://open.spotify.com/artist/3fjn6M1i9hiYhdEPsmZ1f5) | [Lost \(รั้ง\)](https://open.spotify.com/album/6xpNUlnByQwgDyPuGRa8ni) | 4:17 | 2026-08-26 |  |
+| [Lost \(รั้ง\)](https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G) | [Basket Valley](https://open.spotify.com/artist/3fjn6M1i9hiYhdEPsmZ1f5) | [Lost \(รั้ง\)](https://open.spotify.com/album/6xpNUlnByQwgDyPuGRa8ni) | 4:17 | 2026-08-26 | 2026-10-15 |
 | [Lost in the Ocean](https://open.spotify.com/track/4LTKmtTSPryeWTPQuufkah) | [déymi](https://open.spotify.com/artist/5sPMJ5sGaIpNTX5V3AZCMo) | [Lost in the Ocean](https://open.spotify.com/album/7sxc38OplsmTJlFJElvIg4) | 3:40 | 2025-02-27 | 2026-01-15 |
 | [Lost.](https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [Lost.](https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat) | 4:00 | 2025-01-09 | 2025-04-04 |
 | [Love Cafe \(เรคาฟัก\)](https://open.spotify.com/track/46ssVr6oaaOR6kCy8kgAlf) | [Vatanyou](https://open.spotify.com/artist/53ZebdeXI6CCggVorSHsLL), [Es Chainarong](https://open.spotify.com/artist/3FIG9sngnWrwxHGDZEpOd9), [Kevin Saharat](https://open.spotify.com/artist/6VFcf4vYNmRmPmkSecRN5Y), [May Naris](https://open.spotify.com/artist/2lhnSl1gPYDkho8zAhMEmU), [RollKeys](https://open.spotify.com/artist/6FyTCiH7qOVj7uvQQpJ99Y) | [Love Cafe \(เรคาฟัก\)](https://open.spotify.com/album/6wmMxr3XqTywL91On8niVi) | 3:23 | 2023-08-25 | 2023-09-02 |
@@ -607,6 +607,7 @@
 | [กอดกันนะ \(Hey loser, stop crying\)](https://open.spotify.com/track/5Rk7OtvT7vueooccljNnB7) | [TeyaTaye](https://open.spotify.com/artist/7xjxDKGA00Zt9f4zEHynEv) | [กอดกันนะ \(Hey loser, stop crying\)](https://open.spotify.com/album/5VSJEMwLyb8kJhXinpUckN) | 2:52 | 2024-08-16 | 2024-08-24 |
 | [กอดด้วยสายตา](https://open.spotify.com/track/2H2Zi6puuJVjyNAgD7QfxZ) | [TOW TASSANAI](https://open.spotify.com/artist/6PuFy5OInoackavHeK86ah) | [กอดด้วยสายตา](https://open.spotify.com/album/1K9tshuYvaXP9A11VQoWya) | 3:31 | 2023-05-05 | 2023-05-13 |
 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 | 2025-01-25 |
+| [กอดที่ต้องการ \(Oxytocin\)](https://open.spotify.com/track/75WixMsLeRedRVoo3Sq6Mv) | [THREETIME](https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV) | [กอดที่ต้องการ \(Oxytocin\)](https://open.spotify.com/album/5fCt4cELBP9dV1Dohb7RnA) | 4:08 | 2026-10-14 |  |
 | [กอดนี้ปลอดภัย](https://open.spotify.com/track/5pHsh0rtZ1XJ9Qr5sCu2cq) | [Eye Sasicha](https://open.spotify.com/artist/0LJVjYDgr4bmWoXy60fjM3) | [กอดนี้ปลอดภัย](https://open.spotify.com/album/1yzybEEEZeKszDIDIlNkOG) | 3:50 | 2025-08-21 | 2025-11-15 |
 | [กอดได้ไหม](https://open.spotify.com/track/72vP94BUFBJdF8OJXtswAa) | [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [กอดได้ไหม](https://open.spotify.com/album/2nncos1tZ5vbirKvlQQiGR) | 2:59 | 2025-05-22 | 2025-06-20 |
 | [กอดไม่แน่นพอ](https://open.spotify.com/track/3wAGCZisSzAaD4h5JWQrir) | [Mickey Boonyisa](https://open.spotify.com/artist/5fICL3DsKiVabHbobZR1xN) | [กอดไม่แน่นพอ](https://open.spotify.com/album/5ZpBqghkDUylyUApqJ0fAF) | 4:25 | 2025-09-19 | 2025-09-27 |

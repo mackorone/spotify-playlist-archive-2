@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,688 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,676 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [Soledad](https://open.spotify.com/track/6QxCLqnfSYN4KzbPBJn53h) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 3:58 |
 | 100 | [Milagros](https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Milagros](https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv) | 3:30 |
 
-Snapshot ID: `AAAAAPBPovMV/Cllx3DfdUJiwjopajS6`
+Snapshot ID: `AAAAAAU+MdiT+a8iITB9SHW/8SeDF+sh`

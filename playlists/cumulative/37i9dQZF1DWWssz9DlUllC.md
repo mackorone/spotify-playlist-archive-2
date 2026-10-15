@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  NO11
 
-234 songs - 11 hr 20 min
+235 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2025-12-05 | 2025-12-11 |
 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 | 2025-12-12 | 2026-09-25 |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 | 2026-07-03 |
-| [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 | 2026-03-27 |  |
+| [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 | 2026-03-27 | 2026-10-15 |
 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 | 2026-05-18 |  |
 | [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 | 2025-10-24 |  |
 | [Suru](https://open.spotify.com/track/347Lf3F7lGmiKXBPNE3GdA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:18 | 2025-10-24 | 2025-11-05 |
@@ -238,6 +238,7 @@
 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 | 2025-10-24 | 2026-01-15 |
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-10-24 |  |
 | [WON DA](https://open.spotify.com/track/507zWWcdZNfOFtdPKnoCnu) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [WON DA](https://open.spotify.com/album/2a2mBXdQubqWWVTHZKAqwj) | 2:38 | 2026-07-17 | 2026-08-21 |
+| [WOUNJURE \#SWAG](https://open.spotify.com/track/3GplG4l4xNcDq2vfeVrGQB) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [WOUNJURE \#SWAG](https://open.spotify.com/album/2501fpHUTJeDfzoOlskYmf) | 2:39 | 2026-10-09 |  |
 | [Wuru Manya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 | 2026-07-24 |  |
 | [WYD](https://open.spotify.com/track/4wKM4gjReTiYbswQv23mFc) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [WYD / MOFO](https://open.spotify.com/album/5q3lVVlQ8U7UlPMbrXZxAd) | 3:00 | 2026-03-20 | 2026-09-05 |
 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 | 2025-10-24 |  |

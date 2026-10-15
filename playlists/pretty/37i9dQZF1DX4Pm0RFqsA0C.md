@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,935 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,944 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 6 | [CANDY](https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 3:37 |
 | 7 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
 | 8 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
-| 9 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
-| 10 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
+| 9 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
+| 10 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 11 | [Coming of age ceremony](https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 3:30 |
 | 12 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 |
 | 13 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 29 | [Break up With Her](https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [Legend](https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2) | 4:04 |
 | 30 | [Run to You](https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:46 |
 | 31 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 |
-| 32 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
-| 33 | [정](https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:50 |
+| 32 | [정](https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:50 |
+| 33 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
 | 34 | [벌써 이렇게 \(feat\. Psy\)](https://open.spotify.com/track/7y24cTluWhcJct69ZOWKNC) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:17 |
 | 35 | [Bruise](https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [The Third Eye](https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq) | 3:27 |
 | 36 | [To My Boyfriend](https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 99 | [돌아와](https://open.spotify.com/track/4RqJZRbBUfBgpIBQRRgNPJ) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Best Hits Of Clon 2002](https://open.spotify.com/album/1SNKbuivXHORpCrMJNkWk6) | 3:08 |
 | 100 | [Confession \(고백\)](https://open.spotify.com/track/6fOXtwKTjeoIVJ6IgCKQr9) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [1st](https://open.spotify.com/album/3k5Rs2oHKTx698cOOmf9Sc) | 4:16 |
 
-Snapshot ID: `AAAAAMiI5nAinF9XW/QVlzzFMfHyasy+`
+Snapshot ID: `AAAAAAa4uPzpcIHJ8AXc8r+3du5kNMuM`

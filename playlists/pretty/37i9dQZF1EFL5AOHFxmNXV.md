@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013 likes - 177 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014 likes - 177 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 78 | [Make a Mil](https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:51 |
 | 79 | [Don't Run](https://open.spotify.com/track/2jIUgQMInVgGOXryTgIMAe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 4:03 |
 | 80 | [SAVAGE ANTHEM](https://open.spotify.com/track/2HEXCknvxmtoj8p8Rpl8mT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE \(Chopped Not Slopped\)](https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo) | 6:16 |
-| 81 | [MEET YOUR PADRE](https://open.spotify.com/track/15GQGJprdI4uLMtfheNIeh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ) | 4:31 |
-| 82 | [Some of Your Love](https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 2:39 |
+| 81 | [Some of Your Love](https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 2:39 |
+| 82 | [MEET YOUR PADRE](https://open.spotify.com/track/15GQGJprdI4uLMtfheNIeh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ) | 4:31 |
 | 83 | [OMW](https://open.spotify.com/track/65flV8SJ4ERLJDJACRaHcv) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 3:53 |
 | 84 | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H) | 3:01 |
 | 85 | [Grown Woman](https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 176 | [Truth For You](https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [Detrooklyn.](https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb) | 2:36 |
 | 177 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Ace3egAAAADqqdehQi3vdNBETRrQyg6t`
+Snapshot ID: `Ace9GgAAAACulBftjJgBu0LI1UnrKBRR`

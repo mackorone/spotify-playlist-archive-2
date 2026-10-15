@@ -5773,6 +5773,32 @@
     },
     {
       "album": {
+        "name": "Karta Hoon",
+        "url": "https://open.spotify.com/album/77I3l0CIMOKefpXHjHS5Lg"
+      },
+      "artists": [
+        {
+          "name": "Gurman",
+          "url": "https://open.spotify.com/artist/6idSI8A0Mid4mx6GMognXx"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Kp Music",
+          "url": "https://open.spotify.com/artist/0rk8zrRC3nkyfbrvCuWIpx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249351,
+      "name": "Karta Hoon",
+      "url": "https://open.spotify.com/track/6FrcQrAssZfcWIjobJmkSK"
+    },
+    {
+      "album": {
         "name": "KASAM SE",
         "url": "https://open.spotify.com/album/6lEHne5aH2KKcRWGBke24W"
       },
@@ -8880,7 +8906,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 163892,
       "name": "Nindiya",
       "url": "https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn"

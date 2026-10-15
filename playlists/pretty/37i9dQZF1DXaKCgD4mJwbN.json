@@ -1,12 +1,12 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1218441,
+  "num_followers": 1218517,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADANecwFHKKUOXx4e04BLGHNVv1M",
+  "snapshot_id": "AAAAALtBTaq3dfJ6MudKuGphaXAniejP",
   "tracks": [
     {
       "added_at": "2026-09-18 08:13:36",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
         "name": "Que Te Quieran Bonito",
         "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 162211,
       "name": "Que Te Quieran Bonito",
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253432,
-      "name": "El Nene",
-      "url": "https://open.spotify.com/track/7enLVqhSEvg3Z5RVeFa76u"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 142440,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253432,
+      "name": "El Nene",
+      "url": "https://open.spotify.com/track/7enLVqhSEvg3Z5RVeFa76u"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -2123,34 +2123,22 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
+        },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -2171,6 +2159,22 @@
     {
       "added_at": "2026-09-18 08:13:36",
       "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
@@ -2183,26 +2187,6 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2026-09-18 08:13:36",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 165848,
-      "name": "EL AMOR DE SU VIDA",
-      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
     },
     {
       "added_at": "2026-09-18 08:13:36",
@@ -2227,6 +2211,26 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy"
+    },
+    {
+      "added_at": "2026-09-18 08:13:36",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
     }
   ],
   "unique_name": "Pa' Pistear",

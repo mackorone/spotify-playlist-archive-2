@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 45174,
+  "num_followers": 45179,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAEO6ybMeBdDM4SUJTurWjS",
+  "snapshot_id": "as10gAAAAADWmFClZlPovI6zh0JW9EzU",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 467493,
+      "name": "Kettle Whistle",
+      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 467493,
-      "name": "Kettle Whistle",
-      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 327093,
-      "name": "Price I Pay",
-      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,

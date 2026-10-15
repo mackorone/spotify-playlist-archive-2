@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,906 likes - 145 songs - 9 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,911 likes - 153 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,15 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 141 | [Pasado de Estilo](https://open.spotify.com/track/1Sps8sD4rL6EOSNEeQ5NHU) | [Dani Sugar](https://open.spotify.com/artist/1ZoIRn3Y4sGWoMEr3j22QN), [Angie](https://open.spotify.com/artist/2DjtxC5D5B1mwdyIIzV2TH) | [Pasado de Estilo](https://open.spotify.com/album/6wH5JF0C9JnuXLPTz7znwD) | 2:53 |
 | 142 | [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 |
 | 143 | [El Peor](https://open.spotify.com/track/0XTYkteXdSmzBgnc3DhdOx) | [Axius](https://open.spotify.com/artist/2rWdPoCs8cj3kjYwr2ydnB) | [Eminente](https://open.spotify.com/album/69FzRRDlBaoWFbVSQBoXRB) | 2:50 |
-| 144 | [The Climb](https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt) | [Trinity Aliens](https://open.spotify.com/artist/4znIHpAAQa3vn5gglURZov) | [The Climb](https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2) | 2:59 |
+| 144 | [The Climb](https://open.spotify.com/track/44zc9DyvJH506kYjDA11xt) | [Trinity Aliens](https://open.spotify.com/artist/474QILfXBzOPrLt52iN4R0) | [The Climb](https://open.spotify.com/album/3UbYbh2Z3jxP42jKh7X0O2) | 2:59 |
 | 145 | [Tell Me You Like To Dance](https://open.spotify.com/track/2shi8nwotiKes5rFU50BZ2) | [HEVL](https://open.spotify.com/artist/5Fu10ZnbaiPhMjqFisPH30) | [Tell Me You Like To Dance](https://open.spotify.com/album/3yugy6NH8PCxhNHkN6IGuM) | 3:17 |
+| 146 | [Cántala otra vez](https://open.spotify.com/track/1Fu42K1QqGsNxlBq04WCWT) | [Amigo Buster](https://open.spotify.com/artist/2Ic6ydo8wxtfwn6XSMyGFE), [Atraco](https://open.spotify.com/artist/1b5hb1dESdAOvb0vxeXwat), [Diego Martinez](https://open.spotify.com/artist/4StowyVhL2OzkKAucW7dkV) | [Cántala otra vez](https://open.spotify.com/album/2K2ZnGoDk1Tj8L8Yc86zBl) | 3:02 |
+| 147 | [Double gum](https://open.spotify.com/track/6YO9AJVRkootOJbcNMb5id) | [Mirco Vincenzo Giuseppe Prainito](https://open.spotify.com/artist/7j7MDPBL9KgXPfpNbbm4PC) | [Double gum](https://open.spotify.com/album/7BncDge6ThakRIrSWgwhnc) | 4:16 |
+| 148 | [Rockstar Party](https://open.spotify.com/track/3Sx4katApADcbqhiD75eDh) | [Grand Gulla](https://open.spotify.com/artist/6XT6RewPtyOa6yJ7gpIWTW), [Matt Hogenson](https://open.spotify.com/artist/2JRJkaYJHjDBX4Yq3jWTJA) | [Rockstar Party](https://open.spotify.com/album/1mqhkdjTq5xZUjIb7ZNzqY) | 3:32 |
+| 149 | [Down on My Knees](https://open.spotify.com/track/5PLs9TdrkljuBBmFB1ZtDO) | [Freewayy](https://open.spotify.com/artist/76JypriGHmjzo2jzpy4DhE), [David Steele](https://open.spotify.com/artist/1nM4qWVJmUia1zSqU66qXo) | [Down on My Knees](https://open.spotify.com/album/1dP2vr1Khyngkb7tb2Fc50) | 3:37 |
+| 150 | [Read my Rights](https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL) | [The Garbage Gang](https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s) | [Read my Rights](https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry) | 3:02 |
+| 151 | [Forbidden Fruit](https://open.spotify.com/track/3ZooZAL52Vt7UWFlpBOr7l) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Forbidden Fruit](https://open.spotify.com/album/5CZ1DxtWeHoPgTFPBOxrUr) | 3:42 |
+| 152 | [Send Your Best](https://open.spotify.com/track/559fbHuOhwUqVq3pkJcY2e) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [Send Your Best](https://open.spotify.com/album/6zSAbp740eRa8IU5oMxC80) | 3:51 |
+| 153 | [Healed by grace](https://open.spotify.com/track/4lACGHtRSMAdxITk9vkxKb) | [Faby Heavenly Rock](https://open.spotify.com/artist/6yYt5hgzgGJoHX0zzte2GW) | [Healed by grace](https://open.spotify.com/album/0ZeYzdDh2rfiuBCS0N0OVK) | 4:58 |
 
-Snapshot ID: `AAAMvhUNWGtcV+twE0EWzkIAXkKdiwRW`
+Snapshot ID: `AAAMxla2XHpv2CG4dYmE9r3UgCq76hAD`

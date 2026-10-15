@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
-  "num_followers": 84618,
+  "num_followers": 84626,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIyNCwiEp2b0zFFH3WRqZPMGxzWj",
+  "snapshot_id": "AAAAANudJeIVFhcYWkx6bGJTkpgQRVug",
   "tracks": [
     {
       "added_at": "2026-09-18 21:31:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
+      "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
-      "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1751,42 +1751,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "Mente en Blanco (En Vivo)",
         "url": "https://open.spotify.com/album/3tFIEwCvbt8XYl6vS7KCq1"
       },
@@ -1819,6 +1783,42 @@
       "duration_ms": 242556,
       "name": "Mente en Blanco - En Vivo",
       "url": "https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2026-09-18 21:31:17",

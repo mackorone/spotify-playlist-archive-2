@@ -4,7 +4,7 @@
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-86 songs - 3 hr 42 min
+87 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 | 2024-04-06 |  |
 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 | 2024-05-12 |  |
 | [Avalon](https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Avalon](https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv) | 2:20 | 2024-04-06 | 2024-05-12 |
-| [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 | 2024-04-06 |  |
+| [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 | 2024-04-06 | 2026-10-15 |
 | [BLOODSWEAT](https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:41 | 2025-12-27 |  |
 | [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 | 2024-06-17 |  |
 | [But Wait, There's More \(feat\. $uicideboy$\)](https://open.spotify.com/track/73SqEPjEZQRmEEjmzdZ8bx) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Underground Underdog](https://open.spotify.com/album/5f6k9tlZ3vHpPLwLKMEuTT) | 2:08 | 2025-10-12 | 2025-10-26 |
@@ -55,6 +55,7 @@
 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 | 2024-04-06 |  |
 | [Leviticus](https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:04 | 2025-12-28 |  |
 | [Lone Wolf Hysteria](https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:47 | 2024-06-17 | 2025-12-28 |
+| [Low Key](https://open.spotify.com/track/2nzjXDv6OuRHrHKhfhfB98) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 2:02 | 2026-10-15 |  |
 | [LTE](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 | 2024-04-06 |  |
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2024-04-06 |  |
 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 | 2024-04-06 |  |

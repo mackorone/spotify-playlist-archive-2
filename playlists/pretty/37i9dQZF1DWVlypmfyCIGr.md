@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: kohamo
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,716 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,718 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [愛をくべましょう](https://open.spotify.com/track/6K7iESpSaHhcIoLkWMa2rW) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [愛をくべましょう](https://open.spotify.com/album/3kcPGM6JcjZ7ZwZUX4J0Vn) | 3:01 |
 | 80 | [ΛυΛυΛυ](https://open.spotify.com/track/5RENeyQvxDxMCk7HzYUsQO) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [ΛυΛυΛυ](https://open.spotify.com/album/1fGvlSb9XofSlCrlW7ttFQ) | 5:21 |
 
-Snapshot ID: `AAAAAPFx6eLDNFyzwak9NeX3HE4pb4SF`
+Snapshot ID: `AAAAACWePUuqhxbqoB+kBk3tBazp1MMK`

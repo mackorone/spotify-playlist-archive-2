@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,565 songs - 3 day 18 hr 35 min
+1,566 songs - 3 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1147,7 +1147,7 @@
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-05 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-05-23 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2023-12-05 | 2024-11-24 |
-| [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 | 2026-03-28 |  |
+| [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 | 2026-03-28 | 2026-10-15 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-14 | 2021-11-14 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-11-14 | 2021-12-03 |
 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-08-07 | 2023-09-28 |
@@ -1356,6 +1356,7 @@
 | [Teman](https://open.spotify.com/track/7GkU7gkhmocy1lVFSkoi95) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Teman](https://open.spotify.com/album/4ydV32tGOIjWIfNXMSapz4) | 3:29 | 2021-03-27\* | 2021-04-10 |
 | [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 | 2023-04-09 | 2024-06-16 |
 | [Terbang \- Original Soundtrack From Tarung: Unforgiven](https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Terbang \(Original Soundtrack From Tarung: Unforgiven\)](https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf) | 2:55 | 2026-09-20 |  |
+| [Terbelah Jadi Dua](https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Blue.](https://open.spotify.com/album/3dsMOi3vRhbrxnq5aRdHLG) | 4:15 | 2026-10-14 |  |
 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 | 2024-08-09 | 2024-10-10 |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2021-09-10 | 2021-09-19 |
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-09-30 | 2024-02-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Bees & Honey and Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,490 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,502 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 69 | [Look At Me \(with Fridayy\)](https://open.spotify.com/track/6Belt1VDE3OAvb4JWcn8nf) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 3:24 |
 | 70 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:30 |
 
-Snapshot ID: `AAAAAMCr9k5ip53c5qpgybljrd3VJ+LJ`
+Snapshot ID: `AAAAAKlU9PgeU4hwjFoNvkfLHqcjCgJ1`

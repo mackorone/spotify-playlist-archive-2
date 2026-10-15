@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,911 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,961 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 45 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
 | 46 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 47 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
-| 48 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
-| 49 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
+| 48 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
+| 49 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
 | 50 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 |
 | 51 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
 | 52 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 124 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 |
 | 125 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
 
-Snapshot ID: `AAAAANvSPST/37Yia+6TwXBJ7DrWALH1`
+Snapshot ID: `AAAAAPBIC1Jz89aY4KDcdtGk4mUpU/mo`

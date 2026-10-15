@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Bolaget, Elise Elvira och Sunnan med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,567 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,584 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [SÅ LENGE JEG LEVER](https://open.spotify.com/track/50jvnoVELEfoyRknCPAsu3) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [SÅ LENGE JEG LEVER](https://open.spotify.com/album/6LKkyzlSAeZHBg3IjQnxDQ) | 3:18 |
 | 100 | [Kom lilla kropp](https://open.spotify.com/track/1kPFnh0NlYa98N0jSLdxFk) | [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Kom lilla kropp](https://open.spotify.com/album/7cqgQtYvCLciyUPLLNYJcw) | 3:28 |
 
-Snapshot ID: `AAAAAK8DGjPSXXA2eJSFOkzQDktlybIp`
+Snapshot ID: `AAAAAAqisQrHAaTeWclNbZhU8NFH5l6I`

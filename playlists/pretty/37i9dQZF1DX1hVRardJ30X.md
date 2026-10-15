@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carín León & Ryan Castro, Judeline, Fuerza Regida, Ralphie Choo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,098 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,117 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Efectos De Tu Piel](https://open.spotify.com/track/38b8PihKC0PTTZ7ix2NmVi) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Efectos De Tu Piel](https://open.spotify.com/album/3jyriY3hKQQH9oM3f2eajL) | 3:11 |
 | 49 | [Hay Que Volver](https://open.spotify.com/track/28mufThIo9s1UELlx8Todx) | [SANA SANA MÚSICA](https://open.spotify.com/artist/59D0VJ2CC46el5zr80xBJU) | [Hay Que Volver](https://open.spotify.com/album/6wVTnHxFsIykRBChEEKd87) | 2:38 |
 
-Snapshot ID: `AAAAAD99PlbrfmvzvToLtP8iG1s+LLhS`
+Snapshot ID: `AAAAAL08LBmCzCCWdn/gB5TZszqSlUKD`

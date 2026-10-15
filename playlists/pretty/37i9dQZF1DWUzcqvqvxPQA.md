@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,343 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,357 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 16 | [God Is Faithful](https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Katie Torwalt](https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6) | [God Is Faithful](https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU) | 3:51 |
 | 17 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |
 | 18 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
-| 19 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
+| 19 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
 | 20 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
-| 21 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
+| 21 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
 | 22 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 |
 | 23 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
 | 24 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 42 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
 | 43 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
 | 44 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
-| 45 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
-| 46 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
+| 45 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
+| 46 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |
 | 47 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
 | 48 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 49 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 74 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 75 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
 
-Snapshot ID: `AAAAAPK9JVvv1uoOqCJ8Mr4inVU0jtaj`
+Snapshot ID: `AAAAAJ8SRTMmcrasUNoL25YZLMtzE/Hg`

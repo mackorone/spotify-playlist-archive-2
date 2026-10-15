@@ -6612,7 +6612,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 125536,
       "name": "BADDIES IN BELGICA",
       "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
@@ -34514,7 +34514,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 221053,
       "name": "La Nocturne",
       "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
@@ -41758,7 +41758,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
@@ -56706,6 +56706,24 @@
     {
       "album": {
         "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
         "url": "https://open.spotify.com/album/7ANxNZQm8jpjNH6nER0M2I"
       },
       "artists": [
@@ -56716,7 +56734,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 142663,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/43yprMxePR9BXo1DZg0vwY"
@@ -60894,7 +60912,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -60912,7 +60930,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -66956,7 +66974,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"

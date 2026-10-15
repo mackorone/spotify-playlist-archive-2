@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,873 likes - 48 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,978 likes - 48 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 12 | [This Means War](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:09 |
 | 13 | [M.I.A.](https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 8:46 |
 | 14 | [Dear God](https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 6:33 |
-| 15 | [Welcome to the Family](https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 4:05 |
+| 15 | [Danger Line](https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:28 |
 | 16 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 |
 | 17 | [Beast and the Harlot](https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:43 |
 | 18 | [Almost Easy](https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 3:54 |
-| 19 | [Danger Line](https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:28 |
+| 19 | [Welcome to the Family](https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 4:05 |
 | 20 | [Until the End](https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:45 |
 | 21 | [Carry On](https://open.spotify.com/track/1hrfvLgEC9lci0kB89QEQ0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Carry On](https://open.spotify.com/album/74n2zwxeFpTANK5e9z3LsK) | 4:15 |
 | 22 | [Critical Acclaim](https://open.spotify.com/track/4VymMhILk4DSwghPkLUPVS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:15 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 27 | [Blinded in Chains](https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 6:34 |
 | 28 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 |
 | 29 | [Doing Time](https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 3:25 |
-| 30 | [Not Ready to Die \- From "Call of the Dead"](https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Not Ready to Die \(From "Call of the Dead"\)](https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0) | 7:05 |
-| 31 | [The Stage](https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd) | 8:32 |
+| 30 | [The Stage](https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd) | 8:32 |
+| 31 | [Not Ready to Die \- From "Call of the Dead"](https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Not Ready to Die \(From "Call of the Dead"\)](https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0) | 7:05 |
 | 32 | [Cosmic](https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 7:31 |
 | 33 | [Dancing Dead](https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:51 |
 | 34 | [I Won't See You Tonight Part 1](https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 8:58 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 47 | [REJOICE](https://open.spotify.com/track/2VLHrjWZQW3uFKoO5AEJ7W) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [STATICA](https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu) | 4:22 |
 | 48 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
 
-Snapshot ID: `asrRgAAAAABBdnZ+MuGL6K5bQwALbuaR`
+Snapshot ID: `as10gAAAAAB++s3tgyKYElD2Nmkq2hK1`

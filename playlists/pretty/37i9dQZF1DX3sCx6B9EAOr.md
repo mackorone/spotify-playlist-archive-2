@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,756 likes - 150 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,752 likes - 150 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 82 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 83 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 84 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
-| 85 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
-| 86 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
+| 85 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
+| 86 | [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 |
 | 87 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
 | 88 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 |
 | 89 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 |
@@ -106,12 +106,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 96 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 97 | [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 |
 | 98 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
-| 99 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
-| 100 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
+| 99 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
+| 100 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
 | 101 | [Ice Cream](https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL) | 2:51 |
 | 102 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
-| 103 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
-| 104 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
+| 103 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
+| 104 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 105 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
 | 106 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
 | 107 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 149 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |
 | 150 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 |
 
-Snapshot ID: `AAAAAJ1XU+hYO7XZLQRWzls6LbKASZU0`
+Snapshot ID: `AAAAAJxeyYZ29/w8rS8+VA3Ea3A8WoOm`

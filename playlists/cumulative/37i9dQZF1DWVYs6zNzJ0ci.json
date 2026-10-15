@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 204440,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
@@ -3604,6 +3604,24 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+    },
+    {
+      "album": {
+        "name": "La Chica de las Tetas Caf\u00e9",
+        "url": "https://open.spotify.com/album/3neXRdu4XmYlE1TpnMHMR4"
+      },
+      "artists": [
+        {
+          "name": "Los Elefantes",
+          "url": "https://open.spotify.com/artist/6tgzJFBvtuw7rITf072msd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Guayabito",
+      "url": "https://open.spotify.com/track/2i6TKWD0YJUaGJATTNVm5a"
     },
     {
       "album": {
@@ -5328,7 +5346,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 297426,
       "name": "Luz y Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
@@ -7658,7 +7676,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 211534,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6OPMwjpBacWGDI0Z8Qx7RW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Dimitri Vegas, Dj Bountyhunter & BRANDON
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,265 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,235 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Not So Bad](https://open.spotify.com/track/4Fx1Ioc966N56C2y8qOb2t) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Nikko](https://open.spotify.com/artist/1A06pAoCD2vqAIuJZlhac5) | [Not So Bad](https://open.spotify.com/album/0eT9H6gg5vcaDx2YeVxitK) | 3:31 |
 | 60 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 
-Snapshot ID: `AAAAAGcLcOTHodkIsUgQWqErblXhviVo`
+Snapshot ID: `AAAAAO22uYZ+guoRYpYJpeGv44OA/9p/`

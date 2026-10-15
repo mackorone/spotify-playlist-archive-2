@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Beracah
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,269 likes - 97 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,285 likes - 97 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 30 | [Come Into My Heart](https://open.spotify.com/track/7hRpOhNKpmsnSMBY02sJK0) | [Odunayo Olarewaju](https://open.spotify.com/artist/0iNEQCDoC3QzcBfuERkxhx) | [Come Into My Heart](https://open.spotify.com/album/1HBhvq55XYNxqltIAvvgTK) | 7:28 |
 | 31 | [Ka Anyi Kelee Aha Ya](https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Ka Anyi Kelee Aha Ya](https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS) | 13:01 |
 | 32 | [Heavenly Father](https://open.spotify.com/track/3RnF0R3Wj6G0djVaX4FiXV) | [Nuel Beatz](https://open.spotify.com/artist/4SOEmk8O48UGRzvrpimMrH), [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Heavenly Father](https://open.spotify.com/album/3m6mVrvVxSjoTfGgbkbUc6) | 2:46 |
-| 33 | [ORE JESU SE \(The Deeds of Jesus\)](https://open.spotify.com/track/7H8nzEO7rohBCj5R64XQz3) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz), [Evangelist Ojo Ade](https://open.spotify.com/artist/4p65YgjW5WH9v1sGa7JFJg) | [ORE JESU SE \(The Deeds of Jesus\)](https://open.spotify.com/album/6rEVvxxpZwN1xhQ3M2h8Wh) | 4:41 |
+| 33 | [OORE JESU SE \(The Deeds of Jesus\)](https://open.spotify.com/track/7H8nzEO7rohBCj5R64XQz3) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz), [Evangelist Ojo Ade](https://open.spotify.com/artist/4p65YgjW5WH9v1sGa7JFJg) | [OORE JESU SE \(The Deeds of Jesus\)](https://open.spotify.com/album/6rEVvxxpZwN1xhQ3M2h8Wh) | 4:41 |
 | 34 | [Faithful \(Another Stone\)](https://open.spotify.com/track/7KBgnrYDE6Zij236Lzjzi2) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Faithful \(Another Stone\)](https://open.spotify.com/album/49sO4Eu7gPLdRjvc2SLqQ3) | 5:22 |
 | 35 | [Never Let Me Go \(Spontaneous Worship\)](https://open.spotify.com/track/7kclJCORTXNTFHqmAkzGRp) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Never Let Me Go \(Spontaneous Worship\)](https://open.spotify.com/album/5mjTOSaneMJbHpD0UUfs0c) | 7:09 |
 | 36 | [In Your Presence](https://open.spotify.com/track/3jBNqHzGxuI14xjI1cE8qD) | [DJ Dansco](https://open.spotify.com/artist/0Hm1UvfbKTkQ0ro6sibrPD) | [In Your Presence](https://open.spotify.com/album/0sfuT9r883jVDjhEDPp1qV) | 5:55 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 96 | [Christ In Us](https://open.spotify.com/track/01sh5bbcwILUfaNJFQ033N) | [Amiz Gmusic](https://open.spotify.com/artist/0BtjS5X5LOLmFVppWiYQQV) | [Christ In Us](https://open.spotify.com/album/6NXPLX283StTdoJHMUVUrR) | 4:46 |
 | 97 | [Asine Abasi K'Ubok](https://open.spotify.com/track/0au7pyahfKIEe2Nd8fbYA8) | [Pastor Wise Michael](https://open.spotify.com/artist/0N8XWcxOudGb76cxJEvrHX) | [Asine Abasi K'Ubok](https://open.spotify.com/album/2DIQhuHiaQolEsyywlRMxl) | 6:11 |
 
-Snapshot ID: `AAAAAJpwbsaWn0Kfz56Eyx6KJws6t7RQ`
+Snapshot ID: `AAAAANqsCbG85ydhZZ6tR4XsQnDnocwb`

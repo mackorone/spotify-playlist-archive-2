@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,227 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,277 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Sin Tu Cariño](https://open.spotify.com/track/1hEkAQTsDCnPX0zpo22Z5F) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:30 |
 | 50 | [Solitario](https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:00 |
 
-Snapshot ID: `AAAAAJSo5NjDKhqs6iPKn/KAODVmVIw6`
+Snapshot ID: `AAAAAIJgQKWSWCq0y7MWpcxMh3syN0eG`

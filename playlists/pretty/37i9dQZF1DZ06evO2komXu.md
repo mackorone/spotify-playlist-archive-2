@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,486 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,520 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 44 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 |
 | 45 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
 | 46 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
-| 47 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
-| 48 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 |
+| 47 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 |
+| 48 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
 | 49 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
 
-Snapshot ID: `asrRgAAAAAC4PvnRwuzoFUqrlUqwtDHK`
+Snapshot ID: `as10gAAAAABp+HSxn3aP1tfeCQEtjqvQ`

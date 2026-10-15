@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 
 > Warm familiar pop you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,778,720 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,778,664 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 97 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:05 |
 | 98 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 | 99 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
-| 100 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
+| 100 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 
-Snapshot ID: `AAAAAP1PGtl6VckZegu/fT+ZbB9PUH12`
+Snapshot ID: `AAAAAFFgZvj8XdgF+i2jKHuhEe4esV4b`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Charlotte Cardin, Grimes, Remi Wolf, Gunna, Cardi B, Slayyyter, Troye Sivan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,807 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,742 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 92 | [Spotlight!](https://open.spotify.com/track/7uG2VSRCteWdLXb6o5jBTo) | [2120](https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR) | [Powdery Notes](https://open.spotify.com/album/2Ks24CyJngXGYzTWOgcmq0) | 4:38 |
 | 93 | [Clean Up Nice](https://open.spotify.com/track/6vi6ibwafAMPHMGjiHVJTa) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Futurewave](https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz) | [Clean Up Nice](https://open.spotify.com/album/0ifxAihN6jtlfiCgWjgEXc) | 3:23 |
 | 94 | [NI MAL NI BIEN](https://open.spotify.com/track/6MfymVGtV28MhHVB82Jz5F) | [La Rumeur](https://open.spotify.com/artist/0sX9shkpi9yYK65nZCeeiW), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [NI MAL NI BIEN](https://open.spotify.com/album/4VL9z6l93kPdpq0sle82Zw) | 2:38 |
-| 95 | [district 11](https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO) | [HOCHELAGÀPARIS, Vol\. 2](https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa) | 1:34 |
+| 95 | [district 11](https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [HOCHELAGÀPARIS, Vol\. 2](https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa) | 1:34 |
 | 96 | [Peace](https://open.spotify.com/track/3Fb3XOySgKjZUcBcHiuqeT) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi), [Rex Smallboy](https://open.spotify.com/artist/6USV914NUMuMp2DwpBb6Nf) | [Peace](https://open.spotify.com/album/2hr9e1rQ4GxvF9Xb0LACTc) | 3:49 |
 | 97 | [MONSTRE](https://open.spotify.com/track/77oh3TGvs3jr0lw732vLXk) | [romie](https://open.spotify.com/artist/7wrEX7WSksgXmTz7qq9Dvw) | [MONSTRE](https://open.spotify.com/album/6hjuWuwxDQ6uztFbKT4WdN) | 2:28 |
 | 98 | [Spell It Out](https://open.spotify.com/track/4ez75nPvT6h62Zohmvkm9M) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU) | [SCRAPBOOK](https://open.spotify.com/album/2tDm3XNlPNQqr8i0WKbiPN) | 2:30 |
 | 99 | [Poulpe](https://open.spotify.com/track/19X3vwy5UerNhVQI2vp9DH) | [Duu](https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q) | [Strobus / Banksiana](https://open.spotify.com/album/5PAT7mWa6xPCiKHGdtuxDx) | 3:56 |
 | 100 | [PIÈCES](https://open.spotify.com/track/6RsMdIbL8xKmCmV8zpW1dS) | [SCOPA](https://open.spotify.com/artist/1LJCipjW9wdJYKk5mnze43) | [SCOPA](https://open.spotify.com/album/3ekHnb2DeHDs1GnzxBCk26) | 3:25 |
 
-Snapshot ID: `AAAAAAiq703D5JTSwkLeixHtSGJpvsi4`
+Snapshot ID: `AAAAAGivvfP7rHjlUNYVxS2Vm0UL2uo1`

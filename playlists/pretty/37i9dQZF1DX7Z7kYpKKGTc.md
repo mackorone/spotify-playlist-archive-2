@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,534 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,720 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 24 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 25 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 26 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss + Soldier of Love](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 |
-| 27 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
-| 28 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
+| 27 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
+| 28 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 29 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 30 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 31 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Strange Things](https://open.spotify.com/track/2fdByfikJFeIsV5irX5rIu) | [Black 'N Blue](https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08) | [Without Love](https://open.spotify.com/album/2Gb24RLBhF8NeX2qWka8nl) | 3:24 |
 | 50 | [Eye of the Storm](https://open.spotify.com/track/0rPOAr0WydCb79Wst4coUP) | [Smashed Gladys](https://open.spotify.com/artist/2tTLv0TNRgphagV0l8DOd4) | [Social Intercourse](https://open.spotify.com/album/2XeJkV31gkHByTrs4d3cP9) | 4:17 |
 
-Snapshot ID: `AAAAAF+oE5KyviKF63ngOgILucvREAXs`
+Snapshot ID: `AAAAALGlkfI0fhL4TM35Gv4aybUe55nb`

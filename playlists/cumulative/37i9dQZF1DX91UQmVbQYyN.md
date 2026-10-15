@@ -2,7 +2,7 @@
 
 ### [Women of Indie](https://open.spotify.com/playlist/37i9dQZF1DX91UQmVbQYyN)
 
-> Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Grace Ives
+> Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Thoom
 
 616 songs - 1 day 13 hr 22 min
 

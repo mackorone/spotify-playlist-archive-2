@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-239 songs - 11 hr 53 min
+240 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Mirada Perdida](https://open.spotify.com/track/3txrX72zGVKlqHG2uN5sb1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Adal](https://open.spotify.com/artist/035LjRuKfMDQ2Xtlb4gqB6) | [Mirada Perdida](https://open.spotify.com/album/36n71nRd3k3UyUsvzmt5qh) | 2:59 | 2025-01-29 | 2025-02-08 |
 | [Muchacha Guapa \(En Vivo\)](https://open.spotify.com/track/7gFeiAqPfuDTbJAxFKhWGR) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacha Guapa \(En Vivo\)](https://open.spotify.com/album/2DUzNKffl9x9jgogqjT9Q9) | 2:31 | 2023-10-01 | 2023-11-11 |
 | [Muchacho Alegre](https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G) | 3:08 | 2026-04-12 | 2026-04-24 |
-| [Muchacho Alegre](https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz) | 3:08 | 2026-03-15 |  |
+| [Muchacho Alegre](https://open.spotify.com/track/4L4VjsSWBHQYAr4mNjW92F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 3:08 | 2026-10-15 |  |
+| [Muchacho Alegre](https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz) | 3:08 | 2026-03-15 | 2026-10-15 |
 | [Nemesio](https://open.spotify.com/track/6bd5RNCLkKrNTdMBiehixh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nemesio](https://open.spotify.com/album/7dDDAkoT9xPwxcCc9cn28o) | 3:42 | 2023-09-05 | 2023-12-30 |
 | [Nemesio](https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:40 | 2024-01-06 | 2024-01-09 |
 | [NIMODO QUE NO](https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:11 | 2025-02-23 |  |

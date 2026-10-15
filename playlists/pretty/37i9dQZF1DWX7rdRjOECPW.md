@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Sommerhits 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,621 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,496 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 13 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
 | 14 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 15 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 16 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
-| 17 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 16 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 17 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 18 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
 | 19 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 20 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 47 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 48 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
 | 49 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
-| 50 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
-| 51 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
+| 50 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
+| 51 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
 | 52 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 53 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 54 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 69 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
 | 70 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
 
-Snapshot ID: `AAAAAI2dlQt5bsiQRNPx3wQlZvOvBkqw`
+Snapshot ID: `AAAAADClFW+/+gC+p/TvTUODn81gm7Ga`

@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55862,
+  "num_followers": 55866,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABOzZUAMveNXNfkkGpB8qZR",
+  "snapshot_id": "as10gAAAAAAe7+hEC8OgBS0/08BBcPaQ",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Pay Your Way In Pain",
+      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 229960,
       "name": "Who",
       "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Pay Your Way In Pain",
-      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+        "url": "https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "DOA - From \u201cDeath of a Unicorn\u201d",
+      "url": "https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 181733,
       "name": "Laughing with a Mouth of Blood",
       "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-        "url": "https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "DOA - From \u201cDeath of a Unicorn\u201d",
-      "url": "https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI"
     },
     {
       "added_at": null,

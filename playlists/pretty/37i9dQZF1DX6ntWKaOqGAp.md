@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Hump Back
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,499 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,517 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 36 | [LOVE & LIKE](https://open.spotify.com/track/1nkfCEYkL2DQ02V3ffrwgL) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [LOVE & LIKE](https://open.spotify.com/album/0R7Oz36rfDjxF7hzRrt4A6) | 3:32 |
 | 37 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
 | 38 | [Yomigaeri](https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Yomigaeri](https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z) | 3:52 |
-| 39 | [Track 4](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 0:00 |
+| 39 | [5820](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 3:29 |
 | 40 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 |
 | 41 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 |
 | 42 | [クライネ](https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [クライネ](https://open.spotify.com/album/421WIl1p0uKTKel9ZSOlvj) | 4:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 98 | [海鳴](https://open.spotify.com/track/02XKcBFZtzpiBA1KDrB0Gk) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [海鳴](https://open.spotify.com/album/0oCVRnlQMNXlUCvEs69Cht) | 3:03 |
 | 99 | [おっちょこブラザーズ](https://open.spotify.com/track/38k1ZmsCCXVsqFzYOXWa2P) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [おっちょこブラザーズ](https://open.spotify.com/album/3OVLiB5hkBozIzclkJmjQP) | 2:19 |
 
-Snapshot ID: `AAAAAI63vxDlRE7wKFlGa+CpjtpDeDYy`
+Snapshot ID: `AAAAAGrmdoYN6LqIIJajOCVzno+s2dxt`

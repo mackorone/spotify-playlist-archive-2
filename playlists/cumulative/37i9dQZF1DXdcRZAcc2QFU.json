@@ -856,8 +856,16 @@
       },
       "artists": [
         {
+          "name": "Rajesh Roshan",
+          "url": "https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD"
+        },
+        {
           "name": "Udit Narayan",
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
         }
       ],
       "date_added": "2023-05-11",

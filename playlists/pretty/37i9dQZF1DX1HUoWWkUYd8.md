@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 
 > Polaroids, clackers and wooden box TV's, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,637 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,668 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 25 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 26 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 27 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
-| 28 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
-| 29 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 28 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
+| 29 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
 | 30 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 31 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 32 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 34 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:28 |
 | 35 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 36 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
-| 37 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
-| 38 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
+| 37 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
+| 38 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 39 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 40 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 | 41 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 67 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
 | 68 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 |
 | 69 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
-| 70 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 |
-| 71 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
+| 70 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
+| 71 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 |
 | 72 | [That's the Way \(I Like It\) \- 2004 Remaster](https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 3:05 |
 | 73 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 |
 | 74 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 77 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
 | 78 | [Shattered Dreams \- Remastered 2008](https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 3:27 |
 | 79 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 |
-| 80 | [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 |
+| 80 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 
-Snapshot ID: `AAAAAOojtsgkaCxFqmbl5X5aS52qCxNc`
+Snapshot ID: `AAAAALEsmeQl/ijYRbzTrGPeQZ+zVS5K`

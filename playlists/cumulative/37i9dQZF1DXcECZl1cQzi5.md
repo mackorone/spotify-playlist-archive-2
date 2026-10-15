@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-245 songs - 11 hr 42 min
+246 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,9 +244,10 @@
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-10-23 |  |
 | [Waves](https://open.spotify.com/track/3GvIP3HSvU0GqKVZkTlpHt) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Waves](https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m) | 2:07 | 2024-11-22 | 2025-04-27 |
 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 | 2023-10-23 | 2026-10-09 |
+| [Waves of Freedom](https://open.spotify.com/track/7Ix1cfDeXslQvYURAxc8sU) | [Eelyrion](https://open.spotify.com/artist/3sGhodeMqHj0JDOBfykG40) | [Waves of Freedom](https://open.spotify.com/album/0Id78tREmSLPhrkVnPRLz0) | 2:48 | 2026-10-05 |  |
 | [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 | 2025-01-15 | 2026-02-28 |
 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-10-23 | 2026-05-21 |
-| [West Waves](https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [West Waves](https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr) | 2:28 | 2025-06-23 |  |
+| [West Waves](https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [West Waves](https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr) | 2:28 | 2025-06-23 | 2026-10-15 |
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-10-02 |  |
 | [Wind and Sea](https://open.spotify.com/track/4v3BHDfALATOZ3bKhjgc7w) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Wind and Sea](https://open.spotify.com/album/5IlfrNEn3VMwZOZHScI8EN) | 2:42 | 2026-10-05 | 2026-10-10 |
 | [Wind of Serenity](https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Wind of Serenity](https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn) | 2:40 | 2024-03-01 | 2025-05-16 |

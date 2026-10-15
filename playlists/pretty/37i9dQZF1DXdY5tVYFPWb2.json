@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183368,
+  "num_followers": 183376,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyG1su8/AGYquvr4kj805pV9BYY",
+  "snapshot_id": "AAAAALJYb1r1pudl1UHAJHoEitxYeeQi",
   "tracks": [
     {
       "added_at": "2026-10-06 15:00:53",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
+        "name": "We won't last forever",
+        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
+      },
+      "artists": [
+        {
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+        }
+      ],
+      "duration_ms": 183862,
+      "name": "We won't last forever",
+      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
         "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
         "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 183934,
       "name": "\u6d99\u306e\u30ab\u30e9\u30c3\u30c8 -Rumor Girl- (feat. \u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
-        "name": "We won't last forever",
-        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
-      },
-      "artists": [
-        {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
-        }
-      ],
-      "duration_ms": 183862,
-      "name": "We won't last forever",
-      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "next to your love",
-        "url": "https://open.spotify.com/album/30Js1gDDvy8YvoRDto8Gp4"
-      },
-      "artists": [
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "next to your love",
-      "url": "https://open.spotify.com/track/54sJZZKIRSm2W16Rtz8ClK"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "next to your love",
+        "url": "https://open.spotify.com/album/30Js1gDDvy8YvoRDto8Gp4"
+      },
+      "artists": [
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "next to your love",
+      "url": "https://open.spotify.com/track/54sJZZKIRSm2W16Rtz8ClK"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "\u541b\u3068drive",
-        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "\u541b\u3068drive",
-      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "RELOADING CITY",
         "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 264360,
       "name": "\u30a2\u30dd\u30ed",
       "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "\u541b\u3068drive",
+        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 259615,
+      "name": "\u541b\u3068drive",
+      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
         "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 125294,
       "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
-      },
-      "artists": [
-        {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "\u771f\u590f\u306e\u77ac\u9593",
         "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 233596,
       "name": "\u771f\u590f\u306e\u77ac\u9593",
       "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
+      },
+      "artists": [
+        {
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 225680,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-10-06 15:00:53",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
-    },
-    {
-      "added_at": "2026-10-06 15:00:53",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1711,18 +1695,34 @@
     {
       "added_at": "2026-10-06 15:00:53",
       "album": {
-        "name": "\u3061\u304c\u3046",
-        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
       "artists": [
         {
-          "name": "MHRJ",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 230786,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2026-10-06 15:00:53",
+      "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

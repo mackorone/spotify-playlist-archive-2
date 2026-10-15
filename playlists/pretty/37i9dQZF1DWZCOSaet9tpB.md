@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,699 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,865 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 48 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:45 |
 | 49 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 |
 
-Snapshot ID: `AAAAAGyFBDycoM2Tza9wnu7U4OcspZ9+`
+Snapshot ID: `AAAAAEMzFC39ITm0mNNPjUDgyL8SRDuq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,712 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,766 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 11 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 |
 | 12 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 13 | [Around the World \(La La La La La\)](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
-| 14 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
-| 15 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
+| 14 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
+| 15 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 16 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
 | 17 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 |
 | 18 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 49 | [Blah Blah Blah](https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Blah Blah Blah](https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN) | 3:03 |
 | 50 | [Stereo Love](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 
-Snapshot ID: `AAAAAImGc/rJBIyrcUEhBmk9pQJVzxv/`
+Snapshot ID: `AAAAACHQoW0+Q1oL6FUr0CFYxn2J5ucH`

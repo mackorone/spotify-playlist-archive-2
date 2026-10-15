@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACrqFbMfebO+QsuUdeEXhnV",
+  "snapshot_id": "as10gAAAAACYbs0mwq5D3nnHPH2c3Mu2",
   "tracks": [
     {
       "added_at": null,
@@ -366,15 +366,11 @@
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
         }
       ],
-      "duration_ms": 198751,
-      "name": "Mathematics (feat. Kano)",
-      "url": "https://open.spotify.com/track/4tldGgVS1sF0HA0VzUcKK8"
+      "duration_ms": 174493,
+      "name": "I Know You'd Kill",
+      "url": "https://open.spotify.com/track/5Ke7X457DQP91cqKKyH6f0"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
         }
       ],
-      "duration_ms": 174493,
-      "name": "I Know You'd Kill",
-      "url": "https://open.spotify.com/track/5Ke7X457DQP91cqKKyH6f0"
+      "duration_ms": 198751,
+      "name": "Mathematics (feat. Kano)",
+      "url": "https://open.spotify.com/track/4tldGgVS1sF0HA0VzUcKK8"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pass the Salt (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
       "artists": [
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 167010,
-      "name": "Pass the Salt (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+      "duration_ms": 183151,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
       },
       "artists": [
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 183151,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
     },
     {
       "added_at": null,

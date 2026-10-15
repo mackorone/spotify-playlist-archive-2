@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: Zhafari",
+  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: Alee",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -5863,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Apa Kabarmu?",
+        "url": "https://open.spotify.com/album/6FgjGuLfNgJN2YJXlrCnke"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/01BMkBku2V4y07nCHGotH6"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230357,
+      "name": "Apa Kabarmu?",
+      "url": "https://open.spotify.com/track/4PdtJDvvqQ4TEfVOppQcO7"
+    },
+    {
+      "album": {
         "name": "Apa Kamu Pernah Sepertiku?",
         "url": "https://open.spotify.com/album/2lxJHwdRZtSUcpBdqLrqt0"
       },
@@ -7422,6 +7440,24 @@
       "duration_ms": 220448,
       "name": "Baby It's Alright",
       "url": "https://open.spotify.com/track/1ZvtR1Jrud7MkBfTIVegdO"
+    },
+    {
+      "album": {
+        "name": "Baby Juno",
+        "url": "https://open.spotify.com/album/757ySzcXzlD2FCbVfHYaXP"
+      },
+      "artists": [
+        {
+          "name": "Alvin Wardiman",
+          "url": "https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269726,
+      "name": "Baby Juno",
+      "url": "https://open.spotify.com/track/6Xaea9Ibl4Ecydqc75L6Iw"
     },
     {
       "album": {
@@ -97276,6 +97312,24 @@
       "duration_ms": 211153,
       "name": "Titip Rindu",
       "url": "https://open.spotify.com/track/7unMPGR4PRnimlz0G6XpeA"
+    },
+    {
+      "album": {
+        "name": "TMO",
+        "url": "https://open.spotify.com/album/10vOV4BD5GntGrxOsmFXot"
+      },
+      "artists": [
+        {
+          "name": "raindra",
+          "url": "https://open.spotify.com/artist/5YlN1noydwYf7oUIown4Og"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203944,
+      "name": "TMO",
+      "url": "https://open.spotify.com/track/6Ul5hev0SvkKymImwbc8V1"
     },
     {
       "album": {

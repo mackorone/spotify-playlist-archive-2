@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad beats for the feels 🌧️💔 when everything's a little too much
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,102 likes - 95 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,079 likes - 95 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 94 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 | 95 | [here for you](https://open.spotify.com/track/5MdOUV3rmuumO4gVOV4a4h) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [here for you](https://open.spotify.com/album/7oYTTEuJBgDAxop11qOX4i) | 2:16 |
 
-Snapshot ID: `AAAAALc3RkSUbvF0Ier94zzyfmXBWbiN`
+Snapshot ID: `AAAAAA1g9UmtYSj0T9+u/TOlf9E+rFYp`

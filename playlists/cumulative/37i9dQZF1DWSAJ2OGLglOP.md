@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-436 songs - 1 day 1 hr 17 min
+437 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Vision feat\. JESSE](https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [AWSM.](https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6) | [Vision feat\. JESSE](https://open.spotify.com/album/6dYtcdLBBO8Uj8SqkJw1DR) | 3:52 | 2024-05-23 | 2024-06-15 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2026-04-27 | 2026-10-14 |
 | [Wait Your Turn](https://open.spotify.com/track/7GksnYii5uW5KrvGylbHcv) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [KYORYU](https://open.spotify.com/album/0iN0gGoL0mhM8VVY6KPBCC) | 3:37 | 2024-06-04 | 2024-08-09 |
+| [Warrior Spirit](https://open.spotify.com/track/3A3Ui2eTZK6ZuBM9XxPTXC) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Warrior Spirit](https://open.spotify.com/album/03WNC53owOWP5dGbWHgtJH) | 3:00 | 2026-10-14 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2023-10-12 | 2024-04-19 |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-07 | 2024-07-05 |
 | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS) | 3:34 | 2026-06-25 | 2026-10-05 |
@@ -438,7 +439,7 @@
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-08 | 2024-09-06 |
 | [青と夏](https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:30 | 2024-04-12 | 2026-10-14 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-10-12 | 2026-05-01 |
-| [青春は見えない](https://open.spotify.com/track/26kYZv1lSfkX12e6zEnKzF) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [青春は見えない](https://open.spotify.com/album/4HcBaG5HPRHMHvb6dzhEay) | 3:12 | 2026-06-25 |  |
+| [青春は見えない](https://open.spotify.com/track/26kYZv1lSfkX12e6zEnKzF) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [青春は見えない](https://open.spotify.com/album/4HcBaG5HPRHMHvb6dzhEay) | 3:12 | 2026-06-25 | 2026-10-15 |
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-26 | 2026-10-14 |
 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 | 2026-04-24 |  |
 | [飛行船](https://open.spotify.com/track/5ZQjLxRk8jNdkRtqyb3HaJ) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:55 | 2025-11-11 | 2026-01-15 |

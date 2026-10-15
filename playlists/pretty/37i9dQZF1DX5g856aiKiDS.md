@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,525 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,554 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 27 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
 | 28 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 29 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
-| 30 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 31 | [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 |
+| 30 | [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 |
+| 31 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 32 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 | 33 | [bgf](https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [solsol\~ condo](https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm) | 3:22 |
 | 34 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 4:31 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 40 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
 | 41 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 |
 | 42 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
-| 43 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 44 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 43 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 44 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 45 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
-| 46 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
-| 47 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
+| 46 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
+| 47 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 48 | [Stupid](https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 3:22 |
 | 49 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 50 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 
-Snapshot ID: `AAAAAA53CdKNUgukB/tu+OOQBJcTJJMy`
+Snapshot ID: `AAAAABj1cgYgryeYvZ9e5+LOerYHAk6Y`

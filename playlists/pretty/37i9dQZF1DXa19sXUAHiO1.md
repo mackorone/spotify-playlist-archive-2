@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,036 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,011 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 49 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
 | 50 | [Excitable Boy](https://open.spotify.com/track/50fGkq9l9Zsn1x7C8GKIYr) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 2:41 |
 
-Snapshot ID: `AAAAAG6AckhdeCTuFwnmi/mmS0s3rY/Q`
+Snapshot ID: `AAAAAFMmPKITTW/YmYfS9Oz2A0RP9WP7`

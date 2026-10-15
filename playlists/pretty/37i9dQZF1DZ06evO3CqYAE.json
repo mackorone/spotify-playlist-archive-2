@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAIHes5XiTwug5fa6UJ8VNG",
+  "snapshot_id": "as10gAAAAACPF6gUo6vgv/VczHEcpXv5",
   "tracks": [
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/6likapyk4BKzhXL386Db8s"
+      "duration_ms": 394552,
+      "name": "Excess Love",
+      "url": "https://open.spotify.com/track/0rybuLvGmGWAbdKQGZMlSp"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 394552,
-      "name": "Excess Love",
-      "url": "https://open.spotify.com/track/0rybuLvGmGWAbdKQGZMlSp"
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/6likapyk4BKzhXL386Db8s"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 334393,
       "name": "More Than Gold (feat. Mercy Chinwo)",
       "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
+      "duration_ms": 401580,
+      "name": "Oh Jesus",
+      "url": "https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 401580,
-      "name": "Oh Jesus",
-      "url": "https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S"
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
     },
     {
       "added_at": null,
@@ -659,26 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+        "name": "Okaka (The Mighty One)",
+        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+      "duration_ms": 498267,
+      "name": "Okaka (The Mighty One)",
+      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
     },
     {
       "added_at": null,
@@ -719,18 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okaka (The Mighty One)",
-        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 498267,
-      "name": "Okaka (The Mighty One)",
-      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,

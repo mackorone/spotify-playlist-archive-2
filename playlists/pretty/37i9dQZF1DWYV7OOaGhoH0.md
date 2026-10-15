@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681,282 likes - 135 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681,122 likes - 135 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 134 | [The Great Caucasian God](https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Devil’s Den](https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q) | 3:50 |
 | 135 | [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 |
 
-Snapshot ID: `AAAAAGdgeSKNfSM56Pk2CyunbUpanJol`
+Snapshot ID: `AAAAAHYoabxkVdmPRO5o98QQZ/RV0OKQ`

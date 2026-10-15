@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,407 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,427 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 28 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
 | 29 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 30 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
-| 31 | [Ya Te Olvidé](https://open.spotify.com/track/14wlPLPgWlPv42Y7G0YQ9y) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:44 |
-| 32 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
+| 31 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
+| 32 | [Ya Te Olvidé](https://open.spotify.com/track/14wlPLPgWlPv42Y7G0YQ9y) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:44 |
 | 33 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
 | 34 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
 | 35 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 71 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
 | 72 | [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 |
 | 73 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 |
-| 74 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
-| 75 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 |
+| 74 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 |
+| 75 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
 | 76 | [Bailantero y Parrandero](https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK) | [Grupo Sixx](https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF) | [Bailantero y Parrandero](https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc) | 3:19 |
 | 77 | [Tu Vives Equivocada](https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4) | 3:46 |
 | 78 | [La Pulguita](https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr) | [Grupo Luna Negra](https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e) | [La Pulguita](https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X) | 3:32 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 88 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 |
 | 89 | [Hermano Mio](https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk) | [Los Kachorros](https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad) | [Con Paso Firme](https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ) | 3:54 |
 | 90 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 |
-| 91 | [Quédate Aquí \- Remix](https://open.spotify.com/track/2U9Gb3oT3sZQL6nKN1R14d) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2), [Cavish](https://open.spotify.com/artist/0rYomOIanqbClnK2orsZn5) | [Quédate Aquí \(Remix\)](https://open.spotify.com/album/1p3658ksvuSuUIUMVKLPE8) | 3:31 |
-| 92 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
+| 91 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
+| 92 | [Quédate Aquí \- Remix](https://open.spotify.com/track/2U9Gb3oT3sZQL6nKN1R14d) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2), [Cavish](https://open.spotify.com/artist/0rYomOIanqbClnK2orsZn5) | [Quédate Aquí \(Remix\)](https://open.spotify.com/album/1p3658ksvuSuUIUMVKLPE8) | 3:31 |
 | 93 | [Pero Qué Necesidad](https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pero Qué Necesidad](https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w) | 3:10 |
 | 94 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 |
 | 95 | [Romance Ilegal](https://open.spotify.com/track/1hIO3CXZoRqO2457LOCAJt) | [Grupo Hechizo Chile](https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM) | [Grandes Exitos](https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 99 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 100 | [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 |
 
-Snapshot ID: `AAAAAP3DcHNHNGrkhHyo49EBCDF7n+TD`
+Snapshot ID: `AAAAAIbRVY24OYSDhZbB6WD9G1Whq189`

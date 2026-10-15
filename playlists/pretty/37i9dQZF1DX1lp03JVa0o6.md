@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Solomun, Dom Dolla, Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,832 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,800 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 79 | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx) | 3:02 |
 | 80 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
 
-Snapshot ID: `AAAAAFEpjMbeg4Bc25W3sFKYyng977bU`
+Snapshot ID: `AAAAANtbSzNpo2h3W4rnHxkLdtWaPWRU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 
 > 🎮 Dein Soundtrack zum Zocken 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,647 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,643 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 | 59 | [Party Monster](https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:09 |
 | 60 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
 | 61 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
-| 62 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
-| 63 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
+| 62 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
+| 63 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 64 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
-| 65 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
-| 66 | [Pray For Me](https://open.spotify.com/track/6huNf4dutXRjJyGn7f5BPS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 3:31 |
+| 65 | [Pray For Me](https://open.spotify.com/track/6huNf4dutXRjJyGn7f5BPS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 3:31 |
+| 66 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 67 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 |
 | 68 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 |
 | 69 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 |
 | 70 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
 
-Snapshot ID: `AAAAAEx0JJwIyViJEgYzlCdc6kY4gMi3`
+Snapshot ID: `AAAAAH93OfApdR0U1/Qud9Er6ssSdPRr`

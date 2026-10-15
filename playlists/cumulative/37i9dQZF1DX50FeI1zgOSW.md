@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-889 songs - 2 day 2 hr 12 min
+890 songs - 2 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [On Kanna Vachi](https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup) | [On Kanna Vachi](https://open.spotify.com/album/4nAklZvH1ve1etMqnD4UlO) | 3:28 | 2026-09-24 |  |
 | [ONDRAGA](https://open.spotify.com/track/73kkKXSdEcU1QJdeVIZ9WY) | [SAINT RAAVAN](https://open.spotify.com/artist/55Qyj2li3M9XnrVDa6wTyk), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Athisaiyan Suresh](https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z) | [ONDRAGA](https://open.spotify.com/album/533a6tGO7s9SEseUfvI8Qa) | 3:58 | 2026-04-06 | 2026-04-18 |
 | [Ondraga Selvoma](https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel) | [Abu](https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Ondraga Selvoma](https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y) | 6:00 | 2024-07-31 | 2024-08-24 |
+| [Ondrai Serum](https://open.spotify.com/track/6OpkuROE3ZVzyOcRSzlDCS) | [Adarsh Krishna](https://open.spotify.com/artist/6uqGFuLWVCrHeyyX9t8mDb), [Pa Hariharan](https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI) | [Ondrai Serum](https://open.spotify.com/album/4p3FcRjruyp7DWEH3ImGT4) | 3:12 | 2026-10-15 |  |
 | [Ondu Rendu](https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1) | [Ashnaa](https://open.spotify.com/artist/2XrbuKCQpeSCmR8lViu8aK), [Bups Saggu](https://open.spotify.com/artist/4OnbPgq5lRZJdbvYT7dwZD), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Ondu Rendu](https://open.spotify.com/album/279b9lCdoSdo3B0G0aPvPY) | 3:30 | 2026-03-26 | 2026-09-19 |
 | [Onna Moona](https://open.spotify.com/track/3sAbIVkaUbUekxl8oWkmUo) | [Rahul Sridhar](https://open.spotify.com/artist/6XKDxjugFmNftYE7m2YuuJ), [Jananie S.V](https://open.spotify.com/artist/76AjpgQpgJLWeONwNfW2zg), [Pa Hariharan](https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI) | [Onna Moona](https://open.spotify.com/album/00Tq9LEBTEkaff92fPzYHg) | 3:11 | 2026-08-24 |  |
 | [Onnume Puriyala](https://open.spotify.com/track/4xU1mru3ZAz5X4XF78F54I) | [Viyan Pugazhendhi](https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt) | [Onnume Puriyala](https://open.spotify.com/album/6HfC54y7L1bY3S2pdIX4hZ) | 3:04 | 2025-11-21 | 2026-04-09 |
@@ -893,7 +894,7 @@
 | [Yesuvae Neerae](https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw) | [Steve Benison](https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc) | [Yesuvae Neerae](https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS) | 5:26 | 2024-02-29 | 2024-03-18 |
 | [Yugam Thaandi](https://open.spotify.com/track/1vipkTlGAOLkWzPhjheXFj) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa) | [Yugam Thaandi](https://open.spotify.com/album/2vwEDGIloo1geXcnCBcPbs) | 4:02 | 2024-01-29 | 2024-05-21 |
 | [ZARA](https://open.spotify.com/track/2nNzswBXvsFM6K8yd7Hpe8) | [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk), [Sashank S](https://open.spotify.com/artist/6iqetiOakduonjy2U8n4YB), [Dinesh Rajendran](https://open.spotify.com/artist/2iug7kxvE5gghENPriuotP) | [ZARA](https://open.spotify.com/album/205Jpx2wRSumnJRr4uqaJb) | 3:43 | 2025-09-26 | 2026-02-03 |
-| [Zero](https://open.spotify.com/track/7JU8Mh9aBe0UIYFlyk8fMl) | [Vengiruth](https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv) | [Zero](https://open.spotify.com/album/47HhvsCPvf1oGZe6MAjvGy) | 3:21 | 2026-10-05 |  |
+| [Zero](https://open.spotify.com/track/7JU8Mh9aBe0UIYFlyk8fMl) | [Vengiruth](https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv) | [Zero](https://open.spotify.com/album/47HhvsCPvf1oGZe6MAjvGy) | 3:21 | 2026-10-05 | 2026-10-15 |
 | [Zindagee](https://open.spotify.com/track/1jAZa1i50cEOuwP9lbQFpx) | [FSPROD Vinu](https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J) | [Zindagee](https://open.spotify.com/album/7s5YQqr2DfxtBXXFoBA3pH) | 3:02 | 2026-01-16 | 2026-05-01 |
 | [Zudari](https://open.spotify.com/track/00Pq6beAl0vQaxBEKGR4Q5) | [Praxxii](https://open.spotify.com/artist/19qRy4jkw44VKBvTR69HKZ), [Vivian Leen](https://open.spotify.com/artist/1tAENFBmt9JdOCZWs97hwg), [Rithwik](https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW), [Namitha Pradeep](https://open.spotify.com/artist/4oLnkWtKgITujp4j6wBAQ8) | [Zudari](https://open.spotify.com/album/2TBvVsKCHcxXF7B5tX5SWl) | 2:15 | 2024-09-20 | 2024-12-26 |
 | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/album/4Rxs9oN8ofjCQYFFUHFqQo) | 4:26 | 2023-07-31 | 2024-02-15 |

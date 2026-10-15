@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > Sei nella tua running era e stai preparando a tua prossima mezza maratona 🏃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,049 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,078 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 36 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 |
 | 37 | [Club classics](https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:33 |
 | 38 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
-| 39 | [ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:01 |
-| 40 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
+| 39 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
+| 40 | [ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:01 |
 | 41 | [Money Made Me A Savage \- Calabria](https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Money Made Me A Savage \(Calabria\)](https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK) | 2:03 |
 | 42 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 |
 | 43 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 92 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 93 | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/track/7fGAhyEwT2RPPJeRHNeiC1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [BRAIN \(feat\. Artemas\)](https://open.spotify.com/album/03HMvLm0qOaRM6xOygXM30) | 2:39 |
 | 94 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
-| 95 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
+| 95 | [When A Fire Starts To Burn](https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:43 |
 | 96 | [Toop Toop](https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [15 Again \(Deluxe Edition\)](https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB) | 2:47 |
-| 97 | [When A Fire Starts To Burn](https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:43 |
+| 97 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
 | 98 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 |
 | 99 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
 | 100 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |
 
-Snapshot ID: `AAAAAD770Rwb3dUD0dm7C1remLwe6kEu`
+Snapshot ID: `AAAAAMNiVpPxVHWy4232Ak9ab2fDJZ8Z`

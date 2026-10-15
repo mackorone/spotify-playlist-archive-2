@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: True Damage\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,717 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,713 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 47 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
 | 48 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
 | 49 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
-| 50 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 |
-| 51 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
+| 50 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
+| 51 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 |
 | 52 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 53 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
 | 54 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 99 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 |
 | 100 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
 
-Snapshot ID: `AAAAANWSOJjs8hS0Hx5H5SMcuftgakAp`
+Snapshot ID: `AAAAAO8M0Ki+M8hro6H4bwX/bJ2eHXu+`

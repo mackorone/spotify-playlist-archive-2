@@ -1,13 +1,77 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: mikey",
-  "num_followers": 31741,
+  "num_followers": 31767,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlalMM9TaXC1Mx1aes4qIBWfMkC",
+  "snapshot_id": "AAAAAFIaZPy9a+E+ALURwpsLFmx0BxoT",
   "tracks": [
+    {
+      "added_at": "2026-10-13 22:00:18",
+      "album": {
+        "name": "curbstone",
+        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "duration_ms": 199330,
+      "name": "curbstone",
+      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
+    },
+    {
+      "added_at": "2026-10-14 07:21:08",
+      "album": {
+        "name": "V.I.P",
+        "url": "https://open.spotify.com/album/4kDRGvlM29UDUmqxUqdWrT"
+      },
+      "artists": [
+        {
+          "name": "Yuti",
+          "url": "https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "V.I.P",
+      "url": "https://open.spotify.com/track/1x69BAI5ds3rl3SBLql1dB"
+    },
+    {
+      "added_at": "2026-10-14 07:21:08",
+      "album": {
+        "name": "Steady Baby",
+        "url": "https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy"
+      },
+      "artists": [
+        {
+          "name": "Ella Hoff",
+          "url": "https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Steady Baby",
+      "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
+    },
+    {
+      "added_at": "2026-10-14 07:21:08",
+      "album": {
+        "name": "In Our Prime / Waste of Time",
+        "url": "https://open.spotify.com/album/52L5jLQCdaAL0UFWGvlAaC"
+      },
+      "artists": [
+        {
+          "name": "NATHALIA",
+          "url": "https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "In Our Prime",
+      "url": "https://open.spotify.com/track/5fAH8m3khx6QmLJtTAYSTT"
+    },
     {
       "added_at": "2026-10-13 22:00:18",
       "album": {
@@ -87,22 +151,6 @@
       "duration_ms": 175330,
       "name": "Massacre",
       "url": "https://open.spotify.com/track/5WwO0YxeCle0i9hbavx2yY"
-    },
-    {
-      "added_at": "2026-10-13 22:00:18",
-      "album": {
-        "name": "curbstone",
-        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
-      },
-      "artists": [
-        {
-          "name": "mikey",
-          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
-        }
-      ],
-      "duration_ms": 199330,
-      "name": "curbstone",
-      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
     },
     {
       "added_at": "2026-10-13 22:00:18",
@@ -779,54 +827,6 @@
       "duration_ms": 210619,
       "name": "Wear My Wolf",
       "url": "https://open.spotify.com/track/1PigX8jJKJ4qLBMtJD9Nq2"
-    },
-    {
-      "added_at": "2026-10-13 22:00:18",
-      "album": {
-        "name": "For Your Eyes Only",
-        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "For Your Eyes Only",
-      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
-    },
-    {
-      "added_at": "2026-10-13 22:00:18",
-      "album": {
-        "name": "Caf\u00e9 de Paris",
-        "url": "https://open.spotify.com/album/7bLDAO3410RoYumZ9qBDhh"
-      },
-      "artists": [
-        {
-          "name": "Pastelli",
-          "url": "https://open.spotify.com/artist/2k02EZcMgA1v7BQPQYyzs1"
-        }
-      ],
-      "duration_ms": 160328,
-      "name": "Caf\u00e9 de Paris",
-      "url": "https://open.spotify.com/track/6U0t2ePWYWXTqjR9C98FX5"
-    },
-    {
-      "added_at": "2026-10-13 22:00:18",
-      "album": {
-        "name": "INVINCIBLE",
-        "url": "https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK"
-      },
-      "artists": [
-        {
-          "name": "The Square",
-          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
-        }
-      ],
-      "duration_ms": 127438,
-      "name": "INVINCIBLE",
-      "url": "https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9"
     }
   ],
   "unique_name": "Fresh Finds Nordics",

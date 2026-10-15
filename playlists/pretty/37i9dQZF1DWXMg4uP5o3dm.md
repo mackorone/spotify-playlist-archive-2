@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,640 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,683 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 56 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
 | 57 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 | 58 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
-| 59 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
-| 60 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
-| 61 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
-| 62 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
-| 63 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
+| 59 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
+| 60 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
+| 61 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 62 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
+| 63 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 64 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 |
 | 65 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
 | 66 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
@@ -84,15 +84,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 74 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 75 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
 | 76 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
-| 77 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
-| 78 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
+| 77 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
+| 78 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
 | 79 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
 | 80 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
 | 81 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 82 | [rusty](https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [rusty](https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG) | 2:15 |
 | 83 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
-| 84 | [push you away](https://open.spotify.com/track/6Y7vnTPMGIuNP9w0r9FEQ4) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [push you away](https://open.spotify.com/album/1hZw3p7rEYYKDAI6SFvg3Y) | 2:19 |
-| 85 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
+| 84 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
+| 85 | [push you away](https://open.spotify.com/track/6Y7vnTPMGIuNP9w0r9FEQ4) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [push you away](https://open.spotify.com/album/1hZw3p7rEYYKDAI6SFvg3Y) | 2:19 |
 | 86 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 87 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
 | 88 | [Take Me Instead](https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 |
 | 100 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |
 
-Snapshot ID: `AAAAAMXfAWKaaxerXp9M4JxgzV+GXI83`
+Snapshot ID: `AAAAADaeqJrJFvMFmAjzo85EIiPYopsv`

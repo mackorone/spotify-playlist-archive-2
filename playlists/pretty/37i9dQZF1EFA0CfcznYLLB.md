@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 312 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,828 likes - 312 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 96 | [Stand Back](https://open.spotify.com/track/2GN8cwTiUEUBxc03fsA0C0) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 3:27 |
 | 97 | [Big League \(Yo Gotti, Moneybagg Yo feat\. Mozzy, Lil Poppa\)](https://open.spotify.com/track/36TN3GcQlBwl4HB1vx9xMi) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Gangsta Art](https://open.spotify.com/album/662ITvCGsuxgtsDf5JJF8f) | 2:43 |
 | 98 | [Switch](https://open.spotify.com/track/14rAsiIl0rqBkZBlzcAbL0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/05e3zRWe246SBJmIu8JuEv) | 3:21 |
-| 99 | [Thick & Pretty](https://open.spotify.com/track/6e0Sq5QPvMffzke6SMaNck) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:32 |
-| 100 | [Keep Your Head Up](https://open.spotify.com/track/139C1eNXDfqJ3EFy6SgZAf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 3:23 |
+| 99 | [Keep Your Head Up](https://open.spotify.com/track/139C1eNXDfqJ3EFy6SgZAf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 3:23 |
+| 100 | [Thick & Pretty](https://open.spotify.com/track/6e0Sq5QPvMffzke6SMaNck) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:32 |
 | 101 | [HUNCHO DREAMS](https://open.spotify.com/track/7pVzUPjJ83QojsVcOthmxP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:31 |
 | 102 | [Mad Russian \(feat\. Lil Skies\)](https://open.spotify.com/track/764OUqC5YJuYJ9wazz9LtP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 2:21 |
 | 103 | [Running Outta Love](https://open.spotify.com/track/1aSTn7F9RUijD31mAzjlQx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\)](https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3) | 3:45 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 311 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 312 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ace3UgAAAADq0Zr5DEa1bWn07Oat01QV`
+Snapshot ID: `Ace83gAAAADvgWVKnwrtZZPH2Yleu9OF`

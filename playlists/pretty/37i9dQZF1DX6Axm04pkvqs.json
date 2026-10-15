@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 86534,
+  "num_followers": 86586,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGpnt7OUmy2IIvbn5CRbe5IvJkQ",
+  "snapshot_id": "AAAAAFdf4SoUlKiZ6ZO+zcXrHTXE4bLX",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 428507,
-      "name": "Holy Ghost (Live)",
-      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Shift (Awakening)",
         "url": "https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 479506,
       "name": "House of Prayer (feat. Jayna Cullens)",
       "url": "https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 428507,
+      "name": "Holy Ghost (Live)",
+      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Deep Wells",
-        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
-      },
-      "artists": [
-        {
-          "name": "Patience Adjei",
-          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Elohim Adonai (Live)",
-      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 430105,
       "name": "Flaunt Your Fire (Holy Ghost)",
       "url": "https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Deep Wells",
+        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
+      },
+      "artists": [
+        {
+          "name": "Patience Adjei",
+          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Elohim Adonai (Live)",
+      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
     },
     {
       "added_at": "2024-07-26 00:01:00",

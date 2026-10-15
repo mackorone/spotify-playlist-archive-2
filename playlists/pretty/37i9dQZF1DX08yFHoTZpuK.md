@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,096 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,143 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 17 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 18 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 |
 | 19 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
-| 20 | [coincidence](https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq) | [RUI HAYAKAWA](https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6) | [coincidence](https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf) | 6:23 |
+| 20 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 |
 | 21 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
-| 22 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 |
+| 22 | [coincidence](https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq) | [RUI HAYAKAWA](https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6) | [coincidence](https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf) | 6:23 |
 | 23 | [higher](https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK) | 3:34 |
 | 24 | [Achi Kochi](https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv) | [Aili & Orson](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Achi Kochi](https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog) | 3:56 |
 | 25 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 37 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 38 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
 | 39 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |
-| 40 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
-| 41 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
+| 40 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
+| 41 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 42 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
 | 43 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 44 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 49 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [Yu Seki](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
 | 50 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 |
 
-Snapshot ID: `AAAAAJpiF6UEJ/x6UeAscYWXBHwbQ42z`
+Snapshot ID: `AAAAAGvgagAzBjcpdE9xLqUkHbeojrtv`

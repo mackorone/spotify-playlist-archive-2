@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Samurai Jay e Jovanotti in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,309 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,311 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 100 | [Sapore](https://open.spotify.com/track/1DG6FhDwgIkPUam1Gs4Dr0) | [Morama](https://open.spotify.com/artist/2akeO64UxFk6I5jie87ZCj) | [Sapore](https://open.spotify.com/album/6wYYiOfxiHGcS3kAh4Nuq9) | 3:08 |
 | 101 | [FEDERICA](https://open.spotify.com/track/3JLupEEqEjmXIHzS9EniLf) | [zafina](https://open.spotify.com/artist/0xtREruxB0K1dTUYdNCGe1) | [FEDERICA](https://open.spotify.com/album/4WemgP52K18oItUuWHBLzi) | 2:26 |
 
-Snapshot ID: `AAAAAF3gmPq/FtVKq+IHTb4AXyy8MQ3T`
+Snapshot ID: `AAAAAE+lfHXjvxnqMticV2OgU3bB1NNd`

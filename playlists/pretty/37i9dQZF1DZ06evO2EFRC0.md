@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,784 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,790 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 23 | [Porque para Siempre](https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 2:47 |
 | 24 | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 4:31 |
 | 25 | [Dios Ha Sido Bueno \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Un Corazón \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU) | 1:33 |
-| 26 | [Sana Nuestra Tierra](https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:12 |
-| 27 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 |
+| 26 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 |
+| 27 | [Sana Nuestra Tierra](https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:12 |
 | 28 | [Al Estar Aquí](https://open.spotify.com/track/0HFAsob0Ua78Tsjeu6LfxR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 4:12 |
-| 29 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
-| 30 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
-| 31 | [Su Poder](https://open.spotify.com/track/1Sk6TRcEAN9RsUPmD3h8wH) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/05BftsObSITEi8vDtWdkx3) | 5:02 |
+| 29 | [Su Poder](https://open.spotify.com/track/1Sk6TRcEAN9RsUPmD3h8wH) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/05BftsObSITEi8vDtWdkx3) | 5:02 |
+| 30 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
+| 31 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
 | 32 | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/track/77xMmii3Dsmx3PLjFIImC1) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 6:05 |
 | 33 | [¿A quién iré?](https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [El Volverá \(En Vivo\)](https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ) | 5:29 |
 | 34 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
 | 50 | [Cuán Grande Es Él](https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 6:06 |
 
-Snapshot ID: `asrRgAAAAAC+LuEjovgruOoRT6D6vhzZ`
+Snapshot ID: `as10gAAAAACbfNeAE9F8/voRtCBTEHc2`

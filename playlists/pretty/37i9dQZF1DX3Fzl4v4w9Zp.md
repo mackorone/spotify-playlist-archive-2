@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Sheryl  Crow
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,030 likes - 99 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,982 likes - 99 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [Where You Call Home](https://open.spotify.com/track/7niP3sWsDhuiIx4nxeeMGW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Where You Call Home](https://open.spotify.com/album/4KFSY7pXHXNemIER8APniU) | 3:42 |
 | 99 | [You Were Leaving](https://open.spotify.com/track/1P0oNMYScIjRlEl7fP47lO) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [You Were Leaving](https://open.spotify.com/album/45lhU3cV60r3J7BgmLupMu) | 4:30 |
 
-Snapshot ID: `AAAAACbG93W2mHtI1llYz9MdXrzrzgiU`
+Snapshot ID: `AAAAALqK9ydN+wASK7G5BLXjtcCPu2XH`

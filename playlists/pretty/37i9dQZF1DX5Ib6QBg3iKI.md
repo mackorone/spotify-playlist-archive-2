@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,079 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,078 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 68 | [Merry Christmas Baby](https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The King of Soul](https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs) | 2:35 |
 | 69 | [It May Be Winter Outside \(But In My Heart It's Spring\)](https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Ultimate Pop Christmas](https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm) | 3:08 |
 | 70 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
-| 71 | [Love you left behind](https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love you left behind](https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN) | 3:12 |
-| 72 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
+| 71 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
+| 72 | [Love you left behind](https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love you left behind](https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN) | 3:12 |
 | 73 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 74 | [Stay Another Day](https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Stay Another Day](https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU) | 2:41 |
 | 75 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/2zJwg3CotBHJdJHjQoSxkS) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/album/0ezjRiJSHHbFOwkaAh2LN0) | 3:07 |
 | 80 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
 
-Snapshot ID: `AAAAABDJ3NWbWkaBFPSAZDkbJYpP9/+Q`
+Snapshot ID: `AAAAANM64gWn+IWyIv7XLSdtHZbjLevb`

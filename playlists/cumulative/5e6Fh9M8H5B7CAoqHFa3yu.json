@@ -49349,6 +49349,24 @@
     },
     {
       "album": {
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/4ikoyRjiPIaQkaWuTUfm0c"
+      },
+      "artists": [
+        {
+          "name": "Lilly North",
+          "url": "https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459386,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/03x89Kr9NyV9q6T8pg7VOD"
+    },
+    {
+      "album": {
         "name": "Sink/Swim/Fly",
         "url": "https://open.spotify.com/album/2B5t2T1uQoJ3eMv5XH4skF"
       },

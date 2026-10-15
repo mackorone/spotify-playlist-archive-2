@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,987 likes - 36 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,008 likes - 36 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 4 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 5 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 |
 | 6 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 |
-| 7 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 |
+| 7 | [.](https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:46 |
 | 8 | [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 |
 | 9 | [forget her](https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 2:23 |
-| 10 | [.](https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:46 |
+| 10 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 |
 | 11 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
 | 12 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
 | 13 | [i need to be alone.](https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY) | 2:56 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 35 | [DOING IT AGAIN BABY](https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:25 |
 | 36 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
 
-Snapshot ID: `asrRgAAAAAC5lol0LapVex5H+eeeia4h`
+Snapshot ID: `as10gAAAAADTM7vCIEx9NXTcMW7oJWQZ`

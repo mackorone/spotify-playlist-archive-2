@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 118 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 118 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 117 | [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 118 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `Ace3cAAAAABVOLY78ao3CadxLq6tB433`
+Snapshot ID: `Ace88gAAAABEP4LV36NwOQumhjX42Q+G`

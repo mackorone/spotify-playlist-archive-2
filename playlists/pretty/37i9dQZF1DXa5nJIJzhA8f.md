@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,610 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,605 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 2 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
+| 1 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
+| 2 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 3 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 4 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 5 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 44 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 45 | [Uno II](https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:15 |
 | 46 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 |
-| 47 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
-| 48 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
+| 47 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
+| 48 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
 | 49 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
 | 50 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 51 | [stick](https://open.spotify.com/track/03zypUrD0e5vrFcmc80NJm) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 79 | [When Will The Love Rain Down](https://open.spotify.com/track/3gb4jKjy2PG4d5N7kl1qe3) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:43 |
 | 80 | [300 dreams](https://open.spotify.com/track/6YsFJWEFXpglxa0WuboO4A) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/0pJY5bcv2APpVdSo6uJVII) | 3:08 |
 
-Snapshot ID: `AAAAANOHwexkVi1nxuzumcbVaFC4cBGk`
+Snapshot ID: `AAAAAOgd0k7VTrl5JW56a+y7aRRpnXtp`

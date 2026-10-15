@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,513 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,754 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 43 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
 | 44 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 45 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
-| 46 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
-| 47 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
+| 46 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
+| 47 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
 | 48 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
-| 49 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
-| 50 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
-| 51 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
+| 49 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
+| 50 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
+| 51 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 52 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
 | 53 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 54 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 57 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
 | 58 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 59 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
-| 60 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
-| 61 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
+| 60 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
+| 61 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
 | 62 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 63 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 64 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 74 | [Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Treehouse](https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY) | 2:38 |
 | 75 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 76 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
-| 77 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
-| 78 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 77 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 78 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 79 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 |
 | 80 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
 | 81 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 97 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 98 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 99 | [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 |
-| 100 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
+| 100 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 |
 
-Snapshot ID: `AAAAAGjfM1G7qaZQ7IbtPchlLdrmjfcm`
+Snapshot ID: `AAAAADH3jldlIzURaQLTTU/IujmHIzYb`

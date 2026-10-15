@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Brindavihari",
-  "num_followers": 76382,
+  "num_followers": 76409,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGi1LexyOCS5g2ok3JUcT+Wtv4gp",
+  "snapshot_id": "AAAAAMAOEGQ4INh6EKiOn8TdBEOBvvOX",
   "tracks": [
     {
       "added_at": "2026-09-25 05:51:09",
@@ -35,6 +35,22 @@
       "duration_ms": 327671,
       "name": "Ondhe Ondu (From \"Brindhavihari\")",
       "url": "https://open.spotify.com/track/1b8vp9rQybCPVanJatWPIZ"
+    },
+    {
+      "added_at": "2026-10-14 06:58:56",
+      "album": {
+        "name": "Premada Oorali Title Song (From \u201cPremada Oorali\u201d) -(Version 1)",
+        "url": "https://open.spotify.com/album/6AjDoUB4vl5sGhVQE9bZfC"
+      },
+      "artists": [
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        }
+      ],
+      "duration_ms": 101965,
+      "name": "Premada Oorali Title Song (From \u201cPremada Oorali\u201d) -(Version 1)",
+      "url": "https://open.spotify.com/track/29X8GNLa5jLHj35zkns15v"
     },
     {
       "added_at": "2026-10-05 15:06:02",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/1luQWXzyz4E2ijNqZH682h"
     },
     {
+      "added_at": "2026-10-14 06:58:56",
+      "album": {
+        "name": "Eru Peru Hrudaya (From \"Premada Oorali\")",
+        "url": "https://open.spotify.com/album/5oT0B5b6vl3VhLwBSSU0g9"
+      },
+      "artists": [
+        {
+          "name": "Ninaada Nayak",
+          "url": "https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp"
+        }
+      ],
+      "duration_ms": 209336,
+      "name": "Eru Peru Hrudaya (From \"Premada Oorali\")",
+      "url": "https://open.spotify.com/track/10uvd9gC2yb5MQ2Ww3r2eL"
+    },
+    {
       "added_at": "2026-10-05 15:06:02",
       "album": {
         "name": "Bayarike",
@@ -151,6 +183,66 @@
       "duration_ms": 225783,
       "name": "Ee Jeevana Sa Ri Ga Ma (From \"Brindhavihari\")",
       "url": "https://open.spotify.com/track/3hbUrQj0EHo9WKgPS6dTum"
+    },
+    {
+      "added_at": "2026-10-14 06:58:56",
+      "album": {
+        "name": "In the Mood for Marriage",
+        "url": "https://open.spotify.com/album/61EWMt2tbCw4hYK5DT14j6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        }
+      ],
+      "duration_ms": 221862,
+      "name": "Aalisada",
+      "url": "https://open.spotify.com/track/1JJYz65ANtMmMPirWz0xmH"
+    },
+    {
+      "added_at": "2026-08-21 09:51:16",
+      "album": {
+        "name": "Baanali Jaarida (From \"Premada Oorali\")",
+        "url": "https://open.spotify.com/album/5pifBHxjz6gOqrQWhOfEuR"
+      },
+      "artists": [
+        {
+          "name": "Ninaada Nayak",
+          "url": "https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        }
+      ],
+      "duration_ms": 224855,
+      "name": "Baanali Jaarida (From \"Premada Oorali\")",
+      "url": "https://open.spotify.com/track/0iovic2BuwklVkuyDFat2k"
+    },
+    {
+      "added_at": "2026-10-14 06:58:56",
+      "album": {
+        "name": "Gejje (Kannada)",
+        "url": "https://open.spotify.com/album/4hKrV29eqKcts6rlH3pWvj"
+      },
+      "artists": [
+        {
+          "name": "Mayur Ambekallu",
+          "url": "https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY"
+        },
+        {
+          "name": "Mayura Naiga",
+          "url": "https://open.spotify.com/artist/4YkHg1kUHk9FNDjrnGxNmn"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "duration_ms": 299033,
+      "name": "Gejje (Kannada)",
+      "url": "https://open.spotify.com/track/6ebSo1adkTL19YfpsJKAFk"
     },
     {
       "added_at": "2026-08-27 09:26:59",
@@ -765,26 +857,6 @@
       "url": "https://open.spotify.com/track/3VP1CS2v4RczBrARKmnmYw"
     },
     {
-      "added_at": "2026-08-21 09:51:16",
-      "album": {
-        "name": "Baanali Jaarida (From \"Premada Oorali\")",
-        "url": "https://open.spotify.com/album/5pifBHxjz6gOqrQWhOfEuR"
-      },
-      "artists": [
-        {
-          "name": "Ninaada Nayak",
-          "url": "https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        }
-      ],
-      "duration_ms": 224855,
-      "name": "Baanali Jaarida (From \"Premada Oorali\")",
-      "url": "https://open.spotify.com/track/0iovic2BuwklVkuyDFat2k"
-    },
-    {
       "added_at": "2026-08-14 11:41:04",
       "album": {
         "name": "Toxic - Kannada (Original Motion Picture Soundtrack)",
@@ -943,30 +1015,6 @@
       "duration_ms": 273600,
       "name": "Tandani Tanano (From \"Shabari\")",
       "url": "https://open.spotify.com/track/6gisQUEvKEafz2G06y0G6P"
-    },
-    {
-      "added_at": "2026-07-29 07:25:27",
-      "album": {
-        "name": "Brahma Brahma (From \"Sri Sri\") (Kannada)",
-        "url": "https://open.spotify.com/album/7xbluy6FTEgrJHpN5KIdaS"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 203883,
-      "name": "Brahma Brahma (From \"Sri Sri\") (Kannada)",
-      "url": "https://open.spotify.com/track/2Iw5dhSehRoWlpysK7HtE0"
     },
     {
       "added_at": "2026-08-03 09:41:18",
@@ -1329,30 +1377,6 @@
       "url": "https://open.spotify.com/track/40CC6ANeHdSO1b7cIruWJG"
     },
     {
-      "added_at": "2026-07-29 07:25:27",
-      "album": {
-        "name": "Kogile Ninna Gaayana (From \"Shrimathi Sindhoora\")",
-        "url": "https://open.spotify.com/album/64vyvyUqZpiMPTMRxxkbQ5"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Ramnath",
-          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
-        },
-        {
-          "name": "K Kalyan",
-          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
-        },
-        {
-          "name": "M. D. Pallavi",
-          "url": "https://open.spotify.com/artist/3mI7urLkw51OePq82ZYicz"
-        }
-      ],
-      "duration_ms": 281298,
-      "name": "Kogile Ninna Gaayana (From \"Shrimathi Sindhoora\")",
-      "url": "https://open.spotify.com/track/6GDGuVXybHa1g9dMGbSZYc"
-    },
-    {
       "added_at": "2026-08-18 08:16:48",
       "album": {
         "name": "Modala Preethi (From \"Rashi'')",
@@ -1537,34 +1561,6 @@
       "url": "https://open.spotify.com/track/1hu1HkgIp05jlYEzCXsj8I"
     },
     {
-      "added_at": "2026-07-29 07:25:27",
-      "album": {
-        "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
-        "url": "https://open.spotify.com/album/3jPFXb4QVXXRqudRnWYAqe"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Gayathry Rajiv",
-          "url": "https://open.spotify.com/artist/1C3jeSsmZvfTHvoNlLuchi"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Praveen Chanappa",
-          "url": "https://open.spotify.com/artist/5Cw0QEUTAdUxNsbcc88V1j"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
-      "url": "https://open.spotify.com/track/6x2E0ml1D3SvLIiFYhX9l2"
-    },
-    {
       "added_at": "2026-09-11 08:22:32",
       "album": {
         "name": "Hadagu (From \"Heggana Muddu\")",
@@ -1587,30 +1583,6 @@
       "duration_ms": 196000,
       "name": "Hadagu (From \"Heggana Muddu\")",
       "url": "https://open.spotify.com/track/5Hvasdx18FQ6o9ORjoPOvC"
-    },
-    {
-      "added_at": "2026-07-27 07:28:09",
-      "album": {
-        "name": "Uride Ni Baduke (From \"Jolly\")",
-        "url": "https://open.spotify.com/album/1gYD30XCgoRtfz4KIUH9Hn"
-      },
-      "artists": [
-        {
-          "name": "Nithinraj",
-          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
-        },
-        {
-          "name": "Suman Raj",
-          "url": "https://open.spotify.com/artist/0ytmVaH0P5HsIviYCG6yNX"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 189603,
-      "name": "Uride Ni Baduke (From \"Jolly\")",
-      "url": "https://open.spotify.com/track/1kHJGIPNHogkOTCaJwjYqz"
     },
     {
       "added_at": "2026-09-11 07:16:07",

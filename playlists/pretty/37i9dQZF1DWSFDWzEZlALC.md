@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Raum27
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,872 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,844 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Alkoholmarker](https://open.spotify.com/track/2g38XlFv5IdGZ9tT2Y50KY) | [TumirWeh](https://open.spotify.com/artist/0mK80Ptz7OGDPVkyGmVmbS) | [Alkoholmarker](https://open.spotify.com/album/5KCWxacSIYCPEzvR0yDjcI) | 3:25 |
 | 75 | [Levanto](https://open.spotify.com/track/5t9BLe2Z74dNmrV3QZ6qYJ) | [Udo West](https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q) | [Ganz gewöhnliche Dinge](https://open.spotify.com/album/6ortCFyxjR6AyUMxaGKFxZ) | 3:22 |
 
-Snapshot ID: `AAAAACJAJXHnzNlcNw0fTI3DiOnOSLW/`
+Snapshot ID: `AAAAAJ57HsdlBBD8OXZlbhjPAymO+WsP`

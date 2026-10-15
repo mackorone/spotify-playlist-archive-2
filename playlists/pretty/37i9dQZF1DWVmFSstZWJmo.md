@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,462 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,493 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 39 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 40 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 |
 | 41 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
-| 42 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
-| 43 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 42 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 43 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
 | 44 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
 | 45 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 46 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 66 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 67 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 68 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
-| 69 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
-| 70 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
+| 69 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
+| 70 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 71 | [Beam Me Up](https://open.spotify.com/track/75SS50WWBZINsZgccsSnGs) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le) | [Walking the Midnight Streets](https://open.spotify.com/album/5J1CfzLqoqhxlEzDjqsBdv) | 5:22 |
 | 72 | [Such Great Heights](https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:26 |
 | 73 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 83 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
 | 84 | [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 |
 | 85 | [Club 20](https://open.spotify.com/track/7wkctx2Jea5OyKXUyUC6xe) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Club 20](https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ) | 2:41 |
-| 86 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
-| 87 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
-| 88 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
+| 86 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
+| 87 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
+| 88 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
 | 89 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 90 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 91 | [Fuck Forever](https://open.spotify.com/track/41Z2joQXOwZRBB8V6zk0A8) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion](https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 99 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 100 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 
-Snapshot ID: `AAAAAFaAROdNb3rNaV2a8nsoqJsz7RQQ`
+Snapshot ID: `AAAAALIhJ7iMHlvaGargINSpNR5gSEho`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a whine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,759 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,863 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 18 | [Give It All To Me](https://open.spotify.com/track/6vwmviVBIBMGGIEmz88auB) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Give It All To Me](https://open.spotify.com/album/4sHrUYhZdfAdGM0s628Isq) | 3:34 |
 | 19 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 20 | [Benz Punany](https://open.spotify.com/track/3zhbuPvV9RpW3RiV1s8nsb) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ragga Ragga Ragga 2011 \(Explicit Version\)](https://open.spotify.com/album/1U5D9QrLf64GVzkEL5nEUz) | 3:21 |
-| 21 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
-| 22 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
+| 21 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
+| 22 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 23 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
-| 24 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
+| 24 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
 | 25 | [Dancehall Queen \(feat\. Chevelle Franklyn\)](https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Best Of \(collector's Edition\)](https://open.spotify.com/album/43leIoAGMe8wnHSpid198y) | 3:24 |
 | 26 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
 | 27 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
-| 28 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
-| 29 | [Bounce Along](https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 4:50 |
+| 28 | [Bounce Along](https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 4:50 |
+| 29 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 30 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 31 | [Nah Let Go](https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:34 |
 | 32 | [Ghetto Story](https://open.spotify.com/track/2rTHhensCMGloDpmRyz4gW) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story](https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa) | 4:11 |
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 57 | [Gyal You A Party Animal \- Remix](https://open.spotify.com/track/0Rj2yNpEvXOl8yn9UOuIRs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gyal You A Party Animal \(Remix\)](https://open.spotify.com/album/5z2c6YpV0jFcPCsvUN2h6J) | 3:44 |
 | 58 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
 | 59 | [Nuttin Nuh Go So](https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb) | 4:02 |
-| 60 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
-| 61 | [Bruck It Down](https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Bruck It Down](https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu) | 2:51 |
+| 60 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
+| 61 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
 | 62 | [Dude](https://open.spotify.com/track/5XWjx5tHMsOI7BZh8wjeSu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [From Kingston To King Of The Dancehall: A Collection Of Dancehall Favorites](https://open.spotify.com/album/3DFVychHEHSGoVtzuFP2cQ) | 4:14 |
 | 63 | [Party Shot](https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Phantom 2](https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI) | 3:50 |
 | 64 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
-| 65 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
-| 66 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
+| 65 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
+| 66 | [Bruck It Down](https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Bruck It Down](https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu) | 2:51 |
 | 67 | [Dutty Wine](https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Wine](https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv) | 3:03 |
 | 68 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
 | 69 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 73 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
 | 74 | [My Money Ha Ha](https://open.spotify.com/track/6zbjh2wNp2pEth5FJ1i7EI) | [Merital Family](https://open.spotify.com/artist/27GbrrvmAhdFLFaxw8u5gV) | [The Hit List, Vol\. 2](https://open.spotify.com/album/5CfSHg8q9RbWbESJS4YvhK) | 2:21 |
 | 75 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
-| 76 | [Romping Shop](https://open.spotify.com/track/5IdymnaBuP9sZdlZhVrbQx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza Mi Sey](https://open.spotify.com/album/3A7sQ9lAm1ZWL62Cisc3vr) | 3:31 |
+| 76 | [Go Go Wine](https://open.spotify.com/track/0Ng68zezg2IpkGAKw7bRpw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story: Deluxe Edition](https://open.spotify.com/album/5MGxvegnXOgkRlaAb7i0TZ) | 3:23 |
 | 77 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
 | 78 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
 | 79 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
 | 80 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
 
-Snapshot ID: `AAAAAEwvtZ1ItEG9pYsAVqQbKldqHbJs`
+Snapshot ID: `AAAAAG0c6xcuXPkb1+2DkP2xUCPyX+ma`

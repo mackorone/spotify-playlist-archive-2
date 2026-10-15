@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,029,120 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,029,081 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 73 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 74 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 75 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
-| 76 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
-| 77 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 76 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 77 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 78 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
 | 79 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 80 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 92 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 93 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:37 |
 | 94 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
-| 95 | [THUM](https://open.spotify.com/track/7t9bN3WmkWEPPKSdPbUgRb) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:11 |
-| 96 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 5:25 |
+| 95 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 5:25 |
+| 96 | [THUM](https://open.spotify.com/track/7t9bN3WmkWEPPKSdPbUgRb) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:11 |
 | 97 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 4:33 |
 | 98 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 |
 | 99 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 149 | [Lo/Hi](https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:57 |
 | 150 | [Got No Shame](https://open.spotify.com/track/5c1nPzFo0fziACO6fKtxqT) | [Brother Cane](https://open.spotify.com/artist/4C2mRKodTEQRrE5EaGtjr5) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 4:34 |
 
-Snapshot ID: `AAAAAITq9nVjDxLtU7I2Vo9f5v6jjoIW`
+Snapshot ID: `AAAAAPj7ZtUjVXPsdCNK55uP4T4OmnkD`

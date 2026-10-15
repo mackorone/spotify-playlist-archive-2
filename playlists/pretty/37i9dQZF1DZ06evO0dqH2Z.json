@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABPO91YxUqN3+Iw+xWPsaHQ",
+  "snapshot_id": "as10gAAAAAAG5qN3EBFdn+boXM+JKK8T",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Brief Intermission in the Flattening of Time",
         "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/6LlHsKps7WnJ5VneKUKRoP"
+      "duration_ms": 161386,
+      "name": "Distress Signal",
+      "url": "https://open.spotify.com/track/4Y3G7w3oCtXI2vLTa3YKaA"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Distress Signal",
-      "url": "https://open.spotify.com/track/4Y3G7w3oCtXI2vLTa3YKaA"
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6LlHsKps7WnJ5VneKUKRoP"
     },
     {
       "added_at": null,

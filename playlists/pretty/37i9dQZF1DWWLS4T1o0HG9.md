@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,405 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,643 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 31 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 32 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
 | 33 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 34 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
-| 35 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
+| 34 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
+| 35 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 36 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
 | 37 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
 | 38 | [Heat Of The Moment](https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 3:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 65 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
 | 66 | [The Longest Time](https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:43 |
 | 67 | [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 |
-| 68 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
-| 69 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
+| 68 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
+| 69 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 70 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 71 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
 | 72 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 79 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
 | 80 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
 | 81 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
-| 82 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |
+| 82 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
 | 83 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
-| 84 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
+| 84 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |
 | 85 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
 | 86 | [In Your Eyes \- 2012 Remaster](https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:30 |
 | 87 | [Kyrie \- Single Version](https://open.spotify.com/track/5BXj1QDRU77J1ngVavG1tI) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [The Best of Mr\. Mister](https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh) | 4:16 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 92 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4EcM86vNf0QIOGkpf4O0UP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:41 |
 | 93 | [Some Guys Have All the Luck](https://open.spotify.com/track/53Eqyg5eFqyuUCaSwozq4f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Camouflage \(Expanded Edition\)](https://open.spotify.com/album/7KSz8zPpNi8D6ADUSStB2K) | 4:34 |
 | 94 | [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:52 |
-| 95 | [The Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) | [Scandal](https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu), [Patty Smyth](https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz) | [Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/album/5i0kVvDtDgmorQXqX9rdaK) | 4:00 |
-| 96 | [The Heart Of Rock And Roll](https://open.spotify.com/track/0o4e5Tt4vorx2012FrGIjV) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41) | 5:04 |
+| 95 | [The Heart Of Rock And Roll](https://open.spotify.com/track/0o4e5Tt4vorx2012FrGIjV) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41) | 5:04 |
+| 96 | [The Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) | [Scandal](https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu), [Patty Smyth](https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz) | [Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/album/5i0kVvDtDgmorQXqX9rdaK) | 4:00 |
 | 97 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:46 |
 | 98 | [Goody Two Shoes](https://open.spotify.com/track/760xFXFj5Fksa3jawSCn5g) | [Adam Ant](https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G) | [Friend Or Foe](https://open.spotify.com/album/2GAvEhQNAUpsx1DF2SfyNA) | 3:29 |
 | 99 | [I Missed Again \- 2015 Remaster](https://open.spotify.com/track/3VNzK4gTzkWwMn8CGPbhXj) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 3:46 |
 | 100 | [Head Over Heels](https://open.spotify.com/track/1p46bniF6fC9kT1v5yjJOI) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:36 |
 
-Snapshot ID: `AAAAANi89C1O7YASohNZNQp7+DzPAAA6`
+Snapshot ID: `AAAAAL6tCcLxXZHdhQGtUAQJScQ/U8d7`

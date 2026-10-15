@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Slayyyter on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,554 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,571 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [SAPPHIRE](https://open.spotify.com/track/6b0LNiTXjfPXRUq3j8ktmc) | [Empty Shell Casing](https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK) | [UNLIMITED](https://open.spotify.com/album/27w64AmjxPZ1ydzNJi7NFk) | 3:38 |
 | 100 | [Bones](https://open.spotify.com/track/6boZh1b4sq2EiHzPQu7GX1) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Bones](https://open.spotify.com/album/6HhhhyXS52iTYhUcHEp6Xe) | 3:11 |
 
-Snapshot ID: `AAAAAAqro7mDho8rZwxEH6cV98A72gq+`
+Snapshot ID: `AAAAANeK4wbbQjRN8Ini3y7BzdT6SiKW`

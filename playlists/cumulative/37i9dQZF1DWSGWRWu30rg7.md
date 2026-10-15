@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Zhafari
+> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Alee
 
-5,611 songs - 14 day 7 hr 20 min
+5,614 songs - 14 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Apa Aku Bisa](https://open.spotify.com/track/1LF2LKBxSkJgpnnKoHBtLb) | [ENKA](https://open.spotify.com/artist/0ogI4OZZX0Xk9pVPWTnDc2), [Momon Karman](https://open.spotify.com/artist/1Tf7OPyL3Y2JCa7o2X1hnG) | [Random](https://open.spotify.com/album/6LbdT1RYwjOMn8cTJK0z2C) | 3:23 | 2023-08-24 | 2023-09-08 |
 | [Apa Gunamu?](https://open.spotify.com/track/0TmoaJN4sMsDOToDOjBxjC) | [KIKO/O](https://open.spotify.com/artist/2BvoWIqtmTwqBRqdHiHuKm) | [Apa Gunamu?](https://open.spotify.com/album/7EX8hxjYY1N0eOrQWi7Dho) | 2:38 | 2024-06-28 | 2024-07-27 |
 | [Apa Iya](https://open.spotify.com/track/6VjB9mUFHjiDuTjI3B702k) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Apa Iya](https://open.spotify.com/album/2l0wSiu5OP4w5b2cedvAdv) | 3:38 | 2025-10-09 | 2025-11-21 |
+| [Apa Kabarmu?](https://open.spotify.com/track/4PdtJDvvqQ4TEfVOppQcO7) | [Alee](https://open.spotify.com/artist/01BMkBku2V4y07nCHGotH6) | [Apa Kabarmu?](https://open.spotify.com/album/6FgjGuLfNgJN2YJXlrCnke) | 3:50 | 2026-10-14 |  |
 | [Apa Kamu Pernah Sepertiku?](https://open.spotify.com/track/4rTM7ASFIGgzPF9i268CMZ) | [Alya Zurayya](https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm) | [Apa Kamu Pernah Sepertiku?](https://open.spotify.com/album/2lxJHwdRZtSUcpBdqLrqt0) | 4:10 | 2023-02-23 | 2023-03-10 |
 | [Apa Lagi?](https://open.spotify.com/track/55h3yIbZPa2QilYaazS4Hu) | [Aurelia](https://open.spotify.com/artist/5DG5fZWOudmWIi9bP1wxzR), [Krispy Keith](https://open.spotify.com/artist/2wc8bEcq6d6dT40fmtINbO) | [Apa Lagi?](https://open.spotify.com/album/3wBbLVBRH3X0ruGAZ19KQg) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2022-09-22 | 2023-01-13 |
@@ -398,6 +399,7 @@
 | [Baby I](https://open.spotify.com/track/08iR8TtaGTfxlf54x5pwha) | [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D) | [Baby I](https://open.spotify.com/album/06Wb8BagVROmEVkwOFOr2k) | 2:55 | 2022-11-24 | 2022-12-01 |
 | [baby it's 3am](https://open.spotify.com/track/03ZCnhL8OZJlt0XPA5ZFAl) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [baby it's 3am](https://open.spotify.com/album/2d2ljzKGRNT2hNuT5krIor) | 3:00 | 2025-08-22 | 2025-09-19 |
 | [Baby It's Alright](https://open.spotify.com/track/1ZvtR1Jrud7MkBfTIVegdO) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Baby It's Alright](https://open.spotify.com/album/5f0JWW7LTOwwMB2embZXrJ) | 3:40 | 2022-11-03 | 2022-12-01 |
+| [Baby Juno](https://open.spotify.com/track/6Xaea9Ibl4Ecydqc75L6Iw) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [Baby Juno](https://open.spotify.com/album/757ySzcXzlD2FCbVfHYaXP) | 4:29 | 2026-10-14 |  |
 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 | 2025-09-18 | 2025-10-17 |
 | [Back And Forth](https://open.spotify.com/track/1sz78p4O27qOct0a9tjjhN) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [Back And Forth](https://open.spotify.com/album/6b8c1v1lnKH2TsfF1WLYbA) | 4:31 | 2022-09-09 | 2022-09-23 |
 | [back in the summer](https://open.spotify.com/track/3YHnmNESgz09msh1qv1cFb) | [Slan](https://open.spotify.com/artist/2hWj5kCyL026CxUymZEX8Z) | [back in the summer](https://open.spotify.com/album/5H5P0XlJ0pAW8SoC6cOndQ) | 3:36 | 2025-05-30 | 2025-06-20 |
@@ -5197,6 +5199,7 @@
 | [Titik Terendah](https://open.spotify.com/track/3MNkP7a6pVTY42NTZQlSMQ) | [Aira Zahha](https://open.spotify.com/artist/7BSgXFzh1FNCldKi1eyiQ4) | [Titik Terendah](https://open.spotify.com/album/5DlGrYIxLR19dik2mxGVn5) | 4:24 | 2025-05-30 | 2025-06-20 |
 | [Titik Terendah](https://open.spotify.com/track/3Oj31ax9ky7BaCPcfKIT5c) | [Riezky Hidayat](https://open.spotify.com/artist/2Us1Y9DfSLgFMxn1FwTP8A), [Ersa](https://open.spotify.com/artist/03BEMgMtnSS0QP8cMD31eg) | [Titik Terendah](https://open.spotify.com/album/3pVebX28e1bQwATAvDp8S7) | 4:02 | 2022-05-26 | 2022-06-10 |
 | [Titip Rindu](https://open.spotify.com/track/7unMPGR4PRnimlz0G6XpeA) | [Farrel Nugroho](https://open.spotify.com/artist/5fTEdlBvW2WQtX5CxPoVE5) | [Titip Rindu](https://open.spotify.com/album/2gZrW6oeygIOCGRqnf2KVA) | 3:31 | 2026-02-19 | 2026-02-27 |
+| [TMO](https://open.spotify.com/track/6Ul5hev0SvkKymImwbc8V1) | [raindra](https://open.spotify.com/artist/5YlN1noydwYf7oUIown4Og) | [TMO](https://open.spotify.com/album/10vOV4BD5GntGrxOsmFXot) | 3:23 | 2026-10-14 |  |
 | [To Forget](https://open.spotify.com/track/7Ic70cQUNqxjKSaSDLlzQN) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [To Forget](https://open.spotify.com/album/3esztDjNDfE3QnPRhIm0nz) | 3:17 | 2023-11-02 | 2023-11-24 |
 | [To Love Is To Let You Go](https://open.spotify.com/track/0psn9bSc4Jc9UETKTC9PvG) | [Klio Mathew](https://open.spotify.com/artist/6et2qfjI2TI7mJLLlZUoQd) | [To Love Is To Let You Go](https://open.spotify.com/album/1BMAu0184JcWLToQE3pf4N) | 3:40 | 2025-06-19 | 2025-08-02 |
 | [to love, is to grow](https://open.spotify.com/track/0HI9DBf1oejMfRk8biri7c) | [opan](https://open.spotify.com/artist/4Fza8B3hrUPECAdbYHQD5a) | [to love, is to grow](https://open.spotify.com/album/2FoCbRYM1LO6WKcK2yYjWL) | 4:04 | 2023-11-02 | 2023-11-24 |

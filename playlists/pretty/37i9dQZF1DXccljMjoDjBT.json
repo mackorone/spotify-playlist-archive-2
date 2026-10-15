@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 370224,
+  "num_followers": 370289,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJiKJ/NXagUVjg+RcjU0gYJCrWuW",
+  "snapshot_id": "AAAAAPk/wAc6zZj37qDiKtFLL/7uNzhT",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Christine McVie",
         "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "added_at": "2023-03-30 14:38:10",

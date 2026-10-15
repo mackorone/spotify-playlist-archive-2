@@ -1,12 +1,12 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55392,
+  "num_followers": 55405,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/1nuzqpm+PpvcjeraICUuqo2Pj",
+  "snapshot_id": "AAAAAAvdmE/d3OLViiA2H3/OaiZHAF2Z",
   "tracks": [
     {
       "added_at": "2026-08-19 00:35:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "Maru",
-        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 167978,
-      "name": "Maru",
-      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Chroma Velocity",
         "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 158117,
       "name": "Human Related Accident",
       "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "Maru",
+        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 167978,
+      "name": "Maru",
+      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "Somnolent Nova",
+        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
+      },
+      "artists": [
+        {
+          "name": "City Girl",
+          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Somnolent Nova",
+      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "Somnolent Nova",
-        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Somnolent Nova",
-      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "This is Our First EP",
-        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
-      },
-      "artists": [
-        {
-          "name": "BLYNE",
-          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
-        },
-        {
-          "name": "B O K E H",
-          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
-        }
-      ],
-      "duration_ms": 212690,
-      "name": "School",
-      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "This is Our First EP",
+        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
+      },
+      "artists": [
+        {
+          "name": "BLYNE",
+          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
+        },
+        {
+          "name": "B O K E H",
+          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
+        }
+      ],
+      "duration_ms": 212690,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "Day Trip",
-        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
       },
       "artists": [
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Day Trip",
-      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+        "name": "Day Trip",
+        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
         }
       ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+      "duration_ms": 137000,
+      "name": "Day Trip",
+      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "wave wave wave",
-        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
-      },
-      "artists": [
-        {
-          "name": "sphontik",
-          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
-        }
-      ],
-      "duration_ms": 294193,
-      "name": "The Next vacation",
-      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "rias",
         "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 283170,
       "name": "rias",
       "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "wave wave wave",
+        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
+      },
+      "artists": [
+        {
+          "name": "sphontik",
+          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
+        }
+      ],
+      "duration_ms": 294193,
+      "name": "The Next vacation",
+      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 102000,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Resting Place",
         "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "fresh",
         "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 263341,
       "name": "fresh",
       "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
-      },
-      "artists": [
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -903,18 +887,18 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
         }
       ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -931,6 +915,22 @@
       "duration_ms": 120000,
       "name": "yomichi",
       "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "Meditation Loop",
         "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
-      },
-      "artists": [
-        {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
-        }
-      ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Jetty (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 69720,
       "name": "Boardwalk",
       "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "tide sketch",
-        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 130908,
-      "name": "tide sketch",
-      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "bed (rework)",
-        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
+        "name": "tide sketch",
+        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
       },
       "artists": [
         {
-          "name": "\u6a2a\u5c71\u8d77\u6717",
-          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
-        },
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 235339,
-      "name": "bed - rework",
-      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
+      "duration_ms": 130908,
+      "name": "tide sketch",
+      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1299,6 +1279,26 @@
       "duration_ms": 196875,
       "name": "Ghost Town - Side-B",
       "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "bed (rework)",
+        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u8d77\u6717",
+          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
+        },
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "bed - rework",
+      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
+      },
+      "artists": [
+        {
+          "name": "One-half",
+          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "Continue",
-        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
-      },
-      "artists": [
-        {
-          "name": "One-half",
-          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Continue",
-      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
     },
     {
       "added_at": "2026-08-19 00:35:08",

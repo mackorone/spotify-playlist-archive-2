@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. ",
-  "num_followers": 2103707,
+  "num_followers": 2103826,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFz/O7iNj6JpPWOPCsoJlOh7mi1",
+  "snapshot_id": "AAAAAD/w1oN5uf4/e++fnxvy7DI7ZGZc",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
     },
     {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "The Chauffeur - 2009 Remaster",
-      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
-    },
-    {
       "added_at": "2022-11-17 20:08:09",
       "album": {
         "name": "Daydream Nation (Deluxe Edition)",
@@ -661,20 +645,20 @@
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
     },
     {
-      "added_at": "2022-11-17 20:08:09",
+      "added_at": "2024-03-18 22:21:44",
       "album": {
-        "name": "Metro Music",
-        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
       "artists": [
         {
-          "name": "Martha and the Muffins",
-          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
+      "duration_ms": 321533,
+      "name": "The Chauffeur - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT"
     },
     {
       "added_at": "2024-03-18 22:21:44",
@@ -691,6 +675,22 @@
       "duration_ms": 284066,
       "name": "In A Big Country",
       "url": "https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Metro Music",
+        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
+      },
+      "artists": [
+        {
+          "name": "Martha and the Muffins",
+          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Echo Beach",
+      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
     },
     {
       "added_at": "2022-11-17 20:08:09",

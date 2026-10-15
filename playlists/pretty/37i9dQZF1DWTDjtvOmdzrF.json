@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556224,
+  "num_followers": 556199,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFq1EGqm0tftax65MSlQPairazyW",
+  "snapshot_id": "AAAAAHiHrEZPK6zBLCncMGU7MTqnc3AY",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Dewi",
+      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 207490,
       "name": "Dia",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Dewi",
-      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Cerita Hanin Dhiya",
+        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "duration_ms": 234914,
+      "name": "Pupus",
+      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Cerita Hanin Dhiya",
-        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
-      },
-      "artists": [
-        {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
-        }
-      ],
-      "duration_ms": 234914,
-      "name": "Pupus",
-      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
     },
     {
       "added_at": "2026-02-27 14:15:13",

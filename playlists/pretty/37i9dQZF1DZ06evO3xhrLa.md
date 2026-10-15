@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,236 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,265 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 |
-| 2 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
-| 3 | [stranger](https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:34 |
+| 2 | [stranger](https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:34 |
+| 3 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 4 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
 | 5 | [Ghost](https://open.spotify.com/track/4CB14bFHaGrnmD5LkFvHRy) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:03 |
-| 6 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
-| 7 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
+| 6 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
+| 7 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 8 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
 | 9 | [He Belongs](https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:21 |
-| 10 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
+| 10 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
 | 11 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 |
 | 12 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
 | 13 | [Ceiling \(Freestyle\)](https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:27 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 36 | [Never Call Me](https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:30 |
 | 37 | [It's A Vibe](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:30 |
 
-Snapshot ID: `asrRgAAAAAC3CTjteUuKRft170evc23t`
+Snapshot ID: `as10gAAAAADiYXPBNKfW7cBK3B7CSTFs`

@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 51 min
+81 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bound](https://open.spotify.com/track/6jsMPT55Il0q1VfaWaqBhy) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Open Door](https://open.spotify.com/album/6AzBVVQb8qfA92sPKWljH4) | 3:33 | 2023-01-14 | 2023-04-30 |
 | [Bound](https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:36 | 2022-09-16 |  |
 | [Boxes](https://open.spotify.com/track/59map6mYFhBNTIAwcap1Qk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:15 | 2024-04-01 | 2024-04-26 |
-| [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 | 2022-09-16 |  |
+| [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 | 2022-09-16 | 2026-10-15 |
 | [Call of Horses](https://open.spotify.com/track/6v8FKws7OnXpmuafTQpH9X) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 5:33 | 2022-09-16 | 2022-10-13 |
 | [Chasing Knives](https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:54 | 2022-09-18 | 2023-05-02 |
 | [Collider](https://open.spotify.com/track/3YXJiuIDgdL020cRiF0mK2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/04Gk32cZfKW7LoU1flIAWf) | 3:08 | 2022-09-16 | 2022-10-29 |
@@ -44,14 +44,15 @@
 | [Long Way](https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Long Way](https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K) | 3:26 | 2023-11-10 | 2023-12-20 |
 | [Long Way](https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:26 | 2023-12-19 |  |
 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 | 2022-09-16 |  |
-| [Open Door](https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:47 | 2022-09-16 | 2026-09-16 |
+| [Open Door](https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:47 | 2022-09-16 |  |
 | [Our Sketch Out](https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:32 | 2023-12-13 |  |
 | [Outro](https://open.spotify.com/track/1FsodfEMYCEeTYmgTSLM35) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 0:41 | 2023-12-13 | 2024-06-01 |
 | [Place Isn't Lost](https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/0nRCOJnkNw1P1AR0vRJYEa) | 2:58 | 2022-09-16 | 2022-10-31 |
 | [Place Isn't Lost](https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk) | 2:58 | 2022-11-02 | 2024-11-04 |
 | [Play Dead](https://open.spotify.com/track/6OBwb1eAh6osQ0urJaStxP) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:49 | 2024-07-15 | 2024-07-20 |
 | [Radar \- Redux](https://open.spotify.com/track/1ncOAqP2tJ6sHcPPn6NOAg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 3:53 | 2022-09-16 | 2022-10-26 |
-| [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 | 2022-10-25 |  |
+| [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 | 2022-10-25 | 2026-10-15 |
+| [Radar \- Redux](https://open.spotify.com/track/60oyH3TQwzSRCJ8kgFqwPp) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/52poTRqk79PXpHF86afIJS) | 3:53 | 2026-10-15 |  |
 | [Rattlesnakes](https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:28 | 2022-10-26 | 2026-10-13 |
 | [Rattlesnakes](https://open.spotify.com/track/1PSFrIfjb02RUcPRecrPvD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/1hy5WzaH6D17BwcMm1sdET) | 3:28 | 2026-10-13 |  |
 | [Rattlesnakes](https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:28 | 2022-10-12 | 2022-10-17 |
@@ -71,7 +72,8 @@
 | [The Ramp](https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 1:33 | 2023-12-13 | 2026-04-07 |
 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 | 2022-10-28 |  |
 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 | 2022-09-16 | 2022-10-29 |
-| [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 | 2022-10-24 |  |
+| [Things Will Matter](https://open.spotify.com/track/25m9ufcln7PU84c5AO87N8) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/52poTRqk79PXpHF86afIJS) | 2:54 | 2026-10-15 |  |
+| [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 | 2022-10-24 | 2026-10-15 |
 | [Things Will Matter](https://open.spotify.com/track/5xAnCH2WR1UMwQDQpgBUB4) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 2:54 | 2022-09-16 | 2022-10-25 |
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2022-09-16 |  |
 | [Two Heads](https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs) | 3:38 | 2022-12-16 |  |

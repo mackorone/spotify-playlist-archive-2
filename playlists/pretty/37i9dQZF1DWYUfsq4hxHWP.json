@@ -1,13 +1,45 @@
 {
   "description": "Fresh country music by independent artists every Wednesday. Cover: Dylan Davidson, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 127775,
+  "num_followers": 127815,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1kYnN57GcT3QB9iIZ9afPkaJTc",
+  "snapshot_id": "AAAAADlvf1G6/bEQWANfU4a+mPkH98xT",
   "tracks": [
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/1mhbkdFPisGxyUlFj6xkvW"
+      },
+      "artists": [
+        {
+          "name": "Jovi Greene",
+          "url": "https://open.spotify.com/artist/6Z8GLJyECIvbklEGdZJWug"
+        }
+      ],
+      "duration_ms": 198065,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2BgJcTmWxgGrZBtyrIsLTO"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Know I'll Have to Quit",
+        "url": "https://open.spotify.com/album/75E2vifBJFxHUuHnTyx87n"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 180594,
+      "name": "Know I'll Have to Quit",
+      "url": "https://open.spotify.com/track/0jZJjhlQx83HrJS1IKTybc"
+    },
     {
       "added_at": "2026-10-07 21:47:50",
       "album": {
@@ -23,6 +55,134 @@
       "duration_ms": 198666,
       "name": "The Red And Gold",
       "url": "https://open.spotify.com/track/2v5lQZGephAULYF4sPL8dB"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "One Right Thing",
+        "url": "https://open.spotify.com/album/0F7ageezO96dTHWblFCUEF"
+      },
+      "artists": [
+        {
+          "name": "Hudson Macready",
+          "url": "https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa"
+        }
+      ],
+      "duration_ms": 210805,
+      "name": "One Right Thing",
+      "url": "https://open.spotify.com/track/1L0aw78GEFueUKVMi36Cg8"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Last Call For The Old Me",
+        "url": "https://open.spotify.com/album/4BCnGPne6W2ZHgjTOJER0v"
+      },
+      "artists": [
+        {
+          "name": "Jonah Marais",
+          "url": "https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8"
+        }
+      ],
+      "duration_ms": 170277,
+      "name": "Last Call For The Old Me",
+      "url": "https://open.spotify.com/track/0G3MAl2dcs4dxmRTOO9fH0"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Potholes (Backseat)",
+        "url": "https://open.spotify.com/album/5qzDPdDBq1yefc9Iu56AiU"
+      },
+      "artists": [
+        {
+          "name": "Callister",
+          "url": "https://open.spotify.com/artist/38pAk5VrlmoU6UrvIspEyS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Potholes (Backseat)",
+      "url": "https://open.spotify.com/track/6OaS3YI1cJJn8q5hpVHr2O"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Leave The Rodeo",
+        "url": "https://open.spotify.com/album/7gkknacb6PZS9YJrDKJehG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Leave The Rodeo",
+      "url": "https://open.spotify.com/track/5piKlbFSt2qN1wTz1GuWfG"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "What a Week",
+        "url": "https://open.spotify.com/album/7CCdJ0ncSW9qItaCgTX8ga"
+      },
+      "artists": [
+        {
+          "name": "Madison Parks",
+          "url": "https://open.spotify.com/artist/1iAz4Dk2zcinQMqtLaHPRT"
+        }
+      ],
+      "duration_ms": 150059,
+      "name": "What a Week",
+      "url": "https://open.spotify.com/track/2vmzeRjdMF55OlD06NaJqA"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Buffalo",
+        "url": "https://open.spotify.com/album/0Gpw3QB6iHmD8SOp0FGgqt"
+      },
+      "artists": [
+        {
+          "name": "Dear Tommie",
+          "url": "https://open.spotify.com/artist/4kgQh9U3U38xNiLQ2DK3tP"
+        }
+      ],
+      "duration_ms": 196190,
+      "name": "Buffalo",
+      "url": "https://open.spotify.com/track/5vaS4id1C88TBDVhOvq7SZ"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "WHISKEY WAS WHISKEY",
+        "url": "https://open.spotify.com/album/3ezptxBFf1R79IylfT0GQw"
+      },
+      "artists": [
+        {
+          "name": "Ashley Walls",
+          "url": "https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw"
+        }
+      ],
+      "duration_ms": 189430,
+      "name": "WHISKEY WAS WHISKEY",
+      "url": "https://open.spotify.com/track/1aNLyQYsBHxnU6wQbY7GS7"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "The Jester",
+        "url": "https://open.spotify.com/album/2tUpvt7fitbn9ZKg1S3aLw"
+      },
+      "artists": [
+        {
+          "name": "Ember Moat",
+          "url": "https://open.spotify.com/artist/4okP7kw2jHm6SYdt6Og2lr"
+        }
+      ],
+      "duration_ms": 230938,
+      "name": "The Jester",
+      "url": "https://open.spotify.com/track/7CVPmY8f8bXkpr4h05wuyv"
     },
     {
       "added_at": "2026-10-07 21:47:50",
@@ -463,22 +623,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Thank God For The Dogs",
-        "url": "https://open.spotify.com/album/0u7WovzTZW7NsthXbtyHCt"
-      },
-      "artists": [
-        {
-          "name": "Hudson Macready",
-          "url": "https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa"
-        }
-      ],
-      "duration_ms": 188171,
-      "name": "Thank God For The Dogs",
-      "url": "https://open.spotify.com/track/5WE8AJGUX2l8Jk4rbroOlo"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Row by Row",
         "url": "https://open.spotify.com/album/2SQETgsRScrKQYoYx9j96g"
       },
@@ -491,38 +635,6 @@
       "duration_ms": 177127,
       "name": "Row by Row",
       "url": "https://open.spotify.com/track/7zn5XWodNMSio1UxXyskp9"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Love Without You",
-        "url": "https://open.spotify.com/album/5ZllP1aHO5oBAn0qKchBBT"
-      },
-      "artists": [
-        {
-          "name": "Logan Crosby",
-          "url": "https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Love Without You",
-      "url": "https://open.spotify.com/track/6w69BvxUOLpmy06M2oRH0K"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Good for You",
-        "url": "https://open.spotify.com/album/335iz7n8dnG2tMQaRF0Hbl"
-      },
-      "artists": [
-        {
-          "name": "Micah Fletcher",
-          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Good for You",
-      "url": "https://open.spotify.com/track/3V46ysYS6gN5LTH9MG8DYO"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -559,22 +671,6 @@
       "duration_ms": 202066,
       "name": "Ricochets",
       "url": "https://open.spotify.com/track/7sUTw5K1NL7C2rKWwArXV8"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Dyin' in This Living Room",
-        "url": "https://open.spotify.com/album/0XYI3iPPqnlWKMaQwWGTMH"
-      },
-      "artists": [
-        {
-          "name": "Myles Erlick",
-          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
-        }
-      ],
-      "duration_ms": 179601,
-      "name": "Dyin' in This Living Room",
-      "url": "https://open.spotify.com/track/4MuitoUiMEUYARewnfdtFQ"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -671,22 +767,6 @@
       "duration_ms": 187878,
       "name": "Take You Up On That",
       "url": "https://open.spotify.com/track/4eRigmWBobSI9J9MXUoFlj"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Keep Livin'",
-        "url": "https://open.spotify.com/album/4BFf5nJWY6KuKgpF0KRNOU"
-      },
-      "artists": [
-        {
-          "name": "Alex Hall",
-          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "Keep Livin'",
-      "url": "https://open.spotify.com/track/5iXLh9N6zEoQcpQ52nruG1"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -819,22 +899,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "I Should Want To",
-        "url": "https://open.spotify.com/album/641EZJUmmXEZFudXGm6YoW"
-      },
-      "artists": [
-        {
-          "name": "Avery Roberson",
-          "url": "https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU"
-        }
-      ],
-      "duration_ms": 231335,
-      "name": "I Should Want To",
-      "url": "https://open.spotify.com/track/1yMBYzgmdJCmBDYmW51Kg8"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Came With a Warning",
         "url": "https://open.spotify.com/album/4S5W176DkhsUSMP6GyuaVz"
       },
@@ -867,38 +931,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "High Desert Halo",
-        "url": "https://open.spotify.com/album/5lgAck9djSnbCap5MeS8ov"
-      },
-      "artists": [
-        {
-          "name": "Ember Moat",
-          "url": "https://open.spotify.com/artist/4okP7kw2jHm6SYdt6Og2lr"
-        }
-      ],
-      "duration_ms": 264371,
-      "name": "High Desert Halo",
-      "url": "https://open.spotify.com/track/4zK2MaU4QDmoo1ssQ4zmZR"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Dimestore Jesus",
-        "url": "https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco"
-      },
-      "artists": [
-        {
-          "name": "Next of Kin",
-          "url": "https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Dimestore Jesus",
-      "url": "https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/1AUhavab4kbMp5207uPKRG"
       },
@@ -911,22 +943,6 @@
       "duration_ms": 210653,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/5RnQMeRIzlbdDKUqit3AXC"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Miracles Off Exit 17",
-        "url": "https://open.spotify.com/album/7qRqVV9u27obhUyzrEvtgi"
-      },
-      "artists": [
-        {
-          "name": "Colin Lynch",
-          "url": "https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z"
-        }
-      ],
-      "duration_ms": 191686,
-      "name": "Pine Barren Heart",
-      "url": "https://open.spotify.com/track/05NocomOhqwmoFCdi55aHu"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -1027,22 +1043,6 @@
       "duration_ms": 193488,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/08sU1mciQgFg8YOvGq9e1N"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Hold You Close",
-        "url": "https://open.spotify.com/album/3UCdChDVzs1rxigvblKBzt"
-      },
-      "artists": [
-        {
-          "name": "Michael Honan",
-          "url": "https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss"
-        }
-      ],
-      "duration_ms": 178101,
-      "name": "Hold You Close",
-      "url": "https://open.spotify.com/track/0Vmz4Z7M5rElly58xX8Xv8"
     },
     {
       "added_at": "2026-09-30 04:00:28",

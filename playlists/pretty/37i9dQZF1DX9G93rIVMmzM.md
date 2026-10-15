@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,757 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,867 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 99 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 | 100 | [Outside](https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY) | 3:25 |
 
-Snapshot ID: `AAAAALLGAMVaUNRLdI3IGbcqs1DAaf00`
+Snapshot ID: `AAAAAMVa0ASYMddIx6GA08LKhSZDSDa9`

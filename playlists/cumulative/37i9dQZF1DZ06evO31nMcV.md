@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-101 songs - 4 hr 58 min
+102 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Awakening](https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:09 | 2024-10-02 | 2025-09-16 |
 | [Before the World Sings](https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Before the World Sings](https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q) | 3:05 | 2026-09-13 |  |
 | [Blackbird Returning](https://open.spotify.com/track/57u22n34Gm8r3KIyiRPsXK) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Blackbird Rising & Blackbird Returns](https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp) | 2:14 | 2026-05-12 |  |
-| [Blackbird Rising](https://open.spotify.com/track/0G8jjCezXWuDCLx4fXzBxN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Blackbird Rising & Blackbird Returns](https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp) | 2:24 | 2026-05-03 |  |
+| [Blackbird Rising](https://open.spotify.com/track/0G8jjCezXWuDCLx4fXzBxN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Blackbird Rising & Blackbird Returns](https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp) | 2:24 | 2026-05-03 | 2026-10-15 |
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2024-10-02 |  |
 | [Calmer Shores](https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 1:44 | 2024-10-02 | 2025-02-05 |
 | [Canyons](https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:52 | 2024-10-02 | 2025-04-19 |
@@ -30,6 +30,7 @@
 | [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 | 2025-02-09 |
 | [Coming Home](https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:33 | 2024-10-02 | 2025-02-22 |
 | [Crest of a Wave](https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Cecilia De Maria](https://open.spotify.com/artist/1GYknZXS2fo07Q2fWx6WPE), [Rob Derbyshire](https://open.spotify.com/artist/3cH6jwySd6wMM0OxMTh5CP) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:15 | 2024-10-02 | 2026-06-14 |
+| [Daydreamer](https://open.spotify.com/track/7oh1gEYjytnN9waEbWPssI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [The Miraval Orchestra](https://open.spotify.com/artist/7n5uB06jHkH78qN62XAbMB) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:41 | 2026-10-15 |  |
 | [Did I Ever Tell You](https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 4:35 | 2025-03-23 |  |
 | [Dreamland](https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:41 | 2024-10-02 | 2025-04-14 |
 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 | 2025-04-14 |  |

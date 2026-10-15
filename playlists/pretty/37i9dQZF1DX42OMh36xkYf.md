@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con BALTHVS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,512 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,485 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 50 | [Algo Cambiará](https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Escenarios Ficticios](https://open.spotify.com/album/6zwgX9tlUcGRBIfDB5I6fq) | 3:08 |
 
-Snapshot ID: `AAAAAEC/0ozH36D7YeoQY3AmjgKwW60M`
+Snapshot ID: `AAAAAO0IhbzHyxfUWaMc7I2Y4nniiH/j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,556 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,570 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 25 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
 | 26 | [Never Nooit Meer \(met Re\-Play\)](https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Met Hart En Ziel](https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE) | 4:28 |
 | 27 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 |
-| 28 | [Dans Je De Hele Nacht Met Mij](https://open.spotify.com/track/0kd4Br1X9dw2lZxeHQl7Wj) | [De Sjonnies](https://open.spotify.com/artist/4NmiKq5IMQAq7cRBnmEs2S) | [Verse Vis En Lingerie](https://open.spotify.com/album/0DvNs9Ozl7viPlteEZ3D0Q) | 3:47 |
-| 29 | [Niemand In De Stad](https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 4:51 |
+| 28 | [Niemand In De Stad](https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 4:51 |
+| 29 | [Dans Je De Hele Nacht Met Mij](https://open.spotify.com/track/0kd4Br1X9dw2lZxeHQl7Wj) | [De Sjonnies](https://open.spotify.com/artist/4NmiKq5IMQAq7cRBnmEs2S) | [Verse Vis En Lingerie](https://open.spotify.com/album/0DvNs9Ozl7viPlteEZ3D0Q) | 3:47 |
 | 30 | [Ik Zing Dit Lied Voor Jou Alleen](https://open.spotify.com/track/5B8eDgLd2vpOA8hBbtCq3u) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [15 Jaar Hits](https://open.spotify.com/album/0aHzVXees4v4iEK5LIbX5H) | 3:39 |
 | 31 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 2:41 |
 | 32 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
 | 70 | [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 |
 
-Snapshot ID: `AAAAABOl2E88Ag029f718U3YgDlK2FAs`
+Snapshot ID: `AAAAAOvZfger9N775otfqingtG4urDat`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,749 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,754 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Take Me Home](https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Take Me Home](https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh) | 3:05 |
 | 50 | [TAKE ME AS I AM](https://open.spotify.com/track/1WbfAGf7Fo6eKZTZoHMbna) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROSSROADS](https://open.spotify.com/album/4VA9gdfckx7uV0noJVrZEU) | 3:51 |
 
-Snapshot ID: `AAAAAPNy8IHg/b+bdwvtUeS91Qy4b0F+`
+Snapshot ID: `AAAAAHf2TccuYTiSnFAG8kWQxLlpC69N`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring bri!!o ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 37 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
 | 38 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
 | 39 | [Nada Que Perder](https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Nada Que Perder](https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ) | 3:19 |
-| 40 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
-| 41 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
+| 40 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
+| 41 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
 | 42 | [Rumbos](https://open.spotify.com/track/0IIh65zsyhoEyOcoQWjBHl) | [Lulannie](https://open.spotify.com/artist/6oXyDpjRnLLErx7cflQk3O), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Delamatu](https://open.spotify.com/artist/0UyAWAMVxjvjbVr7liVO5j) | [Ficciones](https://open.spotify.com/album/4RyzdUqsoRHQ6840J4r9pT) | 3:53 |
 | 43 | [Monterrey](https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1) | [Edgar Villarreal](https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK) | [Monterrey](https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga) | 3:13 |
 | 44 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 |
 | 75 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
 
-Snapshot ID: `AAAAALXYbBiAX3RHWVCMqjgvcgZj8Jev`
+Snapshot ID: `AAAAAIzjMNDLQNeUg2+OasFcVFpA5wEE`

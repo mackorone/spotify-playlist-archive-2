@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Jesse Prins
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,761 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,751 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Nog Eentje](https://open.spotify.com/track/32IsZhwCUbqcSnascNciEc) | [Daan](https://open.spotify.com/artist/6JLmCgHQwZeTt0ati2JqQA) | [Nog Eentje](https://open.spotify.com/album/0ZAmHBYRLO1HSJWJZkZ33U) | 2:38 |
 | 100 | [De Avond Is Van Ons](https://open.spotify.com/track/2gjiYuQ2y15tDZIOU8qFx8) | [Willem Huisman](https://open.spotify.com/artist/0z26rX79N8arGB1aQFSM1I), [Harrie Snijders](https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S) | [De Avond Is Van Ons](https://open.spotify.com/album/7cdN5GOJroOJoARrfyxAAt) | 2:28 |
 
-Snapshot ID: `AAAAAFYBrN/l8aUN/2elpju2NTD0uy9S`
+Snapshot ID: `AAAAAG/mFQiTdSmEso4FQdLtqNiBYSg8`

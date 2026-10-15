@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Guru Randhawa, Aastha Gill, Armaan Malik and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,702 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,713 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Jogi Naal](https://open.spotify.com/track/3Oqfj8U3rQqGnQMXIvmku8) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Raja](https://open.spotify.com/artist/75prkScvmpqHqH5vI89qw9), [Aden](https://open.spotify.com/artist/22wNTxE1rJerY53nAhyZl0) | [PARINDA](https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI) | 2:38 |
 | 50 | [Tere Sang Rehna](https://open.spotify.com/track/560vnIacH4ZnxLwa00DvTi) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1), [Saviimusic](https://open.spotify.com/artist/1ksypzEHG5BZh9DUGs1MLr) | [Tere Sang Rehna](https://open.spotify.com/album/0Oxdv58bdaOBD5xkHiu0Hi) | 3:13 |
 
-Snapshot ID: `AAAAAG8bmFzuRyNY53thorRqLj0vNHpF`
+Snapshot ID: `AAAAADlgcMnTiWPUQcD7Baha43LjmlfZ`

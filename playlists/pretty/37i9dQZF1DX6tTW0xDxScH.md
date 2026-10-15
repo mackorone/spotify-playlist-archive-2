@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,479 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,474 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 47 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 48 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
 | 49 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 50 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
-| 51 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 50 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 51 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 52 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 53 | [Honey](https://open.spotify.com/track/2kPYU6yN0LfBZC67J45MJg) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Raw Honey](https://open.spotify.com/album/5kNlXRgH4imZfk8MciMwAA) | 4:28 |
 | 54 | [There Is Something on Your Mind](https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 3:22 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 88 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 89 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
 | 90 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
-| 91 | [Live It Down](https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Live It Down](https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0) | 3:43 |
-| 92 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |
-| 93 | [If We Make It Through December](https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 2:59 |
-| 94 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
-| 95 | [Sleeping](https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Sleeping](https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V) | 3:32 |
+| 91 | [If We Make It Through December](https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 2:59 |
+| 92 | [Live It Down](https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Live It Down](https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0) | 3:43 |
+| 93 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |
+| 94 | [Sleeping](https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Sleeping](https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V) | 3:32 |
+| 95 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
 | 96 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 97 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 |
 | 98 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 99 | [Reasons](https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX) | [Luke Tyler Shelton](https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC) | [Reasons](https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv) | 3:03 |
 | 100 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
 
-Snapshot ID: `AAAAADVnmvv26cl2DHz540B75916XZAY`
+Snapshot ID: `AAAAAO+gcjisvxIUvFaQuObNa7d0k9N2`

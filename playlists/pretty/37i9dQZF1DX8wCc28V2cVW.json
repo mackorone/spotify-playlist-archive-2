@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRBHJZNnwsW0pburomueWroYBbC",
+  "snapshot_id": "AAAAAKACNpFLKZkXm7OPU4xGY0l0LmRv",
   "tracks": [
     {
       "added_at": "2026-01-31 15:23:51",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
         }
       ],
-      "duration_ms": 209466,
-      "name": "Stand Your Ground",
-      "url": "https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o"
+      "duration_ms": 254600,
+      "name": "APOCALYPSIS NOCTIS",
+      "url": "https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru"
     },
     {
       "added_at": "2026-01-31 15:23:51",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-01-31 15:23:51",
       "album": {
-        "name": "FINAL FANTASY XIV Duality \uff5e Arrangement Album \uff5e",
-        "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
-      },
-      "artists": [
-        {
-          "name": "THE PRIMALS",
-          "url": "https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ"
-        }
-      ],
-      "duration_ms": 315130,
-      "name": "Oblivion - Never Let it Go Version",
-      "url": "https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb"
-    },
-    {
-      "added_at": "2026-01-31 15:23:51",
-      "album": {
         "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
         "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 167000,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/2nF2LTLMjK5CLzgbO8NIgI"
+    },
+    {
+      "added_at": "2026-01-31 15:23:51",
+      "album": {
+        "name": "FINAL FANTASY XIV Duality \uff5e Arrangement Album \uff5e",
+        "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
+      },
+      "artists": [
+        {
+          "name": "THE PRIMALS",
+          "url": "https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ"
+        }
+      ],
+      "duration_ms": 315130,
+      "name": "Oblivion - Never Let it Go Version",
+      "url": "https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb"
     },
     {
       "added_at": "2026-01-31 15:23:51",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-31 15:23:51",
       "album": {
-        "name": "FINAL FANTASY XV Original Soundtrack Volume 2\u30101/2\u3011",
-        "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
-      },
-      "artists": [
-        {
-          "name": "\u5ca1\u90e8\u5553\u4e00",
-          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
-      "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
-    },
-    {
-      "added_at": "2026-01-31 15:23:51",
-      "album": {
         "name": "FINAL FANTASY XII Original Soundtrack",
         "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 203626,
       "name": "Boss Battle",
       "url": "https://open.spotify.com/track/4E14gq0mqxeNUJ4ydNQRaV"
+    },
+    {
+      "added_at": "2026-01-31 15:23:51",
+      "album": {
+        "name": "FINAL FANTASY XV Original Soundtrack Volume 2\u30101/2\u3011",
+        "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u90e8\u5553\u4e00",
+          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
+      "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
     },
     {
       "added_at": "2026-01-31 15:23:51",

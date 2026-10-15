@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Gül ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,951 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,943 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 143 | [Yolun Sonunda](https://open.spotify.com/track/4ff79DnDKr7AEQSGp1EhN9) | [Öykü Çam](https://open.spotify.com/artist/68Ph1uHEXYap8KE4we5m3k) | [Yolun Sonunda](https://open.spotify.com/album/2IGp3s56T9JY8C3JVJ2Thj) | 3:28 |
 | 144 | [FREN](https://open.spotify.com/track/2P8AmKid3RE3GgUzf3ad5h) | [ASLY](https://open.spotify.com/artist/3HaMbD4rPkq9vnP77FOOKb) | [FREN](https://open.spotify.com/album/3KS1x2ZKJ17ef5kMvomZvy) | 3:00 |
 
-Snapshot ID: `AAAAAAYIxXI+zuJH5Vjro6Toy6LD41Qz`
+Snapshot ID: `AAAAAHT6rzzFiseCKJLrG1PnNZVTCXTE`

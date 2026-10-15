@@ -1,12 +1,12 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 543749,
+  "num_followers": 543863,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIMeKoJjPTswKJ1LmKrSKrnM2uB",
+  "snapshot_id": "AAAAAJTRVuA6CaLYn6SSi47R530PceKr",
   "tracks": [
     {
       "added_at": "2026-10-09 07:54:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-09 07:54:43",
       "album": {
-        "name": "The Duke: The Columbia Years (1927-1962)",
-        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
-    },
-    {
-      "added_at": "2026-10-09 07:54:43",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
+    },
+    {
+      "added_at": "2026-10-09 07:54:43",
+      "album": {
+        "name": "The Duke: The Columbia Years (1927-1962)",
+        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
     },
     {
       "added_at": "2026-10-09 07:54:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-09 07:54:43",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2026-10-09 07:54:43",
-      "album": {
         "name": "Past Midnight",
         "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-10-09 07:54:43",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+      "duration_ms": 116280,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
       "added_at": "2026-10-09 07:54:43",
@@ -995,6 +979,22 @@
       "duration_ms": 225840,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
+    },
+    {
+      "added_at": "2026-10-09 07:54:43",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2026-10-09 07:54:43",

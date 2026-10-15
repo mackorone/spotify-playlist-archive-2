@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 
 > Todo hits veraniegos para la mejor fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,828 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,835 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 | 41 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
 | 42 | [La Bicicleta](https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:49 |
 | 43 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
-| 44 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
-| 45 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
-| 46 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
+| 44 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
+| 45 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
+| 46 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
 | 47 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 48 | [Limbo](https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:44 |
 | 49 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 | 93 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
 | 94 | [Contando Lunares \(feat\. Cruzzi\)](https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD) | [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9), [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [La Dura Vida del Joven Rapero](https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y) | 3:39 |
 | 95 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 |
-| 96 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
-| 97 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
+| 96 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
+| 97 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
 | 98 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
 | 99 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
 | 100 | [Cayó La Noche \(feat\. Cruzzi, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [BEJO](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2), [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Cayó La Noche \(feat\. Cruzzi, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 | 119 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 |
 | 120 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 |
 
-Snapshot ID: `AAAAAONRj9hZmOq8ADoR+iQGWhre7oxN`
+Snapshot ID: `AAAAAPtph//QQ9NumSRzRN9LheQ2/e5m`

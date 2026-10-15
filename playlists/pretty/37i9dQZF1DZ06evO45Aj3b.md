@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,521 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,561 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 38 | [Rollerblades](https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rollerblades](https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw) | 2:14 |
 | 39 | [One Glass](https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:29 |
 | 40 | [1.23.23](https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:01 |
-| 41 | [CAMERAS](https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:48 |
-| 42 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
+| 41 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
+| 42 | [CAMERAS](https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:48 |
 | 43 | [Smile](https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:27 |
 | 44 | [THICKRICK](https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:44 |
 | 45 | [Geezer](https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 48 | [Stop Selling Her Drugs \(feat\. Dominic Fike\)](https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 2:53 |
 | 49 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 |
 
-Snapshot ID: `asrRgAAAAACdcQEou5p69bobgPLtOKDW`
+Snapshot ID: `as10gAAAAAADussH0sbrpE0bWJXPjTMB`

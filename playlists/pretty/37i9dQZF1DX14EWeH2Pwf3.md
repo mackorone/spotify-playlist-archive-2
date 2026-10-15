@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Rkomi in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,916 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,843 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 51 | [riviera](https://open.spotify.com/track/0Rzy8d2wTrow0Pi9bakQ15) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7) | [riviera](https://open.spotify.com/album/4c1eMps76gPczC8sytsW1f) | 1:37 |
 | 52 | [SPORTLIFE](https://open.spotify.com/track/7l2vPfyoq0ssCGCOA8Af50) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [SPORTLIFE](https://open.spotify.com/album/78hhxZVZlrHJV4UxmirBUv) | 3:20 |
 
-Snapshot ID: `AAAAAMYaRaXqAbhRK4MhwhjCxaTqdnVP`
+Snapshot ID: `AAAAAJU5P6/xFe1ENsh1Yrv3sJYOKutL`

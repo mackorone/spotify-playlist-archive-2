@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 566867,
+  "num_followers": 567028,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJash2HoEL1r3EM0/9ud4KnB5617",
+  "snapshot_id": "AAAAAGWgyfeET4PyOqdut0FLkALyfSsn",
   "tracks": [
     {
       "added_at": "2026-09-17 12:03:43",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Songs from the Valley",
-        "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -1087,8 +1071,24 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "The Commons",
-        "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 324893,
-      "name": "The Commons",
-      "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "The Commons",
+        "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 324893,
+      "name": "The Commons",
+      "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
     },
     {
       "added_at": "2026-09-17 12:03:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > compare, prenda el asador y destape otra cheve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,787 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,772 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 57 | [Te Vez Buena \- En Vivo](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 |
 | 58 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
 | 59 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 |
-| 60 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
-| 61 | [No necesitas a Carlo](https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:08 |
+| 60 | [No necesitas a Carlo](https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:08 |
+| 61 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 62 | [TRR TAC TAC](https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [TRR TAC TAC](https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT) | 3:07 |
 | 63 | [Mi Golondrina](https://open.spotify.com/track/28cEjHqqh494m594SwLyvt) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 2:51 |
 | 64 | [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 69 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
 | 70 | [Pienso En Ti](https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Es de Madera](https://open.spotify.com/album/5hf6WT0Zv9JyQCiZNo6hGv) | 2:37 |
 
-Snapshot ID: `AAAAAGBMqmTQ4c4s0UrgBlbom20Zj0Vq`
+Snapshot ID: `AAAAAEuaCxT8jzCB6GnOlDbPNcH3Cnhs`

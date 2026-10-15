@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,881 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,885 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 21 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 |
 | 22 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
 | 23 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
-| 24 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 |
-| 25 | [Amphetamine](https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 7:49 |
+| 24 | [Amphetamine](https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 7:49 |
+| 25 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 |
 | 26 | [Dreams Money Can Buy](https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:13 |
 | 27 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
 | 28 | [don’t i \(feat\. Gunna\)](https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:33 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 38 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
 | 39 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |
 | 40 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
-| 41 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
-| 42 | [Lovely](https://open.spotify.com/track/2yb8xWLdEaDsUMOFsWr09q) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 4:51 |
+| 41 | [Lovely](https://open.spotify.com/track/2yb8xWLdEaDsUMOFsWr09q) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 4:51 |
+| 42 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
 | 43 | [Since I Seen't You](https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:15 |
 | 44 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 |
 | 45 | [Blue Magic](https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 49 | [Just Sayin/I Tried](https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Insecure: Music from the HBO Original Series](https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA) | 6:52 |
 | 50 | [Lovin' care](https://open.spotify.com/track/0snwRfpyISNV2KbcE2qi5x) | [JJORDAN](https://open.spotify.com/artist/7bop8V3sucGbPjKUrWrhJX) | [Lovin' care](https://open.spotify.com/album/07CfXFiDeJu9cuTzEQuULk) | 2:33 |
 
-Snapshot ID: `AAAAABm9k5ZmbYDo16rCqvp9dQBafV6e`
+Snapshot ID: `AAAAAEKx8cJ7t4S3RidSg4sCfP1WtHZO`

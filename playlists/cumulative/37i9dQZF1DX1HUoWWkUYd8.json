@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "album": {
         "name": "Tiffany",
         "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 202236,
       "name": "Rock Me Amadeus",
       "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"

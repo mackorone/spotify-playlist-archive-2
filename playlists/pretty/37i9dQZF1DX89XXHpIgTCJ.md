@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,344 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,390 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 54 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 55 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 56 | [Can't Get the Best of Me](https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Skull & Bones](https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2) | 4:14 |
-| 57 | [This Means War!! \(feat\. Ozzy Osbourne\)](https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 4:35 |
+| 57 | [We Made It \(feat\. Linkin Park\)](https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [We Made It \(feat\. Linkin Park\)](https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di) | 3:58 |
 | 58 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
 | 59 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 60 | [The Omen](https://open.spotify.com/track/0II8G1h7J6BGsAA5Sc7Lth) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 4:56 |
 
-Snapshot ID: `AAAAACMI0DJhnG4wJSB4dhoz5QcMOeEj`
+Snapshot ID: `AAAAAAJh3mMFTW/lU1/1ZXAIJWhe0Xkf`

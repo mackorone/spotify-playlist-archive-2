@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269553,
+  "num_followers": 269589,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACPqedpikmnWBNSqlhfSO6o",
+  "snapshot_id": "as10gAAAAACo+lIcBzRM7bwiA0TYdGfB",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No me mor\u00ed",
+        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "No me mor\u00ed",
+      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No me mor\u00ed",
-        "url": "https://open.spotify.com/album/4fFDp5fJdBehUTf374Pkbo"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "No me mor\u00ed",
-      "url": "https://open.spotify.com/track/7bu697MG4wJI3NRapdAkv0"
     },
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
     },
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Tuve Tanto",
         "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Loca Como T\u00fa",
-        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Una Loca Como T\u00fa",
-      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Loca Como T\u00fa",
+        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Una Loca Como T\u00fa",
+      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pelinegra",
         "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Es M\u00eda",
         "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188992,
       "name": "No Es M\u00eda",
       "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1itos y Flores",
         "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 159012,
       "name": "Cari\u00f1itos y Flores",
       "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/66fTexSJwkhVrntOh58dPo"
-      },
-      "artists": [
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/26xyZmmJxapXFqTAPZTVcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 220612,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/66fTexSJwkhVrntOh58dPo"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/26xyZmmJxapXFqTAPZTVcS"
     },
     {
       "added_at": null,
@@ -943,6 +943,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 279014,
+      "name": "Hace Tanto Tiempo",
+      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAGO #1 LOLOLO",
         "url": "https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 185084,
       "name": "TRAGO #1 LOLOLO",
       "url": "https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 279014,
-      "name": "Hace Tanto Tiempo",
-      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
     },
     {
       "added_at": null,

@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 43 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 44 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
 | 45 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
-| 46 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 47 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 46 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 47 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 48 | [You](https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:41 |
 | 49 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 50 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
 
-Snapshot ID: `AAAAAA/lEchpIwwm7vWhTBb6iGA2VMQo`
+Snapshot ID: `AAAAAFojVei1pa1ZzVC1fBBV7oEtVhUg`

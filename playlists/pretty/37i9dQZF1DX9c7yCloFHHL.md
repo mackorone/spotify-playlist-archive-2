@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Passa Tempo
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,777 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,821 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 98 | [The First Tone Before Light](https://open.spotify.com/track/4vvGS4TDX2vZPaJQDebMjz) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [The Chapel of Invisible Tones – Solfeggio Healing](https://open.spotify.com/album/3gNImzYLS69vOoiZfH9Ye5) | 3:07 |
 | 99 | [The Juniper Tree](https://open.spotify.com/track/7xKTUxIlfkZmJetfRZ1VwH) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [The Juniper Tree & Good Bye](https://open.spotify.com/album/6psYYzidZzlW8j8GpmmowI) | 3:05 |
 
-Snapshot ID: `AAAAAPJ8JFnY3Yo6iPWurAbh5/bMDFzv`
+Snapshot ID: `AAAAALWJxl2dvWomhtjsppuH8aym8W4Q`

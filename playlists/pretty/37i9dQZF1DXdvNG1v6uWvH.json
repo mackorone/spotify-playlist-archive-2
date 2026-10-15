@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Troye Sivan, girl in red & og m\u00f6rgum fleirum!",
-  "num_followers": 9720,
+  "num_followers": 9719,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHX9+WN2edgcUc+m4LgamEaL/4uc",
+  "snapshot_id": "AAAAADqBQLtuYOiheyg5harfv0Bw9pCD",
   "tracks": [
     {
       "added_at": "2026-10-09 00:00:16",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "Is It That Deep?",
+        "url": "https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 171156,
+      "name": "Is It That Deep?",
+      "url": "https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "Ambiguous Desire (Deluxe)",
         "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
       },
@@ -435,26 +451,6 @@
       "duration_ms": 194473,
       "name": "waiting for me",
       "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Moving at Light Speed",
-        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Button Masher",
-          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
-        }
-      ],
-      "duration_ms": 107402,
-      "name": "Moving at Light Speed",
-      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -475,18 +471,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Is It That Deep?",
-        "url": "https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ"
+        "name": "Moving at Light Speed",
+        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
         }
       ],
-      "duration_ms": 171156,
-      "name": "Is It That Deep?",
-      "url": "https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t"
+      "duration_ms": 107402,
+      "name": "Moving at Light Speed",
+      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "Stalks",
         "url": "https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "not your wife",
-        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
-      },
-      "artists": [
-        {
-          "name": "Coasters",
-          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "not your wife",
-      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "WILL YOU EVER LET ME KNOW",
         "url": "https://open.spotify.com/album/0QAceHStIlua3YROBw16L1"
       },
@@ -683,38 +683,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/2IU3qR6HVCd0w4cGN6Jf4G"
-      },
-      "artists": [
-        {
-          "name": "Ex:Re",
-          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/31hSy1c6SWABIV3W1LqjMz"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Focus Group",
-        "url": "https://open.spotify.com/album/7BER0aNu7VmLGgkg4Y2hty"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 211219,
-      "name": "Suitcase",
-      "url": "https://open.spotify.com/track/2jgdF1skIgMNHpGSNciGWo"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "no self respect!",
         "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 181828,
       "name": "no self respect!",
       "url": "https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "I Cried a River Through Palm Springs",
+        "url": "https://open.spotify.com/album/6wahiN4pbPXfmsI9jFA3aH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 206517,
+      "name": "I Cried a River Through Palm Springs",
+      "url": "https://open.spotify.com/track/6DLuIYuFrlRfxwNOAVT33Z"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/2IU3qR6HVCd0w4cGN6Jf4G"
+      },
+      "artists": [
+        {
+          "name": "Ex:Re",
+          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/31hSy1c6SWABIV3W1LqjMz"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -767,34 +767,34 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "I Cried a River Through Palm Springs",
-        "url": "https://open.spotify.com/album/6wahiN4pbPXfmsI9jFA3aH"
+        "name": "Focus Group",
+        "url": "https://open.spotify.com/album/7BER0aNu7VmLGgkg4Y2hty"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 206517,
-      "name": "I Cried a River Through Palm Springs",
-      "url": "https://open.spotify.com/track/6DLuIYuFrlRfxwNOAVT33Z"
+      "duration_ms": 211219,
+      "name": "Suitcase",
+      "url": "https://open.spotify.com/track/2jgdF1skIgMNHpGSNciGWo"
     },
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Spaghetti Soul",
-        "url": "https://open.spotify.com/album/45WhoCunwX3krlPZkOoKcX"
+        "name": "matriarch",
+        "url": "https://open.spotify.com/album/1WuJ9Ms4XK84SAdomR9YFt"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Wadi",
+          "url": "https://open.spotify.com/artist/0cg1dZt1fxg4ei0nXsrxNg"
         }
       ],
-      "duration_ms": 247051,
-      "name": "Echoes In Time",
-      "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
+      "duration_ms": 180952,
+      "name": "matriarch",
+      "url": "https://open.spotify.com/track/1pBDAcfSkTel26prApFd1U"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "matriarch",
-        "url": "https://open.spotify.com/album/1WuJ9Ms4XK84SAdomR9YFt"
+        "name": "Spaghetti Soul",
+        "url": "https://open.spotify.com/album/45WhoCunwX3krlPZkOoKcX"
       },
       "artists": [
         {
-          "name": "Wadi",
-          "url": "https://open.spotify.com/artist/0cg1dZt1fxg4ei0nXsrxNg"
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
         }
       ],
-      "duration_ms": 180952,
-      "name": "matriarch",
-      "url": "https://open.spotify.com/track/1pBDAcfSkTel26prApFd1U"
+      "duration_ms": 247051,
+      "name": "Echoes In Time",
+      "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
-      },
-      "artists": [
-        {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        }
-      ],
-      "duration_ms": 170144,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "Eat the Fruit",
         "url": "https://open.spotify.com/album/6xssb41Wyzws9pJgVbPWbm"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 294037,
       "name": "Eat the Fruit",
       "url": "https://open.spotify.com/track/6QTVocXJIT6QomBx2QuBBm"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1Tf1Mr6JEp2xUdVB61cpBI"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "duration_ms": 170144,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4faET9puA0PpJEj3MLXFky"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Kitchen",
-        "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/4Pwk2owlHrLpP4ljEly0WY"
       },
       "artists": [
         {
-          "name": "haloplus+",
-          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+          "name": "Leon Blane",
+          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
         }
       ],
-      "duration_ms": 175578,
-      "name": "Kitchen",
-      "url": "https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy"
+      "duration_ms": 152112,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/14FYVmr6ktWJJbNJ91Ov94"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1087,18 +1087,34 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/4Pwk2owlHrLpP4ljEly0WY"
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
       },
       "artists": [
         {
-          "name": "Leon Blane",
-          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
         }
       ],
-      "duration_ms": 152112,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/14FYVmr6ktWJJbNJ91Ov94"
+      "duration_ms": 175578,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Baby you're a mess",
+        "url": "https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw"
+      },
+      "artists": [
+        {
+          "name": "Creach",
+          "url": "https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH"
+        }
+      ],
+      "duration_ms": 177888,
+      "name": "Baby you're a mess",
+      "url": "https://open.spotify.com/track/53uiyax0R8EXdinnARGj30"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1131,22 +1147,6 @@
       "duration_ms": 191893,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Baby you're a mess",
-        "url": "https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw"
-      },
-      "artists": [
-        {
-          "name": "Creach",
-          "url": "https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH"
-        }
-      ],
-      "duration_ms": 177888,
-      "name": "Baby you're a mess",
-      "url": "https://open.spotify.com/track/53uiyax0R8EXdinnARGj30"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
+        "name": "Laying Down",
+        "url": "https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "duration_ms": 170380,
+      "name": "Laying Down",
+      "url": "https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
         "name": "go left sometimes",
         "url": "https://open.spotify.com/album/2fqeeyStOvWLvk9t89Fnxc"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Laying Down",
-        "url": "https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e"
-      },
-      "artists": [
-        {
-          "name": "swell foop",
-          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
-        }
-      ],
-      "duration_ms": 170380,
-      "name": "Laying Down",
-      "url": "https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/3QQlMbTdcNjXPfqhvwlAIk"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 241721,
       "name": "Orange",
       "url": "https://open.spotify.com/track/6J67r21wyslcG1ejmc1yeU"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Safe Bet",
+        "url": "https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 188086,
+      "name": "Safe Bet",
+      "url": "https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Safe Bet",
-        "url": "https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 188086,
-      "name": "Safe Bet",
-      "url": "https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
         "name": "Steady Baby",
         "url": "https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 181840,
       "name": "Steady Baby",
       "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
+    },
+    {
+      "added_at": "2026-10-09 00:00:16",
+      "album": {
+        "name": "Cruel and heavy",
+        "url": "https://open.spotify.com/album/3BsaVK3Kq3vZvLX72AjTge"
+      },
+      "artists": [
+        {
+          "name": "Spawner",
+          "url": "https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "Cruel and heavy",
+      "url": "https://open.spotify.com/track/7sGC4Ny9B1jHRzHCyPBCnP"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-10-09 00:00:16",
       "album": {
-        "name": "Cruel and heavy",
-        "url": "https://open.spotify.com/album/3BsaVK3Kq3vZvLX72AjTge"
+        "name": "Goodwife",
+        "url": "https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978"
       },
       "artists": [
         {
-          "name": "Spawner",
-          "url": "https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK"
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
         }
       ],
-      "duration_ms": 230875,
-      "name": "Cruel and heavy",
-      "url": "https://open.spotify.com/track/7sGC4Ny9B1jHRzHCyPBCnP"
+      "duration_ms": 250360,
+      "name": "Goodwife",
+      "url": "https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg"
     },
     {
       "added_at": "2026-10-09 00:00:16",
@@ -1367,22 +1383,6 @@
       "duration_ms": 189733,
       "name": "Bug",
       "url": "https://open.spotify.com/track/30G2j91d9mA5VLNU7PsQGw"
-    },
-    {
-      "added_at": "2026-10-09 00:00:16",
-      "album": {
-        "name": "Goodwife",
-        "url": "https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978"
-      },
-      "artists": [
-        {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Goodwife",
-      "url": "https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg"
     },
     {
       "added_at": "2026-10-09 00:00:16",

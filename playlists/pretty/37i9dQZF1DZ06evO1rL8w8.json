@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 240475,
+  "num_followers": 240490,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADG49M4t+5W3+jHz/RYHmbp",
+  "snapshot_id": "as10gAAAAAANDIcaWWxJg7UtJZkjffK0",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
       "duration_ms": 187834,
       "name": "El Papel Cambio",
       "url": "https://open.spotify.com/track/1zLMW29lIROfh3Hq6ZvHCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199471,
-      "name": "El Cigarrito Ba\u00f1ado",
-      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
     },
     {
       "added_at": null,
@@ -127,6 +111,22 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "El Cigarrito Ba\u00f1ado",
+      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+        "name": "Romanticas",
+        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 148874,
-      "name": "Detras Del Miedo",
-      "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
+      "duration_ms": 207804,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romanticas",
-        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb"
+      "duration_ms": 148874,
+      "name": "Detras Del Miedo",
+      "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
     },
     {
       "added_at": null,
@@ -675,42 +675,6 @@
       "duration_ms": 117560,
       "name": "Nom\u00e1s Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo (En Vivo)",
-      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -735,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Corona",
         "url": "https://open.spotify.com/album/7qKOqhqGxc0kbjwncj5Pj1"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 190129,
       "name": "Yo Me Quiero Mas",
       "url": "https://open.spotify.com/track/0op5YhXMK2oE7H36oDL98d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo (En Vivo)",
+      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
     },
     {
       "added_at": null,

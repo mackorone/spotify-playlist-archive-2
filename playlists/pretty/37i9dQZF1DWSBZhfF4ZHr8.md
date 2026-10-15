@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Adèle Castillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,499 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,496 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Aime\-moi encore](https://open.spotify.com/track/1vfLUtLGqPmQlAFg9jChVX) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Aime\-moi encore](https://open.spotify.com/album/3tiiAcpgs6ilMsQqlTTnY2) | 2:31 |
 | 50 | [Les Euros](https://open.spotify.com/track/0bc8GhYvEAUDqMaqfCbIrC) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:51 |
 
-Snapshot ID: `AAAAAIkseXDbCq7olHFHGSA0IpCO0yTS`
+Snapshot ID: `AAAAAOuoyEFv0hQQeWteEIuQBQZa267/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,267 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,287 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 60 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
 | 61 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 62 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
-| 63 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
-| 64 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
-| 65 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
-| 66 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
-| 67 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
-| 68 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 |
-| 69 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
+| 63 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
+| 64 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
+| 65 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
+| 66 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
+| 67 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
+| 68 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
+| 69 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 |
 | 70 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 |
 | 71 | [This Too Shall Pass](https://open.spotify.com/track/0OETmammlGosgW2SkaFeYl) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Of the Blue Colour of the Sky](https://open.spotify.com/album/41VPP2i2Yrwe8bXs5NNpM9) | 3:08 |
 | 72 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 78 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
 | 79 | [BMO](https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:26 |
 | 80 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
-| 81 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
-| 82 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 81 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 82 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 83 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 84 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
 | 85 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 99 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
 | 100 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
 
-Snapshot ID: `AAAAANosRCspX4TE5DocHpiigifTAuJT`
+Snapshot ID: `AAAAAAx5YrRCGORRKSOfb9ucL1pnurG6`

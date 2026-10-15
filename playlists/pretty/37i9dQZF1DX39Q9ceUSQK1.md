@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 |
 | 100 | [Glimmer](https://open.spotify.com/track/6HxdF6wqrHeuIyyypYaeUK) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [BLISS](https://open.spotify.com/album/7ma9QDQt7T6WhjF4UIITvA) | 3:55 |
 
-Snapshot ID: `AAAAANh4xI1Mr2j2kdFJhl5SPDN43cuz`
+Snapshot ID: `AAAAAHDbbJFZfidJvK7PjkTeiBpw9mFm`

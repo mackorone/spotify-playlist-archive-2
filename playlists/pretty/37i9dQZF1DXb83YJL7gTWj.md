@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,963 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,969 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 60 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 |
 | 61 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 62 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 63 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 64 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 63 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 64 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 65 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
 | 66 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
 | 67 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:38 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 70 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
 | 71 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
 | 72 | [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 |
-| 73 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 |
-| 74 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 73 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 74 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 |
 | 75 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 76 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/3mJiMnKrpIYSNRRFounMtY) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1VtuNSZUOBUZovbPpHqfh4) | 2:53 |
 | 77 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 99 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 |
 | 100 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
 
-Snapshot ID: `AAAAAOua0DTBuALFp3ACjgAeNwNgTAk5`
+Snapshot ID: `AAAAAD9pvyhXL4n3mxYXDA5MEObrZFNM`

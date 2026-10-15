@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,637 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,634 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 36 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 37 | [Hollywood Nights](https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 5:02 |
 | 38 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
-| 39 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
-| 40 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 39 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
+| 40 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
 | 41 | [Stay \- Remastered](https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty \(Remastered\)](https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg) | 3:24 |
 | 42 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
 | 43 | [Breakfast In America \- Remastered 2010](https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 2:39 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 45 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 46 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 |
 | 47 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
-| 48 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
-| 49 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
-| 50 | [Rock 'n' Roll Fantasy \- 2009 Remaster](https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Desolation Angels \(2009 Remaster\)](https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp) | 3:17 |
-| 51 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 |
+| 48 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
+| 49 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
+| 50 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 |
+| 51 | [Rock 'n' Roll Fantasy \- 2009 Remaster](https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Desolation Angels \(2009 Remaster\)](https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp) | 3:17 |
 | 52 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 |
 | 53 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 54 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 95 | [Don't Stop](https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 3:12 |
 | 96 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
 | 97 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
-| 98 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
-| 99 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
-| 100 | [Take Me Bak 'Ome](https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 3:15 |
+| 98 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/0UkZexeWaFY7geHlCLqjQR) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3) | 3:35 |
+| 99 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
+| 100 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
 
-Snapshot ID: `AAAAABrgmQxVij6SjQHRoBwXz2DQiMDj`
+Snapshot ID: `AAAAAMba48mmESylns45jTWeADhIzze0`

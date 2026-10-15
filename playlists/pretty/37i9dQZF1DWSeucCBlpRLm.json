@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 91273,
+  "num_followers": 91296,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEsZKyCQnQcRPi3vSqIKiR0OXRV",
+  "snapshot_id": "AAAAAJecOK6Xey1WxbDCHv4vj4f8zV8K",
   "tracks": [
     {
       "added_at": "2026-09-23 05:15:16",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Tauba Tauba (From \"Bad Newz\")",
-        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba (From \"Bad Newz\")",
-      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -995,6 +995,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Ungli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "Dance Basanti",
+      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 208169,
       "name": "Hum Pyaar Karne Wale",
       "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Ungli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Anushka Manchanda",
-          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "Dance Basanti",
-      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Coca Cola (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
       },
@@ -1143,18 +1159,22 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+        "name": "Khakee",
+        "url": "https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x"
       },
       "artists": [
         {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+      "duration_ms": 230946,
+      "name": "Dil Dooba",
+      "url": "https://open.spotify.com/track/6cUaCs1lKfDOyFKMkBF8ch"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1187,26 +1207,6 @@
       "duration_ms": 182369,
       "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Khakee",
-        "url": "https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 230946,
-      "name": "Dil Dooba",
-      "url": "https://open.spotify.com/track/6cUaCs1lKfDOyFKMkBF8ch"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "ONE (Original Never Ends)",
-        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "She Move It Like",
-      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "International Villager",
         "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 256000,
       "name": "Angreji Beat",
       "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "ONE (Original Never Ends)",
+        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "She Move It Like",
+      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Yaariyan",
+        "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Sunny Sunny",
+      "url": "https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 187710,
       "name": "Kar Gayi Chull",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Yaariyan",
-        "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Sunny Sunny",
-      "url": "https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
-      },
-      "artists": [
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 223271,
-      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 203881,
       "name": "Chhote Chhote Peg",
       "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
     },
     {
       "added_at": "2026-09-23 05:15:16",

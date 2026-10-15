@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,778 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,783 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 23 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 24 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
 | 25 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
-| 26 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
+| 26 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 27 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 28 | [Can We Talk](https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [I'm Ready](https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv) | 4:44 |
-| 29 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
+| 29 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 30 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 31 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 32 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 39 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
 | 40 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 41 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 42 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
-| 43 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 |
+| 42 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 |
+| 43 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 44 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
 | 45 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
 | 46 | [Can't Get Enough](https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Between Friends](https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 74 | [Back That Thang Up](https://open.spotify.com/track/5jbKpvtoxZB14tbnBafMuL) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Greatest Hits](https://open.spotify.com/album/3XS9BzpsYg7dSiDvTnijks) | 4:33 |
 | 75 | [Alright](https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Alright](https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i) | 3:14 |
 
-Snapshot ID: `AAAAADwEVxc5gMAa95Q1yVdQRq2DZAys`
+Snapshot ID: `AAAAAE1rbDt+jAg0CAN6UrExioDDITR2`

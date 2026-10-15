@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: VXSION
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,991 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,817 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 78 | [Crazy Dream](https://open.spotify.com/track/371GFNvEcw8nGblC56ED2G) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Crazy Dream](https://open.spotify.com/album/4GYEHLrRgBagenHXdx5TEi) | 2:54 |
 | 79 | [ALL OVER AGAIN](https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [ALL OVER AGAIN](https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S) | 3:01 |
 
-Snapshot ID: `AAAAAFgDAARLCCnSLEXE3SAF2cbP4acB`
+Snapshot ID: `AAAAAEOp3jU5KXTgTArd15ibUfRwqf9Q`

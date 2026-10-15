@@ -1,12 +1,12 @@
 {
-  "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Ben PLG",
-  "num_followers": 401509,
+  "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : BEN plg",
+  "num_followers": 401486,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9",
+  "snapshot_id": "AAAAAN9IJc7aMunQNYMYBUbc3fdYijD/",
   "tracks": [
     {
       "added_at": "2026-09-30 22:00:22",
@@ -207,6 +207,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "PA' TOUCH - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172775,
+      "name": "PA' TOUCH - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "IMALI",
         "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 283127,
       "name": "IMALI",
       "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "PA' TOUCH - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu"
-      },
-      "artists": [
-        {
-          "name": "Ino Casablanca",
-          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 172775,
-      "name": "PA' TOUCH - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Ta peau",
+        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
+        }
+      ],
+      "duration_ms": 187254,
+      "name": "Ta peau",
+      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Violins",
         "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 296285,
       "name": "\u2060Wildfire",
       "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Ta peau",
-        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
-        }
-      ],
-      "duration_ms": 187254,
-      "name": "Ta peau",
-      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "305",
-        "url": "https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi"
-      },
-      "artists": [
-        {
-          "name": "1nine08",
-          "url": "https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H"
-        },
-        {
-          "name": "LUMI",
-          "url": "https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP"
-        }
-      ],
-      "duration_ms": 185634,
-      "name": "305",
-      "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Cognac en canette",
         "url": "https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 214013,
       "name": "Cognac en canette",
       "url": "https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi"
+      },
+      "artists": [
+        {
+          "name": "1nine08",
+          "url": "https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H"
+        },
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP"
+        }
+      ],
+      "duration_ms": 185634,
+      "name": "305",
+      "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "le pr\u00e9sident s'en balek",
+        "url": "https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8"
+      },
+      "artists": [
+        {
+          "name": "Zonmai",
+          "url": "https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU"
+        },
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "le pr\u00e9sident s'en balek",
+      "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 168000,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "le pr\u00e9sident s'en balek",
-        "url": "https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8"
-      },
-      "artists": [
-        {
-          "name": "Zonmai",
-          "url": "https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU"
-        },
-        {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "le pr\u00e9sident s'en balek",
-      "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
     },
     {
       "added_at": "2026-09-30 22:00:22",

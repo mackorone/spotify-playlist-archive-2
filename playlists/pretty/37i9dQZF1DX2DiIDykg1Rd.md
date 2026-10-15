@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 2 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
 | 3 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 |
 | 4 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 |
-| 5 | [ASTROTHUNDER](https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:22 |
+| 5 | [Language](https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Language](https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1) | 2:30 |
 | 6 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
-| 7 | [Language](https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Language](https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1) | 2:30 |
+| 7 | [ASTROTHUNDER](https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:22 |
 | 8 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
 | 9 | [Sorry Not Sorry](https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:20 |
 | 10 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 20 | [Talk 2 U](https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 2:39 |
 | 21 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 |
 | 22 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
-| 23 | [Ghetto Angels](https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Backend Child](https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr) | 3:55 |
-| 24 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
+| 23 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
+| 24 | [Ghetto Angels](https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Backend Child](https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr) | 3:55 |
 | 25 | [Krank](https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:55 |
 | 26 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
 | 27 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [hooligan](https://open.spotify.com/track/3diZz7nVRbyuvAXSW7hzI7) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 |
 | 43 | [Belong to the City](https://open.spotify.com/track/05ht6LtilQXryLlGAKH208) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU) | 1:38 |
 
-Snapshot ID: `AAAAAKiEsVorjA5Lmvja/YPOutx/GPsJ`
+Snapshot ID: `AAAAAJA+7dy0W9J6v8qliTARXAaSRLkI`

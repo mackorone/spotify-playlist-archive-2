@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,307 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,309 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,22 +57,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 47 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 48 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
 | 49 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
-| 50 | [Party Lines](https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Party Lines](https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno) | 2:59 |
-| 51 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
-| 52 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
-| 53 | [Like I Do](https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L) | [Cashier](https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf) | [Like I Do](https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19) | 3:39 |
+| 50 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
+| 51 | [Party Lines](https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Party Lines](https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno) | 2:59 |
+| 52 | [Like I Do](https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L) | [Cashier](https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf) | [Like I Do](https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19) | 3:39 |
+| 53 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
 | 54 | [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 |
 | 55 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 56 | [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:24 |
 | 57 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
-| 58 | [Black Paint](https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Black Paint](https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d) | 1:59 |
-| 59 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
+| 58 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
+| 59 | [Black Paint](https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Black Paint](https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d) | 1:59 |
 | 60 | [Body Meat](https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ) | [Prostitute](https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47) | [Attempted Martyr](https://open.spotify.com/album/5rllu0aAZBaCZsllQTzYTm) | 3:47 |
 | 61 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
 | 62 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
 | 63 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
-| 64 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
-| 65 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
+| 64 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
+| 65 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 66 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
 | 67 | [Chevy](https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [Surprise Wish](https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu) | 3:30 |
 | 68 | [Sleep In It](https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Sleep In It](https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v) | 2:59 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 73 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 74 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
 | 75 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
-| 76 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
-| 77 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
-| 78 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
+| 76 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 77 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
+| 78 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
 | 79 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 80 | [In For a… Pound!](https://open.spotify.com/track/61eB7URzZDMWNywmlda4HX) | [Shaking Hand](https://open.spotify.com/artist/3HPGoeMdjOGfyi1GGl0G0J) | [Shaking Hand](https://open.spotify.com/album/0e8Wa6LD98MLMUHmH8b7mq) | 4:43 |
 | 81 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 90 | [POST EMPIRE](https://open.spotify.com/track/505e1WJcfyORbth99IeXY8) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk) | 2:26 |
 | 91 | [Death Destruction Mayhem](https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Death Destruction Mayhem](https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8) | 2:58 |
 | 92 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
-| 93 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
-| 94 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 93 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 94 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
 | 95 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
 | 96 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
 | 97 | [Castaways](https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Slippers 08](https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf) | 1:48 |
 | 98 | [Won't Wait](https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Glass and Bones](https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O) | 3:47 |
-| 99 | [No Me Jodas](https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Public Luxury](https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B) | 3:37 |
-| 100 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 |
+| 99 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 |
+| 100 | [No Me Jodas](https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Public Luxury](https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B) | 3:37 |
 
-Snapshot ID: `AAAAAMBQLJxLvarLzdZrnAwLVtOMi+ms`
+Snapshot ID: `AAAAADqCOIu4aSQi0FCzNRo1f8EWeSmT`

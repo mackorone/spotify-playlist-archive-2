@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: YENA, NOWIMYOUNG\)
 
-295 songs - 17 hr 16 min
+296 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [MYSELF \(feat\. george\) \(prod\. APRO\)](https://open.spotify.com/track/0NsOzFVBBphYwa0Qb5pLYu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 7](https://open.spotify.com/album/1eG8TAlZ1cpGjsWfwFdq0K) | 4:09 | 2022-04-21 | 2022-07-29 |
 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-25 | 2024-03-29 |
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-05-02 | 2024-03-29 |
-| [Never Meant to Be](https://open.spotify.com/track/7BstEf1Z8koda0WPrba16o) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Never Meant to Be](https://open.spotify.com/album/1nBFDAOYEVroVcwNv9ETvn) | 2:59 | 2026-02-04 |  |
+| [Never Meant to Be](https://open.spotify.com/track/7BstEf1Z8koda0WPrba16o) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Never Meant to Be](https://open.spotify.com/album/1nBFDAOYEVroVcwNv9ETvn) | 2:59 | 2026-02-04 | 2026-10-15 |
 | [Next stop heart](https://open.spotify.com/track/7j6KHfLaYyrOHnEsSuWXCN) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [Han Ji Min](https://open.spotify.com/artist/047B7IgS3IE4fqpDKAi7OO) | [Next stop heart](https://open.spotify.com/album/2jjtetKaJ0gmeZSao2ahnQ) | 2:51 | 2024-05-03 | 2024-07-05 |
 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 | 2022-07-25 | 2024-04-19 |
 | [No Question](https://open.spotify.com/track/2roeoO9KuLK4mX34tCMkhd) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [No Question](https://open.spotify.com/album/1ice0eth8FWop85p3ymmzA) | 3:10 | 2022-03-24 | 2022-07-29 |
@@ -278,6 +278,7 @@
 | [WINE \(Feat.Changmo\)\(Prod\. by SUGA\)](https://open.spotify.com/track/2WnJKDk2OlzrTL9OFsKDMW) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Walkin'](https://open.spotify.com/album/2T09zKIYfKNHMOAkwHpEwp) | 3:52 | 2022-04-21 | 2022-07-29 |
 | [WOODAHE](https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5), [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L) | 3:30 | 2025-01-21 | 2025-09-22 |
 | [yayou hoi](https://open.spotify.com/track/6Thafr92OJpMDGTgpV1Q0M) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/4eqUFj1G7nSod95q2CLxms) | 3:08 | 2022-03-24 | 2022-04-20 |
+| [Yo esperaré \(인연\)](https://open.spotify.com/track/2IeC74j2VQkToY9hDoNh7v) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Yo esperaré \(인연\)](https://open.spotify.com/album/6wT2O4ISH8H4v4pIhH4tCC) | 3:29 | 2026-10-02 |  |
 | [You](https://open.spotify.com/track/3PLXMb4ZePgPpYNo5nXEGY) | [The Bridge](https://open.spotify.com/artist/7v7PLqTrbbzOuDYRtmLK76), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [You](https://open.spotify.com/album/14zs86Hgr5wx05gr2ToBDv) | 3:54 | 2022-03-24 | 2022-04-20 |
 | [You & Love \(feat\. Kate Kim\)](https://open.spotify.com/track/4IO7iRsmxWNlSX4RVJgxkU) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:14 | 2022-03-24 | 2022-07-22 |
 | [You & Me](https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [You & Me](https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe) | 2:48 | 2026-03-31 | 2026-08-05 |

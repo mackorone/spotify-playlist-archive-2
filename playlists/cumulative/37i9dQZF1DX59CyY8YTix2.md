@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-2,104 songs - 5 day 10 hr 14 min
+2,105 songs - 5 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1290,6 +1290,7 @@
 | [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 | 2022-11-03 |
 | [コステロメガネ](https://open.spotify.com/track/4V1zGopqPDZl2pkeURmj95) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [コステロメガネ](https://open.spotify.com/album/2nITrjvHBFFPE6wtNA43qU) | 3:11 | 2024-01-31 | 2024-02-07 |
 | [コンタクト](https://open.spotify.com/track/7LVGcMdH6FlbuHFxkqyY6S) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [コンタクト](https://open.spotify.com/album/5mGXY9OXT3sHW7tEc1zimS) | 4:40 | 2024-02-20 | 2024-02-28 |
+| [コンテンポラリーダンス](https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [コンテンポラリーダンス](https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf) | 3:57 | 2026-10-14 |  |
 | [コースター](https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [コースター / カニステル](https://open.spotify.com/album/3bmDkkv8eRUmmDAG3NLXMw) | 3:42 | 2025-12-09 | 2026-03-04 |
 | [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 | 2023-11-09 |
 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 | 2023-09-19 | 2024-10-02 |
@@ -2103,7 +2104,7 @@
 | [高ぶるブルー](https://open.spotify.com/track/6h4Z4yVMkOwudz8V7KAfDe) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [高ぶるブルー](https://open.spotify.com/album/1wt2mvFgIHQheMkv83YAwm) | 2:42 | 2026-07-07 |  |
 | [魔法](https://open.spotify.com/track/6Fme6DBiEfOaqQHhES5vjX) | [sabatabby](https://open.spotify.com/artist/2wPQj5ECKTFD7W5Tp3c3Pn) | [魔法](https://open.spotify.com/album/2o0KdU4fm2XPgTdHRGUiBb) | 4:07 | 2023-11-28 | 2023-12-13 |
 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-08-01 | 2022-12-14 |
-| [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 | 2025-04-15 |  |
+| [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 | 2025-04-15 | 2026-10-15 |
 | [魔法使いは二度死ぬ](https://open.spotify.com/track/5Vq0AO2035rN0NmF4WkuDT) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-25 | 2022-11-09 |
 | [魔物](https://open.spotify.com/track/5nRqxMtMJMeZQJOEeBty2R) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [魔物](https://open.spotify.com/album/3PrpOWglrhSFUSFXZmNIUl) | 3:06 | 2025-05-13 | 2025-08-06 |
 | [魔王様](https://open.spotify.com/track/66DYdcpqt9M0HStiJDMR2V) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [DOKI](https://open.spotify.com/album/7p0YAxcwl70MPrzlraOSE5) | 3:25 | 2024-02-13 | 2024-02-15 |

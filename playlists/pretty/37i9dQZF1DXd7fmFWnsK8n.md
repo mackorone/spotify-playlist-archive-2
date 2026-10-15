@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,391 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,389 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
 | 70 | [Period Color](https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Period Color](https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J) | 4:35 |
 
-Snapshot ID: `AAAAAEpKuuAU88Mduh+7kmbF8r0gzWDA`
+Snapshot ID: `AAAAAIMjQoci7/YAOuqBQtQh869G9tiX`

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157996,
+  "num_followers": 157997,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIn8c9MSdlic4EI9tpMAm8ybNJOu",
+  "snapshot_id": "AAAAALFjYHrxCMWOPO2Y7uoWpOG0A68Q",
   "tracks": [
     {
       "added_at": "2026-08-14 17:39:50",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "QUENTE",
         "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 144117,
       "name": "Tira, Coloca De Volta",
       "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Tanta Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
-      },
-      "artists": [
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 195295,
-      "name": "Tanta Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 215936,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Tanta Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
+      },
+      "artists": [
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 195295,
+      "name": "Tanta Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
     },
     {
       "added_at": "2026-08-14 17:39:50",

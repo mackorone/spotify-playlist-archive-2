@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,919,675 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,919,635 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 99 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
 | 100 | [Amiga mía](https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Grandes exitos 1997\-2004](https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK) | 4:50 |
 
-Snapshot ID: `AAAAAPFefyt84I9P1aKO0Onblo/xZLYn`
+Snapshot ID: `AAAAAP6up3lAEnV4nuQKT5QxGerNpv2i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,052 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,072 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 24 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
 | 25 | [She Moves with the Wind](https://open.spotify.com/track/0p7tsPWzqArJ99Ckac4XSf) | [Nico Besso](https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8), [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM) | [She Moves with the Wind](https://open.spotify.com/album/7sMIwjbMMxROeFJS2v70x6) | 3:31 |
 | 26 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
-| 27 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
-| 28 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
+| 27 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
+| 28 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 29 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
 | 30 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 31 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 58 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 59 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 60 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
-| 61 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 |
-| 62 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 61 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 62 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 |
 | 63 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 64 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 65 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 79 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
 | 80 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
 
-Snapshot ID: `AAAAALi3ZBnTr0Unqp36uAv+TL9xp3GT`
+Snapshot ID: `AAAAABFrCuly4f9VXrBw5u5qF6+x4rr9`

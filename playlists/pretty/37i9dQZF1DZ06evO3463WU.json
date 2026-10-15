@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161418,
+  "num_followers": 161437,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAB/vJNz8sQjfk8rdlZcSwgV",
+  "snapshot_id": "as10gAAAAAAYWeQUuBveC11elC9El44U",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4DVI0TImXhEBPtaeRxPAs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido - En Vivo",
       "url": "https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 191494,
-      "name": "Yo Estaba Solo",
-      "url": "https://open.spotify.com/track/4DVI0TImXhEBPtaeRxPAs1"
     },
     {
       "added_at": null,
@@ -571,42 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlameando",
         "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
@@ -627,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 179520,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor (Remastered 2025)",
         "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 215224,
       "name": "La Reyna de Mi Hogar - Remastered 2025",
       "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,205 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,197 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 57 | [Nothing Like Christmas](https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Nothing Like Christmas](https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2) | 3:19 |
 | 58 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
 | 59 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 |
-| 60 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
-| 61 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
+| 60 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
+| 61 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 62 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
 | 63 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 | 64 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 | 100 | [Merry Christmas Baby](https://open.spotify.com/track/6zM6jd0UXIPazvyU1tivdv) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Holidays Are Here / Merry Christmas Baby](https://open.spotify.com/album/69igKKumVMT9Xt56ZzXkDN) | 3:29 |
 
-Snapshot ID: `AAAAANkhQNhGnMHAWzzXcwxJZUej/ljg`
+Snapshot ID: `AAAAADjfmLXy1C4uB1/HZgSsEp2C/2mP`

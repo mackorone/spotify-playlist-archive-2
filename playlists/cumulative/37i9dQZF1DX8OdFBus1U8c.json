@@ -12957,6 +12957,28 @@
     },
     {
       "album": {
+        "name": "YEH VAADA RAHA",
+        "url": "https://open.spotify.com/album/3xpWDzzBjR6X84YZ4R6YP6"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "YEH VAADA RAHA",
+      "url": "https://open.spotify.com/track/5AzTYLlqqPCGmHmn53uKxC"
+    },
+    {
+      "album": {
         "name": "yenthina (from \"nilapad\")",
         "url": "https://open.spotify.com/album/7c6ZXL1JJbJEMzjCSWTV4V"
       },

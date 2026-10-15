@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Marina Herlop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,314 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,302 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [EL MUNDO ARDER](https://open.spotify.com/track/1ESUvUMBsiOVYqBIvhFuwl) | [BAJANDO AL MERCAO'](https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG) | [EL MUNDO ARDER](https://open.spotify.com/album/6CZwKXTJ26KdM1t0gzp564) | 3:07 |
 | 120 | [2007](https://open.spotify.com/track/1hXsU2SNpddLk7sDHPBt9k) | [MaiteQuiero](https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69) | [Un Ángel Y Yo](https://open.spotify.com/album/2PmHU4cHEgkH7Z6VV5gIy9) | 3:59 |
 
-Snapshot ID: `AAAAAOLi7LSYsLZOsVBENaaHQVvQh7X3`
+Snapshot ID: `AAAAAL85Bu9ECMHXuO96odeh9ZEmzIky`

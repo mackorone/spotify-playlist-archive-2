@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,197 likes - 50 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,294 likes - 50 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 50 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
 
-Snapshot ID: `AAAAAIxZZlUA6itWOPhT4K0pcsI5SM04`
+Snapshot ID: `AAAAAOBkyUdlfbwhok8H4lS76eA6DjAT`

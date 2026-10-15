@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 💃 Tech house operators, featuring GUDFELLA & Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,973 likes - 115 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,049 likes - 115 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 114 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 |
 | 115 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |
 
-Snapshot ID: `AAAAAJG5WQXzS3gyE8YbQ5M4/vOk+/MT`
+Snapshot ID: `AAAAAEObN6kO6UA+oIUltLFYw0CIP6jA`

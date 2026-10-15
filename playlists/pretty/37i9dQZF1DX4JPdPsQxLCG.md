@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,761 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,777 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,31 +57,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 47 | [Ride](https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:49 |
 | 48 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 49 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 50 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
-| 51 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 50 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 51 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
 | 52 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 53 | [Something In The Way](https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Something In The Way](https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy) | 5:02 |
 | 54 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
 | 55 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 56 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
-| 57 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
-| 58 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
-| 59 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
-| 60 | [maple brown](https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [maple brown](https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD) | 2:59 |
+| 57 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
+| 58 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
+| 59 | [maple brown](https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [maple brown](https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD) | 2:59 |
+| 60 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 61 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 |
-| 62 | [Love Ruins Everything](https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Love Ruins Everything](https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx) | 3:20 |
-| 63 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 62 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 63 | [Love Ruins Everything](https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Love Ruins Everything](https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx) | 3:20 |
 | 64 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 |
 | 65 | [Ride Lonesome \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ride Lonesome \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj) | 4:24 |
-| 66 | [Vending Machine](https://open.spotify.com/track/3FampdJjnIzpdxLyTtTCyb) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Vending Machine](https://open.spotify.com/album/3JH7oecZaWwIlg4XbvW2IX) | 3:31 |
-| 67 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
-| 68 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
-| 69 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
-| 70 | [Hit The Sky](https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:39 |
-| 71 | [Stuck on You](https://open.spotify.com/track/0dLrM9SueB4RmdxSWEc7fh) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Stuck on You](https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o) | 3:28 |
-| 72 | [Diane](https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat](https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S) | 4:13 |
-| 73 | [6 FEET UNDER](https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [6 FEET UNDER](https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb) | 2:43 |
+| 66 | [Stuck on You](https://open.spotify.com/track/0dLrM9SueB4RmdxSWEc7fh) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Stuck on You](https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o) | 3:28 |
+| 67 | [Vending Machine](https://open.spotify.com/track/3FampdJjnIzpdxLyTtTCyb) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Vending Machine](https://open.spotify.com/album/3JH7oecZaWwIlg4XbvW2IX) | 3:31 |
+| 68 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
+| 69 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
+| 70 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
+| 71 | [Hit The Sky](https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:39 |
+| 72 | [6 FEET UNDER](https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [6 FEET UNDER](https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb) | 2:43 |
+| 73 | [Diane](https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat](https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S) | 4:13 |
 | 74 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
 | 75 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
 
-Snapshot ID: `AAAAAJDPBK+WCSNCUcT6h5kHRBAwIv3a`
+Snapshot ID: `AAAAAHzYOSXh5ADgq+HUaEO/sjTC7esM`

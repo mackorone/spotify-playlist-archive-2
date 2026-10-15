@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2273145,
+  "num_followers": 2273464,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWAFSw/rTkw8GZCK8Wk0fz9rf/v",
+  "snapshot_id": "AAAAAOHRumv8DKKDM7kIDjhEUZYkd9Jp",
   "tracks": [
     {
       "added_at": "2026-02-11 22:52:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue Clear Sky",
-        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "I Can Still Make Cheyenne",
-      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Always & Forever",
         "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219506,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Blue Clear Sky",
+        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "I Can Still Make Cheyenne",
+      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 218053,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 183493,
       "name": "Daddy's Money",
       "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 247626,
       "name": "The Keeper Of The Stars",
       "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "One Way Ticket (Because I Can)",
+      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 171133,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "One Way Ticket (Because I Can)",
-      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "She'd Give Anything",
-        "url": "https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP"
-      },
-      "artists": [
-        {
-          "name": "Boy Howdy",
-          "url": "https://open.spotify.com/artist/2AcyhCU0sIqSh1c6BVh68G"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "She'd Give Anything",
-      "url": "https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Del Rio, Tx 1959",
         "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 210746,
       "name": "Nobody Wins",
       "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "She'd Give Anything",
+        "url": "https://open.spotify.com/album/1X87sU2bykRDc7i7Msg2ZP"
+      },
+      "artists": [
+        {
+          "name": "Boy Howdy",
+          "url": "https://open.spotify.com/artist/2AcyhCU0sIqSh1c6BVh68G"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "She'd Give Anything",
+      "url": "https://open.spotify.com/track/6NbaCMidP5CmQSUL1fomZf"
     },
     {
       "added_at": "2026-02-11 22:52:29",

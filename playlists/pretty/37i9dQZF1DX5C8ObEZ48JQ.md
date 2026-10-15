@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD?si=834c32c643624e2d">Love, Tumi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,726 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,804 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Ingine Ama](https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [Ingine Ama](https://open.spotify.com/album/1BryXhNuC0abK1AMltFLYs) | 2:30 |
 | 50 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
 
-Snapshot ID: `AAAAAENJYrWc+CZ99uDrjN3d5Q4Jeh7e`
+Snapshot ID: `AAAAALaQjDWh8MkXRDg5K3ZeP3GkHm+q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino aqui! Ay ay ay 🔥  foto: Ricky Martin, PEDRO SAMPAIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,820 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,832 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 36 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
 | 37 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
 | 38 | [JETSKI \- Remix](https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI \- Remix](https://open.spotify.com/album/1sjNMQMlvjVlxVGuPLVzPi) | 3:01 |
-| 39 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 |
-| 40 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
+| 39 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
+| 40 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 |
 | 41 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 |
 | 42 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 43 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |
 | 75 | [Dame Toma](https://open.spotify.com/track/7j0pRdDEOcr8fwonHy5QCc) | [CLUB29](https://open.spotify.com/artist/0znqrbxQ21Vdr4bhrbzPH4), [Manu Dal Santo](https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Boschin](https://open.spotify.com/artist/1VBrrTVQwAdCZ0panaIhHo) | [Dame Toma](https://open.spotify.com/album/2si8k8pdBqNEX1MmcD6kUZ) | 2:10 |
 
-Snapshot ID: `AAAAALPiCKEt/Hf/HKU6bhwoSc3E/gd5`
+Snapshot ID: `AAAAAAID36LmPC5c07OWqX/4uSmWjpUO`

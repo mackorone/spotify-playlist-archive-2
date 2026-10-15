@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAxes2GPLEoM84hxr46ECev",
+  "snapshot_id": "as10gAAAAABWMXfeYMtAXTHIWbjL/bqn",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 167215,
-      "name": "Celica Supra",
-      "url": "https://open.spotify.com/track/3SUTdj0nv34Br6rMDeLicG"
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
+      "duration_ms": 167215,
+      "name": "Celica Supra",
+      "url": "https://open.spotify.com/track/3SUTdj0nv34Br6rMDeLicG"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 103301,
-      "name": "Big Waves",
-      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
     },
     {
       "added_at": null,
@@ -551,24 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
       "artists": [
         {
@@ -580,9 +564,29 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+      "duration_ms": 103301,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "You're Light (feat. Maddee)",
+      "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
       },
       "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 252000,
-      "name": "You're Light (feat. Maddee)",
-      "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
       "duration_ms": 240000,
       "name": "How Can It Be (feat. Maddee)",
       "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
+      },
+      "artists": [
+        {
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Once Upon A Time",
+      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon A Time",
-        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
-      },
-      "artists": [
-        {
-          "name": "Kill The Buzz",
-          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Once Upon A Time",
-      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

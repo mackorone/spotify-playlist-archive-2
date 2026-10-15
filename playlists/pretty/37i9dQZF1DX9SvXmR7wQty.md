@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Adèle Castillon, Thierry Larose, Bekar, disiz,  Statzz, Nawfal, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,289 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,286 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 4 | [C'est ça qui est ça](https://open.spotify.com/track/1VhIDjZSxTKPXHsNJy9sH1) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [C'est ça qui est ça](https://open.spotify.com/album/1LA6z3S83pDecGpHJIV8ES) | 2:50 |
 | 5 | [Surya](https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [the Sound of Art](https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko) | 5:45 |
 | 6 | [MONSTRE](https://open.spotify.com/track/77oh3TGvs3jr0lw732vLXk) | [romie](https://open.spotify.com/artist/7wrEX7WSksgXmTz7qq9Dvw) | [MONSTRE](https://open.spotify.com/album/6hjuWuwxDQ6uztFbKT4WdN) | 2:28 |
-| 7 | [district 11](https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO) | [HOCHELAGÀPARIS, Vol\. 2](https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa) | 1:34 |
+| 7 | [district 11](https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [HOCHELAGÀPARIS, Vol\. 2](https://open.spotify.com/album/2I1HoSsyaY2hWbXdq0OSCa) | 1:34 |
 | 8 | [Dire je t'aime](https://open.spotify.com/track/0YP5qdxhhvr4AFNFMJPtiS) | [Malin LaMalice](https://open.spotify.com/artist/5xd5U0AsoGRzVu4Xhy3sJV), [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG), [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Dire je t'aime](https://open.spotify.com/album/6Slyu9vj8a9OnV9B0qsZkD) | 2:56 |
 | 9 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 | 10 | [NI MAL NI BIEN](https://open.spotify.com/track/6MfymVGtV28MhHVB82Jz5F) | [La Rumeur](https://open.spotify.com/artist/0sX9shkpi9yYK65nZCeeiW), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [NI MAL NI BIEN](https://open.spotify.com/album/4VL9z6l93kPdpq0sle82Zw) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [SALE GUEULE](https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7) | [Antoine Vitesse](https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4) | [GROSSES CERNES](https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH) | 2:52 |
 | 99 | [goodgoodgood](https://open.spotify.com/track/0RSQJWFSsQ3pYUsucDEVG4) | [goodgoodgood.](https://open.spotify.com/artist/3p2HrkRlvsC11lP71qq62Q), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [goodgoodgood](https://open.spotify.com/album/5L9Q6twaEtbecLhJHu4Xh9) | 2:03 |
 
-Snapshot ID: `AAAAAPlGSZt3vLOVeFTt7K/i5jXkjhhS`
+Snapshot ID: `AAAAAGq8H3rEArOZKjNkfKXDFsoL1/eS`

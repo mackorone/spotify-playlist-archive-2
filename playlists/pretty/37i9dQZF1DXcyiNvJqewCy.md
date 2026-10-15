@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 
 > \~ have a lovely time \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,095 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,105 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 12 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
 | 13 | [I Want You To Know](https://open.spotify.com/track/3wHEOCWnonWOIpWYqv6NNh) | [Annika Rani](https://open.spotify.com/artist/6UWuCJvOXmFa6bFrkPkodU) | [I Want You To Know](https://open.spotify.com/album/31JtWKxmzAse9S34BbXm7O) | 4:11 |
 | 14 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
-| 15 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
-| 16 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 |
+| 15 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 |
+| 16 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 17 | [Sadie](https://open.spotify.com/track/2h3O5CdVrqkwiDmkWEoTsL) | [Coco Elise](https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC) | [Sadie](https://open.spotify.com/album/10M6s0HJXqzbZsBXKGRCXi) | 4:16 |
 | 18 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:39 |
 | 19 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 23 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 24 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 25 | [Asleep Talking](https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Asleep Talking](https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3) | 2:36 |
-| 26 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
-| 27 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 |
+| 26 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 |
+| 27 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
 | 28 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
 | 29 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 30 | [SLPM](https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP) | [The Bures Band](https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV) | [Ozonia](https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal) | 5:44 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 40 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 41 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 42 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops \- Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
-| 43 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
-| 44 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 43 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 44 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 45 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 46 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 47 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 66 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 67 | [Cherry Wine \- Live](https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:00 |
 | 68 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
-| 69 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
-| 70 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 |
+| 69 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 |
+| 70 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 | 71 | [Bloom \(Online Bonus Track\)](https://open.spotify.com/track/44alNkXsYnTyPnkMdohBcx) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/4TBDgyNsiHYu9xTbasFCE9) | 3:29 |
 | 72 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
 | 73 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 99 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 |
 | 100 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 
-Snapshot ID: `AAAAANeuT1EnlXz+PZGA9QUhOCuDfek2`
+Snapshot ID: `AAAAAD5ZXfA53RZg+Yu1Ma795JS3qJNc`

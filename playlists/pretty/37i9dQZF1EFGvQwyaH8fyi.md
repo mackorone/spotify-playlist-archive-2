@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,350 likes - 152 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,352 likes - 152 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 48 | [Holding On](https://open.spotify.com/track/0HaITYrO5ipvZLLt0oDboc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/04JMDP40DGNIDKi1dPVptn) | 2:06 |
 | 49 | [nothing inside \(feat\. iann dior\)](https://open.spotify.com/track/1eTdTVIxLlhHwwA50vEzZa) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:52 |
 | 50 | [body bag \(feat\. YUNGBLUD & Bert McCracken of The Used\)](https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 2:50 |
-| 51 | [let you](https://open.spotify.com/track/5bQHJT0MZXTXccO84VpNQP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [on to better things](https://open.spotify.com/album/6rkycywW8HIa4U5nJa2e5l) | 2:31 |
-| 52 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
+| 51 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
+| 52 | [let you](https://open.spotify.com/track/5bQHJT0MZXTXccO84VpNQP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [on to better things](https://open.spotify.com/album/6rkycywW8HIa4U5nJa2e5l) | 2:31 |
 | 53 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
 | 54 | [TALES OF DOMINICA](https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:26 |
 | 55 | [title track](https://open.spotify.com/track/4kDgnKgZTX6puRz9EoNjle) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:45 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 151 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 152 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `Ace3cAAAAAB5Z8WxSXB3vCUqXHjVa4as`
+Snapshot ID: `Ace88gAAAACFR9ExLMLTJj9Myi32dM00`

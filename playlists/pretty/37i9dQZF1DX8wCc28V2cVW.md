@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,946 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,946 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 24 | [Melodies Of Life ～Final Fantasy](https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 7:36 |
 | 25 | [Balamb GARDEN](https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 3:29 |
 | 26 | [Nothing's in Vain](https://open.spotify.com/track/0xnM5pDBgHR1D76VZ6H0No) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:48 |
-| 27 | [Stand Your Ground](https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:29 |
+| 27 | [APOCALYPSIS NOCTIS](https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 4:14 |
 | 28 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 |
 | 29 | [Oblivion](https://open.spotify.com/track/11fITg5u1NddciKuiIXEst) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 7:59 |
 | 30 | [A Fleeting Dream](https://open.spotify.com/track/51REyltyZa0nyob7Vpqomd) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 39 | [Rise](https://open.spotify.com/track/2Xl9NXXsSzUtrP1PLBJg7U) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [THE FAR EDGE OF FATE: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9) | 4:19 |
 | 40 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
 | 41 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
-| 42 | [Oblivion \- Never Let it Go Version](https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 5:15 |
-| 43 | [Onslaught](https://open.spotify.com/track/2nF2LTLMjK5CLzgbO8NIgI) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:47 |
+| 42 | [Onslaught](https://open.spotify.com/track/2nF2LTLMjK5CLzgbO8NIgI) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:47 |
+| 43 | [Oblivion \- Never Let it Go Version](https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 5:15 |
 | 44 | [Wayward Daughter](https://open.spotify.com/track/6XFeoBnO3gz1QHV9yUQdR0) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:51 |
 | 45 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 46 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [Historia Crux](https://open.spotify.com/track/3Z5a9ViXNRzMpTYB2flARR) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:28 |
 | 70 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 71 | [Antipyretic](https://open.spotify.com/track/2FmH4JO42auhArapharZt6) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:40 |
-| 72 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack Volume 2【1/2】](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
-| 73 | [Boss Battle](https://open.spotify.com/track/4E14gq0mqxeNUJ4ydNQRaV) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 3:23 |
+| 72 | [Boss Battle](https://open.spotify.com/track/4E14gq0mqxeNUJ4ydNQRaV) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 3:23 |
+| 73 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack Volume 2【1/2】](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
 | 74 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
 | 75 | [Village and Void \- Aggressive Mix](https://open.spotify.com/track/6jLfOptvy1OXnit69SvSOt) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:28 |
 
-Snapshot ID: `AAAAAPRBHJZNnwsW0pburomueWroYBbC`
+Snapshot ID: `AAAAAKACNpFLKZkXm7OPU4xGY0l0LmRv`

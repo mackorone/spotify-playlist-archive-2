@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,897 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,784 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 74 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 |
 | 75 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 |
 
-Snapshot ID: `AAAAAIA6Bj8L24mia6usTX00A63oHgFY`
+Snapshot ID: `AAAAAKHsci1+i506PLVfZEeIZlEobet2`

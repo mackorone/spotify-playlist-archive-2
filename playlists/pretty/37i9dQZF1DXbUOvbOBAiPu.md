@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lost Frequencies, L2B, Adèle Castillon, Bryan Mg and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,249 likes - 119 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,243 likes - 119 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 16 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 |
 | 17 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
 | 18 | [Where Do I Go](https://open.spotify.com/track/0LIoaag5foWcF7919vBD6T) | [abrahamblue](https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g) | [AUTUMN BLUE](https://open.spotify.com/album/3giQlg8mpiF0LQkVBi5HeX) | 2:36 |
-| 19 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
+| 19 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
 | 20 | [Sofrimento](https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Sofrimento](https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU) | 4:18 |
 | 21 | [Porque Te Vas](https://open.spotify.com/track/5Me4PKiVKQ1hzGbfRzH4Rz) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/124bmfhcgLb93nvKeTzAn3) | 2:53 |
 | 22 | [Terug Bij Mij](https://open.spotify.com/track/11Cdudg1aqYCyuiwX605RI) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Terug Bij Mij](https://open.spotify.com/album/632FPOQ9TbwaTB0zviAflo) | 3:34 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 118 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
 | 119 | [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 |
 
-Snapshot ID: `AAAAAOMBIlBmRKfZj5TZEWaVW8of4hVy`
+Snapshot ID: `AAAAACiab9ti57uL7PB8TNTe5ZYMyunN`

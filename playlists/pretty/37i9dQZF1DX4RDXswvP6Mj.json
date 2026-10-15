@@ -1,13 +1,29 @@
 {
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: KickFlip) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 1210512,
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: DAILY:DIRECTION) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "num_followers": 1210341,
   "original_name": "K-Pop Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGFKXE/BDLdQnGgSCnoDs90BYEM",
+  "snapshot_id": "AAAAAKRAkEKI6OcijxaBoiEzz8x4dA3P",
   "tracks": [
+    {
+      "added_at": "2026-10-15 01:17:23",
+      "album": {
+        "name": "WHICH WAY",
+        "url": "https://open.spotify.com/album/5sDUhA85xqNra0VHL8zfBE"
+      },
+      "artists": [
+        {
+          "name": "DAILY:DIRECTION",
+          "url": "https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "WHICH WAY",
+      "url": "https://open.spotify.com/track/4t25GxC3kgK4krFOHaJpW2"
+    },
     {
       "added_at": "2026-10-07 04:53:07",
       "album": {
@@ -823,42 +839,6 @@
       "duration_ms": 241131,
       "name": "4SHO 4SHO",
       "url": "https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
-        "name": "We Are UNCHILD",
-        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
-      },
-      "artists": [
-        {
-          "name": "UNCHILD",
-          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "UNCHILD",
-      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
-        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
     }
   ],
   "unique_name": "K-Pop Dance Party",

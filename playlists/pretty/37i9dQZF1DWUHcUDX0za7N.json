@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Wave$tar",
-  "num_followers": 86688,
+  "num_followers": 86710,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJJLIOBkADMmdjYaPbkI1vPTsIe",
+  "snapshot_id": "AAAAAMDNwhjFjHC0pMiQEVf65IlSgZRw",
   "tracks": [
     {
       "added_at": "2026-10-09 00:01:55",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "Na Afa Nna (Freestyle)",
-        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Na Afa Nna (Freestyle)",
-      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
         "name": "Lalakula",
         "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 152635,
       "name": "Lalakula",
       "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
+        "name": "Na Afa Nna (Freestyle)",
+        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Na Afa Nna (Freestyle)",
+      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 147118,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/79CXyWncscwC0nExbi0w22"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 155292,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/76bJuqprGVU6gHFqw1rjMu"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "added_at": "2026-10-09 00:01:55",
+      "album": {
         "name": "HOW FAR (Remix)",
         "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
       },
@@ -1027,18 +1043,22 @@
     {
       "added_at": "2026-10-09 00:01:55",
       "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 158181,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-10-09 00:01:55",
@@ -1063,26 +1083,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2026-10-09 00:01:55",
-      "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-10-09 00:01:55",

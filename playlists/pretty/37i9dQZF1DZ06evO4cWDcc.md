@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,462 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,469 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 | 50 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
 
-Snapshot ID: `asrRgAAAAADGluRDeXQUkmLIBMdviVOg`
+Snapshot ID: `as10gAAAAAAl1ADwcr0evv0tPzy2qXGK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Lyodra, Lafa Pratomo, Ari Lesmana, White Chorus, Troye Sivan, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,455 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,411 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [TMO](https://open.spotify.com/track/6Ul5hev0SvkKymImwbc8V1) | [raindra](https://open.spotify.com/artist/5YlN1noydwYf7oUIown4Og) | [TMO](https://open.spotify.com/album/10vOV4BD5GntGrxOsmFXot) | 3:23 |
 | 105 | [Siapa Duluan Rindu](https://open.spotify.com/track/6YI7TRiHa1b66EPNMYshSq) | [Kenzy Taulany](https://open.spotify.com/artist/2vLGsLYfzPMAxt9uJxYH0g) | [Siapa Duluan Rindu](https://open.spotify.com/album/3YUZ6oL7BIkOiIbqxHLfjw) | 3:33 |
 
-Snapshot ID: `AAAAAOeAIp53SFmVF9CbL/Wr1bzgBK87`
+Snapshot ID: `AAAAAHtupEsorUxQo3TXZ4uJd9AU3pIG`

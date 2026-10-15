@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,795,332 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,794,993 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 20 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
 | 21 | [Dónde está el amor \(feat\. Jesse & Joy\)](https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Tanto \(Edición Premium\)](https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN) | 3:53 |
 | 22 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
-| 23 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
-| 24 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
+| 23 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
+| 24 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
 | 25 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 26 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 |
 | 27 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 54 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
 | 55 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 56 | [No Te Apartes de Mí \(feat\. Valeria Bertuccelli\)](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Valeria Bertuccelli](https://open.spotify.com/artist/1Kz4kgtxJWKTmi4w2ZnDEN) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 |
-| 57 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
-| 58 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 57 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 58 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
 | 59 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
 | 60 | [Este Corazón](https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:30 |
-| 61 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
-| 62 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 61 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 62 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
 | 63 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 | 64 | [Sólo para Ti](https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:02 |
 | 65 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
 | 100 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
 
-Snapshot ID: `AAAAABtn63wH2ZAanvD9GMTh1loy4O4U`
+Snapshot ID: `AAAAAETkUBU+0ji7b8ELRZyvE+E3k1DV`

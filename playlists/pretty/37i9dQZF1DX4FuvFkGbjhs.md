@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Oscar Farrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,586 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,574 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [Gum \(EM\)](https://open.spotify.com/track/1S1WyMdqivQkZooA7vwIHP) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [The Joy of Sextet](https://open.spotify.com/album/1hUoLAHWwj0SvYQbvN6hCE) | 2:58 |
 | 80 | [Vessels](https://open.spotify.com/track/1I2nIfKAeUtIOHDowOKsQA) | [Jesse June](https://open.spotify.com/artist/1jTbHx4wIRpp5mbVc35lLu) | [Vessels](https://open.spotify.com/album/1ETblH5hWhxrC5Pzm0nyS4) | 1:49 |
 
-Snapshot ID: `AAAAAHW2u2kbW8tFVzKxY+zGefeewyPl`
+Snapshot ID: `AAAAAF75jFlrowJhfrTxhMyZzM7nqpj0`

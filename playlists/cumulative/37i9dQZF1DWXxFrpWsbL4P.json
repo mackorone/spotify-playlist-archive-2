@@ -112,7 +112,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 354098,
       "name": "8pm",
       "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 170322,
       "name": "Ay Que Me Quema",
       "url": "https://open.spotify.com/track/0RWnpQ7jCb4BtvBI6N13by"
@@ -452,6 +452,28 @@
       "duration_ms": 160714,
       "name": "Bleedin'",
       "url": "https://open.spotify.com/track/7usTSsPgCNJRasC6heEHui"
+    },
+    {
+      "album": {
+        "name": "Bloody Fyah EP",
+        "url": "https://open.spotify.com/album/02N6aeY4Ue9kfXkHG3JQqh"
+      },
+      "artists": [
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        },
+        {
+          "name": "Tolu",
+          "url": "https://open.spotify.com/artist/3L6t4eYFFLez7y5PQY4o4e"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262886,
+      "name": "Bloody Fyah",
+      "url": "https://open.spotify.com/track/1sBZRFknJOzcuqVLaVBKz1"
     },
     {
       "album": {
@@ -748,7 +770,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 257571,
       "name": "drift away",
       "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
@@ -840,6 +862,28 @@
       "duration_ms": 214500,
       "name": "Feel The Night - Radio Edit",
       "url": "https://open.spotify.com/track/3Zn1C48jYxIhPHjetqGucX"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O"
+      },
+      "artists": [
+        {
+          "name": "Aiwaska",
+          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
+        },
+        {
+          "name": "Akira Arasawa",
+          "url": "https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257280,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
     },
     {
       "album": {
@@ -990,7 +1034,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 340922,
       "name": "House Every Weekend",
       "url": "https://open.spotify.com/track/3uFFW9qGPALr8oOhhFBZ43"
@@ -1363,6 +1407,28 @@
     },
     {
       "album": {
+        "name": "Malfunction",
+        "url": "https://open.spotify.com/album/7zZdAu6nyksPH6eEj0OUxj"
+      },
+      "artists": [
+        {
+          "name": "Mert Erkan",
+          "url": "https://open.spotify.com/artist/3aRIQ7ZH2Z4p5GO2IImSfn"
+        },
+        {
+          "name": "DEMS",
+          "url": "https://open.spotify.com/artist/0UWqc9Fvugduq61I2eawnN"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Malfunction - Radio Edit",
+      "url": "https://open.spotify.com/track/0WbSHvji4y9BCI3MIUTkr4"
+    },
+    {
+      "album": {
         "name": "Masal",
         "url": "https://open.spotify.com/album/35KvI7Ocqd55MaG630hMLu"
       },
@@ -1378,6 +1444,32 @@
       "duration_ms": 147857,
       "name": "Masal",
       "url": "https://open.spotify.com/track/4up3rD60VO1Irn5D45WTax"
+    },
+    {
+      "album": {
+        "name": "May\u0131n Tarlas\u0131 (Remix)",
+        "url": "https://open.spotify.com/album/0rwyZo9p40atnPkKvrZSoX"
+      },
+      "artists": [
+        {
+          "name": "Faruk Sabanci",
+          "url": "https://open.spotify.com/artist/7nPbrzSt1apQM9rY5DVqQZ"
+        },
+        {
+          "name": "FAITH",
+          "url": "https://open.spotify.com/artist/5XaXsrXIj4hTVjV6r5E0xe"
+        },
+        {
+          "name": "\u015eebnem Ferah",
+          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255245,
+      "name": "May\u0131n Tarlas\u0131 - Remix",
+      "url": "https://open.spotify.com/track/55Aeih8XkAIuj9chrAM6xl"
     },
     {
       "album": {
@@ -1466,7 +1558,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 178064,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/5rnQPQ86eYx4heLnEyPnPW"
@@ -1836,6 +1928,24 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "album": {
+        "name": "Deviation of Time",
+        "url": "https://open.spotify.com/album/25OHiEXIn6uiDHdFBU16mP"
+      },
+      "artists": [
+        {
+          "name": "Bahri Bekil",
+          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292363,
+      "name": "Selarii",
+      "url": "https://open.spotify.com/track/7hjOxsnUnAZM5azHByb4PB"
     },
     {
       "album": {

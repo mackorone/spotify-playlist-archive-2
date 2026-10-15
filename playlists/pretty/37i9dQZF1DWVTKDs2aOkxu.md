@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover:  girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,558 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,436 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Woof](https://open.spotify.com/track/6YmgCMhLVSRyZ1SUFnsK1g) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Woof](https://open.spotify.com/album/5HKS8CRsWJyOuX20m9TMb5) | 3:18 |
 | 80 | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/track/37NKZWPHvDqPTS85cl5t74) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/album/3ug7nkRQFoALUm5h8OcOn5) | 3:56 |
 
-Snapshot ID: `AAAAALilUn+4eIwx9cOc3X08V2bVJuE3`
+Snapshot ID: `AAAAAOczID1tnIw0796zYUXbRE+l8hth`

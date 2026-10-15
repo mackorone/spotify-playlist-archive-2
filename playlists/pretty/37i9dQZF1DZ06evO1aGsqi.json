@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16538,
+  "num_followers": 16546,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABEdLmZXOvW522lyo6yxmS6",
+  "snapshot_id": "as10gAAAAADy6xpkyN8xRyyKcffxgOUf",
   "tracks": [
     {
       "added_at": null,
@@ -156,21 +156,13 @@
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 326909,
-      "name": "When I\u2019m Home",
-      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
+      "duration_ms": 341130,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/7uXHip6O0uQHqHrewyUctI"
     },
     {
       "added_at": null,
@@ -240,9 +232,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 341130,
-      "name": "Ithaca",
-      "url": "https://open.spotify.com/track/7uXHip6O0uQHqHrewyUctI"
+      "duration_ms": 200981,
+      "name": "Chasing the Escaping Sun",
+      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
     },
     {
       "added_at": null,
@@ -300,13 +292,21 @@
       },
       "artists": [
         {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 200981,
-      "name": "Chasing the Escaping Sun",
-      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
+      "duration_ms": 326909,
+      "name": "When I\u2019m Home",
+      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
     },
     {
       "added_at": null,
@@ -351,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+        "name": "Sinners (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 93603,
-      "name": "Rotta",
-      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
+      "duration_ms": 208613,
+      "name": "Smokestack Twins",
+      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
     },
     {
       "added_at": null,
@@ -399,22 +403,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Smokestack Twins",
-      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
+      "duration_ms": 93603,
+      "name": "Rotta",
+      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything, Everything (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 114600,
+      "name": "Truths (From \"Everything, Everything\" Score)",
+      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 316430,
       "name": "WINDMILLS",
       "url": "https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything, Everything (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 114600,
-      "name": "Truths (From \"Everything, Everything\" Score)",
-      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
     },
     {
       "added_at": null,

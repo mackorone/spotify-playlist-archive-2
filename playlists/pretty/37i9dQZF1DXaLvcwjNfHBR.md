@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,483 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,466 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 75 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
 
-Snapshot ID: `AAAAAEgPvc2PnTyust4wiz0yhOxJZvEf`
+Snapshot ID: `AAAAAMR92VyNMwOJErSlEjiChnSA1TFH`

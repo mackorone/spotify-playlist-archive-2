@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,091 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,071 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 49 | [bloodstream](https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q) | 2:57 |
 | 50 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 
-Snapshot ID: `AAAAAJe63utj0HcJH6UYZ43jqnsUSKFk`
+Snapshot ID: `AAAAABQhjM6gBxEUMi8NEPxwtDYslza8`

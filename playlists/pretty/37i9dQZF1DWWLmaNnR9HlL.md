@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,342 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,312 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 42 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 43 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 44 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 |
-| 45 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
-| 46 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 45 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 46 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
 | 47 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 48 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 49 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 76 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 77 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 78 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
-| 79 | [Wave](https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:56 |
-| 80 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
-| 81 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
+| 79 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
+| 80 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
+| 81 | [Wave](https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:56 |
 | 82 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 83 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
 | 84 | [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 99 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
 | 100 | [Let's Get It On](https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe) | 4:53 |
 
-Snapshot ID: `AAAAAFva2+Tp2fPkAE2jyF17x6NmtTBS`
+Snapshot ID: `AAAAAGbA1eGhTK6xckimh2002piJ3yog`

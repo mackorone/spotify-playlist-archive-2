@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,736 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,728 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 59 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
 | 60 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
 | 61 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
-| 62 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
-| 63 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
+| 62 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
+| 63 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
 | 64 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 | 65 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 |
 | 66 | [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 76 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 77 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 78 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 |
-| 79 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
-| 80 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 79 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 80 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 81 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 82 | [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 |
 | 83 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 85 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
 | 86 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
 | 87 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
-| 88 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
-| 89 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
-| 90 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 |
-| 91 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
+| 88 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 |
+| 89 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
+| 90 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
+| 91 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
 | 92 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 |
 | 93 | [Dub In Ya Mind](https://open.spotify.com/track/06DXs2hBRdjNs1qE1iYCQQ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Simplicity 2000](https://open.spotify.com/album/53FE2BddqwRXwb1WCHYsli) | 5:46 |
 | 94 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
 | 100 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 |
 
-Snapshot ID: `AAAAAFzvaoPXwhV7tmqArUewJ64kXnMP`
+Snapshot ID: `AAAAAOvi0KKMQjzcgAjI+B8mWsnmfefV`

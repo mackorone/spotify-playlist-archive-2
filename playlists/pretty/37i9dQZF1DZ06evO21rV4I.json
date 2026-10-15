@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 179557,
+  "num_followers": 179614,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAdKpPDWPqO63cLh48CSWs3",
+  "snapshot_id": "as10gAAAAACikXeBEIFVZLaE9x9ct+gH",
   "tracks": [
     {
       "added_at": null,
@@ -267,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PONGO",
-        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "PONGO",
-      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 211284,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PONGO",
+        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "PONGO",
+      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156696,
-      "name": "Iskolodo",
-      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156696,
+      "name": "Iskolodo",
+      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy (Stay Far Away)",
+        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Energy (Stay Far Away)",
+      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God and Time",
         "url": "https://open.spotify.com/album/0ke6EJ7oWUTpfQFbXIndvU"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy (Stay Far Away)",
-        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Energy (Stay Far Away)",
-      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
@@ -807,30 +827,6 @@
       "duration_ms": 233012,
       "name": "Low",
       "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COCA BODY",
-        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153055,
-      "name": "COCA BODY",
-      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "added_at": null,
@@ -863,22 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 207085,
-      "name": "Alive (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "added_at": null,
@@ -923,38 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        },
-        {
-          "name": "Toian",
-          "url": "https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1"
-        }
-      ],
-      "duration_ms": 195386,
-      "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
-      "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 214230,
       "name": "Lagos to Kampala",
       "url": "https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Toian",
+          "url": "https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1"
+        }
+      ],
+      "duration_ms": 195386,
+      "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
+      "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,865 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,920 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [On cherche](https://open.spotify.com/track/3JbKyQ1ebDGbl4drpUiR33) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [La Team Gbozon](https://open.spotify.com/artist/35mGvtGQqhlBOQV0UlvgrC) | [On cherche](https://open.spotify.com/album/66ZRr2721oUC72HVNvIzIR) | 2:54 |
 | 40 | [senvolement](https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn) | [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [senvolement](https://open.spotify.com/album/1WGOlaHW9q6nBP9X6u9vwW) | 1:14 |
 
-Snapshot ID: `AAAAAEpaHKVgg7BWSaCZ9fTRbBlUcorP`
+Snapshot ID: `AAAAAIvJknxU5XmKoF4HoFnmZWRv806U`

@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 287906,
       "name": "Piano 17",
       "url": "https://open.spotify.com/track/6n6P2a9Vf1hEmYmyFHnGg3"
@@ -1434,6 +1434,24 @@
       "duration_ms": 197573,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
+    },
+    {
+      "album": {
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297288,
+      "name": "The Age of Pisces",
+      "url": "https://open.spotify.com/track/1008laGbKi8scnByUbcjLT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,777 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,803 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 41 | [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 |
 | 42 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 43 | [Never Gonna Be](https://open.spotify.com/track/1xj8bt0orcDVHew3qe3H6G) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Never Gonna Be](https://open.spotify.com/album/7GGtW7Nl6UkDm6bd2eJkM1) | 3:56 |
-| 44 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 |
-| 45 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 44 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 45 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 |
 | 46 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
 | 48 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 88 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 89 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
 | 90 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
-| 91 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
-| 92 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
+| 91 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
+| 92 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
 | 93 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 94 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 95 | [Gone Country](https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 |
 | 100 | [Livin' On Love](https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:48 |
 
-Snapshot ID: `AAAAAOP/Xvv/9TPn7kFdi7yUEW14Py58`
+Snapshot ID: `AAAAABpx687OM/KB+0hpwH8us4Ta10UE`

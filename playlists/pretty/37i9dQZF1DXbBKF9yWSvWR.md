@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Leela Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,943 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,937 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Stargazing](https://open.spotify.com/track/7nUrhcVX8F1KUrkd07cSRY) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Stargazing](https://open.spotify.com/album/6l5AHOZgUmR4LXN2vsuiD2) | 2:58 |
 | 100 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 
-Snapshot ID: `AAAAAEjZGcMzqKGZYSp10h1v4qH4nct2`
+Snapshot ID: `AAAAAKTLwzI2pSmMxapejRsamqxk1lql`

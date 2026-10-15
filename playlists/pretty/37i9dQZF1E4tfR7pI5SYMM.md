@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 | 49 | [Mercury \(In Retrograde\)](https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7) | [Greg Maclennan](https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p) | [Mercury \(In Retrograde\)](https://open.spotify.com/album/3GpzNNG8OP1sByLaeouBos) | 2:31 |
 | 50 | [Alchemy](https://open.spotify.com/track/3orKbuMfrVYHCGM21Uz78u) | [Ox](https://open.spotify.com/artist/1QjqzABONYHSJQoar4E9i2) | [Alchemy](https://open.spotify.com/album/06ui8OeB5qoz0o0T1NaKQe) | 3:48 |
 
-Snapshot ID: `AAAAAFCIE8SzhP/eGuJstlPnvp6JM6uj`
+Snapshot ID: `AAAAAJXCKpNXfbi/afknbAZzb/Or57EQ`

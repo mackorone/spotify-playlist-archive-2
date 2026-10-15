@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,078 likes - 80 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,159 likes - 80 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
 | 80 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
 
-Snapshot ID: `AAAAAAZ3OPbhshotKzBHqbmJ02Aj+zhg`
+Snapshot ID: `AAAAAFDRN5r1dfYhfoCShdVGg/JSS2EL`

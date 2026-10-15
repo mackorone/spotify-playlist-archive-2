@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,000 likes - 166 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,988 likes - 166 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 165 | [Stadium Drive](https://open.spotify.com/track/3dK4tMxSslsWqiw4e6do3x) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Stadium Drive](https://open.spotify.com/album/70z4YaNdvomxL4JPAzVn1E) | 4:37 |
 | 166 | [Holy Moses](https://open.spotify.com/track/0F0rixNVdD8gRVkxOxQBUV) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Holy Moses](https://open.spotify.com/album/345Lz0uCZKZLPywjnVtBUi) | 2:40 |
 
-Snapshot ID: `AAAAAEhZxQ9M4nQSMs/n8nOccM6GHR+t`
+Snapshot ID: `AAAAAOgckSP+l4wm6A5IAuUrwx2jLu/+`

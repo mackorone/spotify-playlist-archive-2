@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945824,
+  "num_followers": 945805,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+whuWAbv7kT3RUh5mtOfETqaq1",
+  "snapshot_id": "AAAAAKIkHMyoLSrNXS5L8W43PWOrv1xd",
   "tracks": [
     {
       "added_at": "2026-10-09 03:00:30",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "duration_ms": 145197,
+      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 240272,
       "name": "Enquanto o Sol Brilhar - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 145197,
-      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Flor e \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Mural Dos Sonhos",
         "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 158122,
       "name": "Mural Dos Sonhos",
       "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Flor e \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 192799,
+      "name": "Tail\u00e2ndia - Ao Vivo",
+      "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 162464,
       "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
       "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 192799,
-      "name": "Tail\u00e2ndia - Ao Vivo",
-      "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
     },
     {
       "added_at": "2026-10-09 03:00:30",

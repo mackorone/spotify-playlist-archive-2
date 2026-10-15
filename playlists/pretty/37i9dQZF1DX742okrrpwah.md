@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > L2B, Adèle Castillon, Ninho x La Rvfleuze, Louane et Troye Sivan au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,490 likes - 97 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,448 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 6 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 | 7 | [1981 \- A COLORS SHOW](https://open.spotify.com/track/4DQeKvQEgzdRU0NeG53k83) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [1981 \- A COLORS SHOW](https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy) | 2:51 |
 | 8 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
-| 9 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
+| 9 | [7 SEULEMENT](https://open.spotify.com/track/35uQXEnm3tZcmW2faWSkfb) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [7 SEULEMENT](https://open.spotify.com/album/4R16CEYqKCWL1UxT04t8Zw) | 2:24 |
 | 10 | [Porque Te Vas](https://open.spotify.com/track/5Me4PKiVKQ1hzGbfRzH4Rz) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/124bmfhcgLb93nvKeTzAn3) | 2:53 |
 | 11 | [Fisherman](https://open.spotify.com/track/5rlWmKd3KYIkQQUizfUbhG) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Setting Record in Nashville](https://open.spotify.com/album/4DRbovatFFL8WmH3ZykiUc) | 3:03 |
 | 12 | [pop it](https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv) | 2:18 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 96 | [Ponder Neek](https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Ponder Neek](https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq) | 2:35 |
 | 97 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
 
-Snapshot ID: `AAAAAAZoATPXOV6DP6vmhLXFmUv5z0CZ`
+Snapshot ID: `AAAAAJbT0hV9gmwN4Y17schNAF5tVp6C`

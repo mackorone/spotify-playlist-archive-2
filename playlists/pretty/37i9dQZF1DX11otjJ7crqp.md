@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,446 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,703 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 150 | [Black Hole Baby Bottom Feeder](https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Black Hole Baby Bottom Feeder](https://open.spotify.com/album/2e496nVHcmNZEZvR3BDj66) | 3:44 |
 
-Snapshot ID: `AAAAAGTH+9W3SIYzchA1ZGX+FNLqK37d`
+Snapshot ID: `AAAAACPBVj5zuwcCIoJdoPxgdxrmLDaE`

@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
 | 100 | [The Stars Are Talking](https://open.spotify.com/track/5oAmIIkLRbOutlxLXXWbay) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [The Stars Are Talking](https://open.spotify.com/album/3Iiy7lavGPQUdHFFxc6Z1O) | 3:28 |
 
-Snapshot ID: `AAAAAGSnl5YD2ld5CcoK63BtQIjfnBRW`
+Snapshot ID: `AAAAAJ5+kfpNhEG3jbmcMxK+r6H4AvpR`

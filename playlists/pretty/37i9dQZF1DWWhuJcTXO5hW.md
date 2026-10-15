@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,821 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,824 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 30 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
 | 31 | [Evasion](https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 4:57 |
 | 32 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 |
-| 33 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
-| 34 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
+| 33 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
+| 34 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 35 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
 | 36 | [Sama' Ay Sihr Misr](https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455) | [Saber Abdelsattar](https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5) | [Alabanza \- Tasabih](https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0) | 4:35 |
 | 37 | [A Night In The Mountains](https://open.spotify.com/track/2jzVMkRBB97R6CEU77QWFs) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Blue Camel](https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj) | 8:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 50 | [D'un crépuscule, l'autre](https://open.spotify.com/track/4g429S9DBkgold5zSRTJQa) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA) | [Contes d'un misérable luth](https://open.spotify.com/album/11bEbaZkzjPf9l1phqxhbn) | 6:49 |
 
-Snapshot ID: `AAAAANeOJchd9l6CbLHpp6g0Zz7sxKFW`
+Snapshot ID: `AAAAAGetdd+ybIq61Guk2oh0SR7eEm1p`

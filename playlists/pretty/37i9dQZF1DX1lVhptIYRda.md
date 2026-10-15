@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Joshua Slone
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,638,231 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,637,927 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
 | 50 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
 
-Snapshot ID: `AAAAAB9Kx1LqOSHrhj4T3e3lJis5Yad0`
+Snapshot ID: `AAAAABGiYanaDObUkzcDsteFdqbdN8/4`

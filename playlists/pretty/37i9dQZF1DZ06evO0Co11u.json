@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 198999,
+  "num_followers": 198998,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADnLsy+50fttAXXz+5Pj8mx",
+  "snapshot_id": "as10gAAAAAAJshwGl/vr3c4zBAdm6ZUC",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 303173,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
       "artists": [
         {
@@ -352,13 +352,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+      "duration_ms": 303173,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
     },
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 244373,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
+      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
     },
     {
       "added_at": null,
@@ -459,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highlights From His Decca Years",
-        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 244373,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
-      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 297640,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Didn't He Ramble",
-        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver's Orchestra",
-          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo In Style (Expanded Edition)",
         "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 156333,
       "name": "Spooks",
       "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Didn't He Ramble",
+        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Louis Armstrong",
-        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
         "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 240040,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,

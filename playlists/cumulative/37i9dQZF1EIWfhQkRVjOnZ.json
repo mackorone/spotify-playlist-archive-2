@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 266653,
       "name": "Circle The Sky",
       "url": "https://open.spotify.com/track/5OW3hWZIfWIGa41N26sL6I"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 253920,
       "name": "Connected",
       "url": "https://open.spotify.com/track/3vkkXFwSQjjVoHeBTcX4ba"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/4c8aeX6RDtYhPSB3PJTzxp"
+      },
+      "artists": [
+        {
+          "name": "MYCHILDREN MYBRIDE",
+          "url": "https://open.spotify.com/artist/4Uc6biA3i00oRAWvIfjhlk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Crimson Grim",
+      "url": "https://open.spotify.com/track/7xpZCf829QQ48ffpW5lwDk"
+    },
+    {
+      "album": {
         "name": "Thegodmachine",
         "url": "https://open.spotify.com/album/2K2ivQUZCo1LWlA2ZN62gp"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 242906,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/4prky9H55Mo5jy63BJY2Ao"
@@ -1464,6 +1482,24 @@
       "duration_ms": 181400,
       "name": "Declaration",
       "url": "https://open.spotify.com/track/6fxeRe1K0bVM4MqCxxVKrY"
+    },
+    {
+      "album": {
+        "name": "Great Faith In Fools",
+        "url": "https://open.spotify.com/album/0M4FpSgm8ZkkGMJcSPTuQR"
+      },
+      "artists": [
+        {
+          "name": "The Air I Breathe",
+          "url": "https://open.spotify.com/artist/2esri1FQ20U2rQjfC7RA9C"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227293,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/0iGbZvEQaiwMhvANv5lztz"
     },
     {
       "album": {
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 290360,
       "name": "Live Love Die",
       "url": "https://open.spotify.com/track/6r9GDen0w849Cobr7Ljgqe"
@@ -2954,7 +2990,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 240453,
       "name": "Malevolence",
       "url": "https://open.spotify.com/track/3m5t9Z6DyQCjepVvz7sjNv"
@@ -3628,7 +3664,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 167472,
       "name": "People Are Crazy",
       "url": "https://open.spotify.com/track/4KP5Xuj6sli0sPa7nq53Di"
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Re-Ignite The Fires",
       "url": "https://open.spotify.com/track/2ivM2lU3FaRz67qQbQ8MB0"
@@ -3862,7 +3898,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4m7dudQWZ3Zr84WpssfcN4"
@@ -4424,7 +4460,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4460,7 +4496,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 281813,
       "name": "Sorry Seacrest It's Casey's Countdown",
       "url": "https://open.spotify.com/track/0QyuVvyW2NMBQcSKZT62Ob"
@@ -4874,7 +4910,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 244493,
       "name": "The First Words",
       "url": "https://open.spotify.com/track/6V8wuGpVJmzzyxHveZcvM0"
@@ -5472,7 +5508,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -5886,7 +5922,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
@@ -6156,7 +6192,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 189146,
       "name": "Wolf's Jaw",
       "url": "https://open.spotify.com/track/6Hv3BomCozhJmgBo9TUOCQ"

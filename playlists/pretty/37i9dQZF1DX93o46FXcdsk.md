@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,855 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,869 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 30 | [Dat Zou Mooi Zijn](https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Muzikanten Dansen Niet](https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy) | 3:19 |
 | 31 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
 | 32 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
-| 33 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
-| 34 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
+| 33 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
+| 34 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
 | 35 | [Pak Maar M'n Hand](https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 3:31 |
 | 36 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
 | 37 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 49 | [Mijn Van Straat Geredde Roos](https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 3:27 |
 | 50 | [Kijk Omhoog](https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 2:56 |
 
-Snapshot ID: `AAAAAJNRgqUJsQvIzXMOr/JqBziekhNG`
+Snapshot ID: `AAAAAJoy7m7nDKxZEVCk05gIliMcMEgp`

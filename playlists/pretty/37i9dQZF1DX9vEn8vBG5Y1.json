@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 364817,
+  "num_followers": 364945,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9h7p/W5dBA9zZ7t34XmSxHgVhd",
+  "snapshot_id": "AAAAAGplddHFaqxJvVO8mD7te9nBqmRB",
   "tracks": [
     {
       "added_at": "2024-07-02 21:20:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Lonely No More",
-      "url": "https://open.spotify.com/track/4faFAhOflLzhfJECveRwva"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 239240,
       "name": "Side",
       "url": "https://open.spotify.com/track/5gfmEhfgMIcV3He1wgDGJY"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Lonely No More",
+      "url": "https://open.spotify.com/track/4faFAhOflLzhfJECveRwva"
     },
     {
       "added_at": "2024-07-02 21:20:51",

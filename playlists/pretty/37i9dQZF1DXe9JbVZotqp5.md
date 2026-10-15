@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,337 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,342 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 50 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 |
 | 51 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 52 | [Faithfully \(2023 Remaster\)](https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 4:26 |
-| 53 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
-| 54 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 |
+| 53 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 |
+| 54 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
 | 55 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
 | 56 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
 | 57 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 99 | [Ever the Same](https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 4:16 |
 | 100 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 
-Snapshot ID: `AAAAAPL9IDUHIIKwPUnaEW7MT+GX8+j5`
+Snapshot ID: `AAAAALpQNDwEnnacCJ709RaFjjYSoAuy`

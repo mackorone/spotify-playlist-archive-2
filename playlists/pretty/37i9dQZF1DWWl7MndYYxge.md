@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,662 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,640 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 40 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 41 | [Such a Shame](https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Natural History \- The Very Best of Talk Talk](https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ) | 4:17 |
 | 42 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
-| 43 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
-| 44 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le train de mes souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
+| 43 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le train de mes souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
+| 44 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
 | 45 | [Still Loving You](https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV) | 6:43 |
-| 46 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
-| 47 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
+| 46 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
+| 47 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 48 | [Say Say Say](https://open.spotify.com/track/2iwhqrveOYC8XLB7GZm63G) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [All The Best \(UK Version\)](https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4) | 3:54 |
 | 49 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 | 50 | [On va s'aimer](https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [Liberté](https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu) | 4:06 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 69 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 70 | [Maniac \- From "Flashdance" Soundtrack](https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:07 |
 | 71 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
-| 72 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
-| 73 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 |
+| 72 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 |
+| 73 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 74 | [Sans contrefaçon](https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0) | 4:06 |
 | 75 | [Histoire d'1 soir \(Bye bye les galères\) \- Version originale 1983](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Best of Bibi Flash Collector \(Le meilleur des années 80\)](https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg) | 4:36 |
 | 76 | [Africa](https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb) | [Rose Laurens](https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM) | [Best of Rose Laurens](https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 79 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 |
 | 80 | [Les Démons De Minuit](https://open.spotify.com/track/2ShTk16F2cHvhQtHGlxTR7) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les Démons De Minuit](https://open.spotify.com/album/5GNpfAjxG97J1Qka2VyqY9) | 3:31 |
 
-Snapshot ID: `AAAAAKYV7wGWHY4+yxLvPMvXnB0jv4wM`
+Snapshot ID: `AAAAAJYLsYm4W5JM+UU/CjPCm7LNxfgf`

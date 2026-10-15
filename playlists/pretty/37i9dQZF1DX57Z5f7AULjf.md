@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > we outside all summer 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,090 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,094 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 27 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
 | 28 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
 | 29 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
-| 30 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
-| 31 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
+| 30 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
+| 31 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 32 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
 | 33 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 34 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
-| 35 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
-| 36 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 35 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 36 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
 | 37 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 38 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 39 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 49 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
 | 50 | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [Rosecrans HopOut](https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M), [PHOPHO8IGHT](https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu) | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT) | 3:47 |
 
-Snapshot ID: `AAAAAA793s2m5NOoKZFzIVkEByt2zapm`
+Snapshot ID: `AAAAAFoSpQRiqs/d+mPAGtBoYzIU6gYy`

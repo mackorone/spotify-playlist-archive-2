@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,885 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,895 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 23 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
 | 24 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 |
 | 25 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/3gYr4NDoTEOUsHzxfttYPK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6) | 4:28 |
-| 26 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
-| 27 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
+| 26 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
+| 27 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 |
 | 28 | [Burn The Witch](https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 3:35 |
 | 29 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 |
-| 30 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 31 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 30 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 31 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 32 | [Devil Town](https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Noise Floor \(Rarities: 1998\-2005\)](https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D) | 3:03 |
 | 33 | [Can't Get You Out of My Head](https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Great Awakening](https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN) | 3:10 |
-| 34 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
-| 35 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
-| 36 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
+| 34 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
+| 35 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
+| 36 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
 | 37 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 |
 | 38 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
 | 39 | [Call Me The Witch](https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 41 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
 | 42 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
 | 43 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 |
-| 44 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
-| 45 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
+| 44 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
+| 45 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
 | 46 | [Vampire Again](https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Vampire Again](https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ) | 4:02 |
 | 47 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 | 48 | [Frankenstein](https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Frankenstein](https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB) | 4:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 89 | [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 |
 | 90 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 |
 
-Snapshot ID: `AAAAALL807thHYvWk6J9QB3pjAJW2HbZ`
+Snapshot ID: `AAAAAEXPChiJ+69FdEsMrnGBgO7gDbOx`

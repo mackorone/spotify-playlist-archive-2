@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-1,199 songs - 2 day 20 hr 50 min
+1,200 songs - 2 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-06 | 2022-04-15 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-06 |  |
 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 | 2024-10-19 | 2025-12-04 |
+| [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2026-10-14 |  |
 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 | 2025-04-30 |  |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-06-06 | 2025-04-15 |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-24 | 2022-12-01 |
@@ -706,7 +707,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-12 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-05-07 | 2023-05-20 |
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-08-15 |
-| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-13 |  |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-13 | 2026-10-15 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-22 | 2023-08-10 |
 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2025-09-27 | 2026-07-18 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2025-12-23 |  |

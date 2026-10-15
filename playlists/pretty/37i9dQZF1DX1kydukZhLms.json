@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1574243,
+  "num_followers": 1574394,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZYE7joS4w9aRzXke2vUe9LxHgu",
+  "snapshot_id": "AAAAAJ6/cshbWLmT1Sv0BMtdNCeSOOLo",
   "tracks": [
     {
       "added_at": "2026-01-09 05:00:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 478133,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 478133,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cherry Pie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Streets - A Rock Opera (2011 Edition)",
         "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 342426,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Cherry Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
       },
@@ -1411,34 +1395,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1463,18 +1431,34 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 209246,
-      "name": "When A Blind Man Cries - Remastered",
-      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209246,
+      "name": "When A Blind Man Cries - Remastered",
+      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Get A Grip (Reissue - Remaster)",
-        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Vol. 4 (2009 Remastered Version)",
         "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 282493,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Get A Grip (Reissue - Remaster)",
+        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 356160,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
     },
     {
       "added_at": "2026-01-09 05:00:22",

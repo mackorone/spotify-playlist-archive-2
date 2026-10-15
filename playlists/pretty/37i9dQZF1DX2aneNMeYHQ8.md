@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,680 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,642 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 36 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 37 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 38 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
-| 39 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 |
-| 40 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
+| 39 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
+| 40 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 |
 | 41 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 42 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 43 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 82 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 83 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
 | 84 | [Tanana](https://open.spotify.com/track/2eTPYfu84D0msm8ibxZ1La) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 3:19 |
-| 85 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
-| 86 | [Red Rocking Chair](https://open.spotify.com/track/1u13aCgd6aurUwkuUu4vR3) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Red Rocking Chair](https://open.spotify.com/album/5UXoHjimRykqta25wy8w2B) | 6:28 |
+| 85 | [Red Rocking Chair](https://open.spotify.com/track/1u13aCgd6aurUwkuUu4vR3) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Red Rocking Chair](https://open.spotify.com/album/5UXoHjimRykqta25wy8w2B) | 6:28 |
+| 86 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 87 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
 | 88 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
 | 89 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 |
 | 100 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |
 
-Snapshot ID: `AAAAAFeZb+1byOkkBHKhSWd7OP6AS/9K`
+Snapshot ID: `AAAAAFda+UGOuEypZJy2n0Uj3ZNBrFDm`

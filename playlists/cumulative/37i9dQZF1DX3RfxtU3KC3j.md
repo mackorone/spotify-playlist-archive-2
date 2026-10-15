@@ -2,7 +2,7 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: İsa Özkocaman
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Şebnem Ferah
 
 939 songs - 2 day 6 hr 34 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 580686,
+  "num_followers": 580782,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABVGt/YS76ZkDWUGT304Kuj",
+  "snapshot_id": "as10gAAAAAAywFzCmPpOJLp2An54/x7o",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 235613,
       "name": "Make Me Bad",
       "url": "https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 227590,
       "name": "Somebody Someone",
       "url": "https://open.spotify.com/track/4V78u7Pbx6G33eej60wwOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 234018,
-      "name": "Beg for Me",
-      "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 349506,
       "name": "Faget",
       "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 234018,
+      "name": "Beg for Me",
+      "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 170373,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
     },
     {
       "added_at": null,

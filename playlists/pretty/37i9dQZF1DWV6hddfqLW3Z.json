@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809871,
+  "num_followers": 809872,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVBoZcoMwc0S50hR2QwwF8BKOPj",
+  "snapshot_id": "AAAAAF3nshqQRPpGBW8y6uS62tMlMVwW",
   "tracks": [
     {
       "added_at": "2026-10-09 17:07:23",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 212320,
       "name": "N\u00e3o Olha Assim Pra Mim",
       "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2026-10-09 17:07:23",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 156906,
       "name": "Voltar \u00e0 Bahia",
       "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2026-10-09 17:07:23",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Concrete Jungle",
-      "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
         "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00e1lbum Comentado)",
         "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 207933,
       "name": "I Don't Want To Talk About It",
       "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"
     },
     {
       "added_at": "2026-10-09 17:07:23",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
-      },
-      "artists": [
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
         "name": "Abrigo",
         "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 250000,
       "name": "Infinito em n\u00f3s",
       "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
+        "name": "Ax\u00e9 Bab\u00e1",
+        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Le\u00e3o",
+          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Vumbora Amar",
+      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
     }
   ],
   "unique_name": "Cafezinho",

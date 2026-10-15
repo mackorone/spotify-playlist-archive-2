@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 55 min
+87 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Peace of Mind](https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 4:22 | 2025-01-03 |  |
 | [Perfect Balance](https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:54 | 2025-01-03 |  |
 | [Piano 17](https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Piano 17](https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g) | 4:47 | 2025-09-28 | 2025-12-04 |
-| [Piano 17](https://open.spotify.com/track/6n6P2a9Vf1hEmYmyFHnGg3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 4:47 | 2026-04-16 | 2026-07-04 |
+| [Piano 17](https://open.spotify.com/track/6n6P2a9Vf1hEmYmyFHnGg3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 4:47 | 2026-04-16 |  |
 | [Piano Allegretto](https://open.spotify.com/track/7tDBLBdtP38f4TRZQsmhTL) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:50 | 2025-01-03 | 2025-01-30 |
 | [POWER OF THE SEA](https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:37 | 2025-01-03 | 2026-09-11 |
 | [Sakura](https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:49 | 2025-01-03 | 2026-10-10 |
@@ -86,6 +86,7 @@
 | [Sweet awakening](https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:35 | 2025-01-03 |  |
 | [Sweet Dream](https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:17 | 2025-06-07 |  |
 | [Sweet Dream](https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Hintergrundmusik zum Lesen](https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm) | 3:17 | 2025-01-03 | 2025-06-07 |
+| [The Age of Pisces](https://open.spotify.com/track/1008laGbKi8scnByUbcjLT) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Winter Impressions](https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR) | 4:57 | 2026-10-15 |  |
 | [The Age of Pisces](https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [A Tale in Paris](https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ) | 4:57 | 2025-01-03 | 2025-04-20 |
 | [The Heart's Monologue](https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:54 | 2026-01-22 |  |
 | [Theme Music for a Dream](https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:29 | 2025-01-03 |  |

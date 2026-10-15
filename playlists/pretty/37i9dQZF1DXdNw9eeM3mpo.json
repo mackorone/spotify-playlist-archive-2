@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Estramb\u00f3ticos en portada.",
-  "num_followers": 492990,
+  "num_followers": 493015,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMxdyQtRaOMCyPFRzxQ3nwhU+Yi",
+  "snapshot_id": "AAAAAN4fGuU+kNh+D6gw6By4fbZeIwlK",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:07",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Circolog\u00eda",
         "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 179720,
       "name": "Que Corran",
       "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 278343,
+      "name": "Entre Vos y Yo",
+      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 278343,
-      "name": "Entre Vos y Yo",
-      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Garras",
         "url": "https://open.spotify.com/album/54xRK25OE1tb62mZZGqpI3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 222978,
       "name": "Garras",
       "url": "https://open.spotify.com/track/1f3jwnlDVE5F9t3HPN4AXI"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "La Ultima Carta - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "La Ultima Carta - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "No Te Apartes de M\u00ed",
         "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1347,38 +1363,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "No Doy Mi Alma",
-        "url": "https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 227729,
-      "name": "No Doy Mi Alma",
-      "url": "https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Chamuyo",
         "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Baile Brutal",
-        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
+        "name": "No Doy Mi Alma",
+        "url": "https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 210056,
-      "name": "Baile Brutal",
-      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
+      "duration_ms": 227729,
+      "name": "No Doy Mi Alma",
+      "url": "https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Baile Brutal",
+        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 210056,
+      "name": "Baile Brutal",
+      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "El Mosquito",
         "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 188772,
       "name": "El Mosquito",
       "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
         "name": "Estoy en Paz",
         "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 199500,
       "name": "Quiero Bailar Ska!!!",
       "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+    },
+    {
+      "added_at": "2026-10-02 06:00:07",
+      "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-10-02 06:00:07",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
       "artists": [
         {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2026-10-02 06:00:07",
@@ -1679,22 +1695,6 @@
       "duration_ms": 253285,
       "name": "Voy a curarme de ti",
       "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
-    },
-    {
-      "added_at": "2026-10-02 06:00:07",
-      "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2026-10-02 06:00:07",

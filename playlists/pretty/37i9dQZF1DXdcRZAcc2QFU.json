@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy with 90s 'dhinchak' beats. Cover - Khal Nayak",
-  "num_followers": 711668,
+  "num_followers": 711931,
   "original_name": "90s Dance Bollywood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbgglp0XXSeQhVOjKFMRgrXCnQo",
+  "snapshot_id": "AAAAAHDPLjC6I0ek5x6w85WifsarDOPd",
   "tracks": [
     {
       "added_at": "2026-04-01 08:13:24",
@@ -848,8 +848,16 @@
       },
       "artists": [
         {
+          "name": "Rajesh Roshan",
+          "url": "https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD"
+        },
+        {
           "name": "Udit Narayan",
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
         }
       ],
       "duration_ms": 372000,

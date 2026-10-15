@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Wage War
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,592 likes - 209 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,724 likes - 209 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 208 | [Final Warning](https://open.spotify.com/track/7rdqatDiFVRTp3bXf5A9mo) | [Wraith](https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS) | [Final Warning](https://open.spotify.com/album/3C04kYccMJLR7RwJC3KFWS) | 2:48 |
 | 209 | [Disintegrate](https://open.spotify.com/track/5ZOt8KwM6BFtfoFqntMHFA) | [Extol](https://open.spotify.com/artist/3A6RBkFY3kND3Z5kXM3Cz3) | [Disintegrate](https://open.spotify.com/album/13YmsNLVArbQZP0n9Rh9QY) | 4:28 |
 
-Snapshot ID: `AAAAAIMdv1ZhKoYD7D4sBtMe/KntswpR`
+Snapshot ID: `AAAAAPWVyLKIwheN1eCVfi4yQumOjuw2`

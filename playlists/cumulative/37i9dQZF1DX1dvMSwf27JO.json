@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 205226,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB"
@@ -10144,6 +10144,40 @@
       "duration_ms": 154400,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
+    },
+    {
+      "album": {
+        "name": "Banba",
+        "url": "https://open.spotify.com/album/3tMOKOhKYLBPEsXmj373rG"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Hirsh",
+          "url": "https://open.spotify.com/artist/0ckArTsmiRmEIOB8GwvKyu"
+        },
+        {
+          "name": "Kweku Collins",
+          "url": "https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS"
+        },
+        {
+          "name": "Nick Kosma",
+          "url": "https://open.spotify.com/artist/109htcq4m4PNL7vmZNRUt6"
+        },
+        {
+          "name": "RaneRaps",
+          "url": "https://open.spotify.com/artist/2EtW8G5t9dtvsKs5PZLbdo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/2qOki9HRTDPFM0IA7o30zV"
     },
     {
       "album": {

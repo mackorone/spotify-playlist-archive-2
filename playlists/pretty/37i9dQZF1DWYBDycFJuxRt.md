@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI \*👉 <a href="https://spice.eplus.jp/articles/349667">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,683 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,716 likes - 98 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 35 | [BORO](https://open.spotify.com/track/25Sn15n8rNaXPnqENO18dm) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [ZUNOZU](https://open.spotify.com/album/3kPzP8uSUNsmjCijcGhCYw) | 2:14 |
 | 36 | [夢心地](https://open.spotify.com/track/3i3FrUmNLW2C7Kg3d1teK2) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [夢心地](https://open.spotify.com/album/2lfdZZXN9hG9eu6oqiHZIW) | 3:06 |
 | 37 | [lost child](https://open.spotify.com/track/0malRIspJdEgbXYxYiP4IU) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [lost child](https://open.spotify.com/album/5r1CErElcmXVYJP21FzzAd) | 3:41 |
-| 38 | [Track 5](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 0:00 |
+| 38 | [コールドスリープ](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 5:58 |
 | 39 | [花であることを忘れたか](https://open.spotify.com/track/7GkmBZvYCjDIrpjKdnxU4G) | [生田斗真](https://open.spotify.com/artist/1UzZxtmdIe9nS7aNCpQUR7) | [花であることを忘れたか](https://open.spotify.com/album/5EqGOpQ097E1zIUwsAJQyB) | 3:22 |
 | 40 | [Golden Moonlight](https://open.spotify.com/track/76ZEKR8cfWK14ytTbe8R6D) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Golden Moonlight](https://open.spotify.com/album/1dQYy1AiKmMjsxlkdqPSjz) | 5:09 |
 | 41 | [bow wow](https://open.spotify.com/track/2awrLK3zUILxh6Jc3G2FQV) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4), [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [bow wow](https://open.spotify.com/album/0miZErkqxT4TcCtpqf77Lb) | 2:29 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 73 | [FLY2FLY](https://open.spotify.com/track/0jfblxMcrC7SG5kbtRrxbZ) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [FLY2FLY](https://open.spotify.com/album/6IDQAlAiQRmMBdOts71RUN) | 3:12 |
 | 74 | [さよならリバー](https://open.spotify.com/track/5uNVdgDflVYsgxeR3ltKNz) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [さよならリバー](https://open.spotify.com/album/6LVGUT4wBa43Ze88ZPDjMX) | 5:00 |
 | 75 | [都市開発](https://open.spotify.com/track/5eaTDSWKRc41Im1UrYBJpg) | [orlik](https://open.spotify.com/artist/5ypY2kcdpE3ce1OuAKzPUe) | [都市開発](https://open.spotify.com/album/2NPpeleiFVE5oPcPwyYNxh) | 3:56 |
-| 76 | [2wks](https://open.spotify.com/track/3oc6P7pvzVAlgBeb7i8UWI) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd) | [2wks](https://open.spotify.com/album/4hK7IRRtlH01jGJ8xk4HRv) | 3:25 |
+| 76 | [2wks](https://open.spotify.com/track/3oc6P7pvzVAlgBeb7i8UWI) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Fujimoto Tetsuro](https://open.spotify.com/artist/1kRDHnByZaEdc4urO4X32P) | [2wks](https://open.spotify.com/album/4hK7IRRtlH01jGJ8xk4HRv) | 3:25 |
 | 77 | [Next Satan's Hint](https://open.spotify.com/track/5rlY7eqyemVENjpMNDG39Q) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [Next Satan's Hint](https://open.spotify.com/album/1vfksU9pnddup4yZczmx7F) | 3:26 |
 | 78 | [あの子の題名](https://open.spotify.com/track/5ZTFYIuKOFCG9cyv9OT4Id) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [あの子の題名](https://open.spotify.com/album/1jrg4z8x9GTofwSWoeLboL) | 3:45 |
 | 79 | [スーモア](https://open.spotify.com/track/2rQKmlAia4GQGV7ngFNv0N) | [chef's](https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa) | [スーモア](https://open.spotify.com/album/4UECbU2BcmzVgRpZ2f2p67) | 3:29 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 89 | [空白と: 散文, 2026 Oct.](https://open.spotify.com/track/6bN6MVBmMmr6BiXxOtYJZt) | [三田珠理](https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws) | [空白と: 散文, 2026 Oct.](https://open.spotify.com/album/4zwHOrQu0e2ZYhx9BLKQkK) | 1:30 |
 | 90 | [killer tune kills me](https://open.spotify.com/track/4b0l2WqaqBvszfRcsQU9jN) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a), [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [killer tune kills me](https://open.spotify.com/album/2dLEsFyHhD1sYrcqEMoQ0q) | 4:13 |
 | 91 | [恋じゃなくなっても](https://open.spotify.com/track/1pi0HSU9nN9Dv9COnNjNdF) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [恋じゃなくなっても](https://open.spotify.com/album/036t8IBVjuk3ndCHCYuATf) | 4:03 |
-| 92 | [Track 4](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 0:00 |
+| 92 | [5820](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 3:29 |
 | 93 | [おっちょこブラザーズ](https://open.spotify.com/track/38k1ZmsCCXVsqFzYOXWa2P) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [おっちょこブラザーズ](https://open.spotify.com/album/3OVLiB5hkBozIzclkJmjQP) | 2:19 |
 | 94 | [いた場所](https://open.spotify.com/track/55yp809IIdEe2UKpAAwbAa) | [廣瀬楓バンド](https://open.spotify.com/artist/45YkkeHD6DFQP2vRdi0QAN) | [今になって](https://open.spotify.com/album/3POjROUgTY6IKmvDJlFDs5) | 4:34 |
 | 95 | [FOLLOW ME !](https://open.spotify.com/track/75doJyupVednTsvXMynqIE) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [FOLLOW ME !](https://open.spotify.com/album/5bSEhBgMV4JhUBqfmhmFgq) | 2:29 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 97 | [風のたより](https://open.spotify.com/track/3wjWmkYxPAMG5IMnhYnIav) | [こがれ](https://open.spotify.com/artist/4hpoOuqcdqKGiQ8f7HUKlr) | [風のたより](https://open.spotify.com/album/7z22rz3qNxPffyawbsB3Kr) | 3:59 |
 | 98 | [ルーシッドの空言](https://open.spotify.com/track/4q6ULPdafyQa9CW3cbtb0H) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [dismount](https://open.spotify.com/album/2nIaVj4ljy1seNnWdS2GoK) | 3:38 |
 
-Snapshot ID: `AAAAAKm0/Uhch8PeqdoszT53aM+ILIzf`
+Snapshot ID: `AAAAAFLzbRFZ1+ya+QMMi7vXSHVHglUP`

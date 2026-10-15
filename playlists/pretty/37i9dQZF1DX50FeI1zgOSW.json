@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Smith Asher",
-  "num_followers": 21554,
+  "num_followers": 21560,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeQKJcaY0/Q9aXVonnkN7elZlCX",
+  "snapshot_id": "AAAAADCIxUCWNegAB+aQrhRmanPkMVqr",
   "tracks": [
     {
       "added_at": "2026-09-28 12:39:28",
@@ -89,6 +89,162 @@
       "url": "https://open.spotify.com/track/0V0C9pofS9nvn0EGU5kgfE"
     },
     {
+      "added_at": "2026-07-16 15:08:35",
+      "album": {
+        "name": "Anbin Nadhiye",
+        "url": "https://open.spotify.com/album/4Cx3sNXn94a97lcbP6bL2i"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "duration_ms": 201082,
+      "name": "Anbin Nadhiye",
+      "url": "https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X"
+    },
+    {
+      "added_at": "2026-10-07 10:00:42",
+      "album": {
+        "name": "Kannaale",
+        "url": "https://open.spotify.com/album/5tvDQgdVjbw20ggs9ZGvl5"
+      },
+      "artists": [
+        {
+          "name": "Harsh",
+          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+        }
+      ],
+      "duration_ms": 200943,
+      "name": "Kannaale",
+      "url": "https://open.spotify.com/track/4n9zZCRGvyOoosqQ44DdWw"
+    },
+    {
+      "added_at": "2026-09-24 14:39:03",
+      "album": {
+        "name": "On Kanna Vachi",
+        "url": "https://open.spotify.com/album/4nAklZvH1ve1etMqnD4UlO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "duration_ms": 208499,
+      "name": "On Kanna Vachi",
+      "url": "https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3"
+    },
+    {
+      "added_at": "2026-09-03 06:04:32",
+      "album": {
+        "name": "Ottaa Kili",
+        "url": "https://open.spotify.com/album/0D8bnRSno6JO9bm96kJZ1k"
+      },
+      "artists": [
+        {
+          "name": "Arif Ansar",
+          "url": "https://open.spotify.com/artist/3nkD8hzJSx5c4sfx2Pg309"
+        },
+        {
+          "name": "Yadu Krishnan K",
+          "url": "https://open.spotify.com/artist/1I6YuaNMRm0Jf8WWcSpfyz"
+        },
+        {
+          "name": "Nihara Harsh",
+          "url": "https://open.spotify.com/artist/7ftjIGY3IRCc1wnMGggNMa"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        }
+      ],
+      "duration_ms": 216425,
+      "name": "Ottaa Kili",
+      "url": "https://open.spotify.com/track/4r7O9WhyMeDJ7RGEoCYpei"
+    },
+    {
+      "added_at": "2026-10-10 10:17:36",
+      "album": {
+        "name": "Takkunudhan",
+        "url": "https://open.spotify.com/album/6eS16gt6pZ7nWOQ4i1IZGi"
+      },
+      "artists": [
+        {
+          "name": "Santhan Anebajagane",
+          "url": "https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq"
+        },
+        {
+          "name": "Murali Gunasekaran",
+          "url": "https://open.spotify.com/artist/5chCsRDtovQiVt3szfPxpK"
+        }
+      ],
+      "duration_ms": 234837,
+      "name": "Takkunudhan",
+      "url": "https://open.spotify.com/track/6NBTlwHpK1IBIYKgUAvfSB"
+    },
+    {
+      "added_at": "2026-04-23 06:49:33",
+      "album": {
+        "name": "Ey Pulla",
+        "url": "https://open.spotify.com/album/0larnrAJuEKwu116l7ewJN"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Ey Pulla",
+      "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
+    },
+    {
+      "added_at": "2026-09-24 09:46:26",
+      "album": {
+        "name": "Kadaloram",
+        "url": "https://open.spotify.com/album/3OyrERc9er1wy2zWbSamui"
+      },
+      "artists": [
+        {
+          "name": "Amos Paul",
+          "url": "https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9"
+        },
+        {
+          "name": "Selojan",
+          "url": "https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU"
+        }
+      ],
+      "duration_ms": 211017,
+      "name": "Kadaloram",
+      "url": "https://open.spotify.com/track/1mf8GPpdVh8477VbutgIOE"
+    },
+    {
+      "added_at": "2026-10-15 01:33:34",
+      "album": {
+        "name": "Ondrai Serum",
+        "url": "https://open.spotify.com/album/4p3FcRjruyp7DWEH3ImGT4"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Krishna",
+          "url": "https://open.spotify.com/artist/6uqGFuLWVCrHeyyX9t8mDb"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "Ondrai Serum",
+      "url": "https://open.spotify.com/track/6OpkuROE3ZVzyOcRSzlDCS"
+    },
+    {
       "added_at": "2026-10-05 16:12:15",
       "album": {
         "name": "High Court",
@@ -129,22 +285,6 @@
       "url": "https://open.spotify.com/track/1JQvFWna5qOVptgrkI2vIu"
     },
     {
-      "added_at": "2026-10-13 09:10:14",
-      "album": {
-        "name": "Ninaivu Maaligai",
-        "url": "https://open.spotify.com/album/3sY4Gjyijp8iPkbKBAgHaa"
-      },
-      "artists": [
-        {
-          "name": "Siennor",
-          "url": "https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Vaa",
-      "url": "https://open.spotify.com/track/6bdcbleLbKHPTYKQnbZ6OA"
-    },
-    {
       "added_at": "2026-09-15 12:27:11",
       "album": {
         "name": "Suzhal (From \"Think Indie\")",
@@ -161,52 +301,20 @@
       "url": "https://open.spotify.com/track/1t3LWkNGE74hItJrnyqmi8"
     },
     {
-      "added_at": "2026-10-07 10:00:42",
+      "added_at": "2026-10-13 09:10:14",
       "album": {
-        "name": "Kannaale",
-        "url": "https://open.spotify.com/album/5tvDQgdVjbw20ggs9ZGvl5"
+        "name": "Ninaivu Maaligai",
+        "url": "https://open.spotify.com/album/3sY4Gjyijp8iPkbKBAgHaa"
       },
       "artists": [
         {
-          "name": "Harsh",
-          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+          "name": "Siennor",
+          "url": "https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31"
         }
       ],
-      "duration_ms": 200943,
-      "name": "Kannaale",
-      "url": "https://open.spotify.com/track/4n9zZCRGvyOoosqQ44DdWw"
-    },
-    {
-      "added_at": "2026-09-24 14:39:03",
-      "album": {
-        "name": "On Kanna Vachi",
-        "url": "https://open.spotify.com/album/4nAklZvH1ve1etMqnD4UlO"
-      },
-      "artists": [
-        {
-          "name": "Saurav Srisan",
-          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
-        }
-      ],
-      "duration_ms": 208499,
-      "name": "On Kanna Vachi",
-      "url": "https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3"
-    },
-    {
-      "added_at": "2026-07-16 15:08:35",
-      "album": {
-        "name": "Anbin Nadhiye",
-        "url": "https://open.spotify.com/album/4Cx3sNXn94a97lcbP6bL2i"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 201082,
-      "name": "Anbin Nadhiye",
-      "url": "https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X"
+      "duration_ms": 357160,
+      "name": "Vaa",
+      "url": "https://open.spotify.com/track/6bdcbleLbKHPTYKQnbZ6OA"
     },
     {
       "added_at": "2026-10-13 09:10:14",
@@ -225,90 +333,6 @@
       "url": "https://open.spotify.com/track/0Unp6q6WWbPfnjB5VJPVVS"
     },
     {
-      "added_at": "2026-10-05 16:12:15",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/47HhvsCPvf1oGZe6MAjvGy"
-      },
-      "artists": [
-        {
-          "name": "Vengiruth",
-          "url": "https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv"
-        }
-      ],
-      "duration_ms": 201692,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7JU8Mh9aBe0UIYFlyk8fMl"
-    },
-    {
-      "added_at": "2026-09-03 06:04:32",
-      "album": {
-        "name": "Ottaa Kili",
-        "url": "https://open.spotify.com/album/0D8bnRSno6JO9bm96kJZ1k"
-      },
-      "artists": [
-        {
-          "name": "Arif Ansar",
-          "url": "https://open.spotify.com/artist/3nkD8hzJSx5c4sfx2Pg309"
-        },
-        {
-          "name": "Yadu Krishnan K",
-          "url": "https://open.spotify.com/artist/1I6YuaNMRm0Jf8WWcSpfyz"
-        },
-        {
-          "name": "Nihara Harsh",
-          "url": "https://open.spotify.com/artist/7ftjIGY3IRCc1wnMGggNMa"
-        },
-        {
-          "name": "Ahamed Shyam",
-          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
-        }
-      ],
-      "duration_ms": 216425,
-      "name": "Ottaa Kili",
-      "url": "https://open.spotify.com/track/4r7O9WhyMeDJ7RGEoCYpei"
-    },
-    {
-      "added_at": "2026-09-24 09:46:26",
-      "album": {
-        "name": "Kadaloram",
-        "url": "https://open.spotify.com/album/3OyrERc9er1wy2zWbSamui"
-      },
-      "artists": [
-        {
-          "name": "Amos Paul",
-          "url": "https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9"
-        },
-        {
-          "name": "Selojan",
-          "url": "https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU"
-        }
-      ],
-      "duration_ms": 211017,
-      "name": "Kadaloram",
-      "url": "https://open.spotify.com/track/1mf8GPpdVh8477VbutgIOE"
-    },
-    {
-      "added_at": "2026-10-10 10:17:36",
-      "album": {
-        "name": "Takkunudhan",
-        "url": "https://open.spotify.com/album/6eS16gt6pZ7nWOQ4i1IZGi"
-      },
-      "artists": [
-        {
-          "name": "Santhan Anebajagane",
-          "url": "https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq"
-        },
-        {
-          "name": "Murali Gunasekaran",
-          "url": "https://open.spotify.com/artist/5chCsRDtovQiVt3szfPxpK"
-        }
-      ],
-      "duration_ms": 234837,
-      "name": "Takkunudhan",
-      "url": "https://open.spotify.com/track/6NBTlwHpK1IBIYKgUAvfSB"
-    },
-    {
       "added_at": "2026-10-13 09:10:14",
       "album": {
         "name": "Ninaivu Maaligai",
@@ -323,26 +347,6 @@
       "duration_ms": 244080,
       "name": "Sambalam",
       "url": "https://open.spotify.com/track/5PWMpLJustsfx2RtNOO084"
-    },
-    {
-      "added_at": "2026-04-23 06:49:33",
-      "album": {
-        "name": "Ey Pulla",
-        "url": "https://open.spotify.com/album/0larnrAJuEKwu116l7ewJN"
-      },
-      "artists": [
-        {
-          "name": "Vidusan Kaneswaran",
-          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
-        },
-        {
-          "name": "BSP",
-          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Ey Pulla",
-      "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
     },
     {
       "added_at": "2026-10-05 16:12:15",

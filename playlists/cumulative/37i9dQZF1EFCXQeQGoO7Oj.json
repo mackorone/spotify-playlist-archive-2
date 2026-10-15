@@ -330,6 +330,24 @@
     {
       "album": {
         "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6Efes24a08WrM5PTxG8rkW"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/6awSBjA0BdJK0dJgHFLdtR"
+    },
+    {
+      "album": {
+        "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg"
       },
       "artists": [
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 209360,
       "name": "4ever",
       "url": "https://open.spotify.com/track/1Ci7oic2gpYknc5TujzCUd"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3947,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Everything I'm Not",
+      "url": "https://open.spotify.com/track/1Ofm6uBEI1kBfztltCyQpd"
+    },
+    {
+      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg"
       },
@@ -3958,7 +3994,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 201973,
       "name": "Everything I'm Not",
       "url": "https://open.spotify.com/track/5mO8VNRwbrPqbfLDHE5rre"
@@ -8104,7 +8140,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 193837,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm"
@@ -8278,7 +8314,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 233490,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2fmyrECK6bdfoGven0UMZx"
@@ -10144,7 +10180,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -11316,7 +11352,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"

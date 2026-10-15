@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,055 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,879 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 18 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
 | 19 | [A Veces A Besos \- Remix](https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [A Veces A Besos \(Remix\)](https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf) | 3:36 |
 | 20 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
-| 21 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
-| 22 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
+| 21 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
+| 22 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
 | 23 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 24 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
-| 25 | [Cuéntame](https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Cuéntame](https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7) | 2:41 |
-| 26 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
+| 25 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
+| 26 | [Cuéntame](https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Cuéntame](https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7) | 2:41 |
 | 27 | [Luna de Miel](https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 3:35 |
 | 28 | [Índigo](https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:34 |
 | 29 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 49 | [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 |
 | 50 | [La Mujer Perfecta](https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX) | 3:37 |
 
-Snapshot ID: `AAAAAKmXZV86EIWuSc38GzzQc7krakcp`
+Snapshot ID: `AAAAAFym3YH8M79B4rJWpR5n7cN/p9so`

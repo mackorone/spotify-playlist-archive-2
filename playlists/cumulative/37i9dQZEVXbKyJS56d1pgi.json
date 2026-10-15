@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 211714,
       "name": "Al\u00f4",
       "url": "https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ"
@@ -7816,7 +7816,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Chuva De Amor",
       "url": "https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM"
@@ -11546,7 +11546,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -23390,7 +23390,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 206210,
       "name": "Mapa Cor de Rosa",
       "url": "https://open.spotify.com/track/4UzqpJRQcimoTGzD1uSqj2"
@@ -24164,7 +24164,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 215433,
       "name": "Mente Barulhenta",
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
@@ -38420,7 +38420,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
@@ -43269,6 +43269,28 @@
     },
     {
       "album": {
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
+    },
+    {
+      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -44502,7 +44524,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 234284,
       "name": "\u00a1 +1 !",
       "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"

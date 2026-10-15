@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 112028,
+  "num_followers": 112025,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANL4mjuCjDwagYiaDNvK4qAo4d7i",
+  "snapshot_id": "AAAAAO5g101sP9w4vXh9fW3v6LEjLMVL",
   "tracks": [
     {
       "added_at": "2024-03-12 14:33:08",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 113346,
-      "name": "Puff Lah",
-      "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 264000,
       "name": "Shanghai Nights",
       "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "Puff Lah",
+      "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Slowmotion",
         "url": "https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 148315,
       "name": "Slowmotion",
       "url": "https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 116061,
-      "name": "hammock",
-      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Beat Batch #2",
         "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 77844,
       "name": "Air",
       "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 116061,
+      "name": "hammock",
+      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "St. Clements",
         "url": "https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 77519,
       "name": "St. Clements",
       "url": "https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+      },
+      "artists": [
+        {
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+        }
+      ],
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Nineteen",
-        "url": "https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 66023,
-      "name": "Make Up",
-      "url": "https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Myth",
         "url": "https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 115662,
       "name": "Myth",
       "url": "https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Nineteen",
+        "url": "https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 66023,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "CRAFT",
-        "url": "https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a"
-      },
-      "artists": [
-        {
-          "name": "Farazi",
-          "url": "https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "BEACH",
-      "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Spotify Singles (Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 98772,
       "name": "Misty - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "CRAFT",
+        "url": "https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a"
+      },
+      "artists": [
+        {
+          "name": "Farazi",
+          "url": "https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "BEACH",
+      "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
     },
     {
       "added_at": "2024-03-12 14:33:08",

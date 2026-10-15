@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,225 likes - 235 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,226 likes - 236 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 233 | [Rich & Famous](https://open.spotify.com/track/1kBQ0ASig6TSg41uF5RWlw) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/6NgnKl9MwZm5yZnc1W2z1t) | 3:02 |
 | 234 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 235 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
+| 236 | [Hurry Up And Wait](https://open.spotify.com/track/6Sk5p4wXs5CZ5N2LWKEEij) | [bcrexords](https://open.spotify.com/artist/0n0pA9DdyQMnuYPTYI2mwY) | [Hurry Up And Wait \(Justin Bieber & Cody Simpson\)](https://open.spotify.com/album/61ZSANsWJpMq8AmmCppuFt) | 3:10 |
 
-Snapshot ID: `Ace3hAAAAAA1L8M65MfnFWKHGQ3OZFWj`
+Snapshot ID: `Ace9GgAAAABuNxqR8NidQnmLsSXU0wDd`

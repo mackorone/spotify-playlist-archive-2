@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619521,
+  "num_followers": 1619545,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKy4KxoXXJiGWaypnKeKXvoCnH9R",
+  "snapshot_id": "AAAAAMNdTMLHtl6EesNmobyH+VXcc7iM",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:51",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-10-09 04:01:51",
       "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+    },
+    {
+      "added_at": "2026-10-09 04:01:51",
+      "album": {
         "name": "Turn Up The Speakers (Julian Jordan Remix)",
         "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 156489,
       "name": "Turn Up The Speakers - Julian Jordan Remix",
       "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
-    },
-    {
-      "added_at": "2026-10-09 04:01:51",
-      "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-10-09 04:01:51",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2026-10-09 04:01:51",
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
+    },
+    {
+      "added_at": "2026-10-09 04:01:51",
+      "album": {
         "name": "More than enough...",
         "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
       },
@@ -1803,26 +1823,6 @@
     {
       "added_at": "2026-10-09 04:01:51",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "Daijo",
-          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
-    },
-    {
-      "added_at": "2026-10-09 04:01:51",
-      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1843,6 +1843,30 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
+    },
+    {
+      "added_at": "2026-10-09 04:01:51",
+      "album": {
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2026-10-09 04:01:51",
@@ -1871,26 +1895,6 @@
     {
       "added_at": "2026-10-09 04:01:51",
       "album": {
-        "name": "I Hear No More",
-        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Gino Ingrosso",
-          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
-        }
-      ],
-      "duration_ms": 167792,
-      "name": "I Hear No More",
-      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-10-09 04:01:51",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -1907,6 +1911,26 @@
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
+    },
+    {
+      "added_at": "2026-10-09 04:01:51",
+      "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
     },
     {
       "added_at": "2026-10-09 04:01:51",
@@ -1959,30 +1983,6 @@
       "duration_ms": 244878,
       "name": "Space",
       "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2026-10-09 04:01:51",
-      "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Marcus Santoro",
-          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2026-10-09 04:01:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,814 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,864 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 55 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 56 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
 | 57 | [How To Act](https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [How To Act](https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE) | 3:41 |
-| 58 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
-| 59 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 58 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 59 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
 | 60 | [Of Nettles and Roses](https://open.spotify.com/track/5PjpDDm31DevJTdSTuRrRS) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [A Blooming Body](https://open.spotify.com/album/3HrIhOs6N3qLz52crWhspQ) | 3:43 |
 | 61 | [Alcohol and Adderall](https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Alcohol and Adderall](https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e) | 3:32 |
 | 62 | [The Winter of '68](https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [The Winter of '68](https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe) | 3:22 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 69 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 70 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 71 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
-| 72 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
-| 73 | [Little Dove](https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL), [Adam Wright](https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Little Dove](https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke) | 3:48 |
+| 72 | [Little Dove](https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL), [Adam Wright](https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Little Dove](https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke) | 3:48 |
+| 73 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 74 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
 | 75 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
 | 76 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 |
 | 100 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
 
-Snapshot ID: `AAAAALqE4/1UT0quUY5MonOejLjP28NO`
+Snapshot ID: `AAAAAP7ocOeNTu2ScTqE//keKsmYpCe3`

@@ -37892,7 +37892,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 244181,
       "name": "FIYA",
       "url": "https://open.spotify.com/track/3oM0HyZhdpVJcjzdHhT00t"
@@ -49006,7 +49006,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 252102,
       "name": "Hope You Found Your Way",
       "url": "https://open.spotify.com/track/1mdHvgYnpevTHH99ucqXs6"
@@ -58258,7 +58258,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 229200,
       "name": "Keeping Score",
       "url": "https://open.spotify.com/track/4gimpXuypFKYWnYQYx00Hw"
@@ -78636,6 +78636,24 @@
       "duration_ms": 162119,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/0c9BzPnLbGRnKANrxCkxzs"
+    },
+    {
+      "album": {
+        "name": "Ohla lalala (Radio Edit)",
+        "url": "https://open.spotify.com/album/4GdpqCAoHUzP7HiY8FibZl"
+      },
+      "artists": [
+        {
+          "name": "The Very Big Experimental Toubifri Orchestra",
+          "url": "https://open.spotify.com/artist/1Rb3WgE1S9FLVEBNdAiAJE"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "Ohla lalala - Radio Edit",
+      "url": "https://open.spotify.com/track/0HdJbLT2gjLYwYr6ekX4ID"
     },
     {
       "album": {
@@ -108337,6 +108355,24 @@
     },
     {
       "album": {
+        "name": "still climbing",
+        "url": "https://open.spotify.com/album/2hnWGkclpGHVFnU1i6lJYV"
+      },
+      "artists": [
+        {
+          "name": "SGK",
+          "url": "https://open.spotify.com/artist/5lQmfjgDVTH9Uz5QSlPy31"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125801,
+      "name": "the nomad",
+      "url": "https://open.spotify.com/track/4CaspY4XLkAV9JNeiu87Co"
+    },
+    {
+      "album": {
         "name": "The Northside",
         "url": "https://open.spotify.com/album/1Ec8tfLt2GSJGIndau0NLN"
       },
@@ -119250,7 +119286,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 192857,
       "name": "Weak With Me",
       "url": "https://open.spotify.com/track/5GydYs178vVYnf30AEoonc"
@@ -121000,6 +121036,24 @@
       "duration_ms": 189460,
       "name": "Where The Diamonds Hide",
       "url": "https://open.spotify.com/track/6Dnk6RZvM2NEIkKYNtcVee"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke, There's Fire",
+        "url": "https://open.spotify.com/album/3ZoqwFGVxw1xzmreH0JyWz"
+      },
+      "artists": [
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236860,
+      "name": "Where There's Smoke, There's Fire",
+      "url": "https://open.spotify.com/track/0dkCggKQaDrc5gU7FXpdR5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,783 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,850 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 78 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
 | 79 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
 | 80 | [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 |
-| 81 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 |
-| 82 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
+| 81 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
+| 82 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 |
 | 83 | [The Mannequin Song](https://open.spotify.com/track/64hwDkKZZHaxCpFOGC3AkW) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:44 |
 | 84 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 85 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
-| 86 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
-| 87 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 |
+| 86 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 |
+| 87 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 88 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 |
 | 89 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 90 | [The Fall \- Shadow](https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk) | [Golden Cats](https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr) | [The Fall](https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 99 | [Anemone \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 4:55 |
 | 100 | [ROCCO](https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 3:06 |
 
-Snapshot ID: `AAAAAKUEQQ1aM/M/ZMRjcOC8Dn0rmUC9`
+Snapshot ID: `AAAAAPeTEYdher5646F9OBhkxw+bm5Jb`

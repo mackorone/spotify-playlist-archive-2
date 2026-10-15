@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376547,
+  "num_followers": 376550,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAEYbV4A1UMf5dG1jgwVlM/",
+  "snapshot_id": "as10gAAAAACc9ILkYqX15YZgQ5pzPRih",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 227001,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/67J6NR2Tdl0h2epWHcCBBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 212484,
       "name": "You and I",
       "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 227001,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/67J6NR2Tdl0h2epWHcCBBN"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "September",
+        "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
       },
       "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        },
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 265867,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
+      "duration_ms": 256622,
+      "name": "September",
+      "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
-        {
-          "name": "Throttle",
-          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
-        },
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 256622,
-      "name": "September",
-      "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
+      "duration_ms": 265867,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Open Our Eyes",
         "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
       },
@@ -659,6 +675,22 @@
       "duration_ms": 183030,
       "name": "Mighty Mighty",
       "url": "https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 316304,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
     },
     {
       "added_at": null,
@@ -679,22 +711,6 @@
       "duration_ms": 276600,
       "name": "The Way You Move (feat. Kenny G)",
       "url": "https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 316304,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
     },
     {
       "added_at": null,
@@ -831,30 +847,6 @@
       "duration_ms": 395905,
       "name": "All About Love (First Impression)",
       "url": "https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 217632,
-      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     }
   ],
   "unique_name": "This Is Earth, Wind & Fire",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,775 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,772 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 20 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
 | 21 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 22 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 |
-| 23 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
-| 24 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
+| 23 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
+| 24 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
 | 25 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
-| 26 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
-| 27 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
+| 26 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
+| 27 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 28 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 29 | [The greatest gift we've got](https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [The greatest gift we've got](https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr) | 3:37 |
 | 30 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 79 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
 | 80 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 
-Snapshot ID: `AAAAAIsj6s7ElBluLWE2lY1QSFkMTaZP`
+Snapshot ID: `AAAAALFwvD9v3NJ8rk5oBndErb7D2RVw`

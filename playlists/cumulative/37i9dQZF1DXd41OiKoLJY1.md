@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: The Sun\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Pastel Sky\. Artwork: Isu Kim.
 
-4,164 songs - 10 day 3 hr 14 min
+4,165 songs - 10 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,7 @@
 | [Demonyo](https://open.spotify.com/track/35N1Lz437mprZP3xlGpUOB) | [HAILUCI](https://open.spotify.com/artist/7LKQwoHS2c25yGdTaks2lk) | [Demonyo](https://open.spotify.com/album/33NvImnlYGsWBXnygwUkpE) | 4:02 | 2025-07-03 | 2025-09-19 |
 | [Demonyong Katawan](https://open.spotify.com/track/66YdGEXLznhxtgOCOSL847) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7), [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K), [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ) | [Demonyong Katawan](https://open.spotify.com/album/5LEXp8W4Hf3hEklcOFn0eh) | 5:38 | 2024-08-29 | 2024-09-20 |
 | [Denise](https://open.spotify.com/track/4iErngYaU4sjE9N0cLGK4k) | [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk) | [Denise](https://open.spotify.com/album/3zJZMuU0xs8oFULg5AmzfB) | 1:34 | 2023-02-02 | 2023-02-17 |
-| [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 | 2026-05-27 |  |
+| [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 | 2026-05-27 | 2026-10-15 |
 | [DESERT](https://open.spotify.com/track/3my3X3bGG7pnowiOnleCLP) | [Chrissy MNL](https://open.spotify.com/artist/34h0dIzdxL9iTs9zLXgEMP) | [DESERT](https://open.spotify.com/album/4NnlF151n686oVPHDYWhAG) | 2:56 | 2025-11-20 | 2026-02-13 |
 | [Desired Life](https://open.spotify.com/track/1t5Sxmx3UX6D5taz9CAbWR) | [Cosmic Kid](https://open.spotify.com/artist/4WCarkEfZfGEiOIPrLLXrU) | [Desired Life](https://open.spotify.com/album/6M5jnIOadWfbU5OqUQBidy) | 3:06 | 2025-10-09 | 2025-12-04 |
 | [Desperado](https://open.spotify.com/track/0gTcxBFw5DEL7VbA4zTi5N) | [felhony](https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m) | [Desperado](https://open.spotify.com/album/3NrdWYjM7HwFrBaYqABnCf) | 3:12 | 2023-07-27 | 2023-08-18 |
@@ -2186,6 +2186,7 @@
 | [LSD](https://open.spotify.com/track/4FxbYdkCbFDp8LgWK7RbYu) | [BabyDraco](https://open.spotify.com/artist/4OT6Ai52nAOe20SXsDoXSI) | [LSD](https://open.spotify.com/album/2eAlAFYUflf2jrV2lWrNV6) | 2:33 | 2025-07-17 | 2025-09-26 |
 | [LSD & Molly](https://open.spotify.com/track/76TFH1JuAw8VyxfvVoPraq) | [TRYX](https://open.spotify.com/artist/7y9G5ijQHcjqWZa3FhUSCE) | [LSD & Molly](https://open.spotify.com/album/5wjzD99zE9BfVjwrNJgtkT) | 3:46 | 2024-05-30 | 2024-06-28 |
 | [LSS](https://open.spotify.com/track/0cEP3Zirdg6MeWGuLlvyMy) | [GenZix](https://open.spotify.com/artist/1QLA2yfG7ia5M9G1adWBxp) | [LSS](https://open.spotify.com/album/0rvCWuhfYAzLwVi1FDtvBv) | 3:55 | 2024-07-11 | 2024-08-09 |
+| [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/5y38JK4NgfflFTtIEUvc9f) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 | 2026-10-14 |  |
 | [Luck](https://open.spotify.com/track/290Jp7ppT85a8BwlzqCK7v) | [Underclass](https://open.spotify.com/artist/3yVOOVzczmJdKGDiD1jwYW) | [Luck](https://open.spotify.com/album/3JlLYbXHkrMN9CknGrVxjk) | 3:11 | 2023-08-03 | 2023-08-25 |
 | [Luha](https://open.spotify.com/track/1Yz0SgkuomHUyHSQllbFwY) | [Kim Leo](https://open.spotify.com/artist/1xrEK9wTluzytuuBW2U7Iu) | [Luha](https://open.spotify.com/album/3gNFvmlCkcYb0v5thOSVk5) | 3:00 | 2025-05-30 | 2025-07-25 |
 | [Luhod](https://open.spotify.com/track/7LNBQgGSCJaOVvr8JNv19n) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf) | [Luhod](https://open.spotify.com/album/44aiwRUlLdzc6tjZD0xdo0) | 2:44 | 2023-11-02 | 2023-12-09 |

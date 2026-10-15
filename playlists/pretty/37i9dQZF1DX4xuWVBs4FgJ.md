@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,760 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031,749 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 18 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 19 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 20 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 21 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
-| 22 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
+| 21 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
+| 22 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 23 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 24 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 25 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 54 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 55 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
 | 56 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
-| 57 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 58 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
+| 57 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
+| 58 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 59 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
 | 60 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 |
 | 61 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 80 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 | 81 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 |
 | 82 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 |
-| 83 | [So mysterious](https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [And so it goes...](https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5) | 3:00 |
-| 84 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 |
+| 83 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 |
+| 84 | [So mysterious](https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [And so it goes...](https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5) | 3:00 |
 | 85 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 86 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 87 | [Heaven \(Butterflies\)](https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [The Light For Days](https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 |
 | 100 | [Personal Attack](https://open.spotify.com/track/5d5YR87TA2KNR5MR6A0LIQ) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Personal Attack](https://open.spotify.com/album/7L98NY5FMgbWulnhUuNN6j) | 2:35 |
 
-Snapshot ID: `AAAAAKKBfdDvvXtxaBMlgJqh1Bh4nMM6`
+Snapshot ID: `AAAAAEbBaLk7qSBEsXMNkB0uIIy4ObLb`

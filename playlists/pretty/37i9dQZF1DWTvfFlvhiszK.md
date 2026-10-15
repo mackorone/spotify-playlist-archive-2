@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,706 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,718 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 8 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
 | 9 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
 | 10 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
-| 11 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
-| 12 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
+| 11 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
+| 12 | [Azonto Ghost](https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Thanks Giving](https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s) | 3:40 |
 | 13 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 14 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
 | 15 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 33 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 |
 | 34 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
 | 35 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
-| 36 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
-| 37 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
-| 38 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 36 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 37 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
+| 38 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
 | 39 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
 | 40 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 41 | [Dadi Dada](https://open.spotify.com/track/5vzG33HzojMhz0HPmkdVEZ) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s), [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN) | [Appietus \(Two Decades of Hiplife Hits\)](https://open.spotify.com/album/3VFeXjXGobVYiKixb31Fa8) | 6:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 49 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 50 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 
-Snapshot ID: `AAAAANsTYY+e4dzj6uUfsHpj256BGXUB`
+Snapshot ID: `AAAAADB0LfCAZmdmwWWgG2ryCQkSdZYK`

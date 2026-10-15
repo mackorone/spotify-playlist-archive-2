@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 264000,
       "name": "100 MILLION",
       "url": "https://open.spotify.com/track/1jR4ALpdqJ12ghzdrzmvmo"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 399026,
       "name": "Autosmile",
       "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
@@ -5058,7 +5058,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 171085,
       "name": "Brace for Impact",
       "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
@@ -14011,6 +14011,24 @@
     },
     {
       "album": {
+        "name": "We Swallowed The Sky",
+        "url": "https://open.spotify.com/album/4aXpdBhvwU8DpY9LPgtqn8"
+      },
+      "artists": [
+        {
+          "name": "Beatrix",
+          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181742,
+      "name": "Ghosts of Tennessee",
+      "url": "https://open.spotify.com/track/3RYBS0Y1lm9VNDfm9ZO1J0"
+    },
+    {
+      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
       },
@@ -15174,6 +15192,24 @@
       "duration_ms": 196250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/72lncHer2PfUorS32qexwb"
+    },
+    {
+      "album": {
+        "name": "Appleseed",
+        "url": "https://open.spotify.com/album/5nKy3cawLoYZnpXqh8yajr"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Key",
+          "url": "https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166714,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/33RhpcSrAgtFY03VOxKABo"
     },
     {
       "album": {
@@ -17702,6 +17738,24 @@
       "duration_ms": 183900,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/42Uru2tIbuvdXq1rM0ZnfR"
+    },
+    {
+      "album": {
+        "name": "I Know You Are (But What Am I Thinking)",
+        "url": "https://open.spotify.com/album/11hiWof1AvcIlmG1EjtX9k"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "I Know You Are (But What Am I Thinking)",
+      "url": "https://open.spotify.com/track/6vpXW4xnupxShV8jgD5SX8"
     },
     {
       "album": {
@@ -27561,6 +27615,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237946,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX"
+    },
+    {
+      "album": {
         "name": "Oven",
         "url": "https://open.spotify.com/album/0h2bTf7HUQNeWyynmo2KSR"
       },
@@ -28156,6 +28228,24 @@
       "duration_ms": 211053,
       "name": "Pipps Hill",
       "url": "https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w"
+    },
+    {
+      "album": {
+        "name": "Pirouettes",
+        "url": "https://open.spotify.com/album/6STYpYYDuhBVGZ26GRIXIq"
+      },
+      "artists": [
+        {
+          "name": "link3",
+          "url": "https://open.spotify.com/artist/2hlo7e04n5T55WoJVs71XC"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191767,
+      "name": "Pirouettes",
+      "url": "https://open.spotify.com/track/6NObHfULDJL4lppFjm8aHf"
     },
     {
       "album": {
@@ -32382,7 +32472,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 180250,
       "name": "Sometimes I Think About You",
       "url": "https://open.spotify.com/track/0Sqlzv37E6nqOm6WVkv3Zn"
@@ -38204,7 +38294,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 201890,
       "name": "Wandering Arrow",
       "url": "https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic"
@@ -39802,7 +39892,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 267560,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"

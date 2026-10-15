@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,579 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,597 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 30 | [Srivalli Marathi Version](https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raagini Kavathekar](https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV) | [Pushpa \- The Rise](https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ) | 3:18 |
 | 31 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Sanket Gurav](https://open.spotify.com/artist/6auFxXWRND1WYlRzEYY5Zr), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
 | 32 | [Ghotala Ghotala Zala \- From "Partu"](https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw) | [Janhavi Prabhu Arora](https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW), [Shashank Powar](https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt), [Guru Thakur](https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25) | [Ghotala Ghotala Zala \(From "Partu"\)](https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK) | 4:21 |
-| 33 | [Kajwa](https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx) | [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Harshavardhan Wavare](https://open.spotify.com/artist/0ltsd6EZrWlkPEnbSVhb9V), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Rahul Kale](https://open.spotify.com/artist/6EGOkczWY24UOf2EXK2obV) | [Kajwa](https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0) | 4:09 |
-| 34 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
+| 33 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
+| 34 | [Kajwa](https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx) | [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Harshavardhan Wavare](https://open.spotify.com/artist/0ltsd6EZrWlkPEnbSVhb9V), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Rahul Kale](https://open.spotify.com/artist/6EGOkczWY24UOf2EXK2obV) | [Kajwa](https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0) | 4:09 |
 | 35 | [Attaracha Faya](https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre) | [Maithili Panse\-Joshi](https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf) | [Luckdown Be Positive](https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ) | 3:25 |
 | 36 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 |
 | 37 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
 | 43 | [Aaichya Gavat](https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Kavita Raam](https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS), [Mugdha Karhade](https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b) | [Girlz](https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd) | 3:36 |
 
-Snapshot ID: `AAAAAKlOgg8SAMy9yK3JZuZsDIS7oto2`
+Snapshot ID: `AAAAAEvqNHRP+d/3rX+sITxU8rYqbd/l`

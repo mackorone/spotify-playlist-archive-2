@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 769 songs - 2 day 2 hr 17 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 770 songs - 2 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -777,5 +777,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 767 | [Girl Afraid \- 2011 Remaster](https://open.spotify.com/track/3UPpzmVM8UHimVKfpAg4xP) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 2:46 |
 | 768 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
 | 769 | [Black Star](https://open.spotify.com/track/6UO72VSXEONxdfLyABihs9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:07 |
+| 770 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
 
-Snapshot ID: `AAAvGWr5E1jAKpL5lRl/OeNWo4jKjq/L`
+Snapshot ID: `AAAvGsH/c8Xf3dDlIb6rA2cIypWe/qUa`

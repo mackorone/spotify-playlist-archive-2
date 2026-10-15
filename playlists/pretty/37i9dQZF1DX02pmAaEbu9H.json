@@ -1,12 +1,12 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1582987,
+  "num_followers": 1583082,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIufPu98fvWBc7NzAtRWN2FoB8wb",
+  "snapshot_id": "AAAAAFkXo6MAUU6o68ZDwWVstfKn7sKn",
   "tracks": [
     {
       "added_at": "2026-09-01 01:02:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -903,38 +903,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Mundo Lite",
         "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
       },
@@ -955,6 +923,38 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Agua Nueva",
         "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 240480,
       "name": "No Podras",
       "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
     },
     {
       "added_at": "2026-09-01 01:02:02",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-09-01 01:02:02",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2026-09-01 01:02:02",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
+    },
+    {
+      "added_at": "2026-09-01 01:02:02",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2026-09-01 01:02:02",

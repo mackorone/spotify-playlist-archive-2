@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1833104,
+  "num_followers": 1833239,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAOIpEAifLj6yt9kpccWw/H",
+  "snapshot_id": "as10gAAAAAAE5vrMGHf/g44MM8vtHGAM",
   "tracks": [
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Te Dejo Madrid",
+      "url": "https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Te Dejo Madrid",
-      "url": "https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO"
     }
   ],
   "unique_name": "This Is Shakira",

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 174378,
+  "num_followers": 174435,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSfgSaW0OcQSv9hhc+Mo86/Bz4e",
+  "snapshot_id": "AAAAAIX+BTLPXM+KpMlsg5KmeYYBek+8",
   "tracks": [
     {
       "added_at": "2026-02-09 08:21:39",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 332293,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Face To Face (US Version)",
         "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 238800,
       "name": "Brazilia",
       "url": "https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -315,6 +299,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Personal Touch",
         "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Seduction",
-        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "In Joy",
         "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 305680,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -651,34 +651,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -695,6 +679,22 @@
       "duration_ms": 276106,
       "name": "Last Look",
       "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278666,
       "name": "Soul Express",
       "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 302506,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
       },
@@ -891,34 +907,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 280240,
-      "name": "Grover's Groove",
-      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+      "duration_ms": 280240,
+      "name": "Grover's Groove",
+      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "West Coast Coolin'",
         "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 256693,
       "name": "Missin' You",
       "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 254266,
       "name": "Soul Dance",
       "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2026-02-09 08:21:39",

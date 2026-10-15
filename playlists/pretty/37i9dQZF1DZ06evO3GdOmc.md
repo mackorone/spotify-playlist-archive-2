@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,558 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,561 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 35 | [The Well](https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:55 |
 | 36 | [Broken Together](https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:45 |
 | 37 | [Slow Fade](https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:37 |
-| 38 | [What If I Gave Everything](https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:23 |
-| 39 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 |
+| 38 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 |
+| 39 | [What If I Gave Everything](https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:23 |
 | 40 | [All You've Ever Wanted](https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:04 |
 | 41 | [City On The Hill](https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:09 |
-| 42 | [Hallelujah](https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 5:13 |
-| 43 | [What If His People Prayed](https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:28 |
+| 42 | [What If His People Prayed](https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:28 |
+| 43 | [Hallelujah](https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 5:13 |
 | 44 | [You Are the Only One](https://open.spotify.com/track/2iVRq4HIoUSIlq91fdZvvG) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 3:47 |
 | 45 | [The Power of the Cross](https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 4:02 |
 | 46 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Set Me Free](https://open.spotify.com/track/2zmJZypH7dZoPmKOK1xt0O) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:25 |
 | 50 | [At Your Feet](https://open.spotify.com/track/3hRprnE1Pjq2xHZ6Iqztgi) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:35 |
 
-Snapshot ID: `asrRgAAAAAAGGL2k+/9rKxlFgw9O1bhT`
+Snapshot ID: `as10gAAAAABDQlpkYmlv6+kErp2ULsP3`

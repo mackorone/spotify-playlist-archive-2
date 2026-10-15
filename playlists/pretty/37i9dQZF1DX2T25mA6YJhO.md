@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: LA MILAGROSA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,248 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,256 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [BAJO CONTROL](https://open.spotify.com/track/54QO2oFUdlOWSGbKA4mQsD) | [Atomic Lemons](https://open.spotify.com/artist/71Gzjz9NF7NeA8VrLKVehu) | [BAJO CONTROL](https://open.spotify.com/album/0zfXIKKd2kB3ARl1ZRDWDj) | 2:44 |
 | 100 | [Eterno Parque Galván](https://open.spotify.com/track/3VwZGDYYeLuMylza01f9Iq) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Eterno Parque Galván](https://open.spotify.com/album/1CS1f8w0vLgd0CiNWTY8ir) | 3:00 |
 
-Snapshot ID: `AAAAAInJPiE3FcnUhfkV74J0dL0c8Jlg`
+Snapshot ID: `AAAAAPcJSDdcZWws+Fc0bNDJKs7Ia7/c`

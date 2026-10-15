@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,947 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,964 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 42 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
 | 43 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 |
 | 44 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 |
-| 45 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
-| 46 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 |
+| 45 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 |
+| 46 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
 | 47 | [Youth](https://open.spotify.com/track/4ulix0RIyXmuNLgwPaz46S) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/3QRsoT9KLOyYYkNRtEkpRI) | 2:40 |
 | 48 | [I Can't Make You Love Me](https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [I Can't Make You Love Me](https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx) | 4:51 |
 | 49 | [White Flag](https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ) | [Ryan Corn](https://open.spotify.com/artist/6HOBJhMPSZxZEsfTcSPD0m) | [White Flag](https://open.spotify.com/album/4RgtpOkCDxykmCR9KyLCjG) | 3:31 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 89 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
 | 90 | [She's Not There \- \(The Zombies cover\)](https://open.spotify.com/track/0dz9cFDDSyj2VFqzXkzmx1) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [France](https://open.spotify.com/album/6poorXKsPRsrowWfn97Sel) | 2:55 |
 | 91 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 92 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
-| 93 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
+| 92 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
+| 93 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 94 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
-| 95 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
+| 95 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
 | 96 | [Into the Black](https://open.spotify.com/track/78PuKTcvpFTh5PceV9kBM6) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill for Love](https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV) | 5:22 |
 | 97 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 98 | [Tainted Love](https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss) | 2:33 |
 | 99 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
 | 100 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 |
 
-Snapshot ID: `AAAAALc0lJRoq/qToX+Tc1xIohcT9olf`
+Snapshot ID: `AAAAADWSTb7/DrBsWNs8oiJ0NfwEtM/F`

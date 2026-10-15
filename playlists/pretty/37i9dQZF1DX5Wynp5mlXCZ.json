@@ -1,12 +1,12 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: The Curly",
-  "num_followers": 45459,
+  "num_followers": 45457,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJQxgX9bctz4jEOj5Q0fcr/q/NOe",
+  "snapshot_id": "AAAAAKDrVOtBn6+VtP3wBOc6D8MYDyiq",
   "tracks": [
     {
       "added_at": "2026-10-13 15:02:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-13 15:02:29",
       "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
+    },
+    {
+      "added_at": "2026-10-13 15:02:29",
+      "album": {
         "name": "American Heart",
         "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-10-13 15:02:29",
-      "album": {
-        "name": "i think he's got a girl",
-        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 214559,
-      "name": "i think he's got a girl",
-      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "added_at": "2026-10-13 15:02:29",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2026-10-13 15:02:29",
       "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 209852,
-      "name": "Shape of a Woman",
-      "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "added_at": "2026-10-13 15:02:29",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2026-10-13 15:02:29",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
-    },
-    {
-      "added_at": "2026-10-13 15:02:29",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
-    },
-    {
-      "added_at": "2026-10-13 15:02:29",
-      "album": {
         "name": "Electrified",
         "url": "https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 163827,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT"
+    },
+    {
+      "added_at": "2026-10-13 15:02:29",
+      "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 209852,
+      "name": "Shape of a Woman",
+      "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
+    },
+    {
+      "added_at": "2026-10-13 15:02:29",
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-10-13 15:02:29",

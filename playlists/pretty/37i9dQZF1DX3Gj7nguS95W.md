@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 
 > The greatest New Wave songs through the decades\. Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,234 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,337 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 27 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
 | 28 | [Manic Monday](https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:04 |
 | 29 | [Pretty In Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
-| 30 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 |
+| 30 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 |
 | 31 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
-| 32 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 |
+| 32 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 |
 | 33 | [Walk Like an Egyptian](https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:24 |
 | 34 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
 | 35 | [Going Underground](https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Super Deluxe\)](https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 49 | [Every Little Thing She Does Is Magic \- Remastered 2003](https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine](https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2) | 4:20 |
 | 50 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 |
 
-Snapshot ID: `AAAAAMApdQmsH+4RU6cr51QmDi4Urjrw`
+Snapshot ID: `AAAAAE0fUlEajSWDpeuYe4XOVPQJdZSC`

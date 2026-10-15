@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 263720,
+  "num_followers": 263758,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9oH6jdJsQbtqZ6QllFChgDoK0K",
+  "snapshot_id": "AAAAAF8Mall2tV/7/wB3oCQkUIWeqrCz",
   "tracks": [
     {
       "added_at": "2026-10-02 10:06:45",
@@ -195,22 +195,26 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
+        "name": "World Is Mine",
+        "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
         }
       ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
+      "duration_ms": 286080,
+      "name": "World Is Mine",
+      "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -235,26 +239,22 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "World Is Mine",
-        "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "BJOERN",
-          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 286080,
-      "name": "World Is Mine",
-      "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
-        }
-      ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "Caught Up In The Fire",
         "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 223538,
       "name": "Caught Up In The Fire",
       "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "Sunday Sunrise",
-        "url": "https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt"
-      },
-      "artists": [
-        {
-          "name": "Martim Rola",
-          "url": "https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb"
-        },
-        {
-          "name": "David Mackay",
-          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "Sunday Sunrise",
-      "url": "https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "Out Of My Body (feat. EJAE)",
         "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "Sunday Sunrise",
+        "url": "https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt"
+      },
+      "artists": [
+        {
+          "name": "Martim Rola",
+          "url": "https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb"
+        },
+        {
+          "name": "David Mackay",
+          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "Sunday Sunrise",
+      "url": "https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "Beyond Today",
-        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Beyond Today",
-      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224731,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "Beyond Today",
+        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Beyond Today",
+      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
     },
     {
       "added_at": "2026-10-02 10:06:45",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-10-02 10:06:45",
       "album": {
-        "name": "I Keep Going",
-        "url": "https://open.spotify.com/album/0fVL8fcjubrLUKItPMmCzk"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
-        }
-      ],
-      "duration_ms": 254262,
-      "name": "I Keep Going",
-      "url": "https://open.spotify.com/track/2VOUhhbIQ6P9DgUYZ93VmL"
-    },
-    {
-      "added_at": "2026-10-02 10:06:45",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 276956,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK"
+    },
+    {
+      "added_at": "2026-10-02 10:06:45",
+      "album": {
+        "name": "I Keep Going",
+        "url": "https://open.spotify.com/album/0fVL8fcjubrLUKItPMmCzk"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 254262,
+      "name": "I Keep Going",
+      "url": "https://open.spotify.com/track/2VOUhhbIQ6P9DgUYZ93VmL"
     },
     {
       "added_at": "2026-10-02 10:06:45",

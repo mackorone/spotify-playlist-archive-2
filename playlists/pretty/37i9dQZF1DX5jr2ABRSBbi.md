@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,832 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,835 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 9 | [Zeppelin](https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Zeppelin](https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E) | 3:47 |
 | 10 | [BACK TO EARTH](https://open.spotify.com/track/69P5j6wtN6BCBrQmT6K6mb) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [BACK TO EARTH](https://open.spotify.com/album/7wgay0lxiRDOjQ9zkORay1) | 3:25 |
 | 11 | [Disco mood](https://open.spotify.com/track/2ypFKGPXYCtqEaDKLgZLdp) | [Barb](https://open.spotify.com/artist/4XiN2n12Ulslgq9Afb4TjH), [Maxx Miklos](https://open.spotify.com/artist/3kHAI070E01otxgxdPmg4h) | [Disco mood](https://open.spotify.com/album/5lOh9ZYv5LOwmeWubKieUK) | 2:44 |
-| 12 | [Červenec / srpen](https://open.spotify.com/track/7IJRHrXVJe1WnRwGAojirb) | [August Ocean](https://open.spotify.com/artist/5HHW3z2GI3wpMkh0aYd6ck), [Idea](https://open.spotify.com/artist/3q4EBG7Zkm7yd42Aoyry0g) | [Červenec / srpen](https://open.spotify.com/album/7f6vx2mf05wXBnOAV6n9RI) | 2:15 |
+| 12 | [ČERVENEC / SRPEN](https://open.spotify.com/track/7IJRHrXVJe1WnRwGAojirb) | [August Ocean](https://open.spotify.com/artist/5HHW3z2GI3wpMkh0aYd6ck), [Idea](https://open.spotify.com/artist/3q4EBG7Zkm7yd42Aoyry0g) | [ČERVENEC / SRPEN](https://open.spotify.com/album/7f6vx2mf05wXBnOAV6n9RI) | 2:15 |
 | 13 | [“Odpúšťam ti!”](https://open.spotify.com/track/4zlqpOHOmQKKSJMVxmHbe4) | [DiU](https://open.spotify.com/artist/48renqSoWSGYjrpSJNr2wC) | [“Odpúšťam ti!”](https://open.spotify.com/album/6REXPUbtGoRYzdjWmaS2u4) | 3:43 |
 | 14 | [amor](https://open.spotify.com/track/3Piwl88rSoxmCTXB5hsEJJ) | [Dianah Kay](https://open.spotify.com/artist/5uQDn2WcyNbtvocmhVT0nz) | [amor](https://open.spotify.com/album/6wjPW5MF3A66XJLBGkEgIj) | 2:04 |
 | 15 | [Yeah Yeah \(feat\. Zofie Dares\)](https://open.spotify.com/track/2meX6NRDR9VWgmnOKrf1g3) | [Cindy Marso](https://open.spotify.com/artist/0ICyBnGQcFQwgZuEiPm5n4), [Zofie Dares](https://open.spotify.com/artist/1TTYqDeHwR0tarujudGxsK) | [9 + 2 reasons for my panic attacks](https://open.spotify.com/album/3BP1hx3thdBxUILg2mMgQV) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 59 | [I Could Be Mine](https://open.spotify.com/track/4WscqBTtAbrpnm6xboq8PP) | [Charlotte Gott](https://open.spotify.com/artist/2wxvGtBdXKTmv5bAJKUQEL) | [I Could Be Mine](https://open.spotify.com/album/1Oh5nYtnpfHsLQU0846Fx4) | 2:34 |
 | 60 | [TOTO JE POP](https://open.spotify.com/track/6wSJFkkqqidTO2ZklnFZZ9) | [ALYA](https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB) | [MÁM SA](https://open.spotify.com/album/3KIRBz9RI3f5NNHih8BtGi) | 2:11 |
 
-Snapshot ID: `AAAAADXl/nif7yoIbglNViSEqLhhRTrA`
+Snapshot ID: `AAAAAAORrXpVwK98QhhaitKP/YDVUUEl`

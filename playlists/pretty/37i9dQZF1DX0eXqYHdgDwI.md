@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,752 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,775 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 58 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 59 | [NUMB](https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 3:06 |
 | 60 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
-| 61 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
-| 62 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
+| 61 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
+| 62 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 63 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 64 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 65 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 85 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 |
 | 86 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 | 87 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
-| 88 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
-| 89 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
+| 88 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
+| 89 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
 | 90 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 91 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
 | 92 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 99 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 |
 | 100 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 |
 
-Snapshot ID: `AAAAAByxnQ+IpzgBV1SaxFewCssqtz7D`
+Snapshot ID: `AAAAAAAVT7TS2QORfSEgEANXhdEHFIgz`

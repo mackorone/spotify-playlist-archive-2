@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Celebrate the timeless bond of Siya Ram. 'Jai Jai Ram' from Ramayana is out. Listen now.",
+  "description": "Experience the magic of \"Do Din Ki Zindagi\" from Gunmaaster G9. Listen now.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -3180,6 +3180,24 @@
       "duration_ms": 237176,
       "name": "Bayaan",
       "url": "https://open.spotify.com/track/50og7DzzaaPQHWztFSeOm4"
+    },
+    {
+      "album": {
+        "name": "BEBO",
+        "url": "https://open.spotify.com/album/1n5M5sVoT0AnFoYrM4SpHV"
+      },
+      "artists": [
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150044,
+      "name": "BEBO",
+      "url": "https://open.spotify.com/track/4i4lFfvI3yaA9EqOUbqfO1"
     },
     {
       "album": {
@@ -6906,6 +6924,36 @@
       "duration_ms": 177272,
       "name": "Do Deewane Seher Mein - Title Track",
       "url": "https://open.spotify.com/track/6reJEjrPWNWjuMCX9nBrOf"
+    },
+    {
+      "album": {
+        "name": "Do Din Ki Zindagi (From \"Gunmaaster G9\")",
+        "url": "https://open.spotify.com/album/5MPDmhTgw4BwJVKQkbKu3s"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Junaid Wasi",
+          "url": "https://open.spotify.com/artist/2PUX1ZS7k03vO91E5VGvG0"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337846,
+      "name": "Do Din Ki Zindagi - From \"Gunmaaster G9\"",
+      "url": "https://open.spotify.com/track/7DfkuRi8oX9o9LKKKsUVPH"
     },
     {
       "album": {
@@ -15351,6 +15399,32 @@
     },
     {
       "album": {
+        "name": "Mann Bawara",
+        "url": "https://open.spotify.com/album/62k3PqogVkcdGGtAFVlD85"
+      },
+      "artists": [
+        {
+          "name": "Manasi Shah",
+          "url": "https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs"
+        },
+        {
+          "name": "Arindam Goswami",
+          "url": "https://open.spotify.com/artist/6V2F8IIkE4wELepcOXUymj"
+        },
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237836,
+      "name": "Mann Bawara",
+      "url": "https://open.spotify.com/track/141VsJgkijofvQ7RGS7S51"
+    },
+    {
+      "album": {
         "name": "Mann Hawa (From \"Assi\")",
         "url": "https://open.spotify.com/album/73Cy8yx9EoseyMsaRnz7RB"
       },
@@ -20040,7 +20114,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 169027,
       "name": "Rafta Rafta (From \"Vibe\")",
       "url": "https://open.spotify.com/track/4WvMSlnTJY1fD3mTYJW0Ir"
@@ -21327,6 +21401,24 @@
     },
     {
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/5ZCntNxtpg6LPbRJOceLVs"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178647,
+      "name": "Sahra",
+      "url": "https://open.spotify.com/track/3AxnGEHWcrONXdkVjrOnEc"
+    },
+    {
+      "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
@@ -21646,7 +21738,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 253833,
       "name": "Samjho Na - From \"The Vvaan\"",
       "url": "https://open.spotify.com/track/1yQZfjUeKWs31AYV2IxN0V"
@@ -24016,7 +24108,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 209134,
       "name": "Tere Sang (From \"Don't Be Shy\")",
       "url": "https://open.spotify.com/track/0KWiRsYNuLR5reLOg3zQsd"
@@ -25184,7 +25276,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 189890,
       "name": "Tu Mera Raiyyo - From \"Prem Keetanu\"",
       "url": "https://open.spotify.com/track/3lxR1nJ4EffJxSNXpKxpSr"

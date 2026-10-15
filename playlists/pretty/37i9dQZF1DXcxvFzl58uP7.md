@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,757 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,720 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 32 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
 | 33 | [wildflower](https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower](https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9) | 2:55 |
 | 34 | [Cute](https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW) | [Asara](https://open.spotify.com/artist/5W1dRz6kNfJb2cSPQKErpD) | [Cute](https://open.spotify.com/album/0KafD7J4XoiLvLwI9tBjIa) | 2:16 |
-| 35 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
-| 36 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
+| 35 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
+| 36 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
 | 37 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 38 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 39 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 62 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:27 |
 | 63 | [Out of My Head](https://open.spotify.com/track/29ucXsuXKkb6IWjuEvkEmz) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Head](https://open.spotify.com/album/71577VPbqC5hlUpJE5iCrM) | 3:11 |
 | 64 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
-| 65 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
-| 66 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
+| 65 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
+| 66 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
 | 67 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 |
 | 68 | [just us](https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [just us](https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3) | 3:10 |
 | 69 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 74 | [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 |
 | 75 | [I Said What I Said](https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP) | [The Softies](https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG) | [The Bed I Made](https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp) | 2:23 |
 | 76 | [casandra](https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [casandra](https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY) | 2:20 |
-| 77 | [Ordinary, Extraordinary](https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ordinary, Extraordinary](https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm) | 3:24 |
-| 78 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
+| 77 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
+| 78 | [Ordinary, Extraordinary](https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ordinary, Extraordinary](https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm) | 3:24 |
 | 79 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
 | 80 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 81 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 |
-| 82 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
-| 83 | [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 |
+| 82 | [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 |
+| 83 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
 | 84 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
 | 85 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 86 | [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 95 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 96 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
 | 97 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 |
-| 98 | [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
-| 99 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
-| 100 | [Superfan](https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Superfan](https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV) | 4:28 |
+| 98 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
+| 99 | [Superfan](https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Superfan](https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV) | 4:28 |
+| 100 | [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
 
-Snapshot ID: `AAAAAOK+rKH4qvvk0ZrTYWkZ+FdR44Mt`
+Snapshot ID: `AAAAAJ77t4ZL7xdpX7i22OHyEto8uFNC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Bailey KBC, MeoKidd, Jc, Omachh, Giegs en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,323 likes - 72 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,321 likes - 72 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 71 | [Ren & Stimpy](https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0) | [Dada 7x](https://open.spotify.com/artist/3tsm4RW17sqEVfUPjIGb6K) | [Ren & Stimpy](https://open.spotify.com/album/6CWS6wVOHWqbZA1vCi5a6z) | 3:19 |
 | 72 | [DOWN](https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [DOWN](https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g) | 1:36 |
 
-Snapshot ID: `AAAAAMGg1e0M15sqs0Az++BZGiVY9Iw8`
+Snapshot ID: `AAAAAOMtUAj3GOQF629o64Lz3ezJhh0h`

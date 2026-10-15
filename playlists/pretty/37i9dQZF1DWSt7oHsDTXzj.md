@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,688 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,681 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 58 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
 | 59 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 60 | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ) | 2:44 |
-| 61 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
+| 61 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 62 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
-| 63 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
-| 64 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
-| 65 | [Christmas Starts Tonight \- live from a restaurant in downtown Los Angeles](https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas \(live from a restaurant in downtown Los Angeles\)](https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg) | 3:35 |
-| 66 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 |
+| 63 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
+| 64 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 |
+| 65 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
+| 66 | [Christmas Starts Tonight \- live from a restaurant in downtown Los Angeles](https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas \(live from a restaurant in downtown Los Angeles\)](https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg) | 3:35 |
 | 67 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
 | 68 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
 | 69 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 72 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 73 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
 | 74 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 |
-| 75 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
+| 75 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
 
-Snapshot ID: `AAAAADJdEMY77zBndX+FMiuDKSFLi0TM`
+Snapshot ID: `AAAAAPXCDn7QHQtRx1fklbWTT6caMNZx`

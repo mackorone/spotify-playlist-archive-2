@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420,320 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,420,382 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 14 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 15 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 16 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 |
-| 17 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 18 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
+| 17 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
+| 18 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 19 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin' \(Expanded\)](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
 | 20 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
 | 21 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 65 | [Biggest Part of Me \- Remastered Version](https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Soul Hooligan](https://open.spotify.com/artist/4X9dxL0KqEpgay3AVU9sLW) | [The Essentials: Ambrosia](https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW) | 5:26 |
 
-Snapshot ID: `AAAAAC6k7M5QkneuXRt2bS1lryyXlU64`
+Snapshot ID: `AAAAAIo4qfQsjLyeQZOxGpM89WUs69aB`

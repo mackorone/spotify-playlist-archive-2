@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 314952,
+  "num_followers": 315038,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHW6ToLJtD7fCSVfwPFnaqK3hJaR",
+  "snapshot_id": "AAAAAJ+HJQrzvdD7C0cfC0rc7E9qiKP2",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 216317,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -447,22 +447,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+        "name": "Mi Eterno Amor Secreto",
+        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 279333,
-      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+      "duration_ms": 232321,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -483,22 +483,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Mi Eterno Amor Secreto",
-        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 232321,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+      "duration_ms": 279333,
+      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Hombre Talentoso",
-        "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 213648,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 204160,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Hombre Talentoso",
+        "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 213648,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
     },
     {
       "added_at": "2026-07-16 23:50:42",

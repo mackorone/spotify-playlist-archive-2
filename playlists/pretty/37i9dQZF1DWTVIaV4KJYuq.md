@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,842 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,824 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 45 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 |
 | 46 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
 | 47 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
-| 48 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
-| 49 | [If It Makes You Happy](https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:15 |
+| 48 | [If It Makes You Happy](https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:15 |
+| 49 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
 | 50 | [What's up](https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL) | [Geneviève Leclerc](https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd) | [Portfolio](https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx) | 3:27 |
 | 51 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
 | 52 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
 | 110 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 |
 
-Snapshot ID: `AAAAAHXZyMPBZniVBe5hAEJx+X3aNkCO`
+Snapshot ID: `AAAAABk+OEYxCKXpq10NMge3Gs/Su3an`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a comfortable drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,397 likes - 200 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,441 likes - 200 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 70 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:59 |
 | 71 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 |
 | 72 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
-| 73 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 |
-| 74 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
+| 73 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
+| 74 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 |
 | 75 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 |
 | 76 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
 | 77 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
-| 78 | [Rude](https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Rude](https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW) | 3:44 |
-| 79 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:46 |
+| 78 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:46 |
+| 79 | [Rude](https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Rude](https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW) | 3:44 |
 | 80 | [Meet Virginia](https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Train](https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03) | 3:59 |
 | 81 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 82 | [The Blower's Daughter](https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 4:46 |
@@ -120,11 +120,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 110 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
 | 111 | [Next To Me](https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:16 |
 | 112 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
-| 113 | [Wildfire](https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:14 |
-| 114 | [So Close \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:46 |
+| 113 | [So Close \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:46 |
+| 114 | [Wildfire](https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:14 |
 | 115 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
-| 116 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
-| 117 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
+| 116 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
+| 117 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 118 | [Dear No One](https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Foreword](https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD) | 3:17 |
 | 119 | [Honest](https://open.spotify.com/track/6KjbNLbRjuoa8rEq5yNA6H) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:28 |
 | 120 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ella Eyre](https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5) | 3:50 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 152 | [Dirty Paws](https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:38 |
 | 153 | [Nothing Without Love](https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 3:56 |
 | 154 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 |
-| 155 | [Falling](https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:17 |
-| 156 | [Ease Me On](https://open.spotify.com/track/77opdbsdErn2e5UHnrUGcs) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:28 |
+| 155 | [Ease Me On](https://open.spotify.com/track/77opdbsdErn2e5UHnrUGcs) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:28 |
+| 156 | [Falling](https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:17 |
 | 157 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 |
 | 158 | [All We Are](https://open.spotify.com/track/4SXcG6Ti32myNw9GJ9qeDt) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:36 |
 | 159 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 |
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 164 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
 | 165 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
 | 166 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 |
-| 167 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 |
-| 168 | [Forever](https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [By My Side \(Retrospective\)](https://open.spotify.com/album/3LBTIeX3u0zodXW4Hu7qXQ) | 3:25 |
+| 167 | [Forever](https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [By My Side \(Retrospective\)](https://open.spotify.com/album/3LBTIeX3u0zodXW4Hu7qXQ) | 3:25 |
+| 168 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 |
 | 169 | [Regret Me](https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Regret Me](https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA) | 3:16 |
 | 170 | [Airwaves](https://open.spotify.com/track/79sjkr7DxrDfk9qXwB4IxS) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 4:41 |
 | 171 | [Love Someone](https://open.spotify.com/track/5HgYrY0MHqt5Iwd2aRR0xh) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Someone](https://open.spotify.com/album/6qus6fQ4szOs1A2c1d16hP) | 4:16 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 199 | [Stay With Me](https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK) | 2:52 |
 | 200 | [Dear River](https://open.spotify.com/track/2UikdkQjVoAEQBUzGPu9rn) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Dear River](https://open.spotify.com/album/7v4PYVFQbJjLQCOmqHnTTW) | 3:40 |
 
-Snapshot ID: `AAAAAEhROZE8QbPS+nQebQD+QPF2mRij`
+Snapshot ID: `AAAAAPUBGAv0i+zpqMJMG5kJFL6WpBVV`

@@ -1,12 +1,12 @@
 {
   "description": "Suor, ritmo e m\u00fasica com energia",
-  "num_followers": 171051,
+  "num_followers": 171068,
   "original_name": "Treino em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALIWDAseVe5wPFF7ySlz6Go0Kfh9",
+  "snapshot_id": "AAAAAM2BnW3hHDE+4h2Q31z40qTd8nqK",
   "tracks": [
     {
       "added_at": "2025-04-04 03:00:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2025-04-04 03:00:21",

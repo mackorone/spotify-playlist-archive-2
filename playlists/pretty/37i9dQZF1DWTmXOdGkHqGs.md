@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,712 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,772 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 38 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 39 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 40 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 |
-| 41 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
-| 42 | [Echarme Al Olvido](https://open.spotify.com/track/16Pff0FadGUI8noya36AsN) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Echarme Al Olvido](https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN) | 4:38 |
+| 41 | [Echarme Al Olvido](https://open.spotify.com/track/16Pff0FadGUI8noya36AsN) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Echarme Al Olvido](https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN) | 4:38 |
+| 42 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
 | 43 | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0), [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n) | 4:45 |
 | 44 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
 | 45 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 89 | [Joda Clandestina](https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Joda Clandestina](https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs) | 2:37 |
 | 90 | [El Chavo Beethoven](https://open.spotify.com/track/38IPjYhzIMEfUJqbT0nUcC) | [Memo Pimiento](https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0) | [El Chavo Beethoven](https://open.spotify.com/album/5jKckInuVw1J8rAWnxPqKE) | 2:50 |
 | 91 | [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 |
-| 92 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
+| 92 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 |
 | 93 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
 | 94 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 95 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 96 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
-| 97 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 |
+| 97 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 98 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 99 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 |
 | 100 | [Llorar](https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz) | 3:43 |
 
-Snapshot ID: `AAAAAGhkW1paT79zlSbAbAVY22kBUUAS`
+Snapshot ID: `AAAAAOQvbCoULduvpzkcr4acMVVRJt3y`

@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 25384,
+  "num_followers": 25396,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAwUrtL0sZv0PCDcxe2B1DD",
+  "snapshot_id": "as10gAAAAAANmcQWAPGOxc05R92bLfN8",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -199,22 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": null,
@@ -231,6 +211,26 @@
       "duration_ms": 194634,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 283313,
-      "name": "Until The End Of Time",
-      "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -443,22 +423,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "YEARNALISM",
+        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I USED TO (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 283313,
+      "name": "Until The End Of Time",
+      "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
     },
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+      "duration_ms": 207999,
+      "name": "I USED TO (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "added_at": null,
@@ -715,26 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PROLIFIC",
-        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 231020,
-      "name": "Vibe With Me (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn"
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
     },
     {
       "added_at": null,
@@ -763,22 +759,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
+      "duration_ms": 231020,
+      "name": "Vibe With Me (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn"
     },
     {
       "added_at": null,
@@ -819,18 +819,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+        "name": "New to Love",
+        "url": "https://open.spotify.com/album/23dHlSzv3ymbgpbQjQ8zQU"
       },
       "artists": [
         {
+          "name": "EZMNY",
+          "url": "https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM"
+        },
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        },
+        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
         }
       ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
+      "duration_ms": 214598,
+      "name": "New to Love",
+      "url": "https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm"
     },
     {
       "added_at": null,
@@ -875,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
       "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 226942,
-      "name": "Remarkable Hussle",
-      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
+      "duration_ms": 172844,
+      "name": "PRIZE",
+      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
     },
     {
       "added_at": null,
@@ -915,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 171814,
-      "name": "PARTY FAVORS (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
+      "duration_ms": 226942,
+      "name": "Remarkable Hussle",
+      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
     },
     {
       "added_at": null,

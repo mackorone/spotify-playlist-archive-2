@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,528 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,498 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [No Olvido de Donde Soy](https://open.spotify.com/track/42f1zC2QXFIrnuIvrgZgnv) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Lanza en Mano](https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN) | 4:16 |
 | 50 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
 
-Snapshot ID: `AAAAAF26szigoBBXF5ER10DJ7R/Ds1uo`
+Snapshot ID: `AAAAAL7daRXZKN12hNRy4RaVmTNlFm+B`

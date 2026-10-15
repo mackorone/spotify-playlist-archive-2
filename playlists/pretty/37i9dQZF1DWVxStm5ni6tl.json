@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Kerrington Gillespie, Artwork: Isu Kim",
-  "num_followers": 28318,
+  "num_followers": 28332,
   "original_name": "Fresh Finds Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+xMlFEv1dZM1XKbdQ8mLqGiQ+q",
+  "snapshot_id": "AAAAAD0Jp//u4QQzobyDX36ZSXeCFYWI",
   "tracks": [
     {
       "added_at": "2026-10-07 04:00:10",
@@ -23,6 +23,86 @@
       "duration_ms": 180720,
       "name": "Three Missed Calls",
       "url": "https://open.spotify.com/track/1Hq7TWA7sz7F90RzfgtyXI"
+    },
+    {
+      "added_at": "2026-10-15 02:47:12",
+      "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 269653,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
+    },
+    {
+      "added_at": "2026-10-15 02:47:12",
+      "album": {
+        "name": "Baby you're a mess",
+        "url": "https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw"
+      },
+      "artists": [
+        {
+          "name": "Creach",
+          "url": "https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH"
+        }
+      ],
+      "duration_ms": 177888,
+      "name": "Baby you're a mess",
+      "url": "https://open.spotify.com/track/53uiyax0R8EXdinnARGj30"
+    },
+    {
+      "added_at": "2026-10-15 02:47:12",
+      "album": {
+        "name": "ain't no sunshine",
+        "url": "https://open.spotify.com/album/6CWQ3qXulKzy4De0KM4tvG"
+      },
+      "artists": [
+        {
+          "name": "Hayku Kyah",
+          "url": "https://open.spotify.com/artist/70b7TMBCkhzP7KgM1qc3Q8"
+        }
+      ],
+      "duration_ms": 184504,
+      "name": "ain't no sunshine",
+      "url": "https://open.spotify.com/track/7sE1AZgTtwPjRzAFVxeZPP"
+    },
+    {
+      "added_at": "2026-10-15 02:47:12",
+      "album": {
+        "name": "Le mauvais temps",
+        "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Le mauvais temps",
+      "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
+    },
+    {
+      "added_at": "2026-10-15 02:47:12",
+      "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/7egdFIZeaLfohzjGYNragy"
+      },
+      "artists": [
+        {
+          "name": "STACKS",
+          "url": "https://open.spotify.com/artist/0C9iFe882ieknG0D0D8dSy"
+        }
+      ],
+      "duration_ms": 263035,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/0YleoLTvU6Yj3xsHnqp0RX"
     },
     {
       "added_at": "2026-10-07 04:00:10",
@@ -107,22 +187,6 @@
     {
       "added_at": "2026-10-07 04:00:10",
       "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/6f1LkB1stYhBfSm8gAozkd"
-      },
-      "artists": [
-        {
-          "name": "Virgo Rising",
-          "url": "https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Cut My Knee",
-      "url": "https://open.spotify.com/track/1r0y4RSzoikfSo6YciiUkl"
-    },
-    {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
         "name": "gay allegations ft. my girlfriend",
         "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
       },
@@ -135,22 +199,6 @@
       "duration_ms": 119999,
       "name": "gay allegations ft. my girlfriend",
       "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
-    },
-    {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
-        "name": "Fantasy Prologue",
-        "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
-      },
-      "artists": [
-        {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
-        }
-      ],
-      "duration_ms": 159138,
-      "name": "The Shallow End",
-      "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
     },
     {
       "added_at": "2026-10-07 04:00:10",
@@ -255,38 +303,6 @@
     {
       "added_at": "2026-10-07 04:00:10",
       "album": {
-        "name": "Green and Trying",
-        "url": "https://open.spotify.com/album/2xit8EWWeziQHsIm7nxjdl"
-      },
-      "artists": [
-        {
-          "name": "Michaela Slinger",
-          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
-        }
-      ],
-      "duration_ms": 204790,
-      "name": "Green and Trying",
-      "url": "https://open.spotify.com/track/606Mx6N4MbFz9TOD1kUmWJ"
-    },
-    {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
-        "name": "Crois",
-        "url": "https://open.spotify.com/album/5jtigepUkzWdKvJEF4Ff4J"
-      },
-      "artists": [
-        {
-          "name": "Ross Nkunga",
-          "url": "https://open.spotify.com/artist/1j3tiViv9qvKF1LF8R6MMO"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Crois",
-      "url": "https://open.spotify.com/track/2DRYS45UUZDoDaydASId2K"
-    },
-    {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
         "name": "the wash",
         "url": "https://open.spotify.com/album/0WyGlLwRg0dNZ6IpX25GJv"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 193846,
       "name": "Double Up - Miami Bass Remix",
       "url": "https://open.spotify.com/track/7Es1fXTYr762iYXfA9htV3"
-    },
-    {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
-        "name": "Reflexiones",
-        "url": "https://open.spotify.com/album/2oxeurp6jOwxCXGlNhTmeA"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Me doy cuenta",
-      "url": "https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy"
     },
     {
       "added_at": "2026-10-07 04:00:10",

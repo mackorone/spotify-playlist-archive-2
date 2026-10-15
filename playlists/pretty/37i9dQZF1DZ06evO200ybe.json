@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 127270,
+  "num_followers": 127284,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACmZcV36t4tJYQobh+aLUQt",
+  "snapshot_id": "as10gAAAAABOAjdDU1Hfz1u3mT3JyV6l",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 173160,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
+      "duration_ms": 186466,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+      "duration_ms": 185807,
+      "name": "September Song - Mono",
+      "url": "https://open.spotify.com/track/38xKGPT1Jxt1EFkWJGyk9w"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 186466,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+      "duration_ms": 173160,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 185807,
-      "name": "September Song - Mono",
-      "url": "https://open.spotify.com/track/38xKGPT1Jxt1EFkWJGyk9w"
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 196146,
       "name": "Lullaby Of The Leaves",
       "url": "https://open.spotify.com/track/2ynGfwePiLptW599QebWbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Most Important Jazz Album Of 1964/65",
+        "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Whatever Possess'd Me",
+      "url": "https://open.spotify.com/track/3gpRA8ENMOuqxWyzlUZiVJ"
     }
   ],
   "unique_name": "This Is Chet Baker",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,176 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,172 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Médicament](https://open.spotify.com/track/7uQMKxhIedwtHt0TTHJdTn) | [Obcess](https://open.spotify.com/artist/4Q04Ql9zpWNwJaE0Yto1rr) | [Médicament](https://open.spotify.com/album/519L5BMHcjvq9MnEcp6JEp) | 1:57 |
 | 40 | [Viens qu'on se fatigue](https://open.spotify.com/track/5kSiiAu3p9LsJnw7Fz4evF) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Viens qu'on se fatigue](https://open.spotify.com/album/3u7p4p6n2kLEzP4aP87rEv) | 3:22 |
 
-Snapshot ID: `AAAAANt+C2N5uxcV6doC+sORlPzXZ+QM`
+Snapshot ID: `AAAAAPxcCOs6xImJTLycjJLtCPI6EmAx`

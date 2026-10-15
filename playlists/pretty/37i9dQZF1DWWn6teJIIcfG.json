@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223974,
+  "num_followers": 223987,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaYac/AOmJYP7AZrSR5Cpxr/cJc",
+  "snapshot_id": "AAAAAN7h4sCpQ0b7n9c03ZwXvexUQPT2",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:33",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "mirador",
-        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 273029,
-      "name": "laulasmaa",
-      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Schumann: 3 Romances, Op. 94: No. 2, Einfach, innig (Musical Moments)",
         "url": "https://open.spotify.com/album/2P5WbvbtDDbxEdEj0JBPXU"
       },
@@ -999,26 +983,38 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
-        "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
       },
       "artists": [
         {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Metamorphose String Orchestra",
-          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
-        },
-        {
-          "name": "Pavel Lyubomudrov",
-          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
-      "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
+      "duration_ms": 273029,
+      "name": "laulasmaa",
+      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1047,22 +1043,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
+        "name": "Turandot, SC 91: \"Nessun Dorma\" (Arr. for String Orchestra by Matt Naughtin)",
+        "url": "https://open.spotify.com/album/6HZioeFJe8Jf71hKMUgpoW"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
         }
       ],
-      "duration_ms": 147613,
-      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
+      "duration_ms": 188000,
+      "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
+      "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 241720,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
         "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
@@ -1371,26 +1351,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+      "duration_ms": 98120,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1415,6 +1391,30 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Schumann 50",
         "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
         "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 150493,
       "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
       "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1667,18 +1683,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1699,26 +1719,6 @@
       "duration_ms": 76746,
       "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
       "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
-        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
@@ -1864,17 +1864,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Jan Mr\u00e1\u010dek",
-          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 455266,
-      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
-      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
+      "duration_ms": 169659,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1959,8 +1955,8 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
+        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
       },
       "artists": [
         {
@@ -1968,33 +1964,17 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "33 Miniatures: No. 5, Theme from As You Like It",
-        "url": "https://open.spotify.com/album/3dIJxize1dEP43KldQaem6"
-      },
-      "artists": [
-        {
-          "name": "Giya Kancheli",
-          "url": "https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh"
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
         },
         {
-          "name": "Olga Jegunova-Oppetit",
-          "url": "https://open.spotify.com/artist/2FaeI2ZMtqtXfOCP2YyTnl"
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
         }
       ],
-      "duration_ms": 99600,
-      "name": "33 Miniatures: No. 5, Theme from As You Like It",
-      "url": "https://open.spotify.com/track/523BRuO1JnIVWwQ3UWvMbj"
+      "duration_ms": 455266,
+      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
+      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2063,6 +2043,26 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "33 Miniatures: No. 5, Theme from As You Like It",
+        "url": "https://open.spotify.com/album/3dIJxize1dEP43KldQaem6"
+      },
+      "artists": [
+        {
+          "name": "Giya Kancheli",
+          "url": "https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh"
+        },
+        {
+          "name": "Olga Jegunova-Oppetit",
+          "url": "https://open.spotify.com/artist/2FaeI2ZMtqtXfOCP2YyTnl"
+        }
+      ],
+      "duration_ms": 99600,
+      "name": "33 Miniatures: No. 5, Theme from As You Like It",
+      "url": "https://open.spotify.com/track/523BRuO1JnIVWwQ3UWvMbj"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Chopin",
-        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Laurence Oldak",
-          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Grande valse brillante, Op. 34 No. 2",
-      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
         "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 386066,
       "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
       "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Laurence Oldak",
+          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Grande valse brillante, Op. 34 No. 2",
+      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
     },
     {
       "added_at": "2026-09-25 04:01:33",

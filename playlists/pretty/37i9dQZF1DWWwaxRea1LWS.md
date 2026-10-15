@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT this week is all about 80s duets  Cover: Barry Gibb & Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260,099 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,259,981 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [Nobody Loves Me Like You Do \(with Jermaine Jackson\)](https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:46 |
 | 30 | [It's You \(with Stevie Wonder\)](https://open.spotify.com/track/4uKgaSTegNxuQbM1WPQrRr) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finder of Lost Loves \(Expanded Edition\)](https://open.spotify.com/album/3wkpPuqJ0nXejLl7CgGsNk) | 4:57 |
 
-Snapshot ID: `AAAAALc2fAbCEWW1B63VXuMl+8uRVtgD`
+Snapshot ID: `AAAAAGw48pVQfTz/7w7sYAayGGdZXkiF`

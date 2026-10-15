@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Mariana Soane y Majo Aguilar en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,873 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,903 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 19 | [Frijolero](https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Frijolero](https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF) | 3:33 |
 | 20 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 21 | [Qué Me Vas a Dar](https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:15 |
-| 22 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
-| 23 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
+| 22 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
+| 23 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
 | 24 | [Llorar Por Ella](https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Llorar Por Ella](https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV) | 2:48 |
 | 25 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
 | 26 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 43 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
 | 44 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 |
 | 45 | [Pudimos Ser](https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Pudimos Ser](https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY) | 3:09 |
-| 46 | [LA PENSIÓN](https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI) | [Mariana Ochoa](https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9) | [LA PENSIÓN](https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0) | 2:42 |
-| 47 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
+| 46 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
+| 47 | [LA PENSIÓN](https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI) | [Mariana Ochoa](https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9) | [LA PENSIÓN](https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0) | 2:42 |
 | 48 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
 | 49 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 50 | [Retumbando En El Cora](https://open.spotify.com/track/59IbXNL246o9YZC3EM4app) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Retumbando En El Cora](https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/4M2g9eUZc3gpZRdZmSd8Cx) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Corazón Mexicano](https://open.spotify.com/album/5EeZoBgXcOMiSlDWrIY4zo) | 4:00 |
 | 100 | [La Loca Era Yo](https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Fernández](https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS) | 3:55 |
 
-Snapshot ID: `AAAAAHOmqIxq+H+qJ9cgna3gftTw7eSI`
+Snapshot ID: `AAAAABGOIYNSoW7GSycVbJy5HS+5tAPg`

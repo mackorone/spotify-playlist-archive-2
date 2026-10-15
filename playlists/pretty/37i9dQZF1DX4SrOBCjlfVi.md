@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Offset, Gunna, Cardi B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,095 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,156 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Grandma’s Cookies](https://open.spotify.com/track/77CxKe3Qb3B7rf9IR0nETF) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Grandma’s Cookies](https://open.spotify.com/album/2drRMb3Q9bSsK8l8lMZO9R) | 2:47 |
 | 50 | [Money Maker](https://open.spotify.com/track/0jgVmVHbfM7rbhxQQbdpPo) | [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Money Maker](https://open.spotify.com/album/0GarEKqiWNnPuO69zWTuwe) | 3:07 |
 
-Snapshot ID: `AAAAABjsJvLGd3JxedHD8jfAZQPOUgi9`
+Snapshot ID: `AAAAALdwBN9MvFZr+xgfgyO0xMPyADe9`

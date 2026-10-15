@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,580 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,594 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 39 | [The Messenger](https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns \(Bonus Edition\)](https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02) | 3:01 |
 | 40 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 41 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 |
-| 42 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
-| 43 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
+| 42 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
+| 43 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
 | 44 | [Deep End \- Stripped](https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Deep End \(Stripped\)](https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA) | 3:30 |
 | 45 | [Waking up \(Acoustic\)](https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Acoustic](https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS) | 3:45 |
 | 46 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 66 | [The Steeple \- Acoustic](https://open.spotify.com/track/7FPvauwxWZbiB2Sako8ApN) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple \(Acoustic\)](https://open.spotify.com/album/6xxy6GXIGNVFsQ2Zu7CXqa) | 3:27 |
 | 67 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
 | 68 | [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 |
-| 69 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
-| 70 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 69 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 70 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
 | 71 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |
 | 72 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
 | 73 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
 | 74 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
 | 75 | [Harley Darling \- Acoustic](https://open.spotify.com/track/322f2YoWzoItz0jasljmXR) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Harley Darling \(Acoustic\)](https://open.spotify.com/album/5M0sJQ4t6ZCg57VH9kENUG) | 2:50 |
 
-Snapshot ID: `AAAAAJWpmRWAoyjPGpqMBafKbgVHERa/`
+Snapshot ID: `AAAAAL1MZ8lLqxNDVaVw9TNmggtofz/g`

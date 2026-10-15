@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14211,
+  "num_followers": 14213,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACNHtrpZh9CGDDjHSlwXie7",
+  "snapshot_id": "as10gAAAAAC9bGgwY+iGjy35J/7jpogB",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobred\u00f3sis De Tempra",
+        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Sobred\u00f3sis De Tempra",
+      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobred\u00f3sis De Tempra",
-        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Sobred\u00f3sis De Tempra",
-      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
     },
     {
       "added_at": null,

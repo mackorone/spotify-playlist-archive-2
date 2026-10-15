@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153611,
+  "num_followers": 153610,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI9OmFXwHZ9V41PShbW33SCEm/If",
+  "snapshot_id": "AAAAAFrAaCESVdp6/ST2Xcg3yxsoQNdc",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:07",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 175037,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 175037,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Silverline",
+        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Silverline",
+      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 169953,
       "name": "Ugly and Rotten",
       "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Silverline",
-        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Silverline",
-      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219941,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Mascara Masquerade",
-        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+        "name": "...with little ease",
+        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
       },
       "artists": [
         {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
         }
       ],
-      "duration_ms": 236527,
-      "name": "LSD (Love, Sex & Diamonds)",
-      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
+      "duration_ms": 196153,
+      "name": "\u2026with little ease",
+      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "...with little ease",
-        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
-      },
-      "artists": [
-        {
-          "name": "Saint Blonde",
-          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "\u2026with little ease",
-      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Mascara Masquerade",
+        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "LSD (Love, Sex & Diamonds)",
+      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/0QF6UHva2a77FIQzQYfAdG"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
+        "name": "The Watchers",
+        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
         }
       ],
-      "duration_ms": 175536,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
+      "duration_ms": 140363,
+      "name": "The Watchers",
+      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "The Watchers",
-        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 140363,
-      "name": "The Watchers",
-      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Earthquakes",
-        "url": "https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm"
-      },
-      "artists": [
-        {
-          "name": "Niis",
-          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
-        }
-      ],
-      "duration_ms": 185936,
-      "name": "Earthquakes",
-      "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Weather",
         "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 171553,
       "name": "The Weather",
       "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Earthquakes",
+        "url": "https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "duration_ms": 185936,
+      "name": "Earthquakes",
+      "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "The Hart",
-        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Through The Landslide",
-      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Holy Roller",
-        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
-      },
-      "artists": [
-        {
-          "name": "The Format",
-          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
-        }
-      ],
-      "duration_ms": 235532,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
+      },
+      "artists": [
+        {
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
+        }
+      ],
+      "duration_ms": 235532,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
     },
     {
       "added_at": "2026-09-25 04:03:07",

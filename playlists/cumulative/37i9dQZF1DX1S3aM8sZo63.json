@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Diego Herrera & Pancho Barraza en portada \ud83d\udcf8",
+  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Plan de Escape en portada \ud83d\udcf8",
   "name": "Banda Rom\u00e1ntica",
   "tracks": [
     {
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/7639dfG9UL1ABs8ABtClM1"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123998,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/77ILmTvNY5SO4XKZLu2bFt"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 233706,
       "name": "De Uno Y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"

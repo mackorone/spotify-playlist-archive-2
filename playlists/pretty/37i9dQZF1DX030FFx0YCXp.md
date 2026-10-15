@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowd\-pleasing favorites for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,750 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,752 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 23 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 24 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 25 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
-| 26 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
-| 27 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
+| 26 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
+| 27 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
 | 28 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
 | 29 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
 | 30 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 41 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 42 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
 | 43 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
-| 44 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
-| 45 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
+| 44 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
+| 45 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 46 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 47 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 48 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
 | 49 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 50 | [Right Back Where We Started From](https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB) | 3:12 |
-| 51 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
-| 52 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 51 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 52 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
 | 53 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
 | 54 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 |
 | 55 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 79 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 |
 | 80 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 |
 | 81 | [Mexico \- 2019 Remaster](https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 2:58 |
-| 82 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 |
-| 83 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 82 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 83 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 |
 | 84 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 |
 | 85 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
 | 86 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 99 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 100 | [She Wants To Go Dancing](https://open.spotify.com/track/0qi7eTaivYK7M7vq6lbsr5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 3:08 |
 
-Snapshot ID: `AAAAAJUQi/diJhywJGvGirdI44+P2KZl`
+Snapshot ID: `AAAAAE6UNYX9cIxnsuA6GFCwWV2zI0xV`

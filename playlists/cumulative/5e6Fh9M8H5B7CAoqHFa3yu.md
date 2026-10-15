@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,686 songs - 6 day 12 hr 22 min
+2,687 songs - 6 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2610,6 +2610,7 @@
 | [Yolanda](https://open.spotify.com/track/7fkR2mRrMS234jXuLY3d2z) | [Zara Kuntu](https://open.spotify.com/artist/4f7Ca0yCZ5U94ATo5f7Gdz) | [Yolanda](https://open.spotify.com/album/3bDiKX5nlA6KGIBotmkRUp) | 2:15 | 2025-05-04 |  |
 | [Yoru no Ame \- Special Version](https://open.spotify.com/track/7efCQGue3LeWfmTxyLw2fs) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Yoru no Ame \(Special Version\)](https://open.spotify.com/album/6XnTNNOKweCgeLxEa8XoFw) | 1:59 | 2026-03-23 |  |
 | [YOU \(Remastered\)](https://open.spotify.com/track/5BYgkXLcMXEpwKBCZQhxj6) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU \(Remastered\)](https://open.spotify.com/album/4ybcTXiTG88eczVMTOy9cy) | 5:55 | 2026-09-14 |  |
+| [YOU AND I](https://open.spotify.com/track/03x89Kr9NyV9q6T8pg7VOD) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU AND I](https://open.spotify.com/album/4ikoyRjiPIaQkaWuTUfm0c) | 7:39 | 2026-10-14 |  |
 | [You and You and I](https://open.spotify.com/track/6JuVpxC5A6TmtMbAmhsPsJ) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Sink/Swim/Fly](https://open.spotify.com/album/2B5t2T1uQoJ3eMv5XH4skF) | 4:20 | 2025-07-12 |  |
 | [You Are Not Alone \(International\)](https://open.spotify.com/track/1sj2aqNHUyrTjEb7Yx2Bib) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [You Are Not Alone \(International\)](https://open.spotify.com/album/6nISCsqelx1ucXFCVc5Wtm) | 3:54 | 2025-05-02 |  |
 | [You Call Me](https://open.spotify.com/track/03BNEWTnyl9okHOWxgLg2v) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [You Call Me](https://open.spotify.com/album/1VXEenNuByH6jO9G09lXDX) | 2:21 | 2025-09-30 |  |

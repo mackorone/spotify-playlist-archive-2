@@ -1,12 +1,12 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 125671,
+  "num_followers": 125761,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAANXvaIaLU0YUz8V6AK7OKyLTsDD",
+  "snapshot_id": "AAAAAJOTR/bLzWV+33Wloc9xB/y1gWz9",
   "tracks": [
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1143,26 +1143,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Oriental Evening",
-        "url": "https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD"
+        "name": "Chante Philemon Wehbe Volume 1",
+        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
       },
       "artists": [
         {
           "name": "Fairuz",
           "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        },
-        {
-          "name": "Nasri Shamseddine",
-          "url": "https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT"
-        },
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
         }
       ],
-      "duration_ms": 304626,
-      "name": "Yamme Ma Baaref",
-      "url": "https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM"
+      "duration_ms": 226821,
+      "name": "Ya Mersal El Marasil",
+      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1235,18 +1227,26 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Chante Philemon Wehbe Volume 1",
-        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
+        "name": "Oriental Evening",
+        "url": "https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD"
       },
       "artists": [
         {
           "name": "Fairuz",
           "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        },
+        {
+          "name": "Nasri Shamseddine",
+          "url": "https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT"
+        },
+        {
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
         }
       ],
-      "duration_ms": 226821,
-      "name": "Ya Mersal El Marasil",
-      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
+      "duration_ms": 304626,
+      "name": "Yamme Ma Baaref",
+      "url": "https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM"
     },
     {
       "added_at": "2025-09-15 06:53:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,235 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,243 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 10 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
 | 11 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
 | 12 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
-| 13 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
-| 14 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
+| 13 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
+| 14 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
 | 15 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 16 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
-| 17 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
-| 18 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
+| 17 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
+| 18 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 19 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
 | 20 | [BOILED PEANUTS](https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
 | 21 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 30 | [Stressed \- A COLORS SHOW](https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed \- A COLORS SHOW](https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder) | 3:06 |
 | 31 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 |
 | 32 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
-| 33 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
-| 34 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
+| 33 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
+| 34 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
 | 35 | [What's Your Name?](https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:39 |
 | 36 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
 | 37 | [Shit](https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 2:00 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 44 | [This Bitch Matters](https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 1:41 |
 | 45 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `asrRgAAAAAAhLLSUeUsUHoq5Iqvzv9sd`
+Snapshot ID: `as10gAAAAACCyffURuRI1hvGm+KJ2yp9`

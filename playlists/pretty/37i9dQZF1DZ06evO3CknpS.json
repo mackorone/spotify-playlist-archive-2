@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAASN4HFrEgjpifsjCON2g7i",
+  "snapshot_id": "as10gAAAAABjGU5Q+z58apbHvu7yg84c",
   "tracks": [
     {
       "added_at": null,
@@ -188,21 +188,21 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Morey Ritt",
+          "url": "https://open.spotify.com/artist/1JAXudyatYMiUMGNTRtvK6"
         },
         {
           "name": "Nadia Reisenberg",
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 220400,
+      "name": "Interview with Clara Rockmore and Morey Ritt",
+      "url": "https://open.spotify.com/track/1Lx6LMEaPUhuR4ReW8hyMp"
     },
     {
       "added_at": null,
@@ -212,17 +212,21 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": null,
@@ -280,8 +284,8 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -292,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 443520,
-      "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
-      "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -304,21 +308,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -376,8 +376,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Clara Rockmore",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Elegy: Do not tempt me needlessly.",
-      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+      "duration_ms": 443520,
+      "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
+      "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
     },
     {
       "added_at": null,
@@ -563,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Elegy: Do not tempt me needlessly.",
+      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ionisation (1927-1945)",
         "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 745600,
       "name": "Theremin Concerto",
       "url": "https://open.spotify.com/track/1NYjJGTv7am71YRGpPRx1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 392533,
-      "name": "Symphonie Espagnole: Andante",
-      "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,756 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,771 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 3 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
 | 4 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 5 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
-| 6 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 7 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 |
+| 6 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 |
+| 7 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 8 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 9 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
 | 10 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 99 | [Ahora Me Llama](https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:55 |
 | 100 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
 
-Snapshot ID: `AAAAACBQQb53rKjnbZSkU+jf6/B3E7gc`
+Snapshot ID: `AAAAAJfHIp3RbJpQju5sAVQaGHghj6Wu`

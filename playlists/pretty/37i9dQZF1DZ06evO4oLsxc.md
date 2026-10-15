@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618 likes - 37 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,619 likes - 37 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 23 | [The Last Poets](https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:14 |
 | 24 | [Black Classical Music / Afro Cubanism \(feat\. Venna\) \- Live From Malibu](https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 6:45 |
 | 25 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 |
-| 26 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 |
+| 26 | [so simple](https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw) | 2:52 |
 | 27 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 |
-| 28 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
-| 29 | [so simple](https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw) | 2:52 |
+| 28 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 |
+| 29 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
 | 30 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
 | 31 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
 | 32 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 36 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 | 37 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [What's A Diamond To A Baby \- The Remixes Vol\. 1](https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv) | 4:14 |
 
-Snapshot ID: `asrRgAAAAADTarFAIGbnaBxdu6GrxWh8`
+Snapshot ID: `as10gAAAAADOAo8GMP2qVnLYotF12/0v`

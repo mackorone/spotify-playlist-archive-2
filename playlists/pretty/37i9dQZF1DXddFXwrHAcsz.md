@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,894 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,919 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 18 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
 | 19 | [De Verzoening](https://open.spotify.com/track/1x9NeDQ4x5rnoO8fznt5TK) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [In Natura](https://open.spotify.com/album/7jAX8P8k12CrGVY796ycDt) | 5:02 |
 | 20 | [Je Veux De L'Amour \- 1990 Remastered Version](https://open.spotify.com/track/1jRIZvUWAojRlMVyxo57VW) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Meisjes](https://open.spotify.com/album/2G5ENoqQU9fn3IHmOLo05e) | 4:35 |
-| 21 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
+| 21 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
 | 22 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
-| 23 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
+| 23 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
 | 24 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 25 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
 | 26 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 36 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 37 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 |
 | 38 | [Geef Mij Je Angst](https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 4:20 |
-| 39 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
-| 40 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
+| 39 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
+| 40 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
 | 41 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
 | 42 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 |
 | 43 | [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 |
-| 44 | [Klap Maar In Je Handen](https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 5:09 |
-| 45 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
+| 44 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
+| 45 | [Klap Maar In Je Handen](https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 5:09 |
 | 46 | [Een Beetje Geld Voor Een Beetje Liefde](https://open.spotify.com/track/5Qp9zzVMWSLfrPokMUa8Px) | [Angelique](https://open.spotify.com/artist/5Wc9qBtVXUCDU44qtXDymm) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:03 |
 | 47 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 |
 | 48 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 59 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
 | 60 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 |
 
-Snapshot ID: `AAAAANXN9TyBVVk+zsPahpgkIPlt5SLN`
+Snapshot ID: `AAAAAF2RfVb9iO+exHiWdl8c8in24a7D`

@@ -7293,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "goofy",
+        "url": "https://open.spotify.com/album/0ABVbMaLderU71g6uR9FU1"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180602,
+      "name": "goofy",
+      "url": "https://open.spotify.com/track/1vKAiIADzfg8yTnZIV4wlV"
+    },
+    {
+      "album": {
         "name": "Got U",
         "url": "https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0"
       },
@@ -9546,7 +9564,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 171696,
       "name": "It\u2019s \u016a",
       "url": "https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj"
@@ -15060,7 +15078,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 178241,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
@@ -18170,7 +18188,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

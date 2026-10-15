@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Gunna, BigXthaPlug and Offset with Don Toliver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,527,060 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,525,440 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 |
 | 50 | [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 |
 
-Snapshot ID: `AAAAAIgQpeZWqMrdkeEmV9vcDXOYFa1T`
+Snapshot ID: `AAAAAD52ZspBx8gArDwvAb98i6GlEP7u`

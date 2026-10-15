@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,155 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,159 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 44 | [Processo](https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:25 |
 | 45 | [Saudade \- Ao Vivo](https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Saudade \(Ao Vivo\)](https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy) | 3:56 |
 | 46 | [Braços de Amor](https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Braços de Amor](https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig) | 5:32 |
-| 47 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
-| 48 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 |
-| 49 | [Em Troca](https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:36 |
-| 50 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
+| 47 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 |
+| 48 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
+| 49 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
+| 50 | [Em Troca](https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:36 |
 
-Snapshot ID: `asrRgAAAAACuT5PtOK8iXVZD9yWD5GEE`
+Snapshot ID: `as10gAAAAABJmcpkPyqy/s/P2qZuGT7M`

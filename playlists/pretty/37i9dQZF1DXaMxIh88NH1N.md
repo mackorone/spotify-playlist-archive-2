@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > Al mil para entrenar sin parar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,867 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,895 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 81 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 82 | [El Chavalón](https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Chavalón](https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq) | 2:54 |
 | 83 | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8) | [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO) | 2:38 |
-| 84 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
-| 85 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 |
+| 84 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 |
+| 85 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
 | 86 | [PURA SUERTE](https://open.spotify.com/track/0hNVocBws5hDYOnsDDj440) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [PURA SUERTE](https://open.spotify.com/album/59usHpQaqgUPTY1pe1GSvj) | 2:26 |
 | 87 | [Hay Con Que](https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 3:13 |
 | 88 | [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 95 | [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 |
 | 96 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
 | 97 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
-| 98 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
-| 99 | [LA NETA](https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [LA NETA](https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA) | 3:06 |
-| 100 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
+| 98 | [LA NETA](https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [LA NETA](https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA) | 3:06 |
+| 99 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
+| 100 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
 
-Snapshot ID: `AAAAAMfIIRFfJ3d96XK+w8heNAY0s8Ql`
+Snapshot ID: `AAAAAMto1uVU5kXs1oX9uHE5asNrVd6X`

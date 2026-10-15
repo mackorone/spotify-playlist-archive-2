@@ -2,7 +2,7 @@
 
 ### [Coups de cœur de l'équipe éditoriale : Septembre 2026](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : Ben PLG
+> Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
 1,125 songs - 2 day 12 hr 16 min
 

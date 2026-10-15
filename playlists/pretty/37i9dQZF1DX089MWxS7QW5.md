@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,464 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,475 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Sex Genius](https://open.spotify.com/track/0keBlUMTT3es63FPRblZ71) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Sex Genius](https://open.spotify.com/album/1sHRhphO62F7rv1jx34Hp2) | 3:26 |
 | 50 | [SAY MY NAME](https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [ANTIDOTE](https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu) | 2:27 |
 
-Snapshot ID: `AAAAANCj7ttdCPNszIf7FPgbRAOxs0Gw`
+Snapshot ID: `AAAAADxg0FpNWsUeCLd33fKtxIa5l40Z`

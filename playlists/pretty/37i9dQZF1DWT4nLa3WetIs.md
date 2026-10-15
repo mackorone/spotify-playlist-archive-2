@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating Tems' debut " For Broken Ears"
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,708 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,782 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 15 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 16 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 |
 | 17 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
-| 18 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 |
+| 18 | [Something Different](https://open.spotify.com/track/7g2j8MYcb4PJsI2C9OzEsx) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 2:55 |
 | 19 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 |
 | 20 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
-| 21 | [Something Different](https://open.spotify.com/track/7g2j8MYcb4PJsI2C9OzEsx) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 2:55 |
+| 21 | [Bounce](https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bounce](https://open.spotify.com/album/06BuTuvcjHPGvonxRap8AN) | 3:07 |
 | 22 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 | 23 | [4 Nothin'](https://open.spotify.com/track/6oqdO9TLmLOv7dt7GIq0R4) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 3:29 |
 | 24 | [You](https://open.spotify.com/track/05ZZL4ul4eTDuBJ9A1zwsC) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [You](https://open.spotify.com/album/72LcIoMReRHgYq5xeDI6Uh) | 2:43 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 30 | [Zoom](https://open.spotify.com/track/1Sk9EP4wMtXWhVMfcsWi2k) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Razor](https://open.spotify.com/album/6KhaMJdfAPIXxX5I56lZI3) | 3:24 |
 | 31 | [Again \- Remix](https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 3:11 |
 | 32 | [I Do](https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:43 |
-| 33 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 |
-| 34 | [Beggie Beggie](https://open.spotify.com/track/39Mt7PigFFy62B5A5uYvxI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:28 |
+| 33 | [Beggie Beggie](https://open.spotify.com/track/39Mt7PigFFy62B5A5uYvxI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:28 |
+| 34 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 |
 | 35 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 |
 | 36 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
 | 37 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 55 | [In Between](https://open.spotify.com/track/4bi3sDc95b2YfEMxWGjWCU) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/1ifuuVWSzO9joonBFpBHdQ) | 3:16 |
 | 56 | [Damn](https://open.spotify.com/track/1ZiTQSxZmbff7hmjD8fENw) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:39 |
 
-Snapshot ID: `AAAAABkSEGWGJL4HOJ9k2wnW0L24BH7z`
+Snapshot ID: `AAAAAFTQZBreshbfjV9EA3vRfGWjK5/1`

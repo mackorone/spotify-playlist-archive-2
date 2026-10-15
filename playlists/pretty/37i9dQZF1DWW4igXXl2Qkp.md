@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Raud
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,564 likes - 85 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,655 likes - 85 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [I'm Scared](https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [5 Problems](https://open.spotify.com/album/6B5fS73xLbj00E9mttG5Qp) | 2:05 |
 | 85 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAACQG6C9JfSAru+D8Mp2PbNMl9/iN`
+Snapshot ID: `AAAAAPWfDO6K+Y0Uvsc23ibnE/YxeB9T`

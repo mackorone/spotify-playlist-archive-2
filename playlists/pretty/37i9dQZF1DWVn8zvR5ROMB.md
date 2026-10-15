@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Lainey Wilson, Joshua Slone, Chase Matthew and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,156 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,256 likes - 67 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Textile Town](https://open.spotify.com/track/31EakEh3ci06RNZR0qYe1o) | [Drew Ryder Smith](https://open.spotify.com/artist/01ivNicPeISSLmDXpWakJK), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Textile Town](https://open.spotify.com/album/3VsnjcaK1FZVRFzLBa23F6) | 4:12 |
 | 67 | [Play House](https://open.spotify.com/track/37xDS20vyIGOfUbtHfWeXs) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Play House](https://open.spotify.com/album/6b3e6KsMXWXL1xXAqptHQH) | 3:09 |
 
-Snapshot ID: `AAAAABiIDuFGkun17UenF5cmuZGGRxgS`
+Snapshot ID: `AAAAAMdUZMDXy43rGy7zg/5S8hQSNnnF`

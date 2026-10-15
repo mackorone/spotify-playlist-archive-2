@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,749 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,863 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 37 | [Lips Can Lie](https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Lips Can Lie](https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM) | 3:49 |
 | 38 | [John Hardy's Wife](https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:33 |
 | 39 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 |
-| 40 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 |
-| 41 | [Taking a Chance on Love](https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ) | 3:18 |
+| 40 | [Taking a Chance on Love](https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ) | 3:18 |
+| 41 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 |
 | 42 | [Hay Burner](https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Straight Ahead](https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM) | 4:16 |
 | 43 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
 | 44 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 52 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 |
 | 53 | [On a Clear Day \(You Can See Forever\) \- Live](https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Exclusively for My Friends: Girl Talk, Vol\. II](https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f) | 4:21 |
 | 54 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
-| 55 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
-| 56 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 |
-| 57 | [Pavanne](https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 5:47 |
-| 58 | [All Of Me](https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah! \(Expanded Edition\)](https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol) | 3:45 |
+| 55 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 |
+| 56 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
+| 57 | [All Of Me](https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah! \(Expanded Edition\)](https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol) | 3:45 |
+| 58 | [Pavanne](https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 5:47 |
 | 59 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 |
 | 60 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
 | 61 | [I'm an Old Cowhand](https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 |
 | 100 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 |
 
-Snapshot ID: `AAAAAGIMeKoJjPTswKJ1LmKrSKrnM2uB`
+Snapshot ID: `AAAAAJTRVuA6CaLYn6SSi47R530PceKr`

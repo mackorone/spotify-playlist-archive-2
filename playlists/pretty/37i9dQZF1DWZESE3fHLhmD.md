@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > songs so golden wie der herbst
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,245 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,170 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 20 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 21 | [A LITTLE LESS](https://open.spotify.com/track/1pkDBJkJ8WOs8h27FsXVQz) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [A LITTLE LESS](https://open.spotify.com/album/39PlWkF06nmVGfofPPYUHF) | 2:24 |
 | 22 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
-| 23 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 24 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 23 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 24 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 25 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 26 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 27 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 28 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
-| 29 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
+| 29 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 30 | [before you hit the water.](https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [before you hit the water.](https://open.spotify.com/album/6bSls2Yh63Ei5G0VQ5or8l) | 3:03 |
-| 31 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 31 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
 | 32 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 33 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 34 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 50 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 51 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 52 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
-| 53 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
-| 54 | [STORM II](https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 2:53 |
+| 53 | [STORM II](https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 2:53 |
+| 54 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 | 55 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 56 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 57 | [Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:30 |
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 77 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 |
 | 78 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 |
 | 79 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
-| 80 | [From Eden](https://open.spotify.com/track/0bkW98npv8EsWQ2fXFzK56) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:43 |
-| 81 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
+| 80 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
+| 81 | [From Eden](https://open.spotify.com/track/0bkW98npv8EsWQ2fXFzK56) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:43 |
 | 82 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 83 | [Walzer](https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2) | 3:21 |
 | 84 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
 | 85 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
-| 86 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
-| 87 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 |
+| 86 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 |
+| 87 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
 | 88 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
 | 89 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 |
 | 90 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 99 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 |
 | 100 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Everything is romantic featuring caroline polachek](https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio) | 3:23 |
 
-Snapshot ID: `AAAAAIK9zuLYM9qobsCzLhADydb9+jjE`
+Snapshot ID: `AAAAADQbVIsiua4J41JcDGY4/15BM515`

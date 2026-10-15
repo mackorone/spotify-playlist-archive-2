@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,624 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,631 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 48 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 49 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
 | 50 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
-| 51 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 52 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
-| 53 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
-| 54 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
+| 51 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 52 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
+| 53 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
+| 54 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
 | 55 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
 | 56 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
 | 57 | [I Dream](https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 2:57 |
-| 58 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
-| 59 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
+| 58 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
+| 59 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
 | 60 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 61 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 |
 | 62 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 74 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
 | 75 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
 
-Snapshot ID: `AAAAAM27dql+wipKJOC60uHxPQwBTTE4`
+Snapshot ID: `AAAAAOsPcBKCxIJr5RwkGdXXEW8cgvc1`

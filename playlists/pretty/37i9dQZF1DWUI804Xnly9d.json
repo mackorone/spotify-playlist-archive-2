@@ -1,12 +1,12 @@
 {
   "description": "Magic of acoustic poured into your Chai. Cover - Bhediya",
-  "num_followers": 157056,
+  "num_followers": 157088,
   "original_name": "Chai & Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFr0kPs0PjAz1eMyvFuvMUXjsMdP",
+  "snapshot_id": "AAAAANSsJoFG/LzXppg3JsQdP5k0019P",
   "tracks": [
     {
       "added_at": "2026-09-25 06:53:35",
@@ -127,30 +127,6 @@
     {
       "added_at": "2026-09-25 06:53:35",
       "album": {
-        "name": "Pehla Pyaar Doosri Baar",
-        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        },
-        {
-          "name": "Gurpreet Saini",
-          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
-        }
-      ],
-      "duration_ms": 185030,
-      "name": "Chaand (Unplugged)",
-      "url": "https://open.spotify.com/track/71TXRxAtsO9Gi06W1yryAv"
-    },
-    {
-      "added_at": "2026-09-25 06:53:35",
-      "album": {
         "name": "Saiyaara",
         "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
       },
@@ -261,6 +237,30 @@
       "url": "https://open.spotify.com/track/50RMvku2RcxXyycpTNGvhE"
     },
     {
+      "added_at": "2026-10-14 04:22:15",
+      "album": {
+        "name": "Karta Hoon",
+        "url": "https://open.spotify.com/album/77I3l0CIMOKefpXHjHS5Lg"
+      },
+      "artists": [
+        {
+          "name": "Gurman",
+          "url": "https://open.spotify.com/artist/6idSI8A0Mid4mx6GMognXx"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Kp Music",
+          "url": "https://open.spotify.com/artist/0rk8zrRC3nkyfbrvCuWIpx"
+        }
+      ],
+      "duration_ms": 249351,
+      "name": "Karta Hoon",
+      "url": "https://open.spotify.com/track/6FrcQrAssZfcWIjobJmkSK"
+    },
+    {
       "added_at": "2026-09-25 06:53:35",
       "album": {
         "name": "Husn",
@@ -319,18 +319,26 @@
     {
       "added_at": "2026-09-25 06:53:35",
       "album": {
-        "name": "Nindiya",
-        "url": "https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951"
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
       },
       "artists": [
         {
-          "name": "Kunal Kemmu",
-          "url": "https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz"
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
         }
       ],
-      "duration_ms": 163892,
-      "name": "Nindiya",
-      "url": "https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn"
+      "duration_ms": 185030,
+      "name": "Chaand (Unplugged)",
+      "url": "https://open.spotify.com/track/71TXRxAtsO9Gi06W1yryAv"
     },
     {
       "added_at": "2026-09-25 06:53:35",

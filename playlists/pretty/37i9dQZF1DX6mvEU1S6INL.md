@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,234 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,232 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 46 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 47 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 48 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
-| 49 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
-| 50 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
+| 49 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
+| 50 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
 | 51 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 52 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 53 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 90 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
 | 91 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
 | 92 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
-| 93 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
-| 94 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
-| 95 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
-| 96 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 |
+| 93 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
+| 94 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
+| 95 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 96 | [Empire](https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/4PAyBqzCYoIIjjPFszeqgT) | 4:20 |
 | 97 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 98 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
-| 99 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
-| 100 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 |
+| 99 | [Big Jet Plane](https://open.spotify.com/track/23X4RjHORKVk75NBCjIusY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/7buvQ1qE33uqzn6hoez8Sv) | 3:59 |
+| 100 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
 
-Snapshot ID: `AAAAAOAPkQnokb/sNszUdGH7qpS6b/Sf`
+Snapshot ID: `AAAAAAWYKyNQ4KBEvS7HzpVqO1K3yxBd`

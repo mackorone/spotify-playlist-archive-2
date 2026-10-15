@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > El Malilla is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,378 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,249 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:55 |
 | 50 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 
-Snapshot ID: `AAAAAP1G/y5cP+0DUvXcWAS6aUtp0s8p`
+Snapshot ID: `AAAAACirlfS4+Twiv4l6diMqc54k5nRr`

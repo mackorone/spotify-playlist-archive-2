@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,167 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,127 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 84 | [Pretty Green Eyes \- Radio Edit](https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 3:21 |
 | 85 | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 |
 | 86 | [Be Right There](https://open.spotify.com/track/5W6PyPVsWzS0reonIL7gId) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr) | [Be Right There](https://open.spotify.com/album/7a9hWSVvEnoUidwmDjVPuF) | 3:57 |
-| 87 | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 |
+| 87 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
 | 88 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 |
-| 89 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
+| 89 | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 |
 | 90 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 | 91 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Satisfaction \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX) | 2:23 |
 | 92 | [Favour](https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Can You Feel It](https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Can You Feel It](https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO) | 2:39 |
 | 100 | [Show Me Love \(feat\. Robin S\)](https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love \(feat\. Robin S\)](https://open.spotify.com/album/2miu8ZVhdGb34StwR5Ve6w) | 3:07 |
 
-Snapshot ID: `AAAAAGgZ/fKCktqpQ6/dz6fQbLaRu0Sw`
+Snapshot ID: `AAAAAFWpLF1Ok17l5QVZABZu6G8rEHnG`

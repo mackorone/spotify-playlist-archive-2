@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 733587,
+  "num_followers": 733622,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANflYYyRvuPAZEU7vhN20p1Wb4nF",
+  "snapshot_id": "AAAAAJMnDKWK9gLI7RnUIA4aFFuL8Cj8",
   "tracks": [
     {
       "added_at": "2026-09-24 05:53:06",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "THE SIN : BLISS",
-        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Bloody Paradise",
-      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "CHAT",
-        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "CHAT",
-      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "THIS IS FOR",
-        "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
         }
       ],
-      "duration_ms": 131097,
-      "name": "THIS IS FOR",
-      "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -955,22 +971,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
-        "name": "THE SIN : VANISH",
-        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 139045,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+        "name": "THE SIN : VANISH",
+        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 166773,
-      "name": "Strategy (from the Netflix film KPop Demon Hunters)",
-      "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
+      "duration_ms": 139045,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1147,6 +1131,22 @@
       "duration_ms": 171427,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "Strategy (from the Netflix film KPop Demon Hunters)",
+      "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
         }
       ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+      "duration_ms": 167652,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "SHOT CALLERS",
-        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
       },
       "artists": [
         {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 167652,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 187310,
       "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
       "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 135559,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "added_at": "2026-09-24 05:53:06",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-24 05:53:06",
       "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
-    },
-    {
-      "added_at": "2026-09-24 05:53:06",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
+    },
+    {
+      "added_at": "2026-09-24 05:53:06",
+      "album": {
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
     },
     {
       "added_at": "2026-09-24 05:53:06",

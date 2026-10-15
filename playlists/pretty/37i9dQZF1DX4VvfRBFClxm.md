@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,504 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,445 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 86 | [Cassidy](https://open.spotify.com/track/2JR7RCUN6pZIoyNzaqxdUa) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 4:28 |
 | 87 | [I'll Follow \- Acoustic Version](https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [I'll Follow \(Acoustic Version\)](https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0) | 3:18 |
 | 88 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV) | 3:41 |
-| 89 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
-| 90 | [I Don't Love You \(I'm Just Lonely\) \- Acoustic](https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [I Don't Love You \(I'm Just Lonely\) \[Acoustic\]](https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e) | 3:03 |
+| 89 | [I Don't Love You \(I'm Just Lonely\) \- Acoustic](https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [I Don't Love You \(I'm Just Lonely\) \[Acoustic\]](https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e) | 3:03 |
+| 90 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
 | 91 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
 | 92 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 |
 | 93 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
-| 94 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 95 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 94 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 95 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 96 | [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 |
 | 97 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 98 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 120 | [Brother \- Acoustic](https://open.spotify.com/track/2tjb7JbJj7sl4ykpIeAMoA) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Brother](https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV) | 3:36 |
 | 121 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
 | 122 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
-| 123 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
-| 124 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 |
+| 123 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 |
+| 124 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
 | 125 | [Dream \- Acoustic](https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream \(Acoustic\)](https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh) | 3:18 |
 
-Snapshot ID: `AAAAAPeHyhnXo9gjyOQ9bWPDcM8fHdgL`
+Snapshot ID: `AAAAABx1ZtelBiw7XWJ156RceO9wCp6Q`

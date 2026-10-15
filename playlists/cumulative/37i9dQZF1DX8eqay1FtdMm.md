@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: YESUNG\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Song Sohee\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-672 songs - 1 day 19 hr 47 min
+673 songs - 1 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
 | [like wind](https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [like wind](https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x) | 2:49 | 2023-03-27 | 2023-05-04 |
-| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 |  |
+| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 | 2026-10-15 |
 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 | 2022-10-26 |  |
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Lingering](https://open.spotify.com/track/0rubDl8akBZ3qP5CWDmmV9) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Lingering](https://open.spotify.com/album/6VMORU9yksutF9zwmP9g4u) | 3:36 | 2024-01-12 | 2024-02-12 |
@@ -506,6 +506,7 @@
 | [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 | 2024-07-17 |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SunFlower](https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [SunFlower](https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1) | 3:39 | 2026-03-24 | 2026-05-11 |
+| [Sunlight, Wind](https://open.spotify.com/track/6pmUEbVCPyWf6XNk0jvBm3) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Sunlight, Wind](https://open.spotify.com/album/2gmresKEN0qJRSorfMpUkY) | 3:36 | 2026-10-15 |  |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2026-10-01 |
 | [Surrender](https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [DIVA](https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT) | 3:57 | 2024-11-28 | 2024-12-06 |

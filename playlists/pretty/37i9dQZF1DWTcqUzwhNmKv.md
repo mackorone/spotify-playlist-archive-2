@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Calva Louise are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,635 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,632 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Early Graves](https://open.spotify.com/track/4k1DdiZfmlJzbKbJdVPU8z) | [Disfear](https://open.spotify.com/artist/2rYMvTD6SxQHgOXhVUdTRc) | [Early Graves](https://open.spotify.com/album/4uQMCdTVOTWkchNw8u8VIL) | 4:08 |
 | 100 | [Hurt Me](https://open.spotify.com/track/0piwNOZM7foP78JqzrkqL9) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Hurt Me](https://open.spotify.com/album/0y80H0RPAi5wYeWTCEClaG) | 3:13 |
 
-Snapshot ID: `AAAAAIO3e+jFrgR/ndOEWVyZFZ00BnAl`
+Snapshot ID: `AAAAADYf25eoJN42cAczUbQK6Vyd5Fz6`

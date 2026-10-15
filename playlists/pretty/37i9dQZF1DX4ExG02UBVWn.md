@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,938 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,943 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 14 | [When It Rains](https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [LAUSSE THE CAT](https://open.spotify.com/artist/2Zv7tySETckaR2robozkcz), [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:35 |
 | 15 | [Blue Stripes](https://open.spotify.com/track/4LIHG1NG2MniJdicvCEg9X) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:15 |
 | 16 | [Stay](https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Stay](https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe) | 2:55 |
-| 17 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 |
-| 18 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 |
+| 17 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 |
+| 18 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 |
 | 19 | [Champagne Problems](https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Champagne Problems](https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF) | 2:22 |
 | 20 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 |
 | 21 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 32 | [Paradise Pending](https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:42 |
 | 33 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
 | 34 | [30,000 FEET](https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [BAD TASTE](https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc) | 3:31 |
-| 35 | [Inna city](https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [RISING](https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES) | 2:26 |
-| 36 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 |
+| 35 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 |
+| 36 | [Inna city](https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [RISING](https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES) | 2:26 |
 | 37 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
 | 38 | [Introverted Stoner](https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Introverted Stoner](https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08) | 3:12 |
 | 39 | [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 79 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
 | 80 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
 | 81 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 82 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
+| 82 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
 | 83 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 |
-| 84 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
+| 84 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
 | 85 | [Makin' You Mine](https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV) | [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [KYA](https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9) | [Makin' You Mine/WHATCHUNEED](https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin) | 2:18 |
 | 86 | [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 |
 | 87 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 99 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
 | 100 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
 
-Snapshot ID: `AAAAALRELvymWSKGXHxAy0iTQgSQ7Ezz`
+Snapshot ID: `AAAAACIzb4qMop8MQKbMScazuiU4jGLZ`

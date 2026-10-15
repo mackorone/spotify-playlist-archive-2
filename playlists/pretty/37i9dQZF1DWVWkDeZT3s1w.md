@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,109 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,124 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 81 | [Libertad](https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [Kase.O Jazz Magnetism](https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4) | 3:30 |
 | 82 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesía Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 |
 | 83 | [De Mi Muerte](https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 3:41 |
-| 84 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
-| 85 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
+| 84 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
+| 85 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 86 | [A Veces](https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Inedito](https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt) | 2:47 |
 | 87 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
 | 88 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
 | 100 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 
-Snapshot ID: `AAAAADsLaAzJbCWSf5rG3OszvPnXobV2`
+Snapshot ID: `AAAAABhuOgaiFbX6IedTkDHiWq0aDBC7`

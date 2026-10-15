@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 96274,
+  "num_followers": 96291,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6xX/Ln45/EKg90ltjQGhiBl5jJ",
+  "snapshot_id": "AAAAAEJ3GrkImbKSPhIFbibUKD6I2SR9",
   "tracks": [
     {
       "added_at": "2025-12-15 11:57:31",
@@ -427,6 +427,30 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -451,30 +475,6 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 96266,
-      "name": "Song Book: That Certain Feeling. Ardently",
-      "url": "https://open.spotify.com/track/5wdTS5phmn9ehfcAreEyvb"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
         "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 161146,
       "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin & Piano)",
       "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 96266,
+      "name": "Song Book: That Certain Feeling. Ardently",
+      "url": "https://open.spotify.com/track/5wdTS5phmn9ehfcAreEyvb"
     },
     {
       "added_at": "2025-12-15 11:57:31",

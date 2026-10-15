@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next level pop 🫧 cover: tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,640 likes - 89 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,616 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 88 | [Virga](https://open.spotify.com/track/5aUhpVJfds0W0joCO4lOU9) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Virga](https://open.spotify.com/album/3uzc3zIyKhHabYCiam2gqG) | 2:01 |
 | 89 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
 
-Snapshot ID: `AAAAAGieZ5zs6cmNGI5sgdH2lgVS3A5+`
+Snapshot ID: `AAAAAGN5YerwCCEoK1kDwY56fkPTnZ8f`

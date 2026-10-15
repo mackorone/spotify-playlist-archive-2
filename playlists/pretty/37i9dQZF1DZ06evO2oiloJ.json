@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 257108,
+  "num_followers": 257121,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAl7JADv5ainig3d+AHI8KI",
+  "snapshot_id": "as10gAAAAABwjOVMRyvoMAIOoUS8CJQC",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piece Of Your Love",
-        "url": "https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY"
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 225954,
-      "name": "Piece Of Your Love",
-      "url": "https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U"
+      "duration_ms": 147749,
+      "name": "Passport Junkie",
+      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+        "name": "Piece Of Your Love",
+        "url": "https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 147749,
-      "name": "Passport Junkie",
-      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
+      "duration_ms": 225954,
+      "name": "Piece Of Your Love",
+      "url": "https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U"
     },
     {
       "added_at": null,

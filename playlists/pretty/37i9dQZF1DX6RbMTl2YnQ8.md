@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 2000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,364 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,455 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 | 6 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 |
 | 7 | [La Planta](https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M) | [Caos](https://open.spotify.com/artist/4GGc0ZcZkaWFiQRhfUJZ8F) | [La Vida Gacha](https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM) | 4:05 |
 | 8 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
-| 9 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
-| 10 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 |
+| 9 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 |
+| 10 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
 | 11 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
 | 12 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
 | 13 | [Eres para Mí](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 | 49 | [Lo noto](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 |
 | 50 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
 
-Snapshot ID: `AAAAADDcKC5GHHNlS2o4mqsvGBeCwcte`
+Snapshot ID: `AAAAADJ0Tjdytoz8+T2jXbrd3nXEs/5Q`

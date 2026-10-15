@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Ícaro e Gilmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,052,498 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,052,314 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Transa Pendente](https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:26 |
 | 50 | [TADINHA](https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw) | [Raffa Torres](https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [ALMA \- PARTE 1](https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983) | 3:51 |
 
-Snapshot ID: `AAAAAOWtRTC0arVOKJvFhkysMZIzTrE5`
+Snapshot ID: `AAAAAEQO3Ew7wxxGgOGWLreY5Ic5jKSA`

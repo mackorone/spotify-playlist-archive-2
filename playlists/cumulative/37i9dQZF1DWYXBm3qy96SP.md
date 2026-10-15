@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Florence Road
 
-2,381 songs - 5 day 19 hr 2 min
+2,382 songs - 5 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,7 +955,7 @@
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-28 | 2023-10-13 |
 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 | 2025-11-14 | 2026-03-13 |
 | [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-05-02 | 2024-06-30 |
-| [HUMAN AGAIN](https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [HUMAN AGAIN](https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX) | 3:16 | 2026-07-24 |  |
+| [HUMAN AGAIN](https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [HUMAN AGAIN](https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX) | 3:16 | 2026-07-24 | 2026-10-15 |
 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 | 2026-06-26 | 2026-09-25 |
 | [hummingbird](https://open.spotify.com/track/7uh1vX2ecH6Zdf8zXB6eAe) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/3UYJbvUYlO9bx4DEoV3XZW) | 3:38 | 2024-04-25 | 2024-06-21 |
 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 | 2024-01-04 | 2024-01-19 |
@@ -1217,7 +1217,7 @@
 | [Little Like Hell](https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Little Like Hell](https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY) | 3:07 | 2023-11-30 | 2023-12-08 |
 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 | 2025-04-03 | 2025-05-07 |
 | [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-05-09 | 2024-07-16 |
-| [Living Hell](https://open.spotify.com/track/48c7OG5qnI46q1GkspLrXv) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:33 | 2026-10-01 | 2026-10-09 |
+| [Living Hell](https://open.spotify.com/track/48c7OG5qnI46q1GkspLrXv) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:33 | 2026-10-01 |  |
 | [Living in Paradise \(with Avril Lavigne\)](https://open.spotify.com/track/798hR8Q0YSE2J7RnhVCZdj) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv) | 3:16 | 2025-10-23 | 2025-11-15 |
 | [Living Or Dying](https://open.spotify.com/track/33hscsDJtrZMeOi5eJhHLr) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Living Or Dying](https://open.spotify.com/album/1B43OF6rFqDRanhHHDUIQH) | 3:39 | 2023-11-02 | 2023-11-17 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-07-19 |
@@ -1284,7 +1284,7 @@
 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 | 2026-03-12 | 2026-04-16 |
 | [Make\-up is a Lie](https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/0jyLLWr93rCySb4oKjhxxX) | 3:09 | 2026-03-12 | 2026-03-25 |
 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 | 2024-02-29 | 2024-04-05 |
-| [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 | 2026-08-17 |  |
+| [Makes No Difference](https://open.spotify.com/track/3MnJJvsWYjVJ5ioRi8OWiy) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Into The Garden](https://open.spotify.com/album/1izhOtbMSVbJt3rPfggWLh) | 4:12 | 2026-08-17 | 2026-10-15 |
 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-11 | 2026-03-13 |
 | [Man Down](https://open.spotify.com/track/0zwTWAaEvnHoGIoRIPG0oD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Man Down](https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH) | 3:03 | 2023-09-07 | 2023-09-15 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-08-13 |
@@ -1701,6 +1701,7 @@
 | [ROCKSTAR](https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS) | [HARDY](https://open.spotify.com/artist/1BUyBspX25E4yYIvaekJfN) | [ROCKSTAR](https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl) | 3:14 | 2024-02-08 | 2024-07-24 |
 | [Rockstar](https://open.spotify.com/track/67g2PIQKhwBJ5BzqkO0VgP) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Rockstar](https://open.spotify.com/album/7lGpYKShMsb9DFvmIdIMIC) | 3:28 | 2023-09-07 | 2023-09-29 |
 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-08-28 | 2025-09-12 |
+| [Rollercoaster](https://open.spotify.com/track/0zGnH3NbrPSP22g87xOKxZ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Rollercoaster](https://open.spotify.com/album/4RFfpRkcYY9Y8liNLyWPoR) | 4:33 | 2026-10-08 |  |
 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 | 2026-08-13 | 2026-08-21 |
 | [Romance Is A Desert](https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Romance Is A Desert](https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND) | 2:55 | 2026-09-17 |  |
 | [Romeo](https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Romeo](https://open.spotify.com/album/3Bsx6OjdZj362VILxymjhR) | 4:00 | 2026-03-26 | 2026-04-03 |

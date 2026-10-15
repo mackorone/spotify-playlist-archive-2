@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73548,
+  "num_followers": 73558,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMpmcIOZLb+SUOU2F2+b4jJtjum",
+  "snapshot_id": "AAAAADbyE+r/RjA8m2p9us9mxYeRjYHp",
   "tracks": [
     {
       "added_at": "2026-09-18 03:03:04",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
+      },
+      "artists": [
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        }
+      ],
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
         "name": "Como \u00e9 bom poder dizer eu te amo",
         "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 143305,
       "name": "Me Amas",
       "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-09-18 03:03:04",

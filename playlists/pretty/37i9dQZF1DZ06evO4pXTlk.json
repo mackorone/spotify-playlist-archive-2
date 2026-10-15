@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAA/DIR2FPnH8Ea4Y2QlGk27",
+  "snapshot_id": "as10gAAAAAAMPUAJ6NWz8RfDq2VK4mbP",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+      "duration_ms": 190390,
+      "name": "Shaking In The Water",
+      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 190390,
-      "name": "Shaking In The Water",
-      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Drive Me Wild",
-      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+      "duration_ms": 240786,
+      "name": "Show Me Beautiful",
+      "url": "https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 215933,
-      "name": "rinse repeat",
-      "url": "https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO"
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 179383,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
+      "duration_ms": 343212,
+      "name": "There Is Only You",
+      "url": "https://open.spotify.com/track/7aqRsbwlcDexjeRKdv6UGc"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaking In The Water",
-        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 230451,
-      "name": "North East Kid",
-      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready to Call",
         "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 219405,
       "name": "Ready to Call",
       "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaking In The Water",
+        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 230451,
+      "name": "North East Kid",
+      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 199266,
       "name": "Gum",
       "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     }
   ],
   "unique_name": "This Is The XCERTS",

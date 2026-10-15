@@ -1,27 +1,22 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzxICEYRu0h.md) - [plain](/playlists/plain/37i9dQZF1DWVzxICEYRu0h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVzxICEYRu0h)
 
-### [RADAR Podcasters AL SUR](https://open.spotify.com/playlist/37i9dQZF1DWVzxICEYRu0h)
+### [RADAR Creators Argentina](https://open.spotify.com/playlist/37i9dQZF1DWVzxICEYRu0h)
 
-> Aquí está tu próximo podcast favorito.
+> Acá está tu próximo podcast favorito\. Portada: Mientras Lavás los Platos
 
-[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 15 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 10 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bienvenidxssss](https://open.spotify.com/episode/7n6uxetbuCr4yvpO9TKceF) | [TIPO de Jacinta de Oromí](https://open.spotify.com/show/7g44wdr50JOsds5Ii0kxRi) | [TIPO de Jacinta de Oromí](https://open.spotify.com/album/7g44wdr50JOsds5Ii0kxRi) | 5:06 |
-| 2 | ["Amore mio" Paolo](https://open.spotify.com/episode/4eF9Vzr92w7x1avVXwyDZo) | [Se buscan historias de amor ](https://open.spotify.com/show/4CX6NNwh4WNawB0zCw6JDM) | [Se buscan historias de amor ](https://open.spotify.com/album/4CX6NNwh4WNawB0zCw6JDM) | 4:59 |
-| 3 | [Tóxicas United: Superando la toxicidad ft\. @berniqla](https://open.spotify.com/episode/4kE4sMhCNnVzfJAC0SvALZ) | [Azúcar Amargo](https://open.spotify.com/show/1bNbr4EUz6NjVQuu06PT14) | [Azúcar Amargo](https://open.spotify.com/album/1bNbr4EUz6NjVQuu06PT14) | 1:45:30 |
-| 4 | [Desde "Intensamente", ¿hacia dónde se dirige PIXAR?](https://open.spotify.com/episode/4OyjdTP1Ug3KHOdZkS8j3s) | [Sin Permiso](https://open.spotify.com/show/0dHa3E4qx7kG3gdAmYYHPn) | [Sin Permiso](https://open.spotify.com/album/0dHa3E4qx7kG3gdAmYYHPn) | 36:55 |
-| 5 | [03.\- Mitos y leyendas de Chile](https://open.spotify.com/episode/74kS96vtY3cJAOgF8o4qkh) | [Creepychantas](https://open.spotify.com/show/2F9BKTn4tXzOlia9EHWv6D) | [Creepychantas](https://open.spotify.com/album/2F9BKTn4tXzOlia9EHWv6D) | 50:23 |
-| 6 | [Malos hábitos parte 1](https://open.spotify.com/episode/5QaK22B6iyOn5RopWY5DVE) | [TIPO de Jacinta de Oromí](https://open.spotify.com/show/7g44wdr50JOsds5Ii0kxRi) | [TIPO de Jacinta de Oromí](https://open.spotify.com/album/7g44wdr50JOsds5Ii0kxRi) | 16:35 |
-| 7 | ["Nunca me voy a olvidar de Pedro" Sofía](https://open.spotify.com/episode/4EDkqZlAraVzJD6DGFleEV) | [Se buscan historias de amor ](https://open.spotify.com/show/4CX6NNwh4WNawB0zCw6JDM) | [Se buscan historias de amor ](https://open.spotify.com/album/4CX6NNwh4WNawB0zCw6JDM) | 5:08 |
-| 8 | [TPC: Quiebres amorosos ft\. @pecosanerd](https://open.spotify.com/episode/4SjYYI0DkEPNTZ5RztYpfH) | [Azúcar Amargo](https://open.spotify.com/show/1bNbr4EUz6NjVQuu06PT14) | [Azúcar Amargo](https://open.spotify.com/album/1bNbr4EUz6NjVQuu06PT14) | 2:35:59 |
-| 9 | [LA ISLA SINIESTRA: Te convencemos de verla y ¿cuál es el final correcto?](https://open.spotify.com/episode/5pwJRIKVL4RiwRerrGHpIV) | [Sin Permiso](https://open.spotify.com/show/0dHa3E4qx7kG3gdAmYYHPn) | [Sin Permiso](https://open.spotify.com/album/0dHa3E4qx7kG3gdAmYYHPn) | 25:13 |
-| 10 | [67.\- El Iceberg](https://open.spotify.com/episode/2YGSQTRvVwfDpXIbUxZx3r) | [Creepychantas](https://open.spotify.com/show/2F9BKTn4tXzOlia9EHWv6D) | [Creepychantas](https://open.spotify.com/album/2F9BKTn4tXzOlia9EHWv6D) | 1:02:59 |
-| 11 | [Límites](https://open.spotify.com/episode/6DACPWvgkSJ4CBPjWnjgxd) | [TIPO de Jacinta de Oromí](https://open.spotify.com/show/7g44wdr50JOsds5Ii0kxRi) | [TIPO de Jacinta de Oromí](https://open.spotify.com/album/7g44wdr50JOsds5Ii0kxRi) | 20:13 |
-| 12 | ["Aventura para contar, realidad para vivir" Helena](https://open.spotify.com/episode/3UEe7rybBFUWejr40fpv3F) | [Se buscan historias de amor ](https://open.spotify.com/show/4CX6NNwh4WNawB0zCw6JDM) | [Se buscan historias de amor ](https://open.spotify.com/album/4CX6NNwh4WNawB0zCw6JDM) | 3:40 |
-| 13 | [Carrete a lo maldito ft\. @lauriturri](https://open.spotify.com/episode/2tbwHeBCmxZ7hCT8Vs0owP) | [Azúcar Amargo](https://open.spotify.com/show/1bNbr4EUz6NjVQuu06PT14) | [Azúcar Amargo](https://open.spotify.com/album/1bNbr4EUz6NjVQuu06PT14) | 2:01:42 |
-| 14 | [Charlita de: HOST, ¿la película más aterradora de todos los tiempos?](https://open.spotify.com/episode/5vjLvquPTaoPvfYJuLStVu) | [Sin Permiso](https://open.spotify.com/show/0dHa3E4qx7kG3gdAmYYHPn) | [Sin Permiso](https://open.spotify.com/album/0dHa3E4qx7kG3gdAmYYHPn) | 16:04 |
-| 15 | [86.\- El Diablo](https://open.spotify.com/episode/0XAmPTdkHOWgRD0xPpuNyz) | [Creepychantas](https://open.spotify.com/show/2F9BKTn4tXzOlia9EHWv6D) | [Creepychantas](https://open.spotify.com/album/2F9BKTn4tXzOlia9EHWv6D) | 1:44:07 |
+| 1 | [66\. SOFI MARTÍNEZ — La soltería y el lado B de cumplir sueños ](https://open.spotify.com/episode/782POQHPMPMmYOk8Ru7nuA) | [Mientras lavás los platos](https://open.spotify.com/show/21O8wDGZF9T5wq1zpkUWyM) | [Mientras lavás los platos](https://open.spotify.com/album/21O8wDGZF9T5wq1zpkUWyM) | 53:37 |
+| 2 | [9\. COSAS QUE NATURALIZAMOS DE NUESTRAS FAMILIAS – Error 404 pudor not found](https://open.spotify.com/episode/6ewWcWSi5fZWV9P5It2Adh) | [Mientras lavás los platos](https://open.spotify.com/show/21O8wDGZF9T5wq1zpkUWyM) | [Mientras lavás los platos](https://open.spotify.com/album/21O8wDGZF9T5wq1zpkUWyM) | 17:52 |
+| 3 | [RUBY FRANKE: LA MAMÁ MÁS ODIADA DE INTERNET](https://open.spotify.com/episode/1tyd3wmgizldGQxNstaUZQ) | [TENGO BOCHA PARA DECIR ](https://open.spotify.com/show/4B1KZbDVT7k7OGT6zwXm6i) | [TENGO BOCHA PARA DECIR ](https://open.spotify.com/album/4B1KZbDVT7k7OGT6zwXm6i) | 28:21 |
+| 4 | [CHARLES MANSON Y SU "FAMILIA"](https://open.spotify.com/episode/3HmYmxknLBqSv1JSu0OuQb) | [TENGO BOCHA PARA DECIR ](https://open.spotify.com/show/4B1KZbDVT7k7OGT6zwXm6i) | [TENGO BOCHA PARA DECIR ](https://open.spotify.com/album/4B1KZbDVT7k7OGT6zwXm6i) | 48:17 |
+| 5 | [Ganaba 500 usd por dia en TikTok \- Cande Copello](https://open.spotify.com/episode/6RDSFn59emuRBCahOpHwUK) | [NADA QUE OCULTAR](https://open.spotify.com/show/4sXiV70nmEs8odxruJGpmx) | [NADA QUE OCULTAR](https://open.spotify.com/album/4sXiV70nmEs8odxruJGpmx) | 19:38 |
+| 6 | [Estuve 2 años en otro pais \- CAMI MAYAN \| NADA QUE OCULTAR](https://open.spotify.com/episode/5q5O67gSO8GzLhjo0hif5q) | [NADA QUE OCULTAR](https://open.spotify.com/show/4sXiV70nmEs8odxruJGpmx) | [NADA QUE OCULTAR](https://open.spotify.com/album/4sXiV70nmEs8odxruJGpmx) | 37:11 |
+| 7 | [Episodio 38: Mi DETOX del teléfono](https://open.spotify.com/episode/6Ut3cz1rt0diZbDT8VjNNj) | [TODO POR LA EMPRESA](https://open.spotify.com/show/3UD3C42RVV3vajLVGai3KT) | [TODO POR LA EMPRESA](https://open.spotify.com/album/3UD3C42RVV3vajLVGai3KT) | 24:13 |
+| 8 | [Episodio 47: Lo que voy a extrañar de Berlin](https://open.spotify.com/episode/4EgTHZorBKPxyPxmjphV5y) | [TODO POR LA EMPRESA](https://open.spotify.com/show/3UD3C42RVV3vajLVGai3KT) | [TODO POR LA EMPRESA](https://open.spotify.com/album/3UD3C42RVV3vajLVGai3KT) | 57:35 |
+| 9 | [Guía para estar con tu crush](https://open.spotify.com/episode/6vwybHPT9PztKVYoIM5r4K) | [¿Quién es Quién? por Martu Boden](https://open.spotify.com/show/3hTZfR7DZa0c9FkxebKTfZ) | [¿Quién es Quién? por Martu Boden](https://open.spotify.com/album/3hTZfR7DZa0c9FkxebKTfZ) | 22:38 |
+| 10 | [Tips para tu primera vez](https://open.spotify.com/episode/3vMNnPhOfKTZFv5bKb3O2K) | [¿Quién es Quién? por Martu Boden](https://open.spotify.com/show/3hTZfR7DZa0c9FkxebKTfZ) | [¿Quién es Quién? por Martu Boden](https://open.spotify.com/album/3hTZfR7DZa0c9FkxebKTfZ) | 28:02 |
 
-Snapshot ID: `AAAAALLf8pD8Ik6nl0jEwSKbQf7LIXc4`
+Snapshot ID: `AAAAAKIanK9QXIft8zY++c4m+6AuJ21t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: IOLANDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,529 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,542 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Trigueirinha](https://open.spotify.com/track/5J02C6BJEWlRZKcoaIyz0F) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Trigueirinha](https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD) | 2:39 |
 | 70 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 
-Snapshot ID: `AAAAALt8uilpx2XF2mizd1D6oa4Vxg0j`
+Snapshot ID: `AAAAAOl/blqoI9ngBnaUwgbXqJQ54H7p`

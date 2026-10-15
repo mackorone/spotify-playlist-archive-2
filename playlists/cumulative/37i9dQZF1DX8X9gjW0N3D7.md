@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Thierry Larose
 
-635 songs - 1 day 11 hr 32 min
+636 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [C'est fou](https://open.spotify.com/track/3Bo4ypaffja0u05JaMnJRD) | [Ima](https://open.spotify.com/artist/1yTWSP7tR6gp2vkstO7VI7) | [C'est fou](https://open.spotify.com/album/4w2xWFs5uSvafEZlJbst3r) | 2:53 | 2025-02-28 | 2025-10-18 |
 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 | 2024-06-28 | 2025-04-26 |
 | [C'est trooo0O0oooop](https://open.spotify.com/track/2p8gElh8kx1SvCbr3SHZmT) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [C'est trooo0O0oooop](https://open.spotify.com/album/2iyNPqGdwgvwRDgtjPZMLi) | 4:09 | 2026-05-01 | 2026-07-18 |
+| [C'est ça qui est ça](https://open.spotify.com/track/1VhIDjZSxTKPXHsNJy9sH1) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [C'est ça qui est ça](https://open.spotify.com/album/1LA6z3S83pDecGpHJIV8ES) | 2:50 | 2026-10-09 |  |
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2024-06-28 | 2024-09-28 |
 | [Calendule](https://open.spotify.com/track/3Yq5A6rbffa3RL5LghSKVO) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Ballade pour Gwenaëlle](https://open.spotify.com/album/1ymZs6pJC4vo25OgwsH4JC) | 3:42 | 2025-10-17 | 2025-11-22 |
 | [Can't Find Your Way Out](https://open.spotify.com/track/2fTtf4EOutQ7p5Lddqfr9a) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Can't Find Your Way Out](https://open.spotify.com/album/3njlbNmeff54LEQe5IcEtf) | 4:05 | 2025-12-05 | 2026-02-07 |
@@ -489,7 +490,7 @@
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 | 2025-10-25 |
 | [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 | 2026-07-17 | 2026-08-23 |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
-| [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
+| [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 | 2026-10-15 |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
 | [Rivière \(L'ÉTAT URGENGE DE VIV\(r\)E\)](https://open.spotify.com/track/6OaUvLPhxVzqKwIOnXgqyy) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Rivière \(L'ÉTAT URGENGE DE VIV\(r\)E\)](https://open.spotify.com/album/4lrE9tsvxVt7jilSsk2XU4) | 3:16 | 2026-09-04 | 2026-09-19 |
 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 | 2026-08-14 |

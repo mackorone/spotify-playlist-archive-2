@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 88842,
+  "num_followers": 88862,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJVGZeK74iN9ZOfe1t2G4uE5olQ",
+  "snapshot_id": "AAAAABXGdCleGoZBZ993SKjy31Sn+IiS",
   "tracks": [
     {
       "added_at": "2024-08-28 14:05:36",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Lost On The River (Deluxe)",
         "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 244426,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Art Of Pretending To Swim",
-        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "A Trick of the Light",
-      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 257519,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Art Of Pretending To Swim",
+        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "A Trick of the Light",
+      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Sermon on the Rocks",
-        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Getting Ready to Get Down",
-      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Sermon on the Rocks",
+        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Getting Ready to Get Down",
+      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 237890,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "case/lang/veirs",
         "url": "https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 237890,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "A Crow Looked at Me",
         "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 147533,
       "name": "Real Death",
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2024-08-28 14:05:36",

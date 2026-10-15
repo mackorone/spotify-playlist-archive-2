@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,635,315 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,635,229 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 47 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
 | 48 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 49 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
-| 50 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
-| 51 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
+| 50 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
+| 51 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 52 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
 | 53 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 54 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 63 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 |
 | 64 | [May You Never](https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:40 |
 | 65 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
-| 66 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
-| 67 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
+| 66 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
+| 67 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
 | 68 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 69 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 |
 | 70 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 95 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
 | 96 | [In My Life \- Remastered](https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:26 |
 | 97 | [Clay Pigeons](https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 4:27 |
-| 98 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
+| 98 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 99 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 |
-| 100 | [Hard Sun](https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6) | 5:21 |
+| 100 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 
-Snapshot ID: `AAAAAHkAWGHERO5CrUe/M+RygIC8Ksaf`
+Snapshot ID: `AAAAABbU+KWSawWYKK2AQQvYgEhEXNym`

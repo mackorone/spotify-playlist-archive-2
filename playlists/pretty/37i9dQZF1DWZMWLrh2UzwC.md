@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Troye Sivan, Slayyyter, 蔡恩雨 Priscilla Abby, Ara Johari, Dalia Farhana, mimpi\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,126 likes - 102 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,113 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 101 | [YOU, You, you](https://open.spotify.com/track/4qcms70xoJ8Zq8nkQrsXFP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [TRUE LOVE IN A MADE UP WORLD \(DELUXE ↑%\)](https://open.spotify.com/album/3WC48mkBtcxzdRsYnx3fJq) | 2:42 |
 | 102 | [Shoulder Lean](https://open.spotify.com/track/1lWMZNbY0ArYABv7ZkdqCK) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Shoulder Lean](https://open.spotify.com/album/495KYK5O0NV4vJ2Z6lJNUY) | 2:36 |
 
-Snapshot ID: `AAAAAFkhU5PavcpifOA/3W/aQlRvBTEM`
+Snapshot ID: `AAAAAOhmUhmmsEdLnArtWNM3mJTZ3tBy`

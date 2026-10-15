@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 101800,
+  "num_followers": 101830,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADtzSMMu1dftNtXpFVtjVwY",
+  "snapshot_id": "as10gAAAAABRXg1gVWx+a+tAzA8pYmyo",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 140876,
-      "name": "Colombiana",
-      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me dicen Ponchito - Remix",
         "url": "https://open.spotify.com/album/2kAbVwqPcTiqS73qxn9X6a"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 240757,
       "name": "Me dicen Ponchito - Remix",
       "url": "https://open.spotify.com/track/0FEtE3YelodR3FECITImlk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 140876,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
     },
     {
       "added_at": null,

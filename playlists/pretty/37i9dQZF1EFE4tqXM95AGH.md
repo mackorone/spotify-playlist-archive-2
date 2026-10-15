@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503 likes - 192 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 192 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 107 | [The Hurtin' Kind](https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:06 |
 | 108 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
 | 109 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
-| 110 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
-| 111 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 110 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 111 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
 | 112 | [Kid Wonder](https://open.spotify.com/track/3UlnJciJMXFgnIubWkoghm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:47 |
 | 113 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
 | 114 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 141 | [Christmas Is Here](https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas Is Here](https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX) | 3:06 |
 | 142 | [Heartkiller](https://open.spotify.com/track/1q3eUsSOYR468dC8Xh7BZr) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Against The Wall](https://open.spotify.com/album/0Co76AwOJkYMkFl312YdPL) | 3:08 |
 | 143 | [Middle Of A Heartbreak](https://open.spotify.com/track/2vY90tGYEHzIjKGjI48smn) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Middle Of A Heartbreak](https://open.spotify.com/album/6xGcBv3u3XthHduAxBkpvc) | 2:45 |
-| 144 | [Sweet Life](https://open.spotify.com/track/2RgQe6vRrjuaAG2MPPzNDd) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Leland](https://open.spotify.com/artist/3Jd0EP1mzaP2Gn2bzyd6Ug) | [Transatlantic](https://open.spotify.com/album/4bG1aFuQ4674YWGpfRTzUI) | 3:21 |
-| 145 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 144 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 |
+| 145 | [Sweet Life](https://open.spotify.com/track/2RgQe6vRrjuaAG2MPPzNDd) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Leland](https://open.spotify.com/artist/3Jd0EP1mzaP2Gn2bzyd6Ug) | [Transatlantic](https://open.spotify.com/album/4bG1aFuQ4674YWGpfRTzUI) | 3:21 |
 | 146 | [Hungover](https://open.spotify.com/track/75g7UV5B1ndLGsDvfjC489) | [Emmalyn](https://open.spotify.com/artist/75y1eTkF9JFAO2MIR2EXtg) | [Hungover](https://open.spotify.com/album/464LmfCz1lP28qe5ndSj6s) | 3:14 |
 | 147 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
 | 148 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 191 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 192 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Ace3hAAAAADCXzpGUOWi/dWqhmX8Mv8u`
+Snapshot ID: `Ace83gAAAABKVujTmVnzP/Y3AgazHbe6`

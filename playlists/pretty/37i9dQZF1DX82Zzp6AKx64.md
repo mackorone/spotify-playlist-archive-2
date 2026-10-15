@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,073 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,114 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 54 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 55 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
 | 56 | [Come Again](https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 5:39 |
-| 57 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
-| 58 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
+| 57 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
+| 58 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 59 | [Don't Treat Me Bad \(2024 Remaster\)](https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 3:55 |
 | 60 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 |
 | 61 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 86 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
 | 87 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
 | 88 | [Just Take My Heart](https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:25 |
-| 89 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
-| 90 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |
-| 91 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
+| 89 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
+| 90 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
+| 91 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |
 | 92 | [Cryin'](https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 3:31 |
 | 93 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 94 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
 | 100 | [When the Smoke Is Going Down \- MTV Unplugged](https://open.spotify.com/track/4H8pOSgzSBkoZmjgZ0fOlf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 3:45 |
 
-Snapshot ID: `AAAAAJnfPCFCEkgeUQeN+Et0WSPhC+SM`
+Snapshot ID: `AAAAAPQpeX6r/Nn3bI3BvRac8tKh0Ulk`

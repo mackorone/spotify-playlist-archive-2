@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,723 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,722 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 59 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
 | 60 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 61 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
-| 62 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
-| 63 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 62 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 63 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
 | 64 | [הלוואי](https://open.spotify.com/track/6MwsuFL115vgX9mCHlTZyU) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs), [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [הלוואי](https://open.spotify.com/album/2NxRJboinERkx6D6k675Ei) | 3:49 |
 | 65 | [Espresso](https://open.spotify.com/track/2oADPwknKEfMtwpMnr7xfg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/4BmzK2rkU0mJJzfkugX0NG) | 2:55 |
 | 66 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
 | 100 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
 
-Snapshot ID: `AAAAACS7rLOvSrH+RE78Zgz45dHnoFrb`
+Snapshot ID: `AAAAAAsoQNySBM6AXlfTqGMtZwVY//5v`

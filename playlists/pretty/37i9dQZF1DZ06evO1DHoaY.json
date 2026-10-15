@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073416,
+  "num_followers": 2073392,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABRg3oBZYMKZ5Jcd3PXNP/x",
+  "snapshot_id": "as10gAAAAADew85QbFpzo3eHTcG0rlGJ",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 145773,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 216533,
       "name": "War",
       "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 145773,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legend - The Best Of Bob Marley And The Wailers",
         "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 412026,
       "name": "Punky Reggae Party - 12\" Version",
       "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Jah Live",
+      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Jah Live",
-      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
         "url": "https://open.spotify.com/album/7BOZnuMh0OXao3TRQrg8Dh"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Natty Dread",
-      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catch A Fire",
         "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 253960,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/5M77yXWuKPqaUzdxn4cVnV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Natty Dread",
+      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
     },
     {
       "added_at": null,

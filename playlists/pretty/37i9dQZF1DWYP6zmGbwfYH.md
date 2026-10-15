@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > Tallando, bailando y cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,943 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,072 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 24 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 |
 | 25 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
 | 26 | [Volver](https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores Vol\. 2](https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS) | 4:54 |
-| 27 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
-| 28 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
+| 27 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
+| 28 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
 | 29 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
 | 30 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 31 | [Quiero Saber de Ti](https://open.spotify.com/track/0e3lJIEqUMNMf0S1WLjdkL) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:57 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 73 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 74 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
 | 75 | [Lapiz Labial](https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Los Felinos](https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ) | 2:52 |
-| 76 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
-| 77 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
+| 76 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
+| 77 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
 | 78 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
 | 79 | [Aquel Lugar](https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL) | 3:53 |
 | 80 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 82 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 83 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
 | 84 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Música Tropical de Colombia \(Vol\. 11\)](https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh) | 4:04 |
-| 85 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
-| 86 | [Me Estoy Enamorando](https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
+| 85 | [Me Estoy Enamorando](https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
+| 86 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
 | 87 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 88 | [Corazon de Acero](https://open.spotify.com/track/2fM9D3e5pyVBzqOBgMC8ap) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [7 Exitos](https://open.spotify.com/album/03uXL5xUnM58mYxtq077r9) | 3:44 |
 | 89 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 99 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 |
 | 100 | [Del Signo Libra](https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn) | 3:26 |
 
-Snapshot ID: `AAAAAEgwOixajT9wWPhEX/oeAja8Fp7c`
+Snapshot ID: `AAAAAM7YJav//8l9E8aAQY2JIXHcM4SN`

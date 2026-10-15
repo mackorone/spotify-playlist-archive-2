@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,444 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,445 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 2 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 |
-| 3 | [pink + pink](https://open.spotify.com/track/5jysHNTiZcXz83qaIXl3vf) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:02 |
-| 4 | [Feet Don't Fail Me Now \- Part 2](https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Feet Don't Fail Me Now \(Part 2\)](https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS) | 3:19 |
+| 3 | [Feet Don't Fail Me Now \- Part 2](https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Feet Don't Fail Me Now \(Part 2\)](https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS) | 3:19 |
+| 4 | [pink + pink](https://open.spotify.com/track/5jysHNTiZcXz83qaIXl3vf) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:02 |
 | 5 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 6 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
 | 7 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 22 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
 | 23 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
 | 24 | [Where I'm From \(feat\. Mereba\)](https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:44 |
-| 25 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
-| 26 | [Glass Flows](https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 3:08 |
+| 25 | [Glass Flows](https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 3:08 |
+| 26 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
 | 27 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
 | 28 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 |
 | 29 | [Lauder Too \(feat\. Ravyn Lenae & Eryn Allen Kane\)](https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 49 | [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 |
 | 50 | [Unknown \- EP Version](https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:18 |
 
-Snapshot ID: `asrRgAAAAAC7B4cdoHaFbBJl9AjAvZ5i`
+Snapshot ID: `as10gAAAAABjTrkv6lJRfyCVdCy7OyPU`

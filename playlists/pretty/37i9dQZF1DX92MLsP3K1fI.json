@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Enrique Iglesias y Santos Bravos en portada \u2728",
-  "num_followers": 96556,
+  "num_followers": 96561,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6RfcibnWR/B4sWc+Zjl6OPiLjr",
+  "snapshot_id": "AAAAAPZawU70NI8jiMSY3rAnraHMX7e+",
   "tracks": [
     {
       "added_at": "2026-10-09 06:00:14",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
         "name": "superpoder",
         "url": "https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 190000,
       "name": "superpoder",
       "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Mil A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 252060,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 161373,
       "name": "PLATONIK",
       "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -803,34 +803,6 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Motherflowers (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        }
-      ],
-      "duration_ms": 276150,
-      "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
         "name": "Estas Ganas",
         "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
       },
@@ -863,6 +835,50 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "Motherflowers (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        }
+      ],
+      "duration_ms": 276150,
+      "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
+        "name": "HAGAMOS QUE PASE",
+        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "HAGAMOS QUE PASE",
+      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -915,34 +947,18 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+        "name": "QUIERO OLVIDARTE (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
       },
       "artists": [
         {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "HAGAMOS QUE PASE",
-        "url": "https://open.spotify.com/album/1sBviNCx9e0eiwqdlUShiB"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "HAGAMOS QUE PASE",
-      "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
+      "duration_ms": 162099,
+      "name": "QUIERO OLVIDARTE - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
-        "name": "QUIERO OLVIDARTE (Respuesta #1)",
-        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 162099,
-      "name": "QUIERO OLVIDARTE - Respuesta #1",
-      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -995,22 +1011,6 @@
       "duration_ms": 172104,
       "name": "Paisajes",
       "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2026-10-09 06:00:14",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-10-09 06:00:14",
       "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2026-10-09 06:00:14",
+      "album": {
         "name": "Lo Que Importa",
         "url": "https://open.spotify.com/album/7s2EbwCHMSJ7VrQJ5s8SP6"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 308250,
       "name": "Lo Que Importa",
       "url": "https://open.spotify.com/track/0eguGQWtFQNyPDtxi46vHM"
-    },
-    {
-      "added_at": "2026-10-09 06:00:14",
-      "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     },
     {
       "added_at": "2026-10-09 06:00:14",

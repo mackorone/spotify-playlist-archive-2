@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -12130,6 +12130,24 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "album": {
+        "name": "Usted Se Me Llev\u00f3 La Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5DqrX6BdgseTH9WlaAhp2p"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190421,
+      "name": "Usted Se Me Llev\u00f3 La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/1rCsThCbAoSOYd6RRz0KX7"
     },
     {
       "album": {

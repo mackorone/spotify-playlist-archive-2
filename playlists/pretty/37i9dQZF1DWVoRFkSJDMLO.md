@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in African & Caribbean music\. From the continent, to the islands with FOLA & Davido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,083 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,128 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 98 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 99 | [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 |
 
-Snapshot ID: `AAAAABlyKx/F/V26s3anwLh3bWoBJoCR`
+Snapshot ID: `AAAAAHk38OKP59aE+SRcbjzsx40naQ58`

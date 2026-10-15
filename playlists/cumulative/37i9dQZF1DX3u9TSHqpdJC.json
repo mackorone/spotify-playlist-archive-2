@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maisi and the Disco. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Ronia. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -10307,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Break The Habit",
+        "url": "https://open.spotify.com/album/6ENIVIwvnlqcf5lFSGgCjA"
+      },
+      "artists": [
+        {
+          "name": "ARI LEE",
+          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181833,
+      "name": "Break The Habit",
+      "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
+    },
+    {
+      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/4gwUE5gGHt5MZOQb8LwO8y"
       },
@@ -14226,6 +14244,24 @@
       "duration_ms": 166250,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/05EhPjcquixa3hMsvASMpx"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0enyZOmCbq9QRtSJER2jYE"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/28jDHQ7NL0BmZK637LUQ50"
     },
     {
       "album": {
@@ -18900,6 +18936,24 @@
       "duration_ms": 180362,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
+    },
+    {
+      "album": {
+        "name": "Dirty Nails",
+        "url": "https://open.spotify.com/album/5a3M3Tk3PWlwu5Ucz5n4uU"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145676,
+      "name": "Dirty Nails",
+      "url": "https://open.spotify.com/track/5L0PFLeyhjDAvLmDK7KYmX"
     },
     {
       "album": {
@@ -28353,6 +28407,24 @@
     },
     {
       "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/39juknpd3rYUQSBRFxklcM"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
+    },
+    {
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/46xzbUFY7h7vDG4ZdLHaqx"
       },
@@ -29410,7 +29482,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 137813,
       "name": "Good Run",
       "url": "https://open.spotify.com/track/6DbRfIYcho6OCdzAAuvGAI"
@@ -32650,7 +32722,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 137276,
       "name": "Hit & Run",
       "url": "https://open.spotify.com/track/0VoPr66RRMVRD2LLIuqzw2"
@@ -34782,7 +34854,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 179929,
       "name": "hurt me",
       "url": "https://open.spotify.com/track/56hoNdnffCWzh1toUVDUfg"
@@ -35396,6 +35468,24 @@
       "duration_ms": 189833,
       "name": "I DON'T CARE",
       "url": "https://open.spotify.com/track/7IiQwzpvzjFOXlHy03deJw"
+    },
+    {
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/3o0XIkLo0iOS7w553EQXw3"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4cEMIWtk1TCg5UEQaSqYsk"
     },
     {
       "album": {
@@ -37460,7 +37550,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 219534,
       "name": "i'm not stupid",
       "url": "https://open.spotify.com/track/4IRByDfK4OxuN4fXigs7OS"
@@ -40950,7 +41040,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 132983,
       "name": "kill switch",
       "url": "https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm"
@@ -42914,7 +43004,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 212013,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
@@ -55410,7 +55500,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 181071,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/0BeBdenyB3ivA0kk5LS0Mp"
@@ -57245,6 +57335,24 @@
     },
     {
       "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/69fVNGit1MI6JUnwh6KTLE"
+      },
+      "artists": [
+        {
+          "name": "Reece Bibby",
+          "url": "https://open.spotify.com/artist/5LdxRTzovijIc5SgH50JvG"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170368,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/2DHcWiCe8yTpmTXiDY44n6"
+    },
+    {
+      "album": {
         "name": "PFC",
         "url": "https://open.spotify.com/album/0ECVeURUW3ZFLSMLErSs1V"
       },
@@ -58697,6 +58805,24 @@
     },
     {
       "album": {
+        "name": "come to mommy",
+        "url": "https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163658,
+      "name": "potion",
+      "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
+    },
+    {
+      "album": {
         "name": "Pots and Pans",
         "url": "https://open.spotify.com/album/1lk68VXAOHHfUz5uwcqH8R"
       },
@@ -59746,6 +59872,24 @@
       "duration_ms": 197770,
       "name": "punch drunk",
       "url": "https://open.spotify.com/track/1gFeYGipOxqDJgUQ7motJQ"
+    },
+    {
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204109,
+      "name": "pupilla",
+      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
     },
     {
       "album": {
@@ -67752,7 +67896,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 173181,
       "name": "somethingsdontsitright",
       "url": "https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ"
@@ -70088,7 +70232,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 241600,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
@@ -70402,7 +70546,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 210400,
       "name": "Sugar, Butter, Elbow Grease",
       "url": "https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r"
@@ -71336,6 +71480,24 @@
       "duration_ms": 165876,
       "name": "Suzy Loves Sam",
       "url": "https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4D8K3auIXNdxTvDBLgsgL8"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130894,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
     },
     {
       "album": {
@@ -83312,6 +83474,24 @@
       "duration_ms": 157413,
       "name": "Words You Can Twist",
       "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1kz9gxHNxi91VrTb8J2EHX"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183831,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/7nCoc9T4nq0O8iuLzO6IPZ"
     },
     {
       "album": {

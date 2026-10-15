@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Marco Mengoni,  Rkomi, TY1, Jovanotti e Samurai Jay, Judeline, Fabri Fibra con Neffa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,435 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,434 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 84 | [ANGELICA](https://open.spotify.com/track/32V5Adr0zLu9WViDoMFzt4) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [ANGELICA](https://open.spotify.com/album/1RaSJM7lQF4NMKalmLf28T) | 2:53 |
 | 85 | [SOULDATO](https://open.spotify.com/track/5ELyQ5yZr4s5XYk31B2L28) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [SOULDATO](https://open.spotify.com/album/0XUVtp5hu6ABlNQttLQeaw) | 2:41 |
 
-Snapshot ID: `AAAAAMBFFf+vAYUCfSIm+GWzatvh4QpN`
+Snapshot ID: `AAAAADubSenfUGvtj5pZ/AjzYu3ubtwt`

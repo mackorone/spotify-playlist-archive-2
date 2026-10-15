@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,014 likes - 85 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,024 likes - 85 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 9 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
 | 10 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
 | 11 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 |
-| 12 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
+| 12 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
 | 13 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 |
-| 14 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
+| 14 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
 | 15 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
 | 16 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
 | 17 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 31 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 |
 | 32 | [Blue Horizon](https://open.spotify.com/track/0OA8PeZ8hLpAIku5Gg1C3U) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Blue Horizon](https://open.spotify.com/album/5zlNXnQTjDxiLeuS0fELY8) | 2:03 |
 | 33 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
-| 34 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
-| 35 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
+| 34 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
+| 35 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
 | 36 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
 | 37 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
 | 38 | [Sparks Down](https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Sparks Down](https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h) | 2:18 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 81 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
 | 82 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
 | 83 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
-| 84 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
-| 85 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
+| 84 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
+| 85 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
 
-Snapshot ID: `AAAAAIWdSND83wYKXlOkDkzLFCnOhkAk`
+Snapshot ID: `AAAAANYvFNSTA81jUJmziEf5oOuz/7Fc`

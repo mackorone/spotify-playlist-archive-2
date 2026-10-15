@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645031,
+  "num_followers": 645053,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACBc7NnWqkVwt+WCGMHIUnX",
+  "snapshot_id": "as10gAAAAABum4X1FMcVFSeUem9/sW8v",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+      "duration_ms": 307027,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": null,
@@ -195,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 307027,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -218,11 +198,15 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": null,
@@ -247,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 268097,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -279,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 268097,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -288,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": null,
@@ -307,6 +291,22 @@
       "duration_ms": 251255,
       "name": "All The Man That I Need",
       "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish You Love: More From The Bodyguard",
+        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 274696,
+      "name": "I Will Always Love You - Film Version",
+      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish You Love: More From The Bodyguard",
-        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 274696,
-      "name": "I Will Always Love You - Film Version",
-      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": null,

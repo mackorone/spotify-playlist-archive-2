@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: wakelee
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,531 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,539 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 149 | [Until It's Normal](https://open.spotify.com/track/1DgYRoyywe7OWB3tx3avAS) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Until It's Normal](https://open.spotify.com/album/3p0pest06jSlGn353z89uS) | 2:59 |
 | 150 | [I Could Say Less](https://open.spotify.com/track/3TiKKRMEHJUYQsNNU52BiA) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [I Could Say Less / Pavement](https://open.spotify.com/album/0jDh0MyBoJoflMb5klMVpR) | 4:03 |
 
-Snapshot ID: `AAAAAL90xkRgsJSJ4fXXSksmq9X8IN2M`
+Snapshot ID: `AAAAAJU5Rsl4OfjnbQWthZlEdml/zt9c`

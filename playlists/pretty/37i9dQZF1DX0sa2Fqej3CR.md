@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,303 likes - 81 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,304 likes - 81 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 28 | [we are the one](https://open.spotify.com/track/12JGUlBJZMIoKOIAMD3JP5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [싸집](https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63) | 3:20 |
 | 29 | [Over The Rainbow \(Transfixion\)](https://open.spotify.com/track/2QfENCOUFLTDxfSfUqfBg3) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [지구를 지켜라! \(Original Movie Soundtrack\)](https://open.spotify.com/album/262SznVf2Yg03opcSQS6SL) | 2:26 |
 | 30 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 |
-| 31 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
+| 31 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 32 | [Wavin' Flag \- Coca\-Cola® Celebration Mix](https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour \(Champion Edition \- Asian Version\)](https://open.spotify.com/album/5NeG7Rk7ZUGVgvIRxPOmJ3) | 3:32 |
 | 33 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 34 | [The Cup of Life \(The Official Song of the World Cup, France '98\) \- Remix \- English Radio Edit](https://open.spotify.com/track/68CzXNGAMmb3k5MhLu0xVb) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pablo Flores](https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu) | [La Copa de la Vida](https://open.spotify.com/album/3W5ZNGafvvKFq6YYcyMMgQ) | 4:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 80 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 81 | [Time of Our Lives](https://open.spotify.com/track/1OPLF48hCfqeEjlFP3e8xX) | [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Time of Our Lives](https://open.spotify.com/album/6zCpB7vF0iCE2TGBpG1wv2) | 3:43 |
 
-Snapshot ID: `AAAAALcFPpqFGU8nsQUX4qKfZq2qNaPO`
+Snapshot ID: `AAAAAGh4jTnUWuyInaVruaUYUumu7c63`

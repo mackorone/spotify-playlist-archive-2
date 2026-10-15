@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,983 likes - 30 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,981 likes - 30 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 13 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 |
 | 14 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 |
 | 15 | [Je Blik Richting Mij](https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Je Blik Richting Mij](https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl) | 2:25 |
-| 16 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 |
-| 17 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 |
+| 16 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 |
+| 17 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 |
 | 18 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 |
 | 19 | [Is Dat Nou Echt?](https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD) | 2:28 |
 | 20 | [Slaaptekort](https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Slaaptekort](https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b) | 2:37 |
 | 21 | [Offline Beschikbaar](https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Offline Beschikbaar](https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8) | 2:27 |
 | 22 | [Vrienden Voor Altijd](https://open.spotify.com/track/5jqA8vqavOckSfnf7kANrN) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:26 |
-| 23 | [Stapelgek](https://open.spotify.com/track/0ggZBG4hvFWeEw7URMBb8z) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Stapelgek](https://open.spotify.com/album/4b6k5ntVgXMSoGuTUK6xv5) | 2:55 |
-| 24 | [Baldadig](https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Baldadig](https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW) | 2:23 |
+| 23 | [Baldadig](https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Baldadig](https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW) | 2:23 |
+| 24 | [Stapelgek](https://open.spotify.com/track/0ggZBG4hvFWeEw7URMBb8z) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Stapelgek](https://open.spotify.com/album/4b6k5ntVgXMSoGuTUK6xv5) | 2:55 |
 | 25 | [Niks](https://open.spotify.com/track/5BjwnWj3moPSEaGBKIWrQo) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Niks](https://open.spotify.com/album/2uZIDpY0gf2A9l9Zl7y7Ql) | 2:29 |
 | 26 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 |
 | 27 | [Systeem](https://open.spotify.com/track/3PPEVFabRGkoH271LNFpJm) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:38 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 29 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 | 30 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 
-Snapshot ID: `asrRgAAAAABreDa9Y1P5ADp16JAIdBnJ`
+Snapshot ID: `as10gAAAAAA+/XD+nR8nUg0DYk1SbceC`

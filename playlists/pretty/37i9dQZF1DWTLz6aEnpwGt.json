@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 74830,
+  "num_followers": 74856,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKka+lMYJpAoDhQm1e7uop5N1VW2",
+  "snapshot_id": "AAAAAGPFp33Sh5pMb/LmKJp3R9HjF8Nb",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:37",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 483600,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
       "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105853,
-      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
-      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
     },
     {
       "added_at": "2026-09-25 04:01:37",

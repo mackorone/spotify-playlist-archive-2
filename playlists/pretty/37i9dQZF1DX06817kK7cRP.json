@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 203868,
+  "num_followers": 203881,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVd+IRUFHudGAgcrQtU8oaXqgQ5",
+  "snapshot_id": "AAAAAKU2n4qyx8epZgfj31/6siy3yN4u",
   "tracks": [
     {
       "added_at": "2026-09-23 07:49:45",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Boulevards",
-        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
-      },
-      "artists": [
-        {
-          "name": "Dusty Decks",
-          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Counterbalanced",
-      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/4KhhikQCc3y4HL48iZRJLu"
       },
@@ -187,22 +171,6 @@
       "duration_ms": 113000,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/3rpKF6Tr917lpO5oYEXeZn"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Your Vibe",
-        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 122926,
-      "name": "Your Vibe",
-      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -227,6 +195,38 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Your Vibe",
+        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 122926,
+      "name": "Your Vibe",
+      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Boulevards",
+        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Counterbalanced",
+      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
       },
@@ -239,26 +239,6 @@
       "duration_ms": 126005,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Hand / Kanji",
-        "url": "https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj"
-      },
-      "artists": [
-        {
-          "name": "Gabb.",
-          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
-        },
-        {
-          "name": "\u00d8NEMOR3",
-          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
-        }
-      ],
-      "duration_ms": 133770,
-      "name": "Hand",
-      "url": "https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -279,6 +259,26 @@
       "duration_ms": 120000,
       "name": "Fade",
       "url": "https://open.spotify.com/track/789Hi3B8mxTEPgYtVkKBEy"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Hand / Kanji",
+        "url": "https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Hand",
+      "url": "https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Alicante",
-        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
-      },
-      "artists": [
-        {
-          "name": "Matt Large",
-          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
-        }
-      ],
-      "duration_ms": 184702,
-      "name": "Alicante",
-      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Bubble Butter",
         "url": "https://open.spotify.com/album/4ISr2WMhYAYsybZY37NUHL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 129729,
       "name": "Bubble Butter",
       "url": "https://open.spotify.com/track/1GFuJBo2OS8VJKKe019Y58"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "duration_ms": 184702,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -519,6 +519,30 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Green Soju",
+        "url": "https://open.spotify.com/album/0bhdYL3ErDclyErpII52fu"
+      },
+      "artists": [
+        {
+          "name": "Langston",
+          "url": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
+        },
+        {
+          "name": "Hicks",
+          "url": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
+        },
+        {
+          "name": "ARISU",
+          "url": "https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Green Soju",
+      "url": "https://open.spotify.com/track/0KFQ697GYrwEscuMJ8oO9V"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Messing Around",
         "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
       },
@@ -555,30 +579,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Green Soju",
-        "url": "https://open.spotify.com/album/0bhdYL3ErDclyErpII52fu"
-      },
-      "artists": [
-        {
-          "name": "Langston",
-          "url": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
-        },
-        {
-          "name": "Hicks",
-          "url": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
-        },
-        {
-          "name": "ARISU",
-          "url": "https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Green Soju",
-      "url": "https://open.spotify.com/track/0KFQ697GYrwEscuMJ8oO9V"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Tune Out",
         "url": "https://open.spotify.com/album/0qsd2kNplwL6h8eSXw5cRv"
       },
@@ -595,22 +595,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Polaroids",
-        "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
       },
       "artists": [
         {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        },
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Polaroids",
-      "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
+      "duration_ms": 120000,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -631,18 +627,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
+        "name": "Polaroids",
+        "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
       },
       "artists": [
         {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Another One",
-      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
+      "duration_ms": 138352,
+      "name": "Polaroids",
+      "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Fading Sunlight",
-        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
-      },
-      "artists": [
-        {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        }
-      ],
-      "duration_ms": 115324,
-      "name": "Fading Sunlight",
-      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 149624,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/2mag4uJrjz3ub8ycjASBrZ"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Fading Sunlight",
+        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        }
+      ],
+      "duration_ms": 115324,
+      "name": "Fading Sunlight",
+      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
-      },
-      "artists": [
-        {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
-        }
-      ],
-      "duration_ms": 124797,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
         "name": "Pages",
         "url": "https://open.spotify.com/album/3rW69ZSJiMLCzEK3CM5CWk"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 109367,
       "name": "Nothing Urgent",
       "url": "https://open.spotify.com/track/4VBUqkWYku6xAh6UuPNJDi"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 124797,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1087,18 +1087,38 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
       },
       "artists": [
         {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
         }
       ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
+      "duration_ms": 132236,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
+        "name": "Missed The Bus",
+        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "duration_ms": 99397,
+      "name": "Missed The Bus",
+      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1135,38 +1155,18 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
-        "name": "Missed The Bus",
-        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
       },
       "artists": [
         {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
         }
       ],
-      "duration_ms": 99397,
-      "name": "Missed The Bus",
-      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Heroic",
-        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
-      },
-      "artists": [
-        {
-          "name": "rwethree",
-          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
-        }
-      ],
-      "duration_ms": 132236,
-      "name": "Heroic",
-      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
     },
     {
       "added_at": "2026-09-23 07:49:45",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-09-23 07:49:45",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9"
+      },
+      "artists": [
+        {
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB"
+    },
+    {
+      "added_at": "2026-09-23 07:49:45",
+      "album": {
         "name": "Melting Away",
         "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 131137,
       "name": "brief staycation",
       "url": "https://open.spotify.com/track/1ZipyL9f6fwhuSEnh9Z5gO"
-    },
-    {
-      "added_at": "2026-09-23 07:49:45",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9"
-      },
-      "artists": [
-        {
-          "name": "Adam Space",
-          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB"
     },
     {
       "added_at": "2026-09-23 07:49:45",

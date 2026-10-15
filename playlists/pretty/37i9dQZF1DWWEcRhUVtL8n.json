@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Sydney Ross Mitchell",
-  "num_followers": 1660923,
+  "num_followers": 1660822,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPka7pdeJCYHd3532cIUtFIYIBcJ",
+  "snapshot_id": "AAAAAPcJlhjPkydXXWeVP66Ffg2qVSex",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:47",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Do That Again",
-        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Malcolm In The Middle",
-      "url": "https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Greetings From Bleak St.",
         "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 226041,
       "name": "Chemical Light",
       "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Malcolm In The Middle",
+      "url": "https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "I Saw Your Face",
-        "url": "https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "I Saw Your Face",
-      "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 228692,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "I Saw Your Face",
+        "url": "https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "I Saw Your Face",
+      "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Rabbits Can Swim",
         "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 253675,
       "name": "Rabbits Can Swim",
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG"
+      },
+      "artists": [
+        {
+          "name": "Jade Street",
+          "url": "https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11"
+        }
+      ],
+      "duration_ms": 173849,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "MINI SKIRT WARRIOR",
         "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/46FwvSnVtcbrKnpTBpIGMG"
-      },
-      "artists": [
-        {
-          "name": "Jade Street",
-          "url": "https://open.spotify.com/artist/1tDivTkprR30MAE1Q0nb11"
-        }
-      ],
-      "duration_ms": 173849,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/70OK0hf2bDAk51Jb5mkk7A"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Sweet Hallelujah",
         "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
         }
       ],
-      "duration_ms": 180116,
-      "name": "Caught Myself Believing",
-      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1087,6 +1071,38 @@
       "duration_ms": 194149,
       "name": "cranberry",
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Pool Water Confessions",
+        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 206158,
+      "name": "Pool Water Confessions",
+      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 180116,
+      "name": "Caught Myself Believing",
+      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1119,22 +1135,6 @@
       "duration_ms": 206627,
       "name": "Shuteye",
       "url": "https://open.spotify.com/track/5HucDMZoey3DlT4jvofjuf"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 165104,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Take Me Out To The Disco",
         "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 202402,
       "name": "Take Me Out To The Disco",
       "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1247,6 +1247,22 @@
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1295,22 +1311,6 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Fuck Without Feelings",
+        "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "Fuck Without Feelings",
+      "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "HOLE",
         "url": "https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL"
       },
@@ -1475,26 +1491,6 @@
       "duration_ms": 153906,
       "name": "HOLE",
       "url": "https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Romanticize",
-        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Romanticize",
-      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1515,34 +1511,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Fuck Without Feelings",
-        "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
+        "name": "Romanticize",
+        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
       },
       "artists": [
         {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Fuck Without Feelings",
-      "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Tough Luck (When You Don\u2019t Call)",
-        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
-      },
-      "artists": [
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
         {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Tough Luck (When You Don\u2019t Call)",
-      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
+      "duration_ms": 215013,
+      "name": "Romanticize",
+      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1583,50 +1567,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Nothing's Accidental",
-        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
+        "name": "Tough Luck (When You Don\u2019t Call)",
+        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
       },
       "artists": [
         {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Nothing's Accidental",
-      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Dust Settles and So Will I",
-        "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 173003,
-      "name": "All I See Is The Sky",
-      "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 194592,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
+      "duration_ms": 212373,
+      "name": "Tough Luck (When You Don\u2019t Call)",
+      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1651,18 +1603,66 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Edges of You",
-        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
+        "name": "Dust Settles and So Will I",
+        "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
       },
       "artists": [
         {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 194746,
-      "name": "Edges of You",
-      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
+      "duration_ms": 173003,
+      "name": "All I See Is The Sky",
+      "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Nothing's Accidental",
+        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nothing's Accidental",
+      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 194592,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "my bad",
+        "url": "https://open.spotify.com/album/0WTwR9yK3wgqxRAybdNlpE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 179780,
+      "name": "superstar",
+      "url": "https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi"
     }
   ],
   "unique_name": "Indie Pop",

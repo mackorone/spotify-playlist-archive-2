@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 277389,
+  "num_followers": 277416,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRYxK0NYUGVOqwh7EYDlpZKF/qJ",
+  "snapshot_id": "AAAAAE+vimUyJnBeQTLO9yP5KIYYsHry",
   "tracks": [
     {
       "added_at": "2026-10-02 10:35:59",
@@ -671,22 +671,26 @@
     {
       "added_at": "2026-10-02 10:35:59",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
       "artists": [
         {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         },
         {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+      "duration_ms": 193032,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
     },
     {
       "added_at": "2026-10-02 10:35:59",
@@ -711,26 +715,22 @@
     {
       "added_at": "2026-10-02 10:35:59",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         },
         {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
         }
       ],
-      "duration_ms": 193032,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2026-10-02 10:35:59",

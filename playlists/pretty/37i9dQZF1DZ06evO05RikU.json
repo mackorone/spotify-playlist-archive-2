@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43848,
+  "num_followers": 43850,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACdHcGRMm5yIbKRnCiIvYh8",
+  "snapshot_id": "as10gAAAAABkTNccwG/Wa3XY6GIxsFZR",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/3G9IhfvApy550eaiuE99o0"
+        "name": "Sigo a Lo M\u00edo",
+        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/2XPpnenkHVw69VymWLw5Mt"
+      "duration_ms": 198053,
+      "name": "\u00bfQu\u00e9 Ha Pasao'?",
+      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
     },
     {
       "added_at": null,
@@ -187,22 +183,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigo a Lo M\u00edo",
-        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/3G9IhfvApy550eaiuE99o0"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 198053,
-      "name": "\u00bfQu\u00e9 Ha Pasao'?",
-      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/2XPpnenkHVw69VymWLw5Mt"
     },
     {
       "added_at": null,
@@ -596,13 +596,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 211792,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
+      "duration_ms": 231796,
+      "name": "yo tuya, t\u00fa m\u00edo",
+      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
     },
     {
       "added_at": null,
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 231796,
-      "name": "yo tuya, t\u00fa m\u00edo",
-      "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+      "duration_ms": 211792,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muevelo Remix (feat. Maffio)",
-        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Carlos \"Maffio\" Peralta",
-          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Muevelo Remix (feat. Maffio)",
-      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muevelo Remix (feat. Maffio)",
+        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Carlos \"Maffio\" Peralta",
+          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Muevelo Remix (feat. Maffio)",
+      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
     },
     {
       "added_at": null,

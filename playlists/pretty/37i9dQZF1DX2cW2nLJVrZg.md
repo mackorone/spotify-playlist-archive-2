@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > All the winning songs from the annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,853 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,842 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 17 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 18 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
 | 19 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
-| 20 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
-| 21 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
-| 22 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
+| 20 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
+| 21 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
+| 22 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
 | 23 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
 | 24 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 |
 | 25 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 52 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 53 | [Williams: E.T\. \- Flying Theme](https://open.spotify.com/track/6resX7nabqQ0msLufgxBy7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams \- Star Wars and Beyond](https://open.spotify.com/album/6YffFzDclLJoaHMD7NX5Uj) | 3:45 |
 
-Snapshot ID: `AAAAANUeGmOqOL/sbCHHQqlmrA3bAXlr`
+Snapshot ID: `AAAAAN5k8Z/tMNJKjhrPQy8HnSyAe+ER`

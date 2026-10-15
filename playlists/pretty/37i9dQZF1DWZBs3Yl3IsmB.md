@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,638 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,685 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 | 49 | [Nuit Lente](https://open.spotify.com/track/6Cx4VHUdlxu2dkHcTLjgjj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Nuit Lente](https://open.spotify.com/album/4gjQnIDrMPzYKJwm2oMoff) | 2:15 |
 | 50 | [Oregon](https://open.spotify.com/track/4mUy6zIjxgGNgQlb30OSu9) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Oregon](https://open.spotify.com/album/2HEky0wIcjbSnYvo0kbyMh) | 2:06 |
 
-Snapshot ID: `AAAAAIaGdFGwUVMQshHaP0a/ARVSKJ/I`
+Snapshot ID: `AAAAABDRln00DYqw3ZkpMUWYRqB2ta+c`

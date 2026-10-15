@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 163756,
+  "num_followers": 163771,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBQQb53rKjnbZSkU+jf6/B3E7gc",
+  "snapshot_id": "AAAAAJfHIp3RbJpQju5sAVQaGHghj6Wu",
   "tracks": [
     {
       "added_at": "2026-10-02 20:34:58",
@@ -123,26 +123,6 @@
     {
       "added_at": "2026-10-02 20:34:58",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
-    },
-    {
-      "added_at": "2026-10-02 20:34:58",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
+    },
+    {
+      "added_at": "2026-10-02 20:34:58",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2026-10-02 20:34:58",

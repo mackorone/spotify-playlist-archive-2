@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17729,
+  "num_followers": 17743,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADcmjcacUYTyl1m3Il50qFJ",
+  "snapshot_id": "as10gAAAAAA3id2Z3btf6x599AgAbCWO",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJULLIACOSTA: WE4Sessions",
-        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 260976,
-      "name": "Part The Box / Quero Saber",
-      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 160000,
       "name": "Queen Chavosa",
       "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AJULLIACOSTA: WE4Sessions",
+        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 260976,
+      "name": "Part The Box / Quero Saber",
+      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
     },
     {
       "added_at": null,

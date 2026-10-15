@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,832 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,841 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 94 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
 | 95 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
 
-Snapshot ID: `AAAAAGdmuM7WjQoNpwAT7iP6DNU4o7Ww`
+Snapshot ID: `AAAAAHdyES+Jfo2fI/8K3+Va7bGtP6gg`

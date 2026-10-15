@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,211 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,197 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 25 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 26 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
 | 27 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
-| 28 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
-| 29 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
+| 28 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
+| 29 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 30 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 |
 | 31 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
 | 32 | [El Caballito](https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Caballito](https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 49 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Greatest Hits](https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ) | 3:57 |
 | 50 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 |
 
-Snapshot ID: `AAAAAIgWf5PIj8Y30GT328X+zR0PC8pX`
+Snapshot ID: `AAAAAIUchfER7GFM+DQIxKaYmMg2rw5b`

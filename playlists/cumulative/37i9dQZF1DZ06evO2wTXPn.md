@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 55 min
+106 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Loup](https://open.spotify.com/track/0vlAgGb9uEggSg6UEE7tME) | [RAISAIN](https://open.spotify.com/artist/1gdqmzAlBBZ2HL078KlSGt), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hoods](https://open.spotify.com/album/4UjA9gB2ct0Tyiy9ryI15d) | 2:33 | 2023-04-16 | 2023-07-30 |
 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 | 2023-03-19 |  |
 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 | 2023-07-29 |  |
-| [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 | 2023-03-19 |  |
+| [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 | 2023-03-19 | 2026-10-15 |
+| [Me Entrego](https://open.spotify.com/track/5pZ9vdwCn8HdP1iNqfExKn) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [M.A.S.O.Q.U.I.S.T.A](https://open.spotify.com/album/2etimzLGBxWBkxozTHAq1k) | 3:27 | 2026-10-15 |  |
 | [Nadie Nos Entiende](https://open.spotify.com/track/2vP1AAw7D6pybjllO8EZBE) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:36 | 2025-11-18 |  |
 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 | 2023-03-19 | 2026-09-15 |
 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 | 2023-12-13 | 2025-04-28 |

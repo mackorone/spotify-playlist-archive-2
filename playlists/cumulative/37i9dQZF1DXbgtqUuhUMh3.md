@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Dana Salah is co\-curating EQUAL Arabia this month.
+> Listen to Arab women, at full volume\. Cover: Elissa.
 
-780 songs - 1 day 20 hr 46 min
+781 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Lazem Tekhtar](https://open.spotify.com/track/75QkLngxmCSHw5j9tGhtgC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Lazem Tekhtar](https://open.spotify.com/album/6keu9VoYXQBagCiqWniJie) | 3:02 | 2024-05-02 | 2026-07-08 |
 | [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 | 2022-07-21 | 2023-05-13 |
 | [Le'beh](https://open.spotify.com/track/2HGxHDTumlh0YEw0dl4FIW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Le'beh](https://open.spotify.com/album/5tuo34I9MUSpBQNbGxUdwm) | 3:55 | 2024-02-16 | 2024-05-03 |
+| [Leebat Al Ayam](https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Leebat Al Ayam](https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG) | 4:09 | 2026-10-14 |  |
 | [Leeh Ala Baly](https://open.spotify.com/track/7zztl40LzFgznVyXeaf4nu) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Nancy Mounir](https://open.spotify.com/artist/0ibLTETR8FEqRRODrpwnuS) | [Red Bull Sika](https://open.spotify.com/album/4Hb81TjdJIoCplM3pFsoXg) | 2:14 | 2024-01-29 | 2024-09-24 |
 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 | 2023-10-01 | 2023-11-18 |
 | [Leh lesa bafakar fek?](https://open.spotify.com/track/2A65388wFs4aJyjijZoE6v) | [Randa Shoukry](https://open.spotify.com/artist/0plRDM2KLLtxIekVKFX8P8) | [Leh lesa bafakar fek?](https://open.spotify.com/album/6m3zaCvr9gXIUEdGJi4aqN) | 2:48 | 2026-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Motel en portada.",
-  "num_followers": 40020,
+  "num_followers": 40039,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLyGwOPGzdCS78ff4DqX8qiRlfz",
+  "snapshot_id": "AAAAABVZ8ZVbaYjKYxlsDY/ntk6DIwxY",
   "tracks": [
     {
       "added_at": "2026-09-25 00:00:37",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Poder Quererme",
-        "url": "https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 266447,
-      "name": "Poder Quererme",
-      "url": "https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
         "name": "Dolor y Gloria",
         "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
+        "name": "Poder Quererme",
+        "url": "https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 266447,
+      "name": "Poder Quererme",
+      "url": "https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -915,42 +915,6 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -971,6 +935,22 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
         "name": "Antes Que Me Vaya",
         "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 206000,
       "name": "Antes Que Me Vaya",
       "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Vivos",
-        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
         "name": "Brillante Sobre el Mic - EADDA9223",
         "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-09-25 00:00:37",
@@ -1267,6 +1251,38 @@
     {
       "added_at": "2026-09-25 00:00:37",
       "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+    },
+    {
+      "added_at": "2026-09-25 00:00:37",
+      "album": {
         "name": "Quiero saber si es amor (feat. Joy)",
         "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
-    },
-    {
-      "added_at": "2026-09-25 00:00:37",
-      "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-09-25 00:00:37",

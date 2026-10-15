@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 131687,
+  "num_followers": 131689,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAC0TQ09iIXOwscCSNejcbZL",
+  "snapshot_id": "as10gAAAAACtV3t2EmXnS+oJLgFGTe8Z",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
         }
       ],
-      "duration_ms": 489442,
-      "name": "Messias - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": null,
@@ -123,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
         }
       ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+      "duration_ms": 489442,
+      "name": "Messias - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
     },
     {
       "added_at": null,
@@ -155,6 +155,38 @@
       "duration_ms": 327318,
       "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288809,
+      "name": "Advogado Fiel",
+      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
     },
     {
       "added_at": null,
@@ -199,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
       "artists": [
         {
@@ -208,25 +240,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 288809,
-      "name": "Advogado Fiel",
-      "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+      "duration_ms": 278593,
+      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
+      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278593,
-      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
-      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel",
         "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
       },
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+        "name": "Eu Te Ouvi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
       "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 259181,
-      "name": "Deixar a L\u00e1grima Rolar",
-      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
+      "duration_ms": 243368,
+      "name": "Eu Te Ouvi - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Te Ouvi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
       },
       "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 243368,
-      "name": "Eu Te Ouvi - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
+      "duration_ms": 259181,
+      "name": "Deixar a L\u00e1grima Rolar",
+      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 250821,
+      "name": "S\u00f3 Deus Sabe",
+      "url": "https://open.spotify.com/track/7E3EQ2UGdFMZENj5Ad2lc6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 250821,
-      "name": "S\u00f3 Deus Sabe",
-      "url": "https://open.spotify.com/track/7E3EQ2UGdFMZENj5Ad2lc6"
     },
     {
       "added_at": null,

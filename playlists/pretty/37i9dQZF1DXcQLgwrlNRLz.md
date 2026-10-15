@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,459 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,497 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 34 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
 | 35 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
 | 36 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
-| 37 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
-| 38 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
+| 37 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
+| 38 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 39 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
 | 40 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
 | 41 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 |
 | 80 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 
-Snapshot ID: `AAAAAMAuvugxGn2644dE7McfA2RuPoLk`
+Snapshot ID: `AAAAAJscvSaq8hfRhysrNKA23RYIXUwc`

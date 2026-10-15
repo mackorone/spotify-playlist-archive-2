@@ -4,7 +4,7 @@
 
 > Get the party going with these classics from across the decades.
 
-266 songs - 16 hr 48 min
+267 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2021-12-16 | 2024-04-19 |
 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [King of Mambo](https://open.spotify.com/album/2ZYW7Gnq62sNuZi1hDqgwC) | 3:39 | 2021-12-16 | 2022-06-10 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2021-12-16 | 2024-04-19 |
+| [Miss Independent](https://open.spotify.com/track/2aisU44JcXkfSRJ7dLa02c) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6XIpXPC8eGUGsBc7XFJ539) | 3:52 | 2024-07-12 |  |
 | [Miss Independent](https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 3:52 | 2021-12-16 | 2024-04-19 |
 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 | 2021-12-16 | 2023-07-02 |
 | [More Than A Woman](https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:17 | 2021-12-16 | 2024-04-19 |
@@ -239,7 +240,7 @@
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 | 2021-12-16 | 2026-09-11 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-12-16 | 2024-04-19 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 | 2021-12-16 | 2022-07-29 |
-| [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:18 | 2021-12-16 |  |
+| [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:18 | 2021-12-16 | 2026-10-15 |
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/1UxisKljksGRNwJBPp4Tri) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version Digital Edition](https://open.spotify.com/album/1nojrwBYMmq5jY1gJYtywa) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2021-12-16 | 2024-04-19 |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/6ZEAXknmx2mrO3KgcDNpFI) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:43 | 2021-12-16 | 2022-07-29 |

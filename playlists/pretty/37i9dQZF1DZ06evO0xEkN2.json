@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 244378,
+  "num_followers": 244445,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAD46Wc8T5sny7KEtlhf8t+L",
+  "snapshot_id": "as10gAAAAADguhgnDR2S9b/KAzm4DZEN",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Viernes de Webeo - En Vivo",
-      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
+      "duration_ms": 242546,
+      "name": "1993...",
+      "url": "https://open.spotify.com/track/0xvDIhiCH1ACsMNhdnnonP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Veces Tres",
-        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 242546,
-      "name": "1993...",
-      "url": "https://open.spotify.com/track/0xvDIhiCH1ACsMNhdnnonP"
+      "duration_ms": 240186,
+      "name": "Viernes de Webeo - En Vivo",
+      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Botellas",
-      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
+      "duration_ms": 240373,
+      "name": "Que Pasar\u00e1",
+      "url": "https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
@@ -372,9 +372,25 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 240373,
-      "name": "Que Pasar\u00e1",
-      "url": "https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3"
+      "duration_ms": 247680,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Busc\u00e1ndote (Paraguayito Dub)",
+      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
       "duration_ms": 286733,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Veces Tres",
-        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Busc\u00e1ndote (Paraguayito Dub)",
-      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 266746,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
+      "duration_ms": 197533,
+      "name": "Estrella Roja",
+      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
     },
     {
       "added_at": null,
@@ -508,25 +508,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Estrella Roja",
-      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Borracho Drunk Steady Beer",
-      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+      "duration_ms": 266746,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 161946,
       "name": "Hostilidades - En Vivo",
       "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Borracho Drunk Steady Beer",
+      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 293247,
-      "name": "Infiernos",
-      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 293247,
+      "name": "Infiernos",
+      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Inocente Pobre Amigo",
-      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
+      "duration_ms": 237813,
+      "name": "Seguir Bailando",
+      "url": "https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
       "artists": [
         {
@@ -804,25 +804,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 237813,
-      "name": "Seguir Bailando",
-      "url": "https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 184585,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
+      "duration_ms": 221000,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
     },
     {
       "added_at": null,

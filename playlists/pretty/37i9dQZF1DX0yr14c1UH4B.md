@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🎧 cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,301 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,292 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [So Long](https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [So Long](https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold) | 3:55 |
 | 100 | [I'll Never Feel That Young Again](https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [I'll Never Feel That Young Again](https://open.spotify.com/album/56BrmoyoywierPRlLk98uG) | 3:35 |
 
-Snapshot ID: `AAAAACFeqCh1nRdQ4QYzJI0w4B9t8yV9`
+Snapshot ID: `AAAAABpifYLWvderLw/rbouZXWsh/6Zt`

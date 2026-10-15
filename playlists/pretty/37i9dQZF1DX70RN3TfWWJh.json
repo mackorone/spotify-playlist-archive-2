@@ -1,12 +1,12 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4695510,
+  "num_followers": 4695273,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTRIeavyEO3pTBcKkrSQ3j4Wq+b",
+  "snapshot_id": "AAAAAO+T3B6egsZrENyelUsWWBWa/aXw",
   "tracks": [
     {
       "added_at": "2026-09-29 19:00:58",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-29 19:00:58",
       "album": {
-        "name": "new trick",
-        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "new trick",
-      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
-    },
-    {
-      "added_at": "2026-09-29 19:00:58",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2026-09-29 19:00:58",
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
       "added_at": "2026-09-29 19:00:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-29 19:00:58",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-09-29 19:00:58",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2026-09-29 19:00:58",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-09-29 19:00:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-29 19:00:58",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 161105,
-      "name": "You Can't Stop This",
-      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
-    },
-    {
-      "added_at": "2026-09-29 19:00:58",
-      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2026-09-29 19:00:58",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 161105,
+      "name": "You Can't Stop This",
+      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
     },
     {
       "added_at": "2026-09-29 19:00:58",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-09-29 19:00:58",
       "album": {
-        "name": "Damn I Love Miami",
-        "url": "https://open.spotify.com/album/2WzCFW3ywduzHLbPNMrzji"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 161651,
-      "name": "Damn I Love Miami",
-      "url": "https://open.spotify.com/track/7t1SuBddByBghdAD47acYa"
-    },
-    {
-      "added_at": "2026-09-29 19:00:58",
-      "album": {
         "name": "Ivy To Roses (Mixtape)",
         "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2026-09-29 19:00:58",
+      "album": {
+        "name": "Damn I Love Miami",
+        "url": "https://open.spotify.com/album/2WzCFW3ywduzHLbPNMrzji"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 161651,
+      "name": "Damn I Love Miami",
+      "url": "https://open.spotify.com/track/7t1SuBddByBghdAD47acYa"
     },
     {
       "added_at": "2026-09-29 19:00:58",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-09-29 19:00:58",
       "album": {
-        "name": "ESTRUS",
-        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/2rTXmLEdBLiHll8nIhQ65K"
-    },
-    {
-      "added_at": "2026-09-29 19:00:58",
-      "album": {
         "name": "13 Reasons Why (Season 2)",
         "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 210240,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
+    },
+    {
+      "added_at": "2026-09-29 19:00:58",
+      "album": {
+        "name": "ESTRUS",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/2rTXmLEdBLiHll8nIhQ65K"
     },
     {
       "added_at": "2026-09-29 19:00:58",

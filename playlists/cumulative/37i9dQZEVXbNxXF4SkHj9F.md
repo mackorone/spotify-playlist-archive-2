@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,205 songs - 5 day 0 hr 32 min
+2,206 songs - 5 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [A bientot](https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:16 | 2022-07-01 | 2024-07-21 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-26 | 2022-12-27 |
 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 | 2025-04-13 | 2026-03-01 |
-| [A Letter For You](https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [A Letter For You](https://open.spotify.com/album/7DZOVeIyrwKSpkzzbjWzoJ) | 3:37 | 2026-09-10 | 2026-10-14 |
+| [A Letter For You](https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [A Letter For You](https://open.spotify.com/album/7DZOVeIyrwKSpkzzbjWzoJ) | 3:37 | 2026-09-10 |  |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-20 |
 | [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 | 2026-02-05 | 2026-02-08 |
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2021-05-16 | 2021-05-17 |
@@ -191,7 +191,7 @@
 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-11 | 2026-02-27 |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2024-12-31 | 2025-04-15 |
 | [BANG BANG BANG \- KR Ver.](https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:41 | 2025-01-02 | 2025-02-20 |
-| [Bansanka](https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [J\-POP REMAKE Vol.1](https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu) | 3:39 | 2026-06-30 |  |
+| [Bansanka](https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [J\-POP REMAKE Vol.1](https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu) | 3:39 | 2026-06-30 | 2026-10-15 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-28 | 2023-07-30 |
 | [BBAKSSE](https://open.spotify.com/track/1TE8BaHIA2VjE1twrZETS1) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 3:42 | 2022-03-04 | 2022-03-08 |
 | [BBUU!](https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ) | 2:52 | 2025-11-12 | 2026-05-03 |
@@ -272,7 +272,7 @@
 | [Boom Boom Bass](https://open.spotify.com/track/6Ixrp3yXfzv5brZXmZuXXN) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 2:32 | 2024-08-20 | 2024-08-22 |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-23 | 2026-07-31 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-08 | 2025-02-17 |
-| [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 | 2026-04-15 |  |
+| [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 | 2026-04-15 | 2026-10-15 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-07-04 |
 | [BOY MEETS GIRL](https://open.spotify.com/track/5bI8Nv7j6qlPZWCKvkNI3Q) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [BOY MEETS GIRL](https://open.spotify.com/album/2YjOW5BE4A2i8oMXh6oU66) | 3:20 | 2026-06-23 | 2026-06-25 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-06-11 | 2023-02-12 |
@@ -1331,6 +1331,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-09 | 2021-09-12 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-14 | 2022-07-17 |
 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 | 2024-10-08 | 2024-11-13 |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-14 |  |
 | [Nest](https://open.spotify.com/track/007S8LPHyug4UrgDWxiCxO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 2:52 | 2022-06-01 | 2022-07-02 |
 | [Nest](https://open.spotify.com/track/05STjz8kmPBUebu3uu5sO0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 2:52 | 2022-07-01 | 2024-01-12 |
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-03-30 | 2024-04-06 |

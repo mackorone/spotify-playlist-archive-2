@@ -1,12 +1,12 @@
 {
   "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: haloplus+",
-  "num_followers": 86582,
+  "num_followers": 86608,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOCQluvH45LILq69lvcMtlErN8MM",
+  "snapshot_id": "AAAAALY83yaKfARjUbN12mX30GV97H7U",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:55",
@@ -135,6 +135,22 @@
       "duration_ms": 163242,
       "name": "Swamp intro",
       "url": "https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb"
+    },
+    {
+      "added_at": "2026-10-14 13:59:10",
+      "album": {
+        "name": "Put Rings On All My Fingers To Weigh Down My Hands",
+        "url": "https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc"
+      },
+      "artists": [
+        {
+          "name": "Curbside Lambsear",
+          "url": "https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Avril",
+      "url": "https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy"
     },
     {
       "added_at": "2026-10-09 04:00:55",

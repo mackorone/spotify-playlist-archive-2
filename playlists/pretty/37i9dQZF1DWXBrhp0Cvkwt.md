@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,996 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,071 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 53 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 | 54 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
 | 55 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
-| 56 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 |
-| 57 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 58 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
+| 56 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 57 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
+| 58 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 |
 | 59 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 60 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
 | 61 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
 | 62 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 63 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
-| 64 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
-| 65 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
+| 64 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
+| 65 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
 | 66 | [The Great War](https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:00 |
 | 67 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
 | 68 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 71 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 72 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 73 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
-| 74 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 |
-| 75 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
+| 74 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
+| 75 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 |
 | 76 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 77 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 |
 | 78 | [EX](https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:42 |
 | 79 | [Echo](https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:49 |
 | 80 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
 
-Snapshot ID: `AAAAAAlt2rvDajthvocdVpmFEHBSqfXH`
+Snapshot ID: `AAAAAFgAzCyaIONwV0kw7aIKNMBnYz0Y`

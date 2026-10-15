@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 
 > This is Shakira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833,104 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,239 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 45 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 | 46 | [La La La \(Brasil 2014\) \(feat\. Carlinhos Brown\) \- Tradução/Letra\)](https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:17 |
 | 47 | [Rabiosa \(feat\. Pitbull\)](https://open.spotify.com/track/2Xh7dyCHCErCv3PmdVEGw4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:50 |
-| 48 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
-| 49 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
-| 50 | [Te Dejo Madrid](https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:06 |
+| 48 | [Te Dejo Madrid](https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:06 |
+| 49 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
+| 50 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
 
-Snapshot ID: `asrRgAAAAAAOIpEAifLj6yt9kpccWw/H`
+Snapshot ID: `as10gAAAAAAE5vrMGHf/g44MM8vtHGAM`

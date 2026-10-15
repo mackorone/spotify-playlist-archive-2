@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,972,194 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,972,197 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 70 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 71 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
 | 72 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
-| 73 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 |
+| 73 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 74 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
-| 75 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
+| 75 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 |
 | 76 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 77 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:53 |
 | 78 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 87 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 88 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 89 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
-| 90 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
-| 91 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
-| 92 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 |
+| 90 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 91 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 |
+| 92 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
 | 93 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 94 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 95 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 99 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 | 100 | [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 |
 
-Snapshot ID: `AAAAALjqxz9HxNqq+dIFi7XhjWVHrwH8`
+Snapshot ID: `AAAAALOEtcAX2iQEF1JuDcPvhYJnyk9w`

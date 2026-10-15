@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,025 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,053 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 28 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
 | 29 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 30 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
-| 31 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
-| 32 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
+| 31 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
+| 32 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
 | 33 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 |
 | 34 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
 | 35 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 47 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
 | 48 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
 | 49 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
-| 50 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
-| 51 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 |
+| 50 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 |
+| 51 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
 | 52 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 |
 | 53 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:15 |
 | 54 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 80 | [I'm Specialized in You](https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV) | [Time Bandits](https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne) | [Greatest Hits](https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da) | 3:51 |
 | 81 | [Love & Pride](https://open.spotify.com/track/7s9MPp6IbrZa39gE0zpiVH) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Love And Pride \- The Best Of King](https://open.spotify.com/album/6I9he8EJUDC07nfcjq4NKZ) | 3:20 |
 | 82 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
-| 83 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
-| 84 | [How Many Times](https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq) | [Lori Spee](https://open.spotify.com/artist/1E6ogGNGAoSqr3sm20PVaU) | [Behind Those Eyes](https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w) | 4:01 |
+| 83 | [How Many Times](https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq) | [Lori Spee](https://open.spotify.com/artist/1E6ogGNGAoSqr3sm20PVaU) | [Behind Those Eyes](https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w) | 4:01 |
+| 84 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
 | 85 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 86 | [I Save The Day](https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL) | [Roberto Jacketti & The Scooters](https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun) | [De Top 10 Van](https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i) | 3:12 |
 | 87 | [You're a Friend of Mine](https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3) | [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Rescue / Hero](https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 99 | [Walk Of Life](https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 4:09 |
 | 100 | [You Can't Hurry Love](https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going](https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY) | 2:55 |
 
-Snapshot ID: `AAAAAEr+ihF2ypSSMDpMortlV6DpkAkm`
+Snapshot ID: `AAAAACLmVyJSSRYdxWXtJergN8FjmwrS`

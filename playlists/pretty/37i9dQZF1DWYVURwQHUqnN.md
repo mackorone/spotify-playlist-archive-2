@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Leto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,728 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,668 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Confettis](https://open.spotify.com/track/4HylLIiXubG5xFmQLIEAAA) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Confettis](https://open.spotify.com/album/60R2KMqv2HEBGdLTBRebrZ) | 3:08 |
 | 60 | [Rek](https://open.spotify.com/track/4QCBVk0hoDdy9Hukn7r6fF) | [Saaro](https://open.spotify.com/artist/7EhNT3E3h56XbuohaGE0Z1) | [Rek](https://open.spotify.com/album/1332zGUkyb6h12VzbhPdS4) | 2:43 |
 
-Snapshot ID: `AAAAAOt/xxxVOyoSJa/dwSuUx1rgEUT1`
+Snapshot ID: `AAAAAFv8riIDbJMfn24x2+8CEPEK+5Vj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Karlien Van Jaarsveld, Jay, Marno van der Merwe, FATMAN, Ruhan Du Toit en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,668 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,672 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Charlene](https://open.spotify.com/track/5uETx7II9nUtmFLWvpnoEQ) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Charlene](https://open.spotify.com/album/6SKmx59Wwx1qW1TYjMoq1j) | 3:30 |
 | 60 | [Tree Terug](https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX), [Net Francois](https://open.spotify.com/artist/6ZRHHVXgxYnvQHn1VNcHmk) | [Tree Terug](https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn) | 3:40 |
 
-Snapshot ID: `AAAAAKB24lCicF3bYT7yHoNw4BCHFftU`
+Snapshot ID: `AAAAAIRU4yqBA9BHwnLDyLpfQlvtWyPo`

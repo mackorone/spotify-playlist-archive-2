@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 854420,
+  "num_followers": 854429,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE5twE+pisuA4BA5gNGlb3e74QLv",
+  "snapshot_id": "AAAAALDIReVnhLm+qJv4YnBZuHH0zx/m",
   "tracks": [
     {
       "added_at": "2026-09-25 17:35:07",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -955,18 +955,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 226791,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -987,22 +991,18 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
         }
       ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 226791,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "LEAVE IT ALL BEHIND",
-        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "LEAVE IT ALL BEHIND",
-      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 219250,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
+        "name": "I Guess We\u2019re Not The Same",
+        "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 211575,
+      "name": "I Guess We're Not The Same",
+      "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
       },
@@ -1719,38 +1735,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "I Guess We\u2019re Not The Same",
-        "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 211575,
-      "name": "I Guess We're Not The Same",
-      "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Tear Drops",
         "url": "https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 169655,
       "name": "Tear Drops",
       "url": "https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Without You (feat. Sasha Alex Sloan)",
-        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 176258,
-      "name": "Without You (feat. Sasha Alex Sloan)",
-      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1859,6 +1835,46 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
+        "name": "Without You (feat. Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 176258,
+      "name": "Without You (feat. Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
         "name": "Problemsss",
         "url": "https://open.spotify.com/album/3UguD39PJXiEKE6OIrIvce"
       },
@@ -1879,18 +1895,34 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+        "name": "love yourself",
+        "url": "https://open.spotify.com/album/1sxHxiLVfpLyCTEdhwSeLn"
       },
       "artists": [
         {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+      "duration_ms": 219516,
+      "name": "love yourself",
+      "url": "https://open.spotify.com/track/4RV1xl2Y3yuYiw4hz5WPxr"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1919,34 +1951,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/3Zl6jttJdpqyrIrOfcXPUA"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
-        "name": "love yourself",
-        "url": "https://open.spotify.com/album/1sxHxiLVfpLyCTEdhwSeLn"
-      },
-      "artists": [
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        },
         {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
         }
       ],
-      "duration_ms": 219516,
-      "name": "love yourself",
-      "url": "https://open.spotify.com/track/4RV1xl2Y3yuYiw4hz5WPxr"
+      "duration_ms": 154925,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/4KvHpI0rCMnKY7ucLTLSOw"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -2015,26 +2035,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/3Zl6jttJdpqyrIrOfcXPUA"
-      },
-      "artists": [
-        {
-          "name": "Julian",
-          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
-        },
-        {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
-        }
-      ],
-      "duration_ms": 154925,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/4KvHpI0rCMnKY7ucLTLSOw"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Love Me For Real",
         "url": "https://open.spotify.com/album/0wcZU2ve89Yx4mndvcku0B"
       },
@@ -2083,26 +2083,6 @@
       "duration_ms": 191666,
       "name": "Ain't Giving Up",
       "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
-        "name": "MEMORY",
-        "url": "https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        },
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "duration_ms": 196590,
-      "name": "MEMORY",
-      "url": "https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -2163,18 +2143,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "INSOMNIA",
-        "url": "https://open.spotify.com/album/0HO8ZIzPKixZZQiEd5zW0p"
+        "name": "MEMORY",
+        "url": "https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO"
       },
       "artists": [
         {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        },
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
         }
       ],
-      "duration_ms": 156421,
-      "name": "INSOMNIA",
-      "url": "https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"
+      "duration_ms": 196590,
+      "name": "MEMORY",
+      "url": "https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -2195,6 +2179,22 @@
       "duration_ms": 167111,
       "name": "THINKIN' BOUT U",
       "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/0HO8ZIzPKixZZQiEd5zW0p"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        }
+      ],
+      "duration_ms": 156421,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"
     },
     {
       "added_at": "2026-09-25 17:35:07",

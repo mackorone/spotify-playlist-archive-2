@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: MEOVV
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,835 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,840 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 61 | [My Voice](https://open.spotify.com/track/3DIZWWeULKD6N4S4Q9CtFS) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [My Voice](https://open.spotify.com/album/6x1DMiKyGLxMtFjLmh6T2D) | 3:15 |
 | 62 | [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 |
 | 63 | [can′t go back](https://open.spotify.com/track/1LpDwT0wUPXPIMMQpF5sYr) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 3rd Single \[can′t go back\]](https://open.spotify.com/album/3OLYx5mUswHihbOinrKetO) | 2:44 |
-| 64 | [Love Got Me Ooh](https://open.spotify.com/track/3oiikhWraUTZVfGBF0OtFx) | [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4) | [Love Got Me Ooh](https://open.spotify.com/album/1EmfhyS1btZFBq3RbxUn9b) | 2:45 |
+| 64 | [Love Got Me Ooh](https://open.spotify.com/track/3oiikhWraUTZVfGBF0OtFx) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4) | [Love Got Me Ooh](https://open.spotify.com/album/1EmfhyS1btZFBq3RbxUn9b) | 2:45 |
 | 65 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
 | 66 | [2 L0VE](https://open.spotify.com/track/6RFwKZfqEfRfz9aJMuxeBq) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 |
 | 67 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAHIUmVD5h/m2K+A/3bKXHeDtI/nL`
+Snapshot ID: `AAAAAIfBz71I0pWtzqvKrgAzXbuzU3Qh`

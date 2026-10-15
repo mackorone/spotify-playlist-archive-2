@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Eve
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,616 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,606 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [WATCH ME feat\. BIA](https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C) | 3:09 |
 | 75 | [Aigayueni](https://open.spotify.com/track/6Myui5vYzIBsZvkYf1zeIc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Aigayueni](https://open.spotify.com/album/1ldFuIpVaM6Gcd8jbpAPmw) | 3:26 |
 
-Snapshot ID: `AAAAAKobCmda0R7DnLbm6vS9Ys80GU/f`
+Snapshot ID: `AAAAADJvMBhLqzZqgFqU7uRpYg2ncm3w`

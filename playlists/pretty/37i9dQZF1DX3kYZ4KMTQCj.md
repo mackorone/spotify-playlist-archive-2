@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3kYZ4KMTQCj.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Aaron Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3kYZ4KMTQCj.md) - [plain]
 | 49 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 |
 | 50 | [One In A Million](https://open.spotify.com/track/3j64qSBGg8zPn4zRa9Wok1) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/5VT7ND2Rq0MhfqxkAzBNz3) | 4:30 |
 
-Snapshot ID: `AAAAAEnac48l8Yj6tEBnEUcS3pvq0PE8`
+Snapshot ID: `AAAAAOrPIQqk0BeAfY1dOEUmeGYzZdHR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Laila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,438 likes - 275 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,369 likes - 275 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [MORE](https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [MORE](https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N) | 2:28 |
 | 275 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 
-Snapshot ID: `AAAAADsm+cUAq1x+kKn9LbvK6Vh+xEXA`
+Snapshot ID: `AAAAAA5WSSlUa7RR2+NAB3rd8nzeG+Gr`

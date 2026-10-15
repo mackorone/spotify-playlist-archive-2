@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,800 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,831 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 30 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 31 | [drop dead](https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 |
 | 32 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
-| 33 | [Iris](https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Stay with You](https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc) | 4:49 |
+| 33 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 34 | [Freakin’ Out](https://open.spotify.com/track/2LSltDwOzq2yoBliFUnY41) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Friends That I Don't Like](https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF) | 3:37 |
 | 35 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 |
 | 36 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 50 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 
-Snapshot ID: `MmGssAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MmL5gAAAAAAAAAAAAAAAAAAAAAAAAGVu`

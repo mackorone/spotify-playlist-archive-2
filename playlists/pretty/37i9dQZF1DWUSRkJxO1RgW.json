@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 304228,
+  "num_followers": 304217,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkIaZl0Fo/gk2KFGZIvNldOJk7c",
+  "snapshot_id": "AAAAAGG3nXzcP2w9WVAHLyGCIbAa4wQr",
   "tracks": [
     {
       "added_at": "2024-06-12 23:29:42",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Prive",
-        "url": "https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Rezo Por Vos",
-      "url": "https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Ratones Paranoicos",
         "url": "https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 202706,
       "name": "Sucia Estrella",
       "url": "https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Prive",
+        "url": "https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Rezo Por Vos",
+      "url": "https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr"
     },
     {
       "added_at": "2024-06-12 23:29:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 
 > This is Lewis Capaldi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,478 likes - 37 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,470 likes - 37 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 | 11 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 |
 | 12 | [A Cure For Minds Unwell](https://open.spotify.com/track/4PwTyisf9W7zfhAAflOKag) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:24 |
 | 13 | [Forever](https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:30 |
-| 14 | [Leaving My Love Behind](https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:30 |
+| 14 | [Before You Go \- Guitar Acoustic](https://open.spotify.com/track/27829SWtwhWUANViVTEpol) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:38 |
 | 15 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 |
-| 16 | [Before You Go \- Guitar Acoustic](https://open.spotify.com/track/27829SWtwhWUANViVTEpol) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:38 |
+| 16 | [Leaving My Love Behind](https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:30 |
 | 17 | [Grace](https://open.spotify.com/track/0pEkK8MqbmGSX7fT8WLMbR) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:05 |
 | 18 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 | 19 | [Heavenly Kind Of State Of Mind](https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:21 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 | 36 | [Old Navy Blue](https://open.spotify.com/track/2sZxMkr5Qq5FzaymQy2nFc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:08 |
 | 37 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 |
 
-Snapshot ID: `asrRgAAAAABnEmDAHHrADhz53VURvvPG`
+Snapshot ID: `as10gAAAAADGd9NAfQA5pO/BNe0M8FgV`

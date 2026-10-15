@@ -1,12 +1,12 @@
 {
   "description": "Fresh Prince,  Game Boy  and MSN, this one's for you!",
-  "num_followers": 194639,
+  "num_followers": 194653,
   "original_name": "Born in the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMm8QhHkpr4Vi3Cjc6ViLdlcS03/",
+  "snapshot_id": "AAAAABns9NEUAuCb22eDECQ0O+BYYdVr",
   "tracks": [
     {
       "added_at": "2024-03-25 16:52:43",
@@ -215,18 +215,22 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+        "name": "Chinese Wall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
       },
       "artists": [
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+      "duration_ms": 305866,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -247,22 +251,18 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "Chinese Wall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
       "artists": [
         {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
         }
       ],
-      "duration_ms": 305866,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 297840,
       "name": "Cleanin' Out My Closet",
       "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 367333,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "EV3",
         "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 291880,
       "name": "Don't Let Go (Love)",
       "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2024-03-25 16:52:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-25 16:52:43",
       "album": {
-        "name": "I Ain't Movin'",
-        "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "You Gotta Be",
-      "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
-    },
-    {
-      "added_at": "2024-03-25 16:52:43",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 241026,
       "name": "2 Become 1",
       "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "added_at": "2024-03-25 16:52:43",
+      "album": {
+        "name": "I Ain't Movin'",
+        "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "You Gotta Be",
+      "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
     },
     {
       "added_at": "2024-03-25 16:52:43",

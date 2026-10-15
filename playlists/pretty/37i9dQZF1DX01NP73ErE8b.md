@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 ARIETE in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,748 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,751 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 79 | [Menta](https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Menta](https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5) | 3:11 |
 | 80 | [ADRENALINA](https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:24 |
 
-Snapshot ID: `AAAAAL2fAc0fbGz8B7Y4jJGXdO1NjlOY`
+Snapshot ID: `AAAAADCOHrN5yCVoJmPzbY11XFE2GRde`

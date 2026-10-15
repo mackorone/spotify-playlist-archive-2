@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Roy Kim\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Kangziwon\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-697 songs - 1 day 16 hr 59 min
+698 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cruel Travel](https://open.spotify.com/track/3VWVdy2Il1Q5HHiMojL6rU) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:06 | 2022-03-31 | 2022-04-03 |
 | [Crushed](https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crushed](https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt) | 4:02 | 2026-07-03 |  |
 | [CRY OUT LOUD](https://open.spotify.com/track/2dZXaRNwrSkywk5RrCrLjw) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [CRY OUT LOUD](https://open.spotify.com/album/0fISK3FS84Z6qz2M8MtWfz) | 3:57 | 2026-10-06 |  |
+| [Da capo](https://open.spotify.com/track/060tUmy5CADx6SSaxCF0BN) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [but be odd now?](https://open.spotify.com/album/0zS7MYAILev6dn9UA6NVnE) | 3:09 | 2026-10-15 |  |
 | [Daisy](https://open.spotify.com/track/537iConeos2YqUkrmgYQWI) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [Daisy](https://open.spotify.com/album/0mItSTk5v5NyKnhKjsOUnr) | 2:55 | 2022-03-31 | 2022-04-21 |
 | [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\)](https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-08-09 | 2022-08-13 |
 | [Darling](https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Melancholia, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0HaiAHJ2dETG2ezbTHDRi7) | 4:10 | 2021-12-10 | 2022-07-23 |
@@ -471,7 +472,7 @@
 | [Seawater](https://open.spotify.com/track/4ZUQdbXvLUn3LHAjYxci0k) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Though We Adrift](https://open.spotify.com/album/2YFgkaictuYC288Ijr8LTd) | 3:40 | 2025-07-14 | 2025-08-08 |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-08 | 2024-04-19 |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2021-12-10 | 2022-07-29 |
-| [seesaw](https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:21 | 2026-07-08 |  |
+| [seesaw](https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:21 | 2026-07-08 | 2026-10-15 |
 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-01-25 | 2023-02-25 |
 | [Shining, My 2006](https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [2006](https://open.spotify.com/album/6lumjI581TEGHeTviSikrm) | 4:49 | 2021-12-10 | 2022-06-13 |
 | [Shoes](https://open.spotify.com/track/2I5W9TrNTWn4i50Sm02vDy) | [Zhangguyy](https://open.spotify.com/artist/1LZpQEPSamphvIM3CDo3Nu), [Osamu](https://open.spotify.com/artist/13VLezmDGQJnFNERxYJvCe) | [Shoes](https://open.spotify.com/album/1Gde1sPR0Jhukof1ERI6a5) | 2:57 | 2022-03-31 | 2022-04-07 |

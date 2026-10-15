@@ -1,12 +1,12 @@
 {
   "description": "Family friendly country songs to listen to together.",
-  "num_followers": 101411,
+  "num_followers": 101440,
   "original_name": "Family Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFoUZSN24KBQDU13NtxOieU68mHy",
+  "snapshot_id": "AAAAAARcWberkfn8HMThUf4sFmkjSV70",
   "tracks": [
     {
       "added_at": "2026-10-01 16:28:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
       },
@@ -831,34 +815,18 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Suds in the Bucket",
-      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+      "duration_ms": 177333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -879,22 +847,34 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Dig Your Roots",
-        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 226173,
-      "name": "May We All",
-      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
+      "duration_ms": 213386,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Suds in the Bucket",
+      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -911,6 +891,26 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "May We All",
+      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Can't Say I Ain't Country",
-        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Heartache Medication",
         "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 220880,
       "name": "Ain't Always The Cowboy",
       "url": "https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Can't Say I Ain't Country",
+        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     }
   ],
   "unique_name": "Family Country",

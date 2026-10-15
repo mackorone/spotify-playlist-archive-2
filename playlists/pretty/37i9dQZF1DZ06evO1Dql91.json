@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3086,
+  "num_followers": 3085,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACDZdaAcZbjpj3mg5mzICjj",
+  "snapshot_id": "as10gAAAAAD4+sON81Ry2YxCkXCHVCD2",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "WHAT LOVERS DO",
+      "url": "https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -199,34 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BRIDGE",
-        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "WHAT LOVERS DO",
-      "url": "https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 201808,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3wk5UPZ5cVFD6rBpQsFQyD"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3wk5UPZ5cVFD6rBpQsFQyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 182093,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/77gxBuREXp2aJI6FmqjaeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "The Sunshine",
+      "url": "https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 234691,
-      "name": "The Sunshine",
-      "url": "https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 253253,
       "name": "No One Comes Close",
       "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Is Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 198636,
+      "name": "Everything Is Gonna Be Alright",
+      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
       "duration_ms": 188800,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Is Gonna Be Alright",
-        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 198636,
-      "name": "Everything Is Gonna Be Alright",
-      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
     },
     {
       "added_at": null,
@@ -515,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 234649,
-      "name": "Mr. Pessimistic",
-      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 200551,
-      "name": "More Beautiful",
-      "url": "https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home, Vol. 1",
         "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
       },
@@ -567,6 +535,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 200551,
+      "name": "More Beautiful",
+      "url": "https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234649,
+      "name": "Mr. Pessimistic",
+      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -579,30 +579,6 @@
       "duration_ms": 233053,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Mad Love Remix ft. Tobe Nwigwe, Rapsody - Remix",
-      "url": "https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683"
     },
     {
       "added_at": null,
@@ -643,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Mad Love Remix ft. Tobe Nwigwe, Rapsody - Remix",
+      "url": "https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 228600,
       "name": "Just Loving Me",
       "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 244551,
-      "name": "Outside Myself",
-      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 89235,
       "name": "Hater's Reprise - Live",
       "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 244551,
+      "name": "Outside Myself",
+      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
     },
     {
       "added_at": null,

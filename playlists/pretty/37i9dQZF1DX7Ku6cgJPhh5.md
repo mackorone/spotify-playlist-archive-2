@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,596 likes - 125 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,678 likes - 125 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 37 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
 | 38 | [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 3:13 |
 | 39 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
-| 40 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 40 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
 | 41 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
-| 42 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 43 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 42 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 43 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 44 | [My Hero](https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:18 |
 | 45 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 46 | [By the Way](https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:36 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 67 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 | 68 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 69 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
-| 70 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
-| 71 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 70 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 71 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
 | 72 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 73 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
-| 74 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
-| 75 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
+| 74 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
+| 75 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 76 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 77 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
 | 78 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 93 | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 |
 | 94 | [No Excuses](https://open.spotify.com/track/4PtZE0h5oyPhCtPjg3NeYQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:15 |
 | 95 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 |
-| 96 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
-| 97 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 96 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 97 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 98 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 99 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
 | 100 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 117 | [16](https://open.spotify.com/track/7jHJ2MzIKO1kIMxGamKRKn) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [MCID](https://open.spotify.com/album/16ah4zHJlxx3wjRFg3nkSl) | 4:38 |
 | 118 | [Come Together](https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6) | 3:44 |
 | 119 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
-| 120 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
-| 121 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
+| 120 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
+| 121 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
 | 122 | [Until The Sun Explodes](https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Until The Sun Explodes](https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX) | 2:58 |
 | 123 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 | 124 | [Under the Graveyard](https://open.spotify.com/track/0C4bx13JIMSWOAxd8TaoVq) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under the Graveyard](https://open.spotify.com/album/2Kv2WwhJr6cudEIrzxPqXD) | 4:57 |
 | 125 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 
-Snapshot ID: `AAAAAOd8DRAaE4rWE5DOxvVWykPGdNHx`
+Snapshot ID: `AAAAACsRpKEK1E0GRjzYR8GjMoiG+zYZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: GRUB
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,960 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,954 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [Love Me America](https://open.spotify.com/track/3EAcyL3yq5MLnzFegseJkz) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Love Me America](https://open.spotify.com/album/2TeHpiHgz3e5YeKJXTE4NO) | 4:02 |
 | 99 | [Bitter Start](https://open.spotify.com/track/2R11YDcbE599gK3XaNezWr) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Bitter Start](https://open.spotify.com/album/0rG9gFONhpVfx2nh8HnoXU) | 3:18 |
 
-Snapshot ID: `AAAAAPABFW91THR2vmniXpfooNeQv0u5`
+Snapshot ID: `AAAAALJsSN6+bPyBhNnp8G7mYJlQ2E14`

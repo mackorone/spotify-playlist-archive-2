@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,365 likes - 47 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,374 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 9 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
 | 10 | [HOY](https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:52 |
 | 11 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
-| 12 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
-| 13 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 |
+| 12 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 |
+| 13 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 14 | [CHEYENNE](https://open.spotify.com/track/716faZsCF8J3qHpkIsB8DX) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:29 |
 | 15 | [Baby \- Version Norteña](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
 | 16 | [Quiero Ser \- Version Norteña](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 46 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
 | 47 | [NOCHE NEGRA](https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:53 |
 
-Snapshot ID: `asrRgAAAAAD08yQ0rdSwdHj3JeoyTxYK`
+Snapshot ID: `as10gAAAAADEuHaJkLRCUV/a6Qv5SkUu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > Celebrating 20 years of B'Day\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812,449 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,812,481 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 29 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 30 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 31 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
-| 32 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
-| 33 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
+| 32 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
+| 33 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
 | 34 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:06 |
 | 35 | [How Do I Breathe](https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:36 |
 | 36 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 58 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
 | 59 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 |
 | 60 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
-| 61 | [I Invented Sex \(feat\. Drake\)](https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 4:07 |
-| 62 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 63 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
-| 64 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 61 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
+| 62 | [I Invented Sex \(feat\. Drake\)](https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 4:07 |
+| 63 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 64 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
 | 65 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 66 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
 | 67 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 70 | [Until The End Of Time \(with Beyoncé\)](https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 5:22 |
 | 71 | [On the Hotline](https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0xbRSFuLwoNrRurfUXkN09) | 4:02 |
 | 72 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
-| 73 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
-| 74 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
-| 75 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
+| 73 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
+| 74 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
+| 75 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
 | 76 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 77 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 78 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 90 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 | 91 | [Just in Case](https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:23 |
 | 92 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
-| 93 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
-| 94 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 |
+| 93 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 |
+| 94 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
 | 95 | [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 |
 | 96 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
 | 97 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 99 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 |
 | 100 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 
-Snapshot ID: `AAAAAH2oldfIqFHsQdZnrWWL50fcXsrf`
+Snapshot ID: `AAAAAFL84N0CEYqDj2t0SKUTg/7OWHLA`

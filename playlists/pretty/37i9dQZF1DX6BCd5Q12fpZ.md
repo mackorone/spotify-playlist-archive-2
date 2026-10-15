@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,012 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,009 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Every way that I can \- English Radio Edit](https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW) | [Sertab](https://open.spotify.com/artist/6WyyxMwz028GEkIIWOP2qq) | [Alpha hrises epitihies 2004](https://open.spotify.com/album/4bzPUq5nBrxjiDQVgHibbe) | 2:48 |
 | 75 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
 
-Snapshot ID: `AAAAAJGp+zDqZt5BzwF2ffzXwc+G+TTB`
+Snapshot ID: `AAAAAG/oTtgPhsXccNu5BWZ/O+IygaP1`

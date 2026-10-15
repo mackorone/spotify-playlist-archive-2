@@ -2,9 +2,9 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Lucky Daye
+> The tracks you can put on repeat all day\. Cover: Daniel Caesar
 
-756 songs - 1 day 19 hr 0 min
+757 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-04-03 | 2025-04-24 |
 | [Crowded Room \(feat\. 6LACK\)](https://open.spotify.com/track/2C0hTkdEoikhKzDCJl32QZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:06 | 2022-04-01 | 2022-07-25 |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2026-08-14 |  |
-| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-02-10 |  |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-02-10 | 2026-10-15 |
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-05-26 | 2024-06-01 |
 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 | 2022-03-11 | 2022-07-29 |
 | [Cupid's Curse \(feat\. Kehlani\)](https://open.spotify.com/track/4tyxf7iATNclULxE7oAKMN) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [With Love 2](https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR) | 3:32 | 2022-03-11 | 2022-07-29 |
@@ -563,6 +563,7 @@
 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-06-27 | 2024-08-02 |
 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 | 2022-04-01 | 2022-08-12 |
 | [ROLLA](https://open.spotify.com/track/2PpURDy2rnoBDC0PlBgiqd) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [DONE IS DONE](https://open.spotify.com/album/6rNLdu77fzdWmOkVoUM3Pa) | 3:52 | 2022-04-01 | 2022-05-07 |
+| [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2026-10-15 |  |
 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 | 2022-04-01 | 2026-05-23 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-05-31 | 2024-07-12 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2022-04-01 | 2022-08-12 |

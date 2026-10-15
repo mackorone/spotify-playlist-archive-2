@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Britney
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,805 likes - 94 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,723 likes - 94 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 93 | [kingpin](https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [kingpin](https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb) | 2:38 |
 | 94 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 |
 
-Snapshot ID: `AAAAAGYKrCu2e9SfooMZoW7vw4M0pzSB`
+Snapshot ID: `AAAAANnyL4LYYDVVAt0YZmwc4plvF5lh`

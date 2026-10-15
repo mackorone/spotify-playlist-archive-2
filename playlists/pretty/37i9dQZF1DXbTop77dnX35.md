@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FOLA, Gunna, Phyno, Wave$tar, Kashcoming, Bien and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,118 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,156 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 56 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
 | 57 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
 
-Snapshot ID: `AAAAABTxUPi6+sm4hrnjBlsKc95hYqDw`
+Snapshot ID: `AAAAAJxmz0t7p/Iz7XFCU+UYOvHWLQez`

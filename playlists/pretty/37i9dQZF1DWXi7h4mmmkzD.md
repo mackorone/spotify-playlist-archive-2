@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,740 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,743 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 42 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 43 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 44 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
-| 45 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 |
-| 46 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
+| 45 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
+| 46 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 |
 | 47 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 48 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 49 | [Here For A Good Time](https://open.spotify.com/track/11OFYsUK9EVJsQ6nutH32M) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Here For A Good Time](https://open.spotify.com/album/0JxBiJVEmzFJdbMwgLohC1) | 3:00 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 55 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
 | 56 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 57 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
-| 58 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 |
-| 59 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 58 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 59 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 |
 | 60 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 61 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 62 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 99 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
 | 100 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 |
 
-Snapshot ID: `AAAAALF40zMb+uop43LdaxpFBLrf7Eo+`
+Snapshot ID: `AAAAADQ1ccdXEhN/mogV1JMXf8QC3tyh`

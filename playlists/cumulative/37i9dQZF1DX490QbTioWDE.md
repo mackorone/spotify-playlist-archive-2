@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & DesaKTa2
 
-646 songs - 1 day 14 hr 53 min
+647 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 | 2023-04-07 | 2024-06-17 |
 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 | 2025-04-18 | 2026-03-30 |
 | [El tiempo pasa](https://open.spotify.com/track/64TQSAqul6b5y0ueOyMKzf) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [El tiempo pasa](https://open.spotify.com/album/65WGQQm6DvvJU3KM5RvZ9F) | 2:34 | 2025-04-25 | 2025-07-11 |
-| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2025-02-28 |  |
+| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2025-02-28 | 2026-10-15 |
 | [El Túnel Del Amor](https://open.spotify.com/track/34Qbk5Y9RjUoHs7yDGJJpv) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD), [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [El Túnel Del Amor](https://open.spotify.com/album/71WP86JAqdoBv2zenCuE49) | 3:28 | 2025-04-25 | 2025-05-24 |
 | [EL ULTIMO BAILE](https://open.spotify.com/track/0rZRnl6CJORjaP4rnRiKBr) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Juan Portella](https://open.spotify.com/artist/7bUbPzPRPlbnhBeMx5XCZd), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [EL ULTIMO BAILE](https://open.spotify.com/album/6oPnIYi3W4lSUDKJU1Pnjr) | 2:16 | 2026-07-20 | 2026-08-15 |
 | [Elegiste Al Final](https://open.spotify.com/track/6c3F1UuM7ToAdGdld9EuaG) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Elegiste Al Final](https://open.spotify.com/album/0aX4WEPnK8Vb4WambILIkP) | 3:10 | 2025-07-25 | 2025-08-16 |
@@ -614,6 +614,7 @@
 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 | 2022-01-10 |  |
 | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/track/3GJtk3noiskSGHCc9EcxAm) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/album/3pByc8VZkttOs8mq3Lw2Kd) | 3:55 | 2023-06-09 | 2023-08-19 |
 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 | 2021-12-24 |  |
+| [Usted Se Me Llevó La Vida \- En Vivo](https://open.spotify.com/track/1rCsThCbAoSOYd6RRz0KX7) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Usted Se Me Llevó La Vida \(En Vivo\)](https://open.spotify.com/album/5DqrX6BdgseTH9WlaAhp2p) | 3:10 | 2026-10-09 |  |
 | [Uwaie](https://open.spotify.com/track/629I9IsT8BpM1gZor9lmLZ) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [El Show De La Monada](https://open.spotify.com/artist/2EJWHHDrYDTb1xyB098FaH), [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Magui Olave / El Show De La Monada Musical \#5](https://open.spotify.com/album/2lmK6H6S0VyFj0HvPpOu69) | 2:33 | 2025-02-28 | 2025-04-12 |
 | [Ven](https://open.spotify.com/track/3axliHUavA0Qj6AIywW7Da) | [La Zurda Cuartetera](https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H) | [Ven](https://open.spotify.com/album/3gsz5gaSjXtEaKzmmLkMbO) | 3:27 | 2022-01-14 | 2022-04-19 |
 | [Vengo De Engañarte](https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Vengo De Engañarte](https://open.spotify.com/album/5VGEiVMdwQfS9RlXVDR7wT) | 2:51 | 2025-02-07 | 2025-06-07 |

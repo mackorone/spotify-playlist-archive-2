@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,558 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,553 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
 | 50 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 |
 
-Snapshot ID: `AAAAACKqLNwuu66N7UsUzE/jhnPZpxR5`
+Snapshot ID: `AAAAAL8wjGgc62r4Je1qvPt6KGXfHULv`

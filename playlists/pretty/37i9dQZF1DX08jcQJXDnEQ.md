@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,744 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,977 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 30 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
 | 31 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 |
 | 32 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 33 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 |
-| 34 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
+| 33 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
+| 34 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 |
 | 35 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
 | 36 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 37 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 68 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
 | 69 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
 | 70 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
-| 71 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
-| 72 | [Jet City Woman \- Remastered 2003](https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:21 |
+| 71 | [Jet City Woman \- Remastered 2003](https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:21 |
+| 72 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 | 73 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
 | 74 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
 | 75 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 77 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
 | 78 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 11:15 |
 | 79 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion Of Conformity	](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
-| 80 | [Ashes to Ashes](https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year](https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6) | 3:37 |
-| 81 | [Bring Your Daughter..\. to the Slaughter \- 2015 Remaster](https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk) | 4:43 |
+| 80 | [Bring Your Daughter..\. to the Slaughter \- 2015 Remaster](https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk) | 4:43 |
+| 81 | [Ashes to Ashes](https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year](https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6) | 3:37 |
 | 82 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
 | 83 | [More Human Than Human](https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O) | 4:28 |
 | 84 | [Suite\-Pee](https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:31 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 93 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 |
 | 94 | [Monkey Business](https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 4:18 |
 | 95 | [March Of The Pigs](https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 2:58 |
-| 96 | [Charlotte](https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:59 |
-| 97 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
+| 96 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
+| 97 | [Charlotte](https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:59 |
 | 98 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
 | 99 | [Got The Time](https://open.spotify.com/track/1bcioXEBfobgGko8dsexRr) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time](https://open.spotify.com/album/5dTWuMi1JUNNAgqdOfBsuQ) | 2:44 |
 | 100 | [Sugar](https://open.spotify.com/track/7cWBlhe7dt3nHipbII25m1) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3EZeqOrysyyuUXoJv0Vy5K) | 2:33 |
 
-Snapshot ID: `AAAAAEJY7wwYHYToH4MglGMEPwApYlde`
+Snapshot ID: `AAAAAOQ5Pj3PlL88YhILDxWzdznAzt/f`

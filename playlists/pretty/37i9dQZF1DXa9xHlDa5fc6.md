@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,077 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,065 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 51 | [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 |
 | 52 | [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 |
 | 53 | [Control](https://open.spotify.com/track/5FEA5vTR5TsxcS6ND10kNq) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/72Z77w5eAZSVabS99doBbx) | 3:04 |
-| 54 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
-| 55 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
-| 56 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
+| 54 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
+| 55 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
+| 56 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
 | 57 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
 | 58 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
 | 59 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 74 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 75 | [Hoops](https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut) | 2:38 |
 | 76 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 |
-| 77 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 |
-| 78 | [Head Alight](https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:26 |
+| 77 | [Head Alight](https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:26 |
+| 78 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 |
 | 79 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
 | 80 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 |
 | 81 | [Sick of Being Young](https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:59 |
@@ -109,13 +109,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 99 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 |
 | 100 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 | 101 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
-| 102 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
-| 103 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
+| 102 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
+| 103 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
 | 104 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
-| 105 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
-| 106 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
-| 107 | [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 |
-| 108 | [I See You](https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I See You](https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p) | 3:48 |
+| 105 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
+| 106 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
+| 107 | [I See You](https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I See You](https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p) | 3:48 |
+| 108 | [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 |
 | 109 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
 | 110 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 |
 | 111 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 117 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 118 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 119 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 |
-| 120 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
-| 121 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 120 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 121 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 122 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
 | 123 | [Stay Golden](https://open.spotify.com/track/45OEuZMTUGnI03JnjuLs7x) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Stay Golden](https://open.spotify.com/album/4dC2p95PixzWkTym8R9Z25) | 2:53 |
 | 124 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 134 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 |
 | 135 | [Better If Worse](https://open.spotify.com/track/4MduHHf1IuHCh6Gl5cVL31) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Better If Worse](https://open.spotify.com/album/3I5qADFdhRpGymlPg6eP3d) | 4:02 |
 | 136 | [Death Grip](https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM), [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Death Grip](https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI) | 3:11 |
-| 137 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
-| 138 | [Spinning the Truth Around](https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Spinning the Truth Around](https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP) | 4:49 |
+| 137 | [Spinning the Truth Around](https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Spinning the Truth Around](https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP) | 4:49 |
+| 138 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
 | 139 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 140 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 |
 | 141 | [Smoke & Ribbons](https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Tilt At The Wind No More](https://open.spotify.com/album/7p6kas933fJItm9YDJew2A) | 3:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 149 | [Ohio All The Time](https://open.spotify.com/track/4MZfdXX0OnqH3tGxEsm1nU) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/6RgZwiFk9c2zY1BOR3JT7Y) | 3:04 |
 | 150 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
 
-Snapshot ID: `AAAAAH+g6Tmt/mZYC1XZs+L8CyqlFp9b`
+Snapshot ID: `AAAAALx4xK6MAhegVcU+XMuTr41tzvCd`

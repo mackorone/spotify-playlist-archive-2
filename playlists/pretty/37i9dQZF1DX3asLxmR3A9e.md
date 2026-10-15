@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,911 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,936 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 52 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 53 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 54 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
-| 55 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
+| 55 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
 | 56 | [Black Mambo](https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:08 |
-| 57 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 57 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 58 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
 | 59 | [Yellow Flicker Beat](https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Yellow Flicker Beat \(From The Hunger Games: Mockingjay Part 1\)](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) | 3:52 |
 | 60 | [Homesick](https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:28 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 62 | [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Committed to the Crime](https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM) | 4:10 |
 | 63 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 |
 | 64 | [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 |
-| 65 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
-| 66 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
+| 65 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
+| 66 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 67 | [Sleepwalking](https://open.spotify.com/track/7rVVBxV1Shckul3R8alUqw) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Daydream Forever](https://open.spotify.com/album/4WxbqJDGowHV65sJZdKAWU) | 3:37 |
 | 68 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 |
 | 69 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:39 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 81 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
 | 82 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
 | 83 | [Fantasy](https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora](https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En) | 3:38 |
-| 84 | [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 |
-| 85 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
+| 84 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
+| 85 | [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 |
 | 86 | [Morning](https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 5:19 |
 | 87 | [Open Season](https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 3:51 |
 | 88 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Mother & Father](https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:07 |
 | 100 | [Girls](https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 4:14 |
 
-Snapshot ID: `AAAAAAIar0ryaEc1XNZ+cAfQtGQ/gh5U`
+Snapshot ID: `AAAAAMKZ/614horKuVraFqVVNWtDKZKN`

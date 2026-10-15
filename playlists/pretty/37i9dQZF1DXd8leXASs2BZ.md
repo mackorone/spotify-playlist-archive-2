@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: VERRY SMoL
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,835 likes - 98 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,846 likes - 98 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 97 | [pink flamingo](https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [outernet 開く](https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg) | 2:52 |
 | 98 | [early nose](https://open.spotify.com/track/4eOSZFou6GFcg5kdGUoMDo) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [NEW GAME](https://open.spotify.com/album/2eLo3cwxRPeG88U5NN1eI8) | 2:49 |
 
-Snapshot ID: `AAAAAIbxOco+7QLXPWCjTHPHp71BXCOL`
+Snapshot ID: `AAAAAMADtiGR6AdTcdAzhVqaMKcHdPDW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,481 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,500 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 49 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 50 | [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 |
 
-Snapshot ID: `AAAAAISokb9KAZt4y4HPj9p8dRlN6+cC`
+Snapshot ID: `AAAAALc8HNsCrtdgkE8x0nk/DGX41SOf`

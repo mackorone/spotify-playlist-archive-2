@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,433 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,460 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 5 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 6 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
 | 7 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
-| 8 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
-| 9 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 8 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 9 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 10 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 |
 | 11 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 12 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 79 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 |
 | 80 | [Pearl's A Singer](https://open.spotify.com/track/6abvu3x6fUlOniPRF8WCII) | [Elkie Brooks](https://open.spotify.com/artist/4Xn6fPXDrarY8LxXWqlE2M) | [Two Days Away](https://open.spotify.com/album/0Kl3JrLb3PocSPu4jdGuRa) | 3:38 |
 
-Snapshot ID: `AAAAANEuVRAS47dxITORKm/j6AAqWa26`
+Snapshot ID: `AAAAAOXCiLik/Rcx7MG4sekZFo06Vqf4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,903 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,895 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Lead Dem](https://open.spotify.com/track/54wrDUKN01VGqAMP0h5wWq) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Lead Dem](https://open.spotify.com/album/5zgopTVWcmxYCjDHfkychN) | 2:38 |
 | 100 | [About To Shine](https://open.spotify.com/track/3hrp5KwQNEOJ6FaWkRYuUv) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Locked In Radio](https://open.spotify.com/album/4q2Npxb8xQSdzxcf7EZPCT) | 4:00 |
 
-Snapshot ID: `AAAAAPOmBMKU5uZ56TRZ8IT/ENauuGbW`
+Snapshot ID: `AAAAAPcifN04e/nrmOnmX8dkr16GLk+u`

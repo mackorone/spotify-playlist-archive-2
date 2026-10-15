@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,117 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,122 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 51 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 | 52 | [Te Quiero Tanto](https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Quiero Tanto](https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR) | 3:28 |
 | 53 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 |
-| 54 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 |
-| 55 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
+| 54 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
+| 55 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 |
 | 56 | [Amor Aburrido](https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Querida Yo](https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4) | 2:37 |
 | 57 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [DPM \(De Pxta Madre\)](https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ) | 3:01 |
 | 58 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 65 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 |
 | 66 | [Un Poquito](https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Un Poquito](https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko) | 3:06 |
 | 67 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 |
-| 68 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 |
-| 69 | [1313](https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD) | [AQROSS](https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI) | [1313](https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au) | 2:21 |
+| 68 | [1313](https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD) | [AQROSS](https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI) | [1313](https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au) | 2:21 |
+| 69 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 |
 | 70 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
 | 71 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 72 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [La despedida](https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [La despedida](https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5) | 3:34 |
 | 100 | [SABOR TROPICAL](https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [SABOR TROPICAL](https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg) | 2:15 |
 
-Snapshot ID: `AAAAAOD/Oo32TJgKnFqGiMLf27ww7nbB`
+Snapshot ID: `AAAAACyW8HyYWzOXOcu9inmK6hHSRHbf`

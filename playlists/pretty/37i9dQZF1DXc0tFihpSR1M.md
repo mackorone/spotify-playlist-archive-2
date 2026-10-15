@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Chris Holsten
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,444 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,425 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 66 | [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 |
 | 67 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
 | 68 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 |
-| 69 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
-| 70 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 |
+| 69 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 |
+| 70 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 |
 
-Snapshot ID: `AAAAAC7FKxsxur6ytFb5AfdIZS8gX8jI`
+Snapshot ID: `AAAAAODEYYPsRg3nEMbUR2EqySNeInZu`

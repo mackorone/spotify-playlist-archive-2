@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Put Rings On All My Fingers To Weigh Down My Hands",
+        "url": "https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc"
+      },
+      "artists": [
+        {
+          "name": "Curbside Lambsear",
+          "url": "https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Avril",
+      "url": "https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy"
+    },
+    {
+      "album": {
         "name": "Instruments of Forgetting and the Singing Bone",
         "url": "https://open.spotify.com/album/0oeXO3SDptQL2dYIpSOeB9"
       },

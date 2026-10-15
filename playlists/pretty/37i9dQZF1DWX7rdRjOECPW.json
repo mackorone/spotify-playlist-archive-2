@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1583621,
+  "num_followers": 1583496,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI2dlQt5bsiQRNPx3wQlZvOvBkqw",
+  "snapshot_id": "AAAAADClFW+/+gC+p/TvTUODn81gm7Ga",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:13",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Talk To You (ft. 54 Ultra)",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 165831,
       "name": "What If?",
       "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
       "added_at": "2026-08-06 22:01:13",

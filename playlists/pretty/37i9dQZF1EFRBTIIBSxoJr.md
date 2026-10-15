@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930 likes - 144 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 931 likes - 144 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 66 | [All for You](https://open.spotify.com/track/40tXx7A9uzWXFB3fOAmlYH) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:11 |
 | 67 | [Freedom](https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 5:46 |
 | 68 | [Move Me](https://open.spotify.com/track/3iLlxpfcB1sv6VpKaGoRkn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:58 |
-| 69 | [Too Far Too Fast](https://open.spotify.com/track/0D1HD4dHM9emndUPA2HzG7) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Too Far Too Fast](https://open.spotify.com/album/1N5bnsNxUjfBa11J5Vnony) | 3:28 |
+| 69 | [Too Far Too Fast](https://open.spotify.com/track/7dyczsgsn1oupXEluONrxX) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [For Those Who Know \(Deluxe\)](https://open.spotify.com/album/7C0l9pMvzygpgzHXeiMisn) | 3:28 |
 | 70 | [Look What We've Become](https://open.spotify.com/track/033XHRodS00XmHxTuVlHNt) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Midnight](https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7) | 3:11 |
 | 71 | [Baby Maybe](https://open.spotify.com/track/4VYQw192sVfFn7cL1GG7pQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 3:42 |
 | 72 | [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 |
@@ -131,15 +131,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 121 | [Fall Apart](https://open.spotify.com/track/6sKSKu0tgFbaE5m7uTJ5Kt) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Sexy As Hell \(Exclusive Version\)](https://open.spotify.com/album/0MPeOp95auH8fnxObuVSjc) | 3:07 |
 | 122 | [I Always Will](https://open.spotify.com/track/10W3rtMQO1um2kZ8g85y4J) | [Chelsey Johnson](https://open.spotify.com/artist/0eAGQLuupjn9nkE54w3S2G) | [I Always Will](https://open.spotify.com/album/2X1GobXcnd7c5OYf4vpVRl) | 3:55 |
 | 123 | [You Don't Have a Heart](https://open.spotify.com/track/7FeJ1lP3vxCnbXKlHhzrRe) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:56 |
-| 124 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
-| 125 | [Heaven On Earth](https://open.spotify.com/track/24HlnYyyZInP1skFKqVqsl) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 3:14 |
+| 124 | [Heaven On Earth](https://open.spotify.com/track/24HlnYyyZInP1skFKqVqsl) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 3:14 |
+| 125 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
 | 126 | [Too Young](https://open.spotify.com/track/1dBwVbRLGAZzkRAt5RbS1I) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:19 |
 | 127 | [Queen of LA](https://open.spotify.com/track/4GOw20XeuZZp5fxmobRRCY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:51 |
 | 128 | [Words](https://open.spotify.com/track/2CvVLHZ5BLbfB8tSFPzlQx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:21 |
 | 129 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
 | 130 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
-| 131 | [Shit Happens](https://open.spotify.com/track/6qs0MUILZFQz8PmKtSxTwq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:46 |
-| 132 | [I Do](https://open.spotify.com/track/1lcsApoi57xfCRUsmcD7pk) | [Red](https://open.spotify.com/artist/0zr3lEdAVIcvw08DqEMsNh) | [I Do](https://open.spotify.com/album/3ZdQabmNPCW6Kp0XbxwcDw) | 3:19 |
+| 131 | [I Do](https://open.spotify.com/track/1lcsApoi57xfCRUsmcD7pk) | [Red](https://open.spotify.com/artist/0zr3lEdAVIcvw08DqEMsNh) | [I Do](https://open.spotify.com/album/3ZdQabmNPCW6Kp0XbxwcDw) | 3:19 |
+| 132 | [Shit Happens](https://open.spotify.com/track/6qs0MUILZFQz8PmKtSxTwq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:46 |
 | 133 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
 | 134 | [Heaven Is One Hell Of A Lucky Place](https://open.spotify.com/track/4etD4XRBP8an8g6e65Cnup) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:27 |
 | 135 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 143 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 144 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ace3cAAAAACznVe8L6Pu4y6U1ghKPXAq`
+Snapshot ID: `Ace9GgAAAADAtntk3L48Wwu95G0RNSrI`

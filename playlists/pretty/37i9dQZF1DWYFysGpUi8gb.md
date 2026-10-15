@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,546 likes - 79 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,529 likes - 79 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 78 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 |
 | 79 | [Four in a bed](https://open.spotify.com/track/26ILgpUQ7fe9CjUZzyFaLb) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Four in a bed](https://open.spotify.com/album/68XTDfvOvY5epM4iIhZofm) | 2:12 |
 
-Snapshot ID: `AAAAALQ5DqM58g7l5CwsIwKlLnsMqEob`
+Snapshot ID: `AAAAAHfXkAD04JXmKymMC+8kTXfGHlHA`

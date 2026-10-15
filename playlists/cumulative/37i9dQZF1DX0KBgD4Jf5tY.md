@@ -4,7 +4,7 @@
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:692su3wp3EhhRlrpNUB0n1">Envelope</a> in cover.
 
-2,280 songs - 4 day 17 hr 35 min
+2,281 songs - 4 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,6 +1285,7 @@
 | [MOSTRO](https://open.spotify.com/track/7pXmuWWUgO44XxDe2B5DUZ) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [MOSTRO](https://open.spotify.com/album/3NcqQNX1QU5AxVND7PlLnQ) | 3:33 | 2022-02-24 | 2022-03-04 |
 | [Motel](https://open.spotify.com/track/3ogExirsrj7g0ZfSikGFPy) | [Evrint Bless](https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8), [Quentin Tarallino](https://open.spotify.com/artist/45lHzjFdjHI8h1RPyFwFPT) | [Come una Kodak](https://open.spotify.com/album/49ZkQebPcnPiOyr1RQ7cmT) | 2:36 | 2022-11-17 | 2022-12-01 |
 | [MOTEL](https://open.spotify.com/track/3Jquzk12GLSvr0AoRgJL5G) | [MASTERKILO](https://open.spotify.com/artist/3wWcy4oQmiH9EINlX08fDW) | [MOTEL](https://open.spotify.com/album/7529drDPBVyz7qnupUsg5x) | 2:32 | 2022-08-26 | 2022-09-12 |
+| [Mothers & brothers](https://open.spotify.com/track/6f2a5vbh3sNHdo0lNDq3gI) | [Forgotten Languages](https://open.spotify.com/artist/7FoJkfBit7OeAhKRFcpcRN) | [Mothers & brothers](https://open.spotify.com/album/2BPzkok0uwB8dYxfR5vFgB) | 3:36 | 2026-10-13 |  |
 | [motori](https://open.spotify.com/track/7rtne4qSZRCtHShB8yiWeB) | [fefè](https://open.spotify.com/artist/52wYExoftAantCAUjSLWUr) | [motori](https://open.spotify.com/album/4Cr84DvmsMTMRZCdGwtc5C) | 2:55 | 2023-01-05 | 2023-02-17 |
 | [Mountain Mama](https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Mountain Mama](https://open.spotify.com/album/0CxhWLSLnzl9RnZ6tnjl0y) | 2:02 | 2025-02-18 | 2025-04-10 |
 | [Mountains](https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq) | [Gaia Rollo](https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv) | [Mountains](https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD) | 4:27 | 2025-02-18 | 2025-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,896 likes - 100 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,005 likes - 100 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Speak Lord](https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Speak Lord](https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm) | 3:50 |
 | 100 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 |
 
-Snapshot ID: `AAAAAGlTWlhLuRxc0O3zzqC4jMQV0PXA`
+Snapshot ID: `AAAAAEYPaxNwOF9ZfiGXayP9SY2YEa63`

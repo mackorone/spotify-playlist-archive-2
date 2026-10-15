@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,448 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,481 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 6 | [Tornado Of Souls \- 2004 Remix](https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:19 |
 | 7 | [Trust \- Remastered 2004 / Remixed](https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 5:11 |
 | 8 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
-| 9 | [Dread and the Fugitive Mind](https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 4:25 |
+| 9 | [Take No Prisoners](https://open.spotify.com/track/0xa5WQdm7mnY9dviqejc2z) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 3:28 |
 | 10 | [Hangar 18 \- 2004 Remix](https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:11 |
 | 11 | [She\-Wolf \- Remastered 2004 / Remixed](https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 3:37 |
-| 12 | [Take No Prisoners](https://open.spotify.com/track/0xa5WQdm7mnY9dviqejc2z) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 3:28 |
+| 12 | [Dread and the Fugitive Mind](https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 4:25 |
 | 13 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 |
 | 14 | [Tipping Point](https://open.spotify.com/track/7ByfoLm7Z1KJAgDwbxocs5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:28 |
 | 15 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 24 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
 | 25 | [Rust In Peace...Polaris](https://open.spotify.com/track/1A9bOtUg91RLO9nGzXF8ao) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:36 |
 | 26 | [Hey God?!](https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:28 |
-| 27 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
-| 28 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 |
+| 27 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 |
+| 28 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
 | 29 | [Poison Was The Cure](https://open.spotify.com/track/5ONVnHYT7srwxU9UDsJH2k) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 2:58 |
 | 30 | [Puppet Parade](https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:40 |
 | 31 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 |
 | 50 | [Rattlehead](https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:43 |
 
-Snapshot ID: `asrRgAAAAACliI3G9ArKb0fLuW1MI3rW`
+Snapshot ID: `as10gAAAAADhRuUIwpnQ8Jw195OP1cv3`

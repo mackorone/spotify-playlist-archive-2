@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > HUGEL au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,972 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,932 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [All My Life \(feat\. John Martin\)](https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [All My Life \(feat\. John Martin\)](https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD) | 2:52 |
 | 40 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 
-Snapshot ID: `AAAAAAOhrbNEfxV/DL016nVCEuRqb0BO`
+Snapshot ID: `AAAAAO/G4joui3UBPxU7XalIE9odXaT5`

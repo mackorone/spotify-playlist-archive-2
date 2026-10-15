@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 896328,
+  "num_followers": 896400,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABJYrWBL4nbajoTjiuNFEFc",
+  "snapshot_id": "as10gAAAAADUiYcWxlemqGXbJ6YuIeo3",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Somos",
-        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Mathew",
-          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Que Somos",
-      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+      "duration_ms": 246746,
+      "name": "QU\u00c9 RICO CH**GAMOS",
+      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
     },
     {
       "added_at": null,
@@ -895,6 +887,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Somos",
+        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Mathew",
+          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Que Somos",
+      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -918,35 +934,15 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "QU\u00c9 RICO CH**GAMOS",
-      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
         }
       ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": null,
@@ -1007,6 +1003,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Nota",
+        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1014,15 +1034,11 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
         }
       ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
+      "duration_ms": 207063,
+      "name": "CORAZ\u00d3N DESPEINADO",
+      "url": "https://open.spotify.com/track/6yNIT5iO7lUGOFDLG5CPJC"
     },
     {
       "added_at": null,
@@ -1047,46 +1063,6 @@
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
-        "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        }
-      ],
-      "duration_ms": 382555,
-      "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
-      "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

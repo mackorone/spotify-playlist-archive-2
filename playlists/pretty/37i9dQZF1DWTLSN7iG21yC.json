@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 822181,
+  "num_followers": 822126,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4EbVYArM2n4QKf9QsmJ0lQUlB/",
+  "snapshot_id": "AAAAACUbBFwjCXJ5x08m5Q39CU923JyL",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:40",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
-      "added_at": "2025-10-03 04:00:34",
+      "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 246356,
-      "name": "Eldest Daughter",
-      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2025-08-08 04:00:40",
+      "added_at": "2025-10-03 04:00:34",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+      "duration_ms": 246356,
+      "name": "Eldest Daughter",
+      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Vodka Cranberry",
-        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Vodka Cranberry",
-      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Vodka Cranberry",
+        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Vodka Cranberry",
+      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Plus & Minus",
-        "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
-      },
-      "artists": [
-        {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
-        },
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "Plus & Minus",
-      "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Never A Good Time",
         "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Plus & Minus",
+        "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
+      },
+      "artists": [
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+        },
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "Plus & Minus",
+      "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
     },
     {
       "added_at": "2025-08-08 04:00:40",

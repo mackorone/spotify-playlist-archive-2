@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 329025,
+  "num_followers": 329064,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACtDY8Yq4Xx5ainKOcEd/Il",
+  "snapshot_id": "as10gAAAAAArmRjb/HG0GZHraI278xYr",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
+      "duration_ms": 296773,
+      "name": "Goddamn Electric",
+      "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 296773,
-      "name": "Goddamn Electric",
-      "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
+      "duration_ms": 160960,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
     },
     {
       "added_at": null,

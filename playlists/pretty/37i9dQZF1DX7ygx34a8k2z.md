@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,778 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,858 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 44 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
 | 45 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
 | 46 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
-| 47 | [Sour Girl](https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 4:16 |
-| 48 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
+| 47 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
+| 48 | [Sour Girl](https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 4:16 |
 | 49 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 50 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 51 | [Novocaine For The Soul](https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii) | 3:08 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 79 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
 | 80 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 81 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
-| 82 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 |
-| 83 | [Crush With Eyeliner \- Remastered](https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(25th Anniversary Edition\)](https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK) | 4:38 |
-| 84 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
-| 85 | [The Hunger](https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 5:28 |
-| 86 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
-| 87 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
-| 88 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
+| 82 | [Crush With Eyeliner \- Remastered](https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(25th Anniversary Edition\)](https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK) | 4:38 |
+| 83 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 |
+| 84 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
+| 85 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
+| 86 | [The Hunger](https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 5:28 |
+| 87 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
+| 88 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
 | 89 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
 | 90 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 91 | [Boys On The Radio](https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 5:09 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 97 | [Galaxie / Hello, Goodbye](https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:31 |
 | 98 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
 | 99 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
-| 100 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
+| 100 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
 
-Snapshot ID: `AAAAAJBv+eg2yRASmHGUalljmMkA9PtL`
+Snapshot ID: `AAAAADxV7YhYNva0cx1lecXaWVQJjuDW`

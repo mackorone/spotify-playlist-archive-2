@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con Valdo Rodr\u00edguez y Wuicho Kun en portada.",
-  "num_followers": 536135,
+  "num_followers": 536057,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEl9waDO2IJgIv/Ku4TB40eayHFS",
+  "snapshot_id": "AAAAAPfnXokg3NoK+5Sy2Ol7ccli4gZf",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:21",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Te lo Adverti",
-        "url": "https://open.spotify.com/album/5fLUIrG672gqR4P1wWmwYX"
-      },
-      "artists": [
-        {
-          "name": "Luciano Daniel",
-          "url": "https://open.spotify.com/artist/4cEVjXOZHhUhhJXItFhA33"
-        }
-      ],
-      "duration_ms": 193552,
-      "name": "Te lo Adverti",
-      "url": "https://open.spotify.com/track/6QVlOrq27ie4li8UXdgm30"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/1VOXsJ8ly2QTliQgdqpHzi"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 181744,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Te lo Adverti",
+        "url": "https://open.spotify.com/album/5fLUIrG672gqR4P1wWmwYX"
+      },
+      "artists": [
+        {
+          "name": "Luciano Daniel",
+          "url": "https://open.spotify.com/artist/4cEVjXOZHhUhhJXItFhA33"
+        }
+      ],
+      "duration_ms": 193552,
+      "name": "Te lo Adverti",
+      "url": "https://open.spotify.com/track/6QVlOrq27ie4li8UXdgm30"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Que Suerte",
+        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Que Suerte",
+      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
         "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 196895,
       "name": "Yo Nunca Te Ment\u00ed",
       "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Que Suerte",
-        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
-      },
-      "artists": [
-        {
-          "name": "Edgar Alejandro",
-          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Que Suerte",
-      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+        "name": "Tu Aprendiz",
+        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 272213,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+      "duration_ms": 211800,
+      "name": "Tu Aprendiz",
+      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -903,22 +919,6 @@
       "duration_ms": 213333,
       "name": "No te puedes ir",
       "url": "https://open.spotify.com/track/7dQ72oGTDZ1M3vhGJuRsGg"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Tu Aprendiz",
-        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Tu Aprendiz",
-      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Hola Perdido",
         "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
@@ -1047,30 +1063,6 @@
       "duration_ms": 185338,
       "name": "Hola Perdido",
       "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1095,18 +1087,26 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
         }
       ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Desde Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 164791,
+      "name": "Desde Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "M\u00e9xico no es nada sin ti",
         "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Desde Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 164791,
-      "name": "Desde Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+      "duration_ms": 232373,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Tan B\u00e1sico",
         "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
       "artists": [
         {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
         }
       ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+      "duration_ms": 192000,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1755,22 +1771,6 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
-      },
-      "artists": [
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     },
     {
       "added_at": "2026-10-02 06:00:21",

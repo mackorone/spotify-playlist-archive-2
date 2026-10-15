@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,565 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,562 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 98 | [I Missed You More](https://open.spotify.com/track/5U09Tvgshbkk0zhSGLKmOi) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [I Missed You More](https://open.spotify.com/album/7xJz7wzcUPAc3hOBgjpbhF) | 2:41 |
 | 99 | [Anything Anything](https://open.spotify.com/track/5z0cWacpqhkgR0FfBEPqP9) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [Anything Anything](https://open.spotify.com/album/5K4hP3VRzjea4wXYoeYWi9) | 3:39 |
 
-Snapshot ID: `AAAAAPufUP652QVIwiENr2Zb3AIQODvc`
+Snapshot ID: `AAAAAIgrDE3ApTZg97Ad8/KcBm8+di/1`

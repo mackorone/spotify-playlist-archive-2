@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Greta Van Fleet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,154,387 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,153,827 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [Beluga Whale \(Call Again\)](https://open.spotify.com/track/38KJYsFSDR79ksj9f4x1Rg) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 1:33 |
 | 85 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
 
-Snapshot ID: `AAAAAKhUbHpIuzch6ry+FysnC2BYYe01`
+Snapshot ID: `AAAAAGx7S/e+eOlLD55s9g7kUGLdM7nt`

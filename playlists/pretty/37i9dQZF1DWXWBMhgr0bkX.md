@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Matt Wills & Ellie Hider
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,548 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,549 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG) | 3:04 |
 | 80 | [More Of You](https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [More Of You](https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw) | 3:19 |
 
-Snapshot ID: `AAAAABcZJt1ImfF+vyFO00b5ucs/sMF5`
+Snapshot ID: `AAAAAKhphLd0TZDXjVZKRfSLaJeEjrBE`

@@ -11608,7 +11608,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 234578,
       "name": "GODSPEED (feat. Bnnyhunna)",
       "url": "https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk"
@@ -23798,6 +23798,36 @@
       "duration_ms": 340000,
       "name": "Resurgence",
       "url": "https://open.spotify.com/track/5qtmaZ4LY7yXy5Iv556dZX"
+    },
+    {
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/0MRJlowm9b5BgROiM5Da7l"
+      },
+      "artists": [
+        {
+          "name": "nazah",
+          "url": "https://open.spotify.com/artist/2sDgomDoVHXaDCzOkJywqr"
+        },
+        {
+          "name": "Bee-Z",
+          "url": "https://open.spotify.com/artist/5wpJnu9heGGmNbcqHPP0fn"
+        },
+        {
+          "name": "Bolu Adubi",
+          "url": "https://open.spotify.com/artist/5FtN1hg0H67ud872MQu6nk"
+        },
+        {
+          "name": "Perdie",
+          "url": "https://open.spotify.com/artist/4753bps0Q9AIeYRJwRqInM"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170402,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/27dz78zrS9wPNKS9fMyyy4"
     },
     {
       "album": {

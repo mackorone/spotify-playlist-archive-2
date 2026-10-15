@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : DRE\-A
 
-452 songs - 20 hr 53 min
+453 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Farotement](https://open.spotify.com/track/4Eh9KjiUbkdgGAvKk9Bp4Z) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Faroch](https://open.spotify.com/artist/1V81pFbiuSJCKEsRcLvXeK) | [10sTracks](https://open.spotify.com/album/6a6HlmDsfFzNxRrmzhRuCg) | 3:10 | 2025-12-11 | 2026-01-23 |
 | [Faut Bouai !](https://open.spotify.com/track/5UFVfnSCRM3bEN4j5IMRTp) | [NÔJ](https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O) | [Faut Bouai !](https://open.spotify.com/album/0hGuTqxGWFnhB5f6yndwYr) | 1:52 | 2025-06-05 | 2025-07-11 |
 | [FAUT LAISSER ÇA](https://open.spotify.com/track/2MaX9mFvrZnSVE2VuSMAGG) | [IB\-RA](https://open.spotify.com/artist/0Y1Oe1ueiQzwkunkwWT9MF), [gbon lion](https://open.spotify.com/artist/7LN8MqS4KaUvgLsACYweZY) | [FAUT LAISSER ÇA](https://open.spotify.com/album/3m7qetSTNepED01bjPRYUG) | 2:35 | 2026-07-02 | 2026-08-14 |
-| [FAUT PAS TOUCHER](https://open.spotify.com/track/0I9MLtFI9xuo7w1qXWpOD1) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [FAUT PAS TOUCHER](https://open.spotify.com/album/41SvrLuz8a0V02EQccmCpl) | 2:32 | 2026-10-08 |  |
+| [FAUT PAS TOUCHER](https://open.spotify.com/track/0I9MLtFI9xuo7w1qXWpOD1) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [FAUT PAS TOUCHER](https://open.spotify.com/album/41SvrLuz8a0V02EQccmCpl) | 2:32 | 2026-10-08 | 2026-10-15 |
 | [Favéla Ghetto](https://open.spotify.com/track/0MAUFFPj1wK2trsXUkj9gT) | [Skulio](https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ) | [Favéla Ghetto](https://open.spotify.com/album/7BgtSmt0PLFcHE5DkFGfdO) | 1:49 | 2025-06-26 | 2025-08-22 |
 | [FGLM](https://open.spotify.com/track/28OC9fRC71m4Oij5HiuHcz) | [Andy S](https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK) | [FGLM](https://open.spotify.com/album/3pqnLnDcnJyXAjbLc0X9UM) | 2:27 | 2026-10-01 |  |
 | [Fiesta98](https://open.spotify.com/track/2Xj8XXSC0Vo4GmC6BsTmQ3) | [Jeune VILI](https://open.spotify.com/artist/7DB0XoY2hRc1I8KjK6rbOV) | [Fiesta98](https://open.spotify.com/album/0uIcWSGGhTpmZicTtFvTRg) | 2:52 | 2026-04-30 | 2026-06-19 |
@@ -185,6 +185,7 @@
 | [FOCUS](https://open.spotify.com/track/3Q9vnBSGMkGvwQwwdUqnnq) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [FOCUS](https://open.spotify.com/album/0WDQa8MTkWqE2xRQw7QIL6) | 3:11 | 2025-05-29 | 2025-07-18 |
 | [FRAIS D'ABORD](https://open.spotify.com/track/5MsOWuwjLiOPLaQ40G5mvz) | [FETTY ND0SS](https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv), [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb) | [LIBANDA](https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1) | 2:58 | 2025-08-21 | 2025-09-12 |
 | [Freddy Assogba](https://open.spotify.com/track/6yWXntNCC2X8LKDdEmUMdk) | [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C), [Fing Fang](https://open.spotify.com/artist/3hfjLLyKf6vLLxvQ7LauV3) | [Freddy Assogba](https://open.spotify.com/album/6G2JlafIDmjdJPZRhsbP2E) | 2:19 | 2025-10-02 | 2025-11-14 |
+| [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/track/5Jd0oYxwk9CMI9JqP45qfo) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/album/39oG1zta6zE6rU4zNgLidM) | 1:45 | 2026-10-14 |  |
 | [FREESTYLE DRILL IVOIRE \#7](https://open.spotify.com/track/0rbK2aIn8wZsOGvuuH8xSz) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [FREESTYLE DRILL IVOIRE \#7](https://open.spotify.com/album/1f3Fh5nCZoqTB74fIh0VLG) | 4:08 | 2026-04-02 | 2026-05-22 |
 | [Freestyle Drill Ivoire 5](https://open.spotify.com/track/7s4CozYm2NWqEq9EctW7wR) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [Freestyle Drill Ivoire 5](https://open.spotify.com/album/2mwgUrBvH7hEWlQkTxX9i2) | 2:58 | 2025-06-12 | 2025-08-22 |
 | [Freestyle Kordial II](https://open.spotify.com/track/3fcqEDDvFeTznK6ZzWWfyV) | [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Freestyle Kordial II](https://open.spotify.com/album/3VUa9yULQNNi5RjFAYnyNF) | 2:36 | 2025-08-14 | 2025-09-12 |

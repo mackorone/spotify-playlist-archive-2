@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 113 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 113 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 112 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 113 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Ace3cAAAAAACaLhz1lLVQy/CkZazQTB+`
+Snapshot ID: `Ace88gAAAAADAVMuC/T3vr15cVkt4wmd`

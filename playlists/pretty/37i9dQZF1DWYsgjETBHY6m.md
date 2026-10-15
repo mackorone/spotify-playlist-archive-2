@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,867 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,886 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 29 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 | 30 | [Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS) | 4:10 |
 | 31 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
-| 32 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
-| 33 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
+| 32 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
+| 33 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
 | 34 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 35 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 |
 | 36 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 49 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 50 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 1:54 |
 
-Snapshot ID: `AAAAABwb8pjG0azXs8WkXe6Az+fwWbSv`
+Snapshot ID: `AAAAACYFyStp6VQvKt3mzNEhhnj3yID1`

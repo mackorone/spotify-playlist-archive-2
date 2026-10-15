@@ -1,12 +1,12 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2124,
+  "num_followers": 2127,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFbKxCcogchjzxxmQ0XGxOzxImB",
+  "snapshot_id": "AAAAANpyH4ZPm2kkoZvzPHlmj7/e/3w5",
   "tracks": [
     {
       "added_at": "2026-10-01 22:00:39",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
-      },
-      "artists": [
-        {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Jongens van het Dorp",
         "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
         "name": "Bad Mood",
         "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "On This Lonely Day",
-        "url": "https://open.spotify.com/album/3isk75FHFtqwnh1Of3XIh5"
-      },
-      "artists": [
-        {
-          "name": "REZA",
-          "url": "https://open.spotify.com/artist/0wjlCODq8kQfXBfHMGw8nh"
-        }
-      ],
-      "duration_ms": 199364,
-      "name": "On This Lonely Day",
-      "url": "https://open.spotify.com/track/7eRs4FhnZzRx7rmSLRhUUZ"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "okaydokay_",
         "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "On This Lonely Day",
+        "url": "https://open.spotify.com/album/3isk75FHFtqwnh1Of3XIh5"
+      },
+      "artists": [
+        {
+          "name": "REZA",
+          "url": "https://open.spotify.com/artist/0wjlCODq8kQfXBfHMGw8nh"
+        }
+      ],
+      "duration_ms": 199364,
+      "name": "On This Lonely Day",
+      "url": "https://open.spotify.com/track/7eRs4FhnZzRx7rmSLRhUUZ"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "They Want To See You Fall",
-        "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
-      },
-      "artists": [
-        {
-          "name": "Eyesores",
-          "url": "https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks"
-        }
-      ],
-      "duration_ms": 142946,
-      "name": "Digital Prison",
-      "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 150173,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "They Want To See You Fall",
+        "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
+      },
+      "artists": [
+        {
+          "name": "Eyesores",
+          "url": "https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks"
+        }
+      ],
+      "duration_ms": 142946,
+      "name": "Digital Prison",
+      "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Hin Orer",
-        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
-      },
-      "artists": [
-        {
-          "name": "Ara",
-          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Hin Orer",
-      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Ben Het Even Kwijt",
         "url": "https://open.spotify.com/album/2GSMZjNQviDmXUFB1z7Eh8"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "ik wil verliefd zijn op mijn tijd",
-        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
+        "name": "Hin Orer",
+        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
       "artists": [
         {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+          "name": "Ara",
+          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "ik wil verliefd zijn op mijn tijd",
-      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
+      "duration_ms": 213167,
+      "name": "Hin Orer",
+      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "swim (play me the deep cut)",
-        "url": "https://open.spotify.com/album/5G871464XFiXsCzwJczt4X"
+        "name": "ik wil verliefd zijn op mijn tijd",
+        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
       },
       "artists": [
         {
-          "name": "Faradays",
-          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
         }
       ],
-      "duration_ms": 184624,
-      "name": "swim (play me the deep cut)",
-      "url": "https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D"
+      "duration_ms": 180000,
+      "name": "ik wil verliefd zijn op mijn tijd",
+      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -751,6 +735,22 @@
       "duration_ms": 135374,
       "name": "Hoofd In De Wolken",
       "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "swim (play me the deep cut)",
+        "url": "https://open.spotify.com/album/5G871464XFiXsCzwJczt4X"
+      },
+      "artists": [
+        {
+          "name": "Faradays",
+          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "swim (play me the deep cut)",
+      "url": "https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+      },
+      "artists": [
+        {
+          "name": "NEBULA",
+          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
         "name": "Something to Lose",
         "url": "https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "GYL",
-        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 171023,
-      "name": "GYL",
-      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
         "name": "Crane",
         "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
       },
@@ -887,50 +887,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "see-through",
-        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+        "name": "GYL",
+        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
       },
       "artists": [
         {
-          "name": "NEBULA",
-          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
         }
       ],
-      "duration_ms": 236750,
-      "name": "see-through",
-      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "deadbeat (how long)",
-        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
-      },
-      "artists": [
-        {
-          "name": "crashing",
-          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "deadbeat (how long)",
-      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "Please you",
-        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
-      },
-      "artists": [
-        {
-          "name": "Angelo Benson",
-          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
-        }
-      ],
-      "duration_ms": 242474,
-      "name": "Please you",
-      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+      "duration_ms": 171023,
+      "name": "GYL",
+      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -951,18 +919,50 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+        "name": "deadbeat (how long)",
+        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
       "artists": [
         {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+          "name": "crashing",
+          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
         }
       ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+      "duration_ms": 240233,
+      "name": "deadbeat (how long)",
+      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Dust Breeding",
+        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Dust Breeding",
+      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Please you",
+        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
+      },
+      "artists": [
+        {
+          "name": "Angelo Benson",
+          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
+        }
+      ],
+      "duration_ms": 242474,
+      "name": "Please you",
+      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Dust Breeding",
-        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
       },
       "artists": [
         {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
         }
       ],
-      "duration_ms": 168500,
-      "name": "Dust Breeding",
-      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+        "name": "WAS DIT ALLES?",
+        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
       "artists": [
         {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
+      "duration_ms": 132681,
+      "name": "WAS DIT ALLES?",
+      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1179,34 +1179,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "WAS DIT ALLES?",
-        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
       },
       "artists": [
         {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
         }
       ],
-      "duration_ms": 132681,
-      "name": "WAS DIT ALLES?",
-      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
-      },
-      "artists": [
-        {
-          "name": "JAH",
-          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1239,6 +1223,22 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
+        "name": "paths of sand",
+        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
+      },
+      "artists": [
+        {
+          "name": "xico",
+          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
+        }
+      ],
+      "duration_ms": 303526,
+      "name": "chaos oasis",
+      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
+    },
+    {
+      "added_at": "2026-10-01 22:00:39",
+      "album": {
         "name": "ep1",
         "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2026-10-01 22:00:39",
       "album": {
-        "name": "paths of sand",
-        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
+        "name": "\u0130kimiz Bir Fidan\u0131z",
+        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
       },
       "artists": [
         {
-          "name": "xico",
-          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
         }
       ],
-      "duration_ms": 303526,
-      "name": "chaos oasis",
-      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
+      "duration_ms": 194925,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-10-01 22:00:39",
@@ -1419,22 +1435,6 @@
       "duration_ms": 135884,
       "name": "Love Thief",
       "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
-    },
-    {
-      "added_at": "2026-10-01 22:00:39",
-      "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z",
-        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
-      },
-      "artists": [
-        {
-          "name": "Duygu Alkan",
-          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-10-01 22:00:39",

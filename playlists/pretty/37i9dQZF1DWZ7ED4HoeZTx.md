@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,193 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,226 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 35 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 36 | [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 |
 | 37 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 38 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
-| 39 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
+| 38 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
+| 39 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 40 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |
 | 41 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 42 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
 | 50 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
 
-Snapshot ID: `AAAAAIW8A2zqoetYjZRn9U63iOWldr+r`
+Snapshot ID: `AAAAAJtAaZKCf/ODRW5IvZOM22BC1wCr`

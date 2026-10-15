@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec TeddyBear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,292 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,277 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [ENTRE TON ÉPAULE ET TON COEUR](https://open.spotify.com/track/6qoMOknWFZt2fQt22iyzgZ) | [RAVAGE](https://open.spotify.com/artist/2nzJoceQS5bcczyqPolHq6), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh), [Gaspard Royant](https://open.spotify.com/artist/4TYLelqEy8Fy7dJrNPOmN4) | [ENTRE TON ÉPAULE ET TON COEUR](https://open.spotify.com/album/0L0axrxsQTpVgMs6aLWRP0) | 3:22 |
 | 50 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 
-Snapshot ID: `AAAAAPuBnUJ77oseTwewPOwQ9f5i9NGI`
+Snapshot ID: `AAAAAHRvzBWuweRVlGjBMzIQLqr0EESj`

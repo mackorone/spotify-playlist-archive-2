@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,002 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,003 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 6 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 |
 | 7 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
 | 8 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
-| 9 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
-| 10 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 9 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 10 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 11 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 12 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 |
 | 13 | [Born Without a Heart](https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Born Without a Heart](https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG) | 3:18 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 44 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
 | 45 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 46 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 |
-| 47 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 48 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
+| 47 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
+| 48 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 49 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 |
 | 50 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
 | 51 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 69 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 70 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 |
 | 71 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
-| 72 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
+| 72 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 73 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 |
-| 74 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
+| 74 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 75 | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24) | 2:39 |
 
-Snapshot ID: `AAAAAEIjx4b4rPSqglWUhwEan+c6UUCk`
+Snapshot ID: `AAAAAPhe9ZEtt0QYcoPTZ0x7HeUobaj7`

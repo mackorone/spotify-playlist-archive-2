@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,597 likes - 42 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,599 likes - 43 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 6 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 |
 | 7 | [Rock N Roll](https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:28 |
 | 8 | [ghost \(with Lil Uzi Vert\)](https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:53 |
-| 9 | [9 bitches \(with ApolloRed1 \)](https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:58 |
-| 10 | [i need u](https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:28 |
-| 11 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
+| 9 | [i need u](https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:28 |
+| 10 | [9 bitches \(with ApolloRed1 \)](https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:58 |
+| 11 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 |
 | 12 | [possession](https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 2:13 |
-| 13 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 |
-| 14 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 |
+| 13 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 |
+| 14 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
 | 15 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 |
 | 16 | [shadeson \(with 2hollis\)](https://open.spotify.com/track/7155NVwKKJjtQtssuaqgJ9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 1:58 |
 | 17 | [scrape](https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:28 |
@@ -49,6 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 39 | [Teen Bean](https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen Bean](https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB) | 1:59 |
 | 40 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 |
 | 41 | [LiveLeak](https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:10 |
-| 42 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
+| 42 | [Murda Musik \(feat\. Destroy Lonely\)](https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:56 |
+| 43 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
 
-Snapshot ID: `asrRgAAAAABNeQ1mIFns09c3bJtQbdgX`
+Snapshot ID: `as10gAAAAAC//KTr5ihzjLN16xEqQYap`

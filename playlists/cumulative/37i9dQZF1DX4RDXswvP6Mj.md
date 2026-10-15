@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: KickFlip\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: DAILY:DIRECTION\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-954 songs - 2 day 2 hr 8 min
+955 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,7 +877,7 @@
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2024-03-15 | 2024-05-10 |
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 | 2024-05-10 |
 | [Umpah Umpah](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:40 | 2023-05-01 | 2023-05-10 |
-| [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-22 |  |
+| [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-22 | 2026-10-15 |
 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2022-10-12 | 2022-10-27 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-09 | 2025-02-24 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 | 2021-12-21 | 2022-07-22 |
@@ -904,7 +904,7 @@
 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 | 2022-01-14 | 2022-06-13 |
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2022-03-29 | 2022-04-14 |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2021-12-29 | 2022-07-23 |
-| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-12 |  |
+| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-12 | 2026-10-15 |
 | [We DO](https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [We DO](https://open.spotify.com/album/2O4FwZ1cE8PHsP0PAf6Vtr) | 3:41 | 2021-12-29 | 2022-06-21 |
 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-20 | 2024-05-10 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2022-01-25 | 2022-06-24 |
@@ -919,6 +919,7 @@
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-11-05 | 2026-04-22 |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-03-31 | 2022-04-16 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-30 | 2023-03-07 |
+| [WHICH WAY](https://open.spotify.com/track/4t25GxC3kgK4krFOHaJpW2) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [WHICH WAY](https://open.spotify.com/album/5sDUhA85xqNra0VHL8zfBE) | 3:00 | 2026-10-15 |  |
 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-21 | 2025-12-31 |
 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2025-12-31 | 2026-02-01 |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 | 2022-09-17 |

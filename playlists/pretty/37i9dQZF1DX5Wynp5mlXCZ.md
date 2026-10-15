@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: The Curly
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,459 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,457 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 48 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 |
 | 49 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 |
 | 50 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 |
-| 51 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
-| 52 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
-| 53 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |
+| 51 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |
+| 52 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
+| 53 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 54 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 | 55 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
 | 56 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 58 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 59 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
 | 60 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 61 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
+| 61 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 62 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 63 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 64 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
-| 65 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 66 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
-| 67 | [Electrified](https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Electrified](https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ) | 2:43 |
+| 65 | [Electrified](https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Electrified](https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ) | 2:43 |
+| 66 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
+| 67 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 68 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 69 | [Love Sensation \- Afterhours Radio Edit](https://open.spotify.com/track/6mqNeI1TJomhLrDzY66uQw) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Love Sensation](https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc) | 3:35 |
 | 70 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
 
-Snapshot ID: `AAAAAJQxgX9bctz4jEOj5Q0fcr/q/NOe`
+Snapshot ID: `AAAAAKDrVOtBn6+VtP3wBOc6D8MYDyiq`

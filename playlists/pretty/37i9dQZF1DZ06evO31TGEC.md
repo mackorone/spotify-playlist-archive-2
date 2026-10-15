@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,250 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,254 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 43 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
 | 44 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
 | 45 | [Esa Fue Mi Novia](https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Éxitos](https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF) | 2:27 |
-| 46 | [Besos Tatuados](https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Besos Tatuados](https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I) | 3:08 |
-| 47 | [Mayor de Edad \(Banda\)](https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:25 |
+| 46 | [Mayor de Edad \(Banda\)](https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:25 |
+| 47 | [Besos Tatuados](https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Besos Tatuados](https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I) | 3:08 |
 | 48 | [Sera](https://open.spotify.com/track/76R7POkiRYbyhu39lPC4Ak) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:37 |
 | 49 | [SALVAJE \- Version Banda](https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [SALVAJE \(Version Banda\)](https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa) | 2:58 |
-| 50 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
+| 50 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 
-Snapshot ID: `asrRgAAAAAB+sWe3eKL5xpsvkTmwyvvs`
+Snapshot ID: `as10gAAAAACrG+irJaC31uEaiMG6EeSP`

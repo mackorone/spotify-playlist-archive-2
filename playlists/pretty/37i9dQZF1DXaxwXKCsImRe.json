@@ -1,15 +1,63 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:66Q9dkZ7EXdwU2h6tEkUdC\">Isab\u00e8l Usher</a> ",
-  "num_followers": 8268,
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:5qQLp6Xal6S6KXEHgvxmvp\">Dressed Like Boys</a> ",
+  "num_followers": 8270,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRwItOB79fSyYIICeGg//3JvTxJ",
+  "snapshot_id": "AAAAAKtyIL8S50YkJz+uksYF3BQLs4Ie",
   "tracks": [
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
+      "album": {
+        "name": "And Then I Woke Up",
+        "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 350699,
+      "name": "And Then I Woke Up",
+      "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
+    },
+    {
+      "added_at": "2026-10-14 11:00:29",
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+    },
+    {
+      "added_at": "2026-10-14 11:00:29",
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 238372,
+      "name": "Stonewall Riots Forever",
+      "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
+    },
+    {
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "The Fear That This Is Real",
         "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Therapist's Daughter",
         "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Wishing Stone",
         "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Niemand Wil Een Popster",
         "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Komt Goed",
         "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Hooligan",
         "url": "https://open.spotify.com/album/6Jjv3eOO6lFgf3XgZj3TdA"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/79PNwK58l5fRRifb25yw9n"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
         "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
         "url": "https://open.spotify.com/album/0xuafuTa0s1CLtBfYdxtPy"
@@ -149,7 +197,7 @@
       "url": "https://open.spotify.com/track/1ptPxZ4Aca8AqU16BPeg9d"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Sluit Me In Je Armen",
         "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
@@ -165,7 +213,7 @@
       "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -189,7 +237,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
@@ -205,7 +253,7 @@
       "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Op Een Go",
         "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
@@ -229,7 +277,7 @@
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -261,7 +309,7 @@
       "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
@@ -277,7 +325,7 @@
       "url": "https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Vuurwerk",
         "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-10-08 22:00:12",
+      "added_at": "2026-10-14 11:00:29",
       "album": {
         "name": "Alles Wat Ik Nodig Heb",
         "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"

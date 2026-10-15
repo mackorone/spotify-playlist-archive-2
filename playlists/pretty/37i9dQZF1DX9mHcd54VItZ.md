@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Coasters
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,755 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,758 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 20 | [Sê My Hoe](https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Sê My Hoe](https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2) | 2:52 |
 | 21 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 22 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 23 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
+| 23 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 24 | [Run](https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Run](https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13) | 4:00 |
-| 25 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
+| 25 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 | 26 | [Chuck](https://open.spotify.com/track/7cxgyzxC9ZfL5KepeaE3qO) | [Die Kêrels](https://open.spotify.com/artist/2ZTTYLsTxiItT682ghpsIh), [Theo](https://open.spotify.com/artist/7GV4lMBoBmWpQ9fgCiBU0R), [Arri Opperman](https://open.spotify.com/artist/1sjAH0qjLwFm8gQxjU8tar) | [Chuck](https://open.spotify.com/album/0EMeDmJQLsESMq6pHeLrQ2) | 2:31 |
 | 27 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
 | 28 | [Self Respect](https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ) | [Mercury's in the Microwave](https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h) | [Lazerbeams of Love](https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT) | 3:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 39 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 40 | [F all ur Friends](https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [F all ur Friends](https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV) | 2:19 |
 | 41 | [Pikkewynstraat](https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Pikkewynstraat](https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0) | 3:00 |
-| 42 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
-| 43 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
+| 42 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
+| 43 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
 | 44 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 45 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 | 46 | [Ek Wil Jou Sien](https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h) | [SENTIMENT](https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt) | [Ek Wil Jou Sien](https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 50 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 
-Snapshot ID: `AAAAAJeT9cCIB1vs68IPRABKVOUnOnvW`
+Snapshot ID: `AAAAADPaOzaYfGgF67cB1NF2ka0DUf4/`

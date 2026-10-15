@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ルサンチマン RUSANTI\-MAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,933 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,945 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 98 | [ぱくぱくちー](https://open.spotify.com/track/7Fbi9zC4mtHc05EkHT8clJ) | [むにゃむにゃプラスチック。](https://open.spotify.com/artist/0bEVxr3vWjJtV1G1YJXxNC) | [ぱくぱくちー](https://open.spotify.com/album/0QNBr2Aq5Ntw3A1hgg3i1Q) | 2:10 |
 | 99 | [Nostarojiura](https://open.spotify.com/track/0itUgkNYRcKRq2znmanv8w) | [百円音盤](https://open.spotify.com/artist/6K33TVo7tVooGISoGifEEw) | [Nostarojiura](https://open.spotify.com/album/3ajUd7KoU5m8rIRQQQGNvl) | 4:31 |
 
-Snapshot ID: `AAAAAP5M8Gp28UwYqsQfVvErpnWGXEuU`
+Snapshot ID: `AAAAAE7AfU6NQIoIFdxGJ/tIbo30vNsD`

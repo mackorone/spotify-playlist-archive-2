@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,049 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,050 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 14 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 15 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 16 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
-| 17 | [Talking Body](https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw) | 3:58 |
+| 17 | [Talking Body](https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm) | 3:58 |
 | 18 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 19 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
 | 20 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 50 | [Smells Like Teen Spirit](https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 5:01 |
 
-Snapshot ID: `MmGssAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MmL5gAAAAAAAAAAAAAAAAAAAAAAAAGVu`

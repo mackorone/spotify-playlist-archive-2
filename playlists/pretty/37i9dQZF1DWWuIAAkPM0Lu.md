@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Velkommen Noah's Ark II ⛵️⛵️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,213 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,203 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 99 | [TRALALA](https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [TRALALA](https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr) | 3:15 |
 | 100 | [SÅ LENGE JEG LEVER](https://open.spotify.com/track/50jvnoVELEfoyRknCPAsu3) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [SÅ LENGE JEG LEVER](https://open.spotify.com/album/6LKkyzlSAeZHBg3IjQnxDQ) | 3:18 |
 
-Snapshot ID: `AAAAACHPx4JFhbqHgBsZWgIaAWt633Kv`
+Snapshot ID: `AAAAAFj5RHLp++kQyYi6EYPaEBcTwKG8`

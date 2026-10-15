@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,141 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,184 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 24 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
 | 25 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
 | 26 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
-| 27 | [La Lista](https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lista](https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE) | 3:06 |
-| 28 | [El Culpable](https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Culpable](https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R) | 3:33 |
+| 27 | [El Culpable](https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Culpable](https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R) | 3:33 |
+| 28 | [La Lista](https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lista](https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE) | 3:06 |
 | 29 | [De Mi Viejo](https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:03 |
 | 30 | [Cuanto Me Gusta Este Rancho](https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:38 |
 | 31 | [Las Verdades \- En Vivo](https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [Vengo a Aclarar \(En Vivo\)](https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 50 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
 
-Snapshot ID: `asrRgAAAAAB1GH6hETbW5DHEAI3iU4oB`
+Snapshot ID: `as10gAAAAAB21s3PT3nWinCdDPOBNov9`

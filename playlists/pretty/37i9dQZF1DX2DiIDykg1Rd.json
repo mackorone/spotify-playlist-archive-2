@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 1103,
+  "num_followers": 1104,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKiEsVorjA5Lmvja/YPOutx/GPsJ",
+  "snapshot_id": "AAAAAJA+7dy0W9J6v8qliTARXAaSRLkI",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -79,18 +79,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+        "name": "Language",
+        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 142969,
-      "name": "ASTROTHUNDER",
-      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
+      "duration_ms": 150360,
+      "name": "Language",
+      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -111,22 +115,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Language",
-        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 150360,
-      "name": "Language",
-      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
+      "duration_ms": 142969,
+      "name": "ASTROTHUNDER",
+      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "The Backend Child",
-        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Ghetto Angels",
-      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 136071,
       "name": "Paint The Sky Red",
       "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "The Backend Child",
+        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Ghetto Angels",
+      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
     },
     {
       "added_at": "2023-01-01 05:00:00",

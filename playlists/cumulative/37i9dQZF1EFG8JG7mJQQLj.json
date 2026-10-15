@@ -4921,6 +4921,28 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156222,
+      "name": "I know love (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4"
+    },
+    {
+      "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
@@ -7944,6 +7966,24 @@
       "duration_ms": 240480,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x"
+    },
+    {
+      "album": {
+        "name": "Pay That Toll",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167553,
+      "name": "Pay That Toll",
+      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
       "album": {
@@ -11102,6 +11142,28 @@
       "duration_ms": 205038,
       "name": "Truth To Power",
       "url": "https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO"
+    },
+    {
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/2wBA1QqfIN3xXWMyo5xeXY"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o"
     },
     {
       "album": {

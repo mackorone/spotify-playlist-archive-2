@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,971 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,974 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 5 | [We're Not Alright](https://open.spotify.com/track/5RhtBPx2JcJ3iy1KNpVDwN) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 2:55 |
 | 6 | [Hell Yeah!](https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 |
 | 7 | [Rescue Me](https://open.spotify.com/track/0ZJyEBDBgRFeYQrE1S5QQf) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:19 |
-| 8 | [Out of Control](https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 3:20 |
-| 9 | [Worse Than This](https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:23 |
+| 8 | [Worse Than This](https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:23 |
+| 9 | [Out of Control](https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 3:20 |
 | 10 | [Lobotomy For Dummies](https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 2:36 |
 | 11 | [Hello Tomorrow](https://open.spotify.com/track/6QOJ4SBinwUPns1dj4ylio) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 4:04 |
 | 12 | [Chasing the Sun](https://open.spotify.com/track/1K1VCU0M0n4WXsAxBGp9Fr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:12 |
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 14 | [Wake Me Up](https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:49 |
 | 15 | [A Perfect Life Is Such a Bore](https://open.spotify.com/track/4joBjCeL1ajc5nPifkn4ed) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:21 |
 | 16 | [Check](https://open.spotify.com/track/4NAm3aWUkQlQcAll13HVEt) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 2:25 |
-| 17 | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28) | 2:37 |
+| 17 | [When Both Sides Suck, We’re All Winners](https://open.spotify.com/track/5IyQS3m4KcqaGSD2V86EDO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:03 |
 | 18 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
 | 19 | [Sink Like a Stone](https://open.spotify.com/track/22XYVlG53z9Ezj74YLghS2) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:07 |
-| 20 | [When Both Sides Suck, We’re All Winners](https://open.spotify.com/track/5IyQS3m4KcqaGSD2V86EDO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:03 |
+| 20 | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28) | 2:37 |
 | 21 | [Blackout](https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Get Nice!](https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl) | 3:45 |
 | 22 | [No Tomorrow](https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:14 |
 | 23 | [Smoke Signals from My Couch](https://open.spotify.com/track/6UJnGHx1JGBdlmAIxcQrfz) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:10 |
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 29 | [Playmate of the Year](https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF) | 2:57 |
 | 30 | [The Juggernauts](https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:59 |
 | 31 | [Burn Burn Burn](https://open.spotify.com/track/5qBZoGUM2fvyxJ3L4DCUbf) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:34 |
-| 32 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
-| 33 | [Lay Me to Rest](https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:39 |
+| 32 | [Lay Me to Rest](https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:39 |
+| 33 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
 | 34 | [So What](https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:56 |
 | 35 | [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/1VKGS4b6aVSJtoQmWtxGUl) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 |
 | 36 | [Into You](https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:11 |
 | 37 | [Mental Health](https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:13 |
 | 38 | [The Walking Dead](https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:09 |
-| 39 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
+| 39 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 |
 | 40 | [Alone](https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 2:15 |
-| 41 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 |
+| 41 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
 | 42 | [Just The Tip](https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:16 |
 | 43 | [Licking on a Knife for Fun](https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:01 |
 | 44 | [Over the Edge](https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 2:45 |
-| 45 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 |
-| 46 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
+| 45 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
+| 46 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 |
 | 47 | [A Long Way Down](https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:18 |
 | 48 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 |
 | 49 | [Follow Me \- Japanese Short Version](https://open.spotify.com/track/7qHbE04wCOkxL18IFVbgyq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:49 |
 | 50 | [With Legs Like That \(Maria\)](https://open.spotify.com/track/5dXoiHdup6fjz4T8lHRJXM) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [WWE: Wreckless Intent](https://open.spotify.com/album/1168n2EYwmtBVYj3w1lTdD) | 3:07 |
 
-Snapshot ID: `asrRgAAAAAD1ybt99GtW/z+BKc5uwRJl`
+Snapshot ID: `as10gAAAAAC4DZ2lp3kpRxxjI3VSn+7R`

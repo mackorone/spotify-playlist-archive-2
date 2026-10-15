@@ -13142,7 +13142,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 229760,
       "name": "GO",
       "url": "https://open.spotify.com/track/1jESDIMfh3MPC2A6SZvWSN"
@@ -47265,6 +47265,24 @@
     },
     {
       "album": {
+        "name": "\u3074",
+        "url": "https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q"
+      },
+      "artists": [
+        {
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "\u3074",
+      "url": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH"
+    },
+    {
+      "album": {
         "name": "\u3075\u3046\u3089\u3044",
         "url": "https://open.spotify.com/album/7gAtFAU2BNh9ofR9YBSz5q"
       },
@@ -68808,7 +68826,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
@@ -72452,6 +72470,24 @@
       "duration_ms": 223233,
       "name": "\u96ea\u5504 - yukiuta",
       "url": "https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2"
+    },
+    {
+      "album": {
+        "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+        "url": "https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238398,
+      "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+      "url": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx"
     },
     {
       "album": {

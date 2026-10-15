@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,511 likes - 31 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,541 likes - 31 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 8 | [Japón](https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 4:21 |
 | 9 | [Madrid](https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Madrid](https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7) | 3:06 |
 | 10 | [0 SENTIMIENTOS](https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:15 |
-| 11 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
+| 11 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
 | 12 | [Adicción](https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:53 |
-| 13 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
+| 13 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
 | 14 | [HOLOCAUSTO NUCLEAR](https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 |
 | 15 | [Linda Mujer](https://open.spotify.com/track/4iRdARZrb4eD80jlqRHx6i) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Linda Mujer](https://open.spotify.com/album/6cjEhqFijFqThr4IsYpkkH) | 4:20 |
 | 16 | [Miento](https://open.spotify.com/track/4WeMHNLpQkxKd7raU20wZd) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:03 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 30 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 31 | [Bien High](https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bien High](https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa) | 3:27 |
 
-Snapshot ID: `asrRgAAAAACshmInVyjFd445c0MtiKqr`
+Snapshot ID: `as10gAAAAACrtoitdezhmiTZ8Vxuv/fq`

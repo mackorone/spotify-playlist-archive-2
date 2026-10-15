@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Paige Plaisance
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,960 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,966 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 53 | [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 |
 | 54 | [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 |
 | 55 | [Don't Waste Your Prayers](https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8) | [Don't Waste Your Prayers](https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm) | 2:53 |
-| 56 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 57 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
+| 56 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
+| 57 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 58 | [Tumbleweeds and Chewing Gum](https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tumbleweeds and Chewing Gum](https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl) | 2:39 |
 | 59 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 60 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
 | 100 | [Lone Star](https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg) | [Cactus Lee](https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4) | [Lone Star](https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe) | 5:35 |
 
-Snapshot ID: `AAAAAIsjPkWBadstAJkweBxfEmol35RD`
+Snapshot ID: `AAAAANRhMpWu+xCRqvu95rz4y/+nSNp0`

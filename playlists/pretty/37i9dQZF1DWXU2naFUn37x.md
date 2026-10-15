@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > TY1 in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,200 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,159 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 | 50 | [BUON APPETITO](https://open.spotify.com/track/5IcMSi1TsibPycWGBEpxhc) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [BUON APPETITO](https://open.spotify.com/album/2V0Y2RXet4Nbrp4kLq8FQe) | 2:31 |
 
-Snapshot ID: `AAAAANY9YByMG4jjtvPatCKJ/VfZy/bZ`
+Snapshot ID: `AAAAAKuX/dHEzNYuWv1lUZvDbWx6vuGa`

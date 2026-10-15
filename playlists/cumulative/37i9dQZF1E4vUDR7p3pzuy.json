@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, Ursula, Evil Level Live and more",
+  "description": "With Forwardman, Rose Alaimo, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 446625,
       "name": "1985",
       "url": "https://open.spotify.com/track/1XUxsV1zC9hcpcu7irLyUr"
+    },
+    {
+      "album": {
+        "name": "25 Medium",
+        "url": "https://open.spotify.com/album/22PMileSmxYA53W3MsgUFN"
+      },
+      "artists": [
+        {
+          "name": "LooveX",
+          "url": "https://open.spotify.com/artist/0NdsQYukQrCTFmPgriWd5e"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141010,
+      "name": "25 Medium",
+      "url": "https://open.spotify.com/track/4wZkurfUQhCxzBm85qThzr"
     },
     {
       "album": {
@@ -883,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Alligator",
+        "url": "https://open.spotify.com/album/5yiNDyc9TRC3e8aLDSqGYG"
+      },
+      "artists": [
+        {
+          "name": "Echo Bloom",
+          "url": "https://open.spotify.com/artist/3cwT9W6Reu30mlzhSPaVpJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247560,
+      "name": "Alligator",
+      "url": "https://open.spotify.com/track/32mRUf0l2KcRAekax7xkzE"
+    },
+    {
+      "album": {
         "name": "Alone It's Hard To Pay The Bill",
         "url": "https://open.spotify.com/album/0PCtS1GYPaHogeEObtJL6F"
       },
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -2967,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Buy Now",
+        "url": "https://open.spotify.com/album/4FHCi2dqcofj3lredFG5LL"
+      },
+      "artists": [
+        {
+          "name": "plaine",
+          "url": "https://open.spotify.com/artist/35D1c7EqwP9yee0HiTXnUA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230590,
+      "name": "Buy Now",
+      "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
+    },
+    {
+      "album": {
         "name": "By The Stars",
         "url": "https://open.spotify.com/album/1aciQiXngQNtbsVgccAKEH"
       },
@@ -3738,6 +3792,24 @@
       "duration_ms": 330034,
       "name": "Claw",
       "url": "https://open.spotify.com/track/4O4GiCTXAYRPrUGRoy2hzt"
+    },
+    {
+      "album": {
+        "name": "CLAW MACHINE",
+        "url": "https://open.spotify.com/album/1ASzv3eCc8UZ09QXnNbJYy"
+      },
+      "artists": [
+        {
+          "name": "HIERONYMUSIC",
+          "url": "https://open.spotify.com/artist/47iCTPABFsfzuMZeUcU4zy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "CLAW MACHINE",
+      "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
     },
     {
       "album": {
@@ -4730,7 +4802,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -7168,7 +7240,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Fascinating Me",
       "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
@@ -7330,7 +7402,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 245527,
       "name": "Feels Like Heaven - White Horses",
       "url": "https://open.spotify.com/track/27iEHpWLExtnoRI1pPoyyq"
@@ -8480,7 +8552,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 224398,
       "name": "Grass is Greener",
       "url": "https://open.spotify.com/track/4FlwETxW5MrGqbJU1xSFeQ"
@@ -8618,7 +8690,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -8730,7 +8802,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 194360,
       "name": "Hate It",
       "url": "https://open.spotify.com/track/32FaW3pJjhYYXDfA0byrzT"
@@ -10033,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "Zenyth",
+        "url": "https://open.spotify.com/album/3H6ZoT3nv0VQupOEjxem8J"
+      },
+      "artists": [
+        {
+          "name": "David Hilliard",
+          "url": "https://open.spotify.com/artist/1ieJmRKlX5mtlVrGc0kjv6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/5yjPVopYtACYdcXEbS7VF4"
+    },
+    {
+      "album": {
         "name": "Dark Bellow",
         "url": "https://open.spotify.com/album/7k0Ss0eYRcejpPaynu1m4G"
       },
@@ -10910,7 +11000,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -14874,7 +14964,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -15022,6 +15112,24 @@
       "duration_ms": 202756,
       "name": "Orange Squeezer",
       "url": "https://open.spotify.com/track/0kFUXG3UKW6tpgyNkIVgCg"
+    },
+    {
+      "album": {
+        "name": "Plus None",
+        "url": "https://open.spotify.com/album/23Y9hthgMkFtwn9YkPGoCp"
+      },
+      "artists": [
+        {
+          "name": "Forwardman",
+          "url": "https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Orphic Breeze",
+      "url": "https://open.spotify.com/track/1FPmb8Lbq4YYHpkARw6klH"
     },
     {
       "album": {
@@ -15690,7 +15798,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 189344,
       "name": "Postal Strike",
       "url": "https://open.spotify.com/track/31IiVEn5N8SQEzBM9UV4g6"
@@ -16156,7 +16264,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -18833,6 +18941,24 @@
     },
     {
       "album": {
+        "name": "Steam & Railways",
+        "url": "https://open.spotify.com/album/7jgFGpCaMLVvWnE8Ixx5v8"
+      },
+      "artists": [
+        {
+          "name": "Rose Alaimo",
+          "url": "https://open.spotify.com/artist/0KRVKpKJ91ftFH1s1KR7u9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "St. Vitus' Dance",
+      "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
+    },
+    {
+      "album": {
         "name": "Stale",
         "url": "https://open.spotify.com/album/2YiT87zmFgPv2aG8vWnMlw"
       },
@@ -19256,7 +19382,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -20442,7 +20568,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 199083,
       "name": "The Fear of Missing Out",
       "url": "https://open.spotify.com/track/5lbRoMEzZmt351oTJVRXw5"
@@ -20766,7 +20892,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -22476,7 +22602,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 155637,
       "name": "two vampires",
       "url": "https://open.spotify.com/track/7i4gNccpFhJaT4yMHPsWN2"
@@ -23358,7 +23484,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -23716,7 +23842,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"

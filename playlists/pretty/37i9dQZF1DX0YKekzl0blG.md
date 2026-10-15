@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,543 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,583 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 43 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 |
 | 44 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 45 | [Tribulations](https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:59 |
-| 46 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
-| 47 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 |
+| 46 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 |
+| 47 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 48 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 49 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
 | 50 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 77 | [Little Bit](https://open.spotify.com/track/6PZDPg3dZgJkNL6nVMUB4b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C) | 4:33 |
 | 78 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
 | 79 | [She Wants To Move](https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:33 |
-| 80 | [Two Doors Down](https://open.spotify.com/track/5JSF5Nhw9W6j9qt74rYTa7) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:39 |
+| 80 | [Shove It](https://open.spotify.com/track/1coivm4gzVsvpzqW4bN4WM) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:48 |
 
-Snapshot ID: `AAAAABWX5f+8BiAG7CRpKrxYlxQFLImX`
+Snapshot ID: `AAAAAGyxb/i2/kLqzbd+PxiGynLe+d6N`

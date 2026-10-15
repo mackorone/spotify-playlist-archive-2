@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,677 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,665 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 26 | [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 |
 | 27 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 | 28 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
-| 29 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
-| 30 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
+| 29 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
+| 30 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 31 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 32 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
 | 33 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 49 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 |
 | 50 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
 
-Snapshot ID: `AAAAAO3h/ikAqRnsr7RiFOGimtuwfqss`
+Snapshot ID: `AAAAAIrjeNsdwtkVe4BykFgWDEvnkbS5`

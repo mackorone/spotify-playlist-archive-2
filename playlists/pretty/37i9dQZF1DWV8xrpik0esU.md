@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,110 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,138 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 17 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 18 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 19 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
-| 20 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
-| 21 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
+| 20 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
+| 21 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 22 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
 | 23 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 24 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 |
 | 25 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
 | 26 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
 | 27 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
-| 28 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
-| 29 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
+| 28 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
+| 29 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
 | 30 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 31 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 32 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 44 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 45 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 46 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
-| 47 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |
+| 47 | [Just Another Day](https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 48 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
-| 49 | [Just Another Day](https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
+| 49 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |
 | 50 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 51 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 52 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 56 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
 | 57 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 58 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
-| 59 | [The River of Dreams](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 4:05 |
-| 60 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
+| 59 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
+| 60 | [The River of Dreams](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 4:05 |
 | 61 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 62 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 63 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 79 | [Heartbreaker \(feat\. JAŸ\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
 | 80 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 
-Snapshot ID: `AAAAAAPdA1OMscu9cc37+VlrOkOISGKh`
+Snapshot ID: `AAAAAM5rTAc5yYmsAfjXg9povaf32gNI`

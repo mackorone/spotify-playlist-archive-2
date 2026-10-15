@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The best new music by independent artists and labels, featuring  Benji V",
+  "description": "The best new music by independent artists and labels, featuring  Muriel",
   "name": "Fresh Finds M\u00fasica Mexicana ",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 189697,
       "name": "31",
       "url": "https://open.spotify.com/track/43hJrUcamNZAX4EdRSEc5v"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 212000,
       "name": "A Las Dos",
       "url": "https://open.spotify.com/track/3b2F9RQepqYhTD9xDN4Lbp"
@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "CHVLN",
+        "url": "https://open.spotify.com/album/7fnFp7n6UFZV7nFw4Laelg"
+      },
+      "artists": [
+        {
+          "name": "Bandi2",
+          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "CHVLN",
+      "url": "https://open.spotify.com/track/27hnlzFJNtZhYULYTfRCHb"
+    },
+    {
+      "album": {
         "name": "Ef\u00edmero",
         "url": "https://open.spotify.com/album/5LifxrluEWaaMIHtI406xz"
       },
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 189056,
       "name": "Cuando Ladran Los Perros",
       "url": "https://open.spotify.com/track/1pIXSyZoNnpYJER9njhI9j"
@@ -4340,6 +4358,28 @@
       "duration_ms": 179812,
       "name": "El Peine",
       "url": "https://open.spotify.com/track/3iRvVMHgagZIHfnclCqBUJ"
+    },
+    {
+      "album": {
+        "name": "El Perdedor",
+        "url": "https://open.spotify.com/album/2Hg8BHTKaEtD0tOFfml9ib"
+      },
+      "artists": [
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Equipo Imperial",
+          "url": "https://open.spotify.com/artist/202a7dpVKOKL5nxXkatXhT"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27WAFtmd11GuUN6jJdr6Je"
     },
     {
       "album": {
@@ -9862,7 +9902,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 227208,
       "name": "POLO",
       "url": "https://open.spotify.com/track/76SKiOuHHvKhHCeWV835Hn"
@@ -11022,6 +11062,24 @@
       "duration_ms": 179425,
       "name": "Reviveme el Amor",
       "url": "https://open.spotify.com/track/4Fb3fKoMVsigXwW6WNDDu2"
+    },
+    {
+      "album": {
+        "name": "Rich Boy",
+        "url": "https://open.spotify.com/album/5RsNxU5XsMFQeMWFLfA93y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Caro",
+          "url": "https://open.spotify.com/artist/3zXsxf39Mj3d96u8Seopdd"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "Rich Boy",
+      "url": "https://open.spotify.com/track/4kAI5FBCOi3UkROSUiwZSx"
     },
     {
       "album": {
@@ -12229,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4VYBp8PZ5OtDlfn0E7ohNg"
+      },
+      "artists": [
+        {
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159674,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/6svKzpJxBwGLIYxxy1jfDt"
+    },
+    {
+      "album": {
         "name": "Tengo Algo Pendiente",
         "url": "https://open.spotify.com/album/0Z1VBucUP0XBO1UGkEBOSw"
       },
@@ -12520,6 +12596,24 @@
       "duration_ms": 191096,
       "name": "TOMEN NOTA",
       "url": "https://open.spotify.com/track/3cy0Vn09SjqWriCCFAZDC3"
+    },
+    {
+      "album": {
+        "name": "Toqu\u00e9 Fondo",
+        "url": "https://open.spotify.com/album/4P0Oo4atX7d92DccbKsTm5"
+      },
+      "artists": [
+        {
+          "name": "Muriel",
+          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204674,
+      "name": "Toqu\u00e9 Fondo",
+      "url": "https://open.spotify.com/track/62ZEngCJfQZG1BSDkkfsC7"
     },
     {
       "album": {

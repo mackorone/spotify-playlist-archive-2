@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Khalil Harrison, Usimamane, Blxckie, Sammie Heavens, Nasty C and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,376 likes - 74 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,416 likes - 74 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
 | 74 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 
-Snapshot ID: `AAAAABPkMZMQQhoIAcJFHYQZAu7O74Z8`
+Snapshot ID: `AAAAAPS3FRS5DHJJPuXloXadnostMJdj`

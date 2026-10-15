@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 320 songs - 19 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,130 likes - 320 songs - 19 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 196 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
 | 197 | [I'm Single](https://open.spotify.com/track/2PD75SFUXxkcbIL4dg0Xgu) | [Jake Paul](https://open.spotify.com/artist/41hhOkoRcm7m4fE0g7t1sa) | [I'm Single](https://open.spotify.com/album/7iO3PKNc5oEIdW6tirp8JW) | 2:41 |
 | 198 | [Up In Flames](https://open.spotify.com/track/5k3LD7YYDR0VSnnnLyiweo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 5:05 |
-| 199 | [A LOT MORE](https://open.spotify.com/track/3BqUnohnUBmFWQxo0DT0uA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:20 |
-| 200 | [I'M ON](https://open.spotify.com/track/0FyRrCNUbl5Gy5HOuJW0aX) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:25 |
+| 199 | [I'M ON](https://open.spotify.com/track/0FyRrCNUbl5Gy5HOuJW0aX) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:25 |
+| 200 | [A LOT MORE](https://open.spotify.com/track/3BqUnohnUBmFWQxo0DT0uA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 3:20 |
 | 201 | [Scary Nights](https://open.spotify.com/track/0OwSIR2cx1HhPVR2eWNQu1) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 3:56 |
 | 202 | [Rapper Estates \(feat\. Benny The Butcher\)](https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 3:23 |
 | 203 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 243 | [Goodbye](https://open.spotify.com/track/7rQbW3YgTdiDTjxTA1UzSk) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:02 |
 | 244 | [Too Late](https://open.spotify.com/track/5W8aXA5fRDRG7yTCPWSU7w) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:54 |
 | 245 | [Southside](https://open.spotify.com/track/7AUYitA3rADsfyYaWai7Wv) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 3:27 |
-| 246 | [Future](https://open.spotify.com/track/3YrcUQYqtaBcbgjOXI5FZv) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 5:35 |
-| 247 | [Mine](https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:44 |
+| 246 | [Mine](https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:44 |
+| 247 | [Future](https://open.spotify.com/track/3YrcUQYqtaBcbgjOXI5FZv) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 5:35 |
 | 248 | [Fight For Us \(feat\. Fave\)](https://open.spotify.com/track/3ql6nigejt92coPUMuPshO) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Generation of Kings](https://open.spotify.com/album/5K0fHzMU1aBOlWnKkZYqK4) | 3:17 |
 | 249 | [Vulnerable \(feat\. Travis Scott\)](https://open.spotify.com/track/46aqy8ZnoeCM5z4CidMSni) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Aquarius](https://open.spotify.com/album/0kAjVhWydfRkTlG95XWHOB) | 3:26 |
 | 250 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 319 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 320 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Ace3cAAAAADtm1MNwMtrZ43Yzglbmx+E`
+Snapshot ID: `Ace88gAAAAAcHGsfjFFrzlGhsyPn+Pmk`

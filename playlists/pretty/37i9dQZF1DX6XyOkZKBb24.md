@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,763 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,784 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 22 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 23 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 24 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
-| 25 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
-| 26 | [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 |
+| 25 | [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 |
+| 26 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 27 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 28 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
 | 29 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
-| 30 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
-| 31 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
+| 30 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
+| 31 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
 | 32 | [crooked the road.](https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [crooked the road.](https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL) | 2:55 |
 | 33 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 34 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 75 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
 
-Snapshot ID: `AAAAALYLlvMZn068tzhOo9COO9xW6SJF`
+Snapshot ID: `AAAAAMQmFYZ4Gm/OiZJEKh0o4jFaULY3`

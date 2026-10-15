@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,537 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,543 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 13 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 |
 | 14 | [交換餘生](https://open.spotify.com/track/4daA20tBusVX29bUWgd8Dw) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [交換餘生](https://open.spotify.com/album/01m6dzbrm0kl8SmEqWoac6) | 4:36 |
 | 15 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
-| 16 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 |
+| 16 | [讓我留在你身邊](https://open.spotify.com/track/07MNtfddtgCo6VrUm3O9dw) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [讓我留在你身邊](https://open.spotify.com/album/0f3fXdmKfX0cDRweUH37e7) | 3:05 |
 | 17 | [天空沒有極限](https://open.spotify.com/track/4nivAUgvOrWdkv44kjAlxs) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:39 |
-| 18 | [讓我留在你身邊](https://open.spotify.com/track/07MNtfddtgCo6VrUm3O9dw) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [讓我留在你身邊](https://open.spotify.com/album/0f3fXdmKfX0cDRweUH37e7) | 3:05 |
+| 18 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 |
 | 19 | [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:39 |
 | 20 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |
 | 21 | [不該](https://open.spotify.com/track/3mf3pzDv9DCO0QDVh7bUL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/0ByfRfYXHHhGjsXEabfDmf) | 4:51 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 32 | [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 |
 | 33 | [妥协](https://open.spotify.com/track/0FduRtdtCZwAlQdmEjcEiU) | [en王翊恩](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [妥协](https://open.spotify.com/album/6i4e4s8wp9zZX4DQ3VAClW) | 3:29 |
 | 34 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
-| 35 | [以朋友的身份](https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [以朋友的身份](https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ) | 3:30 |
-| 36 | [偷走](https://open.spotify.com/track/1ePm87d90LN1bEINU2mW1R) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [神秘世界](https://open.spotify.com/album/1mq5i1lEFo3Ty1XggRcxuM) | 4:03 |
+| 35 | [偷走](https://open.spotify.com/track/1ePm87d90LN1bEINU2mW1R) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [神秘世界](https://open.spotify.com/album/1mq5i1lEFo3Ty1XggRcxuM) | 4:03 |
+| 36 | [以朋友的身份](https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [以朋友的身份](https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ) | 3:30 |
 | 37 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 38 | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv) | [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/album/25SPilLsgRVlEgDzbH6KcV) | 4:22 |
 | 39 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
-| 40 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
-| 41 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
+| 40 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
+| 41 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 |
 | 42 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
 | 43 | [想过不止一百遍](https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [想过不止一百遍](https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW) | 3:15 |
 | 44 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 |
 | 75 | [溫柔 \#MaydayBlue20th \- feat.孫燕姿](https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [溫柔 \#MaydayBlue20th](https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3) | 4:31 |
 
-Snapshot ID: `AAAAAC3SumEcL/QngVmp8mc/56wkJ6tj`
+Snapshot ID: `AAAAADHnA6MjL8mVgk2C7WEJK0ENHlX+`

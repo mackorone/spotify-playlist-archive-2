@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,058 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,125 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 18 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
 | 19 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
 | 20 | [Mary Es Mi Amor](https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Triunfador de América](https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF) | 3:12 |
-| 21 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
-| 22 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
+| 21 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
+| 22 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
 | 23 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 24 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
 | 25 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |
-| 26 | [Total Que Más Da](https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:18 |
-| 27 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
+| 26 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
+| 27 | [Total Que Más Da](https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:18 |
 | 28 | [Ya se va](https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:51 |
 | 29 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
 | 30 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
-| 31 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
-| 32 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 |
+| 31 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 |
+| 32 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
 | 33 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
 | 34 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 |
 | 35 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [Serie Doble: Los Brios y Los Angeles De Chile](https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6) | 3:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 43 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 44 | [Lo que te queda](https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:28 |
 | 45 | [No Son Palabritas](https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
-| 46 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 47 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
+| 46 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
+| 47 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
 | 48 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 49 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 |
 | 50 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 124 | [El](https://open.spotify.com/track/23fzU7JXLsFE0c7UUkdkcr) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [20 Super Exitos](https://open.spotify.com/album/3G8ZrnPcNB8SB0Uy3l68Yj) | 3:08 |
 | 125 | [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 |
 
-Snapshot ID: `AAAAAEzca154+pULcnxOx8K4YrUeyy5S`
+Snapshot ID: `AAAAAE6cMOStzUnJksHU2b5MhnqlK2/k`

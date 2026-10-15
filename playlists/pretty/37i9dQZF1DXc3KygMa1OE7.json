@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2615905,
+  "num_followers": 2615918,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORu7tq7GBTGVETjnLoROXfes/3G",
+  "snapshot_id": "AAAAAAOM8gdInGFzWHK5xrr5hEDWTLwn",
   "tracks": [
     {
       "added_at": "2026-02-25 17:39:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "What A Feeling",
         "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 244533,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Even the Nights Are Better",
+      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
-        "name": "Now And Forever",
-        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Even the Nights Are Better",
-      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+        "name": "Can't Fight Fate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
       },
       "artists": [
         {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+      "duration_ms": 277600,
+      "name": "Love Will Lead You Back",
+      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Can't Fight Fate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
       "artists": [
         {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Love Will Lead You Back",
-      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/2vEQ9zBiwbAVXzS2SOxodY"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2026-02-25 17:39:27",

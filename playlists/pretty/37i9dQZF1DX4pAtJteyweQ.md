@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,653 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,612 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 99 | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
 | 100 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 
-Snapshot ID: `AAAAAErC3J0h90YyzSU/tXTHeE+IT8/S`
+Snapshot ID: `AAAAAAN327L76YxgBLH9TAMcRC+UhC9l`

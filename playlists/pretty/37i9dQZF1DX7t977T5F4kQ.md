@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   DopeNation
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,347 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,390 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Amina](https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Amina](https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk) | 2:38 |
 | 80 | [Bokor Bokor](https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Bokor Bokor](https://open.spotify.com/album/0jeleBIMR3SqLqi1wf9lOF) | 2:34 |
 
-Snapshot ID: `AAAAANlRuQuSIvZUIEyIs+ujpHzHWxFO`
+Snapshot ID: `AAAAALCTwRSRkuIzOGf/iaCfixJjd007`

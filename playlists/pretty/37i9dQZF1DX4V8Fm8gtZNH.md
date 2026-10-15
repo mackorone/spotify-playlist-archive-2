@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,556 likes - 396 songs - 23 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,561 likes - 396 songs - 23 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -348,7 +348,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 338 | [Got To Go](https://open.spotify.com/track/5uu22LZbLnNuXdvevpxXuV) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7) | [Got To Go](https://open.spotify.com/album/3kEJPZ0qgdVhnyDNTM6Nq5) | 2:08 |
 | 339 | [I Need To Know](https://open.spotify.com/track/4dJPi9X1rQCXwi0JMP85m2) | [L\-DEEZ](https://open.spotify.com/artist/6z03nzRnoKuidbQ48w3BHu), [Trackademicks](https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz) | [Lamborghini Ferrari](https://open.spotify.com/album/320vSyAzr4YSAUnEHRili0) | 3:21 |
 | 340 | [Stand Up](https://open.spotify.com/track/6UGt4SByiTL9pRisuNgSBi) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0), [Sugarman & Co.](https://open.spotify.com/artist/5BkEJidEWw8JeNG8cwPyrl) | [Daptone Gold](https://open.spotify.com/album/6imeVaaWyXizmMVrbY36Ls) | 3:53 |
-| 341 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 |
+| 341 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 3:06 |
 | 342 | [Time](https://open.spotify.com/track/0Uj0CURdLH19NssxuTt3gK) | [Alex Wiley](https://open.spotify.com/artist/0JdGPxHeRGfOyZg3EHwp2g), [Mike Gao](https://open.spotify.com/artist/62C0sbk0QOvluqtTjpYTtL), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Village Party III: Stoner Symphony](https://open.spotify.com/album/6QTJYYuZIcPbStSV3XMUZj) | 4:10 |
 | 343 | [Do Me](https://open.spotify.com/track/4mUJL20NhYONRrzeTbSt1W) | [Moe Cheez](https://open.spotify.com/artist/13CdgzehABExrvXecjzA9z) | [Do Me](https://open.spotify.com/album/6H2mG37RbcVg7IZxOMMX4G) | 3:17 |
 | 344 | [Scorpio's Child](https://open.spotify.com/track/5D2DDglD6pJzCTLZf3scNX) | [Bert Myrick](https://open.spotify.com/artist/5lrZDLjutRDxBMdavEk80g) | [Live 'n Well](https://open.spotify.com/album/1PJtxB0qOqdKeEYnfGAFBh) | 13:55 |
@@ -405,4 +405,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 395 | [What a Life](https://open.spotify.com/track/59DJZMI3JH1TTUWbZy3htO) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Everybody Eats](https://open.spotify.com/album/6KhXakHRaqa0yRbjhrFrNE) | 3:23 |
 | 396 | [Love Inside](https://open.spotify.com/track/6j328qpqI6nScYgOTW5rBl) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Isabella](https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 3:47 |
 
-Snapshot ID: `AAAAALXGa/KHeCCl8ig3jSExtHvVUIeO`
+Snapshot ID: `AAAAAPInMNi4BRpQhDRBH6pNGLeF6Bmv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,681 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,716 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 40 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
 | 41 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:37 |
 | 42 | [Check Yes Or No](https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait Out Of The Box](https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW) | 3:20 |
-| 43 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
-| 44 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 43 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 44 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 45 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 46 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 47 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 51 | [Buy Me a Boat](https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0) | 2:59 |
 | 52 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 53 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
-| 54 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
-| 55 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
-| 56 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
-| 57 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
-| 58 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
-| 59 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
+| 54 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
+| 55 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
+| 56 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
+| 57 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
+| 58 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
+| 59 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
 | 60 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
 | 61 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
 | 62 | [Why'd You Come in Here Lookin' Like That](https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [White Limozeen](https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY) | 2:32 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 89 | [Wink](https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 2:42 |
 | 90 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:03 |
 | 91 | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D) | 3:00 |
-| 92 | [Elvira](https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Fancy Free](https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J) | 3:45 |
+| 92 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 93 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
-| 94 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
+| 94 | [Elvira](https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Fancy Free](https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J) | 3:45 |
 | 95 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Major Moves](https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn) | 2:58 |
 | 96 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
 | 97 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 99 | [The Race Is On](https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Boys Are Back](https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz) | 2:53 |
 | 100 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
 
-Snapshot ID: `AAAAAOhgRuUSmYkLuFTnr0ReqXiYOAnO`
+Snapshot ID: `AAAAANyimCB7V3FlxECYuBYLE4JUI1rW`

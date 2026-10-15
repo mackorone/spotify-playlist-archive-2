@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: FOLA x Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,675 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,705 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 |
 | 49 | [WAYNE SA](https://open.spotify.com/track/7mAg6m2ApCx4dIxaGiLo97) | [IDY](https://open.spotify.com/artist/2LyZJX1miGicgdvtuToXmy), [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [WAYNE SA](https://open.spotify.com/album/1wzGrb55Ld8xDxbw6tE9GU) | 2:05 |
 
-Snapshot ID: `AAAAAC/2wuFI1mPl/I+gk5ASKQKwrXf+`
+Snapshot ID: `AAAAAGhoOuI1jJML3bVrV4ffD0iOMwyN`

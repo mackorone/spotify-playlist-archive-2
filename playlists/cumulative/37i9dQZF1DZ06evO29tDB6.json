@@ -211,6 +211,36 @@
     },
     {
       "album": {
+        "name": "De Tripas Corazon",
+        "url": "https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Chela Lora",
+          "url": "https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181654,
+      "name": "De Tripas Corazon",
+      "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -520,7 +550,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"

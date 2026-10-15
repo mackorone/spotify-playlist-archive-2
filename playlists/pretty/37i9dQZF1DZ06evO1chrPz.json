@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208666,
+  "num_followers": 208670,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABtgz0rFKIxR1FuVpfGB18q",
+  "snapshot_id": "as10gAAAAADBetMp3u0Xfl3o70GCE2En",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 514573,
-      "name": "God of Revival (Live)",
-      "url": "https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ"
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
     },
     {
       "added_at": null,
@@ -355,18 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+      "duration_ms": 514573,
+      "name": "God of Revival (Live)",
+      "url": "https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 500300,
-      "name": "No One Like The Lord - Live",
-      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
+      "duration_ms": 218706,
+      "name": "You're Gonna Be Ok (Instrumental)",
+      "url": "https://open.spotify.com/track/5qrYDyPlWswb4h2RyWgGOz"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 218706,
-      "name": "You're Gonna Be Ok (Instrumental)",
-      "url": "https://open.spotify.com/track/5qrYDyPlWswb4h2RyWgGOz"
+      "duration_ms": 500300,
+      "name": "No One Like The Lord - Live",
+      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 616159,
-      "name": "Another Like You - Live",
-      "url": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw"
+      "duration_ms": 412048,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
       "artists": [
         {
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 412048,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
+      "duration_ms": 616159,
+      "name": "Another Like You - Live",
+      "url": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 373371,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
+      "duration_ms": 374554,
+      "name": "Dancing on the Waves",
+      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
     },
     {
       "added_at": null,
@@ -751,6 +751,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 385052,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 373371,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -760,13 +804,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
-      "duration_ms": 374554,
-      "name": "Dancing on the Waves",
-      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -795,50 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
       "artists": [
         {
@@ -868,17 +868,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 385052,
-      "name": "Made For More - Live",
-      "url": "https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j"
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Must Respond (Live)",
         "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 487925,
       "name": "Jesus Have It All (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,

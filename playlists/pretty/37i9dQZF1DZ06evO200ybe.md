@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,270 likes - 44 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,284 likes - 45 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 26 | [It Never Entered My Mind \- Mono](https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:42 |
 | 27 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
 | 28 | [Summertime](https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:15 |
-| 29 | [It Could Happen to You](https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:53 |
-| 30 | [You'd Be So Nice To Come Home To \- Mono](https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:36 |
+| 29 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 |
+| 30 | [September Song \- Mono](https://open.spotify.com/track/38xKGPT1Jxt1EFkWJGyk9w) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 3:05 |
 | 31 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
 | 32 | [Born To Be Blue](https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:06 |
-| 33 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 |
-| 34 | [September Song \- Mono](https://open.spotify.com/track/38xKGPT1Jxt1EFkWJGyk9w) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 3:05 |
+| 33 | [It Could Happen to You](https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:53 |
+| 34 | [You'd Be So Nice To Come Home To \- Mono](https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:36 |
 | 35 | [Autumn In New York](https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 7:04 |
 | 36 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:12 |
 | 37 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 42 | [I waited for you](https://open.spotify.com/track/7EF6ls57hx7h2fThxjkXB5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:08 |
 | 43 | [Waltz For Susan](https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Ballads For Two](https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl) | 3:50 |
 | 44 | [Lullaby Of The Leaves](https://open.spotify.com/track/2ynGfwePiLptW599QebWbr) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:16 |
+| 45 | [Whatever Possess'd Me](https://open.spotify.com/track/3gpRA8ENMOuqxWyzlUZiVJ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Most Important Jazz Album Of 1964/65](https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM) | 4:03 |
 
-Snapshot ID: `asrRgAAAAACmZcV36t4tJYQobh+aLUQt`
+Snapshot ID: `as10gAAAAABOAjdDU1Hfz1u3mT3JyV6l`

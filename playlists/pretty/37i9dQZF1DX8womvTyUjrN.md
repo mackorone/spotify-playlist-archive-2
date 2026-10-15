@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Alex Ponce
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,277 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,255 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Final feliz](https://open.spotify.com/track/3Oiirh2007ZHkNQtzEI1vH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:06 |
 | 50 | [No Me Pidas](https://open.spotify.com/track/1aYLhqcAHM0zRLpke7YkcS) | [Alondra Bravo](https://open.spotify.com/artist/1ziR8FcSwB1AyqYyJsXhE4) | [No Me Pidas](https://open.spotify.com/album/0lKF1oEOEPZeOicVrswFLx) | 3:53 |
 
-Snapshot ID: `AAAAAG29Za6NcqgR8fSfRcq4dPzAi7lX`
+Snapshot ID: `AAAAADbczXrRKlDu34b7X+K5767lkXH5`

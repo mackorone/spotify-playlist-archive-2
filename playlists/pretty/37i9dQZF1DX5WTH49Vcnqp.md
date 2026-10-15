@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Yes Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,144 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,102 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
 | 75 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
 
-Snapshot ID: `AAAAAPkJjD84pm3uCwblakiotxv/RsW3`
+Snapshot ID: `AAAAAOBzSIBQKOg18KBBgg947UN9q2xe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,222,296 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,222,543 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 41 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 |
 | 42 | [House Of Balloons / Glass Table Girls](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 6:47 |
 | 43 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
-| 44 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
-| 45 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
+| 44 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
+| 45 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 46 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 47 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 48 | [Formula \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 63 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 64 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
 | 65 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
-| 66 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
-| 67 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 |
-| 68 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 |
-| 69 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 |
-| 70 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
+| 66 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 |
+| 67 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 |
+| 68 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
+| 69 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
+| 70 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 |
 | 71 | [Favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 72 | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \- Remix](https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \[Remix\]](https://open.spotify.com/album/1hLsMn21FEUQoPoc05hXw8) | 2:45 |
 | 73 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 81 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |
 | 82 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 83 | [freak for you](https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [freak for you](https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg) | 2:26 |
-| 84 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
-| 85 | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/track/27xprsAJJYC2U02zKog81S) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY) | 2:14 |
+| 84 | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/track/27xprsAJJYC2U02zKog81S) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY) | 2:14 |
+| 85 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
 | 86 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 |
 | 87 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |
 | 88 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 99 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
 | 100 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 |
 
-Snapshot ID: `AAAAAB5TxvYTs13nwC/zKy3bGb8bPg+K`
+Snapshot ID: `AAAAAJvt5TCZIo5N7vAKblGwchw0pPw/`

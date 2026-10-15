@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjtMs/ehg0wnMxxqriej0TLRo7U",
+  "snapshot_id": "AAAAADOx5uqcHzcoPapx3lkNwzYINt0M",
   "tracks": [
     {
       "added_at": "2025-07-21 16:15:15",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e2d\u9808\u304b\u3059\u307f\u76e4\u3011",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -615,6 +631,22 @@
       "duration_ms": 253373,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -651,38 +683,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e2d\u9808\u304b\u3059\u307f\u76e4\u3011",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
-          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "MONSTER GIRLS",
         "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 288973,
       "name": "\u3081\u3063\u3061\u3083Going!!",
       "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
-          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8\u3010\u5bae\u4e0b \u611b\u76e4\u3011",
-        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
       },
       "artists": [
         {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
       ],
-      "duration_ms": 252280,
-      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club",

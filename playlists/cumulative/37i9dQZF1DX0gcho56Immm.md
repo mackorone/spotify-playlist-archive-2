@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
 
-354 songs - 20 hr 14 min
+355 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
 | [Another Life](https://open.spotify.com/track/23dlDcfYKSosr7uOqvcizd) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Ninna Lundberg](https://open.spotify.com/artist/6k0RXaRQWP1oiq4pmEFbyR) | [hollis](https://open.spotify.com/album/3vKkVu1TQWct7R5JIjpwzO) | 2:28 | 2026-04-23 |  |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
+| [Avril](https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [Put Rings On All My Fingers To Weigh Down My Hands](https://open.spotify.com/album/3eTvTiRjlO02MbHqXL5oyc) | 5:18 | 2026-10-14 |  |
 | [Aéroport](https://open.spotify.com/track/25cm5QSiCaqKbeP7MODFhv) | [Gintė Preisaitė](https://open.spotify.com/artist/5D33eNZh5iFRm3tIJf3Zit) | [Instruments of Forgetting and the Singing Bone](https://open.spotify.com/album/0oeXO3SDptQL2dYIpSOeB9) | 2:28 | 2026-05-29 |  |
 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 | 2026-04-09 |  |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |

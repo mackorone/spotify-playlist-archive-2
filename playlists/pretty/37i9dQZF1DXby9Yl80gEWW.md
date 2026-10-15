@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Bryan Sutton
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,046 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,061 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 26 | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh) | 3:34 |
 | 27 | [Banjo Loop](https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [Banjo Loop](https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP) | 4:52 |
 | 28 | [Peace](https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 3:15 |
-| 29 | [Dig Deep and Win Wisely](https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 1:51 |
-| 30 | [The Majestic Swan \- Instrumental](https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6) | [Cadillac Sky](https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8) | [Gravity's Our Enemy](https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684) | 4:11 |
-| 31 | [Wayfarer](https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA) | [Whalebone](https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9) | [Woven](https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh) | 2:29 |
-| 32 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 |
+| 29 | [The Majestic Swan \- Instrumental](https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6) | [Cadillac Sky](https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8) | [Gravity's Our Enemy](https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684) | 4:11 |
+| 30 | [Dig Deep and Win Wisely](https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 1:51 |
+| 31 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 |
+| 32 | [Wayfarer](https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA) | [Whalebone](https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9) | [Woven](https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh) | 2:29 |
 | 33 | [Smith Chapel](https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG) | [David Grier](https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2) | [Lone Soldier](https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m) | 3:18 |
 | 34 | [Winds Forever Blow](https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h) | [Matt Combs](https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9), [Teddy Morgan](https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU) | [Songs from Horizon](https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq) | 2:12 |
 | 35 | [The Green Fields Of Glentown, Le Reel des Nouveaux Mariés, Flash Away The Pressing Gang](https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [Your Daughters & Your Sons](https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C) | 4:25 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 51 | [Work Away](https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d), [Madeline Dierauf](https://open.spotify.com/artist/3aJjJ82xpyXCaKlVof3Ges) | [Susto Stringband \(Volume 2\)](https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5) | 2:22 |
 | 52 | [Muscle Car](https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Muscle Car](https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY) | 5:28 |
 | 53 | [Grandfather's Clock](https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Grandfather's Clock](https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex) | 4:43 |
-| 54 | [The Seven](https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [The Seven](https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP) | 5:27 |
-| 55 | [A Reef Where Two Seas Met](https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [A Reef Where Two Seas Met](https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY) | 2:19 |
+| 54 | [A Reef Where Two Seas Met](https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [A Reef Where Two Seas Met](https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY) | 2:19 |
+| 55 | [The Seven](https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [The Seven](https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP) | 5:27 |
 | 56 | [City Of New Orleans \- Instrumental](https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE) | [Mark Howard](https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Lonesome Whistle](https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz) | 2:46 |
 | 57 | [Icebound](https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF) | [Tony Furtado](https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt) | [Decembering](https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E) | 3:33 |
 | 58 | [Blue Men Of The Sahara](https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct) | [Strength In Numbers](https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ) | [Telluride Sessions](https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM) | 5:05 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 72 | [Bozeman](https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Details](https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3) | 4:14 |
 | 73 | [Stoney Lonesome](https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Noam Pikelny Plays Kenny Baker Plays Bill Monroe](https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP) | 3:41 |
 | 74 | [Look Again](https://open.spotify.com/track/6NJqzY3usmKs12re8cJSBB) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Look Again](https://open.spotify.com/album/5lrfORa8KmOOrSfgDyNGZM) | 5:04 |
-| 75 | [Black's Fork](https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT) | [Matt Flinner](https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J) | [The View From Here](https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ) | 3:33 |
+| 75 | [Bon Aqua Blues](https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Double Banjo Bluegrass Spectacular](https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch) | 3:00 |
 
-Snapshot ID: `AAAAAL5fn8YaqpZFOZB+HG6HfnlLfWRt`
+Snapshot ID: `AAAAAGne9Us4IeyPMQfIqpmRo556aUJ/`

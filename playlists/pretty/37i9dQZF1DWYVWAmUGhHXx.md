@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > romanticonas y fresonas, pero norteñonas\. Nueva Marca en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,403 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,413 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 59 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 60 | [Todavia](https://open.spotify.com/track/5wGSLjpdzzh9jFWqeCO7jG) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Exitos Prestados Vol\. 2](https://open.spotify.com/album/4LVkmsTnh1WjgJD4H7r788) | 3:24 |
 
-Snapshot ID: `AAAAAAYViJ/4QOyZGf8zihcpFp3kuHMA`
+Snapshot ID: `AAAAAEV6DjxUWCC9jPXHaVVNbvYWqUVp`

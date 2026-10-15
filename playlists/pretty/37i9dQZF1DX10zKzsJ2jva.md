@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: ARIA VEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,113,658 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,112,045 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 |
 | 50 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
 
-Snapshot ID: `AAAAAHKCybR7Ft+MgLZe8ODh6G5wQ+Lh`
+Snapshot ID: `AAAAADpHF48G91zE9/sLe5cfu/LvwOpD`

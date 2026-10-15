@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,591 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,587 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,21 +28,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 18 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
 | 19 | [MUM SAID](https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [MUM SAID](https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8) | 1:53 |
 | 20 | [GO](https://open.spotify.com/track/1jESDIMfh3MPC2A6SZvWSN) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界が変わる時](https://open.spotify.com/album/0y0zbIj2mPsAeRHzlNQEAe) | 3:49 |
-| 21 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
-| 22 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 |
+| 21 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 |
+| 22 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
 | 23 | [QUÉ NOS PASÓ?](https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [QUÉ NOS PASÓ?](https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC) | 2:08 |
 | 24 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
 | 25 | [The Dealer](https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [The Dealer](https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg) | 3:09 |
 | 26 | [Writing's on the Wall](https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Writing's on the Wall](https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G) | 3:03 |
-| 27 | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 |
-| 28 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
+| 27 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
+| 28 | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 |
 | 29 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
 | 30 | [before](https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [before](https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG) | 3:40 |
 | 31 | [WRANGLER](https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [WHAT CAN I TELL U](https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA) | 2:05 |
 | 32 | [chilling in my bathtub](https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [chilling in my bathtub](https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX) | 3:11 |
 | 33 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
-| 34 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |
-| 35 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
+| 34 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 |
+| 35 | [BBB](https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [BBB](https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l) | 3:06 |
 | 36 | [Hridhayam](https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV) | [Raaza Razaq](https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3), [Iyyaamma](https://open.spotify.com/artist/4iUJKDtuzHBEvlKTDuncmi) | [Hridhayam](https://open.spotify.com/album/6voA6abUq7Jd8jmUfur0HB) | 3:18 |
 | 37 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
 | 38 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 47 | [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 |
 | 48 | [Alma](https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Alma](https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk) | 3:40 |
 
-Snapshot ID: `AAAAANT7WEAAW/hlPBfG3VS/Vuo1nkE1`
+Snapshot ID: `AAAAADZv/7uN4GuHX3rFm6ncoedg0jxv`

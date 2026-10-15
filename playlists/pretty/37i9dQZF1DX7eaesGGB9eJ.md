@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,192 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,263 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Chingo de Cheve](https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2) | 3:29 |
 | 50 | [Solo Como Amigos](https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/59HfislZ5AH1pHZLUPy0Dm) | 4:33 |
 
-Snapshot ID: `AAAAAMaVIDLny+5BgvS4ejKoFtR26i7v`
+Snapshot ID: `AAAAADMIZTHEwREipunIdFoS89hfTw1x`

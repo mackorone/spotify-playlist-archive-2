@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,411 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,440 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 46 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 47 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 48 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
-| 49 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
-| 50 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
-| 51 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
+| 49 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
+| 50 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
+| 51 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 52 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
-| 53 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 54 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
-| 55 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 53 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
+| 54 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 55 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 56 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 57 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
 | 58 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
-| 59 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
-| 60 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 |
+| 59 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 |
+| 60 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
 | 61 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
 | 62 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 63 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 71 | [Come Back Song](https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Charleston, SC 1966](https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup) | 3:55 |
 | 72 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 73 | [Highway Don't Care](https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Two Lanes Of Freedom](https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl) | 4:36 |
-| 74 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
-| 75 | [Wanted](https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 3:48 |
+| 74 | [Wanted](https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 3:48 |
+| 75 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 
-Snapshot ID: `AAAAAFoUZSN24KBQDU13NtxOieU68mHy`
+Snapshot ID: `AAAAAARcWberkfn8HMThUf4sFmkjSV70`

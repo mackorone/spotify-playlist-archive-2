@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Joseph Lorange
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,953 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,954 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 62 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
 | 63 | [Losing at Life](https://open.spotify.com/track/5eNvFQipAM17w7fVD7ZKcY) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Losing at Life](https://open.spotify.com/album/2kLurua2JzVvVrfV3Z0daT) | 3:08 |
 
-Snapshot ID: `AAAAAMsmtOqECQK+LQSl7mJxLZD0xtj0`
+Snapshot ID: `AAAAAJxDG4eXqmV3vn3Loa615+ac6wOP`

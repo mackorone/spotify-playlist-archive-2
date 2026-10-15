@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: a子 Ako
 
-1,774 songs - 4 day 14 hr 56 min
+1,774 songs - 4 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,7 +761,6 @@
 | [Tonari no Machi](https://open.spotify.com/track/0PmMx3te9Ab1qs9LVespmk) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Tonari no Machi](https://open.spotify.com/album/5qB08Nl2RJeRCcEhqM1lbd) | 4:24 | 2026-07-28 | 2026-08-05 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 5](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 0:00 | 2026-10-13 |  |
 | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/track/1HG5ywdkdqGlW7IwQdXLbs) | [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/album/7ilStTWLuncqmFfsumOXLs) | 3:41 | 2026-05-26 | 2026-06-03 |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
@@ -888,7 +887,7 @@
 | [うちょうてん](https://open.spotify.com/track/00j458mQsbfDN7kpg61lb6) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [うちょうてん](https://open.spotify.com/album/0k2AJa2efVylkiIDoD2CtP) | 3:38 | 2025-12-23 | 2026-01-15 |
 | [えほんのうた](https://open.spotify.com/track/11QGbrQjPWol3HFevTHYH4) | [平池　桜](https://open.spotify.com/artist/4pk0hRFuP7yVEvJcwyyYIv) | [えほんのうた](https://open.spotify.com/album/16QRKEJshP4WCqjZDk2g2Y) | 3:31 | 2025-08-05 | 2025-08-13 |
 | [おかえり \- Re\-Recording 2025](https://open.spotify.com/track/6DwlpVY1xmtLt6ELT4KtYW) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [blue](https://open.spotify.com/album/4bBaSqVAWgQvS3UwyQ0Lvp) | 3:33 | 2025-07-22 | 2025-07-30 |
-| [おっおー](https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS) | [the Po](https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG) | [おっおー](https://open.spotify.com/album/68VJkJi7jByAKDYYWvPhtq) | 4:20 | 2026-07-14 |  |
+| [おっおー](https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS) | [the Po](https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG) | [おっおー](https://open.spotify.com/album/68VJkJi7jByAKDYYWvPhtq) | 4:20 | 2026-07-14 | 2026-10-15 |
 | [おぼろげ](https://open.spotify.com/track/4ApkPCqOx1qQBp4l3p1c1p) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [おぼろげ](https://open.spotify.com/album/1Yksmlxl2WLZzmEGBnb2fs) | 4:40 | 2024-07-16 | 2024-07-27 |
 | [おんぶに疲れて](https://open.spotify.com/track/0baWFXPgNavrj5zoLAJOKx) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [死んでも一生](https://open.spotify.com/album/0h1iYevrGU4NXbRtYT7k5N) | 5:17 | 2026-05-05 | 2026-06-05 |
 | [お金がないから](https://open.spotify.com/track/0Cz5qIJyUKRRtXC1Rgg5zc) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [お金がないから](https://open.spotify.com/album/4hSwI4V6WGkUnzmfs4Gsq6) | 2:44 | 2026-06-30 | 2026-07-08 |
@@ -1106,6 +1105,7 @@
 | [コズミック・キャデラック](https://open.spotify.com/track/3J1pmiOCeShdVytUazhFVo) | [多次元制御機構よだか](https://open.spotify.com/artist/2GJMiGBEYG8xiK6XAojxCd) | [LAPLACEL](https://open.spotify.com/album/07n2FYJzeolBArtlIzavaJ) | 3:50 | 2026-06-30 | 2026-07-08 |
 | [コトノハ \- Kotonoha](https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [コトノハ \- Kotonoha](https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ) | 3:59 | 2026-01-14 | 2026-06-24 |
 | [コンバート](https://open.spotify.com/track/4rjCBfwLxTk2p3QApO51Uu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [コンバート](https://open.spotify.com/album/3FKM8romYmoOCVRF5ChPrg) | 3:52 | 2025-06-03 | 2025-06-12 |
+| [コールドスリープ](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 5:58 | 2026-10-13 |  |
 | [コールドスリープ、愛](https://open.spotify.com/track/3YczdCPUrmBVarUwOOuOmN) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [コールドスリープ、愛](https://open.spotify.com/album/50RQXBbDWebvmOzyE5fnsg) | 3:18 | 2026-04-28 | 2026-06-03 |
 | [ゴースト](https://open.spotify.com/track/75Dv13MlhuD5zVeupmIpDa) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ゴースト](https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB) | 6:35 | 2025-04-08 | 2025-06-11 |
 | [サイダー](https://open.spotify.com/track/4qldQ0Fot2ukfuY6FwICR4) | [杉本ラララ](https://open.spotify.com/artist/3MZwzBtJ4Zkl1TZVBYLAYK) | [死ぬとき笑えるように](https://open.spotify.com/album/23EUzDch54zpjiKVY548t9) | 3:12 | 2026-05-13 | 2026-05-20 |
@@ -1150,7 +1150,7 @@
 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 | 2025-05-27 | 2025-11-15 |
 | [デッドエンド](https://open.spotify.com/track/4leMDmtNqMBjfprfRlx7kd) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [デッドエンド](https://open.spotify.com/album/4CV8Dq2YA4oViwgltxwegz) | 3:06 | 2026-01-14 | 2026-04-22 |
 | [トモダマシ](https://open.spotify.com/track/6VcCIKmWQbc7eQEUNlULiQ) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [トモダマシ](https://open.spotify.com/album/77kT1606qGgLj8TcI1Q9Ob) | 3:17 | 2025-08-05 | 2025-08-13 |
-| [トライアングル](https://open.spotify.com/track/2RLCkB2AVuZx6lOyIQqu9D) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [トライアングル](https://open.spotify.com/album/0SqbHQ3SlC2BggRyKhoBq7) | 4:32 | 2026-10-06 | 2026-10-14 |
+| [トライアングル](https://open.spotify.com/track/2RLCkB2AVuZx6lOyIQqu9D) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [トライアングル](https://open.spotify.com/album/0SqbHQ3SlC2BggRyKhoBq7) | 4:32 | 2026-10-06 |  |
 | [トランジット・イン・フラミンゴ](https://open.spotify.com/track/7wLvIXDZwbwusm4Upz4bis) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [トランジット・イン・フラミンゴ](https://open.spotify.com/album/0i8BRwiaLH54XCzkh2ss2Z) | 4:28 | 2026-05-13 | 2026-05-20 |
 | [トランポリン](https://open.spotify.com/track/2kE9FubpAxrZNBpVxbSWT8) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Straße](https://open.spotify.com/album/71VzFoV1EadJXRt1dqPtvF) | 4:38 | 2025-05-07 | 2025-05-28 |
 | [トロイ](https://open.spotify.com/track/0ZxluYxnjFomtA5xQq6kpc) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [トロイ](https://open.spotify.com/album/5O9zrO8mS1S1IAVSX58DbT) | 3:58 | 2025-11-04 | 2025-11-12 |

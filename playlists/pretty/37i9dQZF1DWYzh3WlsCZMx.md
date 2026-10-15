@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,971 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,981 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 26 | [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 |
 | 27 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
 | 28 | [Weak](https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:36 |
-| 29 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
-| 30 | [No Problem](https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL) | [Tokyo Jetz](https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf) | [Bonafide](https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv) | 2:47 |
+| 29 | [No Problem](https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL) | [Tokyo Jetz](https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf) | [Bonafide](https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv) | 2:47 |
+| 30 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
 | 31 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
 | 32 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
 | 33 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
 | 48 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |
 
-Snapshot ID: `AAAAACQhS9OyrK22VARKEK6en41K1PxR`
+Snapshot ID: `AAAAAIRHRaBOCUxLZ2JyTa6p76pFHonY`

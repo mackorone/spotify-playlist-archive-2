@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,511 songs - 7 day 16 hr 1 min
+3,512 songs - 7 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,7 +972,7 @@
 | [Hyväuskoinen](https://open.spotify.com/track/08EMclZsu3ZwuQxlVcsAXI) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Hyväuskoinen](https://open.spotify.com/album/5ZRBzdTHMyEyAvb2WLg7Gk) | 3:26 | 2021-11-07 | 2022-02-13 |
 | [Hyväuskoinen](https://open.spotify.com/track/3dp8H2alKT2fTrSBKhQoTW) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 3:26 | 2022-03-12 | 2022-03-21 |
 | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/track/2LT3ikZrl9qzbYpoWlby4s) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7xlPk3qE972zgOxgIWQkWx) | 3:29 | 2025-10-04 | 2025-10-12 |
-| [Hyvää Puuta](https://open.spotify.com/track/15tUbWhDoHTwRF8PA9ELSt) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Hyvää Puuta](https://open.spotify.com/album/483YnkDxfrASNzzNC2iQrK) | 2:31 | 2026-10-10 |  |
+| [Hyvää Puuta](https://open.spotify.com/track/15tUbWhDoHTwRF8PA9ELSt) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Hyvää Puuta](https://open.spotify.com/album/483YnkDxfrASNzzNC2iQrK) | 2:31 | 2026-10-10 | 2026-10-15 |
 | [Hyvää puuta](https://open.spotify.com/track/2CHZ3M6UZ0QhpELI93YJip) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Hyvää puuta](https://open.spotify.com/album/1ytMsKcaEe5tCpRervL6OT) | 5:17 | 2022-08-11 | 2022-08-15 |
 | [Häissä \(feat\. Märkä\-Simo\)](https://open.spotify.com/track/6aHVPCIzIovTCYyOEvJu7K) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Märkä\-Simo](https://open.spotify.com/artist/6L3yCtVL0UCdOFzD1DxRjs) | [Mustaa kultaa](https://open.spotify.com/album/2FvmngdF3uSTdZno6GpxLa) | 3:07 | 2022-05-01 | 2026-06-09 |
 | [Häitä pidelly](https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Häitä pidelly](https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB) | 3:02 | 2024-06-01 | 2024-11-22 |
@@ -1125,6 +1125,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-19 | 2025-12-28 |
 | [Jingle Bell Rock](https://open.spotify.com/track/2N75B0jqKb13nTFpGEcC90) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6INqGgwMbLahKfHC4nfPYO) | 2:15 | 2021-12-19 | 2021-12-27 |
 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 | 2024-10-12 | 2024-10-18 |
+| [Join Me In Death](https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7tRL0nif9woiO3r7iLl3iD) | 3:36 | 2026-10-14 |  |
 | [Joka Päivä Ja Joka Ikinen Yö](https://open.spotify.com/track/4neLYZzrh6Zrblc4VWaZFF) | [Eppu Normaali](https://open.spotify.com/artist/6KbCFHgM4basg1TvK3oEzv) | [Valkoinen Kupla](https://open.spotify.com/album/3XNFNh83UJU6392ILj0zq8) | 4:43 | 2026-08-09 | 2026-08-13 |
 | [Joka Päivä Ja Joka Ikinen Yö \- Remastered](https://open.spotify.com/track/1npgiW1IoVIJxVhhfQsq4r) | [Eppu Normaali](https://open.spotify.com/artist/6KbCFHgM4basg1TvK3oEzv) | [Jackpot – 101 Eppu\-klassikkoa 1978–2009](https://open.spotify.com/album/6NqDvU3yAQZw2IU27J6y69) | 4:43 | 2026-08-08 | 2026-08-14 |
 | [Jokainen aamu \(feat\. Bee & Olavi Uusivirta\)](https://open.spotify.com/track/4czl7AfRG7PklYbZGFQLRq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 2:45 | 2025-12-13 | 2025-12-15 |

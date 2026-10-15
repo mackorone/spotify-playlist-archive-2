@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107033,
+  "num_followers": 107075,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxOd+s+14mKKh4jdqJtfEAw08qT",
+  "snapshot_id": "AAAAAFf+rnOM1C7Fq+TxEFNGldOuz3U/",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -607,38 +607,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Straata",
-        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
-      },
-      "artists": [
-        {
-          "name": "TxC",
-          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
-        },
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
-        },
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Uncool MC",
-          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
-        },
-        {
-          "name": "Optimist Music ZA",
-          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
-        }
-      ],
-      "duration_ms": 310088,
-      "name": "Mude Mude",
-      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
         "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Straata",
+        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "duration_ms": 310088,
+      "name": "Mude Mude",
+      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Club What",
-        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
-      },
-      "artists": [
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        },
-        {
-          "name": "Djy Vino",
-          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
-        }
-      ],
-      "duration_ms": 408866,
-      "name": "Club What",
-      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
         "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 414827,
       "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
       "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Club What",
+        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        }
+      ],
+      "duration_ms": 408866,
+      "name": "Club What",
+      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
     },
     {
       "added_at": "2026-09-10 22:02:20",

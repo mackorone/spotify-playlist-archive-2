@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,697 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,707 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 9 | [Pine](https://open.spotify.com/track/4gOruiqFXrOAYwmECxZfw6) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:25 |
 | 10 | [Earl Grey](https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:34 |
 | 11 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
-| 12 | [WIRED](https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:33 |
+| 12 | [Deadweight](https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:26 |
 | 13 | [Spoiled](https://open.spotify.com/track/22vIMDxg8BCHsnk474SCH8) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:44 |
 | 14 | [Be Here Now](https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 |
 | 15 | [Promise Everything](https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
-| 16 | [Deadweight](https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:26 |
+| 16 | [WIRED](https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:33 |
 | 17 | [Bad Apple](https://open.spotify.com/track/0k17MALHbaR6i6879Wasql) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:57 |
 | 18 | [Summer's Colour](https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:31 |
 | 19 | [Hanging Around](https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:58 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 29 | [Stigmata](https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:35 |
 | 30 | [Canada Square](https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 4:08 |
 | 31 | [Meet Me In St\. Louis](https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:10 |
-| 32 | [Right Here](https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 4:07 |
+| 32 | [Ultraviolet](https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:56 |
 | 33 | [Yoke](https://open.spotify.com/track/6pmNRKHIbO8hTmhLNZpA0p) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:25 |
-| 34 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 |
-| 35 | [Ultraviolet](https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:56 |
-| 36 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 |
+| 34 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 |
+| 35 | [Right Here](https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 4:07 |
+| 36 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 |
 | 37 | [Disconnect](https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 |
 | 38 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
 | 39 | [1104 Porter St](https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:04 |
 
-Snapshot ID: `asrRgAAAAABJ4681tPGIi2PNAxtUPqKL`
+Snapshot ID: `as10gAAAAADEgDRCPoLq2INZn+u6/Sue`

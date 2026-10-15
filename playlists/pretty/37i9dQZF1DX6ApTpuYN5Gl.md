@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,367 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,361 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [3AMStillAlive \- Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 50 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
 
-Snapshot ID: `AAAAAAKqSDM5Igi6M+lg8AkhtXrZSHgb`
+Snapshot ID: `AAAAAKo5fafgGjjyGSi2q6XOK5EcScuo`

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1187480,
+  "num_followers": 1187632,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADenujv7KexcYzoqNawoQeE",
+  "snapshot_id": "as10gAAAAACJCeBY2ND3DN+KYjE9tq8o",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 190377,
-      "name": "That's Alright - 2016 Remaster",
-      "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 283013,
       "name": "Sisters of the Moon - 2015 Remaster",
       "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 190377,
+      "name": "That's Alright - 2016 Remaster",
+      "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 166653,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
+      "duration_ms": 262533,
+      "name": "I'm so Afraid",
+      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 247133,
       "name": "Family Man - 2017 Remaster",
       "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "I'm so Afraid",
-      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 274666,
       "name": "Over & Over - 2015 Remaster",
       "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
     },
     {
       "added_at": null,

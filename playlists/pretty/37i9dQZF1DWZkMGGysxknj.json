@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812551,
+  "num_followers": 812463,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABzmYFV/6yYD7jbI9GlCrZjR/HcS",
+  "snapshot_id": "AAAAADKoANcwSBN8Z9Zfqg9EKCbjDbYc",
   "tracks": [
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Old Town Road",
-        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Paolo Velera",
         "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
@@ -1311,8 +1295,8 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+        "name": "bad guy",
+        "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
       },
       "artists": [
         {
@@ -1320,9 +1304,25 @@
           "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+      "duration_ms": 185544,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "La Marelle / Amarelinha",
         "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "bad guy",
-        "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 185544,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Lullabies for Adults & Children",
         "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 160678,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Acoustic Visions",
-        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
-      },
-      "artists": [
-        {
-          "name": "Veil",
-          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Acoustic Visions",
+        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+      },
+      "artists": [
+        {
+          "name": "Veil",
+          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 244946,
       "name": "Attention",
       "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "x tu amor",
+        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zavala",
+          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "x tu amor",
+      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "x tu amor",
-        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Zavala",
-          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
         }
       ],
-      "duration_ms": 205000,
-      "name": "x tu amor",
-      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2011,22 +2027,6 @@
       "duration_ms": 214917,
       "name": "Hablar de M\u00e1s",
       "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Field Notes",
-        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Arueira Mata",
-      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Arueira Mata",
+      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
-        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
-      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Reencontrarnos",
         "url": "https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 257002,
       "name": "Reencontrarnos",
       "url": "https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
+        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
+      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
     },
     {
       "added_at": "2025-06-20 16:07:31",

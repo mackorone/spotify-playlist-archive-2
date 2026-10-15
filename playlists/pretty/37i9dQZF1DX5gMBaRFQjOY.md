@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,140 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,302 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 11 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 12 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 13 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
-| 14 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:06 |
-| 15 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 14 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 15 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:06 |
 | 16 | [Stand By Your Man](https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Stand By Your Man](https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr) | 2:37 |
 | 17 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
 | 18 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 58 | [Take This Job and Shove It](https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 2:36 |
 | 59 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 |
 | 60 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |
-| 61 | [Pancho and Lefty](https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Walking the Line](https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw) | 4:46 |
-| 62 | [Love Is Alive](https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:56 |
+| 61 | [Love Is Alive](https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:56 |
+| 62 | [Pancho and Lefty](https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Walking the Line](https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw) | 4:46 |
 | 63 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
 | 64 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:51 |
 | 65 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 75 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 76 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/7ETtI1QTDcdI8yL55eXVOF) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 2:18 |
 | 77 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:14 |
-| 78 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
-| 79 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
+| 78 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
+| 79 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
 | 80 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 81 | [You Ain't Woman Enough \- Single Version](https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:12 |
 | 82 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 99 | [The Carroll County Accident](https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S) | 2:49 |
 | 100 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
 
-Snapshot ID: `AAAAAKvwfDJvQywLzh0v0elzOXB2El05`
+Snapshot ID: `AAAAAK2vioaZogp5zOOLTds+lk0bTSt/`

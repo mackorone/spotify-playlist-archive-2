@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,580 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,593 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 7 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
 | 8 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
 | 9 | [Nena Maldición](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 |
-| 10 | [Si Te Vas 2.0](https://open.spotify.com/track/69NUba8fukuax13XWCaXva) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Si Te Vas 2.0](https://open.spotify.com/album/09dwuvmgiuuelm2IclhO0f) | 4:19 |
-| 11 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
+| 10 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
+| 11 | [Si Te Vas 2.0](https://open.spotify.com/track/69NUba8fukuax13XWCaXva) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Si Te Vas 2.0](https://open.spotify.com/album/09dwuvmgiuuelm2IclhO0f) | 4:19 |
 | 12 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
 | 13 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
 | 14 | [RAMEN PARA DOS](https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 49 | [PVSL](https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 3:02 |
 | 50 | [A200 \- Remix](https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [A200 \(Remix\)](https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok) | 5:19 |
 
-Snapshot ID: `asrRgAAAAAAAoIL+/KOHhXihiWpnNcos`
+Snapshot ID: `as10gAAAAADGDQOIS5K6fr0YTP4hepn8`

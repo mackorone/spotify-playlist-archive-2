@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:66Q9dkZ7EXdwU2h6tEkUdC\">Isab\u00e8l Usher</a> ",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:5qQLp6Xal6S6KXEHgvxmvp\">Dressed Like Boys</a> ",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -310,6 +310,24 @@
       "duration_ms": 228000,
       "name": "Am\u00e9lie",
       "url": "https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51"
+    },
+    {
+      "album": {
+        "name": "And Then I Woke Up",
+        "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350699,
+      "name": "And Then I Woke Up",
+      "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
     },
     {
       "album": {
@@ -2639,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw"
       },
@@ -4154,6 +4190,24 @@
       "duration_ms": 185253,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6IIofcBX2keAltckpJ15Hi"
+    },
+    {
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238372,
+      "name": "Stonewall Riots Forever",
+      "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
     },
     {
       "album": {

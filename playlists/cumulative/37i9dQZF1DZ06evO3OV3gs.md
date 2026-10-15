@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-142 songs - 9 hr 55 min
+143 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-07-28 | 2025-04-19 |
 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 | 2023-07-28 |  |
 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 | 2024-07-23 | 2024-08-06 |
+| [You Must Love Me \- Single Version](https://open.spotify.com/track/5aQ3EkgRY3Cu333HS2ory3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [You Must Love Me](https://open.spotify.com/album/2u04sbbN8GsaPoe9JsQRcd) | 3:08 | 2026-10-15 |  |
 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 | 2023-07-28 | 2026-04-18 |
 | [Your Little Body's Slowly Breaking Down](https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Jonathan Pryce](https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:24 | 2024-07-17 | 2024-09-10 |
 

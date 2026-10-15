@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 314712,
+  "num_followers": 314772,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhkW1paT79zlSbAbAVY22kBUUAS",
+  "snapshot_id": "AAAAAOQvbCoULduvpzkcr4acMVVRJt3y",
   "tracks": [
     {
       "added_at": "2025-11-20 12:00:38",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        },
-        {
-          "name": "Magenta",
-          "url": "https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Chetos y Cumbieros",
-      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Echarme Al Olvido",
         "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 278800,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        },
+        {
+          "name": "Magenta",
+          "url": "https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Chetos y Cumbieros",
+      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1743,8 +1743,8 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
       "artists": [
         {
@@ -1752,9 +1752,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2025-11-20 12:00:38",

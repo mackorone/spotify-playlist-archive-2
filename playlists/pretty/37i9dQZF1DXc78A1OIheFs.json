@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19422,
+  "num_followers": 19434,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHeQ7Nm8E8BSQLGWYlpXsfzoC/Kh",
+  "snapshot_id": "AAAAABJneK+IDz0ATtjt6WYTXq53qiLN",
   "tracks": [
     {
       "added_at": "2026-10-08 13:00:24",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Hate My Guts",
-        "url": "https://open.spotify.com/album/1Zv5VHbH8Zwtk6Sqb9dZkn"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 150407,
-      "name": "Hate My Guts",
-      "url": "https://open.spotify.com/track/0pVALDYiQjzXxzW99TC4Id"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "Ain't No Party",
         "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 185769,
       "name": "Ain't No Party",
       "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "Hate My Guts",
+        "url": "https://open.spotify.com/album/1Zv5VHbH8Zwtk6Sqb9dZkn"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 150407,
+      "name": "Hate My Guts",
+      "url": "https://open.spotify.com/track/0pVALDYiQjzXxzW99TC4Id"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "SENESCENCE 05 + 06",
         "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 170235,
       "name": "Grin",
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
+        "name": "subaru",
+        "url": "https://open.spotify.com/album/4zBhtAgoSI6bjksJvF1RSG"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "subaru",
+      "url": "https://open.spotify.com/track/7xM2ekDz5RZSqIm4U4AbFH"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "subaru",
-        "url": "https://open.spotify.com/album/4zBhtAgoSI6bjksJvF1RSG"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "subaru",
-      "url": "https://open.spotify.com/track/7xM2ekDz5RZSqIm4U4AbFH"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
         "name": "Don\u2019t Call It Love",
         "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 247509,
       "name": "Don't Call It Love",
       "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
-      },
-      "artists": [
-        {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "halftime oranges",
-        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "halftime oranges",
-      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 254385,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "added_at": "2026-10-08 13:00:24",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-08 13:00:24",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-10-08 13:00:24",
-      "album": {
         "name": "tomato baby",
         "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 168582,
       "name": "tomato baby",
       "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
+    },
+    {
+      "added_at": "2026-10-08 13:00:24",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-10-08 13:00:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Crystal Castles, Pastel Ghost, Phantogram and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,375 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,419 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Is It Cold In The Water?](https://open.spotify.com/track/7tktCNlB0877dhdPZSRb7T) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:32 |
 | 50 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 
-Snapshot ID: `AAAAAKIn93U1y58JyO5LCNGhHC7SrEO7`
+Snapshot ID: `AAAAADlgTFFTjgybBbL/xsG53gO5+wXx`

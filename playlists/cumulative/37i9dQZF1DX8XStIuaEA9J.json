@@ -20713,24 +20713,6 @@
     },
     {
       "album": {
-        "name": "SPACE RENDEZVOUS",
-        "url": "https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "date_added": "2026-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl"
-    },
-    {
-      "album": {
         "name": "EN-G\u00cfNE",
         "url": "https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf"
       },
@@ -27196,6 +27178,24 @@
       "duration_ms": 201019,
       "name": "\u30b3\u30f3\u30d1\u30af\u30c8\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R"
+    },
+    {
+      "album": {
+        "name": "SPACE RENDEZVOUS",
+        "url": "https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358197,
+      "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl"
     },
     {
       "album": {

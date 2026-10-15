@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,425 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,432 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 31 | [14DRoad](https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:47 |
 | 32 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 |
 | 33 | [Walking Dead](https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:28 |
-| 34 | [Family time](https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Family Time](https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2) | 3:42 |
-| 35 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
+| 34 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
+| 35 | [Family time](https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Family Time](https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2) | 3:42 |
 | 36 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 37 | [Secure](https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:19 |
 | 38 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 43 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 44 | [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 |
 | 45 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
-| 46 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 |
-| 47 | [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 |
+| 46 | [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 |
+| 47 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 |
 | 48 | [Ale Yi](https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:41 |
 | 49 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 |
 | 50 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 |
 
-Snapshot ID: `asrRgAAAAACPZc7acE82ZaM4E/UxKKVP`
+Snapshot ID: `as10gAAAAAA71AyiB6p6BZtW8mH6PMnX`

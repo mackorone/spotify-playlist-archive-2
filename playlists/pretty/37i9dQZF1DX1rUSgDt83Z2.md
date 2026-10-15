@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,943 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,941 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 31 | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN) | 2:57 |
 | 32 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 33 | [Ons Liedje](https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Ons Liedje](https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U) | 3:02 |
-| 34 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 |
-| 35 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
+| 34 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
+| 35 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 |
 | 36 | [Onzeker Van Liefde](https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 3:11 |
 | 37 | [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 |
 | 38 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 49 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
 | 50 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
 | 51 | [Als je eerlijk bent, Ben](https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Als je eerlijk bent, Ben](https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2) | 2:36 |
-| 52 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
-| 53 | [Meisje](https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Meisje](https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi) | 3:23 |
+| 52 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Wegwerpliefde](https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn) | 3:01 |
+| 53 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
 | 54 | [Er wordt altijd ergens gedanst](https://open.spotify.com/track/0e1WVeOISkkdZyXW47vTUS) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Er wordt altijd ergens gedanst](https://open.spotify.com/album/70wylgcdsrBAxacZfFkDru) | 3:34 |
-| 55 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Wegwerpliefde](https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn) | 3:01 |
+| 55 | [Meisje](https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Meisje](https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi) | 3:23 |
 | 56 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |
 | 57 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 |
 | 58 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 61 | [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 |
 | 62 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
 | 63 | [Tijd Genoeg](https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Tijd Genoeg](https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3) | 2:40 |
-| 64 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 |
-| 65 | [Is Het Gek](https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2) | [SANN!E](https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf), [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Is Het Gek](https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2) | 2:33 |
+| 64 | [Is Het Gek](https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2) | [SANN!E](https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf), [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Is Het Gek](https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2) | 2:33 |
+| 65 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 |
 | 66 | [Wat zou 't mooi zijn](https://open.spotify.com/track/3cCX0zlD1j8ikVrNaCHPTb) | [Erikah Karst](https://open.spotify.com/artist/79jIftYrOfp49Zk9Az8ixK) | [Wat zou 't mooi zijn](https://open.spotify.com/album/1MGoFk5bx8bB5B7kJh7pwd) | 3:04 |
 | 67 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
 | 68 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 79 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 |
 | 80 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 |
 
-Snapshot ID: `AAAAAIRXdTka5ES3i3s3G9wQiJkw1Of6`
+Snapshot ID: `AAAAAJkgDlZSGKA6yhjiRmYZZIxGm/Jt`

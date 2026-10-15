@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,155 likes - 47 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,157 likes - 47 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 20 | [Reckless Love](https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:47 |
 | 21 | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM) | 42:06 |
 | 22 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 |
-| 23 | [Your Fada](https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Your Fada](https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx) | 2:32 |
+| 23 | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr) | 21:10 |
 | 24 | [Absolutely Nothing](https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 3:54 |
-| 25 | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr) | 21:10 |
-| 26 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
+| 25 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
+| 26 | [Your Fada](https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Your Fada](https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx) | 2:32 |
 | 27 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 |
 | 28 | [MERCY](https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [GOOD and MORE](https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu) | 6:11 |
-| 29 | [Dependable God](https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:18 |
-| 30 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
+| 29 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
+| 30 | [Dependable God](https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:18 |
 | 31 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |
 | 32 | [Urhobo/Isoko Worship Medley](https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Urhobo/Isoko Worship Medley](https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY) | 6:03 |
 | 33 | [INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.](https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.](https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb) | 40:52 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 46 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 47 | [Uwese](https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 
-Snapshot ID: `asrRgAAAAAD/7Grjc/iPW8VRa50uRJ1i`
+Snapshot ID: `as10gAAAAAC3ozoLF5220D7nBc9BPpf3`

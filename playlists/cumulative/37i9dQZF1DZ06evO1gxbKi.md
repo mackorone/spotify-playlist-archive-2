@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-180 songs - 8 hr 56 min
+181 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Don't You Weep, o Mary, Don't You Weep \- Remastered](https://open.spotify.com/track/6qrYJC67AjKIdQT2ocorYa) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:30 | 2025-06-13 | 2025-06-25 |
 | [Down by the Riverside](https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 2:51 | 2022-05-25 |  |
 | [Every Time I Feel The Spirit \- Live](https://open.spotify.com/track/4ck7oUwxWNgXmVSsTJQZJQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:42 | 2023-10-01 | 2023-10-11 |
+| [Everybody's Gonna Have A Wonderful Time Up There \(Gospel Boogie\)](https://open.spotify.com/track/42qyhd9ofnURz1MC3pnxzH) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 3](https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T) | 2:44 | 2026-10-15 |  |
 | [Everything To Me \- Live Overdub](https://open.spotify.com/track/5xQEVxGWdPQiCkSJ7gPFTy) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister On Tour](https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO) | 2:31 | 2022-09-20 | 2022-09-22 |
 | [Family Prayer](https://open.spotify.com/track/4m1zv5LLT3fnSCdBsPHTBC) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:40 | 2022-12-23 | 2022-12-25 |
 | [Family Prayer \(Sister Rosetta Tharpe\) \- 2025 Digitally Remastered](https://open.spotify.com/track/7HZylElnh1nm03L7QCPbtM) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 1:55 | 2025-07-08 | 2025-07-09 |

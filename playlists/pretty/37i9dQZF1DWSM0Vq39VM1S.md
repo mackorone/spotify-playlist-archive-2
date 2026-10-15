@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,326 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,321 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,21 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 25 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 26 | [Some Birds Don't Fly](https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Some Birds Don't Fly](https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo) | 3:26 |
 | 27 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 28 | [Paint The Picture](https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Paint The Picture](https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe) | 3:15 |
-| 29 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
+| 28 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
+| 29 | [Paint The Picture](https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Paint The Picture](https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe) | 3:15 |
 | 30 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
 | 31 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
 | 32 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 33 | [Drink the Ocean \(feat\. Oracle Sisters\)](https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 3:52 |
-| 34 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
-| 35 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
+| 34 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
+| 35 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 36 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 37 | [Mornin Dew](https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Satin Psicodelic](https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W) | 5:24 |
 | 38 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 |
-| 39 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
-| 40 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
-| 41 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
-| 42 | [Stranger \- A COLORS SHOW](https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Stranger \- A COLORS SHOW](https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF) | 2:26 |
+| 39 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
+| 40 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 41 | [Stranger \- A COLORS SHOW](https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Stranger \- A COLORS SHOW](https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF) | 2:26 |
+| 42 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
 | 43 | [just us](https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [just us](https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3) | 3:10 |
 | 44 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 45 | [Coming Home](https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Coming Home](https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 59 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
 | 60 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 
-Snapshot ID: `AAAAABhhTlTGFgzuhdvd2Lv4GU7FPJiy`
+Snapshot ID: `AAAAALmge1oSw9D2G8C0NvAPRGPm/ncE`

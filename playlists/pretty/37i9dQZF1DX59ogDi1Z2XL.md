@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,794 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,827 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [BUNCH](https://open.spotify.com/track/6D4rLpNNJzFz8dJGoOfT3J) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [BUNCH](https://open.spotify.com/album/6cEWImUEBWGLyhneQAtkwP) | 2:05 |
 | 100 | [Too Deep For The Outro](https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [The Kaible](https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah) | 3:01 |
 
-Snapshot ID: `AAAAABn2Te4A0ZdODpRI7aJacZOtcSL3`
+Snapshot ID: `AAAAAAarF0tZL35HlYlLPXP+UwfBKBHV`

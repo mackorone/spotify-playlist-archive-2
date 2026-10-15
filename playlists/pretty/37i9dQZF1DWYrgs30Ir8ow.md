@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,189 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,190 likes - 41 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 40 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 41 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 
-Snapshot ID: `AAAAAPK7/gXgvyx2XKdmtF424CYjZCrQ`
+Snapshot ID: `AAAAAGTgpf3xPimbr+Ml5pm3mR6Krp22`

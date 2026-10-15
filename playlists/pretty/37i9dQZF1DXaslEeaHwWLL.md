@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,474 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,501 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 29 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
 | 30 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
 | 31 | [Me Mata](https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Mata](https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI) | 6:52 |
-| 32 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 |
-| 33 | [La Rompe Corazones](https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Rompe Corazones](https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw) | 3:24 |
+| 32 | [La Rompe Corazones](https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Rompe Corazones](https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw) | 3:24 |
+| 33 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 |
 | 34 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 |
 | 35 | [Bebé](https://open.spotify.com/track/0ulsRBiciReng91DhfVT9D) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:50 |
 | 36 | [3 A.M.](https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [3 A.M.](https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 47 | [Dembow](https://open.spotify.com/track/2EzRdhuoPyNJDlep7lnNf2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dembow](https://open.spotify.com/album/5kpilAKnaFNV2DX5ewD7x7) | 3:35 |
 | 48 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
 | 49 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
-| 50 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
+| 50 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV) | 3:47 |
 
-Snapshot ID: `AAAAAG5ULnl7oW9PMndQRSQ7pM4CgAUj`
+Snapshot ID: `AAAAAOQhw2gYi/bDQvKBaphvH5aM6x5X`

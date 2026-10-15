@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 107761,
+  "num_followers": 107777,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDPBK+WCSNCUcT6h5kHRBAwIv3a",
+  "snapshot_id": "AAAAAHzYOSXh5ADgq+HUaEO/sjTC7esM",
   "tracks": [
     {
       "added_at": "2026-09-25 18:55:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "bones",
         "url": "https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 293020,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "When I Get Drunk (I Want You Boy)",
         "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
         "name": "Hollywood Dream (Expanded Edition)",
         "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Love Ruins Everything",
-        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Love Ruins Everything",
-      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 195773,
       "name": "Big Wheel",
       "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
+        "name": "Love Ruins Everything",
+        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Love Ruins Everything",
+      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -1075,6 +1075,22 @@
       "duration_ms": 264256,
       "name": "Ride Lonesome (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
+    },
+    {
+      "added_at": "2026-10-08 20:05:19",
+      "album": {
+        "name": "Stuck on You",
+        "url": "https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o"
+      },
+      "artists": [
+        {
+          "name": "Alex Crichton",
+          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/0dLrM9SueB4RmdxSWEc7fh"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -1161,20 +1177,20 @@
       "url": "https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht"
     },
     {
-      "added_at": "2026-10-08 20:05:19",
+      "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Stuck on You",
-        "url": "https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o"
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb"
       },
       "artists": [
         {
-          "name": "Alex Crichton",
-          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/0dLrM9SueB4RmdxSWEc7fh"
+      "duration_ms": 163360,
+      "name": "6 FEET UNDER",
+      "url": "https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -1191,22 +1207,6 @@
       "duration_ms": 253148,
       "name": "Diane",
       "url": "https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "6 FEET UNDER",
-      "url": "https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom"
     },
     {
       "added_at": "2026-09-25 18:55:30",

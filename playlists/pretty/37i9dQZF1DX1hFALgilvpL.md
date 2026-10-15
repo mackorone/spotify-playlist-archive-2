@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,488 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,629 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
-| 2 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
-| 3 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
+| 2 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
+| 3 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 4 | [Worst Way](https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:40 |
 | 5 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
 | 6 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 |
-| 7 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
+| 7 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
 | 8 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
-| 9 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
+| 9 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
 | 10 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 11 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 12 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 99 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 100 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 |
 
-Snapshot ID: `AAAAAJ+Tw+nP9L0I58Ds3dMJGiJyDMAD`
+Snapshot ID: `AAAAAINH0TQ5GFw9kmNCTIXjPyijbuoe`

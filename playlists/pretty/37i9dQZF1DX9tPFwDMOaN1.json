@@ -1,13 +1,77 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: YENA, NOWIMYOUNG)",
-  "num_followers": 6124862,
+  "description": "The new & hottest K-Pop is here! (Cover: MEOVV)",
+  "num_followers": 6125362,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAH5TNwkRIhqIbgx0Nk8H1EYYMGj",
+  "snapshot_id": "AAAAAKq+w5aSx7FxeKZmmfM4IJWW0Gcn",
   "tracks": [
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
+    },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
@@ -31,18 +95,82 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI"
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw"
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
+    },
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "Fallen Angel (Digital EP)",
+        "url": "https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/1ZyTTzndFMzzZUtOpKaqN7"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+    },
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "I SPY - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "I SPY",
+      "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -63,50 +191,34 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
         }
       ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "GOLDEN HOUR : Part.5",
-        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 156034,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "THE SIN : BLISS",
-        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Bloody Paradise",
-      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
       "added_at": "2026-10-08 04:56:41",
@@ -131,66 +243,18 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "LEMONADE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Fallen Angel (Digital EP)",
-        "url": "https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "FALLEN ANGEL",
-      "url": "https://open.spotify.com/track/1ZyTTzndFMzzZUtOpKaqN7"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "HOME: DELUXE",
-        "url": "https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 146551,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Made My Night",
-        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Made My Night",
-      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -211,82 +275,18 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "THIS & THAT",
-        "url": "https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl"
+        "name": "HOME: DELUXE",
+        "url": "https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 185000,
-      "name": "This & That",
-      "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Unknown Planet",
-        "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Unknown Planet",
-      "url": "https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "CLICK",
-        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "CLICK",
-      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "MAMIHLAPINATAPAI",
-        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 138284,
-      "name": "It's Me",
-      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 182046,
-      "name": "Hooligan",
-      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+      "duration_ms": 146551,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -307,38 +307,6 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "GREENGREEN_playextended",
-        "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 139883,
-      "name": "MONEYMONEYMONEY",
-      "url": "https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "BiiiG",
-        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 164208,
-      "name": "BiiiG",
-      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
         "name": "Good Goodbye",
         "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
       },
@@ -353,36 +321,52 @@
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
     },
     {
-      "added_at": "2026-10-02 09:00:20",
+      "added_at": "2026-10-14 04:37:52",
       "album": {
-        "name": "SCENEDROME",
-        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+        "name": "IMPULSE",
+        "url": "https://open.spotify.com/album/5KBVJq6jXRyLg9d0OJuy8f"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 181560,
-      "name": "LOVE ATTACK",
-      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+      "duration_ms": 195540,
+      "name": "Obsessed with Youth",
+      "url": "https://open.spotify.com/track/4H0NRY1CSAKgV7przexSxY"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "SYNK : aeXIS LINE - 2026 Special Digital Single",
-        "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG"
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Serenade (KARINA & WINTER)",
-      "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -399,6 +383,102 @@
       "duration_ms": 163001,
       "name": "REDRED",
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "BOYFRIEND",
+        "url": "https://open.spotify.com/album/20HcvlMoE3Y75MEkG7kATP"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "BOYFRIEND",
+      "url": "https://open.spotify.com/track/0Yyh9XpPntsMhbJcC80VfH"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "GREENGREEN_playextended",
+        "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 139883,
+      "name": "MONEYMONEYMONEY",
+      "url": "https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -427,18 +507,66 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "PHASE 1 : Soft Violence",
-        "url": "https://open.spotify.com/album/00x0WXx4DSdWFst0Opd6Jz"
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 175000,
-      "name": "FLOAT",
-      "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "Unknown Planet",
+        "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Unknown Planet",
+      "url": "https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s"
+    },
+    {
+      "added_at": "2026-10-02 09:00:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 170560,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/7JcBMmZu2brnM7M9PZmwYL"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -459,50 +587,50 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 195935,
-      "name": "DDI RO RI",
-      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+        "name": "SYNK : aeXIS LINE - 2026 Special Digital Single",
+        "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+      "duration_ms": 185000,
+      "name": "Serenade (KARINA & WINTER)",
+      "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "'PUREFLOW', Pt. 1",
-        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+        "name": "SUGAR HONEY ICE TEA",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 176546,
-      "name": "BOOMPALA",
-      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+      "duration_ms": 178032,
+      "name": "SUGAR HONEY ICE TEA",
+      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -527,178 +655,18 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "SUGAR HONEY ICE TEA",
-        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
+        "name": "PHASE 1 : Soft Violence",
+        "url": "https://open.spotify.com/album/00x0WXx4DSdWFst0Opd6Jz"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 178032,
-      "name": "SUGAR HONEY ICE TEA",
-      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "We made",
-        "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Gimme Dat Love",
-      "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "\ucda4 (CHOOM)",
-        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "RUN IT",
-        "url": "https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "RUN IT",
-      "url": "https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Velvet Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Surfin' Boy",
-      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 169929,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "One - Spotify Singles",
-        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
-      },
-      "artists": [
-        {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "One - Spotify Singles",
-      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Glow ME",
-        "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Vitamin ME",
-      "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "TUNE & PLAY",
-        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
-      },
-      "artists": [
-        {
-          "name": "TUIDE",
-          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "SUN KISS",
-      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 170560,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/7JcBMmZu2brnM7M9PZmwYL"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "OriginaLyn",
-        "url": "https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "ChecK",
-      "url": "https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk"
+      "duration_ms": 175000,
+      "name": "FLOAT",
+      "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
     },
     {
       "added_at": "2026-10-02 09:00:20",
@@ -719,56 +687,72 @@
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "Lemon Tang - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+        "name": "OriginaLyn",
+        "url": "https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Lemon Tang",
-      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+      "duration_ms": 158000,
+      "name": "ChecK",
+      "url": "https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
+        "name": "We made",
+        "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp"
       },
       "artists": [
         {
-          "name": "EVAN",
-          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 135559,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
+      "duration_ms": 146880,
+      "name": "Gimme Dat Love",
+      "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "\ucda4 (CHOOM)",
-        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+        "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 206586,
-      "name": "I LIKE IT",
-      "url": "https://open.spotify.com/track/7vKgGaEDN3shr8HBlCbIWg"
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
+    },
+    {
+      "added_at": "2026-10-14 04:37:52",
+      "album": {
+        "name": "DEAD:ALIVE",
+        "url": "https://open.spotify.com/album/0gWgNvFV0YTgvjnQtZ6luq"
+      },
+      "artists": [
+        {
+          "name": "SUNGHANBIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/4THREzrCR5aHcBvRWlXRpw"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
       "artists": [
         {
@@ -776,57 +760,57 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "\u2161 - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU"
+        "name": "Velvet Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Do your dance",
-      "url": "https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS"
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "CHAT",
-        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+        "name": "Glow ME",
+        "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
       },
       "artists": [
         {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 171958,
-      "name": "CHAT",
-      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
+      "duration_ms": 190000,
+      "name": "Vitamin ME",
+      "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
     },
     {
       "added_at": "2026-10-02 09:00:20",
       "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+        "name": "One - Spotify Singles",
+        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
         }
       ],
-      "duration_ms": 178603,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+      "duration_ms": 165000,
+      "name": "One - Spotify Singles",
+      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

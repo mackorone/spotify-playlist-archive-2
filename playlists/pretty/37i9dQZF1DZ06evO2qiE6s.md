@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,405 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,417 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 6 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
 | 7 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:27 |
 | 8 | [On An Evening In Roma \(Sott'er Celo De Roma\) \- Remastered 1998](https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:31 |
-| 9 | [Buona Sera \- 1998 Digital Remaster](https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:21 |
-| 10 | [Blue Moon](https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:07 |
+| 9 | [Blue Moon](https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:07 |
+| 10 | [Buona Sera \- 1998 Digital Remaster](https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:21 |
 | 11 | [Heaven Can Wait \- Remastered 1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 |
 | 12 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 |
 | 13 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
 | 50 | [Luna Mezzo Mare](https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:08 |
 
-Snapshot ID: `asrRgAAAAACbnRA6O8eafIBBEPP+rRWQ`
+Snapshot ID: `as10gAAAAACy/L78CfHXdO3s9WOBvjS2`

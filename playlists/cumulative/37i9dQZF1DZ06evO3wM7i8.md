@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 26 min
+111 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [My Melancholy Baby](https://open.spotify.com/track/7lq8o4DEGJU9lJnDrHKB9B) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 | 2025-08-17 |
 | [My Melancholy Baby](https://open.spotify.com/track/7qcXGDzIkRUjfm7r75XW0k) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:48 | 2026-08-21 |  |
 | [My Serenade](https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 3:02 | 2025-07-20 |  |
+| [Nagasaki](https://open.spotify.com/track/1P08botqMPXCz5isAtNKAc) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/1j4Rgo2BjoCEXdlLj3Y1Gb) | [Les chansons d'or](https://open.spotify.com/album/3iBvktnN7MxDUUl4wYbVIU) | 2:51 | 2026-10-15 |  |
 | [Nagasaki](https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:51 | 2025-07-20 | 2026-09-18 |
 | [Naguine](https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:29 | 2025-07-20 |  |
 | [Night And Day \- 1953 Version](https://open.spotify.com/track/10wKynDmEhY6lt5sKENEIf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Nuages](https://open.spotify.com/album/7rDE7DrM8A80tlL4lpUaxR) | 2:51 | 2026-08-26 | 2026-08-27 |
@@ -109,7 +110,7 @@
 | [Tiger Rag](https://open.spotify.com/track/3iRWijS2XTHffTS0xOQWkY) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Andre Ekyan](https://open.spotify.com/artist/1pOFlNEK2vIUCacdFXFHMe) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:33 | 2026-08-26 | 2026-08-27 |
 | [To Each His Own \(Symphonie\)](https://open.spotify.com/track/3PVFKkVksFKRJkmHCvCOjW) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 3:04 | 2026-08-26 | 2026-08-27 |
 | [Topsy](https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:05 | 2025-08-19 | 2026-06-19 |
-| [Topsy](https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 3:05 | 2026-06-19 |  |
+| [Topsy](https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 3:05 | 2026-06-19 | 2026-10-15 |
 | [Topsy](https://open.spotify.com/track/7Gj5OjTc4riTgEL1C0dhws) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:05 | 2025-07-20 | 2025-08-19 |
 | [Topsy](https://open.spotify.com/track/6aXi1ZsvCMVAgRjKKYek07) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Django's Blues](https://open.spotify.com/album/5NhcHhsaMzLbLxKFQc4P73) | 3:07 | 2026-08-26 | 2026-08-27 |
 | [Tornerai \(J'attendrai\)](https://open.spotify.com/track/4Ka5krmfRuHNBYXJ6jV0C7) | [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Reinhardt, Django: Django Reinhardt \(1938\-1939\)](https://open.spotify.com/album/2ifUISRaHb1iVcqD8ypjIJ) | 2:40 | 2025-07-20 | 2025-07-30 |

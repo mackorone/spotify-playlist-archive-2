@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606,883 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,606,762 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 39 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 40 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 41 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
-| 42 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
-| 43 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
+| 42 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
+| 43 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 44 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 |
 | 45 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
 | 46 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 94 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 |
 | 95 | [Hot Stuff](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Hot Stuff](https://open.spotify.com/album/6t95dMgjNYMtwXTKlISI42) | 3:19 |
 | 96 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
-| 97 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
-| 98 | [Anywhere](https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Anywhere](https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G) | 3:35 |
+| 97 | [Anywhere](https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Anywhere](https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G) | 3:35 |
+| 98 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 99 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 100 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
 
-Snapshot ID: `AAAAANm+DlYfdGPHs459k7cnJs6SMzEq`
+Snapshot ID: `AAAAAO4Am+22ohfSKMOhYHEdzYQOHr5G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,881,050 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,881,271 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 37 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 38 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
 | 39 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
-| 40 | [HAAVIN](https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HAAVIN](https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm) | 2:30 |
-| 41 | [I'm a Dog](https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm a Dog](https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ) | 2:28 |
-| 42 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
+| 40 | [I'm a Dog](https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm a Dog](https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ) | 2:28 |
+| 41 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
+| 42 | [HAAVIN](https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HAAVIN](https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm) | 2:30 |
 | 43 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 44 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 45 | [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
 | 76 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
 
-Snapshot ID: `AAAAAPMYr+NIq6ew0pJwAKw3S9NTFPtp`
+Snapshot ID: `AAAAADVPNTpIXN+6BkHF2HIX5UukYjDn`

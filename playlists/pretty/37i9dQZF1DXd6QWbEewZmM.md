@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,598 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,667 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 53 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
 | 54 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 55 | [Dame Amor \- Remix](https://open.spotify.com/track/1tRogguj9jao4OQMrWoxzu) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Dame Amor \(Remix\)](https://open.spotify.com/album/5jeAHqUbXmNPkgALTXex3a) | 3:27 |
-| 56 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
-| 57 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
+| 56 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
+| 57 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
 | 58 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 |
 | 59 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |
 | 60 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 65 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 66 | [Tu Forma De Ser](https://open.spotify.com/track/1y37LxehbizxpfjqE6dbFC) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Tu Forma De Ser](https://open.spotify.com/album/5Sv5NVXo059Wwim69ipap2) | 3:07 |
 | 67 | [Dame Un Segundo](https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Dame Un Segundo](https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO) | 2:34 |
-| 68 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
+| 68 | [VIAJA CONMIGO](https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 3:21 |
 | 69 | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje) | 2:30 |
-| 70 | [VIAJA CONMIGO](https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 3:21 |
+| 70 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 71 | [MALIBU](https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Vision](https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo) | 3:05 |
 | 72 | [Sin Fin](https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Sin Fin](https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk) | 2:52 |
 | 73 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 94 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 95 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
 | 96 | [Tu Nueva Etapa](https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Tu Nueva Etapa](https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1) | 2:55 |
-| 97 | [Olvidarte No Sera Sencillo](https://open.spotify.com/track/33mS2YsMsq5XHMdahFzeCF) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Olvidarte No Sera Sencillo](https://open.spotify.com/album/56Wwx7vE4gWj62iQiqtkJP) | 3:08 |
-| 98 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
+| 97 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
+| 98 | [Olvidarte No Sera Sencillo](https://open.spotify.com/track/33mS2YsMsq5XHMdahFzeCF) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Olvidarte No Sera Sencillo](https://open.spotify.com/album/56Wwx7vE4gWj62iQiqtkJP) | 3:08 |
 | 99 | [Sin Ti](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Sin Ti](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 |
 | 100 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
 
-Snapshot ID: `AAAAAC9wkebanRxYG+3nPBqMkvcEOd5c`
+Snapshot ID: `AAAAADKljW+y6ZgBjZn0weaAYNh4S2fJ`

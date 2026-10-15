@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > beabadoobee along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,542 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,567 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 79 | [Better](https://open.spotify.com/track/0gC4LKvKNxHTcpzlli1pfo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:40 |
 | 80 | [Run Away](https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI) | 3:39 |
 
-Snapshot ID: `AAAAAB9xDdZ/Msh4OCewY2VYSmM/tqJE`
+Snapshot ID: `AAAAADCz2vQfAwCqGHa2K/8y39l3G9Dz`

@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 215658,
       "name": "Frozen Ice",
       "url": "https://open.spotify.com/track/1VtkV6XZDHEqjeNIGl8eJC"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 167927,
       "name": "Hit em up",
       "url": "https://open.spotify.com/track/3hIlHC3TNC3rB5Bb1duN2q"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 210120,
       "name": "Make it",
       "url": "https://open.spotify.com/track/4QWiPz32r5aabLegsZxPxD"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 205920,
       "name": "New \uff06 Classic",
       "url": "https://open.spotify.com/track/6pkYkpcB1VbexZRe7Epz3o"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 259693,
       "name": "ROWDIEZ - \u60aa\u6f22\u5974\u7b49 Wanted Vibes-",
       "url": "https://open.spotify.com/track/1zpEnLXTatOpkqPZOmaWqJ"
@@ -3346,6 +3346,24 @@
       "duration_ms": 231386,
       "name": "\u30ae\u30e9\u30ae\u30e9CANDY NIGHT",
       "url": "https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH"
+    },
+    {
+      "album": {
+        "name": "Paradox Live covers \u201cPROPS\u201d",
+        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255874,
+      "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/1qN2eSYDLVbxAHkRedxi3Z"
     },
     {
       "album": {

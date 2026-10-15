@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,107 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,110 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 44 | [085 RMX](https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [085 RMX](https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK) | 2:43 |
 | 45 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
 | 46 | [JOGO PERIGOSO](https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:45 |
-| 47 | [Chama Amor](https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Murilo e LT](https://open.spotify.com/artist/4ArCQN20tAPY2ApGtOHL9z) | [MOSAICO](https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL) | 3:25 |
-| 48 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
-| 49 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
+| 47 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
+| 48 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
+| 49 | [Chama Amor](https://open.spotify.com/track/4g515j0CON9I9Dla4uYSXk) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Murilo e LT](https://open.spotify.com/artist/4ArCQN20tAPY2ApGtOHL9z) | [MOSAICO](https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL) | 3:25 |
 | 50 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 |
 
-Snapshot ID: `asrRgAAAAAAyY5eOKJWvOdKjUXJk+X+N`
+Snapshot ID: `as10gAAAAAACV6uLQ9SZXbNI8QxzBx83`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,713 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,712 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 25 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
 | 26 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
 | 27 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 28 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
-| 29 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
+| 28 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
+| 29 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 30 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
 | 31 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 |
 | 32 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 39 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 40 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0byuRCilUoNe3rKG8VKCx8) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 3:11 |
 | 41 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
-| 42 | [Letting Go](https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Letting Go](https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd) | 2:34 |
-| 43 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 |
+| 42 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 |
+| 43 | [Letting Go](https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Letting Go](https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd) | 2:34 |
 | 44 | [Don't Stop Believing](https://open.spotify.com/track/2cPPd2bGMjuxUcYPA2Y7fh) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Don't Stop Believing](https://open.spotify.com/album/7lioeM9YLlGipkbkfFxS3R) | 4:11 |
 | 45 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
 | 46 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 51 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 52 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 |
 | 53 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 54 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
-| 55 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 54 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
+| 55 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 56 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 |
-| 57 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 |
-| 58 | [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 |
+| 57 | [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 |
+| 58 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 |
 | 59 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
 | 60 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
 | 61 | [Best Part](https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Best Part](https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc) | 4:40 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 63 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
 | 64 | [Seventeen](https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Seventeen](https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3) | 3:02 |
 | 65 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
-| 66 | [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 |
-| 67 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 |
+| 66 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 |
+| 67 | [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 |
 | 68 | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr) | 3:00 |
 | 69 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 |
 | 70 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 75 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 
-Snapshot ID: `AAAAALycvS+eI8zDwkiNGA43ormWFPXw`
+Snapshot ID: `AAAAAG9pczA7TZ8jKqKYz9n6GGKiJH0V`

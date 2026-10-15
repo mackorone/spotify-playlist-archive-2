@@ -4,7 +4,7 @@
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-147 songs - 9 hr 56 min
+148 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [My summer](https://open.spotify.com/track/5roWFxDJLbmljd43129Rbi) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 4:02 | 2026-02-18 | 2026-04-04 |
 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2025-10-26 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2025-10-26 |  |
+| [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2026-08-24 |  |
 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 | 2026-04-16 |  |
 | [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:54 | 2025-10-26 |  |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-10-26 |  |
@@ -48,7 +49,7 @@
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2025-10-26 |  |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2025-10-26 | 2026-04-08 |
 | [With Love feat\. luv](https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [With Love feat\. luv](https://open.spotify.com/album/4Ch4vtFwX7f5QZPaSm8fFo) | 2:44 | 2026-04-03 | 2026-05-09 |
-| [いいんですか?](https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:08 | 2025-11-27 |  |
+| [いいんですか?](https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:08 | 2025-11-27 | 2026-10-15 |
 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 | 2025-10-26 | 2026-01-15 |
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-10-26 |  |
 | [おはよう](https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [おはよう](https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU) | 3:48 | 2026-04-17 |  |

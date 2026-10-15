@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Cherry Chola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,131 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,135 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [MOST NORMAL AMERICAN VOTER:](https://open.spotify.com/track/1ZFViiRzWZa2iWImM9HN7a) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 2:36 |
 | 75 | [Heat](https://open.spotify.com/track/1nDlFgDg3b4kYGWr8wEaUV) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 8:18 |
 
-Snapshot ID: `AAAAAMRLPpOsRa+kFZrhhF8a71UakWPq`
+Snapshot ID: `AAAAABdGl5ESFCl2k/fgqezslnCM6/uA`

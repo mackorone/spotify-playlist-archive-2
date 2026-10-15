@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: JustJaewin\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Shahera Sam\. Artwork: Isu Kim.
 
 1,529 songs - 3 day 11 hr 52 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,783 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 41 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
 | 42 | [Para Ti](https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:09 |
 | 43 | [nostalgia](https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [\(nostalgia\)](https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A) | 3:24 |
-| 44 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
-| 45 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
+| 44 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
+| 45 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 46 | [En El Olvido](https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:26 |
 | 47 | [Xclusiva](https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU) | 2:21 |
 | 48 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
 | 49 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
-| 50 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
+| 50 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 |
 
-Snapshot ID: `AAAAAEcHMBAdiDQFjWaSudssSJpjHGbm`
+Snapshot ID: `AAAAAIaDgLxYs9T2JuiST4N4kgMq3+VM`

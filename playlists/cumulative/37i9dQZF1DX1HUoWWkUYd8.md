@@ -4,7 +4,7 @@
 
 > Polaroids, clackers and wooden box TV's, this one's for you!
 
-87 songs - 6 hr 2 min
+88 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 | 2024-03-26 |  |
 | [Heart Of Glass](https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:12 | 2024-03-26 |  |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2024-03-26 |  |
+| [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2024-03-26 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 | 2024-03-26 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 | 2024-03-26 |  |
 | [I Want To Break Free](https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:43 | 2024-03-26 | 2026-07-31 |
@@ -63,7 +64,7 @@
 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 | 2024-03-26 |  |
 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 | 2024-03-26 |  |
 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 | 2024-03-26 | 2026-04-21 |
-| [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 | 2024-03-26 |  |
+| [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 | 2024-03-26 | 2026-10-15 |
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2024-03-26 |  |
 | [Shattered Dreams \- Remastered 2008](https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 3:27 | 2024-03-26 |  |
 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 | 2024-03-26 |  |

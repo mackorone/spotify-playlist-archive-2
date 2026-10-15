@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Ilusion Eterno 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,265 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,209 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [El Refinado](https://open.spotify.com/track/7lHYGNQMwyvXEbLogOK23u) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t) | [El Refinado](https://open.spotify.com/album/6s8rxyqHQOhYL3guAD1q8Z) | 3:28 |
 | 50 | [Ambient Wife](https://open.spotify.com/track/1JJYq4ldYTxkJLljbf1uMT) | [Corridos Ketamina](https://open.spotify.com/artist/3nq0g26tVyMEbdGDgYayF1) | [Ambient Wife](https://open.spotify.com/album/0WhwIMlY9xAZoVnuIGh7td) | 3:17 |
 
-Snapshot ID: `AAAAALdnXNWxw+KS6opnBCgrmVe/B5L3`
+Snapshot ID: `AAAAAE4vjM90TowHEYD9JbH5KidC89+G`

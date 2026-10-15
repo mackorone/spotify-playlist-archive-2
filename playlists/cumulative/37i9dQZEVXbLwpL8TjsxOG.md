@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,683 songs - 4 day 1 hr 19 min
+1,684 songs - 4 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-12 | 2025-01-03 |
 | [Good Night Marie](https://open.spotify.com/track/3jOdJJu8JlYec6BMiMHOyQ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 3:09 | 2024-03-20 | 2024-03-31 |
 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 | 2025-05-23 | 2025-05-26 |
+| [goofy](https://open.spotify.com/track/1vKAiIADzfg8yTnZIV4wlV) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [goofy](https://open.spotify.com/album/0ABVbMaLderU71g6uR9FU1) | 3:00 | 2026-10-14 |  |
 | [Got U](https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Got U](https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0) | 2:52 | 2022-05-06 | 2023-07-20 |
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-01 | 2022-06-07 |
 | [Greatest Works of Art](https://open.spotify.com/track/6kbc35XZMhs9y9SEpAJKLJ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/014D4QX0zLjN25inbVf8SL) | 4:04 | 2022-07-09 | 2022-07-16 |
@@ -513,7 +514,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2025-12-28 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 | 2024-12-25 | 2024-12-27 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-05-08 | 2021-10-08 |
-| [It’s Ū](https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [It’s Ū](https://open.spotify.com/album/25kiFb6DT1SFoafMgcQxqS) | 2:51 | 2026-08-24 |  |
+| [It’s Ū](https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [It’s Ū](https://open.spotify.com/album/25kiFb6DT1SFoafMgcQxqS) | 2:51 | 2026-08-24 | 2026-10-15 |
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-11-20 | 2025-11-04 |
 | [I’ll Be There](https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 3:01 | 2024-11-21 | 2024-11-23 |
 | [I’m Fine, Thx.](https://open.spotify.com/track/5shbtf9Q9Wx1DQ3bNoF3TH) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:41 | 2021-06-09 | 2021-06-12 |
@@ -808,7 +809,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-29 | 2024-08-19 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-03-27\* | 2021-03-29 |
 | [Rope It](https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:45 | 2025-05-17 | 2025-10-22 |
-| [Rude Boy](https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 2:58 | 2025-12-05 | 2026-09-25 |
+| [Rude Boy](https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 2:58 | 2025-12-05 |  |
 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-03-13 | 2026-05-05 |
 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-22 | 2026-05-13 |
 | [Ruin The Friendship](https://open.spotify.com/track/1ZbSww1TszeuJOtsdMZQv1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:40 | 2025-10-08 | 2025-10-10 |
@@ -971,7 +972,7 @@
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-04 | 2023-04-07 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-10 | 2025-05-08 |
 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 | 2024-04-20 | 2024-04-24 |
-| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 |  |
+| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2026-10-15 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-11 | 2024-03-21 |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-15 | 2023-01-20 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 | 2023-12-25 | 2025-12-28 |

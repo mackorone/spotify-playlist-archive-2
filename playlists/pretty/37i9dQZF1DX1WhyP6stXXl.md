@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,758 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,715 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [Don't Make Them Like Me](https://open.spotify.com/track/4xAIC3X3mntqjiiVbHZhUg) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Don't Make Them Like Me](https://open.spotify.com/album/5sNXI90Gvb0VPcW7HSGKQf) | 3:43 |
 | 90 | [Angel Numbers](https://open.spotify.com/track/5skmzVBQBYRPDJqJfPd426) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Girl Land](https://open.spotify.com/album/0mc3Z3NKHNdbEKrO6sePLp) | 2:52 |
 
-Snapshot ID: `AAAAALzSqjed/7mEkQFiUmOgC4WjTTEo`
+Snapshot ID: `AAAAANL93jNv9p5uctMh8ZzCe7MBW7/g`

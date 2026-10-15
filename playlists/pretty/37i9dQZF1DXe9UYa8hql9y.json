@@ -1,12 +1,12 @@
 {
   "description": "Pura rolita pa' empedar con la plebada ",
-  "num_followers": 138036,
+  "num_followers": 138082,
   "original_name": "LA PEDA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExEK22giVqabE+riBSsKm5xX+b8",
+  "snapshot_id": "AAAAAEvmK8mpEeA7lt5+8zDwJv2iGywg",
   "tracks": [
     {
       "added_at": "2026-10-09 06:00:26",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2026-10-09 06:00:26",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-10-09 06:00:26",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
-    },
-    {
-      "added_at": "2026-10-09 06:00:26",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "added_at": "2026-10-09 06:00:26",
+      "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
+      "duration_ms": 189333,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
+        "name": "No Quiere Salir",
+        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "No Quiere Salir",
+      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
+    },
+    {
+      "added_at": "2026-10-09 06:00:26",
+      "album": {
         "name": "No Capea",
         "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
       },
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "No Quiere Salir",
-        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Asmed",
-          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "No Quiere Salir",
-      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
-    },
-    {
-      "added_at": "2026-10-09 06:00:26",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2026-10-09 06:00:26",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1443,22 +1427,18 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1479,6 +1459,26 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2026-10-09 06:00:26",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2026-10-09 06:00:26",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-10-09 06:00:26",
       "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
-    },
-    {
-      "added_at": "2026-10-09 06:00:26",
-      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-10-09 06:00:26",
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-10-09 06:00:26",

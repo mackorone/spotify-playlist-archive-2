@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2000 Miles - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/4dEwGrcucC4SyfXviDQSlf"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "2000 Miles - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1HftwnsmpwF97Q3hnbyYWg"
+    },
+    {
+      "album": {
         "name": "8 Days Of Christmas",
         "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
       },
@@ -1259,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7t09nW9EJhj2oaOH8QbHxV"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195901,
+      "name": "Have Yourself a Merry Little Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6liolbDYbru5D2WdNOWpoQ"
+    },
+    {
+      "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 203653,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
@@ -2334,6 +2370,24 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Darling (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Merry Christmas Darling - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/4ukTFyAEnLtqAYC1uw57aD"
     },
     {
       "album": {
@@ -3524,7 +3578,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co"
@@ -4458,7 +4512,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 144253,
       "name": "Winter Wonderland - Remastered 2006",
       "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"

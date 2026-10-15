@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : DRE\-A
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,392 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,440 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FAUT PAS TOUCHER](https://open.spotify.com/track/0I9MLtFI9xuo7w1qXWpOD1) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [FAUT PAS TOUCHER](https://open.spotify.com/album/41SvrLuz8a0V02EQccmCpl) | 2:32 |
+| 1 | [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/track/5Jd0oYxwk9CMI9JqP45qfo) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [freestyle baddies 1: Jeep rose bonbon](https://open.spotify.com/album/39oG1zta6zE6rU4zNgLidM) | 1:45 |
 | 2 | [DJOROBITE](https://open.spotify.com/track/3cBUbK4zqkC3U2NcHK0Ugm) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:53 |
 | 3 | [OKULU](https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 2:58 |
 | 4 | [BAHI \(feat\. OG Mahilet\)](https://open.spotify.com/track/6AbNKW8w5Vu5QAxvWevJqz) | [Wantché](https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT) | [BAHI \(feat\. OG Mahilet\)](https://open.spotify.com/album/0XA9mBDULejjfUvQIcpOtf) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [FGLM](https://open.spotify.com/track/28OC9fRC71m4Oij5HiuHcz) | [Andy S](https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK) | [FGLM](https://open.spotify.com/album/3pqnLnDcnJyXAjbLc0X9UM) | 2:27 |
 | 50 | [ZÉLÉ](https://open.spotify.com/track/0jLi5SgjahwWtjLpswWogi) | [9K YNZ](https://open.spotify.com/artist/0URfErBlJnxhfxx3HSJmU4), [Big Chekete](https://open.spotify.com/artist/0mNLP348eMWipFY26v9WYu) | [ZÉLÉ](https://open.spotify.com/album/4inhW8gDba8UvcuuU10Scj) | 2:20 |
 
-Snapshot ID: `AAAAAGIAGdkuNmJRfZFCX+bkwOe2oobu`
+Snapshot ID: `AAAAAKZZXm5LQaQI6/nZhtc9RMr1QIn4`

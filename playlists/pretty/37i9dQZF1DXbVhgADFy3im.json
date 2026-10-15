@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1364025,
+  "num_followers": 1364484,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1rflGvzwZXkcDkZMgmfT9Isrxd",
+  "snapshot_id": "AAAAAGlEtsn9u4GvXiuK8H1FmoXnFUIj",
   "tracks": [
     {
       "added_at": "2026-10-07 09:33:07",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
+        "name": "AUJLA SZN 1",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Ashke",
+      "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 318217,
       "name": "Tum Ho Toh (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
-        "name": "AUJLA SZN 1",
-        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
-        }
-      ],
-      "duration_ms": 217625,
-      "name": "Ashke",
-      "url": "https://open.spotify.com/track/5vTJrmnmJMAvFjrUpUWxyy"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "Boom Shaka",
-        "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
-      },
-      "artists": [
-        {
-          "name": "KR$NA",
-          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
-        },
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "Boom Shaka",
-      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 180000,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "Boom Shaka",
+      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "Barbaad (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        }
-      ],
-      "duration_ms": 357127,
-      "name": "Barbaad (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -627,6 +607,46 @@
       "duration_ms": 160796,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Barbaad (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "duration_ms": 357127,
+      "name": "Barbaad (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -651,26 +671,6 @@
       "duration_ms": 161250,
       "name": "Udi Udi",
       "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
         "name": "Best of Romance: Atif Aslam",
         "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
@@ -859,30 +859,6 @@
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
-        "name": "Kailasa",
-        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "Paresh Kamath",
-          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
-        },
-        {
-          "name": "Naresh Kamath",
-          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Teri Deewani",
-      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -907,6 +883,30 @@
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "duration_ms": 323520,
+      "name": "Teri Deewani",
+      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
-      },
-      "artists": [
-        {
-          "name": "Jind Universe",
-          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
-        }
-      ],
-      "duration_ms": 140250,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 155820,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
+      },
+      "artists": [
+        {
+          "name": "Jind Universe",
+          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
+        }
+      ],
+      "duration_ms": 140250,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "Kashish",
-        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
-      },
-      "artists": [
-        {
-          "name": "Ashish Bhatia",
-          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
-        },
-        {
-          "name": "Omkar Singh",
-          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
-        },
-        {
-          "name": "Kashish Ratnani",
-          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Kashish",
-      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "Mirzapur",
         "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 197142,
       "name": "Russian Bandana",
       "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Kashish",
+        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
+      },
+      "artists": [
+        {
+          "name": "Ashish Bhatia",
+          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
+        },
+        {
+          "name": "Omkar Singh",
+          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
+        },
+        {
+          "name": "Kashish Ratnani",
+          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Kashish",
+      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
+        "name": "Naam Chale",
+        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "duration_ms": 149375,
+      "name": "Naam Chale",
+      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
         "name": "Yeh Awarapan (From \"Awarapan 2\")",
         "url": "https://open.spotify.com/album/5xahy2Tzi8r1KbjVeOM0fd"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 298144,
       "name": "Yeh Awarapan (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
-        "name": "Naam Chale",
-        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
-      },
-      "artists": [
-        {
-          "name": "Vikram Sarkar",
-          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
-        }
-      ],
-      "duration_ms": 149375,
-      "name": "Naam Chale",
-      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
     },
     {
       "added_at": "2026-10-07 09:33:07",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-10-07 09:33:07",
       "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
-    },
-    {
-      "added_at": "2026-10-07 09:33:07",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 220733,
       "name": "Rasputin - Single Version",
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": "2026-10-07 09:33:07",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
       "added_at": "2026-10-07 09:33:07",

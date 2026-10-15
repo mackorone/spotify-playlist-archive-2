@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Favo and more
 
-346 songs - 13 hr 27 min
+347 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Hard Times](https://open.spotify.com/track/4jwW9bNxx84FiE22yN293I) | [BBE Spazz](https://open.spotify.com/artist/6BPALNcunGApURCYG3IEd9) | [Liber Regum](https://open.spotify.com/album/6lb6pZDW0pltXcApw96zml) | 2:30 | 2026-07-04 | 2026-07-05 |
 | [Hard To Stay Mad…](https://open.spotify.com/track/3LeV2aYr66AdjEw7UEeqjp) | [Reemo](https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE) | [The Art Of Hooping](https://open.spotify.com/album/4W7vILQjCKfwo7uXbFvliQ) | 2:45 | 2026-09-25 | 2026-10-03 |
 | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz) | 1:51 | 2026-02-10 | 2026-08-08 |
-| [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 |  |
+| [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 | 2026-10-15 |
 | [havin](https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it) | [Slump Audios](https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE), [pink6](https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv), [DJ BANNED](https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd), [Chris Finesse Exclusives](https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI) | [havin](https://open.spotify.com/album/3BhlxsEpeLYBYlD3oUJ7xb) | 1:55 | 2026-09-08 |  |
 | [Hella Vibes \(feat TSAN\)](https://open.spotify.com/track/7ckQz5pK4N02ppA23PgW7Q) | [Dsaint](https://open.spotify.com/artist/1FEQirb937ThSgTB386hwi) | [Hella Vibes \(feat TSAN\)](https://open.spotify.com/album/4nI306COmaUP1Rdg4xh3nv) | 1:56 | 2026-05-08 | 2026-05-20 |
 | [Higher Than Yall \- feat\. KARRAHBOOO](https://open.spotify.com/track/5NpzNMgZJYcgDf7ay92fsw) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [IN MY GLORY](https://open.spotify.com/album/4RZllnrxIvTP1BKSa9SnOI) | 2:17 | 2025-11-29 | 2025-12-09 |
@@ -147,6 +147,7 @@
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
+| [idm](https://open.spotify.com/track/0idGfkfDjVtLwRv4mWDIgW) | [Corbwtf](https://open.spotify.com/artist/2aJYZdIWiiM8ACcWi08hRp), [ayerp](https://open.spotify.com/artist/2SZYtMPDP304h1y7fMlAkC), [kantstressk](https://open.spotify.com/artist/6Ls6tuzIJ7325qcMcPRmxU) | [idm](https://open.spotify.com/album/5bbtt3Fxv0lzNr7zG516Zx) | 2:22 | 2026-10-15 |  |
 | [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 | 2026-09-27 |
 | [In the mix \(be here\)](https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [In the mix \(be here\)](https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY) | 5:09 | 2026-04-14 | 2026-05-07 |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
@@ -179,7 +180,7 @@
 | [LUV](https://open.spotify.com/track/5DQOlnAitaKUnljhULj4x6) | [dopemine!](https://open.spotify.com/artist/7uFWa3pAlFXOfe7IKzfjZL) | [LUV](https://open.spotify.com/album/2SwzaR0R4v0atLknE0jGFt) | 1:55 | 2026-01-21 | 2026-01-31 |
 | [LUXURY](https://open.spotify.com/track/2W701EZmgjPgpYiPvPv56M) | [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [LUXURY](https://open.spotify.com/album/0ZZwesgpXwhNnMqtwKd2wP) | 2:33 | 2025-12-10 | 2025-12-14 |
 | [LV Coffin](https://open.spotify.com/track/16KjM3gLHLbp6efqJGKiZF) | [Keharo](https://open.spotify.com/artist/3ezpkUkrRehuShQ4uBt65u), [S1lenthour](https://open.spotify.com/artist/5nb3ejl2phjXOlEk6Pnj9H), [snowy!](https://open.spotify.com/artist/3GHjEDmm0PKHeyndsTMSfU) | [LV Coffin](https://open.spotify.com/album/7yXmn8MXf9K0lfBMlOjX3e) | 1:55 | 2026-02-26 | 2026-03-11 |
-| [Man Down](https://open.spotify.com/track/0nxOutkvYuKvhviyIQ1QMx) | [takemeback](https://open.spotify.com/artist/4paXfz4X44FEgQ4l6zVL4C) | [Man Down](https://open.spotify.com/album/7dku9VTD8d1MWrztu1dsF7) | 3:02 | 2026-09-13 |  |
+| [Man Down](https://open.spotify.com/track/0nxOutkvYuKvhviyIQ1QMx) | [takemeback](https://open.spotify.com/artist/4paXfz4X44FEgQ4l6zVL4C) | [Man Down](https://open.spotify.com/album/7dku9VTD8d1MWrztu1dsF7) | 3:02 | 2026-09-13 | 2026-10-15 |
 | [Mark William Lewis flow](https://open.spotify.com/track/1HeRtLBfJwP8sde2ZZtxTD) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Soulja Hate Repellant](https://open.spotify.com/album/0deyQpMyjqcEvJbJHYEkaH) | 2:30 | 2025-12-18 | 2026-01-15 |
 | [Matte Black](https://open.spotify.com/track/4OwEcqvSCRtqR3Hjm51DfP) | [Wastedworld](https://open.spotify.com/artist/0Lzvwg4vc70l78rbr7gtIr) | [Matte Black](https://open.spotify.com/album/0gtnUtIlnfGwtB6kKVKXfv) | 2:36 | 2026-02-11 | 2026-02-28 |
 | [maybelline](https://open.spotify.com/track/6jdSbzT52owNXcI8nvQ8zA) | [ilykhi](https://open.spotify.com/artist/5UpIHqEyPb6PydvOAjIHu9) | [maybelline](https://open.spotify.com/album/1FyQHicBbqJubqkmG7ZIBB) | 1:30 | 2026-07-12 | 2026-08-03 |
@@ -352,7 +353,7 @@
 | [you said its that](https://open.spotify.com/track/35GEqisilvl0kdwPYTN8UU) | [lueaston](https://open.spotify.com/artist/3gWWiWZFco4lAEQzziflQm), [Lilzayda9](https://open.spotify.com/artist/5HiNr975I2N6WZVDxqKLZl) | [you said its that](https://open.spotify.com/album/7G3rpZyZZRTP6IfaAemMIV) | 2:02 | 2026-10-14 |  |
 | [Your Love](https://open.spotify.com/track/2O2p7GIYgc7C4uN4rVhcWS) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 2:24 | 2026-02-26 | 2026-02-27 |
 | [YOUTUBE](https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:03 | 2025-11-29 | 2026-02-20 |
-| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 | 2026-09-28 |
+| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 |  |
 | [Šonic](https://open.spotify.com/track/2mCeEdHTCbaTaewIRHUchu) | [Ķingšteez₩](https://open.spotify.com/artist/5Kejvz1p0s9pxuJR2F5GYr) | [Šteez fileš](https://open.spotify.com/album/6Es5D57bsgWKPcvG8MEpvG) | 2:39 | 2026-07-20 | 2026-07-24 |
 
 \*This playlist was first scraped on 2025-11-29. Prior content cannot be recovered.

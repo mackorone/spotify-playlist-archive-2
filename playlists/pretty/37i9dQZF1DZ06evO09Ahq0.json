@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 559873,
+  "num_followers": 559978,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABBdnZ+MuGL6K5bQwALbuaR",
+  "snapshot_id": "as10gAAAAAB++s3tgyKYElD2Nmkq2hK1",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 245573,
-      "name": "Welcome to the Family",
-      "url": "https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO"
+      "duration_ms": 328386,
+      "name": "Danger Line",
+      "url": "https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 328386,
-      "name": "Danger Line",
-      "url": "https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn"
+      "duration_ms": 245573,
+      "name": "Welcome to the Family",
+      "url": "https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Ready to Die (From \"Call of the Dead\")",
-        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 425264,
-      "name": "Not Ready to Die - From \"Call of the Dead\"",
-      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 512024,
       "name": "The Stage",
       "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Ready to Die (From \"Call of the Dead\")",
+        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 425264,
+      "name": "Not Ready to Die - From \"Call of the Dead\"",
+      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
     },
     {
       "added_at": null,

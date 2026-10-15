@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-665 songs - 1 day 13 hr 8 min
+666 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Kaisi Paheli Hai](https://open.spotify.com/track/3FATescVmj7FwpMBFuxiTi) | [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1) | [Kaisi Paheli Hai](https://open.spotify.com/album/0ahcJDHn6Wf2JMVv1z5G5z) | 3:15 | 2025-03-13 | 2025-05-01 |
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 | 2023-08-04 |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 | 2024-01-19 |
+| [Karta Hoon](https://open.spotify.com/track/6FrcQrAssZfcWIjobJmkSK) | [Gurman](https://open.spotify.com/artist/6idSI8A0Mid4mx6GMognXx), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Kp Music](https://open.spotify.com/artist/0rk8zrRC3nkyfbrvCuWIpx) | [Karta Hoon](https://open.spotify.com/album/77I3l0CIMOKefpXHjHS5Lg) | 4:09 | 2026-10-14 |  |
 | [KASAM SE](https://open.spotify.com/track/7LPYs6zhi4y5p7y386F0fp) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [KASAM SE](https://open.spotify.com/album/6lEHne5aH2KKcRWGBke24W) | 4:03 | 2026-07-03 |  |
 | [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 | 2023-09-01 | 2023-10-18 |
 | [Kashtiyaan](https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp) | [Chirag](https://open.spotify.com/artist/2MPyD5qsOPAr2t6FDjPgIq), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Kashtiyaan](https://open.spotify.com/album/0YZFayv6b8bsJov07LjkVf) | 3:14 | 2024-02-13 | 2024-03-23 |
@@ -432,7 +433,7 @@
 | [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 | 2025-02-14 | 2026-06-25 |
 | [Nazar](https://open.spotify.com/track/79nB5wBVW8GtqaTdrnWwsS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Nazar](https://open.spotify.com/album/5mbnll7Q0EZcSC88Cvutut) | 4:08 | 2025-04-11 |  |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
-| [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 | 2026-05-07 |  |
+| [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 | 2026-05-07 | 2026-10-15 |
 | [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 | 2025-01-03 | 2025-07-03 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 | 2024-07-09 |

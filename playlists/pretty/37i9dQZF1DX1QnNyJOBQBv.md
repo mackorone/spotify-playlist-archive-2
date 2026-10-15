@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Morat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863,989 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,753 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
 | 50 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 
-Snapshot ID: `AAAAAEOcXcS7Rqpc5Zrs/zFQEOGM3S4R`
+Snapshot ID: `AAAAAIgbNBkNOKCq+sZh1EoPeaQf9goI`

@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 208163,
       "name": "Too Far Too Fast",
       "url": "https://open.spotify.com/track/0D1HD4dHM9emndUPA2HzG7"
@@ -3112,6 +3112,28 @@
       "duration_ms": 208163,
       "name": "Too Far Too Fast",
       "url": "https://open.spotify.com/track/7AjeT5L26HUrxYTPT4W4MI"
+    },
+    {
+      "album": {
+        "name": "For Those Who Know (Deluxe)",
+        "url": "https://open.spotify.com/album/7C0l9pMvzygpgzHXeiMisn"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "Thirdstory",
+          "url": "https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Too Far Too Fast",
+      "url": "https://open.spotify.com/track/7dyczsgsn1oupXEluONrxX"
     },
     {
       "album": {

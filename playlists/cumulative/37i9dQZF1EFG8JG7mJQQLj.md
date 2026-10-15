@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-646 songs - 1 day 12 hr 27 min
+649 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [I Am Woman](https://open.spotify.com/track/0vKuYHEs83maj9GNB8Y0Hp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [I Am Woman](https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP) | 3:30 | 2024-01-29 |  |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-07 |  |
 | [I Got U](https://open.spotify.com/track/6vPEqVjxCWRsBlvRzENDSG) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:37 | 2024-01-29 |  |
+| [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2026-10-14 |  |
 | [I Know Places](https://open.spotify.com/track/6EwNJz8CuVsrsLvXprJ20Q) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:15 | 2024-01-29 |  |
 | [I Know Places \- Voice Memo](https://open.spotify.com/track/4FoV729rw7IhoKlMZW5K5V) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:36 | 2024-06-10 |  |
 | [I Know Places \- Voice Memo](https://open.spotify.com/track/4JQm7ebhsrt10wmrP6AfXL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:36 | 2024-01-29 | 2024-06-11 |
@@ -421,6 +422,7 @@
 | [Painkiller](https://open.spotify.com/track/6AASSUNaGkAhJFfI9qfFsJ) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 3:32 | 2024-01-29 |  |
 | [Particular Taste](https://open.spotify.com/track/4BH9zDv1Ys6kw0j3lU1hTx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:55 | 2024-01-29 |  |
 | [Passenger](https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:00 | 2024-01-29 |  |
+| [Pay That Toll](https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Pay That Toll](https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh) | 2:47 | 2026-10-14 |  |
 | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/track/7oUvdezBuPiU9Ohpp2aiZH) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/album/1dT7cwZI3FSXBXIo9sR48m) | 3:39 | 2024-01-29 |  |
 | [Pierre](https://open.spotify.com/track/31c1V9xUONZYk78NE4Id8D) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:22 | 2024-01-29 |  |
 | [Pierre](https://open.spotify.com/track/3CXMSW5XgXufE9adOjPdMp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Morning Commute](https://open.spotify.com/album/7lNUiysETOeZ6hF7jJaqC0) | 3:22 | 2026-08-08 | 2026-08-10 |
@@ -588,6 +590,7 @@
 | [Trust](https://open.spotify.com/track/5MoU7TaAvgBa8W0XVwXAd7) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:00 | 2024-01-29 |  |
 | [Trust You](https://open.spotify.com/track/23eUnTrHxVd4RNnramhnRA) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [The Great Unknown](https://open.spotify.com/album/49n3sqv2vCz36QNrO41yKr) | 3:08 | 2024-01-29 |  |
 | [Truth To Power](https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Truth To Power](https://open.spotify.com/album/6rPlzNWbkO10UerasRIqCY) | 3:25 | 2024-01-29 |  |
+| [TSUNAMI](https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [TSUNAMI](https://open.spotify.com/album/2wBA1QqfIN3xXWMyo5xeXY) | 2:36 | 2026-10-14 |  |
 | [Tumbling Down](https://open.spotify.com/track/3FHwjrY6F4YAdzWPwWl3or) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:34 | 2024-01-29 |  |
 | [TURN THIS OFF!](https://open.spotify.com/track/6VEm21iOWSyONwVAlOq1PQ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 0:23 | 2024-08-07 | 2024-08-11 |
 | [Turning Tables](https://open.spotify.com/track/6myjRCWhMVgwgJEYNIGah3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:10 | 2024-01-29 |  |

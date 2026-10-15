@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 47072,
       "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
@@ -208,6 +208,24 @@
       "duration_ms": 103893,
       "name": "Flawless My Dear",
       "url": "https://open.spotify.com/track/6qNfLbtV03FhQjQsY3cGmT"
+    },
+    {
+      "album": {
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92146,
+      "name": "Grim Grinning Ghosts (Dance Party)",
+      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
     },
     {
       "album": {
@@ -438,7 +456,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 77970,
       "name": "Nothing Could Keep Me Away - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/6qgk650u7bie0MlLEMcndW"

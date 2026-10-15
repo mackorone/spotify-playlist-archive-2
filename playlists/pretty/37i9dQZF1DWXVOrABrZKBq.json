@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bekar",
-  "num_followers": 24571,
+  "num_followers": 24584,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHMXzZE2NtbMlnXE2+mwCjdaq1Tk",
+  "snapshot_id": "AAAAAPBTjr+qKZ+qF+XDyQBnchSdIJ3U",
   "tracks": [
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "NETFLIX CHILL",
         "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
-        }
-      ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "FRENCH CONNEXION, Pt.3",
+        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "FRENCH CONNEXION, Pt.3",
+      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 174000,
       "name": "TERIYAKI - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "FRENCH CONNEXION, Pt.3",
-        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "FRENCH CONNEXION, Pt.3",
-      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "GROSEILLE",
-        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
       },
       "artists": [
         {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
         }
       ],
-      "duration_ms": 173013,
-      "name": "GROSEILLE",
-      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1323,22 +1339,6 @@
       "duration_ms": 150000,
       "name": "Jet Set",
       "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Insolent",
-        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
-      },
-      "artists": [
-        {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
-        }
-      ],
-      "duration_ms": 262557,
-      "name": "Le Bon Samaritain",
-      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "Devin Booker",
-        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
-      },
-      "artists": [
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 173324,
-      "name": "Devin Booker",
-      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 176190,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "Devin Booker",
+        "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 173324,
+      "name": "Devin Booker",
+      "url": "https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT"
     },
     {
       "added_at": "2026-10-09 04:03:44",

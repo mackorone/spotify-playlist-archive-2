@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,978 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 28 | [Tú Eres X](https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tú Eres X](https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2) | 3:17 |
 | 29 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 |
 | 30 | [Cinco Celulares](https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:45 |
-| 31 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 |
-| 32 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
+| 31 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
+| 32 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 |
 | 33 | [Mexican Flan](https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:58 |
 | 34 | [Pachamama](https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:20 |
-| 35 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
-| 36 | [DELANTE DE MI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:38 |
-| 37 | [Flotando En El Aire](https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW) | 3:04 |
+| 35 | [DELANTE DE MI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:38 |
+| 36 | [Flotando En El Aire](https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW) | 3:04 |
+| 37 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
 | 38 | [Blindado El Carro](https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:08 |
 | 39 | [Los Hermanos](https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS) | 3:37 |
 | 40 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 |
 | 50 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 |
 
-Snapshot ID: `asrRgAAAAACe14BQECO8hv50JX/mqbX2`
+Snapshot ID: `as10gAAAAABa0RizRqhEiiJN75J4fii7`

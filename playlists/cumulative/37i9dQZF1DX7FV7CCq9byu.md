@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-2,013 songs - 4 day 7 hr 11 min
+2,014 songs - 4 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1772,6 +1772,7 @@
 | [The Room](https://open.spotify.com/track/1X9wnBr0GtplOi4VuYsOAS) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [The Room](https://open.spotify.com/album/0wzVgPQZQLrGj9MhkD6gMk) | 2:13 | 2025-09-25 | 2025-11-21 |
 | [The Score](https://open.spotify.com/track/09PUCdX5AD1mz2L2dHF97O) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [The Score](https://open.spotify.com/album/5XpuqF76xAXxatocivuAh3) | 3:14 | 2024-08-15 | 2024-09-13 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-10-03 |
+| [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 | 2026-10-14 |  |
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-25 | 2026-09-04 |
 | [The ugliest](https://open.spotify.com/track/0Ujnr8Jh0SyCrcRc4ExFLd) | [MYKKE](https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX) | [The ugliest](https://open.spotify.com/album/0inJa50Bhk29fnxD5OAzMI) | 3:55 | 2026-05-21 | 2026-06-26 |

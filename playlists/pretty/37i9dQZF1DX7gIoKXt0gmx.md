@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,711,536 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711,379 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 36 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 37 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
 | 38 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
-| 39 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
-| 40 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 39 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 40 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 |
 | 41 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
 | 42 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 43 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
 | 100 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 
-Snapshot ID: `AAAAALqvIFO4yTRV7Dt6l1i3nT9yy2cb`
+Snapshot ID: `AAAAABSJ6lXUpEYOsta9flLyR5DQbvqA`

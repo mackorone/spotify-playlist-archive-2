@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Pizza
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,043 likes - 106 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,050 likes - 106 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 105 | [Proba no llamar al Transa](https://open.spotify.com/track/69vEsEYVMS5ypme9lpjNkA) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Plano Virtual](https://open.spotify.com/album/4wUSt3QoeJpdzUNvkX4Ujl) | 3:00 |
 | 106 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
 
-Snapshot ID: `AAAAAHmutuENz67y/Fp5zcwURQLeO6sS`
+Snapshot ID: `AAAAAJCPcI9Fk3Qq4vV5Y6U2hXb5QOqV`

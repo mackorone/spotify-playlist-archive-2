@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,327 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,355 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 115 | [Bus Stop](https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:54 |
 | 116 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
 | 117 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 |
-| 118 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |
-| 119 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
-| 120 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Keep On Running](https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h) | 2:53 |
+| 118 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Keep On Running](https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h) | 2:53 |
+| 119 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |
+| 120 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 121 | [It's My Party](https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [It's My Party: The Mercury Anthology](https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy) | 2:24 |
 | 122 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
 | 123 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 144 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
 | 145 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 |
 
-Snapshot ID: `AAAAAEBi0eI+shAiaFXTwMfIbLx552Eg`
+Snapshot ID: `AAAAAOxz99NI7TtIvMizFb4fThvPZJiW`

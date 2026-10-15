@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
-  "num_followers": 12255,
+  "num_followers": 12289,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFcyDfaTiPDKWNnRRZZNuL7iC6Im",
+  "snapshot_id": "AAAAAGB67iU3NhxWxDYelKQcLk3NrKBC",
   "tracks": [
     {
       "added_at": "2026-10-09 18:37:41",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Jina",
         "url": "https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 200921,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Last Interview",
-        "url": "https://open.spotify.com/album/2gn1o5Gx0rNMX3FZ6DmDK7"
-      },
-      "artists": [
-        {
-          "name": "Munta Dee",
-          "url": "https://open.spotify.com/artist/6P2ehN5mPy3wrBQaPUYbv5"
-        }
-      ],
-      "duration_ms": 197852,
-      "name": "Last Interview",
-      "url": "https://open.spotify.com/track/1x3SmVb5UR7p7plLSQv7cv"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Pita Huku",
-        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
+        "name": "Last Interview",
+        "url": "https://open.spotify.com/album/2gn1o5Gx0rNMX3FZ6DmDK7"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Munta Dee",
+          "url": "https://open.spotify.com/artist/6P2ehN5mPy3wrBQaPUYbv5"
         }
       ],
-      "duration_ms": 296727,
-      "name": "Pita Huku",
-      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
+      "duration_ms": 197852,
+      "name": "Last Interview",
+      "url": "https://open.spotify.com/track/1x3SmVb5UR7p7plLSQv7cv"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -683,6 +667,22 @@
       "duration_ms": 244767,
       "name": "Wanga",
       "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Pita Huku",
+        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 296727,
+      "name": "Pita Huku",
+      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -711,22 +711,6 @@
       "duration_ms": 248764,
       "name": "Kuachana Shingapi (Remix)",
       "url": "https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Hainaga Ushemeji",
-        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 296507,
-      "name": "Hainaga Ushemeji",
-      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -763,6 +747,22 @@
       "duration_ms": 194366,
       "name": "Wanijue",
       "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Hainaga Ushemeji",
+        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
+      },
+      "artists": [
+        {
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+        }
+      ],
+      "duration_ms": 296507,
+      "name": "Hainaga Ushemeji",
+      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Ex Arudiwi",
-        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
-      },
-      "artists": [
-        {
-          "name": "AbduKiba",
-          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 199132,
-      "name": "Ex Arudiwi",
-      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 152112,
       "name": "Sijafunzwa (feat. Mdogo Sajent)",
       "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Ex Arudiwi",
+        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
+      },
+      "artists": [
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 199132,
+      "name": "Ex Arudiwi",
+      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Kafubaa",
-        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Zungu Macha",
-          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "Kafubaa",
-      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 282984,
       "name": "Dua",
       "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Kafubaa",
+        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Zungu Macha",
+          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "Kafubaa",
+      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
     },
     {
       "added_at": "2026-10-09 18:37:41",

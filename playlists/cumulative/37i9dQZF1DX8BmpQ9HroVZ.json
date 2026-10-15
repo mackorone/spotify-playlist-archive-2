@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Murtaza Qizilbash",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Zain Zohaib",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -2766,6 +2766,24 @@
       "duration_ms": 158961,
       "name": "Chalo Door Kahin",
       "url": "https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9"
+    },
+    {
+      "album": {
+        "name": "Chalre Chalre Waal",
+        "url": "https://open.spotify.com/album/2HK5er9r4HPlsV8FAgdOTZ"
+      },
+      "artists": [
+        {
+          "name": "Shanzy Sial",
+          "url": "https://open.spotify.com/artist/0oseGSIScUaIPxCmVRPt8f"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139551,
+      "name": "Chalre Chalre Waal",
+      "url": "https://open.spotify.com/track/6qi3Xw1w53yYFKrMZlGklF"
     },
     {
       "album": {
@@ -12196,7 +12214,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"

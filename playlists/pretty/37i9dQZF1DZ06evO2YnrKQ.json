@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 26337,
+  "num_followers": 26341,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABFyu0bLHZNm9Y/w9nKM6w8",
+  "snapshot_id": "as10gAAAAAB4zPbGqLaNIvxm7nTZEaPn",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 226600,
-      "name": "We Are the End",
-      "url": "https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn"
+      "duration_ms": 211786,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/0GwFyxPKZcFUEIxbZolsuv"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/0GwFyxPKZcFUEIxbZolsuv"
+      "duration_ms": 226600,
+      "name": "We Are the End",
+      "url": "https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn"
     },
     {
       "added_at": null,

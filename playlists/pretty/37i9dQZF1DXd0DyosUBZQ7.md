@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,540 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,684 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 74 | [Too Serious Too Soon](https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/6qjh64nv2k5MIrjewpj0Vv) | 3:43 |
 | 75 | [No Promises](https://open.spotify.com/track/0RwbDO8xyF9vhZFZd9kdel) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Shayne Ward](https://open.spotify.com/album/50OfJiV0FdR199eCQ18WTw) | 3:42 |
 
-Snapshot ID: `AAAAAEaubb5xo/VRBVKK6BHzPe/CzFgw`
+Snapshot ID: `AAAAAHTw5cWYiN7nFEUgGGK5Nn4Ik9j3`

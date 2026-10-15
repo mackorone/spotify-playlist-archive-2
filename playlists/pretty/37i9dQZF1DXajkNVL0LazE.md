@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,641 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,658 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 14 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
 | 15 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 16 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
-| 17 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
-| 18 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
+| 17 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
+| 18 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 19 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 20 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 |
 | 21 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 32 | [Murder in the City](https://open.spotify.com/track/3h5AZDf5z7D18plaLtHTfi) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Second Gleam](https://open.spotify.com/album/4qnTzXaGBJnb11UMPAILO0) | 3:12 |
 | 33 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 34 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
-| 35 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
-| 36 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
+| 35 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
+| 36 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
 | 37 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
 | 38 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
 | 39 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 62 | [Mightiest of Guns](https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19) | [A.A\. Bondy](https://open.spotify.com/artist/4l8UbJGiXxbfyDJPvcVH23) | [When the Devil's Loose](https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq) | 3:47 |
 | 63 | [2 Dollar Shoes](https://open.spotify.com/track/6cpH4I4eWPsWyusvMbpDHY) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [When We Were Small](https://open.spotify.com/album/5ldZ6r1WahI5BB2MdXF43x) | 3:10 |
 | 64 | [Hutterite Mile](https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Folklore](https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef) | 4:04 |
-| 65 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
-| 66 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
+| 65 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
+| 66 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
 | 67 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
 | 68 | [The Swimming Song](https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Thing Of The Past](https://open.spotify.com/album/1c1QSSEh3Hv8FHoCQM4R7Y) | 2:42 |
 | 69 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 72 | [Alone Again Or](https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Convict Pool](https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq) | 3:24 |
 | 73 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
 | 74 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
-| 75 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
-| 76 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
+| 75 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
+| 76 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
 | 77 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
 | 78 | [Frankie's Gun!](https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [The Felice Brothers](https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT) | 4:06 |
 | 79 | [Lives Of Crime](https://open.spotify.com/track/4gRbjbr3ch96FgvojEjhCu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Spelled In Bones](https://open.spotify.com/album/1H6hPwBGxlYLzNwCW9P2CP) | 3:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 94 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 |
 | 95 | [Special Death](https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui) | 2:32 |
 | 96 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |
-| 97 | [Chicago](https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 6:04 |
-| 98 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
+| 97 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
+| 98 | [Chicago](https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 6:04 |
 | 99 | [Knife](https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz) | 5:14 |
 | 100 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
 
-Snapshot ID: `AAAAAB9CpcySkRBgv8GeVk1ZuIPXRZoh`
+Snapshot ID: `AAAAAMXAx9vtNF/jZ4ooGoCE7835KNGN`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: mikey
 
-1,735 songs - 3 day 19 hr 3 min
+1,738 songs - 3 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-06-07 |
 | [Bye](https://open.spotify.com/track/4WCIyyzI3giJITyvfOh3gM) | [Emil Lewis](https://open.spotify.com/artist/01y4Bu7Sk1mqRpnW2oWVNo) | [Bye](https://open.spotify.com/album/7AUpi2QvmZXN4CPUd4kzW7) | 2:21 | 2026-02-05 | 2026-04-02 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-13 | 2024-08-16 |
-| [Café de Paris](https://open.spotify.com/track/6U0t2ePWYWXTqjR9C98FX5) | [Pastelli](https://open.spotify.com/artist/2k02EZcMgA1v7BQPQYyzs1) | [Café de Paris](https://open.spotify.com/album/7bLDAO3410RoYumZ9qBDhh) | 2:40 | 2026-07-28 |  |
+| [Café de Paris](https://open.spotify.com/track/6U0t2ePWYWXTqjR9C98FX5) | [Pastelli](https://open.spotify.com/artist/2k02EZcMgA1v7BQPQYyzs1) | [Café de Paris](https://open.spotify.com/album/7bLDAO3410RoYumZ9qBDhh) | 2:40 | 2026-07-28 | 2026-10-15 |
 | [Cage](https://open.spotify.com/track/6xtqoi4IJyWMO3p478aLmd) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Cage](https://open.spotify.com/album/2Alb8nA1HWHEPto3yVoDAN) | 3:29 | 2024-05-02 | 2024-05-09 |
 | [Caipirinha](https://open.spotify.com/track/07d0bbYBxSpbUpYImpds2s) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Caipirinha](https://open.spotify.com/album/4TlTJs48ihrFgdOvsFHEqG) | 5:07 | 2025-01-02 | 2025-01-31 |
 | [Call It Love \- Slackin Beats Remix](https://open.spotify.com/track/5o0NJO88HH4SVW5HBD1SXR) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Call It Love \(Slackin Beats Remix\)](https://open.spotify.com/album/3kijTQduW7TXRPTZmXZlr1) | 3:00 | 2024-03-14 | 2024-06-01 |
@@ -513,7 +513,7 @@
 | [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 | 2025-06-05 | 2025-07-25 |
 | [For Igor](https://open.spotify.com/track/0GDw3hXJZ8IB06NsWKUyrV) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [For Igor](https://open.spotify.com/album/2GFKJ09QQRN6R65nKrZ0xd) | 3:05 | 2025-05-02 | 2026-01-01 |
 | [For the Light](https://open.spotify.com/track/4857iYh3EAlCUuGKRB11YY) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [For the Light](https://open.spotify.com/album/0KtWy6RDfG1rC0P2VrtA7d) | 3:18 | 2024-05-30 | 2024-08-02 |
-| [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 | 2026-07-28 |  |
+| [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 | 2026-07-28 | 2026-10-15 |
 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 | 2025-02-13 | 2025-04-18 |
 | [Forcefed Serenity](https://open.spotify.com/track/7dOKUA3dk7cCG6BVv8RAuE) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Forcefed Serenity](https://open.spotify.com/album/5gW4SSCvyvPC36IQsu1icB) | 2:36 | 2025-10-23 | 2026-02-20 |
 | [Forever](https://open.spotify.com/track/7CKezpSNVpITPZFjkExDqF) | [Coria](https://open.spotify.com/artist/4wdtB6s3W9H46b7ESavill) | [Forever](https://open.spotify.com/album/1qayBwEN5Sbw14v31aPjhK) | 3:33 | 2025-11-06 | 2026-02-13 |
@@ -764,6 +764,7 @@
 | [In My Head](https://open.spotify.com/track/1KlX4Kggmed5MktcQmw426) | [Miriam Majcherek](https://open.spotify.com/artist/4MajfJSVJ2DqyO6ekWyY6f) | [In My Head](https://open.spotify.com/album/4B5L1bJeGthmTuS5JvsbMH) | 3:05 | 2025-10-16 | 2026-02-06 |
 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 | 2026-02-12 | 2026-04-22 |
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-03-14 | 2024-04-05 |
+| [In Our Prime](https://open.spotify.com/track/5fAH8m3khx6QmLJtTAYSTT) | [NATHALIA](https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE) | [In Our Prime / Waste of Time](https://open.spotify.com/album/52L5jLQCdaAL0UFWGvlAaC) | 2:42 | 2026-10-14 |  |
 | [In So Deep](https://open.spotify.com/track/4zPxqCi69fDCptfRfrqIKB) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [In So Deep](https://open.spotify.com/album/5z1i1FijhVnw3B3YRFP8z0) | 2:39 | 2025-03-27 | 2025-04-25 |
 | [In Terms Of You](https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [In Terms Of You](https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW) | 2:30 | 2025-06-12 | 2025-08-08 |
 | [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 | 2024-04-25 | 2025-01-03 |
@@ -785,7 +786,7 @@
 | [Interstellar](https://open.spotify.com/track/3gEu8hQn94HveUMkDoy1yB) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [XO EGO](https://open.spotify.com/album/2hTNlvPOVJN02vIdtrk1Zr) | 3:06 | 2024-04-04 | 2024-05-24 |
 | [into you](https://open.spotify.com/track/12DbIjfgIVgGx1I2jjKgMO) | [muuk](https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F) | [into you](https://open.spotify.com/album/6xDBySKhGeQ2dBhzPV09yL) | 2:35 | 2026-04-21 | 2026-07-01 |
 | [introvert](https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [introvert](https://open.spotify.com/album/54HHjKn4JFZJhkOiG7z4v7) | 2:32 | 2025-04-17 | 2025-05-23 |
-| [INVINCIBLE](https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [INVINCIBLE](https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK) | 2:07 | 2026-07-14 |  |
+| [INVINCIBLE](https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [INVINCIBLE](https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK) | 2:07 | 2026-07-14 | 2026-10-15 |
 | [Is This Real Love](https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM), [Vincent & Jules](https://open.spotify.com/artist/7hM7HvhHXLCydzgR24VqP9) | [Is This Real Love](https://open.spotify.com/album/5aG8nRt1EPYyrO2UNo6oIA) | 3:02 | 2024-07-25 | 2024-09-06 |
 | [iskall](https://open.spotify.com/track/27DCmU21u68FLJo1GXFrUp) | [A Himitsu](https://open.spotify.com/artist/2OWBve72RIOOqOmydsasPz) | [iskall](https://open.spotify.com/album/5xRvsxC9ko10aCqYNAhrFz) | 3:45 | 2025-02-20 | 2025-03-14 |
 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2024-11-07 | 2025-01-18 |
@@ -1421,6 +1422,7 @@
 | [Stay](https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Stay](https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I) | 3:32 | 2024-04-11 | 2025-01-03 |
 | [Stay Mad](https://open.spotify.com/track/2K9SQbtgqlmpPYgu5Luoet) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Stay Mad](https://open.spotify.com/album/3kUghfN1RG8gmFAs8CvTVD) | 2:56 | 2025-04-10 | 2025-05-17 |
 | [stay with me](https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [stay with me](https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv) | 2:59 | 2026-04-14 | 2026-07-15 |
+| [Steady Baby](https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Steady Baby](https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy) | 3:01 | 2026-10-14 |  |
 | [stealing cars](https://open.spotify.com/track/4kilas9NE61w8elwg826VN) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [stealing cars](https://open.spotify.com/album/2YQuhwFjscEgSmjZqeIzgg) | 2:53 | 2025-10-23 | 2026-02-13 |
 | [Stereot](https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk) | [Efka Crush](https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF) | [Stereot](https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N) | 4:07 | 2026-09-29 |  |
 | [Sthlm In My <3](https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Sthlm In My <3](https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23) | 3:26 | 2024-10-31 | 2025-01-18 |
@@ -1604,6 +1606,7 @@
 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 | 2024-05-23 | 2024-07-27 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-12-03 | 2026-01-01 |
 | [use me!!!!!!!](https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ) | 2:04 | 2025-08-28 | 2025-10-24 |
+| [V.I.P](https://open.spotify.com/track/1x69BAI5ds3rl3SBLql1dB) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [V.I.P](https://open.spotify.com/album/4kDRGvlM29UDUmqxUqdWrT) | 2:55 | 2026-10-14 |  |
 | [Vaal](https://open.spotify.com/track/2vLzxI56he3XskMDUgBDcY) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Vaal / Spacer](https://open.spotify.com/album/6MbsmXz5fGDV7WlNPaAb3i) | 4:35 | 2026-07-07 | 2026-09-09 |
 | [Val De Marne](https://open.spotify.com/track/7wnYzb5pu8UFHz1sWT8jOI) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Val De Marne](https://open.spotify.com/album/7xnPCFHnXhRVTm57kqqwb3) | 2:22 | 2025-03-06 | 2025-04-25 |
 | [Validation](https://open.spotify.com/track/1N7Dea8tLIrjc9mjFmu2Ca) | [Hanna Emilie](https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb) | [The One That Got Away](https://open.spotify.com/album/6NVh6nFDqtFl1tJLESx4Wl) | 2:56 | 2024-02-08 | 2024-05-09 |

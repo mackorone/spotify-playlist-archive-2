@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "Ala Bolelo",
+      "url": "https://open.spotify.com/track/2mrFZyyfPr5hFUoeJD8GqZ"
+    },
+    {
+      "album": {
         "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
         "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
       },
@@ -1040,6 +1062,32 @@
       "duration_ms": 209032,
       "name": "Dippam Dappam (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/2vkNA9I029dTwX0y6d59Sc"
+    },
+    {
+      "album": {
+        "name": "Ekavali (From \"Renigunta 2\")",
+        "url": "https://open.spotify.com/album/2LJ7GlCrPSBiD7v6wMDggV"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Manu Ravichandran",
+          "url": "https://open.spotify.com/artist/0NLYyExvd65GY4HepMwfFR"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258993,
+      "name": "Ekavali (From \"Renigunta 2\")",
+      "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
     },
     {
       "album": {
@@ -3068,7 +3116,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 198101,
       "name": "Og Sambavam (From \"Good Bad Ugly\")",
       "url": "https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg"
@@ -3112,6 +3160,36 @@
       "duration_ms": 204130,
       "name": "One Name",
       "url": "https://open.spotify.com/track/3eYaxbCWJ9gj4OqGVekwgm"
+    },
+    {
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "One Sun One Moon",
+      "url": "https://open.spotify.com/track/5JWHSTAUiaCSeWwWlaVnyg"
     },
     {
       "album": {
@@ -4146,7 +4224,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 207219,
       "name": "Salambala (From \"Madharaasi\") (Tamil)",
       "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
@@ -5076,7 +5154,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 218285,
       "name": "Vazhithunaiye",
       "url": "https://open.spotify.com/track/7dIovld3QsNhYseLcwMJHj"
@@ -5340,7 +5418,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 201617,
       "name": "Yedi (From \"Nilavuku En Mel Ennadi Kobam\")",
       "url": "https://open.spotify.com/track/6g3pwMsCrqV5HcxF6p99GB"

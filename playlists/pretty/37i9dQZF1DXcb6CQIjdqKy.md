@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663,692 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,663,847 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [That's What The Cross Is For](https://open.spotify.com/track/6B6CR3obi1KjlmPwftNcJV) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [That's What The Cross Is For](https://open.spotify.com/album/4yXdPpcc4IYJLEh8ChNxum) | 3:46 |
 | 100 | [Perfectly](https://open.spotify.com/track/4IBrkjZkW4qhVgunHJ1l8Y) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Perfectly](https://open.spotify.com/album/3XlPm3QjwLxOcTW0IxXJSA) | 2:44 |
 
-Snapshot ID: `AAAAAIdPWkWE1gSXJmFtnXnVyR3tYO/x`
+Snapshot ID: `AAAAAOa2BYEE0fYrN33vx/ohrT5r9LCy`

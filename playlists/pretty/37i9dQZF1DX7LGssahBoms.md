@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,525 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,527 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 20 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
 | 21 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 22 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
-| 23 | [Rasputin](https://open.spotify.com/track/5lWSa1rmuSL6OBPOnkAqoa) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/155cebHEGGBqYJAXKWJw6D) | 3:40 |
-| 24 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
+| 23 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
+| 24 | [Rasputin](https://open.spotify.com/track/5lWSa1rmuSL6OBPOnkAqoa) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/155cebHEGGBqYJAXKWJw6D) | 3:40 |
 | 25 | [Porque te vas](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque te vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 |
 | 26 | [You're The First, The Last, My Everything \- Edit](https://open.spotify.com/track/5EcmvgWODi8PNTfVeTlZjb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:26 |
 | 27 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 69 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL) | 4:31 |
 | 70 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
 
-Snapshot ID: `AAAAAI5W/G2Cbx2q2ejys6FvqBlndVcJ`
+Snapshot ID: `AAAAAGR6jJwhNzc7wa1QKBAxgC6tCuLG`

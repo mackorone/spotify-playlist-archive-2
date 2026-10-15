@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 99694,
+  "num_followers": 99699,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRcQrfyxG26IFBS8rcFH8AGN59p",
+  "snapshot_id": "AAAAAEBZP7qkkdLr09+/lH9UxOMXuRGU",
   "tracks": [
     {
       "added_at": "2024-08-28 19:18:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 195866,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Diamond Diana: The Legacy Collection",
         "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 215200,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "added_at": "2024-08-28 19:18:25",

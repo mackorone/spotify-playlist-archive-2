@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,792 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 61 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
 | 62 | [En Esta Navidad](https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:01 |
 | 63 | [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 |
-| 64 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
-| 65 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
-| 66 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
-| 67 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 |
+| 64 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
+| 65 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
+| 66 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 |
+| 67 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
 | 68 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
-| 69 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
-| 70 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
-| 71 | [Regalo De Navidad](https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:33 |
+| 69 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
+| 70 | [Regalo De Navidad](https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:33 |
+| 71 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
 | 72 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 |
 | 73 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
 | 74 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 99 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 |
 | 100 | [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 |
 
-Snapshot ID: `AAAAABidYmi0issyKsSw8iSY3RevgBF8`
+Snapshot ID: `AAAAABwS5or33QnLXUmT2ycRocAqhv+H`

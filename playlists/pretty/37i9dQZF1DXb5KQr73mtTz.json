@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22390,
+  "num_followers": 22389,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1zayP8h3tVqmZdYOUD0bAnq6w4",
+  "snapshot_id": "AAAAAIT4snBTSZMEx2wF1WgJNPh4NwCc",
   "tracks": [
     {
       "added_at": "2026-09-22 14:14:58",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Phantom Lawyer, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 198000,
       "name": "Here I Am (Phantom Lawyer : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "The Dreamest",
+        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "How have you been",
+      "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -455,38 +487,6 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "The Dreamest",
-        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "How have you been",
-      "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Afterlove (\u5f8c\u611b)",
-        "url": "https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 206823,
-      "name": "Afterlove",
-      "url": "https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Afterlove (\u5f8c\u611b)",
+        "url": "https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "duration_ms": 206823,
+      "name": "Afterlove",
+      "url": "https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "Would You Marry Me?, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Would You Marry Me?, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
-      "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Our Cosmos",
-        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
-      },
-      "artists": [
-        {
-          "name": "LEE BYEONGCHAN",
-          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
-        }
-      ],
-      "duration_ms": 227238,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
         "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Once again OST Part 1",
-        "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
+        "name": "Our Cosmos",
+        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
       },
       "artists": [
         {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
         }
       ],
-      "duration_ms": 216830,
-      "name": "Let`s never meet again",
-      "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
+      "duration_ms": 227238,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -831,6 +815,22 @@
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Once again OST Part 1",
+        "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 216830,
+      "name": "Let`s never meet again",
+      "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
     },
     {
       "added_at": "2026-09-22 14:14:58",

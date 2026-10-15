@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,710 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,671 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [Natural Disaster](https://open.spotify.com/track/6TODc3kSKReFGryDNCHUbR) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/4wiAcRUnwqGvAwKdZ7fLM3) | 3:38 |
 | 125 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
 
-Snapshot ID: `AAAAAPofBiIVdJ+S8qaQRZh/Y/aCO45t`
+Snapshot ID: `AAAAAHIYqhXYXLU2f++bKx5jggLUj0dJ`

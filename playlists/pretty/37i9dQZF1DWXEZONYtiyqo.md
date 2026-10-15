@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams, Liviu Teodorescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,230 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,235 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Beluga](https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8) | [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [Beluga](https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ) | 2:47 |
 | 50 | [Bastionul Fericirii](https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Bastionul Fericirii](https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS) | 3:02 |
 
-Snapshot ID: `AAAAAGHWUM0l/E6w1XcsK8B8p34CvW9m`
+Snapshot ID: `AAAAAOTw8XkILxW9GSjJH9nDltddbAgR`

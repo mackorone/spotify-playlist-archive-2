@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,723 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,724 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 38 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 39 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 |
 | 40 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
-| 41 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |
-| 42 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 41 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 42 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |
 | 43 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [So Easy \(To Fall In Love\)](https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5) | 3:16 |
 | 44 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 |
 | 45 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 67 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
 | 68 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 69 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
-| 70 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
-| 71 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
+| 70 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
+| 71 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
 | 72 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 73 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 74 | [Net Ek en Jy](https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP) | [Donkerbaai](https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL), [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Net Ek en Jy](https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY) | 3:17 |
 | 75 | [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 |
 | 76 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
-| 77 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 |
-| 78 | [The Stars Are Talking](https://open.spotify.com/track/5oAmIIkLRbOutlxLXXWbay) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [The Stars Are Talking](https://open.spotify.com/album/3Iiy7lavGPQUdHFFxc6Z1O) | 3:28 |
+| 77 | [The Stars Are Talking](https://open.spotify.com/track/5oAmIIkLRbOutlxLXXWbay) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [The Stars Are Talking](https://open.spotify.com/album/3Iiy7lavGPQUdHFFxc6Z1O) | 3:28 |
+| 78 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 |
 | 79 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 80 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 |
 
-Snapshot ID: `AAAAAJLu2dw4YvE4LAQHflWtQ4o0xY6Z`
+Snapshot ID: `AAAAACyoclhL3WcmI2xjytMeoJ/mmXbb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > boot cut, extra heavy el almidón y el sombrero que no falte\. Kacey Musgraves, Intocable en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,127 likes - 119 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,106 likes - 119 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 118 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
 | 119 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 
-Snapshot ID: `AAAAAOC/qQpt1ElKcDZNKdpT9qz7lh8e`
+Snapshot ID: `AAAAAKjgFdAXeyltFwNyGJuEKcQhd8Ue`

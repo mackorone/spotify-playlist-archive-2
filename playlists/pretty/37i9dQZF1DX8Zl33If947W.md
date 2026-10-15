@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,556 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,580 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 28 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
 | 29 | [Größer als Liebe](https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Größer als Liebe](https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd) | 3:06 |
 | 30 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
-| 31 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
-| 32 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
+| 31 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
+| 32 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
 | 33 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 34 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
 | 35 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
 | 60 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
 
-Snapshot ID: `AAAAAA1+5obfTsTrR0b8bkC4dpd+UNGH`
+Snapshot ID: `AAAAAEiSeHukPEdNqWvkYmAST2w5EM/O`

@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-148 songs - 6 hr 50 min
+149 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Hurrr Nor Thurr \(feat\. Sexyy Red\)](https://open.spotify.com/track/2bPrEAsc7qDz5Y8YDhnutq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:08 | 2026-10-10 |  |
 | [Hurrr Nor Thurr \(feat\. Sexyy Red\)](https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:08 | 2026-05-17 | 2026-10-10 |
 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 | 2023-12-13 |  |
-| [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 | 2025-11-17 |  |
+| [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 | 2025-11-17 | 2026-10-15 |
 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:32 | 2025-08-17 | 2025-11-17 |
 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 | 2023-11-10 | 2025-05-18 |
 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 | 2023-11-10 | 2025-03-12 |
@@ -118,6 +118,7 @@
 | [Rackies \(feat\. ATL Jacob\)](https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:53 | 2026-04-19 | 2026-08-19 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-11-10 |  |
 | [Richer Than Alla My Opps](https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:23 | 2026-04-20 | 2026-05-30 |
+| [SEXY](https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc) | [YOLAMASCARA](https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXY](https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE) | 2:08 | 2026-10-15 |  |
 | [Sexyy](https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:17 | 2023-11-10 | 2024-05-24 |
 | [Sexyy](https://open.spotify.com/track/3OwfTHRwPTZrll2TlgwzDd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:17 | 2024-05-24 | 2024-05-26 |
 | [Sexyy & Conceited](https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXT8PE](https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp) | 2:50 | 2023-12-15 | 2024-10-28 |

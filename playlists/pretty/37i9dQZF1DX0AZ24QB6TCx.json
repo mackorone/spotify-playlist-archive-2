@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403734,
+  "num_followers": 403733,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/TYOLvFZCT5XQTF4G3HsW86Dd9",
+  "snapshot_id": "AAAAANCUmKx9DQ/W0KrF6unyqj1SVe5K",
   "tracks": [
     {
       "added_at": "2026-08-14 04:00:25",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-08-14 04:00:25",
       "album": {
-        "name": "True Crime",
-        "url": "https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        },
-        {
-          "name": "Superpitcher",
-          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
-        }
-      ],
-      "duration_ms": 236063,
-      "name": "True Crime (Shortcut)",
-      "url": "https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI"
-    },
-    {
-      "added_at": "2026-08-14 04:00:25",
-      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 458360,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu"
+    },
+    {
+      "added_at": "2026-08-14 04:00:25",
+      "album": {
+        "name": "True Crime",
+        "url": "https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "Superpitcher",
+          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
+        }
+      ],
+      "duration_ms": 236063,
+      "name": "True Crime (Shortcut)",
+      "url": "https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI"
     },
     {
       "added_at": "2026-08-14 04:00:25",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-14 04:00:25",
       "album": {
-        "name": "Blissda",
-        "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 343332,
-      "name": "Blissda",
-      "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
-    },
-    {
-      "added_at": "2026-08-14 04:00:25",
-      "album": {
         "name": "Solar Detroit",
         "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 486137,
       "name": "Solar Detroit",
       "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
+    },
+    {
+      "added_at": "2026-08-14 04:00:25",
+      "album": {
+        "name": "Blissda",
+        "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
     }
   ],
   "unique_name": "Afterhours",

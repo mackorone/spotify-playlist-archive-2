@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,190,936 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,190,496 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [CAN I WATCH YOU \(feat\. Pharrell Williams\)](https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:36 |
 | 50 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 
-Snapshot ID: `AAAAAJ0gGOHTcrkbe5yyBRCYxC2yI3n3`
+Snapshot ID: `AAAAAEHJ2avT7bDDV8luYkaYIqnZMH08`

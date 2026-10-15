@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chase & Status, Troye Sivan, Cloonee, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,120 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,040 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Oblivion](https://open.spotify.com/track/1lpOHHOroR14aSuJIPTSd5) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Oblivion](https://open.spotify.com/album/3gb5oPPQojvrcvvKSXEyAD) | 5:01 |
 | 100 | [closer to you](https://open.spotify.com/track/4gnhdrSod9R26IMJfDoRZD) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [goodbye, see u soon](https://open.spotify.com/album/5LilhMj1ajsekY93R6SYIi) | 3:16 |
 
-Snapshot ID: `AAAAAF/9z3o8hdsGaCLziWYpNIn4Oe72`
+Snapshot ID: `AAAAAASVwGi5NFRf+ekqStzkOWdlMQqM`

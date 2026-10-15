@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 323778,
+  "num_followers": 323858,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBv+eg2yRASmHGUalljmMkA9PtL",
+  "snapshot_id": "AAAAADxV7YhYNva0cx1lecXaWVQJjuDW",
   "tracks": [
     {
       "added_at": "2025-01-15 04:11:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 256253,
-      "name": "Sour Girl",
-      "url": "https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 256253,
+      "name": "Sour Girl",
+      "url": "https://open.spotify.com/track/6wNwHBUjsessjRioNVFbaO"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Monster (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 278653,
+      "name": "Crush With Eyeliner - Remastered",
+      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Whip-Smart",
         "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Monster (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
         }
       ],
-      "duration_ms": 278653,
-      "name": "Crush With Eyeliner - Remastered",
-      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
+      "duration_ms": 209000,
+      "name": "Feed the Tree",
+      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
       },
       "artists": [
         {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Feed the Tree",
-      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1419,22 +1435,6 @@
       "duration_ms": 143400,
       "name": "Heroin Girl",
       "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Monster (Remastered)",
-        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
-      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+        "name": "Ferment",
+        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
         }
       ],
-      "duration_ms": 254160,
-      "name": "Cold Blooded Old Times",
-      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
     }
   ],
   "unique_name": "Thrifted",

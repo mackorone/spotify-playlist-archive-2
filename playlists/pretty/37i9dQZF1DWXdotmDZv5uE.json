@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131098,
+  "num_followers": 131086,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIOXoXikbbBBhFgPlDmFIkfdHLQb",
+  "snapshot_id": "AAAAAJ1i9yRDz4TOmBpdwEyXwbbdI++K",
   "tracks": [
     {
       "added_at": "2026-06-08 22:39:48",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Canciones De Hotel",
+        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "duration_ms": 306840,
+      "name": "El Tiempo de Ti",
+      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 162000,
       "name": "Nada Me Va A Importar",
       "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Canciones De Hotel",
-        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "El Tiempo de Ti",
-      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Cocktail",
-        "url": "https://open.spotify.com/album/6L2qELGG144WItEUaAwVme"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Canciones De Hotel",
         "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 183533,
       "name": "El Eco de Tu Voz",
       "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/6L2qELGG144WItEUaAwVme"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Lo Mejor De La Baraja Con El Rey",
-        "url": "https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/35xHpveqPB1hlw6a1S7VWU"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Red Album",
         "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 213466,
       "name": "Cara de Pizza",
       "url": "https://open.spotify.com/track/3XOAOvlRTo3vConiAvUm29"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Lo Mejor De La Baraja Con El Rey",
+        "url": "https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/35xHpveqPB1hlw6a1S7VWU"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "El Tapat\u00edo",
-      "url": "https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Atemahawke",
         "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 231640,
       "name": "Vaquero Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "El Tapat\u00edo",
+      "url": "https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "El Jalisciense",
-      "url": "https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "El Jalisciense",
+      "url": "https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Puro Amor",
         "url": "https://open.spotify.com/album/0hFZkw9XGwxPj95PB5So0Z"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 158290,
       "name": "Chapala Surfin",
       "url": "https://open.spotify.com/track/5K927CEPQwhkY6eZ2TVkGH"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2026-06-08 22:39:48",

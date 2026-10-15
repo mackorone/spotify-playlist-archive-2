@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 177080,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 227973,
       "name": "Open Door",
       "url": "https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn"
@@ -790,10 +790,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 233000,
       "name": "Radar - Redux",
       "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/60oyH3TQwzSRCJ8kgFqwPp"
     },
     {
       "album": {
@@ -1140,6 +1158,24 @@
     {
       "album": {
         "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174729,
+      "name": "Things Will Matter",
+      "url": "https://open.spotify.com/track/25m9ufcln7PU84c5AO87N8"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter (Redux)",
         "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
       "artists": [
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 174729,
       "name": "Things Will Matter",
       "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"

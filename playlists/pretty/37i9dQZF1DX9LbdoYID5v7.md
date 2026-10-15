@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The iconic indie songs that defined an era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,780 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,832 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [Extraordinary](https://open.spotify.com/track/5fIGsUTmNIfJLZhqCd4D5h) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:24 |
 | 75 | [You! Me! Dancing! \- Remastered](https://open.spotify.com/track/0BiYKvf5gJ9bGNJnngyDkU) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [Hold On Now, Youngster..\. \(Remastered Deluxe Edition\)](https://open.spotify.com/album/3l0njASnHN0qcO4iMXJVNj) | 6:45 |
 
-Snapshot ID: `AAAAAMPGm/4QHR2ht6wq+/FPIlRcrEbT`
+Snapshot ID: `AAAAAG0MCK4rVLNL7wsLcsqVHQtmeF4S`

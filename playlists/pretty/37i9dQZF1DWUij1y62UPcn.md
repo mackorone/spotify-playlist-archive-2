@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,887 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,893 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
+| 1 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 2 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 |
 | 3 | [Sweet Darling](https://open.spotify.com/track/52op1vAuHGc0DLLhexfbUw) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:42 |
 | 4 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 59 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego® Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 60 | [Le plus fort du monde](https://open.spotify.com/track/0ZUAu9lg95YEVqV7M0GQf8) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait \(Réédition\)](https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI) | 3:19 |
 
-Snapshot ID: `AAAAAA1xrQZo+oDssGzJ0rJQ0ZYdonxA`
+Snapshot ID: `AAAAAAzvhJBN98vJ2EUGIh+6/g89h4iw`

@@ -11691,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
+    },
+    {
+      "album": {
         "name": "Soldier for Christ",
         "url": "https://open.spotify.com/album/410V8PBfngZEIx4Ufc7xdF"
       },
@@ -12716,7 +12738,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"

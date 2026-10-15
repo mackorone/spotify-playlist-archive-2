@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,971 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,970 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 12 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 13 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 14 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
-| 15 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
+| 15 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 16 | [Question Of The Day](https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Question Of The Day](https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1) | 2:31 |
-| 17 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
+| 17 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 18 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 19 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 20 | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg) | 3:15 |
-| 21 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
-| 22 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
+| 21 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
+| 22 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 | 23 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 24 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 25 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 45 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 46 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 47 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
-| 48 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
+| 48 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 49 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 50 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 
-Snapshot ID: `AAAAAC5VVixOiUBTg8mukuC0X+AYpHwB`
+Snapshot ID: `AAAAAOBzOXOb7zAZ/TMHbMt3RG1xFqsf`

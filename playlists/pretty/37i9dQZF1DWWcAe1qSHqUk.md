@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,185 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,187 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 25 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
 | 26 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
 | 27 | [Take on Me](https://open.spotify.com/track/79z93nZe6GxczLOvhrnObn) | [Eve St\. Jones](https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii) | [Jazz and 80s \- Part Two](https://open.spotify.com/album/4ID02AcGSCFRNg0qzg07TU) | 4:08 |
-| 28 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 |
+| 28 | [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 |
 | 29 | [In the Air Tonight](https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ) | [James Farrelli](https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg) | [In the Air](https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k) | 4:45 |
-| 30 | [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 |
+| 30 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 |
 | 31 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 32 | [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 |
 | 33 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 40 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 |
 | 41 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
 | 42 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
-| 43 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
-| 44 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
+| 43 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
+| 44 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 45 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
 | 46 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
 | 47 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
 | 48 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
-| 49 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 50 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
+| 49 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
+| 50 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 51 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
-| 52 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
-| 53 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |
+| 52 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |
+| 53 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
 | 54 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 55 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
 | 56 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 |
 | 75 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 
-Snapshot ID: `AAAAAI9cBFurGIZNP4yOJWY9BZLH0ZZL`
+Snapshot ID: `AAAAAO3kvpeaOQTA6o65megs/LFNzJ09`

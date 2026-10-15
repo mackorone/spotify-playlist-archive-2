@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528,006 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528,144 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 43 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 44 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI) | 3:55 |
 | 45 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
-| 46 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 47 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
+| 46 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
+| 47 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 48 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 49 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 50 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 52 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
 | 53 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
 | 54 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 |
-| 55 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
-| 56 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
+| 55 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
+| 56 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
 | 57 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 |
 | 58 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 59 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Pet Your Friends](https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy) | 4:51 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 93 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
 | 94 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
 | 95 | [Selling The Drama](https://open.spotify.com/track/7BG8BwW3Bhdq4PnZmjDBRm) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Awake The Best Of Live](https://open.spotify.com/album/4rSabzYGjgwZ04581fcBhV) | 3:25 |
-| 96 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
-| 97 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
+| 96 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
+| 97 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 98 | [Radiation Vibe](https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:41 |
 | 99 | [Everything Falls Apart](https://open.spotify.com/track/4l1W5SkH8EJJ9RQEq6UFMW) | [Dog's Eye View](https://open.spotify.com/artist/0ymKv4fh2eBhPT9HLTu8yH) | [Happy Nowhere](https://open.spotify.com/album/1BsYAt63QqAQ5QDrmYHyDf) | 3:54 |
 | 100 | [Brimful of Asha](https://open.spotify.com/track/63q6YV3Upkq5k3ZOu8tJ1A) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [When I Was Born For The 7th Time](https://open.spotify.com/album/13Mu9qKWeNmU1EUE1BJDTZ) | 5:17 |
 
-Snapshot ID: `AAAAAIbP9YyYC9FifH103xhQWnpvMxzh`
+Snapshot ID: `AAAAAI5/QvFUTDQvroEV7Db81jjCjuxl`

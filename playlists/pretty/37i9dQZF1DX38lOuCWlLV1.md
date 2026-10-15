@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,541 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,554 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 15 | [True Love](https://open.spotify.com/track/4LtR2SCM4T4jXxLmdmMN5t) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [True Love / Without You \(Alternate Version\)](https://open.spotify.com/album/6ARbKZIMefAeCexsOmZ5AP) | 5:40 |
 | 16 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 17 | [Life Is](https://open.spotify.com/track/4UwiQ5sB1G8r1pUOOzaeo2) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/66yx7qJqGDmhIiVWHFLnGF) | 3:08 |
-| 18 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
-| 19 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
+| 18 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
+| 19 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 | 20 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 21 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:05 |
 | 22 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 60 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
 | 61 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
 | 62 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
-| 63 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 64 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 65 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
+| 63 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
+| 64 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 65 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 66 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 67 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
-| 68 | [Swallowed in the Sea](https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 3:59 |
-| 69 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 68 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 69 | [Swallowed in the Sea](https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 3:59 |
 | 70 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
 | 71 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 72 | [I Know Places](https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 6:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 74 | [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 |
 | 75 | [I Promise](https://open.spotify.com/track/06KakoES48DwEoAiUIdjmg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 3:59 |
 
-Snapshot ID: `AAAAABnnEdORAmomiWGn/0UNDNdbILLq`
+Snapshot ID: `AAAAACGrd9/SiC0OLiSHXlUCXCbI7HAK`

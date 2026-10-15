@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,124 likes - 46 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,120 likes - 46 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,19 +40,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 30 | [One Bad Night](https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:55 |
 | 31 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 |
 | 32 | [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG) | 2:35 |
-| 33 | [Mr\. Brightside](https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Mr\. Brightside](https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex) | 3:48 |
-| 34 | [Sadness](https://open.spotify.com/track/3wW615TC8W0at2BjnOfiRM) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Sadness](https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F) | 2:39 |
+| 33 | [Sadness](https://open.spotify.com/track/3wW615TC8W0at2BjnOfiRM) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Sadness](https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F) | 2:39 |
+| 34 | [Mr\. Brightside](https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Mr\. Brightside](https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex) | 3:48 |
 | 35 | [sugar at the bottom](https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:05 |
 | 36 | [Ease My Mind](https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:19 |
-| 37 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 |
-| 38 | [L.O.V.E\. Me](https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:39 |
+| 37 | [L.O.V.E\. Me](https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:39 |
+| 38 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 |
 | 39 | [luna](https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:47 |
 | 40 | [Feeding the Fire](https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:30 |
-| 41 | [Rich Youth](https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:27 |
-| 42 | [She](https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 3:11 |
+| 41 | [She](https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 3:11 |
+| 42 | [Rich Youth](https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:27 |
 | 43 | [Need You Closer](https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Phantoms](https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA) | 4:12 |
 | 44 | [Given It All](https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:50 |
-| 45 | [Better Than Love](https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:09 |
-| 46 | [Runaway](https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:30 |
+| 45 | [Runaway](https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:30 |
+| 46 | [Better Than Love](https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:09 |
 
-Snapshot ID: `asrRgAAAAACMlMVAm4jj46kkQn5XS8Qz`
+Snapshot ID: `as10gAAAAAAlXJjJNWbin+apTCnkZTdS`

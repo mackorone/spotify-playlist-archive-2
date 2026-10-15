@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 107046,
+  "num_followers": 107084,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlbOhAHChZaHxlNOCZxYXDqXc2g",
+  "snapshot_id": "AAAAAK9/nDd0+GX02LyzOKQAnfMcJwgg",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:05",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Me Vas a Hacer Falta",
+      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
         "name": "Dos Gardenias",
         "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 181024,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Me Vas a Hacer Falta",
-      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
         "name": "D\u00e9jame Conocerte",
         "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 217658,
       "name": "D\u00e9jame Conocerte",
       "url": "https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 260147,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
+        "name": "Bolero Triste",
+        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Bolero Triste",
+      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
-        "name": "Bolero Triste",
-        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Bolero Triste",
-      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "El Verdugo",
-        "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "El Verdugo",
-      "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Me Hac\u00edas Falta T\u00fa",
         "url": "https://open.spotify.com/album/7aRFu5xFRFfG4FsG8dhk77"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185571,
       "name": "Me Hac\u00edas Falta T\u00fa",
       "url": "https://open.spotify.com/track/61EVKj9EDHEExfH3oJUxk8"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "El Verdugo",
+        "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "El Verdugo",
+      "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
     },
     {
       "added_at": "2026-09-25 04:03:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Emma Steinbakken, girl in red\(blue?\),  Chris Holsten og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,469 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,458 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 99 | [Mi Polo](https://open.spotify.com/track/5JPLCReWjUEMvRFZ63wwwk) | [Gud Griff](https://open.spotify.com/artist/1m5xUB9MDUAy4hJlNSmy2W), [CARCA](https://open.spotify.com/artist/1QcwVTCcpg2B9moBRefV1h) | [Mi Polo](https://open.spotify.com/album/36CgP0jCubqL7iLJK2ktOg) | 5:02 |
 | 100 | [All Your Pets Revived](https://open.spotify.com/track/1IyT3ATi3nZ0uuvGl1siCp) | [Bunker 2](https://open.spotify.com/artist/724LPAGXaeIoMGmJmSZskf) | [All Your Pets Revived](https://open.spotify.com/album/2YO9VAtPWHod8zsguUhmPr) | 4:22 |
 
-Snapshot ID: `AAAAAG749lKEkWicW8j8aDDPvFc3VA42`
+Snapshot ID: `AAAAAGJ4BOEg0BkVBouxQamQqTXYfdn2`

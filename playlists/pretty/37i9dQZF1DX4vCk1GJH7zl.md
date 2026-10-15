@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,190 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,192 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 12 | [Só Eu Sei](https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Sonora](https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj) | 3:33 |
 | 13 | [Improvável](https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Improvável](https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp) | 2:56 |
 | 14 | [Ontem](https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Migalhas](https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ) | 3:26 |
-| 15 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 |
-| 16 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 15 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 16 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 |
 | 17 | [Tudo Agora](https://open.spotify.com/track/0l8pT5SeKajbPoWsIHPpAF) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tudo Agora](https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo) | 4:09 |
 | 18 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 19 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 34 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
 | 35 | [Numas de Tapete Vermelho](https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04) | [João Gabriel](https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Numas de Tapete Vermelho](https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu) | 3:49 |
 | 36 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
-| 37 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 |
-| 38 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
+| 37 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
+| 38 | [Ficou Saudade](https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Ficou Saudade](https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv) | 2:53 |
 | 39 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
 | 40 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
 | 41 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 46 | [Rádio](https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Rádio](https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH) | 3:22 |
 | 47 | [Feedback \- Ao Vivo](https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Solo Ma Non Troppo](https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV) | 3:32 |
 | 48 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 |
-| 49 | [Douraddo](https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Douraddo](https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC) | 2:41 |
-| 50 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [Peu Del Rey](https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
+| 49 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [Peu Del Rey](https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
+| 50 | [Douraddo](https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Douraddo](https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC) | 2:41 |
 | 51 | [Prisão das Ruas \- Ao Vivo](https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF) | [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF) | [Prisão das Ruas \(Ao Vivo\)](https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh) | 3:34 |
 | 52 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
 | 53 | [Coming Home](https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T) | [Twilight Aura](https://open.spotify.com/artist/1xo1rupmkgRiqborQShT30), [Daísa Munhoz](https://open.spotify.com/artist/4c9Fry8ueZr78paHWdEF0y), [Fabio Caldeira](https://open.spotify.com/artist/4pyFz0gJQlmVrlpQyo1J3T), [Marcel Ribas](https://open.spotify.com/artist/6z7ABRk5aFU97bOo9XuKCf) | [Believe](https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W) | 4:03 |
 | 54 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 55 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 
-Snapshot ID: `AAAAAJrnsA3vax9LFtWb54LP+oo0TX3D`
+Snapshot ID: `AAAAAIZAmcnEUEqCvn+Z072IMsragte4`

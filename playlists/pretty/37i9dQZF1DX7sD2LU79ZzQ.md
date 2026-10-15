@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Christie
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,068 likes - 96 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,077 likes - 96 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 95 | [Bahagia Lagi \- Acoustic](https://open.spotify.com/track/2uqvi6mX3AA6cyoadHb7a3) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi \(Acoustic\)](https://open.spotify.com/album/5pzAH8Ihu6R8sqtnSdGGnK) | 3:41 |
 | 96 | [Bangga](https://open.spotify.com/track/1NajyXjwvpw1E9XTCWFSep) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Bangga](https://open.spotify.com/album/3rOE34WAo8hBki0cSMGLmd) | 3:25 |
 
-Snapshot ID: `AAAAAOeceSUyEMH704p8UZCAQKzaR+mC`
+Snapshot ID: `AAAAAILCJZx2wxA8LJA/RRNOcTrGnBpv`

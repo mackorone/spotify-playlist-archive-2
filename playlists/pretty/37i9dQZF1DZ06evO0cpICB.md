@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 
 > This is FLO\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,309 likes - 36 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,322 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 | 4 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
 | 5 | [Walk Like This](https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:17 |
 | 6 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
-| 7 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
-| 8 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 7 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 8 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 9 | [On & On](https://open.spotify.com/track/7cjUFCh2aWX9E9bXig3nV7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:21 |
 | 10 | [I can’t be high around you anymore](https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:20 |
 | 11 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 | 20 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 |
 | 21 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
 | 22 | [Don’t Break Her Heart](https://open.spotify.com/track/1L0qyb6Xwna2BZU7gP5W9Z) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:43 |
-| 23 | [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 |
-| 24 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
+| 23 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
+| 24 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 25 | [AAA](https://open.spotify.com/track/13jJewBlWN5XBWpSkwnl0O) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:24 |
-| 26 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
-| 27 | [Do Too Much](https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:19 |
-| 28 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
-| 29 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
-| 30 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
-| 31 | [Say Less](https://open.spotify.com/track/6hyIzRsqpSHhfMy8QQ05sB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:05 |
-| 32 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
-| 33 | [act xvi: twentyfoe7](https://open.spotify.com/track/4T5KVXgVYIniGEpz0L8Hft) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:44 |
-| 34 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 26 | [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 |
+| 27 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
+| 28 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
+| 29 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
+| 30 | [Do Too Much](https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:19 |
+| 31 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
+| 32 | [act xvi: twentyfoe7](https://open.spotify.com/track/4T5KVXgVYIniGEpz0L8Hft) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:44 |
+| 33 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 34 | [Say Less](https://open.spotify.com/track/6hyIzRsqpSHhfMy8QQ05sB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:05 |
 | 35 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
 | 36 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 |
 
-Snapshot ID: `asrRgAAAAAATpbjmXlz0hHUVx4J97/Px`
+Snapshot ID: `as10gAAAAAB/AyOZXSF8P/WzHLh1On1O`

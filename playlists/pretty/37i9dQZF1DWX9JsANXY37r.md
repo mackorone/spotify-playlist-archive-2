@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,616 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,614 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 28 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
 | 29 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 |
 | 30 | [Aloha](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Panorama](https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r) | 3:38 |
-| 31 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
-| 32 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
+| 31 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
+| 32 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
 | 33 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
 | 34 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
 | 35 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 53 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 |
 | 54 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
 | 55 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
-| 56 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
-| 57 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 56 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 57 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 58 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |
 | 59 | [Sur Une Chanson En Français](https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Couleurs Primaires](https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9) | 5:14 |
-| 60 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
+| 60 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |
 
-Snapshot ID: `AAAAALAngnQaNMcoOZ2ZrJHGmZhpjt3m`
+Snapshot ID: `AAAAALf+T5WJ/CmJvLi9d3lVyCPCsbkI`

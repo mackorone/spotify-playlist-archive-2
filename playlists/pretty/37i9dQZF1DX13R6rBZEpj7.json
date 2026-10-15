@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 287072,
+  "num_followers": 287121,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDk096VuXaYXn5HE7tf9YCp5ERD",
+  "snapshot_id": "AAAAAHsiTuPGQoOpQrJTyXPIcpwFNRT7",
   "tracks": [
     {
       "added_at": "2026-10-02 10:00:12",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "Foxtrot Oscar (Swear Down Remix)",
+        "url": "https://open.spotify.com/album/4iQPZBbDFjTNgSALgTtqWl"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Swear Down",
+          "url": "https://open.spotify.com/artist/77D463HA56F4uS1h7VPFkJ"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Foxtrot Oscar (Swear Down Remix)",
+      "url": "https://open.spotify.com/track/5GMWuDENuIgBFSzMctUAIK"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 173871,
       "name": "Bun It Down",
       "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "Foxtrot Oscar (Swear Down Remix)",
-        "url": "https://open.spotify.com/album/4iQPZBbDFjTNgSALgTtqWl"
-      },
-      "artists": [
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Swear Down",
-          "url": "https://open.spotify.com/artist/77D463HA56F4uS1h7VPFkJ"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Foxtrot Oscar (Swear Down Remix)",
-      "url": "https://open.spotify.com/track/5GMWuDENuIgBFSzMctUAIK"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "SEND IT",
+        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
+      },
+      "artists": [
+        {
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "SEND IT",
+      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Sorry I'm Like This",
         "url": "https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 172904,
       "name": "Sorry I'm Like This",
       "url": "https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "SEND IT",
-        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "SEND IT",
-      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "Inside The Rider (DJ Q Edit)",
+        "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Inside The Rider - DJ Q Edit",
+      "url": "https://open.spotify.com/track/4aYOasbeZxnf5OZmF5kUuw"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        },
-        {
-          "name": "Wardy",
-          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "Shot to My Heart",
         "url": "https://open.spotify.com/album/454Lye1qTnnMlsEqIyvjs9"
       },
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Inside The Rider (DJ Q Edit)",
-        "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
         },
         {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+          "name": "Wardy",
+          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Inside The Rider - DJ Q Edit",
-      "url": "https://open.spotify.com/track/4aYOasbeZxnf5OZmF5kUuw"
+      "duration_ms": 245106,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1343,38 +1343,46 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "I Just Want U",
-        "url": "https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD"
+        "name": "Little Bitta This",
+        "url": "https://open.spotify.com/album/3sTmICLlDJWDkXjHnQDuq1"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        },
+        {
+          "name": "Morty",
+          "url": "https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD"
+        },
+        {
+          "name": "Melvyn",
+          "url": "https://open.spotify.com/artist/0KdHrIqg805HwRwdxTMhjK"
         }
       ],
-      "duration_ms": 208050,
-      "name": "I Just Want U",
-      "url": "https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk"
+      "duration_ms": 204315,
+      "name": "Little Bitta This",
+      "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
     },
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Bad Boi Selecta",
-        "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
+        "name": "No Lie (BL3SS Remix)",
+        "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
       },
       "artists": [
         {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+          "name": "Harry T",
+          "url": "https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa"
         },
         {
-          "name": "JACK MARLOW",
-          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
         }
       ],
-      "duration_ms": 168351,
-      "name": "Bad Boi Selecta",
-      "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
+      "duration_ms": 134166,
+      "name": "No Lie - BL3SS Remix",
+      "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
     }
   ],
   "unique_name": "Bassline Bangers",

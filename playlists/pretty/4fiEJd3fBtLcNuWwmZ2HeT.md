@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 524 songs - 1 day 6 hr 11 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 525 songs - 1 day 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -532,5 +532,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 522 | [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 |
 | 523 | [AaAaAaAAaAaAAa \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/4NN46C9Wznv1vVWqFhE9wn) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Owari](https://open.spotify.com/album/2D3a0mdI5nvHelF8vWL1Lj) | 3:39 |
 | 524 | [저격수 인형](https://open.spotify.com/track/5B1us6jlfXwpqhEZRa8s4P) | [WyvernP](https://open.spotify.com/artist/2Iw5m7MkqPhLpQxdx0SVmn), [유니](https://open.spotify.com/artist/3bFS3jV2rAepYVOuft1iDP) | [Zinnia \(2016\-2018 Collection Vol.01\)](https://open.spotify.com/album/77qDP4NFpjc763QSvxNAqF) | 3:21 |
+| 525 | [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 |
 
-Snapshot ID: `AAAKhU3aq6YxZ7Iml7sAi/8COvr6m5Qy`
+Snapshot ID: `AAAKhrW0663av2FMC1Yknb+40RkuhfcD`

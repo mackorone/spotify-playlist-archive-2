@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Tamara Wirth",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: IVANA",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 164000,
       "name": "Archive Folder",
       "url": "https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 169095,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/5pg0NSRG5F6uoil4s5quzl"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 134308,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/5DSiL11ZisLDkjCyOQBWSN"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 197916,
       "name": "blau",
       "url": "https://open.spotify.com/track/74xSEc3zlocHq5N4G8jQQK"
@@ -8215,7 +8215,7 @@
     },
     {
       "album": {
-        "name": "Versagensangst",
+        "name": "Versagensangst/Eisberg",
         "url": "https://open.spotify.com/album/15IR80wgsj7hRt5DUsnUDb"
       },
       "artists": [
@@ -10565,6 +10565,24 @@
     },
     {
       "album": {
+        "name": "Get to Know Me",
+        "url": "https://open.spotify.com/album/5RGGbgHUhaOUdRij8WolO2"
+      },
+      "artists": [
+        {
+          "name": "LOTTS",
+          "url": "https://open.spotify.com/artist/2CCQ9gvSonrYi0dN6YKz49"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177295,
+      "name": "Get to Know Me",
+      "url": "https://open.spotify.com/track/4zh34E6Z93q8ZaS4AzQaz1"
+    },
+    {
+      "album": {
         "name": "Get You Back",
         "url": "https://open.spotify.com/album/0KT1zhe7CNjNE1GKTMXoUn"
       },
@@ -12782,7 +12800,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 172597,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/61Na2P3soZf90yR590STNQ"
@@ -13946,7 +13964,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 208000,
       "name": "Ich dachte es w\u00e4r' L'Amour toujours",
       "url": "https://open.spotify.com/track/5rzVThaJh0gWFXjHNG12Ty"
@@ -15028,7 +15046,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 179587,
       "name": "Jumpy",
       "url": "https://open.spotify.com/track/0TiFWL0XanGFfHUsCrjHsi"
@@ -15288,6 +15306,24 @@
       "duration_ms": 183624,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/5cOsBPbyuoVIhC02cqi73m"
+    },
+    {
+      "album": {
+        "name": "Katz und Maus",
+        "url": "https://open.spotify.com/album/2NoOmFZaDdLT9RDnuWzWYs"
+      },
+      "artists": [
+        {
+          "name": "LORENZ",
+          "url": "https://open.spotify.com/artist/29AFMZC7aOFh52PJn1JoRx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191615,
+      "name": "Katz und Maus",
+      "url": "https://open.spotify.com/track/5c3yFUXoJOxVAM6St6aCme"
     },
     {
       "album": {
@@ -15742,6 +15778,28 @@
       "duration_ms": 129094,
       "name": "Kleiner Drei <3",
       "url": "https://open.spotify.com/track/1tNSVqJZreLeRSNrqgAKo9"
+    },
+    {
+      "album": {
+        "name": "kleinstadt",
+        "url": "https://open.spotify.com/album/1uZ4gSnKANsu6gPgQbvoWC"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/5mP8f62pbhO2GlQI1I4yin"
+        },
+        {
+          "name": "schwerelos",
+          "url": "https://open.spotify.com/artist/0BZqz8o4BKQxQkpp8DfQmx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197684,
+      "name": "kleinstadt",
+      "url": "https://open.spotify.com/track/0zpS4kJixlQr5eWzxpRnZX"
     },
     {
       "album": {
@@ -17655,6 +17713,24 @@
     },
     {
       "album": {
+        "name": "luna",
+        "url": "https://open.spotify.com/album/6n8gsGRrPhhTa4LbzUNUVK"
+      },
+      "artists": [
+        {
+          "name": "Selina Mour",
+          "url": "https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/1ESfQVli2STp4tW9XwN4IG"
+    },
+    {
+      "album": {
         "name": "l\u00fcge",
         "url": "https://open.spotify.com/album/4lcZB8nIcnn07Doc32lDqv"
       },
@@ -17670,6 +17746,24 @@
       "duration_ms": 179144,
       "name": "l\u00fcge",
       "url": "https://open.spotify.com/track/1JiUWjoYn3GVwJg4dw6dMR"
+    },
+    {
+      "album": {
+        "name": "L\u00fcgen",
+        "url": "https://open.spotify.com/album/65iPQCJKCwSxg8Q4yqrDJJ"
+      },
+      "artists": [
+        {
+          "name": "Luca Malina",
+          "url": "https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208008,
+      "name": "L\u00fcgen",
+      "url": "https://open.spotify.com/track/5bzleNHcpxIxtKK17pqWaS"
     },
     {
       "album": {
@@ -19670,7 +19764,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 104276,
       "name": "NO HABLO ESPA\u00d1OL",
       "url": "https://open.spotify.com/track/444uebfXYQiJGCFZlkvH4Z"
@@ -20168,7 +20262,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 166613,
       "name": "nur nh idee",
       "url": "https://open.spotify.com/track/3Vs6j00BhZVOjOxA2mvtD2"
@@ -23211,6 +23305,24 @@
     },
     {
       "album": {
+        "name": "rote nelken",
+        "url": "https://open.spotify.com/album/6Ag1UX2Dk59hTr4XCfA9jg"
+      },
+      "artists": [
+        {
+          "name": "IVANA",
+          "url": "https://open.spotify.com/artist/0nEwLOXZHaMlwWsbUTcKrU"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "rote nelken",
+      "url": "https://open.spotify.com/track/1WpQgEoNNJdDRc30ll3Jzr"
+    },
+    {
+      "album": {
         "name": "Roter Panda",
         "url": "https://open.spotify.com/album/7m98nn7oSdKbFUdKaflITi"
       },
@@ -26135,6 +26247,24 @@
     },
     {
       "album": {
+        "name": "Stevie",
+        "url": "https://open.spotify.com/album/7hz1z5jw7Pmv2MDtJ7s1wE"
+      },
+      "artists": [
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194203,
+      "name": "Stevie",
+      "url": "https://open.spotify.com/track/0UmEboBfvL6nm9m281Ajan"
+    },
+    {
+      "album": {
         "name": "still life",
         "url": "https://open.spotify.com/album/7oYrLzInntMh7wdbryFnDS"
       },
@@ -28362,7 +28492,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 161076,
       "name": "Treiben",
       "url": "https://open.spotify.com/track/3N15kNerqLR7MgKvzterur"
@@ -28998,6 +29128,24 @@
       "duration_ms": 182074,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx"
+    },
+    {
+      "album": {
+        "name": "untergehen",
+        "url": "https://open.spotify.com/album/2peu0dxB12XluKiRcm2QAB"
+      },
+      "artists": [
+        {
+          "name": "frits",
+          "url": "https://open.spotify.com/artist/3Tns63IFvbFsAeUIi7Herf"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170002,
+      "name": "untergehen",
+      "url": "https://open.spotify.com/track/0NPxB9YwQmWDAcehclgGaa"
     },
     {
       "album": {
@@ -30279,6 +30427,24 @@
     },
     {
       "album": {
+        "name": "Well Wisher, Wet Kisser",
+        "url": "https://open.spotify.com/album/2hmqWI6gn159YygEYyxDru"
+      },
+      "artists": [
+        {
+          "name": "Hayden Arp",
+          "url": "https://open.spotify.com/artist/71eMSu2sFmq5Q1wJ6H5WoG"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Well Wisher, Wet Kisser",
+      "url": "https://open.spotify.com/track/5L0IndeW67lte2qhVXSaYL"
+    },
+    {
+      "album": {
         "name": "Weltraumarmee",
         "url": "https://open.spotify.com/album/0bZKU0cvyL2M4poWpIJq77"
       },
@@ -30406,6 +30572,24 @@
       "duration_ms": 141500,
       "name": "Wenn man nicht mehr kann",
       "url": "https://open.spotify.com/track/3osE7BRpjLGPMLGkqV5RmH"
+    },
+    {
+      "album": {
+        "name": "wer sagt, dass ich muss",
+        "url": "https://open.spotify.com/album/7HVMCxJS9FrHZJdBGwewHL"
+      },
+      "artists": [
+        {
+          "name": "Vyka",
+          "url": "https://open.spotify.com/artist/3MxRl66GqmoZa036cM3Tas"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189448,
+      "name": "wer sagt, dass ich muss",
+      "url": "https://open.spotify.com/track/1zhJsH860UnhfNppNYydUn"
     },
     {
       "album": {

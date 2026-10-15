@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,139 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,169 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 22 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 |
 | 23 | [In the End](https://open.spotify.com/track/4hckTii6dURNqlfS9JNjjK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 2:56 |
 | 24 | [Wanted \- Remastered 2026](https://open.spotify.com/track/29dxtW2MLnH2acr2n1Yyqm) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 2:07 |
-| 25 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 |
-| 26 | [Dreaming My Dreams \- 2025 Remastered](https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:36 |
+| 25 | [Dreaming My Dreams \- 2025 Remastered](https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:36 |
+| 26 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 |
 | 27 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:39 |
 | 28 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 |
 | 29 | [Liar](https://open.spotify.com/track/4QMEggSeW9i4dJHYDtPKn7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Super Deluxe\)](https://open.spotify.com/album/11t5u8CpcC89l1zgqdqF5Z) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
 | 50 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
 
-Snapshot ID: `asrRgAAAAABII3/elEYbkXDxM5R7tPLu`
+Snapshot ID: `as10gAAAAADDxjSiPB53pzULYXkkC+W5`

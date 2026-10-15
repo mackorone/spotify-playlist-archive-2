@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 436791,
+  "num_followers": 436890,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMibHt4LhsJTEueeDjjXuydKE+nu",
+  "snapshot_id": "AAAAAP0/+flDgzOxSzVNbIlnNVH7IyhG",
   "tracks": [
     {
       "added_at": "2026-09-25 16:48:56",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/4Y9IOTRm5rEgZ0jSP9KGmM"
     },
     {
+      "added_at": "2026-10-07 04:00:11",
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
       "added_at": "2026-09-25 16:48:56",
       "album": {
         "name": "(((((ultraSOUND)))))+",
@@ -399,22 +415,6 @@
       "duration_ms": 200204,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"
-    },
-    {
-      "added_at": "2026-10-07 04:00:11",
-      "album": {
-        "name": "Dead Company",
-        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 199555,
-      "name": "Dead Company",
-      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Dreaming Alone",
         "url": "https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 168000,
       "name": "Garage",
       "url": "https://open.spotify.com/track/1UiTxC6y88t1Li8yrIga8F"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Stain",
-        "url": "https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85"
-      },
-      "artists": [
-        {
-          "name": "LEMONSUCKR",
-          "url": "https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M"
-        }
-      ],
-      "duration_ms": 187949,
-      "name": "Stain",
-      "url": "https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "no somos iguales",
         "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 139373,
       "name": "el combito",
       "url": "https://open.spotify.com/track/20GZrtIucl7nskm1CNwK6X"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Stain",
+        "url": "https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85"
+      },
+      "artists": [
+        {
+          "name": "LEMONSUCKR",
+          "url": "https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M"
+        }
+      ],
+      "duration_ms": 187949,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Sign (Revision)",
         "url": "https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 186340,
       "name": "Sign (Revision)",
       "url": "https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "You're Gonna Need A Little Music",
-        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Cherophobe Rock",
-      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Small Town Life",
         "url": "https://open.spotify.com/album/09I0lCsItGZqM5pD6DsmQ3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 227000,
       "name": "Small Town Life",
       "url": "https://open.spotify.com/track/0pMHeLbRHgky3mGNKqEXHu"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "You're Gonna Need A Little Music",
+        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Cherophobe Rock",
+      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Moon And Back",
+        "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Wagathoni",
+          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moon And Back",
+      "url": "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "WAY UP",
         "url": "https://open.spotify.com/album/47FynGHTV7VUYqAGfnZm9q"
       },
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Moon And Back",
-        "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        },
-        {
-          "name": "Wagathoni",
-          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moon And Back",
-      "url": "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 124372,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s"
+      },
+      "artists": [
+        {
+          "name": "Rylo & Le Prof",
+          "url": "https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4"
+        }
+      ],
+      "duration_ms": 162923,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s"
+        "name": "Adult DVD",
+        "url": "https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7"
       },
       "artists": [
         {
-          "name": "Rylo & Le Prof",
-          "url": "https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4"
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
         }
       ],
-      "duration_ms": 162923,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu"
+      "duration_ms": 205099,
+      "name": "Do As I Please",
+      "url": "https://open.spotify.com/track/0750whlQFm7r6nN3RTKcif"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1335,22 +1351,6 @@
       "duration_ms": 209533,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Adult DVD",
-        "url": "https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7"
-      },
-      "artists": [
-        {
-          "name": "Adult DVD",
-          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
-        }
-      ],
-      "duration_ms": 205099,
-      "name": "Do As I Please",
-      "url": "https://open.spotify.com/track/0750whlQFm7r6nN3RTKcif"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "NAFIDA",
-        "url": "https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs"
+        "name": "Steel Beans",
+        "url": "https://open.spotify.com/album/3HWe5b34UFa85VqZNvxNFD"
       },
       "artists": [
         {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+          "name": "Steel Beans",
+          "url": "https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh"
         },
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 161260,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD"
+      "duration_ms": 221804,
+      "name": "Too On",
+      "url": "https://open.spotify.com/track/3Q4TgCU3WopMMQFgs3iutO"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1511,22 +1511,38 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Steel Beans",
-        "url": "https://open.spotify.com/album/3HWe5b34UFa85VqZNvxNFD"
+        "name": "NAFIDA",
+        "url": "https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs"
       },
       "artists": [
         {
-          "name": "Steel Beans",
-          "url": "https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh"
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 221804,
-      "name": "Too On",
-      "url": "https://open.spotify.com/track/3Q4TgCU3WopMMQFgs3iutO"
+      "duration_ms": 161260,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "D\u00cdA 3",
+        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 230496,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1559,22 +1575,6 @@
       "duration_ms": 220334,
       "name": "Pretty Love",
       "url": "https://open.spotify.com/track/4Cnhlfb83e0GPwDWO4ZMal"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "D\u00cdA 3",
-        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 230496,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "duration_ms": 235239,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "I Want What I Want",
         "url": "https://open.spotify.com/album/4Y39p70moAouyUQ8RXVXZ3"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 368256,
       "name": "I Want What I Want",
       "url": "https://open.spotify.com/track/1g7dC3xN9jXMfQpEkcvkqo"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Hardcore",
-        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
-      },
-      "artists": [
-        {
-          "name": "Max Baby",
-          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
-        }
-      ],
-      "duration_ms": 235239,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Pink Limo",
-        "url": "https://open.spotify.com/album/7GZQxL6oxF72K2bfDqs5LJ"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Pink Limo",
-      "url": "https://open.spotify.com/track/1wvaktk88WpnMvfI195XWq"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "The Runner",
         "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 222960,
       "name": "The Runner",
       "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Pink Limo",
+        "url": "https://open.spotify.com/album/7GZQxL6oxF72K2bfDqs5LJ"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Pink Limo",
+      "url": "https://open.spotify.com/track/1wvaktk88WpnMvfI195XWq"
     },
     {
       "added_at": "2026-09-25 16:48:56",

@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
-  "num_followers": 89613,
+  "num_followers": 89609,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJJ5mOXMUtzm9s8aSqxhT8Zrkix",
+  "snapshot_id": "AAAAAL0s1r2Xr1EvsCwapWtlSXSLpp9A",
   "tracks": [
     {
       "added_at": "2026-10-09 04:03:44",
@@ -18,6 +18,10 @@
         {
           "name": "Franz Keloh",
           "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
+        },
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
         }
       ],
       "duration_ms": 94285,
@@ -451,22 +455,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "Douze sur douze",
         "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
       },
@@ -483,6 +471,22 @@
       "duration_ms": 140268,
       "name": "Signe (avec Statzz)",
       "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -539,6 +543,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "GAMAN",
+        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "DISCONTINU\u00c9",
         "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
@@ -563,22 +583,6 @@
       "duration_ms": 175476,
       "name": "DISCONTINU\u00c9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "GAMAN",
-        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 179820,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1007,58 +1011,6 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
-        "name": "AUCUN MENSONGE",
-        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
-      },
-      "artists": [
-        {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "TOUT CE QU'ON FAIT",
-      "url": "https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "D'o\u00f9 je viens",
-        "url": "https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "D'o\u00f9 je viens",
-      "url": "https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Disque D'or",
-        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
-      },
-      "artists": [
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Disque D'or",
-      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
         "name": "MTL's Finest",
         "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
       },
@@ -1079,6 +1031,58 @@
       "duration_ms": 141176,
       "name": "MTL's Finest",
       "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "D'o\u00f9 je viens",
+        "url": "https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "D'o\u00f9 je viens",
+      "url": "https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "AUCUN MENSONGE",
+        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "TOUT CE QU'ON FAIT",
+      "url": "https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
+      },
+      "artists": [
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Disque D'or",
+      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
     },
     {
       "added_at": "2026-10-09 04:03:44",
@@ -1339,6 +1343,22 @@
     {
       "added_at": "2026-10-09 04:03:44",
       "album": {
+        "name": "Super freak",
+        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Super freak",
+      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
+    },
+    {
+      "added_at": "2026-10-09 04:03:44",
+      "album": {
         "name": "Take the time",
         "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 177562,
       "name": "Take the time",
       "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
-    },
-    {
-      "added_at": "2026-10-09 04:03:44",
-      "album": {
-        "name": "Super freak",
-        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Super freak",
-      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     },
     {
       "added_at": "2026-10-09 04:03:44",

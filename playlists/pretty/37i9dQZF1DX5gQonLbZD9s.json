@@ -1,12 +1,12 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1473824,
+  "num_followers": 1473832,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEor/UJSORmQHwQKKpxayw1h36yK",
+  "snapshot_id": "AAAAAOEBwnkXbVOnQQKJB960JTG/QIoE",
   "tracks": [
     {
       "added_at": "2026-04-06 14:44:29",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 197946,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
+      "added_at": "2026-10-09 04:02:22",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "I Do This For You",
+      "url": "https://open.spotify.com/track/4zbpLdLVStxror1xSjPLdG"
+    },
+    {
       "added_at": "2026-04-06 14:44:29",
       "album": {
         "name": "TYLA",
@@ -1311,22 +1327,6 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2026-10-09 04:02:22",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "I Do This For You",
-      "url": "https://open.spotify.com/track/4zbpLdLVStxror1xSjPLdG"
     }
   ],
   "unique_name": "Pumped Pop",

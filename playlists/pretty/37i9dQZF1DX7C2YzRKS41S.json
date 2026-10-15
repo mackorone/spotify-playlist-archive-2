@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 151351,
+  "num_followers": 151360,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANpEpLrfPYYgzgGktNVaIE/1saNp",
+  "snapshot_id": "AAAAAOrBvH/Lk70QKAemIVwMDM6oAXjh",
   "tracks": [
     {
       "added_at": "2025-10-25 00:54:25",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "A Encomenda da Minha Vida",
+        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "A Encomenda da Minha Vida",
+      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "La\u00e7os",
         "url": "https://open.spotify.com/album/51sijugqSA8tgMswbFjupX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 240585,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "A Encomenda da Minha Vida",
-        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 178644,
-      "name": "A Encomenda da Minha Vida",
-      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 162214,
       "name": "Minha Voz",
       "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -851,22 +851,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Milton + esperanza",
-        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
+        "name": "Todas as coisas do cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 276906,
-      "name": "A Day in the Life",
-      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
+      "duration_ms": 241623,
+      "name": "n\u00e3o h\u00e1 voz que alcance",
+      "url": "https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -887,18 +883,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Todas as coisas do cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W"
+        "name": "Milton + esperanza",
+        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 241623,
-      "name": "n\u00e3o h\u00e1 voz que alcance",
-      "url": "https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI"
+      "duration_ms": 276906,
+      "name": "A Day in the Life",
+      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
     },
     {
       "added_at": "2025-10-25 00:54:25",

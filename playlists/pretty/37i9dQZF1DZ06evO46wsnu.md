@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,713 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,727 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,26 +21,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 11 | [Make It Stop \(September's Children\)](https://open.spotify.com/track/0wHNrrefyaeVewm4NxjxrX) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:54 |
 | 12 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
 | 13 | [Audience Of One](https://open.spotify.com/track/1YkozbENeETx2a45JWrr8E) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:05 |
-| 14 | [Under The Knife](https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 2:45 |
+| 14 | [Behind Closed Doors](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:15 |
 | 15 | [Like The Angel](https://open.spotify.com/track/2Z6QkTQhdFlZMfB1rkc9wp) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 2:46 |
 | 16 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
 | 17 | [From Heads Unworthy](https://open.spotify.com/track/1GWqIqTchxGaectAU24poN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
-| 18 | [Behind Closed Doors](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:15 |
+| 18 | [Under The Knife](https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 2:45 |
 | 19 | [Katy Bar the Door](https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Katy Bar the Door / Living Undercover](https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs) | 3:25 |
 | 20 | [Architects](https://open.spotify.com/track/1O7oz3f9EuSeeX0J7t5z6J) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:42 |
 | 21 | [The Dirt Whispered](https://open.spotify.com/track/5CAaWuGhF4XvUm2liCkThA) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:09 |
 | 22 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
 | 23 | [Living Undercover](https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Katy Bar the Door / Living Undercover](https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs) | 3:49 |
-| 24 | [Paper Wings](https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:43 |
-| 25 | [This Is Letting Go](https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:41 |
+| 24 | [This Is Letting Go](https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:41 |
+| 25 | [Paper Wings](https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:43 |
 | 26 | [House On Fire](https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:14 |
 | 27 | [Tragedy + Time](https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:17 |
-| 28 | [Black Masks & Gasoline](https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 2:59 |
-| 29 | [Survivor Guilt](https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:59 |
+| 28 | [Survivor Guilt](https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:59 |
+| 29 | [Black Masks & Gasoline](https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 2:59 |
 | 30 | [Everchanging](https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Unraveling \(Re\-Issue\)](https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u) | 3:47 |
 | 31 | [People Live Here](https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:08 |
-| 32 | [Heaven Knows](https://open.spotify.com/track/5VtJ3LFpIJ7ACYTS3xibLb) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 3:23 |
-| 33 | [Life Less Frightening](https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:44 |
+| 32 | [Life Less Frightening](https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:44 |
+| 33 | [Heaven Knows](https://open.spotify.com/track/5VtJ3LFpIJ7ACYTS3xibLb) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 3:23 |
 | 34 | [Miracle \- Ghost Note Symphonies](https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 4:02 |
 | 35 | [Nod](https://open.spotify.com/track/0oVGfCae0v0ygXbYklG5fk) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:02 |
 | 36 | [Forfeit](https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 49 | [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 |
 | 50 | [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 |
 
-Snapshot ID: `asrRgAAAAAC8fi5LlO9GKsFvvp228ac6`
+Snapshot ID: `as10gAAAAADjesaPge91wWTkWxAtgVBV`

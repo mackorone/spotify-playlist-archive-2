@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 9 hr 33 min
+191 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bloqueau](https://open.spotify.com/track/6qbGnfhExKzOlAXW2PszfO) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [EL SOBREVIVIENTE WWW](https://open.spotify.com/album/1GczTJTAoJSPILp7gEMEfS) | 3:18 | 2026-01-24 |  |
 | [Bolerito](https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:47 | 2025-11-07 |  |
 | [Borrachita](https://open.spotify.com/track/3SX4yr2LJ6PYAoxu5JVZRB) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Borrachita](https://open.spotify.com/album/7s5lLiAVlmxu4SzCTMhnQk) | 2:32 | 2025-11-07 |  |
+| [Borracho Y Loco](https://open.spotify.com/track/2R7sqvdlpFDH3Lm1JMjvQ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Borracho Y Loco](https://open.spotify.com/album/47pLgGfLbJiQUSwvPlxD8q) | 3:10 | 2026-10-14 |  |
 | [BRUJERÍA CREO](https://open.spotify.com/track/2HtzCFd4s6jpoC8lZl0Uxh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:26 | 2025-11-07 |  |
 | [Bubble Gum \(with Yandel\)](https://open.spotify.com/track/0WPxLebZfb2ratPznK7iiT) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Bubble Gum \(with Yandel\)](https://open.spotify.com/album/622dtSTJDtnEiDdl9jhOe5) | 2:34 | 2025-11-07 |  |
 | [Bye](https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 3:23 | 2026-08-01 |  |
@@ -139,6 +140,7 @@
 | [Oveja Negra](https://open.spotify.com/track/2iu4sVHpHaSWWuIzTbr0u2) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:41 | 2025-11-07 |  |
 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 | 2025-11-07 |  |
 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 | 2025-11-07 |  |
+| [PALOMINO](https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [PALOMINO](https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ) | 2:14 | 2026-10-14 |  |
 | [Pary](https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 2:52 | 2026-08-22 |  |
 | [Pienso En Ella](https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT) | 2:39 | 2025-11-07 |  |
 | [Poblado \- Remix](https://open.spotify.com/track/2K1CQMoG2Dy5nmeOYnhoi8) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 6:32 | 2025-11-07 |  |
@@ -151,6 +153,7 @@
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2025-11-07 |  |
 | [Que Fuerte](https://open.spotify.com/track/6mwp7nS0bI6luNYxajHeWA) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:04 | 2025-11-07 |  |
 | [QUE ME HICISTE](https://open.spotify.com/track/64y7606OQWxKysceRlkNxI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:46 | 2025-11-07 |  |
+| [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 | 2026-10-14 |  |
 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 | 2026-10-13 |  |
 | [Qué injusto](https://open.spotify.com/track/3ayVKsrwK44VEdD7BdnDD7) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:16 | 2026-01-29 |  |
 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 | 2025-11-07 |  |
@@ -187,6 +190,7 @@
 | [Una Como Tu](https://open.spotify.com/track/2JiisgnK2JzDnnDPUvKUyo) | [Carlos Arroyo](https://open.spotify.com/artist/1v9AwCbfL2A1dXYWL0YGmv) | [Una Como Tu](https://open.spotify.com/album/1Kq8gisBaPFdKsF33btwKU) | 2:47 | 2025-11-07 |  |
 | [UNA GATITA](https://open.spotify.com/track/1ub2t7U0vMgf85l1LsTz2B) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:07 | 2025-11-07 |  |
 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 | 2025-11-07 |  |
+| [UNA NA MAS](https://open.spotify.com/track/1oFe45JLdZH2PecaNxAu7v) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Young Kingz España](https://open.spotify.com/album/5rV9Y5pmiiVjROtDp4uGpP) | 3:16 | 2026-10-14 |  |
 | [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 | 2025-11-07 |  |
 | [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 | 2025-11-07 |  |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2025-11-07 |  |

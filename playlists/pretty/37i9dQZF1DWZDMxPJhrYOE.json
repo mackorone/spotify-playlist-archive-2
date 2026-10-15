@@ -1,12 +1,12 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105593,
+  "num_followers": 105591,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIhPmUXsvge2PLEry3JY76tL3F/U",
+  "snapshot_id": "AAAAAG96/R6RfzdMt8HPrRnqcRkNpA4O",
   "tracks": [
     {
       "added_at": "2026-10-12 19:56:09",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186720,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "RESCUER",
-        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "RESCUER",
-      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "We Know Too Much",
-        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201957,
-      "name": "Fields of Love",
-      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 216833,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "We Know Too Much",
+        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 201957,
+      "name": "Fields of Love",
+      "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
+        "name": "Larger Than Life ft. Benjamin Hav",
+        "url": "https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Larger Than Life ft. Benjamin Hav",
+      "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/5EQhGB4q9JSwh2EYJwkn2m"
       },
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "MINI SKIRT WARRIOR",
-        "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 202651,
-      "name": "girls will be girls (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "Circadian Rhythm",
         "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
       },
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "Larger Than Life ft. Benjamin Hav",
-        "url": "https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG"
+        "name": "MINI SKIRT WARRIOR",
+        "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         },
         {
-          "name": "Benjamin Hav",
-          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Larger Than Life ft. Benjamin Hav",
-      "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
+      "duration_ms": 202651,
+      "name": "girls will be girls (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Freyy",
+          "url": "https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS"
+        }
+      ],
+      "duration_ms": 169077,
+      "name": "Ude Fra Indre (feat. Freyy)",
+      "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
         "name": "9 Liv",
         "url": "https://open.spotify.com/album/6xije358BkU4pJ9HkSarwK"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 115339,
       "name": "9 Liv",
       "url": "https://open.spotify.com/track/3GStI8qvcZAKgc2Rsu5qBv"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
-        "name": "Always on Your Side",
-        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Always on Your Side",
-      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
+        "name": "Always on Your Side",
+        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Always on Your Side",
+      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
         "name": "Du er min bror!",
         "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
       },
@@ -1251,6 +1271,22 @@
       "duration_ms": 186347,
       "name": "Du er min bror!",
       "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "The Boys of Dungeon Lane (Special Edition)",
+        "url": "https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 177650,
+      "name": "Chelsea Boots - (Bonus Track)",
+      "url": "https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -1275,42 +1311,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        },
-        {
-          "name": "Freyy",
-          "url": "https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS"
-        }
-      ],
-      "duration_ms": 169077,
-      "name": "Ude Fra Indre (feat. Freyy)",
-      "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
-        "name": "The Boys of Dungeon Lane (Special Edition)",
-        "url": "https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 177650,
-      "name": "Chelsea Boots - (Bonus Track)",
-      "url": "https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "Everything in the shade",
         "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
       },
@@ -1323,6 +1323,54 @@
       "duration_ms": 216750,
       "name": "Everything in the shade",
       "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "Der Bor To Verdener I Mig",
+        "url": "https://open.spotify.com/album/4GjijJTBu4uFQtB828W8Rf"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Dag Etter",
+      "url": "https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 162757,
+      "name": "Blod",
+      "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
+    },
+    {
+      "added_at": "2026-10-12 19:56:09",
+      "album": {
+        "name": "\u00d8delagte Mennesker",
+        "url": "https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "\u00d8delagte Mennesker",
+      "url": "https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK"
     },
     {
       "added_at": "2026-10-12 19:56:09",
@@ -1347,38 +1395,6 @@
     {
       "added_at": "2026-10-12 19:56:09",
       "album": {
-        "name": "\u00d8delagte Mennesker",
-        "url": "https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k"
-      },
-      "artists": [
-        {
-          "name": "Svea S",
-          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "\u00d8delagte Mennesker",
-      "url": "https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4ULa0aHOjaDDSeKZHhM72m"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 163430,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5l0J0cKWIo0lBSGqXvyucp"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
         "name": "V\u00c6RD AT ELSKE",
         "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
       },
@@ -1395,26 +1411,6 @@
       "duration_ms": 166307,
       "name": "CIRKLER (feat. wicky)",
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
-    },
-    {
-      "added_at": "2026-10-12 19:56:09",
-      "album": {
-        "name": "Alle Er Lost F\u00f8r De Finder Hjem",
-        "url": "https://open.spotify.com/album/4zDnc95PETHcDPPudk6dUI"
-      },
-      "artists": [
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
-        },
-        {
-          "name": "MARQ",
-          "url": "https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x"
-        }
-      ],
-      "duration_ms": 197565,
-      "name": "Alle Er Lost F\u00f8r De Finder Hjem",
-      "url": "https://open.spotify.com/track/58V8CSsuSfs0ZW600cY2xt"
     }
   ],
   "unique_name": "De nye",

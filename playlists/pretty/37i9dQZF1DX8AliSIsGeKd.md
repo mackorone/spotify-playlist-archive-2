@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,089 likes - 90 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,136 likes - 90 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Save You](https://open.spotify.com/track/0yRy7vY6LV9071w4kS0MCO) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Save You](https://open.spotify.com/album/6F5GN6Jhh60wjYQ28IIrR9) | 4:09 |
 | 90 | [Impulse](https://open.spotify.com/track/4BvhmGJ1cCiAwQkpNsHcNc) | [Gabriel Moraes](https://open.spotify.com/artist/3GVPu8ssWfYFWd5FQD7jVi) | [Impulse](https://open.spotify.com/album/3MY2pZEf3w6HbZhqkZ0NLH) | 5:58 |
 
-Snapshot ID: `AAAAANUpUQ2rA9jsbuttCi7SE4cgLQkU`
+Snapshot ID: `AAAAAJFvuY5c8IoFEBesTIhP7o+ds0hL`

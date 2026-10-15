@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,465 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,470 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 33 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
 | 34 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
 | 35 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
-| 36 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
+| 36 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
 | 37 | [Contramão](https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2) | [Contramão](https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp) | 2:13 |
-| 38 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
+| 38 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 39 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 |
 | 40 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
 | 41 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 |
 | 75 | [YOU ARE GOOD](https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [YOU ARE GOOD](https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ) | 2:20 |
 
-Snapshot ID: `AAAAAD9f4N7H4vlG7s+rhVRTnjqWaHo7`
+Snapshot ID: `AAAAAFpxDqWLIrCd5+Mv96zXof/xFkQ3`

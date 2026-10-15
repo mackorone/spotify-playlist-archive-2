@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,179 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,164 likes - 76 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 75 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
 | 76 | [WHY'D YOU HAVE TO GO THERE](https://open.spotify.com/track/4PElKeEniFFnlYceryQUhB) | [ZIG MENTALITY](https://open.spotify.com/artist/3LlnfJdyvokTn7n9yHIAsX) | [WHY'D YOU HAVE TO GO THERE](https://open.spotify.com/album/0tfeRWFqNW5MmyUZ7ltotv) | 2:57 |
 
-Snapshot ID: `AAAAAONSjf0/NMfMpdxXBht6d6HmPuA7`
+Snapshot ID: `AAAAABbeAy2N1gf6cjUHSR5sOqvtp2Uy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,639 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,654 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [여자](https://open.spotify.com/track/3KhndYAkaaMKRXjM0h0h6y) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:38 |
 | 50 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 
-Snapshot ID: `AAAAABOTeV6aB8tjyy/OPrlVMUaM7s5F`
+Snapshot ID: `AAAAADCIS96uGLPVrAj7+bBabsBnWv8f`

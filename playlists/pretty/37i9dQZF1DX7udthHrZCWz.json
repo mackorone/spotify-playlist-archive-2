@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 301214,
+  "num_followers": 301216,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMaDAtoGvF6SmQnG8rHr5GdX1SS",
+  "snapshot_id": "AAAAAMVjYuU6GeyYXBaEr5xaXSKzShQC",
   "tracks": [
     {
       "added_at": "2024-06-03 14:47:34",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 238560,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2024-06-03 14:47:34",

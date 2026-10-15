@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,447 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,470 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 25 | [Gespenster und Vampire](https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK) | [Andi Und Die Affenbande](https://open.spotify.com/artist/2TcyoCxsDs7SIunkChvNjq) | [Gespenster und Vampire](https://open.spotify.com/album/2WK7N0bHiLFXrvMjK2tG4M) | 3:02 |
 | 26 | [Happy, Happy Halloween!](https://open.spotify.com/track/4q1wyiW5r3yx0krsKLSrLd) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Happy, Happy Halloween!](https://open.spotify.com/album/2haqzIboO4ICSefm5DYgAl) | 3:14 |
 | 27 | [Purple People Eater](https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:31 |
-| 28 | [Heavy Halloween](https://open.spotify.com/track/0qePPQZcSuFUGfd6uvHhmG) | [Heavysaurus](https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw) | [Heavy Halloween](https://open.spotify.com/album/0h5fmJ4j0vpBIdV3GSk70H) | 2:56 |
-| 29 | [Kürbis, Kürbis \(Kürbislied\)](https://open.spotify.com/track/2YHFgVqQUG5G3PgDelZwqU) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Halloween\-Hits für Kinder](https://open.spotify.com/album/0J0QUzF4wSz9fyMDVPOwp3) | 1:54 |
+| 28 | [Kürbis, Kürbis \(Kürbislied\)](https://open.spotify.com/track/2YHFgVqQUG5G3PgDelZwqU) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Halloween\-Hits für Kinder](https://open.spotify.com/album/0J0QUzF4wSz9fyMDVPOwp3) | 1:54 |
+| 29 | [Heavy Halloween](https://open.spotify.com/track/0qePPQZcSuFUGfd6uvHhmG) | [Heavysaurus](https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw) | [Heavy Halloween](https://open.spotify.com/album/0h5fmJ4j0vpBIdV3GSk70H) | 2:56 |
 | 30 | [Halloween Disco](https://open.spotify.com/track/504tfAVUFYv060yqHXLMpg) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Halloween Disco](https://open.spotify.com/album/1HzCmCqiDSZnVU3VjB6M33) | 2:54 |
 | 31 | [Monstertanz](https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs) | [Piano Papa](https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4), [Mama Sandy](https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS) | [Monstertanz](https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ) | 2:06 |
 | 32 | [Geisterzeit](https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 69 | [Das Spukhaus in der Siedlung](https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv) | [Autoscooter Joe](https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7) | [Das Spukhaus in der Siedlung](https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP) | 1:53 |
 | 70 | [Zombietanz](https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP) | [Minidisco Deutsch](https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY) | [Minidisco International Songs 6](https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL) | 2:54 |
 
-Snapshot ID: `AAAAAESWXOm8u3fgWNHNCgh9yMBo43eN`
+Snapshot ID: `AAAAAEnsi5QCMxW9/9I+7kELxZzdFy7e`

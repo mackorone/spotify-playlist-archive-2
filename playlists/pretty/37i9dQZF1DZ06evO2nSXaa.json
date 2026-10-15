@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 449795,
+  "num_followers": 452931,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADgbP9KkAGzzdDyLi793wCd",
+  "snapshot_id": "as10gAAAAADRaGdkQcWJGOQR12ErZX6+",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+      "duration_ms": 147259,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
     },
     {
       "added_at": null,
@@ -479,18 +471,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
       "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 147259,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw"
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": null,

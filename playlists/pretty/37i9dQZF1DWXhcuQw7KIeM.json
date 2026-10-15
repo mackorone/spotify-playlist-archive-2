@@ -1,45 +1,13 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 600089,
+  "num_followers": 600197,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACiJmMpSLCcaOWJgTub9c2Ez5ftu",
+  "snapshot_id": "AAAAALEHfR3XU3YgMowMiOhTELX0lopB",
   "tracks": [
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Runaljod \u2013 Yggdrasil",
-        "url": "https://open.spotify.com/album/7LsNPzgWHwrsLMRsWuiEJa"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 431866,
-      "name": "Helvegen",
-      "url": "https://open.spotify.com/track/0OXEH9T6QSQCrmnjdtpf4P"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "\u00dar \u00d6skunni",
-        "url": "https://open.spotify.com/album/2Ke3TOJBIW6rRJTqhV6H9K"
-      },
-      "artists": [
-        {
-          "name": "G\u00edsli Gunnarsson",
-          "url": "https://open.spotify.com/artist/6ip3tJTPbVT3JJebd7ih9c"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Gl\u00f3kolla",
-      "url": "https://open.spotify.com/track/3r30EVTrUbAv4SypKUglUm"
-    },
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
@@ -59,74 +27,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Birna",
-        "url": "https://open.spotify.com/album/5clP0vXvX350quRCTw248H"
+        "name": "\u00dar \u00d6skunni",
+        "url": "https://open.spotify.com/album/2Ke3TOJBIW6rRJTqhV6H9K"
       },
       "artists": [
         {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+          "name": "G\u00edsli Gunnarsson",
+          "url": "https://open.spotify.com/artist/6ip3tJTPbVT3JJebd7ih9c"
         }
       ],
-      "duration_ms": 385413,
-      "name": "Birna",
-      "url": "https://open.spotify.com/track/2KknwriLntQnzonjPO6quc"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Iske Tulta",
-        "url": "https://open.spotify.com/album/45oxeVPZeVmt5Cnd2gIvfL"
-      },
-      "artists": [
-        {
-          "name": "Kveld",
-          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
-        },
-        {
-          "name": "Noiduin",
-          "url": "https://open.spotify.com/artist/5slOpOZMe7pvqKYWMCSirH"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Iske Tulta",
-      "url": "https://open.spotify.com/track/17l522SoPKtw079BEUzTt4"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Vikings Chant (Alfar Fagrahv\u00e9l Edition)",
-        "url": "https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF"
-      },
-      "artists": [
-        {
-          "name": "SK\u00c1LD",
-          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "R\u00fan",
-      "url": "https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Eptir Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY"
-      },
-      "artists": [
-        {
-          "name": "Geald\u00fdr",
-          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
-        },
-        {
-          "name": "Danheim",
-          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
-        }
-      ],
-      "duration_ms": 257579,
-      "name": "Ymir",
-      "url": "https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI"
+      "duration_ms": 239600,
+      "name": "Gl\u00f3kolla",
+      "url": "https://open.spotify.com/track/3r30EVTrUbAv4SypKUglUm"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -155,22 +67,38 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Snake Pit Poetry",
-        "url": "https://open.spotify.com/album/2oFwWHzumvX0rYfBf1AXYh"
+        "name": "Birna",
+        "url": "https://open.spotify.com/album/6EKX2dTn9DYVvBoheKb4Hm"
       },
       "artists": [
         {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        },
-        {
-          "name": "Hilda Orvarsdottir",
-          "url": "https://open.spotify.com/artist/2R4voTSepmSRDdrN7W7H5Z"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 428077,
-      "name": "Snake Pit Poetry",
-      "url": "https://open.spotify.com/track/6R6wY6SsjYZOBFrpYEHUa3"
+      "duration_ms": 385413,
+      "name": "Birna",
+      "url": "https://open.spotify.com/track/0VFjKovOdQZje1n3nLwGAb"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Iske Tulta",
+        "url": "https://open.spotify.com/album/45oxeVPZeVmt5Cnd2gIvfL"
+      },
+      "artists": [
+        {
+          "name": "Kveld",
+          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
+        },
+        {
+          "name": "Noiduin",
+          "url": "https://open.spotify.com/artist/5slOpOZMe7pvqKYWMCSirH"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Iske Tulta",
+      "url": "https://open.spotify.com/track/17l522SoPKtw079BEUzTt4"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -207,118 +135,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Nouse Lempi",
-        "url": "https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4"
-      },
-      "artists": [
-        {
-          "name": "Kajos",
-          "url": "https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Nouse Lempi",
-      "url": "https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "TR\u00c4",
-        "url": "https://open.spotify.com/album/4ErxOpSGAq7sv6TRfP5Vt9"
-      },
-      "artists": [
-        {
-          "name": "Hedningarna",
-          "url": "https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu"
-        }
-      ],
-      "duration_ms": 292773,
-      "name": "R\u00e4ven",
-      "url": "https://open.spotify.com/track/6CINwNqZb87kcRuzIjFQGt"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "MANN",
-        "url": "https://open.spotify.com/album/7xZHIh8l5X3FlvMReGj0qe"
-      },
-      "artists": [
-        {
-          "name": "Sowulo",
-          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
-        }
-      ],
-      "duration_ms": 256186,
-      "name": "Wulfwiga",
-      "url": "https://open.spotify.com/track/1xLvq1BgssVcFaVsrQ33Tq"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "CVLT",
-        "url": "https://open.spotify.com/album/78XQBbOwtSRdRfsu0rlAOK"
-      },
-      "artists": [
-        {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
-        }
-      ],
-      "duration_ms": 420792,
-      "name": "Valhalla Rising",
-      "url": "https://open.spotify.com/track/0GmPknOgicu33WuFr96ei0"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "III - Candles & Beginnings",
-        "url": "https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX"
-      },
-      "artists": [
-        {
-          "name": "Auri",
-          "url": "https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Blakey Ridge",
-      "url": "https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 319292,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/7JZxpUYXrzPCwYK4jlOL6M"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Fa\u00feir",
-        "url": "https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP"
-      },
-      "artists": [
-        {
-          "name": "Forndom",
-          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Hemkomst",
-      "url": "https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Reida",
         "url": "https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1"
       },
@@ -331,38 +147,6 @@
       "duration_ms": 270750,
       "name": "Reida",
       "url": "https://open.spotify.com/track/72pSSwFywzACLPqVfycny6"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Uhrikivi",
-        "url": "https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg"
-      },
-      "artists": [
-        {
-          "name": "Noitakuningas",
-          "url": "https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Uhrikivi",
-      "url": "https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Reflexions",
-        "url": "https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR"
-      },
-      "artists": [
-        {
-          "name": "OMNIA",
-          "url": "https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Shaman of Chaos",
-      "url": "https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -383,6 +167,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Reflexions",
+        "url": "https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR"
+      },
+      "artists": [
+        {
+          "name": "OMNIA",
+          "url": "https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Shaman of Chaos",
+      "url": "https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Norupo",
         "url": "https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc"
       },
@@ -395,6 +195,22 @@
       "duration_ms": 257972,
       "name": "Norupo",
       "url": "https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Nouse Lempi",
+        "url": "https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4"
+      },
+      "artists": [
+        {
+          "name": "Kajos",
+          "url": "https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Nouse Lempi",
+      "url": "https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -443,6 +259,182 @@
       "duration_ms": 149387,
       "name": "Jaun Zuria",
       "url": "https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "III - Candles & Beginnings",
+        "url": "https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX"
+      },
+      "artists": [
+        {
+          "name": "Auri",
+          "url": "https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Blakey Ridge",
+      "url": "https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "\u00d3tta",
+        "url": "https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 578000,
+      "name": "\u00d3tta",
+      "url": "https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "A Frame of Mind",
+        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Uhrikivi",
+        "url": "https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg"
+      },
+      "artists": [
+        {
+          "name": "Noitakuningas",
+          "url": "https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "Uhrikivi",
+      "url": "https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Winter Storm",
+        "url": "https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU"
+      },
+      "artists": [
+        {
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Fatherland",
+      "url": "https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "S\u00e5rbare",
+        "url": "https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H"
+      },
+      "artists": [
+        {
+          "name": "Helisir",
+          "url": "https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw"
+        }
+      ],
+      "duration_ms": 313879,
+      "name": "I Riden S\u00e5",
+      "url": "https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "HEX",
+        "url": "https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4"
+      },
+      "artists": [
+        {
+          "name": "Faun",
+          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
+        }
+      ],
+      "duration_ms": 293988,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Der Himmel muss warten",
+        "url": "https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "duration_ms": 143425,
+      "name": "Der Himmel muss warten",
+      "url": "https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Hugrheim",
+        "url": "https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA"
+      },
+      "artists": [
+        {
+          "name": "Eihwar",
+          "url": "https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Hugrheim",
+      "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Atoms Aligned, Coming Undone",
+        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
+      },
+      "artists": [
+        {
+          "name": "Sylvaine",
+          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "L'appel Du Vide",
+      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -515,222 +507,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "\u00d3tta",
-        "url": "https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 578000,
-      "name": "\u00d3tta",
-      "url": "https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Black Thunder",
-        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Black Thunder",
-      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Assassin's Creed Valhalla (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7FC2mWK1omHDkeTkDFMqEs"
-      },
-      "artists": [
-        {
-          "name": "Jesper Kyd",
-          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
-        },
-        {
-          "name": "Assassin's Creed",
-          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
-        }
-      ],
-      "duration_ms": 92386,
-      "name": "Leaving Valhalla",
-      "url": "https://open.spotify.com/track/3Ehr8sErsyXW6ymhHyF3jk"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "A Frame of Mind",
-        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Winter Storm",
-        "url": "https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU"
-      },
-      "artists": [
-        {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Fatherland",
-      "url": "https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "As Bright as a Thousand Suns",
-        "url": "https://open.spotify.com/album/3sydrReFaK4HQwDDYdEnpL"
-      },
-      "artists": [
-        {
-          "name": "Arcana",
-          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
-        }
-      ],
-      "duration_ms": 391400,
-      "name": "Inceptus",
-      "url": "https://open.spotify.com/track/1qLqZn1BEBkbLNvM9l67nc"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "S\u00e5rbare",
-        "url": "https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H"
-      },
-      "artists": [
-        {
-          "name": "Helisir",
-          "url": "https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw"
-        }
-      ],
-      "duration_ms": 313879,
-      "name": "I Riden S\u00e5",
-      "url": "https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Assassin's Creed Valhalla: The Wave of Giants (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        },
-        {
-          "name": "Assassin's Creed",
-          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
-        }
-      ],
-      "duration_ms": 318200,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "HEX",
-        "url": "https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4"
-      },
-      "artists": [
-        {
-          "name": "Faun",
-          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
-        }
-      ],
-      "duration_ms": 293988,
-      "name": "Belladonna",
-      "url": "https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Der Himmel muss warten",
-        "url": "https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        }
-      ],
-      "duration_ms": 143425,
-      "name": "Der Himmel muss warten",
-      "url": "https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Hugrheim",
-        "url": "https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA"
-      },
-      "artists": [
-        {
-          "name": "Eihwar",
-          "url": "https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Hugrheim",
-      "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Nordlige R\u00fanaskog (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3EMtE4ozFRAa3ZTSGx7jR9"
-      },
-      "artists": [
-        {
-          "name": "Osi And The Jupiter",
-          "url": "https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Gr\u00e5 Hest",
-      "url": "https://open.spotify.com/track/362UfKo2khSB4vGMmChR14"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Whom the Moon a Nightsong Sings",
-        "url": "https://open.spotify.com/album/2YiFk7TmwtTAMMcvmIDbsD"
-      },
-      "artists": [
-        {
-          "name": "Syven",
-          "url": "https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3"
-        }
-      ],
-      "duration_ms": 850866,
-      "name": "How Fare the Gods?",
-      "url": "https://open.spotify.com/track/1SZO4SCfBSFhTGMlUpZB1O"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Ylfa Spere",
         "url": "https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3"
       },
@@ -743,38 +519,6 @@
       "duration_ms": 215893,
       "name": "Ylfa Spere",
       "url": "https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Atoms Aligned, Coming Undone",
-        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
-      },
-      "artists": [
-        {
-          "name": "Sylvaine",
-          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "L'appel Du Vide",
-      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/1HAn0kHacJd5gkWZySO27k"
-      },
-      "artists": [
-        {
-          "name": "Feuerschwanz",
-          "url": "https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI"
-        }
-      ],
-      "duration_ms": 199792,
-      "name": "Highlander - English Version",
-      "url": "https://open.spotify.com/track/2Lwi8ICw5GQkNPOs67F2iB"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -795,22 +539,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Birna",
-        "url": "https://open.spotify.com/album/5clP0vXvX350quRCTw248H"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Hibj\u00f8rnen",
-      "url": "https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Seidfylgjur",
         "url": "https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e"
       },
@@ -823,22 +551,6 @@
       "duration_ms": 260916,
       "name": "Seidfylgjur",
       "url": "https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Fire in the White Stone",
-        "url": "https://open.spotify.com/album/4r6JnshQsW5eaS3ANnL0Sx"
-      },
-      "artists": [
-        {
-          "name": "Wolcensmen",
-          "url": "https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8"
-        }
-      ],
-      "duration_ms": 455190,
-      "name": "Lorn and Loath",
-      "url": "https://open.spotify.com/track/6oJ9FaEFwmrS7NgxsEHhFJ"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -943,22 +655,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Stave",
-        "url": "https://open.spotify.com/album/64LXA7HAr6IsT5wISAmZqu"
-      },
-      "artists": [
-        {
-          "name": "Osi And The Jupiter",
-          "url": "https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh"
-        }
-      ],
-      "duration_ms": 239053,
-      "name": "Appalachia",
-      "url": "https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Blot",
         "url": "https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf"
       },
@@ -971,22 +667,6 @@
       "duration_ms": 313146,
       "name": "Blot",
       "url": "https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Songs from the Mere",
-        "url": "https://open.spotify.com/album/1XSpNmpchQrrVdZLLNxQ60"
-      },
-      "artists": [
-        {
-          "name": "Wolcensmen",
-          "url": "https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8"
-        }
-      ],
-      "duration_ms": 378866,
-      "name": "Lady of the Depe",
-      "url": "https://open.spotify.com/track/5AxURv7pyN7vleSordBtuW"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1091,22 +771,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Grima",
-        "url": "https://open.spotify.com/album/1FG6xYISfot1Eem2bjCfaK"
-      },
-      "artists": [
-        {
-          "name": "Sowulo",
-          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Spatle \u00c6ghwas",
-      "url": "https://open.spotify.com/track/0ehIHRlxsgVEt1QDPhKLwm"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "The Great Feast Underground",
         "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
       },
@@ -1123,18 +787,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "The Wolven Storm (Priscilla's Song)",
-        "url": "https://open.spotify.com/album/3DylCZmwC74Trm6Khns2K6"
+        "name": "Nimue",
+        "url": "https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4"
       },
       "artists": [
         {
-          "name": "Sharm",
-          "url": "https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR"
+          "name": "Faun",
+          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
         }
       ],
-      "duration_ms": 238710,
-      "name": "The Wolven Storm (Priscilla's Song)",
-      "url": "https://open.spotify.com/track/1mr1cG8dA5ZiydlaEq8vkH"
+      "duration_ms": 278013,
+      "name": "Nimue",
+      "url": "https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1171,26 +839,6 @@
       "duration_ms": 407293,
       "name": "S\u00c1LA",
       "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Nimue",
-        "url": "https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4"
-      },
-      "artists": [
-        {
-          "name": "Faun",
-          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
-        },
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "Nimue",
-      "url": "https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1243,26 +891,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Sverker",
-        "url": "https://open.spotify.com/album/4APoIDq4yk7ftOD01vDXJ7"
-      },
-      "artists": [
-        {
-          "name": "Corvus Corax",
-          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
-        },
-        {
-          "name": "SAMI YLI-SIRNIO",
-          "url": "https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Sverker - Era Metallum - Single Edit",
-      "url": "https://open.spotify.com/track/5weYc6yhJKVo3MSlrUR0UW"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Akva (Live)",
         "url": "https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu"
       },
@@ -1279,18 +907,382 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Ferd",
-        "url": "https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl"
+        "name": "Huginn ok Muninn",
+        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
       },
       "artists": [
         {
-          "name": "Kjell Braaten",
-          "url": "https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC"
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
         }
       ],
-      "duration_ms": 193833,
-      "name": "\u00d8stavind",
-      "url": "https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg"
+      "duration_ms": 313469,
+      "name": "Huginn ok Muninn",
+      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Sun and the Morning Star",
+        "url": "https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA"
+      },
+      "artists": [
+        {
+          "name": "Romuvos",
+          "url": "https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud"
+        }
+      ],
+      "duration_ms": 323028,
+      "name": "Sun and the Morning Star",
+      "url": "https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Sunir",
+        "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
+      },
+      "artists": [
+        {
+          "name": "IANAI",
+          "url": "https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh"
+        },
+        {
+          "name": "Client N",
+          "url": "https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF"
+        }
+      ],
+      "duration_ms": 398160,
+      "name": "Anaia",
+      "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Set the Sails",
+        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
+      },
+      "artists": [
+        {
+          "name": "Storm Seeker",
+          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Set the Sails",
+      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ"
+      },
+      "artists": [
+        {
+          "name": "Sojourner",
+          "url": "https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Relics of the Natural Realm",
+      "url": "https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+      },
+      "artists": [
+        {
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+        }
+      ],
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Adler fliegen",
+        "url": "https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Adler fliegen",
+      "url": "https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Hersir",
+        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Hersir",
+      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Caravans to the Outer Worlds",
+        "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 337133,
+      "name": "Ruun II - The Epitaph",
+      "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Future To Come",
+        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Future to Come",
+      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Crystalline",
+        "url": "https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u"
+      },
+      "artists": [
+        {
+          "name": "Suldusk",
+          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+        }
+      ],
+      "duration_ms": 348196,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Fenris",
+        "url": "https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n"
+      },
+      "artists": [
+        {
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
+        }
+      ],
+      "duration_ms": 347204,
+      "name": "Fenris",
+      "url": "https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Malstr\u00f6msbrus",
+        "url": "https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl"
+      },
+      "artists": [
+        {
+          "name": "Vintersorg",
+          "url": "https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6"
+        }
+      ],
+      "duration_ms": 403626,
+      "name": "Malstr\u00f6msbrus",
+      "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Hibj\u00f8rnen",
+        "url": "https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Hibj\u00f8rnen",
+      "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "duration_ms": 256186,
+      "name": "Wulfwiga",
+      "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Whom the Moon a Nightsong Sings",
+        "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
+      },
+      "artists": [
+        {
+          "name": "Syven",
+          "url": "https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3"
+        }
+      ],
+      "duration_ms": 850866,
+      "name": "How Fare the Gods?",
+      "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Midvinter",
+        "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
+      },
+      "artists": [
+        {
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
+        }
+      ],
+      "duration_ms": 392983,
+      "name": "Midvinter",
+      "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Snake Pit Poetry",
+        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Hilda \u00d6rvarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
+        }
+      ],
+      "duration_ms": 428077,
+      "name": "Snake Pit Poetry",
+      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Ymir",
+        "url": "https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o"
+      },
+      "artists": [
+        {
+          "name": "Danheim",
+          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
+        },
+        {
+          "name": "Geald\u00fdr",
+          "url": "https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM"
+        }
+      ],
+      "duration_ms": 257579,
+      "name": "Ymir",
+      "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "As Bright as a Thousand Suns",
+        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
+      },
+      "artists": [
+        {
+          "name": "Arcana",
+          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
+        }
+      ],
+      "duration_ms": 389386,
+      "name": "Inceptus",
+      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
     }
   ],
   "unique_name": "Northern Spirits",

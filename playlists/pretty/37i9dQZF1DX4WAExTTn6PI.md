@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Margo Cilker
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,612 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,621 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Carry On](https://open.spotify.com/track/0xy3JGKV6Csj7d1CtE6NsG) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Fault Lines](https://open.spotify.com/album/4zYnbk8DtlDi1zfkKLfke5) | 3:37 |
 | 100 | [crescent reflections](https://open.spotify.com/track/5tPwyKkM5ug2mOWROm35II) | [wasp eater](https://open.spotify.com/artist/2dlyTYSPl66F5Ke47zFtkJ) | [crescent reflections](https://open.spotify.com/album/5am7S787OVEfqP6f5sQg1o) | 2:57 |
 
-Snapshot ID: `AAAAANnX2PAnB/7crk5Q5eQlfTEYIfIi`
+Snapshot ID: `AAAAABqOllAcQ7yT0aeT+jAnChgAhxPQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中の最新ヒットと日本のトレンドをまとめてお届けします。Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,186 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,189 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Running Wheel](https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Running Wheel](https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e) | 2:17 |
 | 50 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 
-Snapshot ID: `AAAAADVmPcVz3Q4Ze8s8yca2ypolaCdq`
+Snapshot ID: `AAAAAPnxTRGWKe3qF3Qe3QbFH+AQbEAL`

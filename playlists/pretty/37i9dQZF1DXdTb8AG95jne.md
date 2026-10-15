@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,079 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,052 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 |
 | 50 | [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 |
 
-Snapshot ID: `AAAAAGGKQ3SdU/Wqfwv9jUZQvxD08Gqp`
+Snapshot ID: `AAAAADzbDl9XBzdyBnBBowqoGOT1kavx`

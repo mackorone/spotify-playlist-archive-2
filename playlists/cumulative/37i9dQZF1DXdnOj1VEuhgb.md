@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Joker
 
-1,173 songs - 2 day 4 hr 8 min
+1,174 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 | 2023-12-12 | 2024-11-29 |
 | [JUJU](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [JUJU](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 | 2025-07-10 | 2025-08-01 |
 | [Jurassic Park](https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Jurassic Park](https://open.spotify.com/album/49wygB8XrpyS7fG8XdGkZ6) | 3:21 | 2023-01-10 | 2023-03-03 |
-| [Jön](https://open.spotify.com/track/6QAWwp1zufihIZUDb6siZ6) | [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [Jön](https://open.spotify.com/album/3lHjVFUcbRdYKQWtDzgfpi) | 1:47 | 2026-08-13 |  |
+| [Jön](https://open.spotify.com/track/6QAWwp1zufihIZUDb6siZ6) | [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [Jön](https://open.spotify.com/album/3lHjVFUcbRdYKQWtDzgfpi) | 1:47 | 2026-08-13 | 2026-10-15 |
 | [Kadeh](https://open.spotify.com/track/53GwZ2Dd04184MmW8NAeX7) | [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [HARMAN](https://open.spotify.com/album/37xNkJAFsxW8Hx7MMpt2xq) | 2:25 | 2026-06-11 | 2026-06-26 |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-07-25 | 2025-10-03 |
 | [KAFAMA GÖRE](https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [KAFAMA GÖRE](https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD) | 2:45 | 2023-09-07 | 2023-09-22 |
@@ -865,6 +865,7 @@
 | [ROCKSTAR](https://open.spotify.com/track/5iv8MCBz7UVcxRN670N4aX) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [MONA LISA](https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW) | 3:33 | 2024-09-26 | 2024-12-20 |
 | [Rodman Dennis](https://open.spotify.com/track/0OWGvNtLbF24rWytqMJzdn) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [JEYJEY](https://open.spotify.com/artist/5xJyOj6mbF15SyNr4Qht9v), [Glam](https://open.spotify.com/artist/3NbWQpBYx4C90NgT4w5frg) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 2:53 | 2026-01-22 | 2026-03-27 |
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
+| [ROLLIE](https://open.spotify.com/track/6jduKG7gTR9fkabuo99T17) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [ROLLIE](https://open.spotify.com/album/1PfubxN6Q8Ym04xyqjKww2) | 1:37 | 2026-10-14 |  |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 | 2024-04-26 |
 | [RONDO](https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:49 | 2024-06-06 | 2024-06-28 |
 | [ROTTERDAM FREESTYLE](https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [ROTTERDAM FREESTYLE](https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3) | 4:03 | 2023-12-14 | 2024-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > The Indie highlights of 2017\. Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,346 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,343 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 92 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 |
 | 93 | [anemone](https://open.spotify.com/track/4Z3P5tSmsB7BkFHFc38dz7) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/2TAvYepGRE2H6l0tN3NOtv) | 3:48 |
 | 94 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 |
-| 95 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
-| 96 | [Smoke Signals](https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:24 |
+| 95 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
+| 96 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 97 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 |
-| 98 | [Slip Away](https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:45 |
-| 99 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
-| 100 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
+| 98 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 99 | [Smoke Signals](https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:24 |
+| 100 | [Slip Away](https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:45 |
 
-Snapshot ID: `AAAAAH+3Pu4nvoM39DSNXRqPYA3zWYwN`
+Snapshot ID: `AAAAACjtJ10hsuIozSkdyUHe3wgo99uw`

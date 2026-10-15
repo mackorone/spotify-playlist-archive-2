@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ALLDAY PROJECT\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,028 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,027 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 199 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/2NXIhvX7tEhHjRXi7zhhs0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND) | 2:46 |
 | 200 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/3c8XJaxue3pvT2bq0W6cna) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/7sidGuLHbrH2Vug76JRo26) | 2:46 |
 
-Snapshot ID: `AAAAAC6t2FUQ7n9B4mHxx8VG72xCH5H+`
+Snapshot ID: `AAAAAASHNeyr0aZGEabGSGrAM3wu5CrN`

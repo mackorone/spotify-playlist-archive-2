@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-955 songs - 1 day 20 hr 56 min
+956 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 | 2026-08-14 | 2026-10-01 |
 | [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 | 2026-08-28 | 2026-10-05 |
 | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq) | 2:36 | 2024-09-20 | 2025-04-01 |
+| [CnF \(Gbewa\)](https://open.spotify.com/track/3xPcMAHga74TZWXbH7kGa8) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:44 | 2026-10-09 |  |
 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 | 2025-07-18 | 2026-06-28 |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2022-06-09 | 2024-02-09 |
 | [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 | 2026-06-25 | 2026-07-09 |
@@ -310,7 +311,7 @@
 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-25 | 2024-11-22 |
 | [FAR AWAY](https://open.spotify.com/track/5JLVtRVBfLjfysl4EMI8l2) | [Alté](https://open.spotify.com/artist/7lOjbAzTHP7PVJvK8zqyYW) | [FAR AWAY](https://open.spotify.com/album/634QDSXxfJhzrUaw6sWJhQ) | 2:53 | 2025-03-31 | 2025-04-25 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-23 |
-| [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 | 2026-08-14 |  |
+| [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 | 2026-08-14 | 2026-10-15 |
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-05-31 | 2025-02-25 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-29 | 2025-04-01 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-02 | 2023-01-20 |

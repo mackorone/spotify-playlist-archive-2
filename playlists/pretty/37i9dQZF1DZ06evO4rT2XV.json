@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABBNjESvCeRac4yZenhbOBQ",
+  "snapshot_id": "as10gAAAAAA0KBoD3p6r9KVpj/pDaaTe",
   "tracks": [
     {
       "added_at": null,
@@ -80,21 +80,17 @@
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Mont\u00f3n",
-          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
-        },
-        {
-          "name": "Mayte Martin",
-          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Katia & Marielle Lab\u00e8que",
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Int\u00e9ntalo Encontrar",
-      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
+      "duration_ms": 173053,
+      "name": "Dolly Suite, Op.56 - for piano duet: 1. Berceuse",
+      "url": "https://open.spotify.com/track/6yWwjmf0tRbumPbV3dVLDV"
     },
     {
       "added_at": null,
@@ -176,9 +172,33 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 235840,
-      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
+      "duration_ms": 131306,
+      "name": "Nazareno: V. Tormenta y Quitipl\u00e1 (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/5M0jU7GvK8OWJbCXwQkPfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Mont\u00f3n",
+          "url": "https://open.spotify.com/artist/1oioXBS3TyOjlS0cG3WG91"
+        },
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Int\u00e9ntalo Encontrar",
+      "url": "https://open.spotify.com/track/2fHvq1WZYX9NCe9YtFiF3n"
     },
     {
       "added_at": null,
@@ -207,26 +227,6 @@
       "duration_ms": 366391,
       "name": "Gameland",
       "url": "https://open.spotify.com/track/0hgks30iXkIyju4sGXtCh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "6 \u00c9pigraphes antiques, L.131: 3. Pour que la nuit soit propice",
-      "url": "https://open.spotify.com/track/4WzKJeostuEFwlEMt4qrjp"
     },
     {
       "added_at": null,
@@ -288,9 +288,29 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 271746,
-      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
+      "duration_ms": 235840,
+      "name": "Nazareno: II. Tambor en blanco y negro (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/6uxlO2T1TFulpNhi9r8dQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "6 \u00c9pigraphes antiques, L.131: 3. Pour que la nuit soit propice",
+      "url": "https://open.spotify.com/track/4WzKJeostuEFwlEMt4qrjp"
     },
     {
       "added_at": null,
@@ -311,26 +331,6 @@
       "duration_ms": 157040,
       "name": "Trois morceaux en forme de poire: En plus",
       "url": "https://open.spotify.com/track/4iusuwMI9i5qctl0jwH98G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "6 \u00c9pigraphes antiques, L.131: 5. Pour l'Egyptienne",
-      "url": "https://open.spotify.com/track/0GJ7u3fhop5jP9aLZUhDUx"
     },
     {
       "added_at": null,
@@ -392,9 +392,29 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 339573,
-      "name": "Nazareno: IV. Sur (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/1WoWOBY8XTOTRvf3gHJsI3"
+      "duration_ms": 271746,
+      "name": "Nazareno: III. Guaracha y Mambo (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/5W5g4uGrNuWV9wYHByEw9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "6 \u00c9pigraphes antiques, L.131: 5. Pour l'Egyptienne",
+      "url": "https://open.spotify.com/track/0GJ7u3fhop5jP9aLZUhDUx"
     },
     {
       "added_at": null,
@@ -415,26 +435,6 @@
       "duration_ms": 103880,
       "name": "Three Easy Pieces (for Piano Four-Hands): II. Waltz",
       "url": "https://open.spotify.com/track/1S399IwUjFfAnQ5Pj150cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 142653,
-      "name": "6 \u00c9pigraphes antiques, L.131: 6. Pour remercier la pluie au matin",
-      "url": "https://open.spotify.com/track/3TFXXzHoAFDV2BfcYa2pIz"
     },
     {
       "added_at": null,
@@ -488,9 +488,29 @@
           "url": "https://open.spotify.com/artist/1Xt69R2zhzFWAuSGN78rxJ"
         }
       ],
-      "duration_ms": 131306,
-      "name": "Nazareno: V. Tormenta y Quitipl\u00e1 (Arr. Gonzalo Grau)",
-      "url": "https://open.spotify.com/track/5M0jU7GvK8OWJbCXwQkPfu"
+      "duration_ms": 339573,
+      "name": "Nazareno: IV. Sur (Arr. Gonzalo Grau)",
+      "url": "https://open.spotify.com/track/1WoWOBY8XTOTRvf3gHJsI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 142653,
+      "name": "6 \u00c9pigraphes antiques, L.131: 6. Pour remercier la pluie au matin",
+      "url": "https://open.spotify.com/track/3TFXXzHoAFDV2BfcYa2pIz"
     },
     {
       "added_at": null,
@@ -511,26 +531,6 @@
       "duration_ms": 105120,
       "name": "Trois Petites Pi\u00e8ces mont\u00e9es: 3. Jeux de Gargantua (Coin de Polka)",
       "url": "https://open.spotify.com/track/4cp4Gab0ZN70uc0DbsPa1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Deux': French Duets",
-        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 144866,
-      "name": "6 \u00c9pigraphes antiques, L.131: 4. Pour la danseuse aux crotales",
-      "url": "https://open.spotify.com/track/06p9QqL0naNvHfc0JlZxB7"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Deux': French Duets",
+        "url": "https://open.spotify.com/album/6LujMEQ47KtlXWVkrBskEc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 144866,
+      "name": "6 \u00c9pigraphes antiques, L.131: 4. Pour la danseuse aux crotales",
+      "url": "https://open.spotify.com/track/06p9QqL0naNvHfc0JlZxB7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satie Autumnal Study Vibes",
         "url": "https://open.spotify.com/album/0ISuPqfiWZvrGm6SeFwXSq"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Satie",
-        "url": "https://open.spotify.com/album/37uRLdEiUzt8A7JZCQRihj"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 73866,
-      "name": "Trois morceaux en forme de poire: No.1 - Lentement",
-      "url": "https://open.spotify.com/track/1xetkj1yTIoeHhca20uAyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Zen - Tchaikovsky, Scriabin, Stravinsky",
         "url": "https://open.spotify.com/album/6Y0wCkSsQACfy6ZoixPomA"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 62280,
       "name": "5 Easy Pieces for Piano Duet: 1. Andante",
       "url": "https://open.spotify.com/track/4qA6Z0XySIBz5EBmzdG1aL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Satie",
+        "url": "https://open.spotify.com/album/37uRLdEiUzt8A7JZCQRihj"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 73866,
+      "name": "Trois morceaux en forme de poire: No.1 - Lentement",
+      "url": "https://open.spotify.com/track/1xetkj1yTIoeHhca20uAyu"
     },
     {
       "added_at": null,
@@ -1127,22 +1147,6 @@
       "duration_ms": 83440,
       "name": "Star-Cross'd Lovers: Act III: Mercutio's Death",
       "url": "https://open.spotify.com/track/1rVNt8SZHzTMrr2QXXytJu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Erik Satie",
-        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
-      },
-      "artists": [
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Gnossienne n\u00b0 1",
-      "url": "https://open.spotify.com/track/1X4P2r2UKT5HvruA8NkYNz"
     }
   ],
   "unique_name": "This Is Katia & Marielle Lab\u00e8que",

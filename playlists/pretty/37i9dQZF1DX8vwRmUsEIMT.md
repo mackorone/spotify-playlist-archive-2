@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,484 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,461 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Swallow The Bomb](https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Swallow The Bomb](https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4) | 3:19 |
 | 79 | [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 |
 
-Snapshot ID: `AAAAALipEI5+Lyq4r4yk7KzoOQOMxy40`
+Snapshot ID: `AAAAABWuUL2SJ4hDZmX92n5PYxrNowSm`

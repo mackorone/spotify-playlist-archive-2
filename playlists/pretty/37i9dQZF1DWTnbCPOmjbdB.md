@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Natalia Nykiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,848 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,854 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [A Jak](https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [A Jak](https://open.spotify.com/album/79uqUDVizofi4IsC8tXNgw) | 2:38 |
 | 65 | [na moje nieszczęście](https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [na moje nieszczęście](https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG) | 3:05 |
 
-Snapshot ID: `AAAAAG2TC0d0LBURERisCLZtdL+oGPZd`
+Snapshot ID: `AAAAAMBo3w0UPiZpmQRfpGuGqPoE952O`

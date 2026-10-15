@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,549 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,564 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 14 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 |
 | 15 | [\(Can't Get My\) Head Around You](https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:14 |
 | 16 | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:30 |
-| 17 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
-| 18 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 |
+| 17 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 |
+| 18 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
 | 19 | [Americana](https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:15 |
 | 20 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 |
-| 21 | [Bad Habit](https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:43 |
-| 22 | [Million Miles Away](https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:39 |
+| 21 | [Million Miles Away](https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:39 |
+| 22 | [Bad Habit](https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:43 |
 | 23 | [The Meaning Of Life](https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:56 |
 | 24 | [No Brakes](https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:04 |
 | 25 | [Can't Repeat](https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 |
 | 50 | [Pretty Fly \(For A White Guy\) \- 8onthebeat Mix](https://open.spotify.com/track/6Z9qZ6IZPT8ptJ4CW3oVon) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [Pretty Fly \(For A White Guy\) \[8onthebeat Mix\]](https://open.spotify.com/album/2LpR2ztCCRCzRkiKxKRCl0) | 2:50 |
 
-Snapshot ID: `asrRgAAAAADP2HpBYolT7eG3BT0t50vd`
+Snapshot ID: `as10gAAAAABt8rmIH3SyEeaYVDG0T+bo`

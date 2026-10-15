@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,038 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,039 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 14 | [ピンクのコスモス](https://open.spotify.com/track/3V9NG20M2dlqVeDJUX4LUY) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [イチャイチャ虫\(Special Edition\)](https://open.spotify.com/album/1GkCK51kHtH9LiDy6lSmc3) | 3:31 |
 | 15 | [CALL & RESPONSE](https://open.spotify.com/track/758p991sBYK70QFLcm67ms) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [CALL & RESPONSE \(Special Edition\)](https://open.spotify.com/album/6pvPP94O2UzOX2s26m4i0t) | 4:36 |
 | 16 | [Good night my love](https://open.spotify.com/track/0RkeJObsOj59PI4bXAJoIZ) | [BELLRING少女ハート](https://open.spotify.com/artist/4v4MKap4ZA1oCb7XGs7rMP) | [Noir](https://open.spotify.com/album/1PWk1L3j7XKcjC8K4TEm01) | 4:24 |
-| 17 | [インデペンデンスデイ](https://open.spotify.com/track/1XqCJyQ8gZmXtu3p2Nrue2) | [YOU'LL MELT MORE](https://open.spotify.com/artist/2RYhvVLCIStmQSNVcQ987i) | [インデペンデンスデイ](https://open.spotify.com/album/2HDdmaDsYfHEb7GJ7p6bqx) | 4:27 |
+| 17 | [Independence Day](https://open.spotify.com/track/1XqCJyQ8gZmXtu3p2Nrue2) | [YOU'LL MELT MORE](https://open.spotify.com/artist/2RYhvVLCIStmQSNVcQ987i) | [インデペンデンスデイ](https://open.spotify.com/album/2HDdmaDsYfHEb7GJ7p6bqx) | 4:27 |
 | 18 | [チョコレート♡ちゅうどく2026](https://open.spotify.com/track/4bKd75XT7c89h6CFCpXvn2) | [ギミラブ！](https://open.spotify.com/artist/1gt9KX0LQoD4SgeB9pxP2j) | [チョコレート♡ちゅうどく2026](https://open.spotify.com/album/4rHzHSVQzu9GVBpVLz9Z8K) | 3:55 |
 | 19 | [可愛いって言わないと呪う \(第3期ver\)](https://open.spotify.com/track/5AdZ7ZAaNuxS8yt7mRc6P1) | [Kawaiitte Iwanaito Norou!](https://open.spotify.com/artist/4trB4UhKGx2rPNr2RsN4N6) | [可愛いって言わないと呪う \(第3期ver\)](https://open.spotify.com/album/6cG5sWVPNfTqw9b913xEMc) | 3:52 |
 | 20 | [ちゅぴ](https://open.spotify.com/track/0XGfG4p4xdpORVJiyL5VT4) | [BATTEN GIRLS](https://open.spotify.com/artist/4xhjJZS6jLaPkdRdDcr2rj) | [ちゅぴ](https://open.spotify.com/album/1hwMgc6oRRDM7xwdM1XjWt) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [DESTINY♡](https://open.spotify.com/track/4t4VC9H6CC9ZomBGwOkuDZ) | [ブルベア](https://open.spotify.com/artist/4FBtF3vmWNct0Vl4N3tcYB) | [DESTINY♡](https://open.spotify.com/album/5CjvvEIJcNrcD476ccjCD1) | 3:40 |
 | 50 | [光](https://open.spotify.com/track/3JksytMCa4uxhAfVDwZJap) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx), [Naoki Itai](https://open.spotify.com/artist/0f5ITr5Am2ut0QFz0qK1dg) | [光](https://open.spotify.com/album/0pI21feLUVhNTO82217q04) | 10:30 |
 
-Snapshot ID: `AAAAAAzhwWcbeLDL8m1J8G5sS37qI1dK`
+Snapshot ID: `AAAAAHFyM/c6oqVlnM8+RFVOgcCwQX29`

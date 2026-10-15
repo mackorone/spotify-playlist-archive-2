@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > Our editors' picks for best dance songs of the year! Cover: Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,147 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,149 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 40 | [tell you straight](https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [all my exes live in brooklyn](https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9) | 2:04 |
 | 41 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
 | 42 | [Self Love](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:52 |
-| 43 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 |
+| 43 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 |
 | 44 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
 | 45 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 |
 | 46 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 74 | [I CAN’T LOSE YOU](https://open.spotify.com/track/52eQQFMKREAhBDHgIsSGhK) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/4kye7T51OG0GxK30q8NkxH) | 2:33 |
 | 75 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 
-Snapshot ID: `AAAAAGf8EX+G1bJM8MBQBozdgq15g11T`
+Snapshot ID: `AAAAAIGCRgd42uOwzIWgpOvU1FIDew4/`

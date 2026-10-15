@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Judwaa 2",
+        "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Roach Killa",
+          "url": "https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221276,
+      "name": "Aa Toh Sahi",
+      "url": "https://open.spotify.com/track/1f3GOFy8WQ3ab4GP7c26QR"
+    },
+    {
+      "album": {
         "name": "Aafat (Remix By DJ Aqeel) [brah]",
         "url": "https://open.spotify.com/album/354LgVKT8Ffpd2MNKAWrqG"
       },
@@ -1920,7 +1946,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 179225,
       "name": "Coca Cola (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
@@ -2776,7 +2802,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 163695,
       "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
@@ -3380,11 +3406,27 @@
         {
           "name": "Payal Dev",
           "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Gourov-Roshin",
+          "url": "https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC"
+        },
+        {
+          "name": "Rajesh Roshan",
+          "url": "https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Anjaan",
+          "url": "https://open.spotify.com/artist/6S1g6iKAiOZjLFxlrIXm2e"
         }
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 229208,
       "name": "Haseeno Ka Deewana",
       "url": "https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I"
@@ -5160,7 +5202,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 198025,
       "name": "Morni Banke",
       "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
@@ -7342,7 +7384,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 235944,
       "name": "Swag Se Swagat",
       "url": "https://open.spotify.com/track/2AjGLmuZK1fu21n1IpB9RU"

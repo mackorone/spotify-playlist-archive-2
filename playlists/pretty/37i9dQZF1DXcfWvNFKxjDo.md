@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,605 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,612 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 88 | [c\*ntry girl rock](https://open.spotify.com/track/3SwB3iCazOqulClBTo6RsA) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [c\*ntry girl rock](https://open.spotify.com/album/35IaQyLS43e1zryxSsXbDL) | 3:46 |
 | 89 | [Scotland Rave](https://open.spotify.com/track/0bm5vyRc0aoVkAbkmigT2j) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Dirty Thirty](https://open.spotify.com/artist/44qOsM3BWyhWJzyqfNUwn6) | [Scotland Rave](https://open.spotify.com/album/0FbVA6Oq1ipZ6MSE36WzzQ) | 2:24 |
 
-Snapshot ID: `AAAAAHT9GpdXf78TxWsaSaDh5nITBXkY`
+Snapshot ID: `AAAAAEqoljeJ6TBsKjMSCQBldBqQMvOv`

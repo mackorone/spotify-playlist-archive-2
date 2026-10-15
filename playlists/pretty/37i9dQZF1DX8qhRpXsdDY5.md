@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,001 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,997 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 20 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
 | 21 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 22 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
-| 23 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
+| 23 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 24 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 |
-| 25 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
+| 25 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
 | 26 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 |
 | 27 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
 | 28 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 44 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 |
 | 45 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 46 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
-| 47 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
-| 48 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 |
+| 47 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 |
+| 48 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
 | 49 | [Mis Deseos / Feliz Navidad \(with Thalia\)](https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
-| 50 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
+| 50 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
 
-Snapshot ID: `AAAAAB+8pbRkq7gRZBLgymU+H0eUThBR`
+Snapshot ID: `AAAAALKISCPEXm/803mxIn3asEwQNzUm`

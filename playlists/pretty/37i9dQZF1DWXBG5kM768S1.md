@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,659 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,668 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 10 | [Ein farfar i livet](https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 3:45 |
 | 11 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
 | 12 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
-| 13 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
+| 13 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 14 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 |
 | 15 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
-| 16 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
+| 16 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
 | 17 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
 | 18 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
 | 19 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 47 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 | 48 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
 | 49 | [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 |
-| 50 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 |
+| 50 | [Ka Du HÃ¥pa PÃ¥](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du HÃ¥pa PÃ¥](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 |
 
-Snapshot ID: `AAAAAJbwYTFisFC+nrUwf0+mQxl1XlZi`
+Snapshot ID: `AAAAAA0eI+IAJ5ccvgBgLBx351mPzVHz`

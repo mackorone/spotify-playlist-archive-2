@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,267 likes - 65 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,280 likes - 65 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 | 64 | [El Cuenta Chistes](https://open.spotify.com/track/04wJXEa76z0rrdVlpiTrJ9) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Cuenta Chistes](https://open.spotify.com/album/46IuYhgGKVxlipNk1Ze5S8) | 3:13 |
 | 65 | [El Party](https://open.spotify.com/track/4dU569wYC8Qs5KxoyG4NA2) | [Bazurto All Stars](https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF) | [El Party](https://open.spotify.com/album/5JRi35Q88W0sB68TcpgKYM) | 2:25 |
 
-Snapshot ID: `AAAAAI7X8/qPWGBoUQp018ILs6eDFQL/`
+Snapshot ID: `AAAAAObINgV8pzZ3f6CXo9v6yg0qPzT0`

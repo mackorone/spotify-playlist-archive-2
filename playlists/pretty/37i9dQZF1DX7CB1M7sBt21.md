@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,384 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,388 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 80 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 |
 
-Snapshot ID: `AAAAABAKP/3htAupVM13eUmLeYvfMDft`
+Snapshot ID: `AAAAAFWgHBzsdHLqukmngIvw+BBhZBi7`

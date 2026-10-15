@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70335,
+  "num_followers": 70333,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACCoGs43dD02fLpqcMWnXGY",
+  "snapshot_id": "as10gAAAAAAXI44JgBpWEfYfiut6aD6L",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 273198,
+      "name": "A Solas (Remix)",
+      "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -259,38 +291,6 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 273198,
-      "name": "A Solas (Remix)",
-      "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
     },
     {
       "added_at": null,
@@ -1139,22 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "787",
-        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "787",
-      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Contra Mi 2",
         "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226666,
       "name": "Subconsciente",
       "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "787",
+        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "787",
+      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
     },
     {
       "added_at": null,
@@ -1243,18 +1243,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+        "name": "Fantasia Sexual",
+        "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
       "artists": [
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
+      "duration_ms": 253469,
+      "name": "Fantasia Sexual",
+      "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
     }
   ],
   "unique_name": "This Is Lunay",

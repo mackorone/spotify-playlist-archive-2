@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,462 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,464 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 21 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 22 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 23 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
-| 24 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
-| 25 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 24 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 25 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 26 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 27 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 |
 | 28 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 85 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
 | 86 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 |
 | 87 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 |
-| 88 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
-| 89 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |
+| 88 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |
+| 89 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
 | 90 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
 | 91 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 |
-| 92 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
-| 93 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
+| 92 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
+| 93 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
 | 94 | [Placement](https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb) | [Letdown](https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej) | [The Bottom](https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC) | 3:02 |
 | 95 | [Better Off](https://open.spotify.com/track/0iYL1bvagzsI2Wfxp3Io7U) | [7 Minutes In Heaven](https://open.spotify.com/artist/64wpPiaEfYzgOVjm6vd5XH) | [Symmetry](https://open.spotify.com/album/3FUKruL6t3Ie0DIhzD1AbF) | 3:15 |
 | 96 | [Worry Seed](https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Piecing It Together](https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Bland Is The New Black](https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [Nature/Nurture](https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO) | 1:47 |
 | 100 | [Don't Overdose and Drive](https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn) | [Happy.](https://open.spotify.com/artist/40mwE0EKsKcxbGdUSxkwUg) | [Don't Overdose and Drive](https://open.spotify.com/album/5CxyTZiReRNbpfIUMdSNLO) | 2:40 |
 
-Snapshot ID: `AAAAAO/brRZrgrT7wsvv73mUpgXuoLSu`
+Snapshot ID: `AAAAAJvE8+/n1PwzDdGiJM6RJ5ajSg9K`

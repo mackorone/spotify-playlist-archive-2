@@ -1,12 +1,12 @@
 {
   "description": "Relax with these seriously laid-back classics.",
-  "num_followers": 850807,
+  "num_followers": 850818,
   "original_name": "Chilled Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2+Akmip3B/x1YIC2dcZ78ZQb4n",
+  "snapshot_id": "AAAAAIIkdm6VY1riqSB/FsmFYQJM28//",
   "tracks": [
     {
       "added_at": "2022-03-27 23:13:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2022-03-27 23:13:05",

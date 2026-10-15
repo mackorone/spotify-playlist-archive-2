@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TTW \- Kaytranada Remix](https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TTW \(Kaytranada Remix\)](https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr) | 4:27 |
 | 2 | [The Boy \- TOKiMONSTA Remix](https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Disc 3](https://open.spotify.com/album/6laYPSz0GiIiPcjX7KjCVt) | 3:56 |
-| 3 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 |
+| 3 | [Follow Me](https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 4:00 |
 | 4 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
 | 5 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
-| 6 | [Follow Me](https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 4:00 |
+| 6 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 |
 | 7 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 |
 | 8 | [Dancing Elephants](https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 5:18 |
 | 9 | [All Along \- Kaytranada Remix](https://open.spotify.com/track/0tdFXgtx5qTAAkUlP1bVGy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/26w4mlBTB8ykwRpJK3iOr1) | 4:44 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 11 | [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 |
 | 12 | [Didn't Mean To Turn You On \- with Rochelle Jordan](https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Didn't Mean To Turn You On \(with Rochelle Jordan\)](https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE) | 4:00 |
 | 13 | [Feel the Same Way](https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:41 |
-| 14 | [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 |
-| 15 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
-| 16 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
+| 14 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
+| 15 | [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 |
+| 16 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 17 | [Back in the Day](https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:27 |
 | 18 | [Ladida](https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:43 |
 | 19 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 34 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
 | 35 | [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 |
 
-Snapshot ID: `asrRgAAAAACY9KJ7NHQMH1SjS/mcUWOL`
+Snapshot ID: `as10gAAAAABdlJMUWmCFldEXlsNNo9Dk`

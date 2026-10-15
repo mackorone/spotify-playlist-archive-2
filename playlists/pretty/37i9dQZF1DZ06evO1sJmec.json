@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2127738,
+  "num_followers": 2127867,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACEdGxAgETZUsvy1VKTVmc+",
+  "snapshot_id": "as10gAAAAAAcmdonj+dN7M9GUw5RPnWu",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
-        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189347,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 466586,
       "name": "The Unforgiven III",
       "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189347,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Disappear",
-        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garage Inc.",
         "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 146560,
       "name": "Die, Die My Darling",
       "url": "https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire - Remastered",
+      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 284506,
-      "name": "Fight Fire With Fire - Remastered",
-      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
+      "duration_ms": 201760,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
     },
     {
       "added_at": null,
@@ -719,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
       },
       "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
         {
           "name": "Metallica",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 86906,
-      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
-      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+      "duration_ms": 343200,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
     },
     {
       "added_at": null,
@@ -751,22 +747,6 @@
       "duration_ms": 507226,
       "name": "Orion",
       "url": "https://open.spotify.com/track/2HD5BWFthrNf2uFyEhi53d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S&M",
-        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 343200,
-      "name": "No Leaf Clover - Live",
-      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 244066,
       "name": "Trapped Under Ice - Remastered",
       "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     }
   ],
   "unique_name": "This Is Metallica",

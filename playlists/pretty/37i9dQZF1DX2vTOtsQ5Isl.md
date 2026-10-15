@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,980 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,085 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 64 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |
 | 65 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
 
-Snapshot ID: `AAAAAJEIXm311mWI7ep/QIZdeaW+eJfy`
+Snapshot ID: `AAAAACey1i2WBQik4WRkvp3ukUBRKziI`

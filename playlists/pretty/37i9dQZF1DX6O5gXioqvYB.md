@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Perturbazione in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,949 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,950 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 98 | [A Porta ro Suli](https://open.spotify.com/track/7COpBIdmt1Ntcu0ASJeA2J) | [Lorenzo Vizzini](https://open.spotify.com/artist/0GpLIzSZWtnMkuOm6LSFuF) | [A Porta ro Suli](https://open.spotify.com/album/151iGeu3YFAfpXVmUG5Gcm) | 3:35 |
 | 99 | [Gomma Americana](https://open.spotify.com/track/7qT37nGk5tai6M22a2eME0) | [Cosmonauti Borghesi](https://open.spotify.com/artist/6yiNkOdDECVs183VjnLDxU) | [In Analogico Dirsi Ti Amo](https://open.spotify.com/album/6OMn5CaeTZ6cCZAk2R1Oln) | 3:55 |
 
-Snapshot ID: `AAAAAF93d1YpCL8aNHJ0tuwT9JvrRMT0`
+Snapshot ID: `AAAAAC2dUfi8jOoOEx+Wec52a9GyDY+z`

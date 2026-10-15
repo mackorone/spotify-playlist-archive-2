@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,734 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,733 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 41 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 42 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 43 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
-| 44 | [True Crime \(Shortcut\)](https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [True Crime](https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu) | 3:56 |
-| 45 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 |
+| 44 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 |
+| 45 | [True Crime \(Shortcut\)](https://open.spotify.com/track/6JechHmxFPXf2s6SToxwmI) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [True Crime](https://open.spotify.com/album/2qwn7r37oZFup28M4kTBUu) | 3:56 |
 | 46 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 | 47 | [Some Type of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/3JESF4y5o29QYebTheGju0) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU) | 3:24 |
 | 48 | [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 66 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 67 | [Beings of Light](https://open.spotify.com/track/7i1bsnDcFv4dnR4aIPjSGv) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:12 |
 | 68 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
-| 69 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
-| 70 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
+| 69 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
+| 70 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
 
-Snapshot ID: `AAAAAD/TYOLvFZCT5XQTF4G3HsW86Dd9`
+Snapshot ID: `AAAAANCUmKx9DQ/W0KrF6unyqj1SVe5K`

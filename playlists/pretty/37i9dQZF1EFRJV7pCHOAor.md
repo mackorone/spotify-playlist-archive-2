@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806 likes - 226 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 807 likes - 226 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 117 | [Port Pelegrí](https://open.spotify.com/track/22hH0aVWmxNW3clG1Dck8F) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
 | 118 | [Puerta del Sol](https://open.spotify.com/track/7wPAgA4sRARKeQE6LTcbOC) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:23 |
 | 119 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
-| 120 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
-| 121 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
+| 120 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
+| 121 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
 | 122 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 |
 | 123 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 |
 | 124 | [Morning Sex](https://open.spotify.com/track/4Vfs046cJ4foUV2mqB6vHU) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [iiiDrops](https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd) | 3:31 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 136 | [Impurities](https://open.spotify.com/track/2jkQ4W13nSGGkUrkRt7ihK) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:49 |
 | 137 | [Still In Love](https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [CTV3: Day Tripper's Edition](https://open.spotify.com/album/0sTsD2n8TsSpIGZhFsCXeS) | 3:25 |
 | 138 | [She Think](https://open.spotify.com/track/5yzTMBpElOOx4lOsxtObLw) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Janktape Vol\. 1](https://open.spotify.com/album/2PsuKIMWPQemQhz503zvop) | 2:43 |
-| 139 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
-| 140 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
+| 139 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
+| 140 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 141 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
 | 142 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
 | 143 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 195 | [Papi](https://open.spotify.com/track/0oqSDa2UpnKWwncU8Y9098) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Papi](https://open.spotify.com/album/2TCI9AcDhC6ksP5JMyAv5J) | 3:21 |
 | 196 | [Shirtless](https://open.spotify.com/track/0tc4nG3aXZCMMx99utMBjK) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:21 |
 | 197 | [Hate To Love](https://open.spotify.com/track/6AKfXzefuSM5wuInFiFL4p) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:13 |
-| 198 | [I Don't Wanna Talk About it](https://open.spotify.com/track/7DA4T3YygOgn4jjMEwXy82) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 2:14 |
-| 199 | [All I've Seen](https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c) | [Evanora Unlimited](https://open.spotify.com/artist/71SAxqRLYirlXRiHsIAuJT) | [All I've Seen](https://open.spotify.com/album/1VNxFcmWwIugXgHTb2UiRx) | 3:19 |
+| 198 | [All I've Seen](https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c) | [Evanora Unlimited](https://open.spotify.com/artist/71SAxqRLYirlXRiHsIAuJT) | [All I've Seen](https://open.spotify.com/album/1VNxFcmWwIugXgHTb2UiRx) | 3:19 |
+| 199 | [I Don't Wanna Talk About it](https://open.spotify.com/track/7DA4T3YygOgn4jjMEwXy82) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 2:14 |
 | 200 | [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 |
 | 201 | [Static](https://open.spotify.com/track/4aiSHckhEYhGLmcevQqBex) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 4:04 |
 | 202 | [Crypto](https://open.spotify.com/track/3lrg0lt2WUlRZEENVWIVxc) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:40 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 225 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 226 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `Ace3UgAAAAACmnyYm66jtnLeZpkVDJUp`
+Snapshot ID: `Ace9GgAAAACYcl6WTU3BMJb9IBQ7GsGk`

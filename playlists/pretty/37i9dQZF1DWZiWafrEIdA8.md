@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,652 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,659 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Transcend \(Feat\. C JAMM\)](https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 3:40 |
 | 50 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 
-Snapshot ID: `AAAAANe+6ppm256crFiydaprwuFIz5xj`
+Snapshot ID: `AAAAALtd194AmC5AieUGOXEIU3W5vu6c`

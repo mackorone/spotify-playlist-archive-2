@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: FKA MASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,721 likes - 59 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,739 likes - 59 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 58 | [SNOKONOKO](https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [SNOKONOKO](https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp) | 6:39 |
 | 59 | [Yuapi ?](https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Yuapi ?](https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1) | 6:42 |
 
-Snapshot ID: `AAAAAAw/Y11WkToa2nLIpFsnECkltHYo`
+Snapshot ID: `AAAAAL5qzOG9f88yb2Td2knycQ7+Gttj`

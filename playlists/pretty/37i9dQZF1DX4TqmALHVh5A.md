@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Stanislas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,931 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,927 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [La flemme](https://open.spotify.com/track/4bOIaQgprATStZk6AEPo71) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [La flemme](https://open.spotify.com/album/7hPscfFDNYH4ITpKBYPgNX) | 2:03 |
 | 50 | [Coup de tête](https://open.spotify.com/track/5LzPzjb3O0dxim7GebwZyx) | [Luv0](https://open.spotify.com/artist/3oAWnKJlbMqdlZYo5cTNjJ) | [Coup de tête](https://open.spotify.com/album/4psXOwsMMKgHN0qezkcmNO) | 2:22 |
 
-Snapshot ID: `AAAAAMr/jtmZZJrF7a+u7uHOurJa1S33`
+Snapshot ID: `AAAAALAx3DwG8Q8HUO7xkaMZLakTOFiO`

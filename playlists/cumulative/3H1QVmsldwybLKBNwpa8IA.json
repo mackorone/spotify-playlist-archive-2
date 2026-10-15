@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/4sGclLDTwbJmRiiGy0BFWX"
       },

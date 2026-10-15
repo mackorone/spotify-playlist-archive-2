@@ -1,12 +1,12 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1011844,
+  "num_followers": 1011743,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDIsUjMs+RndC2XN16cRAjIvW4e",
+  "snapshot_id": "AAAAAHevsE4rmvyl3T7zJ8SS7l/wtYE4",
   "tracks": [
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 212000,
       "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "Love Me Now (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     }
   ],
   "unique_name": "Sextou",

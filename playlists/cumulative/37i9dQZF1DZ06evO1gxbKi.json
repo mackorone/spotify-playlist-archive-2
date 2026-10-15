@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "The Decca Singles, Vol. 3",
+        "url": "https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "Everybody's Gonna Have A Wonderful Time Up There (Gospel Boogie)",
+      "url": "https://open.spotify.com/track/42qyhd9ofnURz1MC3pnxzH"
+    },
+    {
+      "album": {
         "name": "Sister On Tour",
         "url": "https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO"
       },

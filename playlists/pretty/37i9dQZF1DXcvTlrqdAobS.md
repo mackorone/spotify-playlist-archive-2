@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > Every summer needs a soundtrack\. 🐊🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,275 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,264 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 36 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 | 37 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 38 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
-| 39 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 |
-| 40 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 39 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 40 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 |
 | 41 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 42 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
 | 43 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 44 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
-| 45 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:36 |
+| 44 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:36 |
+| 45 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 46 | [Taste Back](https://open.spotify.com/track/3xClevycpBON8bkyxFbAna) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:41 |
 | 47 | [SHAKE IT TO THE MAX \(FLY\) \- REMIX](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [SHAKE IT TO THE MAX \(FLY\) \(REMIX\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 48 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:55 |
 | 49 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 50 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 
-Snapshot ID: `AAAAADpTstiZ1bSnl9T2OYmt+Nqb0Z8k`
+Snapshot ID: `AAAAAOKGHBNDbwakJOYoYctjHaDBuu4Q`

@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27892,
+  "num_followers": 27894,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABgoVHoVH3hg0v0L9AI76wl",
+  "snapshot_id": "as10gAAAAACwl+KhQLb4ZbwJHQGDFNbT",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+        "name": "Happy To Be Here (Deluxe)",
+        "url": "https://open.spotify.com/album/6DNSFcZjyTG1dRvE4vxxe4"
       },
       "artists": [
         {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 210419,
-      "name": "Counting My Blessings - Collab Version",
-      "url": "https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR"
+      "duration_ms": 293800,
+      "name": "Song of Thanksgiving",
+      "url": "https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU"
     },
     {
       "added_at": null,
@@ -323,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 210419,
+      "name": "Counting My Blessings - Collab Version",
+      "url": "https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -343,26 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy To Be Here (Deluxe)",
-        "url": "https://open.spotify.com/album/6DNSFcZjyTG1dRvE4vxxe4"
+        "name": "High Above It All",
+        "url": "https://open.spotify.com/album/4hFpf06z3e1rQliGp7EyQo"
       },
       "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Song of Thanksgiving",
-      "url": "https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU"
+      "duration_ms": 241215,
+      "name": "High Above It All",
+      "url": "https://open.spotify.com/track/2e8glkLFyqnnyzZAWtS2A4"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
       "duration_ms": 248639,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Above It All",
-        "url": "https://open.spotify.com/album/4hFpf06z3e1rQliGp7EyQo"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 241215,
-      "name": "High Above It All",
-      "url": "https://open.spotify.com/track/2e8glkLFyqnnyzZAWtS2A4"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 246627,
-      "name": "No Body (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 261562,
       "name": "Center of All History",
       "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 246627,
+      "name": "No Body (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste And See (The Love Of Christ)",
-        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Fowler",
-          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 272149,
-      "name": "Taste And See (The Love Of Christ)",
-      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 238431,
       "name": "The In Between - from The Chosen",
       "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taste And See (The Love Of Christ)",
+        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 272149,
+      "name": "Taste And See (The Love Of Christ)",
+      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
     },
     {
       "added_at": null,
@@ -811,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Abide With Me",
-      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Found It In Jesus",
         "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
       },
@@ -863,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
       "artists": [
         {
@@ -872,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 239256,
-      "name": "Lord of My Life",
-      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
+      "duration_ms": 190280,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
     },
     {
       "added_at": null,
@@ -895,6 +863,38 @@
       "duration_ms": 204167,
       "name": "Se\u00f1or, Te Necesito",
       "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 239256,
+      "name": "Lord of My Life",
+      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
     },
     {
       "added_at": null,
@@ -963,18 +963,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
       "artists": [
         {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
     }
   ],
   "unique_name": "This Is Matt Maher",

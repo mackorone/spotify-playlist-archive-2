@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 66036,
+  "num_followers": 66035,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAD6nrm888rXi1odQK6Yrohg",
+  "snapshot_id": "as10gAAAAACTKxmAv9qohPTxhCJWPN0H",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEST",
+        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 196863,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEST",
-        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 196863,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/2TMqC3NlvbtiuQL9wVob2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i saw you in my dream",
         "url": "https://open.spotify.com/album/6NYNn2Dyg46rALLiq2LNDL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 204800,
       "name": "i saw you in my dream (acoustic)",
       "url": "https://open.spotify.com/track/3ac1wxBmJP1uspJSYgTrD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/2TMqC3NlvbtiuQL9wVob2D"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Are Getting Shorter",
         "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 334285,
       "name": "Days Are Getting Shorter",
       "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM"
     },
     {
       "added_at": null,

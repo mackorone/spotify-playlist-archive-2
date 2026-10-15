@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 118921,
+  "num_followers": 118950,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/EyNXFm8ygrBDcVcrLzOpn5ASf",
+  "snapshot_id": "AAAAAJ4oi+vLDu2XbNKYhxpZLmPLb5bc",
   "tracks": [
     {
       "added_at": "2024-07-13 01:13:49",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2024-07-13 01:13:49",
@@ -391,22 +391,18 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2024-07-13 01:13:49",
@@ -431,18 +427,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2024-07-13 01:13:49",

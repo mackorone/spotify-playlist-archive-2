@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,873 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,902 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 19 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
 | 20 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 |
 | 21 | [Bluesman for Life \- Remastered](https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF) | [Roy Gaines](https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr) | [Bluesman for Life](https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh) | 5:10 |
-| 22 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |
-| 23 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
+| 22 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
+| 23 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |
 | 24 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 25 | [Sunny Day Friends](https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:40 |
 | 26 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 |
 
-Snapshot ID: `AAAAAIT3BchAeq+PUp4MmAG1BtWpdb04`
+Snapshot ID: `AAAAAKwCeMuQnuJx6y9TXZhwz4LIpyNd`

@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wXUVPHR8uD.md) - [plain]
 
 > Autumnal romances for sweater weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAHYkrkkace3yCNV8KGGQoZrQlwJz`
+Snapshot ID: `AAAAALvvXqVLLjoUrt51cZZdOxuX/6Q4`

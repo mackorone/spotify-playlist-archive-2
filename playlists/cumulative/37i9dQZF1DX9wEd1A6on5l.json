@@ -4135,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "CnF (Gbewa)",
+      "url": "https://open.spotify.com/track/3xPcMAHga74TZWXbH7kGa8"
+    },
+    {
+      "album": {
         "name": "Coco Money",
         "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
       },
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 135549,
       "name": "Fast and Furious",
       "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"

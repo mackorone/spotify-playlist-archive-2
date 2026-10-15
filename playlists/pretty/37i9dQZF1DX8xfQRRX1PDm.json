@@ -1,12 +1,12 @@
 {
   "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Dhurandhar",
-  "num_followers": 1381396,
+  "num_followers": 1381987,
   "original_name": "Bollywood Dance Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvkbHVgKK1+Kkzjhfu2EjI+lIq1",
+  "snapshot_id": "AAAAAI24qJo10NHmazQ2ez/mctyHQFpM",
   "tracks": [
     {
       "added_at": "2026-10-07 11:39:37",
@@ -169,6 +169,42 @@
       "url": "https://open.spotify.com/track/7d4TNquNa91thANgxrD8h2"
     },
     {
+      "added_at": "2026-10-14 09:43:33",
+      "album": {
+        "name": "Kaabil",
+        "url": "https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Gourov-Roshin",
+          "url": "https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC"
+        },
+        {
+          "name": "Rajesh Roshan",
+          "url": "https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Anjaan",
+          "url": "https://open.spotify.com/artist/6S1g6iKAiOZjLFxlrIXm2e"
+        }
+      ],
+      "duration_ms": 229208,
+      "name": "Haseeno Ka Deewana",
+      "url": "https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I"
+    },
+    {
       "added_at": "2026-10-07 11:39:37",
       "album": {
         "name": "Gali Gali (From \"Kgf Chapter 1\")",
@@ -239,6 +275,30 @@
       "duration_ms": 188814,
       "name": "Taras - From \"Munjya\"",
       "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"
+    },
+    {
+      "added_at": "2026-10-14 09:43:33",
+      "album": {
+        "name": "Judwaa 2",
+        "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Roach Killa",
+          "url": "https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS"
+        }
+      ],
+      "duration_ms": 221276,
+      "name": "Aa Toh Sahi",
+      "url": "https://open.spotify.com/track/1f3GOFy8WQ3ab4GP7c26QR"
     },
     {
       "added_at": "2026-10-07 11:39:37",
@@ -347,6 +407,38 @@
       "duration_ms": 225535,
       "name": "Aavan Jaavan (From \"WAR 2\")",
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
+    },
+    {
+      "added_at": "2026-10-14 09:43:33",
+      "album": {
+        "name": "Tiger Zinda Hai",
+        "url": "https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Julius Packiam (Tiger Theme)",
+          "url": "https://open.spotify.com/artist/25B5Vk9Jqr42w35MQUyv3D"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 235944,
+      "name": "Swag Se Swagat",
+      "url": "https://open.spotify.com/track/2AjGLmuZK1fu21n1IpB9RU"
     },
     {
       "added_at": "2026-10-07 11:39:37",
@@ -1967,66 +2059,6 @@
     {
       "added_at": "2026-10-07 11:39:37",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2026-10-07 11:39:37",
-      "album": {
-        "name": "Badhaai Ho",
-        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Panjabi MC",
-          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
-        },
-        {
-          "name": "Mellow D",
-          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
-        }
-      ],
-      "duration_ms": 198025,
-      "name": "Morni Banke",
-      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
-    },
-    {
-      "added_at": "2026-10-07 11:39:37",
-      "album": {
         "name": "Psycho Saiyaan (From \"Saaho\")",
         "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
       },
@@ -2075,22 +2107,6 @@
       "duration_ms": 155123,
       "name": "QEHER (From \"Dhamaal 4\")",
       "url": "https://open.spotify.com/track/7myz4NUL4qKaUI01IlkDie"
-    },
-    {
-      "added_at": "2026-10-07 11:39:37",
-      "album": {
-        "name": "Do Numbari (From \u201cMirzapur The Movie\u201d)",
-        "url": "https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 163695,
-      "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
-      "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
     }
   ],
   "unique_name": "Bollywood Dance Music",

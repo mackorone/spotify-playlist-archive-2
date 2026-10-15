@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,980 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,025 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 40 | [Looku Looku](https://open.spotify.com/track/3GJ4pBRc3T9aDP59S0UKHn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Looku Looku](https://open.spotify.com/album/0NaiRD5vcs0lWyC0rUuZ2i) | 3:47 |
 | 41 | [ESSENCE](https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 4:12 |
 | 42 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
-| 43 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
-| 44 | [Peace](https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mirage](https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI) | 3:14 |
+| 43 | [Peace](https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mirage](https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI) | 3:14 |
+| 44 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
 | 45 | [Good Time](https://open.spotify.com/track/39uiJ40PjYT9TZTtwGOYcR) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Enjoy Your Life](https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL) | 3:16 |
 | 46 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 |
 | 47 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 49 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 | 50 | [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 |
 
-Snapshot ID: `asrRgAAAAADKnLPX9HfZew2+aOCWOVKw`
+Snapshot ID: `as10gAAAAACVwv9sXjSpe6besXI63jwA`

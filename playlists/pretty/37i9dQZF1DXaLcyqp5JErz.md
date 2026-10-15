@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,960 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,061 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 27 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 28 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
 | 29 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
-| 30 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
-| 31 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
+| 30 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
+| 31 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
 | 32 | [Não Há Barreiras \- Ao Vivo](https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:24 |
 | 33 | [Abraça\-Me \- Ao Vivo em BH](https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Abraça\-Me \(Paixão Fogo e Glória\) \[Ao Vivo em BH\]](https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX) | 14:07 |
 | 34 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Pai](https://open.spotify.com/track/5sUvzMn02TghrI6ntFV24w) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Diamante Vol\. 1](https://open.spotify.com/album/69sjIPFx42Mxq5kZyutgSn) | 5:28 |
 | 70 | [Tempo de Vencer \(All The Man That I Need \)](https://open.spotify.com/track/0aNQmlnj981Lwkj7Htvgic) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex), [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Tempo de Vencer](https://open.spotify.com/album/20E5gzYNHIzwwFIMZAHSxR) | 3:57 |
 
-Snapshot ID: `AAAAACPcm7ippNue+JtFXWCTiTFmGFdT`
+Snapshot ID: `AAAAAL+2fYPNBTKbovrGBIIuMIEYuZ/N`

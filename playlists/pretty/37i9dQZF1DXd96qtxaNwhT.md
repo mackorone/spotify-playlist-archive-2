@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,958 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,955 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 74 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 75 | [Flowers For You](https://open.spotify.com/track/0yXp9FN43YfDwYS8MTumW2) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Say hi to Paula](https://open.spotify.com/album/7eflyEZ5ONVbkhd8rKXqjd) | 2:51 |
 
-Snapshot ID: `AAAAAF5rPznqZHhURYaYQOoJkbxqt+nr`
+Snapshot ID: `AAAAABA92qWIgM4vaiAMIsQY+bW6UjCX`

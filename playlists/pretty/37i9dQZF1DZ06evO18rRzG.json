@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 451562,
+  "num_followers": 451648,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACP8nyjvkZsbx20wyUqagfd",
+  "snapshot_id": "as10gAAAAACiz9WtPcw7DsLRwcaLhdVP",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2VxBRnteLPjdKcAW9w3Zwp"
       },
       "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Invincible (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
+      "duration_ms": 144000,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CVciPxACaLYZfx49VGSPy"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/2VxBRnteLPjdKcAW9w3Zwp"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CVciPxACaLYZfx49VGSPy"
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
     },
     {
       "added_at": null,

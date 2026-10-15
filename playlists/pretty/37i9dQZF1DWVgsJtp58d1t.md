@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:4Y9QKWtGSeL2NnVokmWAvz">Johnny Venus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,356 likes - 162 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,316 likes - 162 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 161 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
 | 162 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
 
-Snapshot ID: `AAAAALdEYrIhDBdXEwzqFU56eUm8g5Eo`
+Snapshot ID: `AAAAAMxvXvNk0f7RlrfVpOXy+D+OWOVi`

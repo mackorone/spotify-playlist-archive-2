@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,415 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,418 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 72 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 73 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 74 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
-| 75 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
+| 75 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 76 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
-| 77 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
+| 77 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 78 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 79 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
-| 80 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
-| 81 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
+| 80 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
+| 81 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 82 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
 | 83 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 84 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
@@ -108,18 +108,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 98 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
 | 99 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 | 100 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 |
-| 101 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
+| 101 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
 | 102 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
-| 103 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
+| 103 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
 | 104 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 |
-| 105 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
+| 105 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 106 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 |
 | 107 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 108 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 |
 | 109 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
 | 110 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
-| 111 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
-| 112 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
+| 111 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
+| 112 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
 | 113 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 | 114 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 |
 | 115 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
 | 125 | [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 |
 
-Snapshot ID: `AAAAAMaEVXGaZq6+YeV1dJcE8X42YNCZ`
+Snapshot ID: `AAAAAN3wBvgIhJ5lD7AnpqkOW17WBGyK`

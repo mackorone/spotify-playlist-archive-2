@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574,520 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,574,788 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
 | 50 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 |
 
-Snapshot ID: `AAAAACfeilUgShme1OYzjD/39d5ewWI/`
+Snapshot ID: `AAAAAHG6Skz40Cfll4tE8192FzKj2BDm`

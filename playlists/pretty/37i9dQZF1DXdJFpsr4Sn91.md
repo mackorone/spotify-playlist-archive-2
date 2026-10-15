@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,472 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,467 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 29 | [Vinojen tähtien alla](https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Vinojen tähtien alla](https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa) | 2:33 |
 | 30 | [Stereot](https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk) | [Efka Crush](https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF) | [Stereot](https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N) | 4:07 |
 | 31 | [ainut joka tuntee mut](https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX) | [paulus](https://open.spotify.com/artist/1KUf2qlXKmUUbEefxBqDVp) | [ainut joka tuntee mut](https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF) | 3:10 |
-| 32 | [MÄKI OON](https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [MÄKI OON](https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18) | 1:56 |
-| 33 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
+| 32 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
+| 33 | [MÄKI OON](https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [MÄKI OON](https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18) | 1:56 |
 | 34 | [Mustikkamaa](https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20) | [Haavat](https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo) | [Mustikkamaa](https://open.spotify.com/album/3iWUlUxAFnH2tBCLj8aPTl) | 3:33 |
 | 35 | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ) | 3:07 |
 | 36 | [Vaarallist](https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ) | [Vaarallist](https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV) | 2:34 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 38 | [Paina play paina stop](https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Paina play paina stop](https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH) | 2:33 |
 | 39 | [Huvipuisto](https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F) | [EEMELI](https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL) | [Huvipuisto](https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro) | 3:23 |
 | 40 | [Älä lannistu](https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4) | [Päkä](https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE), [PETRELL](https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS) | [Pullomeri](https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V) | 2:49 |
-| 41 | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 |
-| 42 | [Yhteiset askeleet \(feat\. Bahamo\)](https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA) | [Kielletty Ruusu](https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr), [Bahamo](https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps) | [Yhteiset askeleet](https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS) | 3:08 |
+| 41 | [Yhteiset askeleet \(feat\. Bahamo\)](https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA) | [Kielletty Ruusu](https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr), [Bahamo](https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps) | [Yhteiset askeleet](https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS) | 3:08 |
+| 42 | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 |
 | 43 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
 | 44 | [Kallio](https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Lohtulauluja](https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5) | 2:06 |
 | 45 | [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 |
 | 46 | [Ruusunen](https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz) | [EMI](https://open.spotify.com/artist/0fZ4VC0udPzZNPi1yF88uB) | [Ruusunen](https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9) | 3:22 |
 | 47 | [Pilvenpiirtäjät](https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag) | [Ruletti](https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC), [Melissa](https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn) | [Pilvenpiirtäjät](https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk) | 3:33 |
-| 48 | [Chanel](https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Chanel](https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc) | 2:30 |
+| 48 | [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 |
 | 49 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
-| 50 | [etkö sä nää?](https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [etkö sä nää?](https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr) | 3:25 |
+| 50 | [Chanel](https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Chanel](https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc) | 2:30 |
 
-Snapshot ID: `AAAAAENKNog510YZvSEFiXMIL3vvuYVn`
+Snapshot ID: `AAAAALAuOtoYGCpyfScw71mWhP8EOfk5`

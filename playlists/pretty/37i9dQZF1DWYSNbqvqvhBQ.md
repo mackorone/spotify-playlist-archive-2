@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,216 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,202 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 69 | [Changes Coming 'Round The Bend](https://open.spotify.com/track/0LYxksy1iGlktBf595NNmZ) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Changes Coming 'Round The Bend](https://open.spotify.com/album/2XjWpWHdgRrBQOjpXyYoZJ) | 2:47 |
 | 70 | [Life Is For Living](https://open.spotify.com/track/3BU1YruNRetS73hIWNLrkF) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [There Is Nothing In The Dark That Isn't There In The Light](https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB) | 4:08 |
 
-Snapshot ID: `AAAAAHEtNvXKFo3zC5XSY/teyEbejmPY`
+Snapshot ID: `AAAAAKWD8sahnFPQuQeD4RMkzLhAn4Pq`

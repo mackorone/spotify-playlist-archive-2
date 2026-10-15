@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,230 songs - 2 day 15 hr 35 min
+1,231 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [1ère Sommation](https://open.spotify.com/track/2imMAGzWXw57YyYWOwi8DF) | [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [1ère Sommation](https://open.spotify.com/album/3hjxmJ1HRBsqgWuDaCiMh8) | 3:55 | 2023-08-25 | 2023-11-11 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-24 | 2023-09-10 |
 | [300.000](https://open.spotify.com/track/7It4MD8ok9QJIZ63hl2hc1) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [GOTY EDITION](https://open.spotify.com/album/5gzgpxFb9278tbOEbMrMBi) | 3:04 | 2026-10-08 |  |
+| [4](https://open.spotify.com/track/2IEzETw6a4UmDVw0j0hjJt) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 2:20 | 2026-10-14 |  |
 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-11-04 | 2025-03-22 |
 | [4 Étoiles](https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ) | [pkc](https://open.spotify.com/artist/0giIPo49HnTdeIT6cMPB8W) | [4 Étoiles](https://open.spotify.com/album/1FiqmjXMWU1ArwwzlGhtcR) | 2:30 | 2024-03-29 | 2024-06-01 |
 | [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 | 2025-07-25 | 2026-01-17 |
@@ -908,7 +909,7 @@
 | [Photomaton](https://open.spotify.com/track/7FAyIPD8YLpUQc5r0MSv60) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R), [Elodie Wildstars](https://open.spotify.com/artist/6azJLRL2YwHHtmYdSI12lL) | [Pola](https://open.spotify.com/album/57rVwTtLt8rgScIabNzWvt) | 4:40 | 2025-06-20 | 2025-07-19 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-02-14 | 2025-08-15 |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-01-21 | 2026-08-29 |
-| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-28 |  |
+| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-28 | 2026-10-15 |
 | [Pim pom](https://open.spotify.com/track/6OZ0yjdc8QQPxnQ2T6lGlg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 4:23 | 2025-02-14 | 2025-08-05 |
 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 | 2026-04-17 |  |
 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-07-12 | 2024-09-07 |

@@ -41152,7 +41152,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -44682,7 +44682,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 463611,
       "name": "Phumelela",
       "url": "https://open.spotify.com/track/3JP8KIKHcuCsngfWtq1ok0"
@@ -53864,7 +53864,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -55652,7 +55652,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -61959,6 +61959,24 @@
     },
     {
       "album": {
+        "name": "Uzumgcine uMama",
+        "url": "https://open.spotify.com/album/2vAGur2uXuxorL8buEOSjR"
+      },
+      "artists": [
+        {
+          "name": "Scelo Gasa",
+          "url": "https://open.spotify.com/artist/2z6kJ9wbK1ZoX4plmQIqas"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Uzumgcine uMama",
+      "url": "https://open.spotify.com/track/1a10cnnUIz7J6CgZC0MEsb"
+    },
+    {
+      "album": {
         "name": "Ntsako",
         "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
       },
@@ -62642,7 +62660,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 277629,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/7csqXkDbGhTXVNqGFmbwUa"

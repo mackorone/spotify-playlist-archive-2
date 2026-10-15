@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,826 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 16 | [Safe \(feat\. Savannah Ré\)](https://open.spotify.com/track/03NddMz8erSpjjioDecBh4) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Safe](https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp) | 2:50 |
 | 17 | [Wilson Silverstar 402 Blues](https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Wilson Silverstar 402 Blues](https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP) | 4:43 |
 | 18 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |
-| 19 | [Sad Porn](https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Sad Porn](https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P) | 3:12 |
+| 19 | [ON THE SCHEDULE](https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [ON THE SCHEDULE](https://open.spotify.com/album/7vHO368QppzJL9g1jnozna) | 3:16 |
 | 20 | [MIA](https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [MIA](https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC) | 2:42 |
-| 21 | [ON THE SCHEDULE](https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [ON THE SCHEDULE](https://open.spotify.com/album/7vHO368QppzJL9g1jnozna) | 3:16 |
+| 21 | [Sad Porn](https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Sad Porn](https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P) | 3:12 |
 | 22 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 |
 | 23 | [Hey Honey](https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Hey Honey](https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK) | 3:13 |
-| 24 | [How Do You Like Me Now](https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [How Do You Like Me Now](https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t) | 2:26 |
-| 25 | [Come To Me](https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Come To Me](https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y) | 3:13 |
+| 24 | [Come To Me](https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Come To Me](https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y) | 3:13 |
+| 25 | [How Do You Like Me Now](https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [How Do You Like Me Now](https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t) | 2:26 |
 | 26 | [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 |
 | 27 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
 | 28 | [Bad News](https://open.spotify.com/track/6uT65JquCWSWdvMfhqwsW8) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Bad News](https://open.spotify.com/album/5zOQmE12kFoBvhBeUGPj6P) | 2:54 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 32 | [BIBLE TEXTS](https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BIBLE TEXTS](https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU) | 2:24 |
 | 33 | [Alright, alright](https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF), [Rowena Fysx](https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9) | [Alright, alright](https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo) | 2:31 |
 | 34 | [cool](https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [cool](https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf) | 3:42 |
-| 35 | [Put It Down](https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Unstoppable](https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9) | 3:18 |
-| 36 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
-| 37 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
-| 38 | [Bite the bullet](https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [Bite the bullet](https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc) | 2:28 |
-| 39 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 |
+| 35 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
+| 36 | [Put It Down](https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Unstoppable](https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9) | 3:18 |
+| 37 | [Bite the bullet](https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [Bite the bullet](https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc) | 2:28 |
+| 38 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 |
+| 39 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
 | 40 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
 | 41 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
 | 42 | [Piercing](https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity Remix Mixtape](https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 45 | [Hurt You](https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Hurt You](https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH) | 3:34 |
 | 46 | [Play the Game](https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub) | [Virgo Rising](https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf) | [Play the Game](https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya) | 4:28 |
 | 47 | [Quand](https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dolbeau\-Mistassini](https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0) | 3:09 |
-| 48 | [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 |
-| 49 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 48 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 49 | [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 |
 | 50 | [Toi](https://open.spotify.com/track/5cBkJueWCq7NiW4DVD1UUK) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG), [Carson](https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn), [Somaya](https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA) | [Prends soin de toi](https://open.spotify.com/album/3Vngym1DZ8rtUONTeq6mIB) | 4:49 |
 
-Snapshot ID: `AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff`
+Snapshot ID: `AAAAADNyF33DhKnlxTlWtaRIcR9JkgMX`

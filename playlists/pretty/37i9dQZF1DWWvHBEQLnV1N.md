@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Festive season staples and new holiday favourites 🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,301 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,275 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 56 | [Winter Winds](https://open.spotify.com/track/7eNdbY0tlrWNKaiaCZGljh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9) | 3:39 |
 | 57 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 |
 | 58 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
-| 59 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 |
-| 60 | [Feliz Navidad](https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/7pTRfiMt7jdY0uphSoRbTN) | 3:02 |
+| 59 | [Feliz Navidad](https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/7pTRfiMt7jdY0uphSoRbTN) | 3:02 |
+| 60 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 |
 
-Snapshot ID: `AAAAAOiAjBG80iDWNvZttWDiKLp4L3uG`
+Snapshot ID: `AAAAAGXqCJLqG82/wMwhvjzRIxnNnfXI`

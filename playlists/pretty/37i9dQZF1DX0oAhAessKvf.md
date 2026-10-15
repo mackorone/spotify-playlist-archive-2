@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 44 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 45 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 | 46 | [Si El Hombre Quiere](https://open.spotify.com/track/7oJVjywLnYWS7FDDqjiQhw) | [Rude Girl \(La Atrevida\)](https://open.spotify.com/artist/27YpHzMcm3VgsSmGCLjkqv) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:32 |
-| 47 | [Mini Mini](https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp) | [Fab 5](https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:07 |
-| 48 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
+| 47 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
+| 48 | [Mini Mini](https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp) | [Fab 5](https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:07 |
 | 49 | [El Marciano \- Cocoman](https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Reggaeton BC](https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE) | 5:35 |
 | 50 | [Ven y Vuela](https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:10 |
 | 51 | [Interlude \- Don Che Tra Mix](https://open.spotify.com/track/6CBjYv25BAXI0cyPuHwnRI) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:38 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 60 | [Desnudate](https://open.spotify.com/track/7a5dK2QQPkWMMebGely7Zq) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
 | 61 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |
 | 62 | [Unknown \(Hector & Tito / Gargolas 1\)](https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 2:08 |
-| 63 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
-| 64 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
-| 65 | [Intro \- Soy El Sandunguero](https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:27 |
+| 63 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
+| 64 | [Intro \- Soy El Sandunguero](https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:27 |
+| 65 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
 | 66 | [Bailen](https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj) | [Jenay](https://open.spotify.com/artist/4kejafUkN53v2HsYzMhgaJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:30 |
 | 67 | [San Yó!](https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
 | 68 | [Me No Like Rikers Island](https://open.spotify.com/track/71P4eSrTusKY3C2pnmQVSm) | [Cocoa\-Tea, Nardo Ranks](https://open.spotify.com/artist/722YGC8Lz3tBJaWiAnC1kP) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:01 |
-| 69 | [Callate](https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S) | [Dj Gian](https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw) | [DJ Joe presenta: A Mover...](https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6) | 3:14 |
-| 70 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
+| 69 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
+| 70 | [Callate](https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S) | [Dj Gian](https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw) | [DJ Joe presenta: A Mover...](https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6) | 3:14 |
 | 71 | [Cosa Nuestra](https://open.spotify.com/track/3TrbZ2b3afqGhLSaAYqLZB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Historia 2](https://open.spotify.com/album/7raEpS6jGjuI84IkoiHTYT) | 3:53 |
 | 72 | [Donde Estan \(Puerto Rico\)](https://open.spotify.com/track/6mCQ1ykA0C9JEuMUara5hQ) | [Hector y Tito](https://open.spotify.com/artist/4gwoieWGDtxgpm1ufr9wKr) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 2:57 |
 | 73 | [Unknown \(Alberto Sytle / Gargolas 1\)](https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 3:12 |
-| 74 | [Unknown \(Magnate & Valentino / Gargolas 3\)](https://open.spotify.com/track/0zcmjDnv3ZjbyhEhZkvnhn) | [Magnate Y Valentino](https://open.spotify.com/artist/5hhclzZsaNfmBh0eQI44JQ) | [Gargolas 3](https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp) | 2:52 |
-| 75 | [Interlude \- Recuerdos De Antes](https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:22 |
+| 74 | [Interlude \- Recuerdos De Antes](https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:22 |
+| 75 | [Unknown \(Magnate & Valentino / Gargolas 3\)](https://open.spotify.com/track/0zcmjDnv3ZjbyhEhZkvnhn) | [Magnate Y Valentino](https://open.spotify.com/artist/5hhclzZsaNfmBh0eQI44JQ) | [Gargolas 3](https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp) | 2:52 |
 
-Snapshot ID: `AAAAAJV8CzqOwubSjekLFCuY+X5u4jDq`
+Snapshot ID: `AAAAAE4G35k2+O82CuQ8b8dnFMU5TDVw`

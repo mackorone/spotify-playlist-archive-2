@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,881 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,885 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 16 | [piano in the sky](https://open.spotify.com/track/0tGPVoB37sQYmnAwTsg7gq) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:10 |
 | 17 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
 | 18 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
-| 19 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
-| 20 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
+| 19 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
+| 20 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
 | 21 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 |
 | 22 | [soulless](https://open.spotify.com/track/0MR7Cb6TlNaQgs0vXDaK0W) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [soulless](https://open.spotify.com/album/3jGZXvQfjP1PUehR25z6T1) | 2:08 |
 | 23 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 34 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
 | 35 | [PEACE](https://open.spotify.com/track/3ReoBWqpM0ceIUNmu7Gii9) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/0UQAktHlWTgQtvt8QjMSho) | 2:17 |
 
-Snapshot ID: `AAAAAEZkUdZkNXG5HiYWhf8Lx6OZr99u`
+Snapshot ID: `AAAAAH3YEhAzbz6+kyu/IhbwZJ71+2Ps`

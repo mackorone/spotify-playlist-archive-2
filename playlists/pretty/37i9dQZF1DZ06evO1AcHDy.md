@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,289 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,288 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 24 | [Eve, Psyche & the Bluebeard’s wife \- Rina Sawayama Remix](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 |
 | 25 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
 | 26 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
-| 27 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 |
+| 27 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 | 28 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
-| 29 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
+| 29 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 |
 | 30 | [Flavour Of The Month](https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 2:33 |
-| 31 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 |
-| 32 | [Bees & Honey \- Bonus Track](https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 1:46 |
-| 33 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
+| 31 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
+| 32 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 |
+| 33 | [Bees & Honey \- Bonus Track](https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 1:46 |
 | 34 | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO) | 3:27 |
-| 35 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
-| 36 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
+| 35 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
+| 36 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 
-Snapshot ID: `asrRgAAAAADvCxYhyGOw+1egVI9PkLnb`
+Snapshot ID: `as10gAAAAAD0gnYdR/3H2uKpFx3bEqM1`

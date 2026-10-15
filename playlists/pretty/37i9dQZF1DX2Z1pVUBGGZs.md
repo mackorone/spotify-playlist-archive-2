@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,841 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,825 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 101 | [Lighthouse](https://open.spotify.com/track/5sTcGQXd5WuW1slqxpDP0E) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lighthouse](https://open.spotify.com/album/7tuKf6C1YINV2hPGlccnG9) | 4:00 |
 | 102 | [left you](https://open.spotify.com/track/6yI8tTGKH2LRIufGSck7GN) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [left you](https://open.spotify.com/album/46r0YggpgLn2vgxuYgs7o6) | 2:37 |
 
-Snapshot ID: `AAAAAGVK/CYFO4v3lyvY1BN1KHDnGCZt`
+Snapshot ID: `AAAAAGMW+apBag0EYcOsm3A8LFSwb5pL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,601 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,594 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 49 | [worldstar money \(interlude\)](https://open.spotify.com/track/4jyC2FscjLBNQTMf2xR9dq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/2W7Uy4FEXehCmjfiJuS0IG) | 2:06 |
 | 50 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
 
-Snapshot ID: `AAAAAJKObi7CFWGJik/ggHCrS3CzEMx8`
+Snapshot ID: `AAAAAMCFLlCAvri6Px4YhPw8diuKsq9o`

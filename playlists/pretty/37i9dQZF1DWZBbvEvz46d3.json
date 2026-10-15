@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 76622,
+  "num_followers": 76628,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsJt6SIRUAkEACYs8PpXAWV6r2a",
+  "snapshot_id": "AAAAALl7rB0CqoOWVYHI2sMJSfBdi9u9",
   "tracks": [
     {
       "added_at": "2025-10-16 09:34:51",
@@ -175,18 +175,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
-      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
+      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Momenty",
         "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 178893,
       "name": "O Pani!",
       "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
-      },
-      "artists": [
-        {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Comfort and Happiness",
-        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
-      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184514,
       "name": "Ksi\u0119\u017cniczka",
       "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Comfort and Happiness",
+        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
+      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "P\u00f3ki to nie zabronione (The Best)",
-        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
-      },
-      "artists": [
-        {
-          "name": "Kobranocka",
-          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Kocham ci\u0119 jak irlandi\u0119",
-      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Motyle",
         "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "P\u00f3ki to nie zabronione (The Best)",
+        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
+      },
+      "artists": [
+        {
+          "name": "Kobranocka",
+          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Kocham ci\u0119 jak irlandi\u0119",
+      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -823,6 +807,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Wielki Odlot 2 - Najlepsze 80-te",
         "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+      "duration_ms": 206186,
+      "name": "My",
+      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 206186,
-      "name": "My",
-      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Poganie! Kochaj i Obra\u017caj",
         "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 369200,
       "name": "Jedwab",
       "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Smak Sl\u00f3w",
+        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Smak s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Nasz Film (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Smak Sl\u00f3w",
-        "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Smak s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
+      "duration_ms": 223200,
+      "name": "Niewiele Ci Mog\u0119 Da\u0107",
+      "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1027,22 +1043,6 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Niewiele Ci Mog\u0119 Da\u0107",
-      "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "\u015awiat si\u0119 pomyli\u0142",
-        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
-      },
-      "artists": [
-        {
-          "name": "Patrycja Markowska",
-          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "\u015awiat si\u0119 pomyli\u0142",
-      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Bumerang",
         "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 246771,
       "name": "Zosta\u0144",
       "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "\u015awiat si\u0119 pomyli\u0142",
+        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "\u015awiat si\u0119 pomyli\u0142",
+      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
     },
     {
       "added_at": "2025-10-16 09:34:51",

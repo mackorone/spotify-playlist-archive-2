@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315960,
+  "num_followers": 315966,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsjPkWBadstAJkweBxfEmol35RD",
+  "snapshot_id": "AAAAANRhMpWu+xCRqvu95rz4y/+nSNp0",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2026-09-11 04:01:25",

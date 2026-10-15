@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,360 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,359 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 2 | [Break Your Heart](https://open.spotify.com/track/7mDCg8XTEyDNPzC5Jdt7mu) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:05 |
 | 3 | [Hangover](https://open.spotify.com/track/5pmL3RzOy3IvGFaSDi4hZL) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 4:04 |
 | 4 | [Little Bad Girl \(feat\. Taio Cruz & Ludacris\)](https://open.spotify.com/track/55VzNhbcf0Gxf6qRCUAV01) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:12 |
-| 5 | [There She Goes](https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [There She Goes](https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt) | 3:28 |
+| 5 | [She's Like A Star](https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:38 |
 | 6 | [Higher](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:07 |
-| 7 | [She's Like A Star](https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:38 |
+| 7 | [There She Goes](https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [There She Goes](https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt) | 3:28 |
 | 8 | [Shine A Light \- Radio Edit](https://open.spotify.com/track/5potQQ4p1E51003y375eVC) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Above The Noise](https://open.spotify.com/album/0PktNBv5Cem8XPnhkubCjR) | 3:38 |
 | 9 | [Troublemaker](https://open.spotify.com/track/60Qa4MfNC1dgVfuDF6rgMS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:40 |
-| 10 | [Telling The World](https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:32 |
-| 11 | [I Just Wanna Know](https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:58 |
+| 10 | [I Just Wanna Know](https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:58 |
+| 11 | [Telling The World](https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:32 |
 | 12 | [Hangover \- Hardwell Remix Radio Edit](https://open.spotify.com/track/63fyL7QZ1vhGZzZ9G56rcp) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Hangover \(Remixes\)](https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa) | 3:10 |
 | 13 | [World In Our Hands](https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 |
 | 14 | [Take Me Back](https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:34 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 37 | [Second Chance](https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Third Strike](https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ) | 3:28 |
 | 38 | [Everybody's Changing](https://open.spotify.com/track/6bRHHbM9mxFakL8gcDUUmG) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Ultimate R&B 2009 \(International Version\)](https://open.spotify.com/album/4meVJvSnundOZ4jYKl2aYm) | 3:32 |
 | 39 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
-| 40 | [Cryin Over You \- Cahill Radio Edit](https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Cryin' Over You](https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h) | 3:26 |
-| 41 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
+| 40 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
+| 41 | [Cryin Over You \- Cahill Radio Edit](https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Cryin' Over You](https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h) | 3:26 |
 | 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 43 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `asrRgAAAAABqGVSXW3LUgpTL77MFbrOw`
+Snapshot ID: `as10gAAAAABES7tsWBorE1PYohBW3vmu`

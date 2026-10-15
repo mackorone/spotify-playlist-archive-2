@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Ruthee
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,409 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,350 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [SALAIRE](https://open.spotify.com/track/2gJIWDEOpqN2y1VoyPANki) | [Jeeno](https://open.spotify.com/artist/50Q6ncKrwwBB6P2oj6vufC) | [SALAIRE](https://open.spotify.com/album/5vUZ3OoGBB2p1FD2E9zILZ) | 2:02 |
 | 50 | [Fantaisie](https://open.spotify.com/track/1pdtTlrKAG69x4WDolSXnI) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Fantaisie](https://open.spotify.com/album/63nFwsGGKaNlNWqg5Qo52K) | 2:55 |
 
-Snapshot ID: `AAAAAABfOGZJbMG6UqIDmxF9XKsCzBcF`
+Snapshot ID: `AAAAALdrsBm2m5s/hIIppj/53QJeK+4U`

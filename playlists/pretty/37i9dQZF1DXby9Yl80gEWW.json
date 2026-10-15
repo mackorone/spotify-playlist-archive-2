@@ -1,12 +1,12 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 64046,
+  "num_followers": 64061,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5fn8YaqpZFOZB+HG6HfnlLfWRt",
+  "snapshot_id": "AAAAAGne9Us4IeyPMQfIqpmRo556aUJ/",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 111480,
-      "name": "Dig Deep and Win Wisely",
-      "url": "https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Gravity's Our Enemy",
         "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
       },
       "artists": [
         {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+      "duration_ms": 111480,
+      "name": "Dig Deep and Win Wisely",
+      "url": "https://open.spotify.com/track/3DIPr309ffe1l4WDa9C6JW"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -583,6 +567,22 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+      },
+      "artists": [
+        {
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
-      },
-      "artists": [
-        {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
-        }
-      ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "A Reef Where Two Seas Met",
         "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 139000,
       "name": "A Reef Where Two Seas Met",
       "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The View From Here",
-        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
       "artists": [
         {
-          "name": "Matt Flinner",
-          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Black's Fork",
-      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

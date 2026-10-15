@@ -344,8 +344,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 334 | [Por Entre a Multidão](https://open.spotify.com/track/7tx6En8pHolpfIOrCkYYYF) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/03s2BAuRk2zXWLXaiqj3Sg) | 3:24 |
 | 335 | [Mariana \- Ao Vivo](https://open.spotify.com/track/10hgJEcUvOAFbSOvwlZpZv) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [João Gabriel: Ao Vivo em Goiânia](https://open.spotify.com/album/7kYGk5VsNaBwa3OuVsKmlI) | 3:20 |
 | 336 | [Cinema Mudo \- Ao Vivo](https://open.spotify.com/track/55bOfB3zPl66lIkmZDvJLB) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Ao Vivo em Goiânia](https://open.spotify.com/album/7uZwmYIgR8SficVzYekvT0) | 2:33 |
-| 337 | [Nada](https://open.spotify.com/track/5XDPRVKFwsAaZDTG0Vlutw) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1A1pCqF5m2piQNzfVbw09s) | 2:26 |
-| 338 | [Volta Amor Pra Mim](https://open.spotify.com/track/2hWcWUpqKxXiGILzpnb6G2) | [Lucas Rocha](https://open.spotify.com/artist/3AVAHN33h8JppZF2w6RUng) | [Volta Amor Pra Mim](https://open.spotify.com/album/3p1HBR1IxVd0upTZ7r0DIf) | 2:49 |
+| 337 | [Volta Amor Pra Mim](https://open.spotify.com/track/2hWcWUpqKxXiGILzpnb6G2) | [Lucas Rocha](https://open.spotify.com/artist/3AVAHN33h8JppZF2w6RUng) | [Volta Amor Pra Mim](https://open.spotify.com/album/3p1HBR1IxVd0upTZ7r0DIf) | 2:49 |
+| 338 | [Nada](https://open.spotify.com/track/5XDPRVKFwsAaZDTG0Vlutw) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1A1pCqF5m2piQNzfVbw09s) | 2:26 |
 | 339 | [Última Ressaca \- Ao Vivo](https://open.spotify.com/track/2q6JxeoBSvDmEhHTwTuCrW) | [Cícero Morais](https://open.spotify.com/artist/60vvTG1F9SNwjrAjdPHfa2), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Desculpa Mundo, Ao Vivo em Goiânia](https://open.spotify.com/album/10TfiQ1vfNIUdTGLbnQmlD) | 2:31 |
 | 340 | [Me Ajuda Aí Mô](https://open.spotify.com/track/4tD6iNo8P21uUHVMbHquhN) | [Wlad Borges](https://open.spotify.com/artist/0StY0HK5P4b2mYAt5NShkW), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Me Ajuda Aí Mô](https://open.spotify.com/album/6lP14svqo35sDYjzX2aBC0) | 3:03 |
 | 341 | [A Vontade Era Pisar](https://open.spotify.com/track/7mIEtL7Xl5V8DMs1ZKGq6i) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [A Vontade Era Pisar](https://open.spotify.com/album/3yqXIkE3baIFdI9MEaXtdI) | 2:32 |
@@ -494,4 +494,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 484 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 485 | [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 |
 
-Snapshot ID: `Ace3UgAAAADrhSR7GCZP6qXMlrZfHqP9`
+Snapshot ID: `Ace9GgAAAAD9FLRKkdB/IGytZWYAychc`

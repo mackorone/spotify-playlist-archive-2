@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,951 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,968 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 17 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 18 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 19 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
-| 20 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
-| 21 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 20 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 21 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
 | 22 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
 | 23 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 24 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 29 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
 | 30 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
 | 31 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
-| 32 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
-| 33 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
-| 34 | [You Decorated My Life](https://open.spotify.com/track/6SFeCisbYSqaQwL9hucoF2) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 3:38 |
+| 32 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
+| 33 | [You Decorated My Life](https://open.spotify.com/track/6SFeCisbYSqaQwL9hucoF2) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 3:38 |
+| 34 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 35 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
 | 36 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 |
-| 37 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
-| 38 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
+| 37 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
+| 38 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 39 | [It's Sad to Belong \- Single Version](https://open.spotify.com/track/3zqvox7nyhykHe7WS8w9Rm) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dowdy Ferry Road](https://open.spotify.com/album/7r92pnkbmoV5pXoMQEHFcJ) | 2:53 |
 | 40 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
 | 41 | [Baby I'm\-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 2:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 47 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:09 |
 | 48 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 49 | [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 |
-| 50 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
+| 50 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 
-Snapshot ID: `AAAAADOAUmH/EoD94KPO0f157J7Uo7o6`
+Snapshot ID: `AAAAACw3JEVlFsUxSoGUJkgQbyHLZHXq`

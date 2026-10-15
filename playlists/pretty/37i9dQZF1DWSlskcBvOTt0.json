@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 594673,
+  "num_followers": 594707,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHrtPkFMT59CqaSVXjN0K0EVcF8A",
+  "snapshot_id": "AAAAAFbjElYibrl7nffYUXV6nVuspOen",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:40",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
+        "name": "Trippy Yeah",
+        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Trippy Yeah",
+      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
         "name": "Solar Skin (feat. jasper.wav)",
         "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
-        "name": "Trippy Yeah",
-        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Trippy Yeah",
-      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Whisper To Me",
         "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 226896,
       "name": "Whisper To Me",
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1355,26 +1355,22 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
+        "name": "Heart Spin EP",
+        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
       },
       "artists": [
-        {
-          "name": "Ajna",
-          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
-        },
         {
           "name": "Samm",
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "Chelsea Como",
-          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+      "duration_ms": 264000,
+      "name": "Heart Spin",
+      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1407,22 +1403,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Heart Spin EP",
-        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
       },
       "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
         {
           "name": "Samm",
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+          "name": "Chelsea Como",
+          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Heart Spin",
-      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
+      "duration_ms": 376271,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
         "name": "Mulalo",
         "url": "https://open.spotify.com/album/4xWjt3o0s8X3L61UHleJYZ"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 166162,
       "name": "GROOVINU",
       "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/1IrBQwlHJFx67eZEmbONVa"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/5UIBtSYRtX3JmBzqSbd9G1"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
+        "name": "AHA",
+        "url": "https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Darlyy Ferreira",
+          "url": "https://open.spotify.com/artist/1m5HViL4UTCtzathSTUSZ3"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "AHA",
+      "url": "https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
         "name": "YELE",
         "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
-        "name": "AHA",
-        "url": "https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Darlyy Ferreira",
-          "url": "https://open.spotify.com/artist/1m5HViL4UTCtzathSTUSZ3"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "AHA",
-      "url": "https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "U Ain't Lyin'",
-        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
-      },
-      "artists": [
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "U Ain't Lyin'",
-      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "All The Love (WhoMadeWho & Samm Remix)",
         "url": "https://open.spotify.com/album/26MwrKWXpUpEV8AnnoHNiY"
       },
@@ -2135,6 +2119,38 @@
       "duration_ms": 266000,
       "name": "All The Love - WhoMadeWho & Samm Remix",
       "url": "https://open.spotify.com/track/1EBkH56rR8EunWZkcQjQ1r"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "U Ain't Lyin'",
+        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
+      },
+      "artists": [
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "U Ain't Lyin'",
+      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2179,22 +2195,6 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
-      },
-      "artists": [
-        {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Jamaica",
-        "url": "https://open.spotify.com/album/61xq2YuN8yxOYsIIIQNKtA"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "ELIF",
-          "url": "https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Jamaica",
-      "url": "https://open.spotify.com/track/5IaQmV2dOmzLbUDQ6RUdmR"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Rodopiado (Veneno)",
         "url": "https://open.spotify.com/album/0ohxkzSQSYIXIVxHicSu2H"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 223000,
       "name": "Rodopiado (Veneno)",
       "url": "https://open.spotify.com/track/4gOgpsFWxXRsGOemL0Bpce"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Jamaica",
+        "url": "https://open.spotify.com/album/61xq2YuN8yxOYsIIIQNKtA"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Jamaica",
+      "url": "https://open.spotify.com/track/5IaQmV2dOmzLbUDQ6RUdmR"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2579,26 +2579,6 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "Dondona",
-        "url": "https://open.spotify.com/album/6X26nDRECh4ME10bLAKS25"
-      },
-      "artists": [
-        {
-          "name": "Mx Cartier",
-          "url": "https://open.spotify.com/artist/5QgnWcrDZl4tpMU50rletZ"
-        },
-        {
-          "name": "Elida Almeida",
-          "url": "https://open.spotify.com/artist/4QMgntJ821xE1UtdWtJWbd"
-        }
-      ],
-      "duration_ms": 254634,
-      "name": "Dondona",
-      "url": "https://open.spotify.com/track/0bmQPllYkN1HeeelO1CXdn"
-    },
-    {
-      "added_at": "2026-10-09 04:01:40",
-      "album": {
         "name": "Macho",
         "url": "https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v"
       },
@@ -2615,6 +2595,26 @@
       "duration_ms": 262188,
       "name": "Macho",
       "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
+    },
+    {
+      "added_at": "2026-10-09 04:01:40",
+      "album": {
+        "name": "Dondona",
+        "url": "https://open.spotify.com/album/6X26nDRECh4ME10bLAKS25"
+      },
+      "artists": [
+        {
+          "name": "Mx Cartier",
+          "url": "https://open.spotify.com/artist/5QgnWcrDZl4tpMU50rletZ"
+        },
+        {
+          "name": "Elida Almeida",
+          "url": "https://open.spotify.com/artist/4QMgntJ821xE1UtdWtJWbd"
+        }
+      ],
+      "duration_ms": 254634,
+      "name": "Dondona",
+      "url": "https://open.spotify.com/track/0bmQPllYkN1HeeelO1CXdn"
     },
     {
       "added_at": "2026-10-09 04:01:40",
@@ -2639,18 +2639,22 @@
     {
       "added_at": "2026-10-09 04:01:40",
       "album": {
-        "name": "90s",
-        "url": "https://open.spotify.com/album/5tKWPasCrfGbUCOB2bvx8D"
+        "name": "Soul Gazing",
+        "url": "https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru"
       },
       "artists": [
         {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
         }
       ],
-      "duration_ms": 218663,
-      "name": "90s",
-      "url": "https://open.spotify.com/track/1CwrN5BNPIySxCi5U7CIm4"
+      "duration_ms": 225476,
+      "name": "Soul Gazing",
+      "url": "https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X"
     }
   ],
   "unique_name": "Tantra",

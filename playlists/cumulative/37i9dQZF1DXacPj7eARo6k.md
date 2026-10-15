@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2024-10-08 |  |
+| [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2024-10-08 |  |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2024-01-31 |  |
 | [Always On Time](https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp) | 4:05 | 2024-02-04 | 2025-12-30 |
 | [Always On Time](https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9) | 4:05 | 2024-01-31 | 2024-04-19 |

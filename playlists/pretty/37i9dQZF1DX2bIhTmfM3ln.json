@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 64059,
+  "num_followers": 64073,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgN7M3psbDobPED3PR8qZyj66SP",
+  "snapshot_id": "AAAAADtUJX4bBBiii14Uq5yXzau0izUs",
   "tracks": [
     {
       "added_at": "2026-10-09 00:02:04",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "WHO THIS (feat. BNXN)",
-      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 225310,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "WHO THIS (feat. BNXN)",
+      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
         "name": "CHE",
         "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -531,22 +551,18 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -631,22 +647,6 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
         "name": "Agaba Romantic",
         "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 128316,
       "name": "100 Meters",
       "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "PINO (feat. Babyboy AV)",
-      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -707,6 +687,26 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "PINO (feat. Babyboy AV)",
+      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 144444,
       "name": "Come Kulosa",
       "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "Stay a Little Longer",
         "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 174915,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
+      },
+      "artists": [
+        {
+          "name": "Yedika",
+          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
+        }
+      ],
+      "duration_ms": 163032,
+      "name": "Dey With Me",
+      "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "Gaddem",
         "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 161454,
       "name": "Gaddem",
       "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
-      },
-      "artists": [
-        {
-          "name": "Yedika",
-          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
-        }
-      ],
-      "duration_ms": 163032,
-      "name": "Dey With Me",
-      "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
     },
     {
       "added_at": "2026-10-09 00:02:04",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-09 00:02:04",
       "album": {
+        "name": "Ifeoma & Rascal",
+        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "duration_ms": 152372,
+      "name": "IFEOMA",
+      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
+    },
+    {
+      "added_at": "2026-10-09 00:02:04",
+      "album": {
         "name": "Perspe",
         "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 201000,
       "name": "Perspe",
       "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
-    },
-    {
-      "added_at": "2026-10-09 00:02:04",
-      "album": {
-        "name": "Ifeoma & Rascal",
-        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
-      },
-      "artists": [
-        {
-          "name": "Dai Verse",
-          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
-        }
-      ],
-      "duration_ms": 152372,
-      "name": "IFEOMA",
-      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
     },
     {
       "added_at": "2026-10-09 00:02:04",

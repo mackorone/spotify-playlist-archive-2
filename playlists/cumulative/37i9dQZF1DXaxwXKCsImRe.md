@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:66Q9dkZ7EXdwU2h6tEkUdC">Isabèl Usher</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5qQLp6Xal6S6KXEHgvxmvp">Dressed Like Boys</a>
 
-271 songs - 14 hr 21 min
+274 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-10 |
 | [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 | 2026-03-25 | 2026-05-22 |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2022-08-25 | 2023-06-24 |
+| [And Then I Woke Up](https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [And Then I Woke Up](https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK) | 5:50 | 2026-10-14 |  |
 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 | 2021-12-10 | 2022-10-18 |
 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 | 2025-10-30 | 2026-02-03 |
 | [Bagage](https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 3:01 | 2022-12-09 | 2023-10-06 |
@@ -147,6 +148,7 @@
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-08 | 2023-04-07 |
 | [Leef Vandaag](https://open.spotify.com/track/4sdWltOf93g9Ok3zNGVDTI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Leef Vandaag](https://open.spotify.com/album/3bUohj9RjzxKayLLNvSSia) | 2:45 | 2026-03-03 | 2026-04-03 |
 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 | 2026-04-09 | 2026-09-17 |
+| [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 | 2026-10-14 |  |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2023-05-18 |
 | [long for](https://open.spotify.com/track/1TxLvSFDtHljzooqeyFKdX) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:19 | 2021-12-10 | 2022-03-19 |
 | [Look At Me](https://open.spotify.com/track/5ztdptHqHe9Jt0NzI3Powe) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Look At Me](https://open.spotify.com/album/14PdkPdvr3NsCVzqKrlvkJ) | 3:15 | 2021-12-10 | 2022-06-17 |
@@ -228,6 +230,7 @@
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-17 | 2023-09-15 |
 | [Spotlight](https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Spotlight](https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV) | 2:39 | 2023-01-27 | 2023-09-15 |
 | [Stay](https://open.spotify.com/track/6IIofcBX2keAltckpJ15Hi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:05 | 2024-09-26 | 2025-01-10 |
+| [Stonewall Riots Forever](https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:58 | 2026-10-14 |  |
 | [Strange Again](https://open.spotify.com/track/65SdiBtL7vyqw5HU1xfT0i) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/6gsiRBHrsMLSRmNrp0IjDN) | 2:55 | 2024-07-01 | 2024-09-06 |
 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 | 2022-08-25 | 2023-09-15 |
 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 | 2023-10-20 | 2026-03-19 |

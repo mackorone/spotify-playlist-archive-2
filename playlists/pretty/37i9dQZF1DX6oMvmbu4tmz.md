@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,485 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,479 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 36 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 |
 | 37 | [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 |
 | 38 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
-| 39 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
-| 40 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 |
+| 39 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 |
+| 40 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
 | 41 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
 | 42 | [Papaoutai](https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:52 |
 | 43 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 63 | [Strong](https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:35 |
 | 64 | [Next To Me](https://open.spotify.com/track/3vjQt1znaFEnX3PBXsgtVc) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:16 |
 | 65 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
-| 66 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
-| 67 | [Year Of Summer](https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year of Summer](https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa) | 2:54 |
+| 66 | [Year Of Summer](https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year of Summer](https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa) | 2:54 |
+| 67 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
 | 68 | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE) | 3:45 |
 | 69 | [Read All About It, Pt\. III](https://open.spotify.com/track/4n41lg3dl0abbHovuv5bAU) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/49sy06JJUk1CRwkG9wbRYw) | 4:43 |
 | 70 | [Hey](https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey](https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH) | 3:35 |
@@ -92,13 +92,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 82 | [My Love](https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb) | 4:22 |
 | 83 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 |
 | 84 | [Treat You Better](https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF) | 3:07 |
-| 85 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
+| 85 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
 | 86 | [Perfect Strangers](https://open.spotify.com/track/1CUVN2kn7mW5FjkqXTR2W1) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/163nFrWkhj8FwiwJ11Gu93) | 3:16 |
-| 87 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
-| 88 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 |
+| 87 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 |
+| 88 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
 | 89 | [September Song](https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song](https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg) | 3:40 |
-| 90 | [Little Lion Man](https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More \(Benelux Edition\)](https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD) | 4:07 |
-| 91 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
+| 90 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
+| 91 | [Little Lion Man](https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More \(Benelux Edition\)](https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD) | 4:07 |
 | 92 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
 | 93 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
 | 94 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 99 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 |
 | 100 | [Nothing Really Matters](https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU) | 3:42 |
 
-Snapshot ID: `AAAAAPzT2Zz2U2E5BaQYij08MgQJJ3Zx`
+Snapshot ID: `AAAAALCAkPBGY9guzcbPeu7vywBJjuKM`

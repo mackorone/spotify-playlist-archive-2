@@ -4,7 +4,7 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 44 min
+79 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ben Zo Benieuwd](https://open.spotify.com/track/5lVP8Z9izLG1uXPpeGluT2) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [26 \- Kinderen voor Kinderen](https://open.spotify.com/album/0xY0nHxNiC5103Jlavdv5q) | 3:08 | 2025-12-25 | 2026-01-05 |
 | [Bewegen Is Gezond](https://open.spotify.com/track/3U2FMlenYkTKN6Dyb3STda) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Klaar Voor De Start \(Deel 34\)](https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p) | 3:03 | 2025-08-19 |  |
 | [Bij mij thuis](https://open.spotify.com/track/5XHPAesvfBltXo6oP0an4I) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Bij mij thuis](https://open.spotify.com/album/5K8xJmSBw0NejoYnrs0G0N) | 2:58 | 2025-08-19 |  |
-| [Carnaval](https://open.spotify.com/track/7qcJADYLiTmaWKmgtgHNwe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:28 | 2025-08-19 |  |
+| [Carnaval](https://open.spotify.com/track/7qcJADYLiTmaWKmgtgHNwe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:28 | 2025-08-19 | 2026-10-15 |
 | [Daba Die Daba Daa](https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Daba Die Daba Daa](https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS) | 3:02 | 2025-08-19 | 2026-01-15 |
 | [Daba Die Daba Daa](https://open.spotify.com/track/4to9kWICO3BiSYrD4a3zyX) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 3:02 | 2026-01-15 |  |
 | [Dansen in de regen](https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:50 | 2025-08-19 |  |
@@ -26,7 +26,7 @@
 | [Eigen Tempo](https://open.spotify.com/track/6Ae0Kc5HBKRCh7RU919aB5) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 3:06 | 2025-08-19 | 2025-10-14 |
 | [En toen?](https://open.spotify.com/track/0xISITZcc7YpCwkcxRcW3G) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [En toen?](https://open.spotify.com/album/2SvWduNB5ax7RYt4I6TyEm) | 2:43 | 2025-08-19 | 2026-01-20 |
 | [Energie!](https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [36 \- Raar maar waar](https://open.spotify.com/album/1Fp3h5LG2zXGRb7UP9Xi6S) | 2:54 | 2025-08-19 |  |
-| [Feest!](https://open.spotify.com/track/4o3KLPRhyra7f9bqnitBvJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [35 \- Feest](https://open.spotify.com/album/2ExoPXT3RxT3id3vzuTo73) | 3:06 | 2025-08-19 |  |
+| [Feest!](https://open.spotify.com/track/4o3KLPRhyra7f9bqnitBvJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [35 \- Feest](https://open.spotify.com/album/2ExoPXT3RxT3id3vzuTo73) | 3:06 | 2025-08-19 | 2026-10-15 |
 | [Fitlala](https://open.spotify.com/track/2l9CqXYEEVcualGqRC5Qxu) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [39 \- Kom erbij!](https://open.spotify.com/album/0I8R89pxTkvn22U6PhsLEg) | 3:20 | 2025-08-19 |  |
 | [FitTop10](https://open.spotify.com/track/35XzKuTMuSFjMzUzMkgOrz) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [FitTop10](https://open.spotify.com/album/4KnLQHGGoyMM5v7zUTiHWf) | 3:05 | 2025-08-19 |  |
 | [Geen cadeau](https://open.spotify.com/track/6DRniD5AnMwyKNBdjckOEc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen cadeau](https://open.spotify.com/album/1dQW4R7Kar3rP1Am6n5ZzW) | 2:41 | 2025-12-21 |  |
@@ -34,6 +34,7 @@
 | [Gi\-ga\-groen](https://open.spotify.com/track/5YGKeYGK6r9Wc0gvI3ycFS) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [43 \- Gi\-ga\-groen](https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA) | 2:51 | 2025-08-19 | 2025-11-02 |
 | [Gi\-ga\-groen](https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Gi\-ga\-groen](https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2) | 2:51 | 2025-11-02 |  |
 | [Giechel](https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:51 | 2025-10-14 |  |
+| [Groep 8](https://open.spotify.com/track/7N1VdrXDdc15XKzSkOd98v) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 3:08 | 2026-10-15 |  |
 | [Gruwelijk Eng](https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:00 | 2025-08-19 |  |
 | [Haai Alarm!](https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:03 | 2025-08-19 |  |
 | [Hallo Wereld](https://open.spotify.com/track/4nps5DJ3jFBnmmHHsh6tuo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Hallo wereld](https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX) | 2:38 | 2025-08-19 |  |
@@ -51,6 +52,7 @@
 | [Kliekjesdag](https://open.spotify.com/track/3ZBAWASFvAOBsPTC6UeLQj) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [41 \- En toen?](https://open.spotify.com/album/70eAbvTqUjOBCQqEN6rlUJ) | 3:09 | 2025-08-19 | 2025-11-12 |
 | [Kom maar bij mij](https://open.spotify.com/track/6QLCoTKr0tIZn0WLiRIHJI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:39 | 2026-04-29 | 2026-06-10 |
 | [Koningsspelen Medley](https://open.spotify.com/track/7MgU1mP8wFxVmsaU5tfgvf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Koningsspelen Medley](https://open.spotify.com/album/5knAsgQouqSYjVD3Qdl0Rs) | 4:57 | 2026-04-26 | 2026-05-18 |
+| [Kriebels](https://open.spotify.com/track/0iXbjpThtIlWlTSiUUUTRt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:24 | 2026-10-15 |  |
 | [Laat je maar horen](https://open.spotify.com/track/7yxRyFXTbztpDprXzyVLfw) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Laat je maar horen](https://open.spotify.com/album/4UaNnd4tjYzqgOZqc8ef3Q) | 2:39 | 2026-09-14 |  |
 | [Lekker eigenwijs](https://open.spotify.com/track/6Ywtn5b16tAlqwQJrzEXm8) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:55 | 2025-08-19 |  |
 | [Na\-aper](https://open.spotify.com/track/1rk7ChxQG90vK4od2lZSWN) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 3:01 | 2026-10-11 |  |

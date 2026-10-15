@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima! ",
-  "num_followers": 877793,
+  "num_followers": 877941,
   "original_name": "ALTO ASTRAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALTo/Hd/hHucl628MBw59D5gx7PU",
+  "snapshot_id": "AAAAAGwN+ZYzdZXsxh0ZGJQj9yWM0HYr",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:34",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-09-25 03:00:34",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-    },
-    {
-      "added_at": "2026-09-25 03:00:34",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2026-09-25 03:00:34",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2026-09-25 03:00:34",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-09-25 03:00:34",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2026-09-25 03:00:34",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 192190,
       "name": "My House",
       "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "added_at": "2026-09-25 03:00:34",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2026-09-25 03:00:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-25 03:00:34",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2026-09-25 03:00:34",
-      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -1051,6 +1035,26 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2026-09-25 03:00:34",
+      "album": {
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Price Tag",
+      "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
     }
   ],
   "unique_name": "ALTO ASTRAL",

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36361,
+  "num_followers": 36364,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADzBRkyLJ08m0Aq3qSRr7yR",
+  "snapshot_id": "as10gAAAAABuYYR+G9wwaTXpqocmHqcl",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Herb",
         "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 213812,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
     },
     {
       "added_at": null,
@@ -770,11 +770,15 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -842,15 +846,11 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
       "duration_ms": 219788,
       "name": "In The Air (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REAL INSIDE COLD OUTSIDE",
-        "url": "https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV"
-      },
-      "artists": [
-        {
-          "name": "Tsu Surf",
-          "url": "https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 144724,
-      "name": "No Paperwork",
-      "url": "https://open.spotify.com/track/7pylGFTosewaGwD8Xq3AjM"
     },
     {
       "added_at": null,
@@ -927,26 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody (feat. Monaleo & G Herbo) [Remix]",
-        "url": "https://open.spotify.com/album/4ESOFve49SESHhgattAwIr"
+        "name": "REAL INSIDE COLD OUTSIDE",
+        "url": "https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV"
       },
       "artists": [
         {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "Tsu Surf",
+          "url": "https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 173710,
-      "name": "Nobody (feat. Monaleo & G Herbo) - Remix",
-      "url": "https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG"
+      "duration_ms": 144724,
+      "name": "No Paperwork",
+      "url": "https://open.spotify.com/track/7pylGFTosewaGwD8Xq3AjM"
     },
     {
       "added_at": null,
@@ -971,22 +947,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+        "name": "Nobody (feat. Monaleo & G Herbo) [Remix]",
+        "url": "https://open.spotify.com/album/4ESOFve49SESHhgattAwIr"
       },
       "artists": [
         {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 156133,
-      "name": "Facetime (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
+      "duration_ms": 173710,
+      "name": "Nobody (feat. Monaleo & G Herbo) - Remix",
+      "url": "https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/3WJqVMDoqLuAp7Km48hjdI"
     }
   ],
   "unique_name": "This Is G Herbo",

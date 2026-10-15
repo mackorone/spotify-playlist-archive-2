@@ -22964,7 +22964,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "GEN Z",
       "url": "https://open.spotify.com/track/4MNXP9RbzehazE3ZwyWrKJ"
@@ -41556,7 +41556,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -63014,6 +63014,10 @@
         {
           "name": "BAKV",
           "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
         }
       ],
       "date_added": "2026-10-03",

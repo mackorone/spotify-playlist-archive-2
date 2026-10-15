@@ -5724,6 +5724,14 @@
         {
           "name": "Keep in Touch",
           "url": "https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Fujimoto Tetsuro",
+          "url": "https://open.spotify.com/artist/1kRDHnByZaEdc4urO4X32P"
         }
       ],
       "date_added": "2026-10-14",
@@ -6756,6 +6764,24 @@
       "duration_ms": 303716,
       "name": "50%",
       "url": "https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S"
+    },
+    {
+      "album": {
+        "name": "Yuienne",
+        "url": "https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP"
+      },
+      "artists": [
+        {
+          "name": "kariyushi58",
+          "url": "https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209966,
+      "name": "5820",
+      "url": "https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i"
     },
     {
       "album": {
@@ -193239,42 +193265,6 @@
     },
     {
       "album": {
-        "name": "Yuienne",
-        "url": "https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP"
-      },
-      "artists": [
-        {
-          "name": "kariyushi58",
-          "url": "https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL"
-        }
-      ],
-      "date_added": "2026-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i"
-    },
-    {
-      "album": {
-        "name": "SPACE RENDEZVOUS",
-        "url": "https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW"
-      },
-      "artists": [
-        {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
-        }
-      ],
-      "date_added": "2026-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -240796,6 +240786,24 @@
       "duration_ms": 251548,
       "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
       "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
+    },
+    {
+      "album": {
+        "name": "SPACE RENDEZVOUS",
+        "url": "https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358197,
+      "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl"
     },
     {
       "album": {

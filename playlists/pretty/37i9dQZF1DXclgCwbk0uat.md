@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,947,311 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,947,103 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 50 | [PROVÓCATE](https://open.spotify.com/track/6tVUJRUMCPucWI3ZDCKQIK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [PROVÓCATE](https://open.spotify.com/album/6UrmZ0pbAvY80glXCCVlZi) | 3:06 |
 
-Snapshot ID: `AAAAAKFS0/WXxkAqpZhn0f6KgxEAG9uM`
+Snapshot ID: `AAAAAPNjfkxSpSsblqlrOQBJc9y642fh`

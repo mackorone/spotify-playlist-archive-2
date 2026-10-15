@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Marie April & kubmat
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,455 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,458 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 39 | [RAYMAN](https://open.spotify.com/track/41AP7naWhEeGUzficbWMqd) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [KARAKORAM DLC](https://open.spotify.com/album/119vGN06mULe4nDFonOOML) | 3:09 |
 | 40 | [Vzpomeneš si?](https://open.spotify.com/track/50JepWcN6dVYG4fkziswhO) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Mirai](https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle) | [Vzpomeneš si?](https://open.spotify.com/album/1rJPKCnQsKqGIwd3c0Q3QH) | 3:23 |
 | 41 | [ADHD POP](https://open.spotify.com/track/2nFk1X6uJcJkHnOgMDep0a) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [ADHD POP](https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx) | 3:03 |
-| 42 | [Ona je se mnou](https://open.spotify.com/track/3uYb4vcO2o84zrcSzh442S) | [Rico](https://open.spotify.com/artist/50NZJWXrxmMHAQIS5w6dSq), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 3:29 |
+| 42 | [Ona je se mnou](https://open.spotify.com/track/3uYb4vcO2o84zrcSzh442S) | [RICO](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 3:29 |
 | 43 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 44 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 |
 | 45 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 46 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 47 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 48 | [Bandolero](https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl) | [Rico](https://open.spotify.com/artist/50NZJWXrxmMHAQIS5w6dSq) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 2:48 |
+| 48 | [Bandolero](https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl) | [RICO](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 2:48 |
 | 49 | [FURT PYTLE](https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw) | [Sanchez22](https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO), [Press Premium](https://open.spotify.com/artist/68idhuiqaTHiK9lKXTq469) | [FURT PYTLE](https://open.spotify.com/album/2Sn1G0zNN5lP16voDi1qW0) | 2:37 |
 | 50 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 
-Snapshot ID: `AAAAAELkbZgS4bw4qHte5yXQIqmA0elT`
+Snapshot ID: `AAAAAES1ZWWZDOuWO1POC2A3PlGVFAt+`

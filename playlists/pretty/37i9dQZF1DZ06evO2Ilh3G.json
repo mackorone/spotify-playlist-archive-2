@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120386,
+  "num_followers": 120394,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAC3k0j13Sqbe9cOy0uHfsSb",
+  "snapshot_id": "as10gAAAAABDJ2ekDRfYTUFLlolOf1dN",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Every Night (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Every Night (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Night (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Every Night (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k"
     },
     {
       "added_at": null,
@@ -1019,46 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 200485,
-      "name": "Don't Lose Me",
-      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive (with Offset & 2 Chainz)",
-        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 235897,
-      "name": "Alive (with Offset & 2 Chainz)",
-      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -1083,6 +1043,50 @@
       "duration_ms": 217220,
       "name": "Pink Toes (Offset, DaBaby feat. Gunna)",
       "url": "https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 200485,
+      "name": "Don't Lose Me",
+      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 302613,
+      "name": "New To You (with Normani, Tinashe & Offset)",
+      "url": "https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo"
     }
   ],
   "unique_name": "This Is Offset",

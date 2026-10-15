@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 93000,
       "name": "13 Pieces for Piano, Op. 76: No. 2, Etude in A Minor",
       "url": "https://open.spotify.com/track/4FWGEOjwmFTauuGNxNtBEc"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 159333,
       "name": "13 Preludes, Op. 32: No. 12 in G-Sharp Minor. Allegro",
       "url": "https://open.spotify.com/track/0RigajCOtzHPuRGPtno63n"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 58105,
       "name": "La plus que lente, CD 128 - Excerpt",
       "url": "https://open.spotify.com/track/2U5EpPYJWFJyb2C8TBWuVB"
@@ -818,6 +818,28 @@
       "duration_ms": 58105,
       "name": "La plus que lente, CD 128 - Excerpt",
       "url": "https://open.spotify.com/track/4tuokacAyNDa3vpVJNKYMt"
+    },
+    {
+      "album": {
+        "name": "\"Classical Encores\" - A Collection of Piano Works",
+        "url": "https://open.spotify.com/album/49iXOmNbFUPTWUNMS2MLa6"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58105,
+      "name": "La plus que lente, CD 128 - Excerpt",
+      "url": "https://open.spotify.com/track/5sDigXzPdaSbgllT7g2C0h"
     },
     {
       "album": {
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 44653,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
       "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
@@ -1680,7 +1702,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 96440,
       "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
       "url": "https://open.spotify.com/track/0LhPltgg0pit78eBdaGczS"
@@ -1706,6 +1728,28 @@
       "duration_ms": 96440,
       "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
       "url": "https://open.spotify.com/track/3dfA3Cy8G5nRali9FqoQU9"
+    },
+    {
+      "album": {
+        "name": "\"Notes from Another Century: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/1YBeuYwpS6xOnAKbTdBBGi"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96440,
+      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
+      "url": "https://open.spotify.com/track/3qAVnP1DwMSpBUHVS4P8A8"
     },
     {
       "album": {
@@ -2192,7 +2236,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "Spring Breeze Prelude (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/2wirrdaPrmLhUw607iGAuH"

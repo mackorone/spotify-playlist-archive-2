@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103845,
+  "num_followers": 103841,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADhfC+WiqdnZPHIpKzd4nrh",
+  "snapshot_id": "as10gAAAAABm53916akQVVMkUbcOXoo4",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 175543,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/3MesSL4BYvkWxC5c6ZcOBf"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 160000,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7ANDTDlIAPivLtBrEm2JRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 175543,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar En Ti",
+      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa Te Vas",
         "url": "https://open.spotify.com/album/4PsFPh3i2vj3HfdRqposYj"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210552,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/4I0yQQl0ZiSpBJrtGe6e5V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar En Ti",
-      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
     },
     {
       "added_at": null,

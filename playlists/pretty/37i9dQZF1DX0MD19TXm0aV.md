@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,919 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,921 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 50 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 
-Snapshot ID: `AAAAAA7BqZ1vG62AK8A//4TuvinFdxZd`
+Snapshot ID: `AAAAAB1vPZ3Agw5XCVKv+766vGUuSfBT`

@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Music Is Invisible (Pentimento Volume Three)",
+        "url": "https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313973,
+      "name": "Broadway Boogie-Woogie",
+      "url": "https://open.spotify.com/track/06cCTVYULIYXehgQdpHxFo"
+    },
+    {
+      "album": {
         "name": "Broadway Boogie-Woogie",
         "url": "https://open.spotify.com/album/3WuJlf4nyLNpeVV0qcKDyo"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 313973,
       "name": "Broadway Boogie-Woogie",
       "url": "https://open.spotify.com/track/5CSlxDnahWLG5Qv9UGQbrV"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 242200,
       "name": "Delicado",
       "url": "https://open.spotify.com/track/3JJAL8JjdRS3JiTSh9h50o"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 177480,
       "name": "Unknown Wish",
       "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"

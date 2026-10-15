@@ -470,6 +470,24 @@
     {
       "album": {
         "name": "El Greco - Original Motion Picture Soundtrack By Vangelis",
+        "url": "https://open.spotify.com/album/4hGJ3SaDnxyOnouNUe9kQi"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238360,
+      "name": "El Greco - Part 1",
+      "url": "https://open.spotify.com/track/1QXSIk5n6CJWdFe34uLebP"
+    },
+    {
+      "album": {
+        "name": "El Greco - Original Motion Picture Soundtrack By Vangelis",
         "url": "https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj"
       },
       "artists": [
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 297666,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"

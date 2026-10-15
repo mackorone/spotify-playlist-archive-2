@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 595119,
+  "num_followers": 595159,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMk8E9mKULWXjYws5v/Z672ynVBK",
+  "snapshot_id": "AAAAAIw0uZVV+eiFaSPw36P4H2GqeUEx",
   "tracks": [
     {
       "added_at": "2026-10-10 03:41:11",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Polvo Rosita",
-      "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2026-10-10 03:41:11",
+      "album": {
         "name": "Recuerdos en Com\u00fan",
         "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 214700,
       "name": "Recuerdos en Com\u00fan",
       "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
-    },
-    {
-      "added_at": "2026-10-10 03:41:11",
-      "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "La Cita Fresita (En Vivo)",
-        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "La Cita Fresita - En Vivo",
-      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
-    },
-    {
-      "added_at": "2026-10-10 03:41:11",
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 215945,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+    },
+    {
+      "added_at": "2026-10-10 03:41:11",
+      "album": {
+        "name": "La Cita Fresita (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "La Cita Fresita - En Vivo",
+      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2026-10-10 03:41:11",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2026-10-10 03:41:11",
-      "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
+        "name": "Ya No Estoy Dolido",
+        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Ya No Estoy Dolido",
+      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+    },
+    {
+      "added_at": "2026-10-10 03:41:11",
+      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -1699,26 +1719,6 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "Ya No Estoy Dolido",
-        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Ya No Estoy Dolido",
-      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
-    },
-    {
-      "added_at": "2026-10-10 03:41:11",
-      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        },
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
         }
       ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
+      "duration_ms": 254862,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
     },
     {
       "added_at": "2026-10-10 03:41:11",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2026-10-10 03:41:11",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
       },
       "artists": [
         {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
-        },
-        {
-          "name": "Los Ecos",
-          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 254862,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
     }
   ],
   "unique_name": "La Troca",

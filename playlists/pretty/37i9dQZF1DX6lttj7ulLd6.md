@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,250 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,569 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 25 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
 | 26 | [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 |
 | 27 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
-| 28 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
-| 29 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 28 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 29 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 |
 | 30 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
 | 31 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 |
 | 32 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 35 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 |
 | 36 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 |
 | 37 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 |
-| 38 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 |
-| 39 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
+| 38 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
+| 39 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 |
 | 40 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 |
 | 41 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
-| 42 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
-| 43 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
-| 44 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
+| 42 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
+| 43 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
+| 44 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
 | 45 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
 | 46 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 |
 | 47 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 59 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 |
 | 60 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 |
 | 61 | [simply delicious](https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [simply delicious](https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV) | 3:13 |
-| 62 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 |
-| 63 | [BeatBack](https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [BeatBack](https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR) | 3:52 |
+| 62 | [BeatBack](https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [BeatBack](https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR) | 3:52 |
+| 63 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 |
 | 64 | [Down / Fade](https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Down / Fade](https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG) | 2:04 |
 | 65 | [astro turf](https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [astro turf](https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC) | 3:40 |
 | 66 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 |
-| 67 | [Golden Hour](https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Golden Hour](https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A) | 3:31 |
-| 68 | [Let’s Call It a Day](https://open.spotify.com/track/2keNZpTW568HvOK445GGQU) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Let’s Call It a Day](https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy) | 4:56 |
+| 67 | [Let’s Call It a Day](https://open.spotify.com/track/2keNZpTW568HvOK445GGQU) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Let’s Call It a Day](https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy) | 4:56 |
+| 68 | [Golden Hour](https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Golden Hour](https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A) | 3:31 |
 | 69 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 |
 | 70 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 |
 | 71 | [Big Dume](https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Big Dume](https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 |
 | 100 | [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 |
 
-Snapshot ID: `AAAAABvWXJ853T/fPosUEGFVHqhMglN0`
+Snapshot ID: `AAAAAEX7Au2dz4ClYbpbtnCGYPEhm/XH`

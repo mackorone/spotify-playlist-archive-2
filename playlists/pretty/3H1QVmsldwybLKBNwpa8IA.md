@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,340 likes - 152 songs - 8 hr 10 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,338 likes - 153 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,5 +160,6 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 150 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 |
 | 151 | [The Rebel Jesus](https://open.spotify.com/track/1fEyQ3bU4ubd2HtAxinjg6) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow of Light \(Deluxe Edition\)](https://open.spotify.com/album/3PTp8AB3JTppmkaUBBR3GY) | 4:09 |
 | 152 | [Santa Slide](https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Santa Slide](https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG) | 4:04 |
+| 153 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 |
 
-Snapshot ID: `AAAFLds7NltqUyvxDsfxKs+mUhRayz8C`
+Snapshot ID: `AAAFMEE3Movmx5ZMYzV10XLY99wHLzNV`

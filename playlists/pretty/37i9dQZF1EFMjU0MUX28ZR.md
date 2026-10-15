@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 41 | [scare myself](https://open.spotify.com/track/39gPWc1bp1eXuD1jHNKlmP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 3:13 |
 | 42 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 |
 | 43 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 |
-| 44 | [decay](https://open.spotify.com/track/1PNpHAmVys80vSWp1CpsGE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:29 |
-| 45 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |
+| 44 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |
+| 45 | [decay](https://open.spotify.com/track/1PNpHAmVys80vSWp1CpsGE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:29 |
 | 46 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 |
 | 47 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 |
 | 48 | [No High](https://open.spotify.com/track/2y8ulWFNrVbcO8gjXwfLC3) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:02 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 114 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 115 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ace3cAAAAACWKr6AtJ8ax2hYT1n3EvLW`
+Snapshot ID: `Ace9GgAAAABLK4l3n9UVrtN9Hbh4M9Eo`

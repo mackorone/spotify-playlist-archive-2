@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Adrian Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,281 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,247 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [37 minggu](https://open.spotify.com/track/3DXDtHF1WLRt5LqQ9naxfN) | [Jentik Manis](https://open.spotify.com/artist/0y2BvbLkLY5K6vQjejRtll), [Rosmarandi](https://open.spotify.com/artist/4ZjW78IyPMCQWVWChvEJHI) | [37 minggu](https://open.spotify.com/album/03EvtQH9yMie7s0YALEAfX) | 2:59 |
 | 100 | [Aku Merindu](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 2:44 |
 
-Snapshot ID: `AAAAAEc9F3VlW437nBtDZMwofDVJfKZ9`
+Snapshot ID: `AAAAAPQ7T0Sst6Vq9wC/Hs/VHxzYvhOj`

@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Anexxado en portada.",
-  "num_followers": 532315,
+  "num_followers": 532326,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOg3CB9nUyOYna74rr+XWS5kVWPH",
+  "snapshot_id": "AAAAAI5xY8VKlKE0Tve9SJAKHDEFswEa",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:26",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "La Pen\u00ednsula",
         "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Pata De Perro",
-        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
         }
       ],
-      "duration_ms": 133636,
-      "name": "Pata De Perro",
-      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
+      "duration_ms": 222107,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/7DpxUbPnZJhh0t4NVtZPAd"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N"
+        "name": "Pata De Perro",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
       },
       "artists": [
         {
-          "name": "Anakin Larios",
-          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 222107,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/7DpxUbPnZJhh0t4NVtZPAd"
+      "duration_ms": 133636,
+      "name": "Pata De Perro",
+      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Se Pudo",
         "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 170323,
       "name": "Se Pudo",
       "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Voy Llegando A Tu Ciudad",
-        "url": "https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW"
-      },
-      "artists": [
-        {
-          "name": "Los Encinos De Sinaloa",
-          "url": "https://open.spotify.com/artist/3toKbWWeQVQqeX6Vs14yVJ"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Voy Llegando A Tu Ciudad",
-      "url": "https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Etapa Migajera",
         "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 172202,
       "name": "Etapa Migajera",
       "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Voy Llegando A Tu Ciudad",
+        "url": "https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW"
+      },
+      "artists": [
+        {
+          "name": "Los Encinos De Sinaloa",
+          "url": "https://open.spotify.com/artist/3toKbWWeQVQqeX6Vs14yVJ"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Voy Llegando A Tu Ciudad",
+      "url": "https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exclusivo",
-          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
-        }
-      ],
-      "duration_ms": 291801,
-      "name": "La Madrugada",
-      "url": "https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
         "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 187691,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "duration_ms": 291801,
+      "name": "La Madrugada",
+      "url": "https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi"
     },
     {
       "added_at": "2026-10-09 04:00:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-10-09 04:00:26",
       "album": {
-        "name": "Lo Que Yo M\u00e1s Quiero",
-        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 153168,
-      "name": "Lo Que Yo M\u00e1s Quiero",
-      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
-    },
-    {
-      "added_at": "2026-10-09 04:00:26",
-      "album": {
         "name": "Vida y Libertad",
         "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 157500,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
+    },
+    {
+      "added_at": "2026-10-09 04:00:26",
+      "album": {
+        "name": "Lo Que Yo M\u00e1s Quiero",
+        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 153168,
+      "name": "Lo Que Yo M\u00e1s Quiero",
+      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
     },
     {
       "added_at": "2026-10-09 04:00:26",

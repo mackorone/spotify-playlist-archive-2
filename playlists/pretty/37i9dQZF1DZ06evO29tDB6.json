@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146677,
+  "num_followers": 146704,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAC+CjGqu/4XYnG6xTJubuGu",
+  "snapshot_id": "as10gAAAAAB5Au92/OyI+KygFS/tdHTC",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+      "duration_ms": 171466,
+      "name": "La fuerza del amor",
+      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
     },
     {
       "added_at": null,
@@ -596,9 +596,25 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 171466,
-      "name": "La fuerza del amor",
-      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Encuentros cercanos del tercer sexo",
-      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 281600,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Encuentros cercanos del tercer sexo",
+      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard to Handle",
-        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190632,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -859,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No te olvides de la banda",
-        "url": "https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 306773,
-      "name": "Solamente Dios",
-      "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -891,6 +851,50 @@
       "duration_ms": 203573,
       "name": "Triste canci\u00f3n de amor (con El Tri)",
       "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No te olvides de la banda",
+        "url": "https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 306773,
+      "name": "Solamente Dios",
+      "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Tripas Corazon",
+        "url": "https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Chela Lora",
+          "url": "https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7"
+        }
+      ],
+      "duration_ms": 181654,
+      "name": "De Tripas Corazon",
+      "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
     }
   ],
   "unique_name": "This Is El Tri",

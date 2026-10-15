@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22168,
+  "num_followers": 22172,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOxXTsFZ8Y7OA6E8TmJqsl1lCrvd",
+  "snapshot_id": "AAAAANRwRV36E9v8e07bx6sUJZ0H/0bP",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "No Other Saviour",
+        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 1026979,
+      "name": "No Other Saviour",
+      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
+    },
+    {
       "added_at": "2025-12-19 00:01:10",
       "album": {
         "name": "\u00d3 D\u00e1ra",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
-      "added_at": "2026-10-09 00:01:36",
-      "album": {
-        "name": "No Other Saviour",
-        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 1026979,
-      "name": "No Other Saviour",
-      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Aanu Ni",
@@ -779,6 +779,26 @@
       "duration_ms": 258741,
       "name": "Ogbon Mi O Gbe",
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
+    },
+    {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "This Joy",
+        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Seun Makay",
+          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "This Joy",
+      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
       "added_at": "2026-04-03 00:01:46",
@@ -811,26 +831,6 @@
       "duration_ms": 189557,
       "name": "Want to Grow",
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "This Joy",
-        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
-      },
-      "artists": [
-        {
-          "name": "God in This Music",
-          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
-        },
-        {
-          "name": "Seun Makay",
-          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "This Joy",
-      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT"
     },
     {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Nothing Without Him",
+        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "duration_ms": 176565,
+      "name": "Nothing Without Him",
+      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
+    },
+    {
       "added_at": "2026-01-23 00:01:16",
       "album": {
         "name": "ENOUGH FOR ME",
@@ -899,22 +915,6 @@
       "duration_ms": 580500,
       "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
-    },
-    {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Nothing Without Him",
-        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
-      },
-      "artists": [
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        }
-      ],
-      "duration_ms": 176565,
-      "name": "Nothing Without Him",
-      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
       "added_at": "2026-10-02 00:01:17",
@@ -1225,6 +1225,26 @@
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
     },
     {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+    },
+    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Oh My Soul",
@@ -1247,26 +1267,6 @@
       "duration_ms": 172714,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
-    },
-    {
-      "added_at": "2026-02-20 00:01:25",
-      "album": {
-        "name": "Your Love II",
-        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Your Love II",
-      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
-      },
-      "artists": [
-        {
-          "name": "Hope Philipz",
-          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
-    },
-    {
       "added_at": "2026-09-18 00:01:36",
       "album": {
         "name": "Only You",
@@ -1419,6 +1403,22 @@
       "duration_ms": 173676,
       "name": "I Dey Grateful",
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
+      },
+      "artists": [
+        {
+          "name": "Hope Philipz",
+          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
     },
     {
       "added_at": "2026-10-02 00:01:17",
@@ -1513,32 +1513,24 @@
       "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
     },
     {
-      "added_at": "2026-06-19 00:01:33",
+      "added_at": "2026-10-09 00:01:36",
       "album": {
-        "name": "Titilailai II",
-        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
       },
       "artists": [
         {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
         },
         {
-          "name": "CHUKWUMA",
-          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
-        },
-        {
-          "name": "Johnson Jkeyz",
-          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
-        },
-        {
-          "name": "Eddiekeyz",
-          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
         }
       ],
-      "duration_ms": 199023,
-      "name": "Titilailai II",
-      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
+      "duration_ms": 141818,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     }
   ],
   "unique_name": "Blessed",

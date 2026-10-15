@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Fibra e Neffa, TY1, Rkomi, Geolier e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,292 likes - 110 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,294 likes - 110 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 109 | [DROGA NELLE BUSTE](https://open.spotify.com/track/4X0lKUiFeayRVTkr6sr9zi) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [YP](https://open.spotify.com/artist/0lOsqFULVrXmx9BYe7rP3A) | [DROGA NELLE BUSTE](https://open.spotify.com/album/4BQFwMVPCVORHPk0mxuPsx) | 2:20 |
 | 110 | [Walk In Paradise \(feat\. Ningabye\)](https://open.spotify.com/track/5S3ZBNOVVjJ3TSIB9ikvh4) | [Lymb](https://open.spotify.com/artist/3AmriLVFqW8no0Bhvf9eHf), [Vmaki](https://open.spotify.com/artist/7dSQuDu7x4KwXPPmv2BHxp), [Macrom](https://open.spotify.com/artist/3gLw026msAk9EWdVWOHWtd), [Ningabye](https://open.spotify.com/artist/0unfw2LlIpfdr10vAObvjD) | [Spirito Santo](https://open.spotify.com/album/6KK7A8uBe0PsBL4sSLNK5v) | 4:00 |
 
-Snapshot ID: `AAAAAN3z++CQF0NXGVBHIQpXlQhWPphg`
+Snapshot ID: `AAAAAIl2dZScKvrfZAmvaYxYdiVkBZdX`

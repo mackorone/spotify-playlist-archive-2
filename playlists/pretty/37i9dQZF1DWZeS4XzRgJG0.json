@@ -1,12 +1,12 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43815,
+  "num_followers": 43838,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlIfd8ZYtdwFIYgGojChdDpQLSH",
+  "snapshot_id": "AAAAAOCu/X1uTXaRcqc3C+LzhOgO2G0w",
   "tracks": [
     {
       "added_at": "2026-10-09 09:23:02",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Talking to the Moon",
-      "url": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 198853,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 273000,
       "name": "I Found",
       "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "THE ART OF BEING A MESS (DELUXE)",
         "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 190066,
       "name": "somebody you're supposed to love",
       "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "New To You",
-        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 151378,
-      "name": "New To You",
-      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "I Cry When I Laugh",
         "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "New To You",
+        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 151378,
+      "name": "New To You",
+      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+        "name": "Watermarks",
+        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
         }
       ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+      "duration_ms": 191266,
+      "name": "Watermarks",
+      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Watermarks",
-        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
       "artists": [
         {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Watermarks",
-      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF"
-      },
-      "artists": [
-        {
-          "name": "Monday",
-          "url": "https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/3lzeglkUrTD04azoIRfvkz"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 154249,
       "name": "drowning",
       "url": "https://open.spotify.com/track/6St9dgtUT0cFVeAPgZkn1g"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF"
+      },
+      "artists": [
+        {
+          "name": "Monday",
+          "url": "https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V"
     },
     {
       "added_at": "2026-10-09 09:23:02",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2026-10-09 09:23:02",
       "album": {
-        "name": "Feline (Deluxe)",
-        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
-    },
-    {
-      "added_at": "2026-10-09 09:23:02",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2026-10-09 09:23:02",
+      "album": {
+        "name": "Feline (Deluxe)",
+        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
     },
     {
       "added_at": "2026-10-09 09:23:02",

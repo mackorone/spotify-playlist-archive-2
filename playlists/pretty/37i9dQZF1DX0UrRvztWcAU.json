@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1567484,
+  "num_followers": 1567505,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADnkruO/H+vAadJsOxG1uJZd9w7x",
+  "snapshot_id": "AAAAANweSXcSArfmAHKCnYBaYLNzLJ3h",
   "tracks": [
     {
       "added_at": "2024-07-12 06:06:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "The Papercut Chronicles",
         "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 252534,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 164205,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 164205,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "How Bizarre (Deluxe)",
         "url": "https://open.spotify.com/album/3CwsEC1FP4XUgECfy1z479"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 225699,
       "name": "How Bizarre",
       "url": "https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Coast To Coast (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "When You're Looking Like That - Single Remix",
-      "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 193089,
       "name": "Black And White",
       "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "When You're Looking Like That - Single Remix",
+      "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2024-07-12 06:06:06",

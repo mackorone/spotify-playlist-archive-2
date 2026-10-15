@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,595 likes - 117 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,591 likes - 117 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 116 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 |
 | 117 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
 
-Snapshot ID: `AAAAAEa03mBNmiZNlJ0AJX8iJGCpRBvN`
+Snapshot ID: `AAAAAEcTZimWL1CarHzKbynOA1fZ9vz3`

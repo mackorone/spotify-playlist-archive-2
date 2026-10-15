@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,136 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 25 | [Get Well](https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:32 |
 | 26 | [the rain don’t care](https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 5:21 |
 | 27 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 |
-| 28 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 |
+| 28 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 |
 | 29 | [Bent Nail](https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 2:57 |
 | 30 | [purple strings](https://open.spotify.com/track/1yZT5UA1LMo6cAyJfNwgzu) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:42 |
 | 31 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 |
-| 32 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 |
-| 33 | [Forever Well](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:07 |
+| 32 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 |
+| 33 | [Us/We/are](https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:34 |
 | 34 | [Downward Years to Come](https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:08 |
-| 35 | [Us/We/are](https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:34 |
-| 36 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
-| 37 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
+| 35 | [Forever Well](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:07 |
+| 36 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
+| 37 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
 | 38 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
 | 39 | [When No Birds Sang](https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:48 |
 | 40 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
 
-Snapshot ID: `asrRgAAAAADGO3+slTNaOXiFNq0wOBZ/`
+Snapshot ID: `as10gAAAAABE6XD81uy63lxymdUzH+tc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,800 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,830 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 16 | [EXOTICÓN ll](https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [EXOTICÓN ll](https://open.spotify.com/album/0QJThre1nco289eXG0qWw3) | 2:11 |
 | 17 | [Cedo la Palabra](https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Cedo la Palabra](https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG) | 3:00 |
 | 18 | [El 10 De Mayo](https://open.spotify.com/track/3byxpMlO1fibRSCunq8iXj) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:31 |
-| 19 | [Colombiana](https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:20 |
-| 20 | [Me dicen Ponchito \- Remix](https://open.spotify.com/track/0FEtE3YelodR3FECITImlk) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me dicen Ponchito \- Remix](https://open.spotify.com/album/2kAbVwqPcTiqS73qxn9X6a) | 4:00 |
+| 19 | [Me dicen Ponchito \- Remix](https://open.spotify.com/track/0FEtE3YelodR3FECITImlk) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me dicen Ponchito \- Remix](https://open.spotify.com/album/2kAbVwqPcTiqS73qxn9X6a) | 4:00 |
+| 20 | [Colombiana](https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:20 |
 | 21 | [Solo Tú](https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 3:32 |
 | 22 | [GPI](https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:13 |
 | 23 | [Te Veo A Las 10](https://open.spotify.com/track/6WRvHIM7VJIDl7JmcH2B8b) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 | 50 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL) | 2:29 |
 
-Snapshot ID: `asrRgAAAAADtzSMMu1dftNtXpFVtjVwY`
+Snapshot ID: `as10gAAAAABRXg1gVWx+a+tAzA8pYmyo`

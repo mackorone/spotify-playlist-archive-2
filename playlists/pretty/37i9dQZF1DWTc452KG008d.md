@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,939 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,927 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 50 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 51 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 52 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 53 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
-| 54 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 |
+| 53 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 |
+| 54 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 55 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 |
 | 56 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
 | 57 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 79 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 80 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 
-Snapshot ID: `AAAAAKZBOqvb4Xjgv/bl7NxndyCFhv82`
+Snapshot ID: `AAAAAOW0qK8jJHxTYZ5TYdpAFiu4uo+X`

@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1167483,
+  "num_followers": 1167557,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACublxxKskU13nUSZwUs/PX",
+  "snapshot_id": "as10gAAAAADU6ofxJfYiYJjZrEpE8aIh",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 134293,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB"
+      "duration_ms": 233240,
+      "name": "Longview",
+      "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Longview",
-      "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
+      "duration_ms": 134293,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB"
     },
     {
       "added_at": null,

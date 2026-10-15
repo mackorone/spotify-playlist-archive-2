@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK"
+      },
+      "artists": [
+        {
+          "name": "Sandro Soro",
+          "url": "https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx"
+    },
+    {
+      "album": {
         "name": "Only Started Growing",
         "url": "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC"
       },

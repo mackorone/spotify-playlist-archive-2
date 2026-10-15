@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,524 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,551 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [You Ain't Have To Do That](https://open.spotify.com/track/7Gj5mqNViY81AOnjfHYvkU) | [NuAnce](https://open.spotify.com/artist/27uRveJBMloVsHh33ts7f3), [RÉMiii](https://open.spotify.com/artist/1FN2Bxap2wlM7YqbqePUPL), [Louie F.](https://open.spotify.com/artist/0oc9yMmVmZ0IZUx0aG0TYF), [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ) | [You Ain't Have To Do That](https://open.spotify.com/album/5W6EwRwyTF6SWvgU2AVxPb) | 2:55 |
 | 50 | [Sin City \(Ft\. Vory\)](https://open.spotify.com/track/0mwS7Dy7G305ZRL4vh2tE7) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Sin City \(Ft\. Vory\)](https://open.spotify.com/album/0JzE36lKt2fyNbrIP3AGgZ) | 2:26 |
 
-Snapshot ID: `AAAAAHAeGwzPmzsPegH28POCwIk5boEu`
+Snapshot ID: `AAAAAOt1JYJU2dgI4gL1hU4ogwycDU+2`

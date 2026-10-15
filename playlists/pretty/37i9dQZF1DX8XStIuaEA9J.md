@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ちゃんみな
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,860 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,854 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 36 | [K/// ILL YOU](https://open.spotify.com/track/4dHjXZ0EHZBD1yK0uHju3f) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [逆夢](https://open.spotify.com/album/7d9zq5sS33IziYFk3omqHy) | 2:46 |
 | 37 | [エメラルド](https://open.spotify.com/track/6m93jhY37ewvEMkUu0rMh6) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [エメラルド](https://open.spotify.com/album/4Aa7p5Ii6nCNESA0GRUGSX) | 3:57 |
 | 38 | [ブルーチーズ](https://open.spotify.com/track/7AVx0WwHiuPA76HRrJ90ru) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY), [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーチーズ](https://open.spotify.com/album/6HIFiBH6bv2jFbk0sfbCio) | 2:53 |
-| 39 | [Track 5](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 0:00 |
+| 39 | [コールドスリープ](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 5:58 |
 | 40 | [Dear](https://open.spotify.com/track/6upKdkevIOzrl3MvOZkg2R) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アブノーマルライフハック](https://open.spotify.com/album/2RWQLuzirI29ZKSCCbdbm8) | 4:26 |
 | 41 | [Roll it up](https://open.spotify.com/track/2s2wpQ21S2JUvuzxsz2blo) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Roll it up](https://open.spotify.com/album/0QF0GH17Mlax3eZJzmMXmR) | 2:52 |
 | 42 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [未練](https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [未練](https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq) | 4:28 |
 | 70 | [VEGA](https://open.spotify.com/track/4o1Ku9YhCedGkZZxwCaIyJ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [VEGA](https://open.spotify.com/album/7FBcUv81Lc4jO0UMhINANg) | 3:45 |
 
-Snapshot ID: `AAAAACOrvIrf2Tz3iKVPY+J4K9N2za7S`
+Snapshot ID: `AAAAAA5P7/CLTORLMisdl8C3jyJr1N0l`

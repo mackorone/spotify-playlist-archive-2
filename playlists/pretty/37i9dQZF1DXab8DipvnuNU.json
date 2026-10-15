@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 50778,
+  "num_followers": 50783,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwEVxc5gMAa95Q1yVdQRq2DZAys",
+  "snapshot_id": "AAAAAE1rbDt+jAg0CAN6UrExioDDITR2",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Growing Pains",
@@ -719,6 +703,22 @@
       "duration_ms": 242133,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-06-16 17:58:31",

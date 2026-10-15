@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 450141,
+  "num_followers": 450184,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAB1GH6hETbW5DHEAI3iU4oB",
+  "snapshot_id": "as10gAAAAAB21s3PT3nWinCdDPOBNov9",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Culpable",
+        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "El Culpable",
+      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Lista",
         "url": "https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 186650,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Culpable",
-        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "El Culpable",
-      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
     },
     {
       "added_at": null,

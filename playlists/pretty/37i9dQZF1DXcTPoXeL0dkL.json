@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 227721,
+  "num_followers": 227741,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMb1odYb+LHG6rS3aS08g0cH+pLa",
+  "snapshot_id": "AAAAADIPoEeW9DzZ3syknYyWGggElp6U",
   "tracks": [
     {
       "added_at": "2025-06-06 05:39:08",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
+        "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
-        "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2025-06-06 05:39:08",

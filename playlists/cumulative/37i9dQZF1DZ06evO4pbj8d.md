@@ -4,13 +4,13 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-120 songs - 6 hr 47 min
+121 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All My Time](https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [All My Time](https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip) | 3:02 | 2025-03-11 |  |
 | [AM I?](https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:16 | 2024-10-20 |  |
-| [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 | 2022-09-16 | 2026-09-27 |
+| [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 | 2022-09-16 |  |
 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 | 2022-09-16 |  |
 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 | 2022-11-08 | 2026-09-27 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2022-09-16 | 2026-02-28 |
@@ -55,7 +55,8 @@
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-09-16 |  |
 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 | 2022-09-16 | 2025-05-31 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-09-16 |  |
-| [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 | 2026-07-26 |  |
+| [Kind](https://open.spotify.com/track/7o6Y9qaxUXCrL1qIrH4Myz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 4:07 | 2026-10-15 |  |
+| [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 | 2026-07-26 | 2026-10-15 |
 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 | 2024-10-20 | 2026-09-27 |
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2022-09-16 |  |
 | [lost](https://open.spotify.com/track/0thu9qHuZmEy7gPcPFdjnj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:24 | 2024-05-13 | 2024-07-10 |
@@ -111,7 +112,7 @@
 | [Time Is A River](https://open.spotify.com/track/6UsgsliuU5gTLxKkfCfPFN) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 2:28 | 2026-09-27 |  |
 | [TOGIAIM](https://open.spotify.com/track/54hGhxFr67d2A4Sg5Ep602) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:09 | 2026-09-27 |  |
 | [too high](https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:16 | 2022-09-19 | 2024-09-17 |
-| [Toothache](https://open.spotify.com/track/0mZUDdU5PMBv3AmlLDLOne) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:30 | 2026-09-27 |  |
+| [Toothache](https://open.spotify.com/track/0mZUDdU5PMBv3AmlLDLOne) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:30 | 2026-09-27 | 2026-10-15 |
 | [trophy](https://open.spotify.com/track/0d0YDO6Y5Aff71fHvAN0oX) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:45 | 2026-06-14 |  |
 | [Trying](https://open.spotify.com/track/4BkroYCzKrqTNuDB4Ou6AS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:55 | 2023-04-29 | 2024-07-23 |
 | [unwelcoming](https://open.spotify.com/track/3gHKL1kfEv6kUY4tGh6NEx) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 2:19 | 2024-06-03 | 2024-07-10 |

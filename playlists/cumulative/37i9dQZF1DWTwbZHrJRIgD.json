@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 167662,
       "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
       "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
@@ -2882,6 +2882,36 @@
       "duration_ms": 168016,
       "name": "Hauli Hauli (From \"Khel Khel Mein\")",
       "url": "https://open.spotify.com/track/1riuemY0uGVSZ1YzVTmmUw"
+    },
+    {
+      "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/1AtWoJ9GiG9E2aSW0PDtnt"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2hVoqLqVg1CRLMG4zt0E3o"
     },
     {
       "album": {

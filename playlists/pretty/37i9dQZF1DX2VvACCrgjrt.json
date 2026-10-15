@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310980,
+  "num_followers": 1310975,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEowhmFCReBKoEuCm7SMDHDhNYE",
+  "snapshot_id": "AAAAAHQn6JLHHpdwa4ciY9UamyfRUQhB",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -1073,6 +1073,26 @@
       "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Faded (Blacklizt Version)(HNTR Remix)",
+        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Faded (Blacklizt Version) - HNTR Remix",
+      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
       "added_at": "2026-08-04 14:38:07",
       "album": {
         "name": "Blas\u00e9 (Bryce Alakai Remix)",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Faded (Blacklizt Version)(HNTR Remix)",
-        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Faded (Blacklizt Version) - HNTR Remix",
-      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN"
       },
@@ -1139,30 +1139,6 @@
       "duration_ms": 171093,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Temperature (Club Mix)",
-        "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        }
-      ],
-      "duration_ms": 126461,
-      "name": "Temperature - Club Mix",
-      "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1187,6 +1163,30 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Temperature (Club Mix)",
+        "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        }
+      ],
+      "duration_ms": 126461,
+      "name": "Temperature - Club Mix",
+      "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
     },
     {
-      "added_at": "2026-06-12 04:01:37",
-      "album": {
-        "name": "ERICA",
-        "url": "https://open.spotify.com/album/2OJ0qv59cVCfJ9SoYWvpNn"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "ERICA",
-      "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Caramel",
@@ -1339,6 +1323,22 @@
       "duration_ms": 190153,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
+    },
+    {
+      "added_at": "2026-06-12 04:01:37",
+      "album": {
+        "name": "ERICA",
+        "url": "https://open.spotify.com/album/2OJ0qv59cVCfJ9SoYWvpNn"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "ERICA",
+      "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
-    },
-    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Turn Up The Bass",
@@ -1475,6 +1459,22 @@
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1549,26 +1549,6 @@
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Rock My World",
@@ -1607,6 +1587,26 @@
       "duration_ms": 202106,
       "name": "Step To The Floor",
       "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1877,26 +1877,6 @@
       "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Pessto",
-          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
-        }
-      ],
-      "duration_ms": 199042,
-      "name": "True",
-      "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "B2U EP",
@@ -1935,6 +1915,26 @@
       "duration_ms": 158769,
       "name": "Watch Where You Walk (Sidewalk Talk)",
       "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Pessto",
+          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+        }
+      ],
+      "duration_ms": 199042,
+      "name": "True",
+      "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2121,6 +2121,26 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
+    },
+    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Miami Bass EP",
@@ -2163,6 +2183,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "N9",
         "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
       },
@@ -2185,42 +2221,6 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "3D",
-      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Somn Like Dis",
@@ -2235,42 +2235,6 @@
       "duration_ms": 153750,
       "name": "Somn Like Dis",
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
-    },
-    {
-      "added_at": "2026-08-28 04:01:56",
-      "album": {
-        "name": "Thirsty (feat. Datti)",
-        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2313,6 +2277,46 @@
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
+      "added_at": "2026-08-28 04:01:56",
+      "album": {
+        "name": "Thirsty (feat. Datti)",
+        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+    },
+    {
       "added_at": "2026-09-04 04:01:29",
       "album": {
         "name": "Tequila Bounce",
@@ -2339,26 +2343,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
         "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
@@ -2375,6 +2359,38 @@
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "\u2661\u262eEP",
+        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Nada De Novo",
+      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2395,22 +2411,6 @@
       "duration_ms": 191818,
       "name": "Stimulation",
       "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
-    },
-    {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "\u2661\u262eEP",
-        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brecht",
-          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Nada De Novo",
-      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "added_at": "2026-07-31 04:01:22",

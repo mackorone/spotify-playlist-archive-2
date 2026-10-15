@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,384,082 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,383,913 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 49 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 50 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 
-Snapshot ID: `AAAAAIC+j8uZi9OtB6iE6Nnr1B5UA+/n`
+Snapshot ID: `AAAAAKAnpGF46VvtQgAwwjC79MlskL43`

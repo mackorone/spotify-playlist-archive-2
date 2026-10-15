@@ -1,40 +1,40 @@
 {
-  "description": "Celebrate the timeless bond of Siya Ram. 'Jai Jai Ram' from Ramayana is out. Listen now.",
-  "num_followers": 1021284,
+  "description": "Experience the magic of \"Do Din Ki Zindagi\" from Gunmaaster G9. Listen now.",
+  "num_followers": 1021310,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABndk7obWOW66nYBnBQ2E27p14Qz",
+  "snapshot_id": "AAAAAGE//yZh6/OanGJfVsqPiOnL8UCS",
   "tracks": [
     {
-      "added_at": "2026-10-12 04:32:59",
+      "added_at": "2026-10-14 07:57:48",
       "album": {
-        "name": "Jai Jai Ram (From \"Ramayana\")",
-        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
+        "name": "Do Din Ki Zindagi (From \"Gunmaaster G9\")",
+        "url": "https://open.spotify.com/album/5MPDmhTgw4BwJVKQkbKu3s"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
         },
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
         },
         {
-          "name": "Kumar Vishwas",
-          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+          "name": "Junaid Wasi",
+          "url": "https://open.spotify.com/artist/2PUX1ZS7k03vO91E5VGvG0"
         }
       ],
-      "duration_ms": 320136,
-      "name": "Jai Jai Ram (From \"Ramayana\")",
-      "url": "https://open.spotify.com/track/4y1KR84zpSoU0aVOdiAGIT"
+      "duration_ms": 337846,
+      "name": "Do Din Ki Zindagi - From \"Gunmaaster G9\"",
+      "url": "https://open.spotify.com/track/7DfkuRi8oX9o9LKKKsUVPH"
     },
     {
       "added_at": "2026-10-14 03:31:35",
@@ -95,6 +95,30 @@
     {
       "added_at": "2026-10-12 04:32:59",
       "album": {
+        "name": "Phata Patakha (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "duration_ms": 196444,
+      "name": "Phata Patakha - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
+    },
+    {
+      "added_at": "2026-10-12 04:32:59",
+      "album": {
         "name": "Yeh Prem Mol Liya Title Track (From \"Yeh Prem Mol Liya\")",
         "url": "https://open.spotify.com/album/1A3Vd1lbo2P9nAU6DVJHxV"
       },
@@ -119,30 +143,6 @@
       "duration_ms": 306818,
       "name": "Yeh Prem Mol Liya Title Track - From \"Yeh Prem Mol Liya\"",
       "url": "https://open.spotify.com/track/3JvD4HC5eiJXG7xK15ARw5"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Phata Patakha (From \"Nayyi Navelli\")",
-        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Vayu",
-          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
-        }
-      ],
-      "duration_ms": 196444,
-      "name": "Phata Patakha - From \"Nayyi Navelli\"",
-      "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
     },
     {
       "added_at": "2026-10-12 04:32:59",
@@ -247,22 +247,30 @@
     {
       "added_at": "2026-10-12 04:32:59",
       "album": {
-        "name": "Afsaana Banaaya Aapne (From \"Gunmaaster G9\")",
-        "url": "https://open.spotify.com/album/1HGzR5EdZZkQaZfYcBnBty"
+        "name": "Jai Jai Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
       },
       "artists": [
         {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Afsaana Banaaya Aapne - From \"Gunmaaster G9\"",
-      "url": "https://open.spotify.com/track/7BailWMlPc70M5MGXTQy6c"
+      "duration_ms": 320136,
+      "name": "Jai Jai Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4y1KR84zpSoU0aVOdiAGIT"
     },
     {
       "added_at": "2026-10-12 04:32:59",
@@ -341,6 +349,22 @@
       "url": "https://open.spotify.com/track/01rADlnzHr3ezpa225Glpa"
     },
     {
+      "added_at": "2026-10-14 04:11:29",
+      "album": {
+        "name": "BEBO",
+        "url": "https://open.spotify.com/album/1n5M5sVoT0AnFoYrM4SpHV"
+      },
+      "artists": [
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "duration_ms": 150044,
+      "name": "BEBO",
+      "url": "https://open.spotify.com/track/4i4lFfvI3yaA9EqOUbqfO1"
+    },
+    {
       "added_at": "2026-10-12 04:32:59",
       "album": {
         "name": "Kaali Raat",
@@ -363,6 +387,42 @@
       "duration_ms": 219718,
       "name": "Kaali Raat",
       "url": "https://open.spotify.com/track/3Cp1EgGfWx4STEeipgMlGO"
+    },
+    {
+      "added_at": "2026-10-14 04:18:05",
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/5ZCntNxtpg6LPbRJOceLVs"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "duration_ms": 178647,
+      "name": "Sahra",
+      "url": "https://open.spotify.com/track/3AxnGEHWcrONXdkVjrOnEc"
+    },
+    {
+      "added_at": "2026-10-12 04:32:59",
+      "album": {
+        "name": "Afsaana Banaaya Aapne (From \"Gunmaaster G9\")",
+        "url": "https://open.spotify.com/album/1HGzR5EdZZkQaZfYcBnBty"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Afsaana Banaaya Aapne - From \"Gunmaaster G9\"",
+      "url": "https://open.spotify.com/track/7BailWMlPc70M5MGXTQy6c"
     },
     {
       "added_at": "2026-10-12 04:32:59",
@@ -507,6 +567,30 @@
       "duration_ms": 271935,
       "name": "Itna Hai Tumko Batana",
       "url": "https://open.spotify.com/track/08ZEAsWsCTG1EQQHXcuMdf"
+    },
+    {
+      "added_at": "2026-10-14 04:11:29",
+      "album": {
+        "name": "Mann Bawara",
+        "url": "https://open.spotify.com/album/62k3PqogVkcdGGtAFVlD85"
+      },
+      "artists": [
+        {
+          "name": "Manasi Shah",
+          "url": "https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs"
+        },
+        {
+          "name": "Arindam Goswami",
+          "url": "https://open.spotify.com/artist/6V2F8IIkE4wELepcOXUymj"
+        },
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "duration_ms": 237836,
+      "name": "Mann Bawara",
+      "url": "https://open.spotify.com/track/141VsJgkijofvQ7RGS7S51"
     },
     {
       "added_at": "2026-10-12 04:32:59",
@@ -1259,34 +1343,6 @@
     {
       "added_at": "2026-10-12 04:32:59",
       "album": {
-        "name": "Vibe (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/60Ad3pi0LOpIBiIqMWfy82"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Aditya Jain",
-          "url": "https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv"
-        },
-        {
-          "name": "Akshay Dhawan",
-          "url": "https://open.spotify.com/artist/374PAz9FXrqEwGCScq7PbR"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 169027,
-      "name": "Rafta Rafta (From \"Vibe\")",
-      "url": "https://open.spotify.com/track/4WvMSlnTJY1fD3mTYJW0Ir"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
         "name": "Jiyara",
         "url": "https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw"
       },
@@ -1303,62 +1359,6 @@
       "duration_ms": 165000,
       "name": "Jiyara",
       "url": "https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Samjho Na (From \"The Vvaan\")",
-        "url": "https://open.spotify.com/album/4dDpesDlsId7FLZ9rQ17tp"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Suvarna Tiwari",
-          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 253833,
-      "name": "Samjho Na - From \"The Vvaan\"",
-      "url": "https://open.spotify.com/track/1yQZfjUeKWs31AYV2IxN0V"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Tu Mera Raiyyo (From \"Prem Keetanu\")",
-        "url": "https://open.spotify.com/album/7phDvEhf8iKpNfTjyLLCOK"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "Tu Mera Raiyyo - From \"Prem Keetanu\"",
-      "url": "https://open.spotify.com/track/3lxR1nJ4EffJxSNXpKxpSr"
     },
     {
       "added_at": "2026-10-12 04:32:59",
@@ -1403,38 +1403,6 @@
       "duration_ms": 231000,
       "name": "Muskura Do (From \"Drishyam: The Conclusion\")",
       "url": "https://open.spotify.com/track/1kpZzaod9E7NJ5YIDcXkg7"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Tere Sang (From \"Don't Be Shy\")",
-        "url": "https://open.spotify.com/album/5e4EcorQKffrpE6jhcTg74"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Yaashasvii Ddasane",
-          "url": "https://open.spotify.com/artist/0jG2bG53On87Jw511KxFNh"
-        },
-        {
-          "name": "Meghna Mishra",
-          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
-        },
-        {
-          "name": "Devansh Vaidya",
-          "url": "https://open.spotify.com/artist/6ceevqtF0Ig1RozxJZarDJ"
-        }
-      ],
-      "duration_ms": 209134,
-      "name": "Tere Sang (From \"Don't Be Shy\")",
-      "url": "https://open.spotify.com/track/0KWiRsYNuLR5reLOg3zQsd"
     },
     {
       "added_at": "2026-10-12 04:32:59",

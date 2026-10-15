@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 700737,
+  "num_followers": 700773,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAACna9LwPdm5YZB5A2aLfSam",
+  "snapshot_id": "as10gAAAAABjIMOCYQPZ7M2xMI12n39n",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 140760,
-      "name": "Sexo, Violencia y Llantas",
-      "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
+      "duration_ms": 194813,
+      "name": "Magnolias",
+      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 194813,
-      "name": "Magnolias",
-      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
+      "duration_ms": 140760,
+      "name": "Sexo, Violencia y Llantas",
+      "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 160296,
       "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Novia Robot",
-      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
+      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -479,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
       },
       "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 193767,
-      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
-      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
     },
     {
       "added_at": null,
@@ -515,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
       },
       "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 227401,
-      "name": "KLK",
-      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+      "duration_ms": 231293,
+      "name": "Jeanne",
+      "url": "https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd"
     },
     {
       "added_at": null,
@@ -551,8 +567,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 227401,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
@@ -560,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 231293,
-      "name": "Jeanne",
-      "url": "https://open.spotify.com/track/7CTwREqLgmaxQngztZrJNd"
+      "duration_ms": 162376,
+      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
+      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
     },
     {
       "added_at": null,
@@ -583,22 +619,6 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
-      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
     },
     {
       "added_at": null,

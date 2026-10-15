@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,955 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,959 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 35 | [Eterno \(Con Cuando los Santos Marchen Ya\)](https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 6:02 |
 | 36 | [Magnifico](https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:08 |
 | 37 | [Incontrolable Amor](https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 5:39 |
-| 38 | [Esa Es La Razón \- Live](https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Celebraré \(Live\)](https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS) | 6:35 |
+| 38 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 10:12 |
 | 39 | [Me Amaste a Mí](https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:44 |
-| 40 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 10:12 |
+| 40 | [Esa Es La Razón \- Live](https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Celebraré \(Live\)](https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS) | 6:35 |
 | 41 | [Mi Padre Me Ama \- Adoración Espontánea](https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 7:38 |
 | 42 | [Corriente / Un Día A La Vez \(Medley\)](https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\)](https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR) | 3:51 |
 | 43 | [Por la Eternidad](https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
 | 50 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
 
-Snapshot ID: `asrRgAAAAADoMT9brhO/b2+qH78kEW0/`
+Snapshot ID: `as10gAAAAAAjSc0L/7rWbJHJnRpb+nCL`

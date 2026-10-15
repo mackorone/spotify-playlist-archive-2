@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABP7u4FLSg9AOf1+efHOBkT",
+  "snapshot_id": "as10gAAAAADWnAm08LsMXQVOEcmIWDFm",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trimski",
-        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 182673,
-      "name": "Trimski",
-      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -419,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP MY SHIT",
-        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
+        "name": "Trimski",
+        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
       },
       "artists": [
         {
@@ -428,13 +408,33 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Frost",
-          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 113333,
-      "name": "POP MY SHIT",
-      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
+      "duration_ms": 182673,
+      "name": "Trimski",
+      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "YOU (FT DON TOLIVER)",
+      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+        "name": "POP MY SHIT",
+        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
       },
       "artists": [
         {
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
         }
       ],
-      "duration_ms": 183973,
-      "name": "YOU (FT DON TOLIVER)",
-      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
+      "duration_ms": 113333,
+      "name": "POP MY SHIT",
+      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/5Mdjiv8JfVcPgeWhXqNXIA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -639,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/5Mdjiv8JfVcPgeWhXqNXIA"
+      "duration_ms": 228106,
+      "name": "Held Me Down",
+      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 155086,
       "name": "Vetement Socks",
       "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Held Me Down",
-      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 204363,
       "name": "Habits",
       "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 114560,
-      "name": "BURBS",
-      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 114560,
+      "name": "BURBS",
+      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fell In Love (2016)",
-        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Fell In Love (2016)",
-      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 164937,
       "name": "Interstellar (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fell In Love (2016)",
+        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Fell In Love (2016)",
+      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkFPeRRyee2uYgmffQ8YPjAviqA",
+  "snapshot_id": "AAAAAFNy61frfDGWSgZnaasdwz/HFnhp",
   "tracks": [
     {
       "added_at": "2024-08-29 22:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
-      },
-      "artists": [
-        {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Till Krig",
-      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 132800,
       "name": "Tidens tempo",
       "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Till Krig",
+      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
-      },
-      "artists": [
-        {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Som En Doft Av Napalm",
-      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "MNW Digital Archive 1979",
         "url": "https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 123333,
       "name": "Abab",
       "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Som En Doft Av Napalm",
+      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Parasit",
-        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 152720,
-      "name": "Parasit",
-      "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 95000,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 152720,
+      "name": "Parasit",
+      "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Punkfestival",
-        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
-      },
-      "artists": [
-        {
-          "name": "Attentat",
-          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
-        }
-      ],
-      "duration_ms": 142184,
-      "name": "Punkfestival",
-      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Att Ni Inte Ser...",
         "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 171572,
       "name": "Modets Klapptr\u00e4n",
       "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Punkfestival",
+        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
+      },
+      "artists": [
+        {
+          "name": "Attentat",
+          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "Punkfestival",
+      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Upp till dans",
-        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
-      },
-      "artists": [
-        {
-          "name": "Vidro",
-          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "Upp till dans",
-      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
         "url": "https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 118170,
       "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
       "url": "https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Upp till dans",
+        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
+      },
+      "artists": [
+        {
+          "name": "Vidro",
+          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "Upp till dans",
+      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen till avr\u00e4ttningen",
-        "url": "https://open.spotify.com/album/5hHmpAQgoVUHeSpymWnWGK"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6del",
-          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
-        }
-      ],
-      "duration_ms": 108621,
-      "name": "Grisarna och snuten",
-      "url": "https://open.spotify.com/track/0mYtygCVUIGTRuPT7F3NEJ"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Kollektivt sj\u00e4lvmord",
         "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 103973,
       "name": "Kollektivt sj\u00e4lvmord",
       "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "V\u00e4lkommen till avr\u00e4ttningen",
+        "url": "https://open.spotify.com/album/5hHmpAQgoVUHeSpymWnWGK"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6del",
+          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
+        }
+      ],
+      "duration_ms": 108621,
+      "name": "Grisarna och snuten",
+      "url": "https://open.spotify.com/track/0mYtygCVUIGTRuPT7F3NEJ"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Bilan Faller",
-        "url": "https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6del",
-          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
-        }
-      ],
-      "duration_ms": 133277,
-      "name": "Bilan Faller",
-      "url": "https://open.spotify.com/track/21380NKEU260jmXgzIuB2u"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "B\u00e4st f\u00f6re 16-10-2014",
         "url": "https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 68893,
       "name": "Lamotten is n\u00e5dd",
       "url": "https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Bilan Faller",
+        "url": "https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6del",
+          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
+        }
+      ],
+      "duration_ms": 133277,
+      "name": "Bilan Faller",
+      "url": "https://open.spotify.com/track/21380NKEU260jmXgzIuB2u"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sisyfos",
-        "url": "https://open.spotify.com/album/0lrUafceSqRFy8BLlsl8zk"
+        "name": "Vrid upp",
+        "url": "https://open.spotify.com/album/6Qkie0AOAvHmyS6gP7a3Ly"
       },
       "artists": [
         {
-          "name": "Fruktansv\u00e4rld",
-          "url": "https://open.spotify.com/artist/3PMulePujdYBmQK4oVYxDO"
+          "name": "Dom O\u00f6nskade",
+          "url": "https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Tunneln",
-      "url": "https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD"
+      "duration_ms": 156306,
+      "name": "Vrid upp",
+      "url": "https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1619,34 +1619,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vrid upp",
-        "url": "https://open.spotify.com/album/6Qkie0AOAvHmyS6gP7a3Ly"
+        "name": "Sisyfos",
+        "url": "https://open.spotify.com/album/0lrUafceSqRFy8BLlsl8zk"
       },
       "artists": [
         {
-          "name": "Dom O\u00f6nskade",
-          "url": "https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL"
+          "name": "Fruktansv\u00e4rld",
+          "url": "https://open.spotify.com/artist/3PMulePujdYBmQK4oVYxDO"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Vrid upp",
-      "url": "https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Mineralhj\u00e4rtat (Live)",
-        "url": "https://open.spotify.com/album/6EZL5NzFLMvFEfcLO8xhWP"
-      },
-      "artists": [
-        {
-          "name": "Kkpa",
-          "url": "https://open.spotify.com/artist/3QN8UBnzKTTXeeuKtLhwot"
-        }
-      ],
-      "duration_ms": 182397,
-      "name": "Mineralhj\u00e4rtat - Live",
-      "url": "https://open.spotify.com/track/5KM3HzlTNxiJct8O7RVGvf"
+      "duration_ms": 182706,
+      "name": "Tunneln",
+      "url": "https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 100000,
       "name": "Kroatiska Antirassedagen",
       "url": "https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Mineralhj\u00e4rtat (Live)",
+        "url": "https://open.spotify.com/album/6EZL5NzFLMvFEfcLO8xhWP"
+      },
+      "artists": [
+        {
+          "name": "Kkpa",
+          "url": "https://open.spotify.com/artist/3QN8UBnzKTTXeeuKtLhwot"
+        }
+      ],
+      "duration_ms": 182397,
+      "name": "Mineralhj\u00e4rtat - Live",
+      "url": "https://open.spotify.com/track/5KM3HzlTNxiJct8O7RVGvf"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2167,8 +2167,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Becksvart",
-        "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
+        "name": "V\u00e4lja v\u00e4g/Dubbelt s\u00e5 mycket h\u00e4lften s\u00e5 bra",
+        "url": "https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH"
       },
       "artists": [
         {
@@ -2176,9 +2176,9 @@
           "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
         }
       ],
-      "duration_ms": 162880,
-      "name": "B\u00f6rja om",
-      "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
+      "duration_ms": 159693,
+      "name": "V\u00e4lja v\u00e4g",
+      "url": "https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2247,8 +2247,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "V\u00e4lja v\u00e4g/Dubbelt s\u00e5 mycket h\u00e4lften s\u00e5 bra",
-        "url": "https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH"
+        "name": "Becksvart",
+        "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
       },
       "artists": [
         {
@@ -2256,9 +2256,9 @@
           "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
         }
       ],
-      "duration_ms": 159693,
-      "name": "V\u00e4lja v\u00e4g",
-      "url": "https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO"
+      "duration_ms": 162880,
+      "name": "B\u00f6rja om",
+      "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
     },
     {
       "added_at": "2024-08-29 22:00:00",

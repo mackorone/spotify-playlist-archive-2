@@ -2,9 +2,9 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest tracks trending in Pakistan 🔥 Cover: Murtaza Qizilbash
+> The hottest tracks trending in Pakistan 🔥 Cover: Zain Zohaib
 
-691 songs - 1 day 17 hr 31 min
+692 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Chaleya \(From "Jawan"\)](https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Chaleya \(From "Jawan"\)](https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik) | 3:20 | 2023-08-28 | 2023-10-04 |
 | [Chalo Door Kahin](https://open.spotify.com/track/00DxTUDK5maAckhUSYBaBn) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/1hxqjy9dunSnRuljeoe18h) | 2:38 | 2026-04-09 |  |
 | [Chalo Door Kahin](https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0) | 2:38 | 2025-10-22 | 2026-04-18 |
+| [Chalre Chalre Waal](https://open.spotify.com/track/6qi3Xw1w53yYFKrMZlGklF) | [Shanzy Sial](https://open.spotify.com/artist/0oseGSIScUaIPxCmVRPt8f) | [Chalre Chalre Waal](https://open.spotify.com/album/2HK5er9r4HPlsV8FAgdOTZ) | 2:19 | 2026-10-14 |  |
 | [CHAN MAHIYA \- ACOUSTIC](https://open.spotify.com/track/5Y0uBJtDX6lJNUm6YybDnX) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [CHAN MAHIYA \(ACOUSTIC\)](https://open.spotify.com/album/5vmXNcR4ciAXN6a1ucZZT5) | 3:37 | 2025-10-08 | 2025-12-20 |
 | [Char Yaar](https://open.spotify.com/track/2Q6baV1iHMEOXq3a12bpoj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:07 | 2026-08-07 | 2026-10-06 |
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-10-03 | 2023-12-12 |
@@ -552,7 +553,7 @@
 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-12-12 | 2025-02-11 |
 | [Sila](https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 4:08 | 2026-04-01 | 2026-10-06 |
 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 | 2025-09-17 | 2026-06-10 |
-| [Sitaare \(From "Ikkis"\)](https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL) | 4:02 | 2026-03-27 |  |
+| [Sitaare \(From "Ikkis"\)](https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL) | 4:02 | 2026-03-27 | 2026-10-15 |
 | [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 | 2022-07-25 | 2023-01-20 |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-01-16 | 2024-01-09 |
 | [Sleepless](https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Sleepless](https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL) | 2:36 | 2023-07-31 | 2023-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,061 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,19 +31,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 21 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 |
 | 22 | [Bez końca](https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Bez końca](https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e) | 2:35 |
 | 23 | [Czy będziemy się pamiętać?](https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Czy będziemy się pamiętać?](https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR) | 2:50 |
-| 24 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
-| 25 | [Primabalerina](https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Primabalerina](https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d) | 3:07 |
+| 24 | [Primabalerina](https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Primabalerina](https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d) | 3:07 |
+| 25 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 26 | [Music Sounds](https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Music Sounds](https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc) | 2:39 |
 | 27 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 28 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
-| 29 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
-| 30 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 29 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 30 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 31 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
 | 32 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
 | 33 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
 | 34 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
-| 35 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
-| 36 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
+| 35 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
+| 36 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 37 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 38 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
 | 39 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
 | 60 | [Zapomnij mnie](https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Zapomnij mnie](https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK) | 2:49 |
 
-Snapshot ID: `AAAAALFJgo6RulX7mmFqlqIhKYV5o8N4`
+Snapshot ID: `AAAAAFmFokxyD85MGRHRo2D4mIJbLRNz`

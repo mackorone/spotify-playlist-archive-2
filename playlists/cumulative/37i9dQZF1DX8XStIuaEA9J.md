@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ちゃんみな
 
-2,087 songs - 4 day 23 hr 35 min
+2,087 songs - 4 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1086,7 +1086,6 @@
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-11-12 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-05-13 |
-| [Track 5](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 0:00 | 2026-10-14 |  |
 | [TRANSLATE](https://open.spotify.com/track/1uol8s3UHFIz2mMpMTgBQS) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [EN\-GÏNE](https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf) | 2:54 | 2026-09-15 | 2026-10-07 |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
@@ -1429,6 +1428,7 @@
 | [コトノハ \- Kotonoha](https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [コトノハ \- Kotonoha](https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ) | 3:59 | 2026-01-14 | 2026-03-18 |
 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-11 | 2024-07-10 |
 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 | 2024-01-04 | 2024-01-24 |
+| [コールドスリープ](https://open.spotify.com/track/5wKxzRmtLz850Yt1Wh6SDl) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [SPACE RENDEZVOUS](https://open.spotify.com/album/0IA1mhT9hcEYVW4NkOWSxW) | 5:58 | 2026-10-14 |  |
 | [ゴーストアベニュー](https://open.spotify.com/track/4JlytQeCEWu0W3mQcEA9Ta) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ゴーストアベニュー](https://open.spotify.com/album/0HFEWiq3a3gC85bpXMvsjc) | 2:53 | 2025-07-15 | 2025-09-10 |
 | [ゴーストタウン](https://open.spotify.com/track/5kBZipGhR4RxvVNLUQhMti) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [ゴーストタウン](https://open.spotify.com/album/1SOx7oafeIKws2x7ixtDqj) | 3:00 | 2024-10-15 | 2024-11-13 |
 | [サイレン](https://open.spotify.com/track/4Vvgw9rT0fC7LyEHMGXMDg) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [逆光](https://open.spotify.com/album/07KYrX2WTNQ8cTNnfu3T7b) | 4:01 | 2025-02-04 | 2025-04-16 |

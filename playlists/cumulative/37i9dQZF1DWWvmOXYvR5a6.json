@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: northfacegawd) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: kaogaii(\uac00\uc624\uac00\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 182026,
       "name": "1,2,3,4,5",
       "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
@@ -1936,6 +1936,28 @@
       "duration_ms": 202083,
       "name": "Break Up On Drill (feat. h3hyeon, Claire Hau)",
       "url": "https://open.spotify.com/track/0cbXZVF3qfkX99tNp7K4oq"
+    },
+    {
+      "album": {
+        "name": "Harmless Banger Kit",
+        "url": "https://open.spotify.com/album/37Mdut0GkpHf4G4BoJDIAB"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "BREATH (Feat. Rad Museum)",
+      "url": "https://open.spotify.com/track/1B2L6W0NYYC9q6Um2lOoTH"
     },
     {
       "album": {
@@ -11640,7 +11662,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 171961,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk"
@@ -14910,6 +14932,24 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "album": {
+        "name": "NOMO",
+        "url": "https://open.spotify.com/album/5wK3j0FzYQ03PKH7yqHK1O"
+      },
+      "artists": [
+        {
+          "name": "kaogaii",
+          "url": "https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162768,
+      "name": "Sunny Spot",
+      "url": "https://open.spotify.com/track/754yslOgtbhvKZ32yJZWZs"
     },
     {
       "album": {

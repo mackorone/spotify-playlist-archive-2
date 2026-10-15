@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-152 songs - 8 hr 10 min
+153 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [It's Beginning to Look Like Christmas](https://open.spotify.com/track/4jwZZX8J8eN3w0FOK4FCI3) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Christmas Eve With Johnny Mathis](https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP) | 2:14 | 2023-12-08 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 | 2023-12-08 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 | 2023-12-08 |  |
+| [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2026-10-14 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/38V4hqjITF3y7iOrOewfCC) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Jingle Bell Rock](https://open.spotify.com/album/4sGclLDTwbJmRiiGy0BFWX) | 2:03 | 2025-12-05 |  |
 | [Jingle Bell Rock \- Cover of Bobby Helms](https://open.spotify.com/track/77GcYr9JP6uvJM0kPa6Nzk) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:32 | 2023-12-08 |  |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/3y8Z2sOJrBt6yKEfsZG1NY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 2:02 | 2023-12-08 |  |

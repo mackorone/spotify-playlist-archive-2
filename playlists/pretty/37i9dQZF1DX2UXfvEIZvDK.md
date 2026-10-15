@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,782 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,858 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 10 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
 | 11 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
 | 12 | [The Kill \- Acoustic](https://open.spotify.com/track/3bedSjXvV2wByMkSf8cTx4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie \(20 Year Anniversary\)](https://open.spotify.com/album/7agt72GwSxZYPmx4Uu8S3U) | 3:26 |
-| 13 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 14 | [In the Air Tonight \- 2015 Remaster](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
+| 13 | [In the Air Tonight \- 2015 Remaster](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
+| 14 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 15 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 16 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:39 |
 | 17 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 58 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 59 | [Planet Caravan \- 2009 Remaster](https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:29 |
 | 60 | [Outside](https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:53 |
-| 61 | [Big Me](https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 2:12 |
-| 62 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 |
+| 61 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 |
+| 62 | [Big Me](https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 2:12 |
 | 63 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
 | 64 | [Bandito](https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:30 |
 | 65 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 79 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:28 |
 | 80 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 
-Snapshot ID: `AAAAAC7ZzchaPBfb1g1KlgkxWTR5faaz`
+Snapshot ID: `AAAAADBuxtRUhaZZ+KjvEDJALUM9Kqu7`

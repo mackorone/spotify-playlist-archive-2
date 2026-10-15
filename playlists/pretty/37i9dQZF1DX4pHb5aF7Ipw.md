@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Real Boss,  Arjan Dhillon, JASKARAN and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,173 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,189 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Try V Na Kari](https://open.spotify.com/track/6oJsziipgm8yWj1HwgOR80) | [LUV](https://open.spotify.com/artist/1ncQdLuWoAOY1KFwVfG63T) | [Golden Eagle](https://open.spotify.com/album/3yOysoDT2jbdBXquV9erIl) | 2:24 |
 | 75 | [Next Gen](https://open.spotify.com/track/1RQKbbUMD0PmfbMTmsHXOz) | [Rehamm](https://open.spotify.com/artist/0sdoOPUMtqoVPNdKAyZCjk), [Gavin Beats](https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS) | [Next Gen](https://open.spotify.com/album/4O1g9BA6hgX3IDD70utWEf) | 2:14 |
 
-Snapshot ID: `AAAAAAfhMcSzEn56utcWhUrQQKEPB15P`
+Snapshot ID: `AAAAAC7lvt66SJe0VBHSuvHwmnEv5lZN`

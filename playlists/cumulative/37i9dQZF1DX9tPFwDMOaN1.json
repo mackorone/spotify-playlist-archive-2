@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: YENA, NOWIMYOUNG)",
+  "description": "The new & hottest K-Pop is here! (Cover: MEOVV)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -2071,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "BOYFRIEND",
+        "url": "https://open.spotify.com/album/20HcvlMoE3Y75MEkG7kATP"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "BOYFRIEND",
+      "url": "https://open.spotify.com/track/0Yyh9XpPntsMhbJcC80VfH"
+    },
+    {
+      "album": {
         "name": "Boys Like You",
         "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 171958,
       "name": "CHAT",
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 177000,
       "name": "Do your dance",
       "url": "https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS"
@@ -6153,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187833,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ"
+    },
+    {
+      "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
       },
@@ -7492,7 +7528,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 206586,
       "name": "I LIKE IT",
       "url": "https://open.spotify.com/track/7vKgGaEDN3shr8HBlCbIWg"
@@ -7550,6 +7586,24 @@
       "duration_ms": 181722,
       "name": "I NEED U - Spotify Singles",
       "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
+    },
+    {
+      "album": {
+        "name": "I SPY - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "I SPY",
+      "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
     },
     {
       "album": {
@@ -8694,7 +8748,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 163000,
       "name": "Lemon Tang",
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
@@ -11045,6 +11099,24 @@
     },
     {
       "album": {
+        "name": "IMPULSE",
+        "url": "https://open.spotify.com/album/5KBVJq6jXRyLg9d0OJuy8f"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195540,
+      "name": "Obsessed with Youth",
+      "url": "https://open.spotify.com/track/4H0NRY1CSAKgV7przexSxY"
+    },
+    {
+      "album": {
         "name": "Ode to Love - The 1st Album",
         "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
       },
@@ -12294,7 +12366,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 135559,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
@@ -14081,6 +14153,24 @@
     },
     {
       "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
+    },
+    {
+      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr"
       },
@@ -14930,7 +15020,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
@@ -15972,6 +16062,24 @@
       "duration_ms": 184000,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
+    },
+    {
+      "album": {
+        "name": "DEAD:ALIVE",
+        "url": "https://open.spotify.com/album/0gWgNvFV0YTgvjnQtZ6luq"
+      },
+      "artists": [
+        {
+          "name": "SUNGHANBIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/4THREzrCR5aHcBvRWlXRpw"
     },
     {
       "album": {

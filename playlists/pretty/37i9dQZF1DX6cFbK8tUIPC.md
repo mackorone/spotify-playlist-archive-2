@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,867 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,028 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 21 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
 | 22 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
 | 23 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 |
-| 24 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
-| 25 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
+| 24 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
+| 25 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
 | 26 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 |
 | 27 | [I Hate It Here](https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:03 |
 | 28 | [Second Chances](https://open.spotify.com/track/6Wu19AEKVNs5bJFuhZb4EZ) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:49 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 58 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 | 59 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
 | 60 | [God's A Different Sword](https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 3:19 |
-| 61 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
+| 61 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 62 | [Billy Came Back](https://open.spotify.com/track/0lN4BWaZqamALbP1EX3pDi) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Singer in My Band](https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16) | 3:09 |
 | 63 | [Above the Clouds of Pompeii](https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0) | 4:39 |
-| 64 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
-| 65 | [Call It Easy](https://open.spotify.com/track/57s098FVVLAFdDNINJRogc) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 7:00 |
-| 66 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
+| 64 | [Call It Easy](https://open.spotify.com/track/57s098FVVLAFdDNINJRogc) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 7:00 |
+| 65 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
+| 66 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 67 | [Lord, Let That Tesla Crash](https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 5:06 |
-| 68 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
-| 69 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 68 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 69 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
 | 70 | [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 71 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 72 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
-| 73 | [The Commons](https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d) | 5:24 |
-| 74 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
+| 73 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
+| 74 | [The Commons](https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d) | 5:24 |
 | 75 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 76 | [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 |
 | 77 | [Giordano’s Dream, Pt\. I](https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Tarifa](https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 99 | [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym) | 2:55 |
 | 100 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 
-Snapshot ID: `AAAAAJash2HoEL1r3EM0/9ud4KnB5617`
+Snapshot ID: `AAAAAGWgyfeET4PyOqdut0FLkALyfSsn`

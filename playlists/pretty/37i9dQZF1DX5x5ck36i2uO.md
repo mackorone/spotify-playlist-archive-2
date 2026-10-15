@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,119 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 23 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
 | 24 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 | 25 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
-| 26 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
-| 27 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RYUHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
+| 26 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RYUHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
+| 27 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
 | 28 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 29 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
 | 30 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 |
 | 50 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 
-Snapshot ID: `AAAAAG1XzkPsCEvHquNJqlVT9ThBnqZM`
+Snapshot ID: `AAAAABCqHRIb4bnxbSzFoUBSl4KOy7K0`

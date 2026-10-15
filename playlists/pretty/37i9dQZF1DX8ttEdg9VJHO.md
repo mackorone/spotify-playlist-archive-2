@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,503 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,506 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 7 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 8 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 | 9 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
-| 10 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 11 | [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 |
+| 10 | [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 |
+| 11 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 12 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 13 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 |
 | 14 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 54 | [Good Old Days](https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Good Old Days](https://open.spotify.com/album/0oHB2HAnWAToJvn7c4qZIt) | 2:59 |
 | 55 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 56 | [skinny bitch](https://open.spotify.com/track/3MryyXwUc25WUTZ15WmQ80) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 2:58 |
-| 57 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
+| 57 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
 | 58 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
-| 59 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
+| 59 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
 | 60 | [UGLY!!!](https://open.spotify.com/track/0C5W381F8YYStIoU2HiuwG) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [UGLY!!!](https://open.spotify.com/album/5k5Jgs55KJf2kStg5O0KdH) | 3:03 |
 | 61 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 62 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 64 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 65 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 66 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 67 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 |
-| 68 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
+| 67 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
+| 68 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 |
 | 69 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 70 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 
-Snapshot ID: `AAAAACT+SG8UkVr6zn5dZeCQhlUJ9yvc`
+Snapshot ID: `AAAAAAIIgnXa5R4uUNX+VUTDAJC4kZZx`

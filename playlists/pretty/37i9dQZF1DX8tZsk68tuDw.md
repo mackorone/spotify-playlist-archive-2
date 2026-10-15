@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with Linska & Chris Avantgarde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,443 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,247 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Kick Back](https://open.spotify.com/track/3PLXh3XJRYXmKRsbmONqDd) | [MARTA](https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS), [Eve Lauren](https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g) | [Kick Back](https://open.spotify.com/album/1RbjW60PLyLqNaslqBPMvR) | 3:18 |
 | 75 | [La Vida Loca](https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [La Vida Loca](https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj) | 3:02 |
 
-Snapshot ID: `AAAAAJtZ83LxhlNeJVYug41XVZMw+aau`
+Snapshot ID: `AAAAAPd7mk9Wtkaa3TuF5wTeSb6mI9Ag`

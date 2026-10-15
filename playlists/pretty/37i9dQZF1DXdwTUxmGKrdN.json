@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 463022,
+  "num_followers": 463039,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPZZSEBz0aIt2+H9ShtYUM+piU4q",
+  "snapshot_id": "AAAAAKI63ORIKQf8sE2PshhRTMG8GCCc",
   "tracks": [
     {
       "added_at": "2026-10-02 07:49:51",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "A Simple Man",
-        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Things Are Looking Up",
-      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Rite of Passage",
         "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 226666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "When We Dance",
-      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
       },
       "artists": [
         {
-          "name": "Les Sabler",
-          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 241480,
-      "name": "Three Dee",
-      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -731,34 +731,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Les Sabler",
+          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
         }
       ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+      "duration_ms": 241480,
+      "name": "Three Dee",
+      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -775,6 +759,22 @@
       "duration_ms": 264280,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Limit's the Sky",
-        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223669,
-      "name": "Chill or Be Chilled",
-      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
       },
@@ -907,6 +891,38 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "The Limit's the Sky",
+        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223669,
+      "name": "Chill or Be Chilled",
+      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "On the Up and Up",
-        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
-      },
-      "artists": [
-        {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
-        }
-      ],
-      "duration_ms": 248412,
-      "name": "On the Up and Up",
-      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Eye Contact",
-        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
-      },
-      "artists": [
-        {
-          "name": "Jay Beckenstein",
-          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Eye Contact",
-      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Out Of The Shadows",
         "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 281413,
       "name": "In Key",
       "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
+      },
+      "artists": [
+        {
+          "name": "Jay Beckenstein",
+          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Coalition",
-          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Mr. Kool",
         "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Coalition",
+          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
+        }
+      ],
+      "duration_ms": 279186,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
-      },
-      "artists": [
-        {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Ready to Play",
         "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 281706,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Coevolve",
-        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
-      },
-      "artists": [
-        {
-          "name": "Kayla Waters",
-          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
-        }
-      ],
-      "duration_ms": 293595,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "All We Have Are Moments",
         "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 213536,
       "name": "What Key?",
       "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Coevolve",
+        "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "duration_ms": 293595,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "Sky Watcher",
+      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Take This Ride",
         "url": "https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 200693,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 242073,
-      "name": "Sky Watcher",
-      "url": "https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf"
     },
     {
       "added_at": "2026-10-02 07:49:51",

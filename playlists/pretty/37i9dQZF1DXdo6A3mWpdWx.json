@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1490841,
+  "num_followers": 1491268,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6eq+NVXCAE/ymUI7R5H6wGtf4W",
+  "snapshot_id": "AAAAAO0RXn6hfl2GUmo/WwBaGwR/1zCG",
   "tracks": [
     {
       "added_at": "2024-07-12 16:20:49",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Happy Nation",
         "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Mack Daddy",
         "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 262826,
       "name": "Baby Got Back",
       "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Dreams (Will Come Alive)",
-      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 224000,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Dreams (Will Come Alive)",
+      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "We've Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "We've Got It Goin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -1779,6 +1779,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1811,22 +1827,6 @@
       "duration_ms": 269973,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Move Until We Fly",
         "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 240773,
       "name": "I Promised Myself",
       "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Roses Are Red - Original Version",
-      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "S Club",
         "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 214400,
       "name": "Bring It All Back",
       "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Come On Over (International Version)",
-        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -2223,18 +2207,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
       "artists": [
         {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 337093,
-      "name": "Get Up (Before The Night Is Over)",
-      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2251,6 +2235,22 @@
       "duration_ms": 293106,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "duration_ms": 337093,
+      "name": "Get Up (Before The Night Is Over)",
+      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Summer Is Magic - Ep",
-        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
-      },
-      "artists": [
-        {
-          "name": "Playahitty",
-          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "The Summer Is Magic - Radio Mix",
-      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Seven Days and One Week",
         "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Summer Is Magic - Ep",
+        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
+      },
+      "artists": [
+        {
+          "name": "Playahitty",
+          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "The Summer Is Magic - Radio Mix",
+      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
     },
     {
       "added_at": "2024-07-12 16:20:49",

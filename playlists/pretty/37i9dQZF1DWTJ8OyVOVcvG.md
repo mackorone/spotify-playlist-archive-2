@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de toamnă
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,596 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,625 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 29 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 30 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 31 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
-| 32 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
-| 33 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
+| 32 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
+| 33 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 | 34 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 35 | [Hit the Wall](https://open.spotify.com/track/61Oyg0lrAOMjBpEStqfOZ1) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 3:14 |
 | 36 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 59 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 60 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
 
-Snapshot ID: `AAAAAA68IwlrVJ+N4S66kzqDS1x9GrRx`
+Snapshot ID: `AAAAAMml7F2+Ht1yA6DAcbWHhTGIBWNw`

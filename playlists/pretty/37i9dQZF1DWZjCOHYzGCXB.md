@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > mini skirt warrirors unite 🎀<br/>cover: flowerovlove & willow
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,884 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,848 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 68 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
 | 69 | [Break the Ice](https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:16 |
 | 70 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |
-| 71 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 72 | [MR\. NONCHALANT](https://open.spotify.com/track/12oVYxJ2cLtfQldiPvp4F6) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:17 |
+| 71 | [MR\. NONCHALANT](https://open.spotify.com/track/12oVYxJ2cLtfQldiPvp4F6) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:17 |
+| 72 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 73 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 74 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 75 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 79 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 |
 | 80 | [Trinkets](https://open.spotify.com/track/2tXATCm2ukxtkaWvKAhE91) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:56 |
 
-Snapshot ID: `AAAAANrcIG9ymuBX+tjtVE79KPb4RYTl`
+Snapshot ID: `AAAAAPyJxW8U7CFb3hsRAulj83Wh3LZV`

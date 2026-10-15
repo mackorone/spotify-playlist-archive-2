@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81659,
+  "num_followers": 81668,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbwYTFisFC+nrUwf0+mQxl1XlZi",
+  "snapshot_id": "AAAAAA0eI+IAJ5ccvgBgLBx351mPzVHz",
   "tracks": [
     {
       "added_at": "2026-03-12 23:00:43",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Heimlandsong",
-        "url": "https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m"
+        "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
       },
       "artists": [
         {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 286675,
-      "name": "Heimlandsong",
-      "url": "https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ"
+      "duration_ms": 209420,
+      "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
     }
   ],
   "unique_name": "Norske viser",

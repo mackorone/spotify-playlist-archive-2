@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 65237,
+  "num_followers": 65244,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADsXUJLxFc115/ZWm8Adp4X",
+  "snapshot_id": "as10gAAAAACER3feUurNDVf4L8wQLWVS",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Cerca De Ti",
-        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 296013,
-      "name": "No Me Vuelvo a Ilusionar",
-      "url": "https://open.spotify.com/track/4hgX90wBttJ4VZeSXEWJ6P"
+      "duration_ms": 267506,
+      "name": "Ba\u00f1arte en Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6oIuJKZdgjmkqVLtdkgAss"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "Ba\u00f1arte en Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6oIuJKZdgjmkqVLtdkgAss"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Cerca De Ti",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 297920,
-      "name": "Y No Regresas",
-      "url": "https://open.spotify.com/track/2jnRsLF9SldwnS129Utsqi"
+      "duration_ms": 296013,
+      "name": "No Me Vuelvo a Ilusionar",
+      "url": "https://open.spotify.com/track/4hgX90wBttJ4VZeSXEWJ6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 297372,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 297372,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Cerca De Ti",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 281693,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC"
+      "duration_ms": 297920,
+      "name": "Y No Regresas",
+      "url": "https://open.spotify.com/track/2jnRsLF9SldwnS129Utsqi"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 280413,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH"
+      "duration_ms": 281693,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC"
     },
     {
       "added_at": null,

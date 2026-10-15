@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -2816,6 +2816,32 @@
       "duration_ms": 186304,
       "name": "IDK",
       "url": "https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04"
+    },
+    {
+      "album": {
+        "name": "idm",
+        "url": "https://open.spotify.com/album/5bbtt3Fxv0lzNr7zG516Zx"
+      },
+      "artists": [
+        {
+          "name": "Corbwtf",
+          "url": "https://open.spotify.com/artist/2aJYZdIWiiM8ACcWi08hRp"
+        },
+        {
+          "name": "ayerp",
+          "url": "https://open.spotify.com/artist/2SZYtMPDP304h1y7fMlAkC"
+        },
+        {
+          "name": "kantstressk",
+          "url": "https://open.spotify.com/artist/6Ls6tuzIJ7325qcMcPRmxU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142718,
+      "name": "idm",
+      "url": "https://open.spotify.com/track/0idGfkfDjVtLwRv4mWDIgW"
     },
     {
       "album": {
@@ -3454,7 +3480,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 182650,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/0nxOutkvYuKvhviyIQ1QMx"
@@ -6776,7 +6802,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

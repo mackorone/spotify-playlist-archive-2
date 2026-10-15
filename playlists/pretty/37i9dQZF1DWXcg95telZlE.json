@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 542551,
+  "num_followers": 542623,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHG202XWF9auuTiJgsZxe5qZ7cpe",
+  "snapshot_id": "AAAAAKRJyU/6kiYggzNuOhYbBV3tvnrm",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 179640,
-      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
-      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+      "duration_ms": 179640,
+      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
+      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Magic Of Malcolm Vaughan",
         "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 172133,
       "name": "St Therese of the Roses",
       "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh"
     },
     {
       "added_at": "2022-05-30 12:59:00",

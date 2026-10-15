@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,950 likes - 50 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,953 likes - 50 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 37 | [Waves of Light](https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:50 |
 | 38 | [Tonglen](https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 7:38 |
 | 39 | [Kyoto Garden](https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 5:49 |
-| 40 | [Nymphaea](https://open.spotify.com/track/7sJjAtBqMA6yIdmJfqd1yx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [What The Elephant Told](https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n) | 4:33 |
-| 41 | [Sea and Silence](https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sea and Silence](https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH) | 13:27 |
-| 42 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 |
-| 43 | [Moon\-Silvered Clouds](https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 6:46 |
+| 40 | [Moon\-Silvered Clouds](https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 6:46 |
+| 41 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 |
+| 42 | [Sea and Silence](https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sea and Silence](https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH) | 13:27 |
+| 43 | [Nymphaea](https://open.spotify.com/track/7sJjAtBqMA6yIdmJfqd1yx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [What The Elephant Told](https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n) | 4:33 |
 | 44 | [Mountain](https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 3:37 |
 | 45 | [Cinque](https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:56 |
 | 46 | [Dawn Mist \- The Temple](https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 7:30 |
-| 47 | [Kumbukumbu](https://open.spotify.com/track/5rFIj2M4D0OX953gDMCLNp) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [What The Elephant Told](https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n) | 4:37 |
-| 48 | [Celestial Meadows](https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:05 |
-| 49 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 |
-| 50 | [Healing Circle](https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 12:07 |
+| 47 | [Celestial Meadows](https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:05 |
+| 48 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 |
+| 49 | [Healing Circle](https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 12:07 |
+| 50 | [Pollen Path](https://open.spotify.com/track/27adqxzlyV0GoX805frftH) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [What The Elephant Told](https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n) | 7:02 |
 
-Snapshot ID: `asrRgAAAAAA6yuUcG6auNB9pwiYcPaOJ`
+Snapshot ID: `as10gAAAAADnHEL8lwN6I5yHUlmTANXM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,292 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,327 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 19 | [World Hold On \(Children of the Sky\) \- Radio Edit](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(Children of the Sky\) \[Radio Edit\]](https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG) | 3:19 |
 | 20 | [Marabout \- Bob Sinclar Remix](https://open.spotify.com/track/35Fc4rMxYzl0hAyHU4Bnfq) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [I Love Serge](https://open.spotify.com/album/4i0cpFTmtEpJnoC6wR893e) | 5:38 |
 | 21 | [Tropical Soundclash](https://open.spotify.com/track/0oAUQzRSH6nJwAFHXYOoNV) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Tropical Soundclash](https://open.spotify.com/album/4aHOTHJZQ04Dm1oHKuxLvG) | 8:33 |
-| 22 | [Premier Gaou \- Bob Sinclar Radio Edit \- Le Bisou Edit](https://open.spotify.com/track/2IWLXQrMszvlBPzh06JT5I) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Premier Gaou, The Remixes](https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a) | 3:41 |
+| 22 | [Premier Gaou \- Bob Sinclar Radio Edit \- Le Bisou Edit](https://open.spotify.com/track/2IWLXQrMszvlBPzh06JT5I) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Premier Gaou, The Remixes](https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a) | 3:41 |
 | 23 | [Antigua](https://open.spotify.com/track/17j4AjclS5hbnfy8BThMMi) | [Tom & Joy](https://open.spotify.com/artist/2lU3bCw5ymI4QHqkGY2yUv) | [Antigua](https://open.spotify.com/album/5eyD8JkBHbzNgnbQL7GbLq) | 5:06 |
 | 24 | [The Boss \- Single Version](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
 | 25 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 69 | [Don Dadda](https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M) | [Don Dadda](https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6) | 3:22 |
 | 70 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 |
 
-Snapshot ID: `AAAAANfN7OGMHUpjAuF2t5fvtrq9wMW4`
+Snapshot ID: `AAAAAOykPLWBVxnKul2ucNpgDaiuYNIy`

@@ -1,12 +1,12 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32637,
+  "num_followers": 32634,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrgmQxVij6SjQHRoBwXz2DQiMDj",
+  "snapshot_id": "AAAAAMba48mmESylns45jTWeADhIzze0",
   "tracks": [
     {
       "added_at": "2024-07-12 14:53:15",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Double Vision (Expanded)",
-        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 268693,
-      "name": "Hot Blooded",
-      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Double Vision (Expanded)",
+        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 268693,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "The Fine Art Of Surfacing",
-        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
-      },
-      "artists": [
-        {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
-        }
-      ],
-      "duration_ms": 259093,
-      "name": "I Don't Like Mondays",
-      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "War And Peace",
         "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Desolation Angels (2009 Remaster)",
-        "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
+        "name": "The Fine Art Of Surfacing",
+        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "The Boomtown Rats",
+          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
-      "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
+      "duration_ms": 259093,
+      "name": "I Don't Like Mondays",
+      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -827,6 +811,22 @@
       "duration_ms": 267066,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Desolation Angels (2009 Remaster)",
+        "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
+      "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Give Me Love (Give Me Peace On Earth)",
+      "url": "https://open.spotify.com/track/0UkZexeWaFY7geHlCLqjQR"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Back and Fourth",
         "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 194826,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Take Me Bak 'Ome",
-      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
     }
   ],
   "unique_name": "70s Summer Rock",

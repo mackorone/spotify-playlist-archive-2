@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,128 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,163 likes - 42 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 10 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
 | 11 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 12 | [Ripples](https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:07 |
-| 13 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
-| 14 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
-| 15 | [Take A Bite](https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:38 |
-| 16 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
+| 13 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
+| 14 | [Take A Bite](https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:38 |
+| 15 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
+| 16 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
 | 17 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 |
 | 18 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
 | 19 | [California](https://open.spotify.com/track/6GDd1lZ0zp5pB6JleN5Xzx) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:52 |
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 22 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 |
 | 23 | [Coming Home](https://open.spotify.com/track/36FgNo5lmrUUSrDqXJLsrz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:15 |
 | 24 | [Sun Has Set](https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:21 |
-| 25 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
+| 25 | [10:36](https://open.spotify.com/track/0P4OHmZ7t092na79ElH7F5) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:15 |
 | 26 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 27 | [Ever Seen](https://open.spotify.com/track/505HhtdgN8lynQcJQCcIiD) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:23 |
 | 28 | [Estranged](https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:58 |
-| 29 | [10:36](https://open.spotify.com/track/0P4OHmZ7t092na79ElH7F5) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:15 |
+| 29 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 30 | [Soren](https://open.spotify.com/track/6kp9czhrGZrP0hr9Y6opEr) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:01 |
 | 31 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 32 | [In Motion](https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:07 |
@@ -48,8 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 38 | [Everest](https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 2:38 |
 | 39 | [Charlie Brown](https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 2:32 |
 | 40 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
-| 41 | [Sway \- triple j Like A Version](https://open.spotify.com/track/3SrUc3crJdSzNioTHaDQRf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Sway \(triple j Like A Version\)](https://open.spotify.com/album/2lszCSwBW2wm0yIwp0ag6z) | 3:38 |
-| 42 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
-| 43 | [One Time](https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:04 |
+| 41 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
+| 42 | [One Time](https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:04 |
 
-Snapshot ID: `asrRgAAAAABuPIJxtTusaMgHG+Xemu7n`
+Snapshot ID: `as10gAAAAACFNYO5tDup9bBlSG1+b6Xr`

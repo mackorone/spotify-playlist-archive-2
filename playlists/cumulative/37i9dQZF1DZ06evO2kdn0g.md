@@ -4,7 +4,7 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-40 songs - 1 hr 48 min
+41 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Superficial / Love](https://open.spotify.com/track/53fzAHD09qNmkveSms0NhI) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Medea](https://open.spotify.com/album/5L85Wkzg77zKaVHqjhiYSo) | 3:39 | 2026-06-16 |  |
 | [TMW](https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY) | 2:08 | 2026-06-16 | 2026-10-11 |
 | [TMW](https://open.spotify.com/track/0xNMqGEjgTdsjTYiGJdi8v) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/5csnKY1yR98iMm91sEMw9y) | 2:08 | 2026-10-11 |  |
-| [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2026-06-16 |  |
+| [Too Much](https://open.spotify.com/track/0zRtbhAtRmXXrhyfiBOio2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/4dQzXJwYGaVOx2gs4Hz2KI) | 3:50 | 2026-10-15 |  |
+| [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2026-06-16 | 2026-10-15 |
 | [TRACK 02 \(Dangerous Lover\)](https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:58 | 2026-06-16 |  |
 | [When You Need Me](https://open.spotify.com/track/5843TGIiIISilnWgOM84vl) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:38 | 2026-10-10 | 2026-10-11 |
 | [WHO DO U LUV](https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm) | 4:08 | 2026-06-16 |  |

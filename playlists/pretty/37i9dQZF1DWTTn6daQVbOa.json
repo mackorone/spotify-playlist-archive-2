@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1184655,
+  "num_followers": 1184818,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANh+v/rExxy+cwvE7wHfj9C669NX",
+  "snapshot_id": "AAAAAKJKQtHIhXYhVZwOZhixyhJlMoab",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 219109,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 219109,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Spirits Having Flown",
+        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Too Much Heaven",
+      "url": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Spirits Having Flown",
-        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Too Much Heaven",
-      "url": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 279144,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
+      "duration_ms": 285413,
+      "name": "I Have A Dream",
+      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 285413,
-      "name": "I Have A Dream",
-      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
+      "duration_ms": 165160,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Where There's Smoke... (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Where There's Smoke... (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+      "duration_ms": 345240,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1355,22 +1371,6 @@
       "duration_ms": 208853,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 158533,
       "name": "Snowqueen Of Texas",
       "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
-      "added_at": "2024-12-27 17:35:00",
-      "album": {
-        "name": "I Am Woman",
-        "url": "https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "I Am Woman",
-      "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
-    },
-    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "Never, Never, Never",
@@ -2215,6 +2199,22 @@
       "duration_ms": 218600,
       "name": "Never, Never, Never (Grande, Grande, Grande)",
       "url": "https://open.spotify.com/track/4C4vwiOFwWFD4GW7oL2uOp"
+    },
+    {
+      "added_at": "2024-12-27 17:35:00",
+      "album": {
+        "name": "I Am Woman",
+        "url": "https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "I Am Woman",
+      "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I'm In You",
-        "url": "https://open.spotify.com/album/1yn9J074uklyngo5SGS49U"
+        "name": "Danny's Song",
+        "url": "https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs"
       },
       "artists": [
         {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 250000,
-      "name": "I'm In You",
-      "url": "https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac"
+      "duration_ms": 188293,
+      "name": "Danny's Song",
+      "url": "https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T"
     }
   ],
   "unique_name": "Soft 70s",

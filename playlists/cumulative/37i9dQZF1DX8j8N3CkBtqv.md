@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring W.i.S.H., Aanchal Tyagi, KhoslaRaghu and other exciting artists.
 
-1,629 songs - 3 day 17 hr 47 min
+1,630 songs - 3 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [Sandesa](https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Sandesa](https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa) | 3:43 | 2023-08-04 | 2023-09-09 |
 | [Sandook](https://open.spotify.com/track/6p9MlK7EEj9D5eiwrXhld4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Sandook](https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1) | 3:03 | 2024-11-08 | 2025-01-25 |
 | [Sang Baarishon Ke](https://open.spotify.com/track/40EKNsUKSIdbXWodemplk6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Sang Baarishon Ke](https://open.spotify.com/album/1sCNpq0xg4Z1CYoWTsLLj2) | 3:38 | 2023-07-28 | 2023-08-25 |
+| [Sang Chalna](https://open.spotify.com/track/1W3gLz4hwEdfU5P3rSIfxR) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt), [Sagar Godavaria](https://open.spotify.com/artist/5MzqijxVMnDDBRL7IxFVit) | [Sang Chalna](https://open.spotify.com/album/4kHXqYvISgMMIPMeU3K6is) | 3:06 | 2026-10-02 |  |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-12-01 | 2024-02-03 |
 | [Sanjha Ko Ghaam](https://open.spotify.com/track/4WTaogqXfnHw9DA1R8IIHE) | [Bipul Chettri](https://open.spotify.com/artist/3sauLUNFUPvJVWIADSYTvZ) | [Sanjha Ko Ghaam](https://open.spotify.com/album/7FKa1prVnSqkq6UFN3zHSY) | 3:03 | 2026-04-17 | 2026-07-04 |
 | [Sansein Kaha](https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj), [Zaroon](https://open.spotify.com/artist/18JGYRxX2ZTSo86VoifaPR) | [Sansein Kaha](https://open.spotify.com/album/6WtIheU1W6bMcepFKkMneK) | 3:18 | 2026-09-04 |  |
@@ -1361,7 +1362,7 @@
 | [Still](https://open.spotify.com/track/4GQhmqjs2WKqsa67r6dbRn) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Ejaz Hussain](https://open.spotify.com/artist/2FizMD1CFXw7ZjLxyWQr9A) | [Still](https://open.spotify.com/album/7xtrlKdtfe7IohQANLJond) | 4:49 | 2024-06-28 | 2024-07-19 |
 | [stop calling me](https://open.spotify.com/track/60JNWtnKoOLB2V2ceyXf5e) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [stop calling me](https://open.spotify.com/album/2lQz1pSoUlP531iJNzkcDK) | 2:56 | 2023-11-17 | 2023-12-09 |
 | [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 | 2024-05-07 |
-| [Stuck](https://open.spotify.com/track/0WtFI4IjQcWHNIo5EZ2Pyd) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Shriya Rao](https://open.spotify.com/artist/4Atrv2KksKgh8LbmH71faj), [k o k u m](https://open.spotify.com/artist/76JRqxjSGXqpYUsF4KtwWM), [Pratham](https://open.spotify.com/artist/36sqomPdu74ZV0LYKiFM4r) | [Stuck](https://open.spotify.com/album/2WG2a4wf1KgUBoXrvkMmvv) | 3:05 | 2026-09-25 |  |
+| [Stuck](https://open.spotify.com/track/0WtFI4IjQcWHNIo5EZ2Pyd) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Shriya Rao](https://open.spotify.com/artist/4Atrv2KksKgh8LbmH71faj), [k o k u m](https://open.spotify.com/artist/76JRqxjSGXqpYUsF4KtwWM), [Pratham](https://open.spotify.com/artist/36sqomPdu74ZV0LYKiFM4r) | [Stuck](https://open.spotify.com/album/2WG2a4wf1KgUBoXrvkMmvv) | 3:05 | 2026-09-25 | 2026-10-15 |
 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 | 2025-11-21 | 2026-01-31 |
 | [Subha Shaam](https://open.spotify.com/track/4RiWt8bSrpy4tWVuMAPm3h) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ) | [Subha Shaam](https://open.spotify.com/album/78LRDU6OxRTofDogmeU6ZN) | 2:57 | 2024-06-28 | 2024-08-10 |
 | [Suddenly](https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Suddenly](https://open.spotify.com/album/0eRXhuldZMfhRSy6vTEToQ) | 4:44 | 2024-06-28 | 2024-07-27 |

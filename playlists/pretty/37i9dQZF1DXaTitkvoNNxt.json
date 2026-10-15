@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1415091,
+  "num_followers": 1415046,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPlNZ8Y/sbYPb9MKLP+Jjuqh0dg",
+  "snapshot_id": "AAAAAOFWJ/rVjaNE/AfyEFB2lj8RtO4T",
   "tracks": [
     {
       "added_at": "2024-05-26 16:29:14",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "At Night, Alone.",
-        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "I Took A Pill In Ibiza - Seeb Remix",
-      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "At Night, Alone.",
+        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "I Took A Pill In Ibiza - Seeb Remix",
+      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
     },
     {
       "added_at": "2024-05-26 16:29:14",

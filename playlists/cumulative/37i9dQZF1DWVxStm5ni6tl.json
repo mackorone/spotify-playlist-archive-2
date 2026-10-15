@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "ain't no sunshine",
+        "url": "https://open.spotify.com/album/6CWQ3qXulKzy4De0KM4tvG"
+      },
+      "artists": [
+        {
+          "name": "Hayku Kyah",
+          "url": "https://open.spotify.com/artist/70b7TMBCkhzP7KgM1qc3Q8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "ain't no sunshine",
+      "url": "https://open.spotify.com/track/7sE1AZgTtwPjRzAFVxeZPP"
+    },
+    {
+      "album": {
         "name": "18 ans et +",
         "url": "https://open.spotify.com/album/5aIyq2uR5QJIO9JNB9MwIA"
       },
@@ -3824,6 +3842,24 @@
       "duration_ms": 109879,
       "name": "Babe Ruth",
       "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
+    },
+    {
+      "album": {
+        "name": "Baby you're a mess",
+        "url": "https://open.spotify.com/album/2PBRi5Kf6lP31GiEBHIKAw"
+      },
+      "artists": [
+        {
+          "name": "Creach",
+          "url": "https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177888,
+      "name": "Baby you're a mess",
+      "url": "https://open.spotify.com/track/53uiyax0R8EXdinnARGj30"
     },
     {
       "album": {
@@ -5776,6 +5812,24 @@
       "duration_ms": 268283,
       "name": "Black Balloon",
       "url": "https://open.spotify.com/track/6fKhmVvF7hYEzunNktw5wA"
+    },
+    {
+      "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
     },
     {
       "album": {
@@ -8853,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/7egdFIZeaLfohzjGYNragy"
+      },
+      "artists": [
+        {
+          "name": "STACKS",
+          "url": "https://open.spotify.com/artist/0C9iFe882ieknG0D0D8dSy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263035,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/0YleoLTvU6Yj3xsHnqp0RX"
+    },
+    {
+      "album": {
         "name": "l'endroit l'envers",
         "url": "https://open.spotify.com/album/4ZFhDXA2Pk6CiOfUAwPmoP"
       },
@@ -11146,7 +11218,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 195056,
       "name": "Crois",
       "url": "https://open.spotify.com/track/2DRYS45UUZDoDaydASId2K"
@@ -11392,7 +11464,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 224106,
       "name": "Cut My Knee",
       "url": "https://open.spotify.com/track/1r0y4RSzoikfSo6YciiUkl"
@@ -19964,7 +20036,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 204790,
       "name": "Green and Trying",
       "url": "https://open.spotify.com/track/606Mx6N4MbFz9TOD1kUmWJ"
@@ -28043,6 +28115,24 @@
     },
     {
       "album": {
+        "name": "Le mauvais temps",
+        "url": "https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Le mauvais temps",
+      "url": "https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a"
+    },
+    {
+      "album": {
         "name": "Nimrod (Deluxe)",
         "url": "https://open.spotify.com/album/5zkgPpatJ8DgWZS0pHxV5q"
       },
@@ -31300,7 +31390,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 209280,
       "name": "Me doy cuenta",
       "url": "https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy"
@@ -52336,7 +52426,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 159138,
       "name": "The Shallow End",
       "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: FOLA",
-  "num_followers": 658616,
+  "num_followers": 658717,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfKxuSSesSzTUzhKzki1MoLkhLm",
+  "snapshot_id": "AAAAAEiN9x+z6AltSrjm/7C/A36YhSd1",
   "tracks": [
     {
       "added_at": "2026-10-09 00:01:51",
@@ -199,22 +199,18 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Eja Meja (feat. Asake)",
-        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 158108,
-      "name": "Eja Meja (feat. Asake)",
-      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -295,18 +291,22 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+        "name": "Eja Meja (feat. Asake)",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+      "duration_ms": 158108,
+      "name": "Eja Meja (feat. Asake)",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -591,22 +611,18 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+        "name": "Money Lingo",
+        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+      "duration_ms": 159757,
+      "name": "Money Lingo",
+      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
-        "name": "Money Lingo",
-        "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 159757,
-      "name": "Money Lingo",
-      "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 170823,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2026-10-09 00:01:51",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-09 00:01:51",
       "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-10-09 00:01:51",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-10-09 00:01:51",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-10-09 00:01:51",

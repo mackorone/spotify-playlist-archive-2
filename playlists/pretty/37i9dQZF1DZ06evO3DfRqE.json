@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8782,
+  "num_followers": 8784,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAAAftcclP1e1zAz+LozMtgpu",
+  "snapshot_id": "as10gAAAAACsuHhGM9zhHQJQA/AcgOFw",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "\u30bf\u30a4\u30e0\u30fb\u30a2\u30d5\u30bf\u30fc\u30fb\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 219453,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "\u30bf\u30a4\u30e0\u30fb\u30a2\u30d5\u30bf\u30fc\u30fb\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Hi'ilawe",
-      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio",
         "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
       },
@@ -611,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Hi'ilawe",
+      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calm Seas",
         "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
       },
@@ -627,22 +627,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
+        "name": "Time For Three",
+        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
         },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 213621,
-      "name": "Make It Paradise",
-      "url": "https://open.spotify.com/track/4ZV6NV1l7yHlufiaaKI6G1"
+      "duration_ms": 239906,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
+      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
     },
     {
       "added_at": null,
@@ -687,6 +703,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 213621,
+      "name": "Make It Paradise",
+      "url": "https://open.spotify.com/track/4ZV6NV1l7yHlufiaaKI6G1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6R5igDFoWprigYQpsOZR1m"
       },
@@ -699,6 +751,22 @@
       "duration_ms": 223573,
       "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4wVNMIDZ4nK4Hy2FcSTvZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175914,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
     },
     {
       "added_at": null,
@@ -719,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Three",
-        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+        "name": "NASHVILLE SESSIONS",
+        "url": "https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD"
       },
       "artists": [
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+      "duration_ms": 182293,
+      "name": "Arigato",
+      "url": "https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66"
     },
     {
       "added_at": null,
@@ -755,54 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE SESSIONS",
-        "url": "https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Arigato",
-      "url": "https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
-      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 200440,
       "name": "Boy Meets Girl",
       "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175914,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 148295,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
     },
     {
       "added_at": null,

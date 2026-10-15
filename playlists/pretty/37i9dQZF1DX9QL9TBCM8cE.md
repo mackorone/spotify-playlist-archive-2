@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,576 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,580 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [Reflection](https://open.spotify.com/track/78Ba4Q0sj9SMjeVKP5upNP) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 3:14 |
 | 50 | [革命進化論 \- 2023 Version](https://open.spotify.com/track/6er0j8UjDyjlN51WUjodpO) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS L@YERED WING 03 \(2023 Version\)](https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF) | 4:09 |
 
-Snapshot ID: `AAAAAAnaES4wCxTWcGgHXM5nHR4iqE6H`
+Snapshot ID: `AAAAAEXnYUVHW8FYLNlqvf1a2UCNCd3b`

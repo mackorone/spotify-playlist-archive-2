@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "You Must Love Me",
+        "url": "https://open.spotify.com/album/2u04sbbN8GsaPoe9JsQRcd"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "You Must Love Me - Single Version",
+      "url": "https://open.spotify.com/track/5aQ3EkgRY3Cu333HS2ory3"
+    },
+    {
+      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },

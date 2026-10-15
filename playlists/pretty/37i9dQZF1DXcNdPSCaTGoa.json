@@ -1,12 +1,12 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: The Mahotella Queens, lordkez",
-  "num_followers": 7705,
+  "num_followers": 7737,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHPPFFEjKaJUWE0tO4poDbOGDsR",
+  "snapshot_id": "AAAAAC6nX16mlzGvtgECEVIgl2HoFWSN",
   "tracks": [
     {
       "added_at": "2026-09-24 22:00:42",
@@ -64,12 +64,12 @@
           "url": "https://open.spotify.com/artist/4ESooQLvSkfCgHH19TCzmD"
         },
         {
-          "name": "Gallo Remixed",
-          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
-        },
-        {
           "name": "Pressure Cooker",
           "url": "https://open.spotify.com/artist/2bxUH548JERtfXexv1BsVw"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
         }
       ],
       "duration_ms": 193775,
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+        "name": "Sound Revival",
+        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "DJ Sbu",
+          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+      "duration_ms": 436960,
+      "name": "Lengoma",
+      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
       "added_at": "2026-09-24 22:00:42",
@@ -287,22 +291,18 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Sound Revival",
-        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
       "artists": [
         {
-          "name": "DJ Sbu",
-          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 436960,
-      "name": "Lengoma",
-      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
     },
     {
       "added_at": "2026-09-24 22:00:42",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-24 22:00:42",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Reach It",
-      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
-    },
-    {
-      "added_at": "2026-09-24 22:00:42",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 296080,
       "name": "Umqombothi",
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
+    },
+    {
+      "added_at": "2026-09-24 22:00:42",
+      "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Reach It",
+      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
     },
     {
       "added_at": "2026-09-24 22:00:42",

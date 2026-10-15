@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > El soundtrack del verano 2026 🏝️ Cover: Maluma & Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,400,592 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,400,057 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 13 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 | 14 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 15 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 16 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
-| 17 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 |
+| 16 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 |
+| 17 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 18 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 19 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 | 20 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 37 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 38 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 39 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
-| 40 | [pa ti toa <3](https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [pa ti toa <3](https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD) | 3:33 |
-| 41 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
+| 40 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
+| 41 | [pa ti toa <3](https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [pa ti toa <3](https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD) | 3:33 |
 | 42 | [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 |
 | 43 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 44 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 55 | [Se Vienen Cositas](https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:39 |
 | 56 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
 | 57 | [SANKA](https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:35 |
-| 58 | [AL GOLPITO](https://open.spotify.com/track/7Btdfb0u6xW8GNawIvNESw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Nueva Línea](https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM) | [AL GOLPITO](https://open.spotify.com/album/6ElLi9u330BAgg6QT5dpUL) | 3:27 |
-| 59 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
+| 58 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
+| 59 | [AL GOLPITO](https://open.spotify.com/track/7Btdfb0u6xW8GNawIvNESw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Nueva Línea](https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM) | [AL GOLPITO](https://open.spotify.com/album/6ElLi9u330BAgg6QT5dpUL) | 3:27 |
 | 60 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
 | 61 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
 | 62 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 99 | [BUBALU](https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:48 |
 | 100 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
 
-Snapshot ID: `AAAAAJGRtBPWA4s6QH696Kma1f7lhvAP`
+Snapshot ID: `AAAAAPXD5kRfrKHAEXblxNgZD1nCkD8q`

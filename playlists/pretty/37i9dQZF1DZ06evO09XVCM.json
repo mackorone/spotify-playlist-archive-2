@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35469,
+  "num_followers": 35471,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADsv4Sfp4WKEidVKFaNHcRB",
+  "snapshot_id": "as10gAAAAAAF8bcFUrYmDQ990Bu3bgWp",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 292863,
-      "name": "Roots, Rock, Reggae - Live",
-      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "U R (feat. Ziggy Marley)",
         "url": "https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 235000,
       "name": "U R (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/2QdV9yVbuWVsDl523kTBzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 292863,
+      "name": "Roots, Rock, Reggae - Live",
+      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Coming In From the Cold - Live",
-      "url": "https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebellion Rises",
         "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 184992,
       "name": "High On Life",
       "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Coming In From the Cold - Live",
+      "url": "https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 359923,
-      "name": "Top Rankin'/We And Dem - Live",
-      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#7DJ (7 D\u00edas En Jamaica)",
         "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
       },
@@ -391,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
       "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+      "duration_ms": 359923,
+      "name": "Top Rankin'/We And Dem - Live",
+      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
     },
     {
       "added_at": null,
@@ -431,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
       "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 343995,
-      "name": "War - Live",
-      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 188333,
       "name": "Rainbow in the Sky",
       "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 343995,
+      "name": "War - Live",
+      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 306002,
-      "name": "One Love/People Get Ready - Live",
-      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 306002,
+      "name": "One Love/People Get Ready - Live",
+      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ziggy Marley",
         "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 267306,
       "name": "Weekend's Long",
       "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fly Rasta",
         "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
       },
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         },
         {
-          "name": "Toots Hibbert",
-          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
-      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
+      "duration_ms": 218786,
+      "name": "This Train (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     },
     {
       "added_at": null,
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         },
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Toots Hibbert",
+          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
         }
       ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
+      "duration_ms": 198066,
+      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
+      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

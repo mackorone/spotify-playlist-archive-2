@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,656 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,800 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 36 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
 | 37 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 38 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
-| 39 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
-| 40 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 39 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 40 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 41 | [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 |
 | 42 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 43 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 62 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
 | 63 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 64 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
-| 65 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 |
-| 66 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
-| 67 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 65 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
+| 66 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
+| 67 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 |
 | 68 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
 | 69 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
 | 70 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 74 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 75 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 
-Snapshot ID: `AAAAAGlrJkrUace5UL2w1H8CN0B0i2vu`
+Snapshot ID: `AAAAACwY7N6jlPLSUpiIm7rnGZPfnZ0l`

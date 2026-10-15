@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón\. Luciano Daniel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,898 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,871 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 47 | [Lluvia](https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Lluvia](https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo) | 3:48 |
 | 48 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
 | 49 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
-| 50 | [No es normal \- Versión Sierreño](https://open.spotify.com/track/4b6sv202GMFAv3Zsy1da0R) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es normal \(Versión Sierreño\)](https://open.spotify.com/album/7ccZ24hiMFP4e1cqmWCUIS) | 3:25 |
-| 51 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
+| 50 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
+| 51 | [No es normal \- Versión Sierreño](https://open.spotify.com/track/4b6sv202GMFAv3Zsy1da0R) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es normal \(Versión Sierreño\)](https://open.spotify.com/album/7ccZ24hiMFP4e1cqmWCUIS) | 3:25 |
 | 52 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
 | 53 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |
 | 54 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Despedida](https://open.spotify.com/track/5KUTr1CV83xYKzHOBAOGEr) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/47YLb4TmbwABbNEwmKMX1P) | 2:38 |
 | 80 | [Soñar Contigo](https://open.spotify.com/track/0Z8c7bgYXsHvKDJ2eLUBXV) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo de Dos](https://open.spotify.com/album/0wQiLJAm15W5IVKks3Rvqg) | 2:47 |
 
-Snapshot ID: `AAAAAPDbRx1sKAI807hzlHzXZ4f0qegN`
+Snapshot ID: `AAAAABY1e12T0UFL6Iu3BFOdkiOQO+Fe`

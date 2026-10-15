@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,611 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,635 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 57 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
 | 58 | [Just Like Heaven \- Remastered 2006](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 59 | [Meu Erro](https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [O Passo Do Lui](https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ) | 3:28 |
-| 60 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 61 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 60 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 61 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 62 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 63 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
 | 64 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 74 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 |
 | 75 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
 | 76 | [Bete Balanço](https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Maior Abandonado](https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR) | 3:33 |
-| 77 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
-| 78 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
+| 77 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
+| 78 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
 | 79 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
 | 80 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
 | 81 | [Ideologia](https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Ideologia](https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 99 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
 | 100 | [Óculos](https://open.spotify.com/track/1LphXGnd5o9F0hOE61Zf9T) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [O Passo Do Lui](https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ) | 3:39 |
 
-Snapshot ID: `AAAAAF5WaLrMLvqjOw/BQWQ/SI6Dqatd`
+Snapshot ID: `AAAAAPamztIlj+Y1DxPyY1AcOQz5LCds`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,526 likes - 36 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,553 likes - 36 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 20 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
 | 21 | [I Know You](https://open.spotify.com/track/70E8PmfBWR18u3NJfw63Qh) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 2:40 |
 | 22 | [What Are You Listening To?](https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [What Are You Listening To?](https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx) | 4:11 |
-| 23 | [Who Hurt You?](https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:54 |
+| 23 | [Beautiful Things](https://open.spotify.com/track/6nImybWzraGrI7B2xNWwSV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:55 |
 | 24 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 |
 | 25 | [Third Time's the Charm](https://open.spotify.com/track/3cHudlaM9wXHnk83WLlzBA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:51 |
 | 26 | [Nothin’ Crazy \(feat\. Mackenzie Carpenter\)](https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:11 |
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 33 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 |
 | 34 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
 | 35 | [Can't Break Up Now](https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 3:20 |
-| 36 | [Beautiful Things](https://open.spotify.com/track/6nImybWzraGrI7B2xNWwSV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:55 |
+| 36 | [Who Hurt You?](https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:54 |
 
-Snapshot ID: `asrRgAAAAAAK+M0F9BcVysfxPsIt2JFJ`
+Snapshot ID: `as10gAAAAADfZDQmOkq/VhBdA9BXO9SR`

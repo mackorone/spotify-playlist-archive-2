@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Yuienne",
+        "url": "https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP"
+      },
+      "artists": [
+        {
+          "name": "kariyushi58",
+          "url": "https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209966,
+      "name": "5820",
+      "url": "https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i"
+    },
+    {
+      "album": {
         "name": "5TELLA",
         "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
       },
@@ -32356,24 +32374,6 @@
       "duration_ms": 180345,
       "name": "Toy Box",
       "url": "https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA"
-    },
-    {
-      "album": {
-        "name": "Yuienne",
-        "url": "https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP"
-      },
-      "artists": [
-        {
-          "name": "kariyushi58",
-          "url": "https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL"
-        }
-      ],
-      "date_added": "2026-10-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i"
     },
     {
       "album": {

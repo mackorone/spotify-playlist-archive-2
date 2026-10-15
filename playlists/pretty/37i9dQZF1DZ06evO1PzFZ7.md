@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,067 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,061 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 12 | [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 |
 | 13 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
 | 14 | [No Quiero Hablar](https://open.spotify.com/track/7bYR4eZtbDzEK6CPtjzMZQ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:59 |
-| 15 | [Fruta Prohibida](https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 2:53 |
-| 16 | [Lo Busqué](https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j) | 4:10 |
+| 15 | [Lo Busqué](https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j) | 4:10 |
+| 16 | [Fruta Prohibida](https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 2:53 |
 | 17 | [Nadie Se Va Como Llegó](https://open.spotify.com/track/2fjiROtQjoeP1P4Pc905H2) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:33 |
 | 18 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
 | 19 | [Cielo Rojo](https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 49 | [La Ley del Monte](https://open.spotify.com/track/59tgqSSqUMsEbwSG2GNr5X) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 1\)](https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug) | 3:05 |
 | 50 | [Homenaje A Flor Silvestre \- Live](https://open.spotify.com/track/656gGxynLIJTCeiFCQuynQ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Los Aguilar Sinfónico Desde El Hollywood Bowl \(Live\)](https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7) | 5:50 |
 
-Snapshot ID: `asrRgAAAAABM0rr7AqNtMRXH/FSBq8GL`
+Snapshot ID: `as10gAAAAABE+F6OQRSITOl0qVYr2d+m`

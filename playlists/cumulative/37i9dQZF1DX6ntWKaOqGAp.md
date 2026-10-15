@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Hump Back
 
-3,647 songs - 9 day 10 hr 58 min
+3,647 songs - 9 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [3036](https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [3036](https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX) | 1:10 | 2024-11-13 | 2025-01-10 |
 | [361°](https://open.spotify.com/track/6vxcJC28DFe1xjUctsh4P4) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [361°](https://open.spotify.com/album/2sO5ugmEmBCwcy811ukzfd) | 5:31 | 2026-02-03 | 2026-02-18 |
 | [50%](https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [50%](https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx) | 5:03 | 2024-12-12 | 2025-08-08 |
+| [5820](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 3:29 | 2026-10-13 |  |
 | [5TELLA](https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [5TELLA](https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE) | 3:55 | 2026-01-27 | 2026-02-18 |
 | [60W](https://open.spotify.com/track/1xRACXqo2UiX6Ci4oa5vKw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [60W](https://open.spotify.com/album/4WOO5s3gSbRsFV0q5D6AzF) | 4:15 | 2023-01-31 | 2023-02-24 |
 | [69 Party](https://open.spotify.com/track/1Rd1IWQNTjlep5kcsyZsiq) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [DANCEHALL MAGIC](https://open.spotify.com/album/1FPcu8UL0LfZYnzV0diafu) | 3:23 | 2023-05-02 | 2023-05-31 |
@@ -1775,7 +1776,6 @@
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
 | [Toy Box](https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Who am I?](https://open.spotify.com/album/75SzOy9IS2koE6VeYtHYeR) | 3:00 | 2026-09-01 | 2026-09-09 |
-| [Track 4](https://open.spotify.com/track/3AlMmwIThqFBpwFElVop6i) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Yuienne](https://open.spotify.com/album/3zqQjmtqup0f3ISQoa4tWP) | 0:00 | 2026-10-13 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

@@ -1,13 +1,173 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maisi and the Disco. Artwork by Paola Saliby",
-  "num_followers": 244366,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Ronia. Artwork by Paola Saliby",
+  "num_followers": 244433,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMOJDMuxGCUZtAuC48Eaa6MwBkp1",
+  "snapshot_id": "AAAAAMCDBGhhpas2c62zm1R2TpcGWCCx",
   "tracks": [
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/39juknpd3rYUQSBRFxklcM"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Break The Habit",
+        "url": "https://open.spotify.com/album/6ENIVIwvnlqcf5lFSGgCjA"
+      },
+      "artists": [
+        {
+          "name": "ARI LEE",
+          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
+        }
+      ],
+      "duration_ms": 181833,
+      "name": "Break The Habit",
+      "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0enyZOmCbq9QRtSJER2jYE"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/28jDHQ7NL0BmZK637LUQ50"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "come to mommy",
+        "url": "https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 163658,
+      "name": "potion",
+      "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1kz9gxHNxi91VrTb8J2EHX"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "duration_ms": 183831,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/7nCoc9T4nq0O8iuLzO6IPZ"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "duration_ms": 204109,
+      "name": "pupilla",
+      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Dirty Nails",
+        "url": "https://open.spotify.com/album/5a3M3Tk3PWlwu5Ucz5n4uU"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Dirty Nails",
+      "url": "https://open.spotify.com/track/5L0PFLeyhjDAvLmDK7KYmX"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/3o0XIkLo0iOS7w553EQXw3"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4cEMIWtk1TCg5UEQaSqYsk"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/69fVNGit1MI6JUnwh6KTLE"
+      },
+      "artists": [
+        {
+          "name": "Reece Bibby",
+          "url": "https://open.spotify.com/artist/5LdxRTzovijIc5SgH50JvG"
+        }
+      ],
+      "duration_ms": 170368,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/2DHcWiCe8yTpmTXiDY44n6"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4D8K3auIXNdxTvDBLgsgL8"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "duration_ms": 130894,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
+    },
     {
       "added_at": "2026-10-08 00:21:45",
       "album": {
@@ -715,22 +875,6 @@
     {
       "added_at": "2026-08-26 04:00:39",
       "album": {
-        "name": "Sugar, Butter, Elbow Grease",
-        "url": "https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z"
-      },
-      "artists": [
-        {
-          "name": "Leah Jane",
-          "url": "https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Sugar, Butter, Elbow Grease",
-      "url": "https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
         "name": "same me",
         "url": "https://open.spotify.com/album/3wjo43vZ9jQcGh6O0hsjTH"
       },
@@ -795,70 +939,6 @@
     {
       "added_at": "2026-08-12 04:00:21",
       "album": {
-        "name": "i'm not stupid",
-        "url": "https://open.spotify.com/album/6iLemoWCEBzsn34LNHhi4x"
-      },
-      "artists": [
-        {
-          "name": "Prestyn Smith",
-          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "i'm not stupid",
-      "url": "https://open.spotify.com/track/4IRByDfK4OxuN4fXigs7OS"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gordon",
-          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "Stunner",
-        "url": "https://open.spotify.com/album/1WOBDxDGuGF763HTh7YSEV"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Stunner",
-      "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
-        "name": "AHH! (Act II)",
-        "url": "https://open.spotify.com/album/0jLDBgG02zr4IxcZuXa2mF"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 181071,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/0BeBdenyB3ivA0kk5LS0Mp"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
         "name": "feelers",
         "url": "https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx"
       },
@@ -871,22 +951,6 @@
       "duration_ms": 215713,
       "name": "feelers",
       "url": "https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "Good Run",
-        "url": "https://open.spotify.com/album/2f8t1TimRsjgQ4WCNG9vES"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 137813,
-      "name": "Good Run",
-      "url": "https://open.spotify.com/track/6DbRfIYcho6OCdzAAuvGAI"
     },
     {
       "added_at": "2026-08-12 04:00:21",
@@ -903,58 +967,6 @@
       "duration_ms": 212055,
       "name": "You Are Never Gone From Me",
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/458xr5gXcZeM9PJCnvKL5U"
-      },
-      "artists": [
-        {
-          "name": "Maria Taktouk",
-          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
-        }
-      ],
-      "duration_ms": 179929,
-      "name": "hurt me",
-      "url": "https://open.spotify.com/track/56hoNdnffCWzh1toUVDUfg"
-    },
-    {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/3ck2ziXg7uIlJ8apM1neJ0"
-      },
-      "artists": [
-        {
-          "name": "Enola Bedard",
-          "url": "https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y"
-        }
-      ],
-      "duration_ms": 137276,
-      "name": "Hit & Run",
-      "url": "https://open.spotify.com/track/0VoPr66RRMVRD2LLIuqzw2"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "kill switch",
-        "url": "https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy"
-      },
-      "artists": [
-        {
-          "name": "Sophia Willingham",
-          "url": "https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg"
-        },
-        {
-          "name": "Eli McAleny",
-          "url": "https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD"
-        }
-      ],
-      "duration_ms": 132983,
-      "name": "kill switch",
-      "url": "https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm"
     },
     {
       "added_at": "2026-08-05 04:00:03",
@@ -1163,22 +1175,6 @@
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "somethingsdontsitright",
-        "url": "https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4"
-      },
-      "artists": [
-        {
-          "name": "KENNEDY",
-          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
-        }
-      ],
-      "duration_ms": 173181,
-      "name": "somethingsdontsitright",
-      "url": "https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ"
     },
     {
       "added_at": "2026-06-17 04:00:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Minttu, Käärijä & Joost, M//O..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,850 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,845 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 98 | [Veteraner](https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Veteraner](https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm) | 4:32 |
 | 99 | [Ich Sehe Dich](https://open.spotify.com/track/5Lvhk4lmkXKWnvo2igMo7S) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ich Sehe Dich](https://open.spotify.com/album/6XFFhi9txfN4mIDlRH6rQN) | 4:16 |
 
-Snapshot ID: `AAAAACPCMDlqjaQRgyPX+Tmbxtrc97J6`
+Snapshot ID: `AAAAAD/ui19iQmoR2aAQe1Re1Nkd+hbu`

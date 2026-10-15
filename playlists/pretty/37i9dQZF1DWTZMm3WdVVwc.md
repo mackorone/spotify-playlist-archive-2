@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,116 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,114 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 38 | [露](https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 6:07 |
 | 39 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 |
 | 40 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 |
-| 41 | [City Love City Love City Love](https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Shout Out to Jesus](https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI) | 3:24 |
-| 42 | [0℃の日曜](https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:10 |
+| 41 | [0℃の日曜](https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:10 |
+| 42 | [City Love City Love City Love](https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Shout Out to Jesus](https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI) | 3:24 |
 | 43 | [ゆれる](https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 4:59 |
 | 44 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 45 | [LOVER SOUL](https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [POP LIFE](https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv) | 6:01 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 61 | [冬のうた](https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [Kiroroのうた ①](https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF) | 5:45 |
 | 62 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
 | 63 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 |
-| 64 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
-| 65 | [ミルク](https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 3:52 |
-| 66 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 |
+| 64 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 |
+| 65 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
+| 66 | [ミルク](https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 3:52 |
 | 67 | [OH MY LITTLE GIRL](https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb) | [Yutaka Ozaki](https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl) | [OH MY LITTLE GIRL](https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj) | 4:36 |
 | 68 | [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 |
 | 69 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 74 | [ロマンス](https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 3:39 |
 | 75 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
 | 76 | [Folklore](https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [imagination](https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65) | 5:21 |
-| 77 | [You Got This](https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [You Got This](https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta) | 4:15 |
-| 78 | [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 |
-| 79 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
+| 77 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
+| 78 | [You Got This](https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [You Got This](https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta) | 4:15 |
+| 79 | [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 |
 | 80 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
 | 81 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
 | 82 | [真冬の恋人たち](https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [BIBLE](https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL) | 4:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 98 | [Unmelting Snow](https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY) | [Girls2](https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR) | [Unmelting Snow](https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW) | 3:28 |
 | 99 | [Winterboy](https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [Winterboy](https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA) | 4:34 |
 
-Snapshot ID: `AAAAAH8J8eApaa0uFtUXraxi3QbRq5+K`
+Snapshot ID: `AAAAAFvgXuHjTc7dnP5jMPJHI0/x/0y8`

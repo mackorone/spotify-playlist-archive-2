@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,835 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,837 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [Liächtermeer immer meh und meh](https://open.spotify.com/track/1FBKFKjKWFCbEe7oOeGNKD) | [Beatrice Egli](https://open.spotify.com/artist/7J8A1bNBCuikXoOOetFCKz), [Schwiizergoofe](https://open.spotify.com/artist/7nA1WJ3WqELfMWgoimh41R) | [Liächtermeer immer meh und meh](https://open.spotify.com/album/6RIFGFoPnOZCJ17HmlDzvV) | 3:07 |
 | 97 | [Ich weiß, was du brauchst](https://open.spotify.com/track/7EIKrOkRVCXMboMw1V1A18) | [Kerstin Ott](https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7), [Maite Kelly](https://open.spotify.com/artist/67e4k4hUdeTb0UIm878liJ) | [Ich weiß, was du brauchst](https://open.spotify.com/album/15dJsdYoDZD3HkojFbkFat) | 2:46 |
 
-Snapshot ID: `AAAAAM/Ch8B84erFfxm+ingkomFzhXJY`
+Snapshot ID: `AAAAAKnhXLpst3BO69zIpHOHyO9kAimi`

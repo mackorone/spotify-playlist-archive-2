@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Anubha Bajaj",
-  "num_followers": 205069,
+  "num_followers": 205127,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG3FXDSGDqZpjxd+YFHnvF9n31QV",
+  "snapshot_id": "AAAAANMQ6INanDNm8llNrpQoH7UkO38T",
   "tracks": [
     {
       "added_at": "2026-10-10 03:44:03",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Patang (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
-      },
-      "artists": [
-        {
-          "name": "Abeer Chopra",
-          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
-        },
-        {
-          "name": "Arav Dhawan",
-          "url": "https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3"
-        }
-      ],
-      "duration_ms": 178222,
-      "name": "Patang (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Talkhiyaan",
         "url": "https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 182068,
       "name": "Ab Na Laut Paayenge",
       "url": "https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Patang (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
+      },
+      "artists": [
+        {
+          "name": "Abeer Chopra",
+          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
+        },
+        {
+          "name": "Arav Dhawan",
+          "url": "https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3"
+        }
+      ],
+      "duration_ms": 178222,
+      "name": "Patang (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Barsa",
-        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
-      },
-      "artists": [
-        {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
-        }
-      ],
-      "duration_ms": 206088,
-      "name": "Barsa",
-      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Kya Kahein",
         "url": "https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 187342,
       "name": "Kya Kahein",
       "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Barsa",
+        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        }
+      ],
+      "duration_ms": 206088,
+      "name": "Barsa",
+      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
-    },
-    {
-      "added_at": "2026-10-05 08:00:18",
-      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 121442,
       "name": "Naina",
       "url": "https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg"
+    },
+    {
+      "added_at": "2026-10-05 08:00:18",
+      "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1429,28 +1429,24 @@
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
     },
     {
-      "added_at": "2026-10-05 08:00:18",
+      "added_at": "2026-10-10 03:44:03",
       "album": {
-        "name": "Achaar Samachaar",
-        "url": "https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR"
+        "name": "Piyarva",
+        "url": "https://open.spotify.com/album/5cLlTDQUAfx3qGUcMzt6qb"
       },
       "artists": [
         {
-          "name": "Faizan",
-          "url": "https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
         },
         {
-          "name": "Ghabraahat Intensifies",
-          "url": "https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh"
-        },
-        {
-          "name": "toorjo dey",
-          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
         }
       ],
-      "duration_ms": 214945,
-      "name": "Achaar Samachaar",
-      "url": "https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt"
+      "duration_ms": 124366,
+      "name": "Piyarva",
+      "url": "https://open.spotify.com/track/7yhf8seGjPGmtxSFPYdeln"
     },
     {
       "added_at": "2026-10-05 08:00:18",
@@ -1477,24 +1473,28 @@
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
     },
     {
-      "added_at": "2026-10-10 03:44:03",
+      "added_at": "2026-10-05 08:00:18",
       "album": {
-        "name": "Piyarva",
-        "url": "https://open.spotify.com/album/5cLlTDQUAfx3qGUcMzt6qb"
+        "name": "Achaar Samachaar",
+        "url": "https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR"
       },
       "artists": [
         {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+          "name": "Faizan",
+          "url": "https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x"
         },
         {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+          "name": "Ghabraahat Intensifies",
+          "url": "https://open.spotify.com/artist/0MIx96qVdmIUSO8ifuKAlh"
+        },
+        {
+          "name": "toorjo dey",
+          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
         }
       ],
-      "duration_ms": 124366,
-      "name": "Piyarva",
-      "url": "https://open.spotify.com/track/7yhf8seGjPGmtxSFPYdeln"
+      "duration_ms": 214945,
+      "name": "Achaar Samachaar",
+      "url": "https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt"
     }
   ],
   "unique_name": "RADAR India",

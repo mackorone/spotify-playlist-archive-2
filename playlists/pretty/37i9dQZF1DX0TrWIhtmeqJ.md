@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Bricknasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,644 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,643 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Top 3](https://open.spotify.com/track/47E59ScAI4kEsAH6ELaIkA) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Top 3](https://open.spotify.com/album/2sgcUUQ4UQ2XUbrduYisme) | 2:14 |
 | 70 | [SNM](https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [SNM](https://open.spotify.com/album/3QXY4VUFSwlCJR3ZFlt9q2) | 3:31 |
 
-Snapshot ID: `AAAAAGXFDBwdKxglIbpmrlTJwdNzqswh`
+Snapshot ID: `AAAAAIGdiv1dZmbB5lFWr2yshIDKcDrH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,861 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,889 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 31 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
 | 32 | [Cantina Band \- From "Star Wars: A New Hope"](https://open.spotify.com/track/2zF7IDI6UsLXpwl3FjukPS) | [London Voices](https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [New London Children's Choir](https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb) | [Star Wars Sampler](https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c) | 2:46 |
 | 33 | [A Reluctant Hero / Betsy / End Credits](https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [James P\. Nichols](https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 4:42 |
-| 34 | [Amarcord](https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Amarcord \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy) | 2:07 |
-| 35 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
+| 34 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
+| 35 | [Amarcord](https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Amarcord \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy) | 2:07 |
 | 36 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 |
 | 37 | [Nuit sur les Champs\-Élysées \- Take 1 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:25 |
 | 38 | [Thank God for the Rain](https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 1:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [Tu Vuo' Fa L'Americano \- Vocal](https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc) | [Fiorello](https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q), [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 3:01 |
 | 100 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 
-Snapshot ID: `AAAAAM90y+enk5Y4klF5DSMy3qLJMLQY`
+Snapshot ID: `AAAAAEKrW0gwgJQ6NVjLj2RtX9LLtE0z`

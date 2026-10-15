@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,031 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,040 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 26 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 |
 | 27 | [Two Shadows](https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Two Shadows](https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel) | 2:29 |
 | 28 | [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 |
-| 29 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
-| 30 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
+| 29 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
+| 30 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
 | 31 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
 | 32 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 |
 | 33 | [bygones](https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [bygones](https://open.spotify.com/album/0HY70Iio9tJrqKfpO9289A) | 2:17 |
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 45 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
 | 46 | [A Moment To Give](https://open.spotify.com/track/3Q7dTZa2B78SGCc1HHPieB) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [A Moment To Give](https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C) | 3:11 |
 | 47 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
-| 48 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 |
-| 49 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
+| 48 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
+| 49 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 |
 | 50 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
-| 51 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
-| 52 | [The Only One](https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [The Only One](https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ) | 2:36 |
+| 51 | [The Only One](https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [The Only One](https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ) | 2:36 |
+| 52 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
 | 53 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 54 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
 | 55 | [Where Dreams Go to Sleep](https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [Where Dreams Go to Sleep](https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia) | 2:49 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 60 | [Summer with You](https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Summer with You](https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe) | 2:24 |
 | 61 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
 | 62 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
-| 63 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
-| 64 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
+| 63 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
+| 64 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
 | 65 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
 | 66 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
 | 67 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 81 | [Beneath the Paris Sky](https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Beneath the Paris Sky](https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e) | 2:48 |
 | 82 | [A Phonecall Away](https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [A Phonecall Away](https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD) | 2:32 |
 
-Snapshot ID: `AAAAAF86hKQTNv3hI74U2PPwiH5Mrfkp`
+Snapshot ID: `AAAAAPKFjr0goIiODEWMatvu56OdAvIl`

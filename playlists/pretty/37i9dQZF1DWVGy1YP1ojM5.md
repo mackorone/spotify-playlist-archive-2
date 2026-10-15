@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302,839 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,666 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 44 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 3:26 |
 | 45 | [Moan](https://open.spotify.com/track/5hkI0Ms7FNmlD0GjjW2jRv) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Mood Swings](https://open.spotify.com/album/2mgODRfkCa899nXbN1lgOy) | 3:46 |
 | 46 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
-| 47 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
-| 48 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
+| 47 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
+| 48 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
 | 49 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
 | 50 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
 | 51 | [Searchin](https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:24 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 53 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
 | 54 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
 | 55 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
-| 56 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 |
-| 57 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
+| 56 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
+| 57 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 |
 | 58 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 59 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 |
 | 60 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 68 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
 | 69 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 70 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
-| 71 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
-| 72 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
+| 71 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
+| 72 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 73 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
 | 74 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 |
 | 75 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 99 | [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 |
 | 100 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 
-Snapshot ID: `AAAAACEXcrqzLsSOqXk+Gw3n/YGRo1dj`
+Snapshot ID: `AAAAABpnK7YXCVoylF9PHwr2r/mPG1eZ`

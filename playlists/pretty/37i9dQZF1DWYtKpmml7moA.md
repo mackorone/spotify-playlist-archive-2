@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,325 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,429 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 12 | [The real thing](https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2) | [Movin' On](https://open.spotify.com/album/015atHfkTckCacqwdccLZn) | 3:58 |
 | 13 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
 | 14 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
-| 15 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
-| 16 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
-| 17 | [Bla Bla Bla](https://open.spotify.com/track/3QABl9RswrFsjKGwHgF1l2) | [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU), [Derrick Sound](https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo) | [Bla Bla Bla](https://open.spotify.com/album/5DcEyYClXam0ZdlQxZU4Ov) | 2:37 |
-| 18 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
+| 15 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
+| 16 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
+| 17 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
+| 18 | [Bla Bla Bla](https://open.spotify.com/track/3QABl9RswrFsjKGwHgF1l2) | [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU), [Derrick Sound](https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo) | [Bla Bla Bla](https://open.spotify.com/album/5DcEyYClXam0ZdlQxZU4Ov) | 2:37 |
 | 19 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
 | 20 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 21 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 41 | [My Love](https://open.spotify.com/track/6dTcS6JSpAQ2NZenJt0btO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 4:10 |
 | 42 | [Sativa](https://open.spotify.com/track/3fzVtpLMS24jWEVjkhGycj) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Sativa](https://open.spotify.com/album/2DBnGu5bloAoIDEVZm0F8n) | 2:50 |
 | 43 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
-| 44 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
-| 45 | [The Kalling](https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ) | 3:33 |
+| 44 | [The Kalling](https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ) | 3:33 |
+| 45 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
 | 46 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 47 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
 | 48 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 49 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
 | 50 | [Helping Hand \(with Iya Terra\)](https://open.spotify.com/track/1S6wOu6dSfEC6CAhFqLkhz) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Helping Hand \(with Iya Terra\)](https://open.spotify.com/album/2qKU4M3birDmWDbKHGrR5U) | 4:13 |
 
-Snapshot ID: `AAAAAPVKk5EgDGqtMzSmmbHF+6yK0VnB`
+Snapshot ID: `AAAAAGxdDFP0GvFajXlhQs14o9TS38fL`

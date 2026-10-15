@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,434 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,431 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 |
 | 65 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 
-Snapshot ID: `AAAAAHTRpqrzlzooHQXoKrmOGCLUN0gi`
+Snapshot ID: `AAAAAPmcyzoOIPKmHGzlPpARwMwvej7X`

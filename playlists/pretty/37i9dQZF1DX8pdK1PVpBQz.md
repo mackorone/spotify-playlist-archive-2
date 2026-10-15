@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: zaqquack
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,651 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,687 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 | 100 | [48](https://open.spotify.com/track/6w8CeYasVAQ8sAOWK6Qiel) | [Aubany](https://open.spotify.com/artist/3oXJSUdg98IQjP64FAWQuh) | [48](https://open.spotify.com/album/1j8YWj3e7n3xU66oMk5OaA) | 3:42 |
 
-Snapshot ID: `AAAAAO1sBm70dvd8AU3kGwSl5XYUJM35`
+Snapshot ID: `AAAAALGoeoVIKJOlPbq9QqWB0JT8rNbz`

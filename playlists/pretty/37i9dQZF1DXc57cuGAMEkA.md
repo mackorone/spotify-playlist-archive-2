@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Troye Sivan, Britney Spears, Carly Rae Jepsen, ずっと真夜中でいいのに。, iri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,331 likes - 88 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,329 likes - 88 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 87 | [Someone Like You](https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Someone Like You](https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4) | 5:27 |
 | 88 | [Public](https://open.spotify.com/track/39ZU15Dk22EKHMwydQLV13) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Public](https://open.spotify.com/album/5CMLxgOFUnZHcCxUpwum3P) | 2:09 |
 
-Snapshot ID: `AAAAAH9+rItIMRBRlz6zVq/Y0z/W4Rd3`
+Snapshot ID: `AAAAACmEBKdulfzhINSi+6wOBlVS+kSY`

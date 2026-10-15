@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,721 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,722 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 43 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 |
 | 44 | [Asta\-i Țara Mea](https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Vasile Advahov](https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn) | [Asta\-i Țara Mea](https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO) | 2:49 |
 | 45 | [Ani Și Ani La Rând](https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Ciresan](https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy) | [Ani Și Ani La Rând](https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV) | 3:20 |
-| 46 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
-| 47 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 46 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 47 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
 | 48 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 49 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 |
 | 50 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 |
 
-Snapshot ID: `AAAAAPwiIiiJeqIOp0LWq9W6d9LT8n1i`
+Snapshot ID: `AAAAAJ90scJo2mikOSo/RXutaKI8c98S`

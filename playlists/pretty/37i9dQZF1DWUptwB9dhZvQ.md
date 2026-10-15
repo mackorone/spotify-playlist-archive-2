@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,134 likes - 75 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,146 likes - 75 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
 | 75 | [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 |
 
-Snapshot ID: `AAAAAA2awhxIpSyi9VBCMyHTEDI0i1Mr`
+Snapshot ID: `AAAAAGe7tcB6g/MeryDUaIT1mOzYP/uL`

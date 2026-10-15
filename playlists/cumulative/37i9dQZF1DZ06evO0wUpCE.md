@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 5 min
+86 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Basto](https://open.spotify.com/track/6DtgjNnFU73SoLXh5teMhn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:37 | 2023-08-08 | 2023-09-26 |
 | [Bastó](https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:38 | 2023-12-13 |  |
 | [Cajita De Cartón \- bonus track](https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [XX Aniversario \(En Vivo\)](https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr) | 3:03 | 2023-08-08 |  |
-| [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 |  |
+| [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 | 2026-10-15 |
 | [Como Te Atreves](https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:36 | 2023-08-08 |  |
 | [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 | 2023-08-08 |  |
@@ -84,6 +84,7 @@
 | [Tu Soledad Y La Mía](https://open.spotify.com/track/477tplqFCCEPOalRb7OCnL) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Tu Soledad Y La Mía](https://open.spotify.com/album/24gc3AiZc6RHJr4sqNsdJm) | 3:54 | 2023-08-08 |  |
 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 | 2023-08-08 |  |
 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 | 2023-08-08 | 2023-12-14 |
+| [Uncertain, TX \(feat\. Intocable\) \- Spanish Version](https://open.spotify.com/track/3CF6hmINIcPUh0wfxN0ft3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Uncertain, TX \(feat\. Intocable\) \[Spanish Version\]](https://open.spotify.com/album/7rWbojvauIqKj6PHESW6YB) | 3:33 | 2026-10-15 |  |
 | [Vete Ya](https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Fuego Eterno](https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J) | 2:43 | 2023-08-08 |  |
 | [Viento \(with Intocable\)](https://open.spotify.com/track/3NQHzcvs6Eb3eNspR3HXBh) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2023-08-08 | 2024-01-24 |
 | [Vuelve](https://open.spotify.com/track/0TTw5RZcpFNpOou2fEkSRF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:48 | 2026-08-26 | 2026-08-27 |

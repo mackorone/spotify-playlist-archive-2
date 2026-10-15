@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2935651,
+  "num_followers": 2935564,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAADzxBeXYNUFJLwzBJ/0oU6P",
+  "snapshot_id": "as10gAAAAABtWRVKHqipswzRHiK7gnOs",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
       },
       "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Scared of the Dark (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
     },
     {
       "added_at": null,
@@ -399,18 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "let's pretend we're numb",
-        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 80105,
-      "name": "let's pretend we're numb",
-      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+      "duration_ms": 233000,
+      "name": "Scared of the Dark (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "WingRiddenAngel",
+      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends Never Die (5 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 230502,
       "name": "The Way (with XXXTENTACION)",
       "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "WingRiddenAngel",
-      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
     },
     {
       "added_at": null,

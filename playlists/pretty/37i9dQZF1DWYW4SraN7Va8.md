@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,900 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,977 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 52 | [Automatic Sun](https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:10 |
 | 53 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
 | 54 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 |
-| 55 | [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 |
-| 56 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
+| 55 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
+| 56 | [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 |
 | 57 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 |
 | 58 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
-| 59 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 |
-| 60 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 |
+| 59 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 |
+| 60 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 |
 | 61 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 |
 | 62 | [Silent Divide](https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silent Divide](https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW) | 5:03 |
 | 63 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 74 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
 | 75 | [Wild Ones](https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Wild Ones](https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK) | 4:17 |
 
-Snapshot ID: `AAAAAKN/k2M4+zL6g+fQzOhr0r+txTTA`
+Snapshot ID: `AAAAANkHenWVE89z/5sRZ0bo/XUoAd4c`

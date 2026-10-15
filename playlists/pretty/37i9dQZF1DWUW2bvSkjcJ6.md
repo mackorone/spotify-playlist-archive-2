@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von girl in red, Troye Sivan, Sido, Montez, Marlon Hoffstadt, David Guetta & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,706 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,635 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 78 | [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/track/2QdV9yVbuWVsDl523kTBzu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [The Madden Brothers](https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM) | [U R \(feat\. Ziggy Marley\)](https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV) | 3:55 |
 | 79 | [Ich weiß, was du brauchst](https://open.spotify.com/track/7EIKrOkRVCXMboMw1V1A18) | [Kerstin Ott](https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7), [Maite Kelly](https://open.spotify.com/artist/67e4k4hUdeTb0UIm878liJ) | [Ich weiß, was du brauchst](https://open.spotify.com/album/15dJsdYoDZD3HkojFbkFat) | 2:46 |
 
-Snapshot ID: `AAAAAO4fQH2xdV4VwILbBVzH3AlSvx/1`
+Snapshot ID: `AAAAANIR7WqeZ3lEBOTC5Md6CKZ8BtUG`

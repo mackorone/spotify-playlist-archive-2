@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-161 songs - 8 hr 17 min
+162 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [El Balido de Mi Ganado](https://open.spotify.com/track/5wEH0WguIFC6gbBcLzhHLE) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:08 | 2022-06-01 | 2022-10-13 |
 | [El Camaleón](https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Camaleón](https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2) | 2:50 | 2022-11-25 | 2022-12-31 |
 | [El Cantador](https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:07 | 2023-02-26 | 2026-08-26 |
+| [El Cantador](https://open.spotify.com/track/5GJ8IqHNg5KDQqHgXSItSf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Grandes Corridos](https://open.spotify.com/album/4wO8ywh39VnRkyDCRPL8E4) | 3:07 | 2026-10-15 |  |
 | [El Corrido del Sinaloense](https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos Prohibidos](https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q) | 3:11 | 2024-07-16 | 2025-09-03 |
 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 | 2022-06-01 |  |
 | [El Gato Negro](https://open.spotify.com/track/7qQNloY3tLiCjjuXOMhA9O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:30 | 2022-07-13 | 2022-08-05 |
@@ -116,7 +117,7 @@
 | [Navidad, Navidad](https://open.spotify.com/track/0kcdYS03fQD5ZjdrwCRjyd) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Navidad, Navidad](https://open.spotify.com/album/47KqLfOQDAZvWgiRazfg0E) | 2:52 | 2024-12-08 | 2025-01-05 |
 | [Negrita Eae](https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Puro Mazatlán](https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46) | 2:59 | 2022-06-21 | 2022-10-13 |
 | [No Dejes Que](https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nos Vamos Juntos \- Un Tributo A Las Canciones De Caifanes Y Jaguares](https://open.spotify.com/album/2uk0BrQkXCpGFC0L4CQHVj) | 4:34 | 2022-06-04 | 2022-10-06 |
-| [No Me Conoces Aún](https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [No Me Conoces Aún](https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd) | 3:15 | 2026-07-25 |  |
+| [No Me Conoces Aún](https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [No Me Conoces Aún](https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd) | 3:15 | 2026-07-25 | 2026-10-15 |
 | [No Me Dolió](https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 3:05 | 2022-06-01 |  |
 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Tú Ya Las Conoces, Vol\. 1](https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D) | 2:21 | 2026-04-15 | 2026-07-06 |
 | [Pa' Qué Me Sirve La Vida \- En Vivo](https://open.spotify.com/track/4eEuCIm1rFfHJUQFe28cUW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Historia Y Tradición, Vol.1 \(En Vivo\)](https://open.spotify.com/album/5kuA9rkf3UdSFCRgRrXCHg) | 3:01 | 2025-06-26 | 2025-07-23 |

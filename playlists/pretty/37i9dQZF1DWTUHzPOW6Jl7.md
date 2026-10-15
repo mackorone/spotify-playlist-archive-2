@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,506 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,622 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 97 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
 | 98 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/0DlVOdK5GJtnom4nI3EOz5) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 5:25 |
 | 99 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
-| 100 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
+| 100 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 
-Snapshot ID: `AAAAAIKnwne7VP0NMNFmo2aHj6u5mzHV`
+Snapshot ID: `AAAAACBUDsiZuet3zTYOahrNnMoYY69h`

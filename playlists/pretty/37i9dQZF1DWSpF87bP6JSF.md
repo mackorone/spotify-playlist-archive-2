@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Ingratax en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,603,981 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,603,898 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [deditos cruzados](https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [deditos cruzados](https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j) | 3:25 |
 | 50 | [Quijote](https://open.spotify.com/track/0qqRX2rp7vuwrNXnBx3X53) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Eternos](https://open.spotify.com/album/556oquvE8lpKicIKB8s7yw) | 4:03 |
 
-Snapshot ID: `AAAAABpBGKI6KIk60kE3r6eaPthITP+H`
+Snapshot ID: `AAAAAA2fhWt9OiC6JF7yp4JD/UIJYWmU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 
 > Los videoclips más populares de los últimos años\. Solo en Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,374 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,379 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 | 42 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 43 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 44 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
-| 45 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
-| 46 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
+| 45 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
+| 46 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
 | 47 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 48 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
 | 49 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:41 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rXTaz81RRT.md) - [plain]
 | 68 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 69 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:57 |
 | 70 | [MEMORIAS](https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:48 |
-| 71 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 |
-| 72 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 |
+| 71 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 |
+| 72 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 |
 | 73 | [No Es Justo](https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 4:10 |
 | 74 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 |
 | 75 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 
-Snapshot ID: `AAAAAG/56+efP2oD/A6O8JFh7E38wdla`
+Snapshot ID: `AAAAAHa0fSgfJckWdak5q1rOO1L3LiOU`

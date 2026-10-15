@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America\. Cover: Drew Baldridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,156 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,146 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 58 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
 | 59 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 60 | [Kick It In The Sticks](https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:45 |
-| 61 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
-| 62 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
+| 61 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
+| 62 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
 | 63 | [Where Corn Don't Grow](https://open.spotify.com/track/6KFGzQWTcemjtFgjN9yCBf) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Restless Kind](https://open.spotify.com/album/4DAKrRaNrLQvATy0UO4SUJ) | 3:28 |
 | 64 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:17 |
 | 65 | [Country Must Be Country Wide](https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 95 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
 | 96 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 |
 | 97 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
-| 98 | [American Saturday Night](https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:34 |
+| 98 | [Good Vibes](https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Good Vibes](https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett) | 2:45 |
 | 99 | [I Go Back](https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:00 |
-| 100 | [Good Vibes](https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Good Vibes](https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett) | 2:45 |
+| 100 | [American Saturday Night](https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:34 |
 
-Snapshot ID: `AAAAAGz409yL8CBc9Ri8axX5VY/yrV/e`
+Snapshot ID: `AAAAAOUG8MSqcmP5IqBVtHMeHb84eD63`

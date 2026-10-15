@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-565 songs - 1 day 9 hr 6 min
+566 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [DROPS \(feat\. Such\)](https://open.spotify.com/track/6te9jqAYbzj2VAcdXqmpfO) | [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [poplavor](https://open.spotify.com/artist/3wCRaUFj9TwTtbZ6fdKj0K), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [encore \-Emotional Vocal POP 02\-](https://open.spotify.com/album/4YMCeV11IVZR4G5KJIoZTJ) | 3:02 | 2023-07-27 |  |
 | [Drunk](https://open.spotify.com/track/6WI2GsakMUzGf9EGT0Ln5t) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [zero\_one](https://open.spotify.com/album/54wAlSP6p1gVxZmlzAfpiJ) | 3:25 | 2023-10-25 |  |
 | [Eat \(feat\. Ado\)](https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Eat \(feat\. Ado\)](https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G) | 3:24 | 2024-09-07 |  |
+| [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 | 2026-10-14 |  |
 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2024-08-31 |  |
 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 | 2026-02-09 |  |

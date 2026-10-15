@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137 likes - 224 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 224 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 123 | [NETFLIX AND CHILL](https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [NETFLIX AND CHILL](https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR) | 3:40 |
 | 124 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
 | 125 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
-| 126 | [COSMETICOS](https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:21 |
-| 127 | [Hoodie](https://open.spotify.com/track/6wpZ6aUZxirJyTshhuUhkR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:10 |
+| 126 | [Hoodie](https://open.spotify.com/track/6wpZ6aUZxirJyTshhuUhkR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:10 |
+| 127 | [COSMETICOS](https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:21 |
 | 128 | [Si, Ajá](https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 3:18 |
 | 129 | [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 |
 | 130 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 160 | [ME VA KABRXXN](https://open.spotify.com/track/09pwpFDIkZ1FrvEHdmMg6F) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 4:16 |
 | 161 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO](https://open.spotify.com/album/4RO9yfmO1QjZUklszKC4Ts) | 3:10 |
 | 162 | [Quisiera](https://open.spotify.com/track/43e5UvSZY8Dxm1jebsDpOw) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodía Con La Calle, Vol\. 1](https://open.spotify.com/album/3wCZm060spzTvkyCM4X6Kf) | 3:15 |
-| 163 | [Corazón De Metal](https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:53 |
-| 164 | [Baccarat](https://open.spotify.com/track/74ORZ2qrQK0pDL8rzoiuyr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:17 |
+| 163 | [Baccarat](https://open.spotify.com/track/74ORZ2qrQK0pDL8rzoiuyr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:17 |
+| 164 | [Corazón De Metal](https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:53 |
 | 165 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 166 | [Obsesion](https://open.spotify.com/track/3nd5T9R83RsqZO6O9wuQnb) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:13 |
 | 167 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 223 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 224 | [Arrástratre](https://open.spotify.com/track/0GqjbBwlMlVmL46UuEHfn3) | [Naldo](https://open.spotify.com/artist/6DRt41Pol3BrSYwsbiO3Fo), [Negro 3Mil](https://open.spotify.com/artist/3YeAwK3vA1KBV6MMH0U2yH) | [Sangre Nueva 2](https://open.spotify.com/album/0mHhTsYHn8VBPpong8vcQv) | 4:21 |
 
-Snapshot ID: `Ace3cAAAAAA0NeHBlAL6P6fWlbPkOVWc`
+Snapshot ID: `Ace88gAAAADegGXI5hIwxiPVcA330Q6m`

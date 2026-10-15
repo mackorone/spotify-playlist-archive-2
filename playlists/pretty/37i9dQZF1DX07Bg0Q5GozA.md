@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Friedberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,243 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,209 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Air](https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Air / Lemonder / Viper](https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q) | 4:22 |
 | 75 | [Your Lovin'](https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Your Lovin'](https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be) | 3:27 |
 
-Snapshot ID: `AAAAAKyDKrWAFT/9Yx87y0DaATgZCeHX`
+Snapshot ID: `AAAAAE0m0tqcpamj4XJ7FTrqwjF2DmtY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,902 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,916 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 81 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
 | 82 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 |
 | 83 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 |
-| 84 | [Te Odio y Te Quiero](https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 3:26 |
+| 84 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
 | 85 | [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 |
-| 86 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
+| 86 | [Te Odio y Te Quiero](https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 3:26 |
 | 87 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
 | 88 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
-| 89 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
-| 90 | [Cal y Arena](https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI) | [Dionis Fernandez](https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3) | [11 Exitos](https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j) | 4:51 |
+| 89 | [Cal y Arena](https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI) | [Dionis Fernandez](https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3) | [11 Exitos](https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j) | 4:51 |
+| 90 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
 | 91 | [Amor, Amor](https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 4:22 |
 | 92 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 3:46 |
 | 93 | [Soy Dominicano](https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [La Cartita](https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD) | 4:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 |
 | 150 | [Todo Aquello Que Escribí](https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:30 |
 
-Snapshot ID: `AAAAAH5sv0CALHT4+a90xowUp70dSqyR`
+Snapshot ID: `AAAAAMvgXmXmzAOG5nrVa9afnoTbaVAM`

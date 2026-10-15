@@ -24335,6 +24335,24 @@
     },
     {
       "album": {
+        "name": "Mothers & brothers",
+        "url": "https://open.spotify.com/album/2BPzkok0uwB8dYxfR5vFgB"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Languages",
+          "url": "https://open.spotify.com/artist/7FoJkfBit7OeAhKRFcpcRN"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mothers & brothers",
+      "url": "https://open.spotify.com/track/6f2a5vbh3sNHdo0lNDq3gI"
+    },
+    {
+      "album": {
         "name": "motori",
         "url": "https://open.spotify.com/album/4Cr84DvmsMTMRZCdGwtc5C"
       },

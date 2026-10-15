@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,384 likes - 149 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,566 likes - 149 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 148 | [Simple Pleasures](https://open.spotify.com/track/6T8bDagGPseQN443XT93yr) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Simple Pleasures](https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy) | 4:51 |
 | 149 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 |
 
-Snapshot ID: `AAAAAKrsnAsKbGfd4X3NkDefylKeFCwd`
+Snapshot ID: `AAAAAOlGVfjEfnUAvffrDUue3itHeb7K`

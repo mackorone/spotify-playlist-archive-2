@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 176536,
+  "num_followers": 176549,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABC+JPHys07EoVaKlS1vuit",
+  "snapshot_id": "as10gAAAAACeo6llWhF0AhtSoXDkzdmh",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Get Outta My Way",
-      "url": "https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 286706,
       "name": "Kids",
       "url": "https://open.spotify.com/track/21pvCJBSp34fC17YHOtw05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Get Outta My Way",
+      "url": "https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "last night i dreamt i fell in love",
         "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 126923,
       "name": "last night i dreamt i fell in love",
       "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "Light Up (From the Netflix Documentary 'Kylie')",
+        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
+      "duration_ms": 197538,
+      "name": "Light Up (From the Netflix Documentary 'Kylie')",
+      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Up (From the Netflix Documentary 'Kylie')",
-        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Light Up (From the Netflix Documentary 'Kylie')",
-      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,

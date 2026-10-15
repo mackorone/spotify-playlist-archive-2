@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mucho cuidado con Venus retrógrado! FLVCKKA en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,190 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,194 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fentaniñas \(Banana Klip\)](https://open.spotify.com/track/2wUDH1y0SfI4JBEiOgll7k) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Hypercorridos Vol1](https://open.spotify.com/album/1GlJylGEPw5D6cfza8hXU2) | 1:24 |
+| 1 | [Fentaniñas \(Banana Klip\)](https://open.spotify.com/track/2wUDH1y0SfI4JBEiOgll7k) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Hypercorridos Vol.1](https://open.spotify.com/album/1GlJylGEPw5D6cfza8hXU2) | 1:24 |
 | 2 | [Atte El Insuperable](https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 2:55 |
 | 3 | [Bajón Emocional](https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Bajón Emocional](https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm) | 3:17 |
 | 4 | [Amor De Cuatro Paredes](https://open.spotify.com/track/1ZXnteLmq7k3b0OvsPrTZn) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Amor De Cuatro Paredes](https://open.spotify.com/album/6eRdPjQMeMUCntIDeWSLTN) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 79 | [¿qué será?](https://open.spotify.com/track/6C6YarqI5N9Bqop7a2JV0w) | [MALA MAÑA](https://open.spotify.com/artist/6oEnb01go5SoSwwyo8wbRa) | [¿qué será?](https://open.spotify.com/album/7jrMU6D9Ggo0J5yumk5rWn) | 2:29 |
 | 80 | [Ya No Eres Igual](https://open.spotify.com/track/5XNFKGjuRjam3MvwScIIRY) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Ya No Eres Igual](https://open.spotify.com/album/3z8E5epQ2bjvpgB9NIHh1a) | 3:10 |
 
-Snapshot ID: `AAAAACCFslYGIdDs3y+7jZHYZllGblPH`
+Snapshot ID: `AAAAAJdckhKC6guYm/1Fr65xp3pq7zm8`

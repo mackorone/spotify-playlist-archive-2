@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,789 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,814 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 33 | [Ya Zaman](https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Ya Zaman](https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW) | 4:17 |
 | 34 | [Btazkor Bel Layl](https://open.spotify.com/track/5qa7qeIhhgDQpspgxZs9V5) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Eella \(Music from the Play\)](https://open.spotify.com/album/0jOwn20BQkhAS9vs7VnPMz) | 3:47 |
 | 35 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
-| 36 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
-| 37 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
+| 36 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
+| 37 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
 | 38 | [si3r il 7ob \- سعر الحب](https://open.spotify.com/track/0fbfCoWPyrbxOuZt1GFYwO) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [AWDA \- عودة](https://open.spotify.com/album/3hXBH2apQYcgAzJ4abv5Aj) | 4:26 |
 | 39 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 |
 | 40 | [Fi hagat \(I love you\)](https://open.spotify.com/track/6N2WLWIbo7LO6GdMrBlJAe) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Fi hagat \(I love you\)](https://open.spotify.com/album/1oulttaZFG9C95Sv0DkhZS) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 74 | [Fe Albi Makan](https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Habayeb Zaman](https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h) | 5:07 |
 | 75 | [Osad Einy](https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tea Time](https://open.spotify.com/album/0XqCCOQsueU7orG8EDgEXn) | 4:24 |
 
-Snapshot ID: `AAAAACn9ISUu+3bRqemtKLKFg4MQO9g1`
+Snapshot ID: `AAAAAGQL14Ae2WAKw3YPhjtAry70OzEt`

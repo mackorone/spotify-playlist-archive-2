@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Україна](https://open.spotify.com/playlist/37i9dQZF1DX79XZx3Ijh6O)
 
-> Найліпша музика від українських артистів\-початківців\. Обкладинка: Я Тоня
+> Найліпша музика від українських артистів\-початківців\. Обкладинка: SORRYNOLUCKY
 
-607 songs - 1 day 6 hr 30 min
+610 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [99 PROBLEMS](https://open.spotify.com/track/5u67vBXgCC6O0GprWUq9Fa) | [ELIWOOD](https://open.spotify.com/artist/2qT1K7I9k5XBi4zCdrsnGu), [Breaker Beats](https://open.spotify.com/artist/1QBDIUVpYXzT9SvGjGRbrC) | [99 PROBLEMS](https://open.spotify.com/album/1n2WLnOQEAWfrHsLyCk3IS) | 2:00 | 2025-11-04 | 2025-12-03 |
 | [angel](https://open.spotify.com/track/3qwY9DRz60C2t7Br7rMYGF) | [The Multiverse](https://open.spotify.com/artist/7b0VwfMQk9Pv0Q2Hsi2eiE) | [angel](https://open.spotify.com/album/3yWOYC6LsYFol5YUF6x3wW) | 3:14 | 2025-10-07 | 2025-11-12 |
 | [Bitch from Beverly Hills](https://open.spotify.com/track/0yxtZTW9myjH6zRIjPcwpI) | [Olyaska](https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J) | [Bitch from Beverly Hills](https://open.spotify.com/album/6s3mFSgCX76UsCpatKvXXW) | 2:54 | 2026-01-27 | 2026-03-19 |
+| [Blind](https://open.spotify.com/track/4zmITKHkQrph8pKOWn22r7) | [Bah\-Bah Genesis](https://open.spotify.com/artist/4cuCwzJJZTGpvlCb2yZVI9) | [L'eau Nouvelle](https://open.spotify.com/album/0hYdwJHiGqfiIXcTyGAFVI) | 3:50 | 2026-10-14 |  |
 | [Brat](https://open.spotify.com/track/1ECaPmIcNX1jQCKRSmbIVw) | [OTAKOЇ](https://open.spotify.com/artist/1XFUlGvrUdVEkWkImS2pNk) | [Brat](https://open.spotify.com/album/3GMEbKZ1iHHJW07izUh4Ng) | 2:12 | 2025-10-07 | 2025-10-15 |
 | [Burning](https://open.spotify.com/track/1iVkZJKQg9fhGVK8IZLcPL) | [ge.ra](https://open.spotify.com/artist/2Tn9tFo0hQsFR6pIr3ilJW) | [My Suffering‘s Thoughts](https://open.spotify.com/album/490MrdEncH0VHLSDiOK4Jt) | 2:35 | 2025-10-14 | 2025-11-20 |
 | [Call me baby](https://open.spotify.com/track/4eGjEmszXmCXXihZxzCRLG) | [monolisa](https://open.spotify.com/artist/2fzeZ8TWvV4nKiruUKeLHt) | [Call me baby](https://open.spotify.com/album/64CyLN3vwARx2Eh8sgHyRb) | 3:52 | 2025-10-28 | 2025-11-27 |
@@ -328,7 +329,7 @@
 | [не вистачає хвилини](https://open.spotify.com/track/4tmWXAnzZGWzIfTT0wfpu5) | [Teddy Trapped](https://open.spotify.com/artist/6issWlB0WQ2yaapGpLntdo) | [не вистачає хвилини](https://open.spotify.com/album/3ndOJDR64LJq39FaUvDQyF) | 3:08 | 2025-12-09 | 2026-01-28 |
 | [Не втримаю більше](https://open.spotify.com/track/7tk7JTxcVfeodTc654ismh) | [homepunkk](https://open.spotify.com/artist/1Iojpi4JD9BGWR3hUCfeao) | [Не втримаю більше](https://open.spotify.com/album/6UgvU8L0hvqhMhFs4AOUHU) | 2:55 | 2025-12-17 | 2026-02-04 |
 | [Не відпускай](https://open.spotify.com/track/6QAQC17vpf8atZmVS9VNwc) | [e\-ho](https://open.spotify.com/artist/7fVPnu1qcLQXHKZKgA3hXu) | [Не відпускай](https://open.spotify.com/album/4UiPJ5usyIpB7Cpggo8K9o) | 2:43 | 2025-11-19 | 2025-12-18 |
-| [Не залиш \(Szívverés\)](https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu) | [Marie Hellstein](https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA) | [Не залиш \(Szívverés\)](https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN) | 3:02 | 2026-07-29 |  |
+| [Не залиш \(Szívverés\)](https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu) | [Marie Hellstein](https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA) | [Не залиш \(Szívverés\)](https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN) | 3:02 | 2026-07-29 | 2026-10-15 |
 | [Не зникни](https://open.spotify.com/track/6sqSjcG7eUKbzAAdCXW4oy) | [dari march](https://open.spotify.com/artist/5n4I8EuJLtIR6nxCiz8ZzN) | [Не зникни](https://open.spotify.com/album/6U6ILEgk5zaowWUAKXZQbT) | 3:20 | 2025-12-02 | 2026-01-15 |
 | [не комплімент](https://open.spotify.com/track/1FzLBpiW6p6fOUn06ObPRz) | [sisterlybid](https://open.spotify.com/artist/21i6jx2WiaohwOQQBDoRm5) | [не комплімент](https://open.spotify.com/album/1AbCfy5g4pBHA3K8R8P5ma) | 3:27 | 2026-07-01 | 2026-08-12 |
 | [Не кохала](https://open.spotify.com/track/1TNGaGmIRCvGyPSprdVVil) | [Pugy](https://open.spotify.com/artist/3wicRScu7lWeanecAjrXhp) | [Не кохала](https://open.spotify.com/album/5WxNjSrEgFfCK5VBQiF6HG) | 2:56 | 2026-08-26 |  |
@@ -390,7 +391,7 @@
 | [Перегорів](https://open.spotify.com/track/70oCvz6R60rkcOcgIrrr74) | [HORIZON](https://open.spotify.com/artist/2uo2uMDLCEoSprjWkDgFIJ), [JustFaded](https://open.spotify.com/artist/6xsWOucgs9jUHek6oUvNqx) | [Перегорів](https://open.spotify.com/album/4iSaKGnvrXg1Wg1CUc6U7e) | 2:32 | 2025-10-07 | 2025-10-22 |
 | [перегруз](https://open.spotify.com/track/7hyVzm9ILVKHEmJ5fJz9m8) | [Душевна Організація](https://open.spotify.com/artist/2p5bPTWtPL1Lsy6UuWknI0) | [перегруз](https://open.spotify.com/album/0FOaaS0nJeFCSBa7Ud7vox) | 3:13 | 2026-08-26 |  |
 | [Передчуття](https://open.spotify.com/track/4aYrrr5W6Xo8IuCDydme3s) | [Ortea](https://open.spotify.com/artist/1HCPxmb0WFMbUWUHNoumjy), [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Передчуття](https://open.spotify.com/album/085kmGbQtGWFbREiGdG7Oa) | 1:53 | 2025-12-02 | 2026-01-21 |
-| [ПЛАКАТИ](https://open.spotify.com/track/23Ui0tltKjGH3aqbHMPsEm) | [SEXTUR](https://open.spotify.com/artist/0RD9SzfRYxzcvoxBcYJcNc) | [ПЛАКАТИ](https://open.spotify.com/album/5Gc9lgHdgTlnHD4qPbNKxE) | 3:00 | 2026-07-21 |  |
+| [ПЛАКАТИ](https://open.spotify.com/track/23Ui0tltKjGH3aqbHMPsEm) | [SEXTUR](https://open.spotify.com/artist/0RD9SzfRYxzcvoxBcYJcNc) | [ПЛАКАТИ](https://open.spotify.com/album/5Gc9lgHdgTlnHD4qPbNKxE) | 3:00 | 2026-07-21 | 2026-10-15 |
 | [Плач і дивись](https://open.spotify.com/track/5AvDhxuaYXue3hlZPmcxZ5) | [Меланхолі\-Я](https://open.spotify.com/artist/3qoEu7vkf4hTDm7Y4UQzWY) | [Плач і дивись](https://open.spotify.com/album/6JC2Vk8CgfhNs4YeOQD4Mm) | 2:48 | 2026-07-01 | 2026-08-12 |
 | [Плащ](https://open.spotify.com/track/4FYI4ca8DHoVIZIwDB2vRG) | [ICEBRG](https://open.spotify.com/artist/0qI9T61RPUVHu0jgSmr1pp) | [Плащ](https://open.spotify.com/album/22JarMquuix7GoZ2nzW1i7) | 2:53 | 2026-01-13 | 2026-03-26 |
 | [Плями](https://open.spotify.com/track/7je6EMadNQGEMiJ0witt7X) | [mercurikill](https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl) | [Плями](https://open.spotify.com/album/7zzw7SHcBfVqsyJmHOImP8) | 1:34 | 2026-03-11 | 2026-04-15 |
@@ -460,6 +461,7 @@
 | [світивши всім, згораю швидко](https://open.spotify.com/track/7m3KYUVA6tl2ZkvpPi1nxa) | [дисперсія](https://open.spotify.com/artist/2TvM07LdCZ7QTy90PFWIOc) | [світивши всім, згораю швидко](https://open.spotify.com/album/4yqddQgvpXY7IxweJiOrF3) | 7:00 | 2025-11-26 | 2026-01-15 |
 | [СЕКРЕТНЕ МІСЦЕ](https://open.spotify.com/track/0l1WeIZLKR0DjrkcwhJbo9) | [Покам](https://open.spotify.com/artist/3qnCAUaV120kzE2Ajwlgpk), [Lasta](https://open.spotify.com/artist/2kyU1hUi9LUF2nDk4XY7jy), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [СЕКРЕТНЕ МІСЦЕ](https://open.spotify.com/album/2tNvu4HqD2OrWp8B2BVct8) | 2:24 | 2026-03-18 | 2026-04-01 |
 | [сепуку](https://open.spotify.com/track/1llNmkD9I4fkicO1MRX4xx) | [ніщо](https://open.spotify.com/artist/2EvTbGozen8nATUn70qYAM) | [сепуку](https://open.spotify.com/album/2rNMPHov3OIJKzexo5O4IW) | 3:30 | 2025-10-07 | 2025-10-22 |
+| [Серденько](https://open.spotify.com/track/5YZsEanNQlh9Kf1nhNsoo6) | [Zlypni](https://open.spotify.com/artist/44arGyM7t8f5j56J7xPc1f) | [Серденько](https://open.spotify.com/album/07H82rbedWIn74bQL5XOYZ) | 6:03 | 2026-10-14 |  |
 | [Серце хоче радикальних змін](https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Серце хоче радикальних змін](https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D) | 3:35 | 2026-03-31 | 2026-06-10 |
 | [Сила тертя](https://open.spotify.com/track/70vW92ECvZBnjE9zhvc3Yj) | [KOVA KAJI](https://open.spotify.com/artist/2k8PaPfIdBT1AWPz3KPLig) | [Сила тертя](https://open.spotify.com/album/4lxpAQ5HvNIu8SelF3NLW4) | 2:52 | 2026-01-27 | 2026-04-01 |
 | [синя ізо](https://open.spotify.com/track/7ovCVOZpjult1obW62RjNK) | [nesmak](https://open.spotify.com/artist/5G3gnjPyNw07wuoAKQxE69) | [синя ізо](https://open.spotify.com/album/79IAa25WmOxSKYc5I8O2Ci) | 1:46 | 2026-01-13 | 2026-03-12 |
@@ -542,7 +544,7 @@
 | [хвилі](https://open.spotify.com/track/2Sh9sycdejBpb9YXngtaGr) | [Teddy Trapped](https://open.spotify.com/artist/6issWlB0WQ2yaapGpLntdo) | [хвилі](https://open.spotify.com/album/3QQapVjKVpBQDLLqWP7mR3) | 2:31 | 2026-01-20 | 2026-03-04 |
 | [Хвилі](https://open.spotify.com/track/1xR3GJBaTDBEjbPfP1GZKA) | [Woman Based Mechanics](https://open.spotify.com/artist/0HAHqBJrbpBocXeVJ90NoO) | [Хвилі](https://open.spotify.com/album/7Hftm5ckmniZvrQGfqnp6b) | 3:01 | 2026-08-26 |  |
 | [хлам](https://open.spotify.com/track/3Ffhb892LBkrMV4Y64ch0f) | [sportcafé](https://open.spotify.com/artist/0lRAWX3ZRmeqA99rqvuur5) | [go\-punk](https://open.spotify.com/album/3qlYiAzMgnJAfHt6ZXFVIh) | 5:05 | 2026-04-07 | 2026-05-20 |
-| [хлопчики люблять](https://open.spotify.com/track/5mCMGgn3jfaHB8K3XDBtWT) | [otzheman](https://open.spotify.com/artist/676Mu8wGdB5dH1IBUzDVcd) | [хлопчики люблять](https://open.spotify.com/album/7MpxIFS6rVMi4W6O0QNJdy) | 1:42 | 2026-08-11 |  |
+| [хлопчики люблять](https://open.spotify.com/track/5mCMGgn3jfaHB8K3XDBtWT) | [otzheman](https://open.spotify.com/artist/676Mu8wGdB5dH1IBUzDVcd) | [хлопчики люблять](https://open.spotify.com/album/7MpxIFS6rVMi4W6O0QNJdy) | 1:42 | 2026-08-11 | 2026-10-15 |
 | [Хованки](https://open.spotify.com/track/1uWE1YGJsdRZ9QLEDjdbIc) | [Перекур](https://open.spotify.com/artist/12dfl6Jf0b74rpixF5ryIg) | [Хованки](https://open.spotify.com/album/60pWnUvxR4mmx46p176Irz) | 2:50 | 2026-06-02 | 2026-07-22 |
 | [Холодно](https://open.spotify.com/track/4wQEVfsRITuCmEjvzBsOnx) | [Liyaa](https://open.spotify.com/artist/1UpeyGVGl95sbWnYe0ts1d) | [Холодно](https://open.spotify.com/album/5vswhgJPmj7fZnPbs7LI91) | 3:33 | 2026-05-12 | 2026-07-08 |
 | [Холодно\-тепло](https://open.spotify.com/track/76oi09DpJk0S1LgFoyZz6t) | [Rusnak](https://open.spotify.com/artist/1FGugryYafvHcUqrZuA4vT), [ДВОРНЯГА](https://open.spotify.com/artist/5ru4ZdELi4F9sGps6pGhjH) | [Холодно\-тепло](https://open.spotify.com/album/78iLgknhq8LlY9B0hf6xgV) | 3:12 | 2026-01-13 | 2026-02-12 |
@@ -604,6 +606,7 @@
 | [як горить любов](https://open.spotify.com/track/4JaKkXoZGymFca83XW5bYu) | [ОНІСУКА ТАЙГЕР](https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM) | [як горить любов](https://open.spotify.com/album/74c01fXrITjnXNyvlQZsga) | 3:05 | 2025-10-14 | 2025-11-12 |
 | [Як завжди](https://open.spotify.com/track/4bNWMcXQoVq8AyAJbU8JWF) | [Потікша Фляга](https://open.spotify.com/artist/5o00M6Lgt3BMqA0Uh07Aty) | [Як завжди](https://open.spotify.com/album/3eAJD2uBNEZ2Z868UbfZLb) | 3:05 | 2026-07-01 |  |
 | [Як я мала була](https://open.spotify.com/track/0DcCt6AMTl5fMGw7odjn4l) | [Ana Pri](https://open.spotify.com/artist/5jIUNXzQR7F0uULOwRV9If) | [Як я мала була](https://open.spotify.com/album/68Oi1pBTZka32otL30qcOV) | 2:50 | 2026-05-12 | 2026-08-27 |
+| [якщо ти вже квітнеш](https://open.spotify.com/track/4W2iG6SVSQBxd1tMzItwOu) | [Hippocampi](https://open.spotify.com/artist/17BMgPpvO63AAtdKyIefjh) | [якщо ти вже квітнеш](https://open.spotify.com/album/08oDml3zjrvcfgbSig57E7) | 2:36 | 2026-10-14 |  |
 | [яріматілатвала](https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa) | [пуленбір](https://open.spotify.com/artist/3a0KMTr7p0eHISBvONnkae) | [яріматілатвала](https://open.spotify.com/album/5F4thnoF6WUjnYQOyqHDmI) | 3:11 | 2026-05-06 | 2026-07-30 |
 | [Єдиний](https://open.spotify.com/track/3siNujvPoyJWMKlEG6A3Ib) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK), [плерома](https://open.spotify.com/artist/7CfQEhZGy9ib4mrf6hXgtQ) | [Єдиний](https://open.spotify.com/album/0Jijm1CAkzTCvw6cg8dARn) | 5:21 | 2025-10-07 | 2025-11-05 |
 | [Єретик](https://open.spotify.com/track/2XDgB962Z9p1EdJVjZpxNJ) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek) | [Тарас vol.1](https://open.spotify.com/album/3smHuo9Ni7u7SxFpVp4D96) | 1:34 | 2025-11-26 | 2026-01-15 |

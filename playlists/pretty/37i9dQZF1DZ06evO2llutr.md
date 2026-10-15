@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,486 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,822 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 10 | [Motorcycle Drive By](https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:41 |
 | 11 | [Revival](https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:41 |
 | 12 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 |
-| 13 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
-| 14 | [28](https://open.spotify.com/track/6dANcQ00uiiWoBDYVrsGvz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:53 |
+| 13 | [28](https://open.spotify.com/track/6dANcQ00uiiWoBDYVrsGvz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:53 |
+| 14 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
 | 15 | [East Side of Sorrow](https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:29 |
 | 16 | [Say Why](https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:23 |
 | 17 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 35 | [Bad News](https://open.spotify.com/track/06oRwfBISxd06rozMDDogR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:16 |
 | 36 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 |
 | 37 | [Tishomingo](https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:08 |
-| 38 | [Let You Down](https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:29 |
-| 39 | [God Speed](https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 4:13 |
+| 38 | [God Speed](https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 4:13 |
+| 39 | [Let You Down](https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:29 |
 | 40 | [Dry Deserts](https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:31 |
 | 41 | [Heavy Eyes](https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:10 |
-| 42 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 |
-| 43 | [All the Time](https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
+| 42 | [All the Time](https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
+| 43 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 |
 | 44 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 |
 | 45 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/61GJoJVPyP7YPBIsGd3ZKX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:32 |
-| 46 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 |
-| 47 | [Crooked Teeth](https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
-| 48 | [Jamie \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
+| 46 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 |
+| 47 | [Jamie \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
+| 48 | [Crooked Teeth](https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
 | 49 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/39jaMEXqY45at7te6OpskG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:36 |
-| 50 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 |
+| 50 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 |
 
-Snapshot ID: `asrRgAAAAABCJvSVqDI/xgwywaTQmFsR`
+Snapshot ID: `as10gAAAAAB4Wf0O09/IQLH0hGRKDX5M`

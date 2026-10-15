@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,595 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,596 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 41 | [Debi Debi](https://open.spotify.com/track/3DBUP3NhXJOE0lPYoERXQq) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Debi Debi](https://open.spotify.com/album/3h0BB7t1UmzdEMTZfB3lbc) | 5:24 |
 | 42 | [Nuru](https://open.spotify.com/track/3tH6n9kfhjOd8PHZIpHdn8) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ian Ludvig](https://open.spotify.com/artist/7niJIv5jViZQtDaCEYd1K4) | [Elle / Nuru](https://open.spotify.com/album/5raHUenbV1XHOEQnGFJnj2) | 2:58 |
 | 43 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
-| 44 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
+| 44 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
 | 45 | [Na Wose \(Afro Tech\) \- Radio Edit](https://open.spotify.com/track/7yLxYyvuAJWcLpJmFre49S) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Na Wose \(Afro Mixes\)](https://open.spotify.com/album/0rIQEJCVJCw4X7GA0yTYxN) | 3:50 |
 | 46 | [Sound Of Drums](https://open.spotify.com/track/1G4ITAFN5ysOCkasmi4Eom) | [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME), [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP) | [Sound Of Drums](https://open.spotify.com/album/2GeoElEWD6TPsbxCdorMmr) | 5:20 |
 | 47 | [Everyday](https://open.spotify.com/track/5xKQBFQJ6WGXT3QEiEvVHK) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Del Arte](https://open.spotify.com/artist/6RWLdCpXycl0ua3L23grAZ), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Everyday](https://open.spotify.com/album/2A2ab9fDZbSD2y2gBMRJf3) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 |
 | 100 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 |
 
-Snapshot ID: `AAAAAJaxzgF/ItRUaSzvWQnYvpJ9UtFX`
+Snapshot ID: `AAAAAGLOZI6a96bSQmYKUx79UVusPLam`

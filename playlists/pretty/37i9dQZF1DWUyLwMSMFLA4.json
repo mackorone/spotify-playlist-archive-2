@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 659183,
+  "num_followers": 659208,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADG/Ftlv8XHof652nLwN37/I085G",
+  "snapshot_id": "AAAAABGEGdfbG6X5VDuHa+Q98LdiQhJa",
   "tracks": [
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Le Doy Gracias a la Vida (Y a Todos)",
         "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Amor De Chat (Remix)",
         "url": "https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 185142,
       "name": "Amor De Chat - Remix",
       "url": "https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Rico y Suave",
         "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 160262,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Con S\u00edndrome de Abstinencia",
         "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2026-08-07 13:45:51",

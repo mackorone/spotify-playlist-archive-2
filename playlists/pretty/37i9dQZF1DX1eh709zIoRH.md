@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 
 > Certified hits\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,496 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,487 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 37 | [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 |
 | 38 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 |
 | 39 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
-| 40 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
-| 41 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
+| 40 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
+| 41 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 42 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 |
 | 43 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 |
 | 44 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 62 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 63 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 |
 | 64 | [CALYPSO](https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [CALYPSO](https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO) | 3:08 |
-| 65 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 |
-| 66 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
+| 65 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
+| 66 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 |
 | 67 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
 | 68 | [Jersey King](https://open.spotify.com/track/6kzk0q8DGUFKEkn9BHf13P) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Jersey King](https://open.spotify.com/album/7tWLugjXuivR9MEGOuPklk) | 2:18 |
 | 69 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 79 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 |
 | 80 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
 
-Snapshot ID: `AAAAABhXs5bRPKjOglmO9CxgSYxw/1RP`
+Snapshot ID: `AAAAACanbpI5G59Ld/8magbnRKMX8QFA`

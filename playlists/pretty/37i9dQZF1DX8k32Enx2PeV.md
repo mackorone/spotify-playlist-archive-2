@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,509 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,521 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 46 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 |
 | 47 | [Namorar \- Remix](https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Pumba Dos Santos](https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Namorar \(Remix\)](https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO) | 3:46 |
 | 48 | [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 |
-| 49 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |
-| 50 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
+| 49 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
+| 50 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |
 | 51 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
 | 52 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
 | 53 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 61 | [Eso Vaa](https://open.spotify.com/track/5wMoKneqcYJoHqHntkiLxd) | [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [FRUTTI](https://open.spotify.com/album/7BC1dycMsk72yMpZ3cXnu9) | 2:40 |
 | 62 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
 | 63 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 |
-| 64 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
-| 65 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 64 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 65 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
 | 66 | [Partycito](https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Partycito](https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk) | 2:33 |
 | 67 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
 | 68 | [Cuando Te Vi](https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Cuando Te Vi](https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac) | 2:57 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 89 | [Juguito de Mañana](https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Juguito de Mañana](https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW) | 3:42 |
 | 90 | [Porrito y a Dormir](https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG) | 3:18 |
 
-Snapshot ID: `AAAAAKtdqwHnJFh1yM2Bw4XM/BsMvVll`
+Snapshot ID: `AAAAAPZ8Gvx199gfkiFeCQzg0j7Wk4wo`

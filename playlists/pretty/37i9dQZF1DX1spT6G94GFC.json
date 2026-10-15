@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4101263,
+  "num_followers": 4101345,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABlrHTiTP8y2VSuSvEIhGsvUwt4c",
+  "snapshot_id": "AAAAAHH8Bue8vDeHh0IlYgAPw900J45h",
   "tracks": [
     {
       "added_at": "2024-09-13 16:58:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
     },
     {
       "added_at": "2024-09-13 16:58:23",

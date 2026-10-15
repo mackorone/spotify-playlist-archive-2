@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Basht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,774 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,694 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 |
 | 80 | [Good Fortune](https://open.spotify.com/track/1wlzx2qdBH3SESjGCmScVE) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Good Fortune](https://open.spotify.com/album/2NSRxoaGY9dxPJ0f3Rpelk) | 3:07 |
 
-Snapshot ID: `AAAAAOW6JrrHE3Je3X7S9blMRrUKydbq`
+Snapshot ID: `AAAAAKoTWIgMXRnYok4pSpUPD5+bt4Sd`

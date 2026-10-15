@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,815 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,727 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Sin](https://open.spotify.com/track/1Pd976l3ctq3Ru7UDeLQcT) | [Helin](https://open.spotify.com/artist/1qnmS1PwB1dcvBqwvRZmmK) | [Sin](https://open.spotify.com/album/5TtXtzoTwvd4PA3BEGUuGn) | 2:33 |
 | 75 | [TEA](https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [TEA](https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj) | 3:12 |
 
-Snapshot ID: `AAAAAFYGD9KMvb7/mIfNq17Susln65hd`
+Snapshot ID: `AAAAACYI5q5B/+Cz/h6Z0KkIybrEI2QJ`

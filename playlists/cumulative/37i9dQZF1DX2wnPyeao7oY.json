@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DOGBITE",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Calva Louise",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 207276,
       "name": "$eduction",
       "url": "https://open.spotify.com/track/1bVfcwTz2jW8zY4GDSTOKs"
@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "Enderlin",
+        "url": "https://open.spotify.com/album/1PUG0DccAN086uqonONmI0"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203728,
+      "name": "Enderlin",
+      "url": "https://open.spotify.com/track/2g9G96y5Yw9JSZTbn2QglO"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/4Tuji7aho6GeRQ9dZKd1K6"
       },
@@ -7971,6 +7989,28 @@
     },
     {
       "album": {
+        "name": "I End",
+        "url": "https://open.spotify.com/album/4nDDnTTaN3hLzrw3vpmEgi"
+      },
+      "artists": [
+        {
+          "name": "God Alone",
+          "url": "https://open.spotify.com/artist/0n21GeRyqvoD6q21UVtBHg"
+        },
+        {
+          "name": "Tayne",
+          "url": "https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "I End",
+      "url": "https://open.spotify.com/track/049vOoxJLxwu8HHhxPW4iD"
+    },
+    {
+      "album": {
         "name": "I Feel the Night",
         "url": "https://open.spotify.com/album/6UlqlUXm4XxCJMElrUgJ4N"
       },
@@ -9052,6 +9092,24 @@
       "duration_ms": 220493,
       "name": "La fin",
       "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
+    },
+    {
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191543,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
     },
     {
       "album": {
@@ -12726,7 +12784,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 287666,
       "name": "Ready For The Grave",
       "url": "https://open.spotify.com/track/46vWgdKyzHy1wpvleZ2gzw"
@@ -13428,7 +13486,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 158008,
       "name": "SEE YOU NEXT TUESDAY",
       "url": "https://open.spotify.com/track/01V8P4mpdeXZ0nYKl7u2qG"
@@ -14844,7 +14902,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-15",
       "duration_ms": 182967,
       "name": "STFU",
       "url": "https://open.spotify.com/track/5wJ3cSt6hV1kvR8djkr6NC"
@@ -16780,6 +16838,24 @@
       "duration_ms": 206313,
       "name": "Tra la Sabbia e il Vento | Become the Sun",
       "url": "https://open.spotify.com/track/1ihM2aE1AgMShZariZCH1r"
+    },
+    {
+      "album": {
+        "name": "Unwelcome Guest",
+        "url": "https://open.spotify.com/album/4LchU9bc3MTZbssgHixTXN"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131324,
+      "name": "Track One",
+      "url": "https://open.spotify.com/track/7xsdZM3k86ugE1fqIo6BO2"
     },
     {
       "album": {

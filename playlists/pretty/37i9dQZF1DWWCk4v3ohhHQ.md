@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,096 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,119 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 14 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 15 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 | 16 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
-| 17 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
-| 18 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
+| 17 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
+| 18 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
 | 19 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 |
 | 20 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
 | 21 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 82 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 |
 | 83 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 |
 | 84 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
-| 85 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
+| 85 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
 | 86 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
-| 87 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
+| 87 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 88 | [Red Hands](https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 3:00 |
 | 89 | [Catch Me If You Can](https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:21 |
 | 90 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Shine A Light](https://open.spotify.com/track/5Op9PcisNc0oGnS4dysmbu) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP) | 3:26 |
 | 100 | [Love Don't Die](https://open.spotify.com/track/328vwrjOdWDdsU3Ekod8Kf) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Love Don't Die](https://open.spotify.com/album/7nfVuiEJzJMrh1ghnyCeMR) | 3:03 |
 
-Snapshot ID: `AAAAABELpSpTh3jmDgmid41Gl7bh5ro/`
+Snapshot ID: `AAAAAIV6sh5SVogK5e7u7Yl9JHKX24AX`

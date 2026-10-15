@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️ Lo nuevo y lo mejor de la salsa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,852,683 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852,544 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 71 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
 | 72 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
 | 73 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 74 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
-| 75 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
+| 74 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
+| 75 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
 | 76 | [Para Siempre \- Salsa Version](https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Para Siempre \(Salsa Version\)](https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8) | 4:29 |
 | 77 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
 | 78 | [Doble Vida](https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 96 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
 | 97 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 |
 | 98 | [Llorar Bonito](https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Llorar Bonito](https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT) | 3:55 |
-| 99 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
+| 99 | [Es Ajena](https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz) | [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn), [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Es Ajena](https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI) | 3:51 |
 | 100 | [Así Es la Vida](https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Mis Favoritas](https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ) | 4:41 |
 
-Snapshot ID: `AAAAAIQKAjCPIYexL2AtfYZmqdm0QXFG`
+Snapshot ID: `AAAAAP9QVKlO/QOpf2xrUj6bzmaap6Bm`

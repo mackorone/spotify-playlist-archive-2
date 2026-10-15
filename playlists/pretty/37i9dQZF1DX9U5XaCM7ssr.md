@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,016 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,998 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 47 | [Sampai Menutup Mata](https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:48 |
 | 48 | [Nala](https://open.spotify.com/track/3AdEZRmsa3zviTr2Whx3zI) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:20 |
 | 49 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
-| 50 | [Kasih Tak Sampai](https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Sesuatu Yang Tertunda](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1) | 4:53 |
+| 50 | [Cinta Terbaik](https://open.spotify.com/track/0Afs1hDADIDxx31FyJIEXm) | [Cassandra](https://open.spotify.com/artist/0BUTvSwaoKcP9ucuEyyYpr) | [Cinta Terbaik](https://open.spotify.com/album/1QZ1303FrXfo2SJJa6UC5K) | 4:01 |
 
-Snapshot ID: `AAAAACoCA5LNc5LoD7aiAnv+rKgcar9T`
+Snapshot ID: `AAAAAJHIVSUKMOBL9d7RwIugwPFNSa/n`

@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-181 songs - 13 hr 55 min
+182 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Mangabolo](https://open.spotify.com/track/2X3aeCAYA69DYF3XAFoylg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [King Makossa](https://open.spotify.com/album/5SFwedm4sBkGcZGiql9VnB) | 10:20 | 2026-08-26 | 2026-08-28 |
 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 | 2026-06-14 | 2026-08-20 |
 | [Matumba](https://open.spotify.com/track/6M2b0wI176DMm7Gcld7sKE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Matumba](https://open.spotify.com/album/7we1iGn3aoWir5NvaxA1eo) | 4:36 | 2026-07-19 |  |
-| [Maya Ma Bobe](https://open.spotify.com/track/0DVrKgp1vKlJS9U8sjXecG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 7:58 | 2026-10-13 |  |
+| [Maya Ma Bobe](https://open.spotify.com/track/0DVrKgp1vKlJS9U8sjXecG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 7:58 | 2026-10-13 | 2026-10-15 |
 | [Mboa](https://open.spotify.com/track/2RCNYsMZoiX14c3TNCGw46) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:53 | 2022-01-04 | 2022-10-14 |
 | [Mboa Su](https://open.spotify.com/track/0QuidPUEQSwbek3BHVojrr) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 4:27 | 2026-04-05 |  |
 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 | 2023-04-29 | 2023-07-12 |
@@ -158,6 +158,7 @@
 | [Shakara / Lady, Pt\. 2](https://open.spotify.com/track/2nrMpo1UZZkoC2mZXjWYZZ) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Les Nubians](https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Chateau Flight](https://open.spotify.com/artist/6mtCXhF5yj1GUsQItDNDwr) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 4:47 | 2025-12-31 | 2026-01-30 |
 | [Shake It Up](https://open.spotify.com/track/6cfmgoNQyklgCO52f6RHTT) | [Urban Recall](https://open.spotify.com/artist/1JbWVXXqimUrZshCMOa20z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Les plus grands tubes pour faire la fête](https://open.spotify.com/album/5teS3Rew78baHD120LfAAm) | 3:04 | 2025-07-18 | 2025-08-03 |
 | [Simm' Tutt'Uno](https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bottari di Portico](https://open.spotify.com/artist/4eNK0Rn3bc2mUhIhLtLFmy) | [Simm' Tutt'Uno \(feat\. Jovanotti, Manu Dibango & Bottari Di Portico\)](https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV) | 3:08 | 2022-09-20 | 2025-01-12 |
+| [Soir au village](https://open.spotify.com/track/5j7ocGQ0vs3wWNtrj84yqi) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [From Africa](https://open.spotify.com/album/7GUwsmAVw9X7U1EDSev06r) | 4:05 | 2026-10-15 |  |
 | [Son de la Loma](https://open.spotify.com/track/0ud408pilz1RQQDVfITFZr) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 4:19 | 2022-05-18 | 2022-07-04 |
 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 | 2021-12-29 |  |
 | [Soul Fiesta](https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:08 | 2022-02-05 | 2024-10-21 |

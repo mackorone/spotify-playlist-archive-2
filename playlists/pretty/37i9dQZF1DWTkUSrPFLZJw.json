@@ -1,12 +1,12 @@
 {
   "description": "atopa risers",
-  "num_followers": 24507,
+  "num_followers": 24516,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADd3aMGP7W8vLxq8CUOPWHYfPd69",
+  "snapshot_id": "AAAAAH5VHFRBxOhXXaraHHIZpu+iuUiU",
   "tracks": [
     {
       "added_at": "2026-10-09 00:02:05",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
+        "name": "4 DA POPPIN'",
+        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "duration_ms": 176118,
+      "name": "BALOTELLI (SUPA)",
+      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
@@ -671,6 +687,22 @@
       "duration_ms": 175682,
       "name": "STREET CROWN (African Dancehall)",
       "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -707,22 +739,6 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
-        "name": "4 DA POPPIN'",
-        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 176118,
-      "name": "BALOTELLI (SUPA)",
-      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
         }
       ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -859,18 +859,38 @@
     {
       "added_at": "2026-10-09 00:02:05",
       "album": {
-        "name": "Me Sisi",
-        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
       },
       "artists": [
         {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 171805,
-      "name": "Me Sisi",
-      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-10-09 00:02:05",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     },
     {
       "added_at": "2026-10-09 00:02:05",
@@ -895,26 +915,6 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
-    },
-    {
-      "added_at": "2026-10-09 00:02:05",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
-      },
-      "artists": [
-        {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     },
     {
       "added_at": "2026-10-09 00:02:05",

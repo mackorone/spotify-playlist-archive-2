@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,604 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,715 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra) | 3:17 |
 | 50 | [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 |
 
-Snapshot ID: `AAAAAM8DCl1T7pDCLRIkb47DWRORb+dm`
+Snapshot ID: `AAAAAPH+UJANJA7eKd+QCILD+fAuKOKG`

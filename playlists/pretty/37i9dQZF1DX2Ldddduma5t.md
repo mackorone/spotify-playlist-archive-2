@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 | 39 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 40 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
 
-Snapshot ID: `AAAAAO02/OsYxP31lxYwdFSH6KLNxycB`
+Snapshot ID: `AAAAAIGXhGKtnPUl9upPTi/HjOS0RKUl`

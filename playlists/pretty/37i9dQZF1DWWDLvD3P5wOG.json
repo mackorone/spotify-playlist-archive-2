@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a whine to.",
-  "num_followers": 797759,
+  "num_followers": 797863,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwvtZ1ItEG9pYsAVqQbKldqHbJs",
+  "snapshot_id": "AAAAAG0c6xcuXPkb1+2DkP2xUCPyX+ma",
   "tracks": [
     {
       "added_at": "2026-08-26 16:00:14",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
+        "name": "Ova Dweet - Single",
+        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221194,
+      "name": "Ova Dweet",
+      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
+    },
+    {
+      "added_at": "2026-08-26 16:00:14",
+      "album": {
         "name": "Oh No It's Red Rat",
         "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
-    },
-    {
-      "added_at": "2026-08-26 16:00:14",
-      "album": {
-        "name": "Pon Di Cocky",
-        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
-      },
-      "artists": [
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 190119,
-      "name": "Pon Di Cocky",
-      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Ova Dweet - Single",
-        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
         }
       ],
-      "duration_ms": 221194,
-      "name": "Ova Dweet",
-      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
-      },
-      "artists": [
-        {
-          "name": "Sanchez",
-          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
-    },
-    {
-      "added_at": "2026-08-26 16:00:14",
-      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 290493,
       "name": "Bounce Along",
       "url": "https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6"
+    },
+    {
+      "added_at": "2026-08-26 16:00:14",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1056,15 +1056,15 @@
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
     },
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Bruck It Down",
-        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
+        "name": "Heads High",
+        "url": "https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 171003,
-      "name": "Bruck It Down",
-      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
+      "duration_ms": 211440,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1140,15 +1140,15 @@
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Heads High",
-        "url": "https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7"
+        "name": "Bruck It Down",
+        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 211440,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
+      "duration_ms": 171003,
+      "name": "Bruck It Down",
+      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Pon Di Gaza Mi Sey",
-        "url": "https://open.spotify.com/album/3A7sQ9lAm1ZWL62Cisc3vr"
+        "name": "Kingston Story: Deluxe Edition",
+        "url": "https://open.spotify.com/album/5MGxvegnXOgkRlaAb7i0TZ"
       },
       "artists": [
         {
           "name": "Vybz Kartel",
           "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 211583,
-      "name": "Romping Shop",
-      "url": "https://open.spotify.com/track/5IdymnaBuP9sZdlZhVrbQx"
+      "duration_ms": 203511,
+      "name": "Go Go Wine",
+      "url": "https://open.spotify.com/track/0Ng68zezg2IpkGAKw7bRpw"
     },
     {
       "added_at": "2026-08-26 16:00:14",

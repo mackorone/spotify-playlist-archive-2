@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 
 > Les enfants vont danser et se déchaîner!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,561 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 | 20 | [Jour 1](https://open.spotify.com/track/13lXv8YxX0YYHM0SCk1KYb) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:37 |
 | 21 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |
 | 22 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 |
-| 23 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
+| 23 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [MAGIC SYSTEM](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 24 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 25 | [On dirait](https://open.spotify.com/track/54vtz2MeGYtbvOG440hsYQ) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi](https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF) | 3:15 |
 | 26 | [Sur ma route](https://open.spotify.com/track/3Uyt0WO3wOopnUBCe9BaXl) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Les yeux plus gros que le monde](https://open.spotify.com/album/1D2Rs9qcENebbiDR5wk88T) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 | 49 | [Maman me dit](https://open.spotify.com/track/645vPlxFnlvQXxdhV9rM9c) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Maman me dit](https://open.spotify.com/album/1kGhZi4BxwkwwXuVQ7Xwj7) | 2:47 |
 | 50 | [Que Dieu me pardonne](https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 3:31 |
 
-Snapshot ID: `AAAAALNm014ZRfv6XypulGnWL/hwsy7z`
+Snapshot ID: `AAAAAPddVDGPlVUUMP3DBQDPa45eNzh5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,015 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,025 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 27 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 |
 | 28 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 |
 | 29 | [SAW](https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi) | [SAW](https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH) | 4:06 |
-| 30 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
-| 31 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz The Creature](https://open.spotify.com/artist/1T001ouqDQH3xT8ZVWLUND) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
+| 30 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz The Creature](https://open.spotify.com/artist/1T001ouqDQH3xT8ZVWLUND) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
+| 31 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
 | 32 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
 | 33 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
 | 34 | [Get Away](https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival](https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP) | 3:31 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 58 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
 | 59 | [Drop It Down](https://open.spotify.com/track/007sIdc8HgxJpUhqQGYkso) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi) | [Drop It Down](https://open.spotify.com/album/7Go5wb6T1WNwY0Y9r4hYdJ) | 3:40 |
 | 60 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 |
-| 61 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
-| 62 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 63 | [I Got a Beer for That](https://open.spotify.com/track/0Rwy28bfn8ykq6EHAQGSt8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 2:29 |
-| 64 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
-| 65 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 61 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
+| 62 | [I Got a Beer for That](https://open.spotify.com/track/0Rwy28bfn8ykq6EHAQGSt8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 2:29 |
+| 63 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
+| 64 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 65 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
 | 66 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 |
 | 67 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
 | 68 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 71 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
 | 72 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
 | 73 | [Not I](https://open.spotify.com/track/5pAvjWVO2PhST6csDrU4fN) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Not I](https://open.spotify.com/album/3drszSw8bafZ36LNQNmpQY) | 3:08 |
-| 74 | [Good on You](https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Good on You](https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt) | 3:41 |
-| 75 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Iharaira Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |
+| 74 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Iharaira Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |
+| 75 | [Good on You](https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Good on You](https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt) | 3:41 |
 
-Snapshot ID: `AAAAAKNuoy4aoIvRxMRj9PD8BOyx1lb0`
+Snapshot ID: `AAAAADiH9gtaYm3dTIAzuKmjAVXPcMHi`

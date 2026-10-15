@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,632 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,644 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 66 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
 | 67 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 68 | [Your House](https://open.spotify.com/track/2UBFZaEkeLqEheRGZDccm7) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:47 |
-| 69 | [Goodbye, Sunshine](https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 4:16 |
-| 70 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
+| 69 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
+| 70 | [Goodbye, Sunshine](https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 4:16 |
 | 71 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 72 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
 | 73 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 99 | [What's My Age Again?](https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:28 |
 | 100 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
 
-Snapshot ID: `AAAAAMUV0aYhJu7otYmAGnya/7OZAkwt`
+Snapshot ID: `AAAAAMWgSK9kB8QLhpITWtoJtVOQUa9E`

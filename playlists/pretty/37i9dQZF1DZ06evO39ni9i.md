@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,741 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,746 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 15 | [Everybody Is a Star \- Mono Single Master](https://open.spotify.com/track/4NXNW4eqf9JXLhWFRjwFh9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 3:06 |
 | 16 | [Stand!](https://open.spotify.com/track/68DqLs1hv7zI08EBvu53wV) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:07 |
 | 17 | [Just Like a Baby](https://open.spotify.com/track/1aPFLpNNczxjY34qdKVJLg) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 5:13 |
-| 18 | [The Same Thing \(Makes You Laugh, Makes You Cry\)](https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:42 |
-| 19 | [Thankful n' Thoughtful](https://open.spotify.com/track/2r0qJtOqcEep29uYsDLlEb) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 4:40 |
+| 18 | [Thankful n' Thoughtful](https://open.spotify.com/track/2r0qJtOqcEep29uYsDLlEb) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 4:40 |
+| 19 | [The Same Thing \(Makes You Laugh, Makes You Cry\)](https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:42 |
 | 20 | [You Can Make It If You Try](https://open.spotify.com/track/5yb2pWoPheGZgDCO1c6yUx) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:38 |
 | 21 | [Runnin' Away \- Single Version](https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:57 |
-| 22 | [M'Lady](https://open.spotify.com/track/6GbtYclO9NzN0NLFLmlB7A) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:46 |
-| 23 | [Frisky](https://open.spotify.com/track/3CG5a5vgvGdsoTlEHNMMc2) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:11 |
+| 22 | [Frisky](https://open.spotify.com/track/3CG5a5vgvGdsoTlEHNMMc2) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:11 |
+| 23 | [M'Lady](https://open.spotify.com/track/6GbtYclO9NzN0NLFLmlB7A) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:46 |
 | 24 | [Loose Booty](https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:46 |
 | 25 | [Poet](https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:02 |
-| 26 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 |
-| 27 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 |
+| 26 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 |
+| 27 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 |
 | 28 | [Mother Beautiful](https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 1:59 |
 | 29 | [\(You Caught Me\) Smilin' \- Single Version](https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:56 |
 | 30 | [Life](https://open.spotify.com/track/0aI5KoqucjqXjPi7bFENFQ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 49 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
 | 50 | [Skate Now \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:27 |
 
-Snapshot ID: `asrRgAAAAAD5xGyVdCtf5rl9vOIEBID+`
+Snapshot ID: `as10gAAAAABw/h0LI+LlXZ2W+6qDQP37`

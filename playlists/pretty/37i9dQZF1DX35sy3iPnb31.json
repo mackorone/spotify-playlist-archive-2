@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Lennon Stella",
-  "num_followers": 2826,
+  "num_followers": 2836,
   "original_name": "Editors' Picks: Best Canadian Songs of September",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff",
+  "snapshot_id": "AAAAADNyF33DhKnlxTlWtaRIcR9JkgMX",
   "tracks": [
     {
       "added_at": "2026-10-01 04:01:04",
@@ -319,18 +319,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Sad Porn",
-        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
+        "name": "ON THE SCHEDULE",
+        "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
         }
       ],
-      "duration_ms": 192174,
-      "name": "Sad Porn",
-      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
+      "duration_ms": 196566,
+      "name": "ON THE SCHEDULE",
+      "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -351,22 +355,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "ON THE SCHEDULE",
-        "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
+        "name": "Sad Porn",
+        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
       },
       "artists": [
         {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
         }
       ],
-      "duration_ms": 196566,
-      "name": "ON THE SCHEDULE",
-      "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+      "duration_ms": 192174,
+      "name": "Sad Porn",
+      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "How Do You Like Me Now",
-        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "How Do You Like Me Now",
-      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Come To Me",
         "url": "https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 193813,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "How Do You Like Me Now",
+        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "How Do You Like Me Now",
+      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 198549,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "Touch Down",
         "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "SIRENS",
-        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
       },
       "artists": [
         {
-          "name": "OAKK",
-          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
         }
       ],
-      "duration_ms": 158769,
-      "name": "SIRENS",
-      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
+      "duration_ms": 198549,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -663,6 +647,22 @@
       "duration_ms": 186219,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+      },
+      "artists": [
+        {
+          "name": "OAKK",
+          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "J'en sais rien",
-        "url": "https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "J'en sais rien",
-      "url": "https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
         "name": "pauvre pomme",
         "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 237253,
       "name": "pauvre pomme",
       "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
+        "name": "J'en sais rien",
+        "url": "https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "J'en sais rien",
+      "url": "https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp"
     },
     {
       "added_at": "2026-10-01 04:01:04",

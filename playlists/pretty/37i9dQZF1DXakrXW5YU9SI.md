@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,039 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,129 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 15 | [FALLEN ANGEL](https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:19 |
 | 16 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
 | 17 | [The Governor’s Waltz](https://open.spotify.com/track/2hAQCoAswuQ643VhIuRC2p) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:27 |
-| 18 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 19 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 18 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 19 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
 | 20 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
 | 21 | [Jeśli coś ma być](https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Jeśli coś ma być](https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz) | 2:22 |
 | 22 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 52 | [Tak bym chciał...](https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Południe](https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn) | 3:20 |
 | 53 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
 | 54 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
-| 55 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
-| 56 | [Je t’aime](https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Je t’aime](https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B) | 2:56 |
-| 57 | [Wagoniki](https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Żeremie](https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA) | 3:48 |
-| 58 | [propane](https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2) | [kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [propane](https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9) | 3:44 |
+| 55 | [Wagoniki](https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Żeremie](https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA) | 3:48 |
+| 56 | [propane](https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2) | [kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [propane](https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9) | 3:44 |
+| 57 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
+| 58 | [Je t’aime](https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Je t’aime](https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B) | 2:56 |
 | 59 | [Tyle Śladów](https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Tyle Śladów](https://open.spotify.com/album/182mPuz9e1vF8yPhzYbWBD) | 6:09 |
 | 60 | [na moje nieszczęście](https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [na moje nieszczęście](https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG) | 3:05 |
 
-Snapshot ID: `AAAAADaSgg3MybhfFj/uDzM2JWkDYEBY`
+Snapshot ID: `AAAAAOzLvaJqB9KX6iYz4BtgMDTmH6DI`

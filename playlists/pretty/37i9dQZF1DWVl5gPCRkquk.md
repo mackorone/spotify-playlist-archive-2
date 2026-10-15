@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,126 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,971 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 31 | [I Lied \(with August Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
 | 32 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
 | 33 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
-| 34 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
-| 35 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
+| 34 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
+| 35 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 36 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
 | 37 | [The Hardest Thing](https://open.spotify.com/track/48MwQbaGtmx4RWwOIf4xq4) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:21 |
 | 38 | [Wildfire](https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Wildfire](https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0) | 2:11 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 51 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 52 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 53 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 54 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
-| 55 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
+| 54 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
+| 55 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 56 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
 | 57 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 |
 | 58 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 60 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 61 | [No Place to Be](https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Fondness, Etc.](https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF) | 2:55 |
 | 62 | [Colors](https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Knots](https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq) | 3:37 |
-| 63 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
-| 64 | [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 |
+| 63 | [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 |
+| 64 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 65 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 |
 | 66 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 67 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 100 | [The Voyager](https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:30 |
 
-Snapshot ID: `AAAAAHjNTPLa4visWcj8F3Dmj1qZCsiP`
+Snapshot ID: `AAAAAG9yMIwcAYgaNGu7Pr7zE8KU5H2R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Please uplift Tinashe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,578 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,684 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Where She Come From](https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Where She Come From](https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD) | 2:30 |
 | 100 | [ONE CALL AWAY.](https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [ONE CALL AWAY.](https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a) | 2:56 |
 
-Snapshot ID: `AAAAAHXUia0a1CnUpH5rYe6YCAAdNnxt`
+Snapshot ID: `AAAAADa9NhnEY53JQivLH2q6834DR9XE`

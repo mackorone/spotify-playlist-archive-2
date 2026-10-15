@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Every Lollapalooza a new main pop girl rises
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,507 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,738 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 51 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 52 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
 | 53 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
-| 54 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
-| 55 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 54 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 55 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
 | 56 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 57 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
 | 58 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 70 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
 | 71 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 72 | [DOIT4ME](https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:01 |
-| 73 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
-| 74 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 |
+| 73 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 |
+| 74 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
 | 75 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 
-Snapshot ID: `AAAAANdDt5mxxAUfOX5F4+4QoRaen6FM`
+Snapshot ID: `AAAAAIYZOMS6TotorH1S/7O+No+lUjwi`

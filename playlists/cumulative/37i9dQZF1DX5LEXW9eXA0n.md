@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: KIM JAE HWAN\(김재환\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,803 songs - 4 day 21 hr 6 min
+1,804 songs - 4 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1224,6 +1224,7 @@
 | [SCRIBBLE](https://open.spotify.com/track/56Kg60sX4TdHoGpbQNFg8e) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SCRIBBLE](https://open.spotify.com/album/5yj7qJv6e3sqGg0xj7bl6R) | 4:11 | 2023-10-27 | 2024-03-09 |
 | [Sea](https://open.spotify.com/track/0xeNmiveKevnVK7RvDTb2Z) | [박종민](https://open.spotify.com/artist/3cVPenUUqlCvUFQluIkmli) | [Sea](https://open.spotify.com/album/6RtRJBBiweIYUWfXqynH8M) | 3:03 | 2024-09-13 | 2024-11-30 |
 | [Sea embrace](https://open.spotify.com/track/7Mq7FFRRSTK0AsfJ3L6Iio) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [sea embrace](https://open.spotify.com/album/0J0JusNg8kl65dkkLV1JOK) | 4:20 | 2022-07-07 | 2022-09-06 |
+| [Season of Love](https://open.spotify.com/track/46cy0kfws5edDaifSX4TSk) | [Feel Heon](https://open.spotify.com/artist/4NB54UMbh6NINg6B2iVFUw) | [Season of Love](https://open.spotify.com/album/7ApBpnemmOlTMXclveuLDP) | 3:46 | 2026-10-15 |  |
 | [Season of You](https://open.spotify.com/track/2fVTrbPEjvb6OCp6Xn8rYB) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Season of You](https://open.spotify.com/album/1MakxvFh1i9UAEdJYWmZYm) | 4:08 | 2025-10-13 | 2026-01-15 |
 | [Season that doesn't exist](https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Season that doesn't exist](https://open.spotify.com/album/7CWzdLS0zw8drF8L5Ss4W7) | 4:32 | 2023-02-14 | 2023-03-28 |
 | [Second love](https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Second love \(20th Anniversary of the Korean Wave Part.1\)](https://open.spotify.com/album/1Q0PvlQflbbOgSKYSYe5uL) | 4:17 | 2024-07-31 | 2025-02-12 |

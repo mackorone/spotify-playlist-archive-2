@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 43531,
+  "num_followers": 43538,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "asrRgAAAAABbkKSTkRFu96O/IwpOaAjA",
+  "snapshot_id": "as10gAAAAABksNwyLrD5Me4rX0tpGFu5",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 389773,
-      "name": "Alone And I - Remastered 2007",
-      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 417693,
-      "name": "Driftin' - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
+      "duration_ms": 389773,
+      "name": "Alone And I - Remastered 2007",
+      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fat Albert Rotunda",
-        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Oh! Oh! Here He Comes",
-      "url": "https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 408466,
       "name": "The Maze - Remastered 2007",
       "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fat Albert Rotunda",
+        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Oh! Oh! Here He Comes",
+      "url": "https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 349160,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -507,8 +487,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 349160,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 549376,
-      "name": "Vein Melter",
-      "url": "https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ"
+      "duration_ms": 510653,
+      "name": "Oliloqui Valley - Remastered",
+      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 510653,
-      "name": "Oliloqui Valley - Remastered",
-      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
+      "duration_ms": 549376,
+      "name": "Vein Melter",
+      "url": "https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantaloupe Island",
+        "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 395266,
+      "name": "And What If I Don't - Remastered",
+      "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantaloupe Island",
-        "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 395266,
-      "name": "And What If I Don't - Remastered",
-      "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 312001,
       "name": "Sun Touch",
       "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 424560,
-      "name": "Stars in Your Eyes",
-      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 424560,
+      "name": "Stars in Your Eyes",
+      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 538743,
       "name": "I Thought It Was You",
       "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 677893,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 677893,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 326746,
       "name": "Three Bags Full - Remastered 2007",
       "url": "https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
     },
     {
       "added_at": null,
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 581715,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 440600,
       "name": "Spider",
       "url": "https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 581715,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
     },
     {
       "added_at": null,

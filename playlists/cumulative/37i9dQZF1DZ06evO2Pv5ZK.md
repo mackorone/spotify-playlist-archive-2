@@ -4,7 +4,7 @@
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-100 songs - 8 hr 4 min
+101 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dreams of Surf](https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:43 | 2022-05-31 |  |
 | [Early Years](https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:32 | 2022-10-12 |  |
 | [Echoes](https://open.spotify.com/track/1tVpdAetWFZsb15facJiWb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 8:24 | 2022-05-29 | 2022-10-12 |
+| [El Greco \- Part 1](https://open.spotify.com/track/1QXSIk5n6CJWdFe34uLebP) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/4hGJ3SaDnxyOnouNUe9kQi) | 3:58 | 2026-10-15 |  |
 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 | 2022-05-29 | 2023-05-28 |
 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 | 2022-05-29 | 2026-08-27 |
 | [Eternal Alexander \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 | 2022-05-30 |  |
@@ -103,7 +104,7 @@
 | [To a Friend](https://open.spotify.com/track/4vYXT3DOmHNNj5TfhYOScl) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:23 | 2022-10-13 | 2022-10-15 |
 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 | 2022-05-29 |  |
 | [Twenty Eighth Parallel](https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 5:14 | 2022-05-29 |  |
-| [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 | 2024-11-20 |  |
+| [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 | 2024-11-20 | 2026-10-15 |
 | [Vangelis: Through the Night Mist](https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Ambient & Relax](https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5) | 5:12 | 2024-02-10 | 2024-09-11 |
 | [Voices](https://open.spotify.com/track/2pgjiHXeXRTqXxabugZoLD) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 7:01 | 2022-07-29 | 2022-10-07 |
 | [West Across the Ocean Sea](https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 2:53 | 2022-06-01 |  |

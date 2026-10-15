@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 127 songs - 7 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 139 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,17 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 125 | [Born Again](https://open.spotify.com/track/4LT9snGF4EdfDCw5F1zkxZ) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/2VBq7c4lL5qXbceQpCQiCD) | 3:07 |
 | 126 | [Glowing Cactus](https://open.spotify.com/track/22hpgnYXuwVD913Z6pqjm7) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Glowing Cactus](https://open.spotify.com/album/2nl2fjbG6SyUp8QOqGPU0w) | 3:17 |
 | 127 | [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 |
+| 128 | [Ready Set \- Stripped Down Version](https://open.spotify.com/track/27pGFErz2lZx9yEPzWfQIo) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Ready Set \(Stripped Down Version\)](https://open.spotify.com/album/0l1VaZQw0MGcxTfqF2dDM8) | 5:24 |
+| 129 | [dicen que mejora](https://open.spotify.com/track/35KJOsA7JcPF6ul8qlInqx) | [Mati Badillo](https://open.spotify.com/artist/3gKuifolT6mgQ0Tm8ZwISi) | [dicen que mejora](https://open.spotify.com/album/2IOcASp8tJ7TfMZx0L4dli) | 2:54 |
+| 130 | [Avión de Papel](https://open.spotify.com/track/1tyQ9MUaoCt5Zix2SOLIJ5) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Avión de Papel](https://open.spotify.com/album/31DQGsXm5bSgUSR2m8D6sE) | 3:21 |
+| 131 | [Dégénérescence macaque](https://open.spotify.com/track/6u8hobjEBpWBzEN4WOQTaN) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Dégénérescence macaque](https://open.spotify.com/album/0lD0tKncxjByYeIxV3XJao) | 3:12 |
+| 132 | [Tutto Il Dolore](https://open.spotify.com/track/3PruWvt9n8MXTaysbyeFKE) | [VARTA74](https://open.spotify.com/artist/1WLPGXeBf0LMnggYMRVaJQ) | [Veleno](https://open.spotify.com/album/0O841AhpGlbaNL3zmfwCvZ) | 4:13 |
+| 133 | [Only If](https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q) | [GRG T](https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd) | [Only If](https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n) | 1:40 |
+| 134 | [Perdido Sin Salida](https://open.spotify.com/track/4laOCZ1hb946ZAAP6w3r4K) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Perdido Sin Salida](https://open.spotify.com/album/3BZpwMUfjggYcvkmapEPYk) | 3:35 |
+| 135 | [Ugly Brothers](https://open.spotify.com/track/58KNPMBuPKAMLT9Qvla2TX) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Ugly Brothers](https://open.spotify.com/album/5N3zVEGTsgoChyJzfoN5hB) | 4:08 |
+| 136 | [I Will Love You from a Distance](https://open.spotify.com/track/0PepuaiCDgj52qytX7cH8T) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x) | [I Will Love You from a Distance](https://open.spotify.com/album/5M0PDpmBP3Y1qAo1Fs69ue) | 3:46 |
+| 137 | [Better \- Acoustic](https://open.spotify.com/track/7ALzwV00n3SoxEjjvyfO13) | [Nana Elan](https://open.spotify.com/artist/0kzPNnI3XMmI9Fd76tSx6m) | [Love Drain](https://open.spotify.com/album/0HGcgPhdIYu2BAiCd4gJZ4) | 2:24 |
+| 138 | [I'm Tired of Being Strong](https://open.spotify.com/track/063EkEISzzT4rR869svQ9H) | [Leo Foz](https://open.spotify.com/artist/0VcS8qkGSqi4wqIqt2Yljh) | [I'm Tired of Being Strong](https://open.spotify.com/album/6F8WG3MJW883ktG1hTt6Rp) | 3:12 |
+| 139 | [Bad News Bear](https://open.spotify.com/track/06gijoAL4er9g0FWqWUrsL) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Bad News Bear](https://open.spotify.com/album/6STKhZJUlBl6aKEyxXvlkq) | 4:16 |
 
-Snapshot ID: `AAAYnZ26hsEc4CIOdJeT8NUOMzddAhky`
+Snapshot ID: `AAAYqSyYYV8vj2FMnMq9fXtlyKP91Pqb`

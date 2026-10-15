@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,862 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,866 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 14 | [pain for fun](https://open.spotify.com/track/7MI6Tcf7xshal6W4ZHJeEG) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:26 |
 | 15 | [Flea](https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:46 |
 | 16 | [Hang On Me](https://open.spotify.com/track/54IL47Tmp2MAVABIdf6eMF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:48 |
-| 17 | [Who](https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:49 |
-| 18 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 17 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 18 | [Who](https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:49 |
 | 19 | [Hell Is Near](https://open.spotify.com/track/5tuHiLI7CPV1BI9m2Gnlph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 4:08 |
 | 20 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 21 | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tiempos Violentos \(feat\. Mon Laferte\)](https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw) | 3:57 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 31 | [Strange Mercy](https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:28 |
 | 32 | [Teenage Talk](https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Teenage Talk](https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw) | 4:08 |
 | 33 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
-| 34 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
-| 35 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
-| 36 | [DOA \- From “Death of a Unicorn”](https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0) | 3:31 |
+| 34 | [DOA \- From “Death of a Unicorn”](https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [DOA \(From “Death of a Unicorn”\)](https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0) | 3:31 |
+| 35 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
+| 36 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
 | 37 | [Down And Out Downtown](https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:42 |
 | 38 | [Prince Johnny](https://open.spotify.com/track/201StFQq0nodCrsX5ysC30) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:36 |
 | 39 | [These Days](https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Jesus Saves, I Spend](https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [The Strangers](https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:04 |
 | 50 | [Regret](https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:21 |
 
-Snapshot ID: `asrRgAAAAABOzZUAMveNXNfkkGpB8qZR`
+Snapshot ID: `as10gAAAAAAe7+hEC8OgBS0/08BBcPaQ`
