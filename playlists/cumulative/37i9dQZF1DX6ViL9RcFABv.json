@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: IOLANDA",
+  "description": "Uma playlist de pura alma pop! Foto: Fernando Daniel",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183641,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Dif\u00edcil de Amar",
+        "url": "https://open.spotify.com/album/0xYvj5gnMes7u3CSy7R46W"
+      },
+      "artists": [
+        {
+          "name": "Francisca Borges",
+          "url": "https://open.spotify.com/artist/3i4JBITfITnV1AqwemC8Po"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251954,
+      "name": "Dif\u00edcil de Amar",
+      "url": "https://open.spotify.com/track/0jYQXt8jcyvUpJek7JXags"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil Demais",
         "url": "https://open.spotify.com/album/0CifLOaW7Xwq3f7sFhpC9V"
       },
@@ -3472,7 +3490,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183044,
       "name": "D\u00f3nde, C\u00f3mo y Cu\u00e1ndo?",
       "url": "https://open.spotify.com/track/7B6teQtsPrPQlnlXNf1HH9"
@@ -4374,6 +4392,28 @@
       "duration_ms": 233840,
       "name": "Fones nos ouvidos - Ao vivo no Grovewood Est\u00fadio",
       "url": "https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF"
+    },
+    {
+      "album": {
+        "name": "Fora da Lei",
+        "url": "https://open.spotify.com/album/4EPPAMluLDQfQGZ4FoAsh0"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        },
+        {
+          "name": "Carolina de Deus",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Fora da Lei",
+      "url": "https://open.spotify.com/track/3Y4mO92nJBF84iCsvEgWNC"
     },
     {
       "album": {
@@ -5886,7 +5926,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219453,
       "name": "maria",
       "url": "https://open.spotify.com/track/0G7D0PfNw6VGSRR0QB1FiU"
@@ -7116,7 +7156,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193700,
       "name": "o amor existe",
       "url": "https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f"
@@ -10797,6 +10837,42 @@
     },
     {
       "album": {
+        "name": "A flor do recome\u00e7o",
+        "url": "https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu"
+    },
+    {
+      "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2NLUDAehZRgYDG3ZyYY9px"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149702,
+      "name": "Trata Bem Dela",
+      "url": "https://open.spotify.com/track/4FFYBy5h6JPia0XCDVHCDF"
+    },
+    {
+      "album": {
         "name": "Trigueirinha",
         "url": "https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD"
       },
@@ -10830,6 +10906,24 @@
       "duration_ms": 178591,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h"
+    },
+    {
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/6a3DUDULPdVCHlOEKXY2pY"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/4Aj8x5OSwaCrmhUBVD7z8T"
     },
     {
       "album": {
@@ -11458,7 +11552,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 149323,
       "name": "Yo te loviu",
       "url": "https://open.spotify.com/track/4VTAK1Jlwvge6wO5Y7cfrt"

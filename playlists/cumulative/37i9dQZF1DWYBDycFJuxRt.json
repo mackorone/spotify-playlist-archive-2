@@ -198597,6 +198597,24 @@
     },
     {
       "album": {
+        "name": "Rise of The Man",
+        "url": "https://open.spotify.com/album/1CrtLyH5X4RfK6onpwbRJX"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248124,
+      "name": "UREI",
+      "url": "https://open.spotify.com/track/5tdTfpYYQGZe0EvmXHgSs8"
+    },
+    {
+      "album": {
         "name": "VS",
         "url": "https://open.spotify.com/album/2f0TS2nA9mkJqyDxLIyhgj"
       },

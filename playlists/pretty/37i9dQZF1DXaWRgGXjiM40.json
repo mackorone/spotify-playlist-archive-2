@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945805,
+  "num_followers": 945752,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIkHMyoLSrNXS5L8W43PWOrv1xd",
+  "snapshot_id": "AAAAABcC9d6ut884pNyLobBkojm5QFrn",
   "tracks": [
     {
       "added_at": "2026-10-09 03:00:30",
@@ -67,8 +67,8 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 190276,
-      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -151,8 +151,8 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 161862,
-      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
+      "duration_ms": 190276,
+      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Kaldeir\u00e3o PeB - Composi\u00e7\u00f5es (Vol. 1)",
-        "url": "https://open.spotify.com/album/45tmzDjPAuIEfIoK74DDy8"
-      },
-      "artists": [
-        {
-          "name": "Pedro e Benicio",
-          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Lembran\u00e7a Boa",
-      "url": "https://open.spotify.com/track/4kBuG8k71r7tUnWqWofdCN"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "O Melhor De Mim (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/58b5pvh1FcryAJOb0FAHoz"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 169566,
       "name": "C\u00ea Perdeu (Igual Eu) - Ao Vivo",
       "url": "https://open.spotify.com/track/7meq91abCS4XbydTUSKn7K"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Kaldeir\u00e3o PeB - Composi\u00e7\u00f5es (Vol. 1)",
+        "url": "https://open.spotify.com/album/45tmzDjPAuIEfIoK74DDy8"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Lembran\u00e7a Boa",
+      "url": "https://open.spotify.com/track/4kBuG8k71r7tUnWqWofdCN"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
+        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Flor e \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
         "name": "Um Novo Sonho (Deluxe)",
         "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 156371,
       "name": "Serenata - Ao Vivo",
       "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
-        "name": "Da Minha Casa Pra Sua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Flor e \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 192799,
       "name": "Tail\u00e2ndia - Ao Vivo",
       "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2026-10-09 03:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 152149,
-      "name": "Mo\u00e7a do Espelho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C"
-    },
-    {
-      "added_at": "2026-10-09 03:00:30",
-      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -859,22 +843,34 @@
     {
       "added_at": "2026-10-09 03:00:30",
       "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
+        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
       },
       "artists": [
-        {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        },
         {
           "name": "Z\u00e9 Neto & Cristiano",
           "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+      "duration_ms": 152149,
+      "name": "Mo\u00e7a do Espelho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C"
+    },
+    {
+      "added_at": "2026-10-09 03:00:30",
+      "album": {
+        "name": "Vira Homem",
+        "url": "https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 196405,
+      "name": "Vira Homem",
+      "url": "https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

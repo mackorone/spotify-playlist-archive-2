@@ -764,10 +764,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 248760,
       "name": "WHO DO U LUV",
       "url": "https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9"
+    },
+    {
+      "album": {
+        "name": "WHO DO U LUV",
+        "url": "https://open.spotify.com/album/2VmIrHVXSVSb5z6KaTitMf"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "WHO DO U LUV",
+      "url": "https://open.spotify.com/track/7IXmojGjBth1Vga82YkLg8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kdn0g"

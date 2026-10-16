@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-2,118 songs - 5 day 9 hr 55 min
+2,119 songs - 5 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Friendship Song](https://open.spotify.com/track/6rvMdM5oOMynXEwfOpqI7e) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Keerthan Bhandary](https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn) | [Vips Last Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79hYal36XPu5A8Qf7xzLHU) | 3:33 | 2022-12-17 | 2023-02-04 |
 | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/track/1oTPrr6g1QzFwcmUmpfy7i) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/album/3VxLebGKYgPtkAdQWw56zc) | 4:08 | 2022-08-06 | 2022-11-23 |
 | [Friendship Song \- From "Luckyman"](https://open.spotify.com/track/4m1sMGCkpOHTndQJEQ2zVO) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Dhananjay Rajan](https://open.spotify.com/artist/2iJ67BcXWSOW7dPJzeyjXc) | [Friendship Song \(From "Luckyman"\)](https://open.spotify.com/album/5sqwlEycFfkUNu2Poq1OFm) | 3:27 | 2022-09-07 | 2022-11-15 |
+| [Friendship Song \- From "Maarige Daari"](https://open.spotify.com/track/0gdPSztGuILUmy7dm72ID7) | [Vijayalaxmi Mettinahole](https://open.spotify.com/artist/0Y21TyAFkjyalKuDvyvT75), [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Swamynathan RK](https://open.spotify.com/artist/2UB9m6meOJaCtdE2VLxrmq) | [Friendship Song \(From "Maarige Daari"\)](https://open.spotify.com/album/4xv1oGadmdoNOpjj1uplv4) | 3:07 | 2026-10-16 |  |
 | [Fun N Bun](https://open.spotify.com/track/24BZv7tWDEEWWoHCv5TU3V) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl) | [\#ParuParvathy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22STqh4nyxDDLaOKUtgQsw) | 3:58 | 2024-10-10 | 2024-12-07 |
 | [Gaali Tangaali Kannada Mathade \(From "Ranganayaka"\)](https://open.spotify.com/track/5JQdMAEx9L0znd7Lb4hb08) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Sharadasuta](https://open.spotify.com/artist/1Sd93KIXaxHFp6Bao6aLPV), [Muniraju](https://open.spotify.com/artist/6ePpkBddWeLXQL00tcOLW9) | [Gaali Tangaali Kannada Mathade \(From "Ranganayaka"\)](https://open.spotify.com/album/5E6DMy0XwXA6SQXZ0DSCnB) | 3:58 | 2024-02-05 | 2024-04-09 |
 | [Gaalige Gandha\(From "Raghavendra Stores"\)](https://open.spotify.com/track/0WO4oGkSd2oPqbBq3RatRF) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Gaalige Gandha \(From "Raghavendra Stores"\)](https://open.spotify.com/album/3StfUJ9jdGxg1wWvt2CdqF) | 3:41 | 2023-05-02 | 2023-08-31 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Volker Bertelmann. The essential tracks, all in one playlist.",
-  "num_followers": 846,
+  "num_followers": 849,
   "original_name": "This Is Volker Bertelmann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aswjAAAAAACZevuuQcBZU1K83n1nuDw5",
+  "snapshot_id": "as7GAAAAAAB9djD7jsJvmZetML7+u1eQ",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day of the Jackal (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3vL64pvJNeuy8Zsz9YVxv8"
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 143788,
-      "name": "Pinwheel",
-      "url": "https://open.spotify.com/track/0eXnsjDlKOIBDXDNva3PrO"
+      "duration_ms": 172619,
+      "name": "Becoming A Writer",
+      "url": "https://open.spotify.com/track/2GzRdYqCp9veAePsCo2URG"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "The Day of the Jackal (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3vL64pvJNeuy8Zsz9YVxv8"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 169091,
-      "name": "Reporting for Duty",
-      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
+      "duration_ms": 143788,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/0eXnsjDlKOIBDXDNva3PrO"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 69649,
-      "name": "Entering The Meeting",
-      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
+      "duration_ms": 169091,
+      "name": "Reporting for Duty",
+      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
     },
     {
       "added_at": null,
@@ -323,74 +323,6 @@
       "duration_ms": 97453,
       "name": "Orphans (From \"Lion\" Soundtrack)",
       "url": "https://open.spotify.com/track/52UPF3JH4sGZmNgCRxF2r1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 172619,
-      "name": "Becoming A Writer",
-      "url": "https://open.spotify.com/track/2GzRdYqCp9veAePsCo2URG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 87558,
-      "name": "Dog Tags",
-      "url": "https://open.spotify.com/track/4dlmnJ8Eq3m4jubfGBoYg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "23,000 Leben (Soundtrack des Netflix Films)",
-        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 169021,
-      "name": "One Big Step",
-      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 195386,
-      "name": "Home is with Me (From \"Lion\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5ZHJmO38v8A345OirQcdeG"
     },
     {
       "added_at": null,
@@ -420,9 +352,93 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
+      "duration_ms": 87558,
+      "name": "Dog Tags",
+      "url": "https://open.spotify.com/track/4dlmnJ8Eq3m4jubfGBoYg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 69649,
+      "name": "Entering The Meeting",
+      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 195386,
+      "name": "Home is with Me (From \"Lion\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5ZHJmO38v8A345OirQcdeG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "23,000 Leben (Soundtrack des Netflix Films)",
+        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 169021,
+      "name": "One Big Step",
+      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
       "duration_ms": 95165,
       "name": "Flares",
       "url": "https://open.spotify.com/track/7hpLL1G4vyAiokOkBzTe8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 34879,
+      "name": "Evening Prayer",
+      "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
     },
     {
       "added_at": null,
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 34879,
-      "name": "Evening Prayer",
-      "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
+      "duration_ms": 250852,
+      "name": "You Should Be Careful",
+      "url": "https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL"
     },
     {
       "added_at": null,
@@ -507,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clayface Theme (from \"Clayface\")",
+        "url": "https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "Clayface Theme - from \"Clayface\"",
+      "url": "https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conclave (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
@@ -516,25 +548,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 250852,
-      "name": "You Should Be Careful",
-      "url": "https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Count of Monte Cristo (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0eBMBul8WZt8laI51AYG6B"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 75685,
-      "name": "Opening of The Count of Monte Cristo",
-      "url": "https://open.spotify.com/track/7bGRaWFITZg6bdecppZi5w"
+      "duration_ms": 67518,
+      "name": "Route of Fear",
+      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
     },
     {
       "added_at": null,
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "The Count of Monte Cristo (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0eBMBul8WZt8laI51AYG6B"
       },
       "artists": [
         {
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 67518,
-      "name": "Route of Fear",
-      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
+      "duration_ms": 75685,
+      "name": "Opening of The Count of Monte Cristo",
+      "url": "https://open.spotify.com/track/7bGRaWFITZg6bdecppZi5w"
     },
     {
       "added_at": null,
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clayface Theme (from \"Clayface\")",
-        "url": "https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj"
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 114946,
-      "name": "Clayface Theme - from \"Clayface\"",
-      "url": "https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs"
+      "duration_ms": 155124,
+      "name": "Taking Action & Striking Back",
+      "url": "https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+        "name": "Dune: Prophecy (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155124,
-      "name": "Taking Action & Striking Back",
-      "url": "https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC"
+      "duration_ms": 92027,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/5aj6YRk2zx5kkw9CA8xkct"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dune: Prophecy (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 92027,
-      "name": "Main Title",
-      "url": "https://open.spotify.com/track/5aj6YRk2zx5kkw9CA8xkct"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Piano - Peaceful music to fall asleep",
         "url": "https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 155993,
-      "name": "Fureur juv\u00e9nile",
-      "url": "https://open.spotify.com/track/0WZumi2mX4GC80VEmJWnBY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 142394,
       "name": "Different From You",
       "url": "https://open.spotify.com/track/2Dkmi6o4f12XcOufCsO4M1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 155993,
+      "name": "Fureur juv\u00e9nile",
+      "url": "https://open.spotify.com/track/0WZumi2mX4GC80VEmJWnBY"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 82786,
-      "name": "People Like Me",
-      "url": "https://open.spotify.com/track/7zJ24Cx5eXuVgwcka3eXQC"
+      "duration_ms": 91328,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6fWZccypNFkuqyHxDBDHsr"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 91328,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6fWZccypNFkuqyHxDBDHsr"
+      "duration_ms": 82786,
+      "name": "People Like Me",
+      "url": "https://open.spotify.com/track/7zJ24Cx5eXuVgwcka3eXQC"
     }
   ],
   "unique_name": "This Is Volker Bertelmann",

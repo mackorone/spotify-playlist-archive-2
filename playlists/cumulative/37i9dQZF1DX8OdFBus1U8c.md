@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-565 songs - 1 day 5 hr 2 min
+566 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Vyadhi](https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vyadhi](https://open.spotify.com/album/1baVHC4hgzvbHqvCc7Hbpn) | 2:04 | 2022-06-23 | 2024-02-13 |
 | [WAR](https://open.spotify.com/track/4CZKGhWUPmS8ZRFO07C4jA) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [WAR](https://open.spotify.com/album/2nHqQWVAo8MY4v8TyucwnI) | 3:25 | 2025-03-26 | 2025-05-14 |
 | [Waste Bins](https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Waste Bins](https://open.spotify.com/album/6jo8MjrOC9NjkYFwjA2FHb) | 3:40 | 2024-02-16 | 2024-03-09 |
+| [What You Got?](https://open.spotify.com/track/21cPg2ceTdGUKBaqntM2y4) | [Baizyeah](https://open.spotify.com/artist/5q5qxjk6S64TT57OYKRDMd) | [What You Got?](https://open.spotify.com/album/5oulQkpVNFd7wVrLFc71ga) | 2:28 | 2026-10-15 |  |
 | [WHYSHE](https://open.spotify.com/track/5k6U5Qo6sAXS6FhbMR1qzh) | [AFRY](https://open.spotify.com/artist/3imnAxKMdZSQSf0G32suKJ), [Bobbydhuth](https://open.spotify.com/artist/1sBX3nvLLesJkoYQuQXxXg) | [WHYSHE](https://open.spotify.com/album/55jLv1XxqUy1FMgAUsofy6) | 2:20 | 2025-10-03 | 2025-11-08 |
 | [Wish](https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:03 | 2022-06-23 | 2024-04-09 |
 | [WORK HARD](https://open.spotify.com/track/2XQDNORKPlrZfUHeDqispe) | [S Dee](https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt), [Hiphop JB](https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I) | [WORK HARD](https://open.spotify.com/album/1y2ISs4pGjZnCkjzPda8ss) | 3:21 | 2024-02-26 | 2024-03-21 |

@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-374 songs - 21 hr 30 min
+376 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 | 2024-05-20 | 2026-08-29 |
 | [Hazy Daisy](https://open.spotify.com/track/08FbJk7kI27f7lLwCQomQ9) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Hazy Daisy](https://open.spotify.com/album/5NPTjHmYFakbHC25TMGZEf) | 2:52 | 2026-01-22 | 2026-02-13 |
 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 | 2024-05-20 | 2024-11-08 |
-| [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 | 2024-05-20 |  |
+| [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 | 2024-05-20 | 2026-10-16 |
 | [Help Myself](https://open.spotify.com/track/03CHPSpb16gkupgNbmmaTT) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Help Myself](https://open.spotify.com/album/0Jcq9dK8GdEc2UYmBEWZ4P) | 2:31 | 2024-05-20 | 2024-11-08 |
 | [HIGH VIBRATION](https://open.spotify.com/track/2Kl63H7011jiznXtTWrhmm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [HIGH VIBRATION](https://open.spotify.com/album/5Lu3frfWOdxZJSw87uvQOZ) | 3:03 | 2024-08-15 | 2024-11-08 |
 | [Hold It Up](https://open.spotify.com/track/1koUO8JFx9gR2GC3fxRb5Y) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Hold It Up](https://open.spotify.com/album/7lQE1NYJEBJSA3taeHaNcK) | 4:07 | 2025-01-23 | 2025-02-24 |
@@ -214,6 +214,7 @@
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 | 2026-06-20 |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-11-12 |
 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 | 2025-02-13 | 2025-05-03 |
+| [Marmalade Magic](https://open.spotify.com/track/2LBS5rXyXSPnkzxYBKltkX) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Orange Skies](https://open.spotify.com/album/3ah3bsac2VwBxuxUKhidnp) | 3:28 | 2026-10-15 |  |
 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 | 2025-02-13 |  |
 | [Mazda Familia](https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS) | [Mazda Familia](https://open.spotify.com/album/6AE3UHZ98oYeENhRlZAtc7) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [me > you](https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk) | [me > you](https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u) | 2:40 | 2026-06-11 | 2026-09-07 |
@@ -243,6 +244,7 @@
 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 | 2024-05-20 |  |
 | [Nada](https://open.spotify.com/track/0M7evS0r2rbRSt61GMH4e7) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Nada](https://open.spotify.com/album/405mKNtoyJhnJRB7zdUqIn) | 2:56 | 2024-05-20 | 2024-08-16 |
 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2024-05-20 |  |
+| [Narcotica](https://open.spotify.com/track/7BVcqbLgIqr0RiD5iwQ0ek) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Lovers Comet](https://open.spotify.com/album/7FGJghCQlNwAzgZMuPCPam) | 3:20 | 2026-10-15 |  |
 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 | 2025-01-09 | 2025-04-06 |
 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-17 |  |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 | 2024-12-13 |
@@ -347,7 +349,7 @@
 | [Timezones](https://open.spotify.com/track/0MWNEeM8S6PnP13xuJet12) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 4:02 | 2024-05-20 | 2024-11-08 |
 | [Tip Of My Tongue](https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Beautiful Mess](https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG) | 3:06 | 2026-07-23 |  |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-17 | 2026-03-27 |
-| [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 | 2026-05-25 |  |
+| [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 | 2026-05-25 | 2026-10-16 |
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 | 2026-09-17 |  |
 | [Troubles](https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS) | [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC), [Donson PK](https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg) | [Troubles](https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY) | 3:15 | 2026-07-09 | 2026-10-06 |

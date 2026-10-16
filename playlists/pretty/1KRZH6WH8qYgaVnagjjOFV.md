@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,994 likes - 143 songs - 8 hr 59 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,008 likes - 143 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 24 | [Shaky Ground](https://open.spotify.com/track/1kwXNBNGaI0x7SYPOtGmz2) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Shaky Ground](https://open.spotify.com/album/2rOfuqUztK2MVf0sxwu1zr) | 3:15 |
 | 25 | [All I Need Is You](https://open.spotify.com/track/24Pp8XW7nF1Wo51MFY2jdr) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [All I Need Is You](https://open.spotify.com/album/7L4IRsNyIGOi5ny1u8KL7Q) | 3:20 |
 | 26 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 |
-| 27 | [Me & Jesus](https://open.spotify.com/track/02j7pikjgJqmmQUBr23zPt) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:42 |
+| 27 | [Maker's Mark](https://open.spotify.com/track/4kqqJb2dXFcZM7fy3SCzVM) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:37 |
 | 28 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 |
 | 29 | [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 |
 | 30 | [Do It All Alone](https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Do It All Alone](https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK) | 2:52 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 142 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 143 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 |
 
-Snapshot ID: `AAAnqMywARnt0UKk7Gw4BU3J9vZBKPvj`
+Snapshot ID: `AAAnq5vzsRuFlJwTCbE0uV9RPWf+sha+`

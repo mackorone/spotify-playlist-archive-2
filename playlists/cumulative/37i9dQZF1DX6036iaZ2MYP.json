@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: FOLA x Davido",
+  "description": "Tracks popping off in the Afro scene. Cover: Fireboy DML",
   "name": "Afro Station",
   "tracks": [
     {
@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Bilingual Baddie(BB)",
+        "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118636,
+      "name": "Bilingual Baddie(BB)",
+      "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
+    },
+    {
+      "album": {
         "name": "Bin\u00f4me",
         "url": "https://open.spotify.com/album/5KqEPDseEJZ1eZ5EqiunL0"
       },
@@ -4824,7 +4842,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156891,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz"
@@ -4974,6 +4992,24 @@
       "duration_ms": 134333,
       "name": "Ca va pour nous (feat. MadeInParis)",
       "url": "https://open.spotify.com/track/4pbBuWsjjItsAuIm3OcC2j"
+    },
+    {
+      "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
       "album": {
@@ -6840,6 +6876,28 @@
       "duration_ms": 125035,
       "name": "C\u00e2lin",
       "url": "https://open.spotify.com/track/055A214tvDRBmiCcSWiQ2c"
+    },
+    {
+      "album": {
+        "name": "C\u00e9libataire RMX",
+        "url": "https://open.spotify.com/album/1sNp5lA2P4JJZzKEyar9LZ"
+      },
+      "artists": [
+        {
+          "name": "Blanche Bailly",
+          "url": "https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "C\u00e9libataire RMX",
+      "url": "https://open.spotify.com/track/6h0sXZD5KqYzOEwFDrx6Yh"
     },
     {
       "album": {
@@ -11353,6 +11411,28 @@
     },
     {
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
+    },
+    {
+      "album": {
         "name": "GoGo",
         "url": "https://open.spotify.com/album/6vsVwLAS3JYJouIZpXwTac"
       },
@@ -11525,6 +11605,24 @@
     },
     {
       "album": {
+        "name": "Grandir",
+        "url": "https://open.spotify.com/album/4KB5zg5idUQQeadxNniD9r"
+      },
+      "artists": [
+        {
+          "name": "Barack Adama",
+          "url": "https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Grandir",
+      "url": "https://open.spotify.com/track/6ROS8JSEEWMR05aaKcGaVU"
+    },
+    {
+      "album": {
         "name": "Greedy",
         "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
       },
@@ -11628,7 +11726,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148000,
       "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
       "url": "https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV"
@@ -11850,7 +11948,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140072,
       "name": "HELLOW",
       "url": "https://open.spotify.com/track/4SflWbTGSxuuZVihqZnoKo"
@@ -13346,7 +13444,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 122592,
       "name": "JaiLeStyle",
       "url": "https://open.spotify.com/track/3rJOA7CrxvpyftylRPFz4O"
@@ -13814,6 +13912,32 @@
       "duration_ms": 132153,
       "name": "Joli Djo",
       "url": "https://open.spotify.com/track/1m7zzVskxd6T1LXfpn5765"
+    },
+    {
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1um9w05EtYwdveXaLG6dZc"
+      },
+      "artists": [
+        {
+          "name": "MVP",
+          "url": "https://open.spotify.com/artist/7x7WK8fEpPoOXn1rMWbcyl"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        },
+        {
+          "name": "Ntaba 2 London",
+          "url": "https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/5CZ3BckdPom7YA3YitodvQ"
     },
     {
       "album": {
@@ -16532,6 +16656,24 @@
       "duration_ms": 189500,
       "name": "Malva Rosa",
       "url": "https://open.spotify.com/track/2Ys5E6jcj8sdukrADOyJ5v"
+    },
+    {
+      "album": {
+        "name": "Mama Mipende",
+        "url": "https://open.spotify.com/album/1NavpZVJH5ApdYPQa0LhjA"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Mama Mipende",
+      "url": "https://open.spotify.com/track/7aWCjvwgrJmiHOX1t8Gf4w"
     },
     {
       "album": {
@@ -19616,7 +19758,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 108600,
       "name": "O lali",
       "url": "https://open.spotify.com/track/2VawczjValTJ9WoHyj7Uxk"
@@ -22206,7 +22348,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 200314,
       "name": "Private Chef (feat. Mc Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
@@ -26473,6 +26615,24 @@
     },
     {
       "album": {
+        "name": "carpaccio",
+        "url": "https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw"
+    },
+    {
+      "album": {
         "name": "Love Deeply...",
         "url": "https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS"
       },
@@ -27704,7 +27864,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 125825,
       "name": "WAYNE SA",
       "url": "https://open.spotify.com/track/7mAg6m2ApCx4dIxaGiLo97"

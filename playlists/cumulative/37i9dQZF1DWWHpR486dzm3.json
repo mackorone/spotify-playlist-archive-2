@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157297,
       "name": "1000 versioo",
       "url": "https://open.spotify.com/track/4vWet3pjrvRUOFLbugdwkP"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 223429,
       "name": "El\u00e4m\u00e4lt\u00e4 kaiken sain",
       "url": "https://open.spotify.com/track/3sViq6gsY7I4uMG2z1YpUr"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165640,
       "name": "Haahuillen",
       "url": "https://open.spotify.com/track/3sMpTiwA7AejQbMUFMczZn"
@@ -4566,7 +4566,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 185864,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/0DZScCMtlz8LqbrsUP7WbF"
@@ -5500,7 +5500,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 154984,
       "name": "Huolimieli",
       "url": "https://open.spotify.com/track/3qJTAEKkgb7BvcuGoGPpk7"
@@ -6461,6 +6461,24 @@
     },
     {
       "album": {
+        "name": "Isosisko",
+        "url": "https://open.spotify.com/album/3zl7QoxDNRm3BAnqrWwhyO"
+      },
+      "artists": [
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164642,
+      "name": "Isosisko",
+      "url": "https://open.spotify.com/track/1vRDoHBJzlpd9Vxviyb1Le"
+    },
+    {
+      "album": {
         "name": "Lauluja ty\u00f6el\u00e4m\u00e4n kamaluudesta",
         "url": "https://open.spotify.com/album/5AyeO70w80cDMGm1b8XDHp"
       },
@@ -6490,7 +6508,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 206733,
       "name": "Itseni vihollinen",
       "url": "https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK"
@@ -8882,7 +8900,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187293,
       "name": "kukat kuolee",
       "url": "https://open.spotify.com/track/16HPnkT85WsIeZ2OxnSiPh"
@@ -9258,7 +9276,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219120,
       "name": "Kylm\u00e4 kun her\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/234QGuPGLVrVldEDW04c4X"
@@ -10010,6 +10028,28 @@
       "duration_ms": 222958,
       "name": "lifetime - alt version",
       "url": "https://open.spotify.com/track/0uIW0SI9t4kIX1o770LwVB"
+    },
+    {
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/6CiJuDNN7usHRiSFbmLQsf"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "Coco K",
+          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181423,
+      "name": "Light All Night",
+      "url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL"
     },
     {
       "album": {
@@ -12116,7 +12156,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 242160,
       "name": "Muistot haalistuu",
       "url": "https://open.spotify.com/track/35jrH7ZEVvRoeK2vSZrsY5"
@@ -12918,7 +12958,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 210960,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/1Oa2WZ00Ow6orLPYFwIdQl"
@@ -13684,6 +13724,24 @@
       "duration_ms": 280254,
       "name": "Orion",
       "url": "https://open.spotify.com/track/6uV6VqQPgUqkU5IEsHW6By"
+    },
+    {
+      "album": {
+        "name": "Osa-aikaty\u00f6t\u00f6n",
+        "url": "https://open.spotify.com/album/2ubrJOvSg5zAowV2IiG6Mw"
+      },
+      "artists": [
+        {
+          "name": "Maustetyt\u00f6t",
+          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271290,
+      "name": "Osa-aikaty\u00f6t\u00f6n",
+      "url": "https://open.spotify.com/track/0R4b9IW1pdcvVoiN16oQ4u"
     },
     {
       "album": {
@@ -19154,7 +19212,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 221897,
       "name": "The Saint Will Say",
       "url": "https://open.spotify.com/track/36EpVLVyKhxJ2svb3830k4"
@@ -21192,7 +21250,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 232321,
       "name": "Viimeiseen kaukaloon",
       "url": "https://open.spotify.com/track/1K583y7i9j1Iz46SKTSLWs"
@@ -21214,6 +21272,24 @@
       "duration_ms": 292346,
       "name": "Viimeiseen virtaan",
       "url": "https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL"
+    },
+    {
+      "album": {
+        "name": "Viimeiset hitaat",
+        "url": "https://open.spotify.com/album/2yIl0UeeHUGjkBSor8K4EO"
+      },
+      "artists": [
+        {
+          "name": "Hell\u00e4nelli",
+          "url": "https://open.spotify.com/artist/69Yg52ASIuKtBJ2XizeXqt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239782,
+      "name": "Viimeiset hitaat",
+      "url": "https://open.spotify.com/track/7997MCKdzhnFcrwlP7o18v"
     },
     {
       "album": {
@@ -21784,7 +21860,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 227213,
       "name": "What Do You Want from Me?",
       "url": "https://open.spotify.com/track/3VRJrmZwbt68675FD2gwmU"

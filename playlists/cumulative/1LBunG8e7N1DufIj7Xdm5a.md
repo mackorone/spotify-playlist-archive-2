@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,887 songs - 11 day 1 hr 9 min
+4,889 songs - 11 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 | 2025-05-16 |  |
 | [Cinico](https://open.spotify.com/track/4jnbwRNHoKNUZlQx6sTHBQ) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Cinico](https://open.spotify.com/album/1kautYbCKwv3SHc4BTRG4W) | 3:55 | 2026-02-13 |  |
 | [Circle](https://open.spotify.com/track/1ZAaAQIEdyjVsLksHQ4OsF) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [volume 1](https://open.spotify.com/album/32rJQIOwi05ntcM63HrBMv) | 3:54 | 2026-08-13 |  |
+| [Circles.](https://open.spotify.com/track/3JIbKIazg8zymTcObTRZ8N) | [Şaşkın](https://open.spotify.com/artist/1OOUQZ8MAjTIvCEY75mVIF) | [Circles.](https://open.spotify.com/album/4yqaoLivWeD5fu0bBvH8rG) | 3:48 | 2026-10-15 |  |
 | [City Lights](https://open.spotify.com/track/1TNDtodNlIpObANzsbmare) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Brit pop emotions](https://open.spotify.com/album/5WC359ysjzx5ttU8vtw59R) | 3:17 | 2025-08-19 |  |
 | [City Lights](https://open.spotify.com/track/4L8xJ17lnbZJGelNtHOuVr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Contemporary Beat](https://open.spotify.com/album/1mSzbkXUupBlGjCc8R6bTx) | 3:40 | 2025-09-19 |  |
 | [City Lights \(2\)](https://open.spotify.com/track/3uwnBzR7kPCEfnV6iwicQk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Contemporary Beat](https://open.spotify.com/album/1mSzbkXUupBlGjCc8R6bTx) | 2:50 | 2025-09-19 |  |
@@ -3510,6 +3511,7 @@
 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 | 2026-06-13 |  |
 | [Roulette](https://open.spotify.com/track/2Y5TSpsBZtcB3xEhn48nZx) | [SANIE](https://open.spotify.com/artist/6hGhITRHyJ9SatLYAV58jK) | [Roulette](https://open.spotify.com/album/66wSLCLFpUEvWL0lx3Ow5i) | 2:40 | 2025-06-05 |  |
 | [ROULETTE DELL'ANIMA](https://open.spotify.com/track/0okook1MZEpjzb0aLbgV4p) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 2:00 | 2026-02-01 |  |
+| [Roundabout](https://open.spotify.com/track/5ubJywKQxqVWVBSYOkxda7) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Roundabout](https://open.spotify.com/album/4V8ViZcy59VM5FyWh2ugaF) | 2:59 | 2026-10-15 |  |
 | [Route 66 Centennial](https://open.spotify.com/track/68lo19a7FTZhSmvWAZgzNe) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:02 | 2026-04-13 |  |
 | [Route 66 Centennial \(fomo mode\)](https://open.spotify.com/track/5fwp1A0DzylARV3tr32CZK) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:03 | 2026-04-13 |  |
 | [Rovella](https://open.spotify.com/track/6U6odbewmRHwza3BR0s7ts) | [Marco Calabrese](https://open.spotify.com/artist/6EMeR1KHvPd2YoOw8pOqq8) | [Rovella](https://open.spotify.com/album/20pr01m3WumxEMifOgHG7E) | 3:40 | 2025-06-29 |  |

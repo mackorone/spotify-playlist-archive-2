@@ -1,12 +1,12 @@
 {
   "description": "The new & hottest K-Pop is here! (Cover: MEOVV)",
-  "num_followers": 6125362,
+  "num_followers": 6126063,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKq+w5aSx7FxeKZmmfM4IJWW0Gcn",
+  "snapshot_id": "AAAAAANOdD9SBX0455xJRZ/DPjcmpFrs",
   "tracks": [
     {
       "added_at": "2026-10-14 04:37:52",
@@ -189,6 +189,26 @@
       "url": "https://open.spotify.com/track/20QSTolol0EyLCVoOmGgAs"
     },
     {
+      "added_at": "2026-10-15 13:19:58",
+      "album": {
+        "name": "TATA",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINAMI",
+          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
+    },
+    {
       "added_at": "2026-10-02 09:00:20",
       "album": {
         "name": "TUNE & PLAY",
@@ -257,10 +277,10 @@
       "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"
     },
     {
-      "added_at": "2026-10-02 09:00:20",
+      "added_at": "2026-10-15 04:29:14",
       "album": {
-        "name": "ICONIC HEART",
-        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
+        "name": "ICONIC HEART (Korean Version)",
+        "url": "https://open.spotify.com/album/7a8DYa6HRY7TK0AWtUDv46"
       },
       "artists": [
         {
@@ -269,8 +289,8 @@
         }
       ],
       "duration_ms": 189000,
-      "name": "ICONIC HEART",
-      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
+      "name": "ICONIC HEART - Korean Version",
+      "url": "https://open.spotify.com/track/2BLHTFy1rAtYwmm0uEFAuj"
     },
     {
       "added_at": "2026-10-02 09:00:20",

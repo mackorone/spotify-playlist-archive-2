@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "I Gave You My Heart",
+        "url": "https://open.spotify.com/album/4wCdQTF8HpVT0brBfaoXow"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Sky",
+          "url": "https://open.spotify.com/artist/7mtBagxlj27ioxPZIWu8Bx"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "I Gave You My Heart",
+      "url": "https://open.spotify.com/track/55RciK3IFBGOslXqFeG2C7"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj"
       },
@@ -4461,7 +4479,7 @@
         },
         {
           "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+          "url": "https://open.spotify.com/artist/4D7fZ7tqMiLJQMc8kO5SFh"
         }
       ],
       "date_added": "2026-03-13",
@@ -5026,6 +5044,24 @@
       "duration_ms": 218709,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/4YBdGnlEDndGK097elsPtZ"
+    },
+    {
+      "album": {
+        "name": "Midnight Tides",
+        "url": "https://open.spotify.com/album/3AKP1bRx2O6J3zTuhAGWTw"
+      },
+      "artists": [
+        {
+          "name": "Maone",
+          "url": "https://open.spotify.com/artist/3lHCbPkaSUJPiqQ9ZJLEOj"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Midnight Tides",
+      "url": "https://open.spotify.com/track/4dGI47PyZaGUlIdfgB7qVv"
     },
     {
       "album": {
@@ -5708,7 +5744,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165616,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
@@ -5896,6 +5932,24 @@
       "duration_ms": 134244,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
+    },
+    {
+      "album": {
+        "name": "One Dance",
+        "url": "https://open.spotify.com/album/0Pjq5dT7JR9RhuCTyAvvRc"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202371,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/2fnWyVkJvFAVTrHVtXqB1g"
     },
     {
       "album": {
@@ -7072,7 +7126,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 164262,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1N8iihpcp6T6B8kOod9ZL8"
@@ -8728,7 +8782,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169848,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/4hxfDyKM72KGZfJWmbOKwV"

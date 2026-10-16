@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADSA4V9dEmHTia3BZztpk8k",
+  "snapshot_id": "as7GAAAAAAAsNpxzj11tM7Bhx8E5ErBy",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoukei to Shikabane no Michi (TV Size)",
+        "url": "https://open.spotify.com/album/0B5nGSu5QfWrlgdwzEw3uG"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 90090,
+      "name": "Shokei to Shikabane no Michi - TV Size",
+      "url": "https://open.spotify.com/track/0q8WLWTRdN7XcNCoZIxCu9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rakuen Eno Shingeki",
         "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 240573,
       "name": "Akatsuki no Requiem",
       "url": "https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shinjitsu eno Shingeki",
-        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 276176,
-      "name": "Shoukei to Shikabane no Michi",
-      "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 341344,
-      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
-      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+      "duration_ms": 277346,
+      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
+      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
     },
     {
       "added_at": null,
@@ -279,6 +279,54 @@
       "duration_ms": 349693,
       "name": "\u81ea\u7531\u306e\u4ee3\u511f",
       "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 372004,
+      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
+      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 341344,
+      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
+      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 327040,
+      "name": "Nikagetsugo no Kimi e",
+      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
     },
     {
       "added_at": null,
@@ -311,54 +359,6 @@
       "duration_ms": 311013,
       "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
       "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 327040,
-      "name": "Nikagetsugo no Kimi e",
-      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
-        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 372004,
-      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
-      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
-        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 277346,
-      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
-      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
     },
     {
       "added_at": null,

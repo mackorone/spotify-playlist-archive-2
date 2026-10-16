@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Zenar &amp; Nick Jam",
-  "num_followers": 117633,
+  "num_followers": 117625,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiEw1FvlVvo1D35jxqx161NPqF+Mxc",
+  "snapshot_id": "AAAiFzGGFVtZxJxOSkrihOdiyDqZhCa5",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:00:04",
+      "album": {
+        "name": "SAVIOUR",
+        "url": "https://open.spotify.com/album/0QbTmgwvwHG8r8WYaIIOZe"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 191838,
+      "name": "SAVIOUR",
+      "url": "https://open.spotify.com/track/44nRfsoES2tkjF62xCFEt5"
+    },
     {
       "added_at": "2026-10-08 22:00:05",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 182857,
       "name": "Te conoc\u00ed - with Nicky Jam",
       "url": "https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP"
+    },
+    {
+      "added_at": "2026-10-15 22:00:03",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/39KVeMOz1iqr9Ru5hJoH2f"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 180948,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2DyP03O6zbss0LUxrur45b"
     },
     {
       "added_at": "2026-10-01 22:00:05",
@@ -49,6 +81,22 @@
       "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
     },
     {
+      "added_at": "2026-10-15 22:00:01",
+      "album": {
+        "name": "Dance Is Math",
+        "url": "https://open.spotify.com/album/5fBgbbY3p73ynUP7TJAstS"
+      },
+      "artists": [
+        {
+          "name": "Fenrick",
+          "url": "https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Dance Is Math",
+      "url": "https://open.spotify.com/track/5f12PBvlqhsj4F04PgpgRb"
+    },
+    {
       "added_at": "2026-10-08 22:00:02",
       "album": {
         "name": "Never Stop",
@@ -67,6 +115,22 @@
       "duration_ms": 152343,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
+    },
+    {
+      "added_at": "2026-10-15 22:00:06",
+      "album": {
+        "name": "Do It Like",
+        "url": "https://open.spotify.com/album/7ErKs5p11aSO8wlDk8wggA"
+      },
+      "artists": [
+        {
+          "name": "Stoac",
+          "url": "https://open.spotify.com/artist/7HtlhgUOpzFpZi8fDWdFd7"
+        }
+      ],
+      "duration_ms": 181363,
+      "name": "Do It Like",
+      "url": "https://open.spotify.com/track/6fCfnf1sLHfbPccmaAlZkN"
     },
     {
       "added_at": "2026-10-01 22:00:04",

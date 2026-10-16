@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/3eZ0xeHq1CMzaxxQXQi5Nd"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199005,
+      "name": "22 Durnham Dew",
+      "url": "https://open.spotify.com/track/7FIdb3RznfvfDgGPY8b4ab"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161619,
       "name": "Dog Left In The Rain",
       "url": "https://open.spotify.com/track/0yJTsYsFOrL9KFjMQBPnTN"

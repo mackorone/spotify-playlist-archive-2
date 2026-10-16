@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  NO11",
+  "description": "Where afrobeats meets amapiano.\nCover:  Pheelz",
   "name": "afro-piano",
   "tracks": [
     {
@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Cash Rules Everything Around Us",
+        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156314,
+      "name": "Cash Rules Everything Around Us",
+      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
+    },
+    {
+      "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 174857,
       "name": "eko",
       "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
@@ -2393,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "Involve Me",
+        "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
+      },
+      "artists": [
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155044,
+      "name": "Involve Me",
+      "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
+    },
+    {
+      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -3394,7 +3434,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 139285,
       "name": "Mr Caesar",
       "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
@@ -3665,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152869,
+      "name": "ONAZO!",
+      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
+    },
+    {
+      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -3852,7 +3910,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 144157,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/7jr8OZ81UN4PUz92h5mIM4"
@@ -4218,6 +4276,24 @@
       "duration_ms": 249999,
       "name": "ROOTS",
       "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
+    },
+    {
+      "album": {
+        "name": "Round One (Elle Mummy)",
+        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Round One (Elle Mummy)",
+      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
     },
     {
       "album": {
@@ -4975,6 +5051,28 @@
     },
     {
       "album": {
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "OctobersRich",
+          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99487,
+      "name": "WINDOW",
+      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
+    },
+    {
+      "album": {
         "name": "WON DA",
         "url": "https://open.spotify.com/album/2a2mBXdQubqWWVTHZKAqwj"
       },
@@ -5016,7 +5114,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 159913,
       "name": "WOUNJURE #SWAG",
       "url": "https://open.spotify.com/track/3GplG4l4xNcDq2vfeVrGQB"
@@ -5038,7 +5136,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197522,
       "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"

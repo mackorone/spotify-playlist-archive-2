@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,320 songs - 3 day 1 hr 6 min
+1,321 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Lone](https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Lone](https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1) | 4:14 | 2022-03-04 | 2022-05-17 |
 | [Lonely](https://open.spotify.com/track/1DV7TkWJatSTo5rbihHYVu) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Lonely / Whatever Brought Us Here](https://open.spotify.com/album/2i3vlZ4eKY8onPTB9MyxoJ) | 3:00 | 2026-08-27 |  |
 | [Lonely](https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Lonely](https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe) | 2:19 | 2024-09-12 | 2024-12-06 |
+| [LONELY](https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [LONELY](https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg) | 2:47 | 2026-10-15 |  |
 | [Long Ago](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE) | [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Long Ago](https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y) | 4:20 | 2023-03-01 | 2023-05-30 |
 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 | 2026-01-19 | 2026-05-13 |
 | [Look At Me Now](https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Look At Me Now](https://open.spotify.com/album/1iLkcAxnDp88Qut1FmWF8U) | 3:37 | 2026-03-26 | 2026-07-10 |

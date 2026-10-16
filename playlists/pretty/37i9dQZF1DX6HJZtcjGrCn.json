@@ -1,15 +1,35 @@
 {
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Capit\u00e3o Fausto",
-  "num_followers": 40838,
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: NAPA",
+  "num_followers": 40837,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxVgMvcATtdlDyhQqo8EhBsZ9n6",
+  "snapshot_id": "AAAAAFvX4xhW+YhhbMGyZfwRR0YxJqEN",
   "tracks": [
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Semitr\u00f3pico",
+        "url": "https://open.spotify.com/album/1xiZNq2nKPwevEr6J4OPjJ"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 254969,
+      "name": "Can\u00e7\u00e3o Pra Dois",
+      "url": "https://open.spotify.com/track/0RVRvmYO2IBv96Y9Qf3JrC"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Quando Vais Dormir",
         "url": "https://open.spotify.com/album/2nvG2O7UqxcjyxUe8qaJPl"
@@ -25,23 +45,7 @@
       "url": "https://open.spotify.com/track/0H23YjOe2jKUJdWCESV9oM"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -57,59 +61,59 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "N'Essa Rua",
-        "url": "https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT"
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
       "artists": [
         {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         },
         {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 165500,
-      "name": "N'Essa Rua",
-      "url": "https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt"
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Surto",
-        "url": "https://open.spotify.com/album/3b3O0odN3O0ktd5kfIjRUB"
-      },
-      "artists": [
-        {
-          "name": "Milhanas",
-          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
-        }
-      ],
-      "duration_ms": 176574,
-      "name": "Se o jardim secar",
-      "url": "https://open.spotify.com/track/4CQv4FfZz62MxIgwlO529C"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Cr\u00f3nicas do Monte Zeus",
-        "url": "https://open.spotify.com/album/4sn7gsL6fO7bQVYVSHh9Ab"
-      },
-      "artists": [
-        {
-          "name": "Benjamim",
-          "url": "https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc"
-        }
-      ],
-      "duration_ms": 238337,
-      "name": "Amor Oper\u00e1rio",
-      "url": "https://open.spotify.com/track/7mLpPjlQ3mpvkufndomkAq"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "retic\u00eancias",
         "url": "https://open.spotify.com/album/2MSi1jgpxBlmttkG7DOMQx"
@@ -129,147 +133,7 @@
       "url": "https://open.spotify.com/track/2p8tgfcbBKcVXykzPLHqz2"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "quase nada",
-        "url": "https://open.spotify.com/album/4idHrxnCqiGkWbj1syFMmH"
-      },
-      "artists": [
-        {
-          "name": "ed",
-          "url": "https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m"
-        }
-      ],
-      "duration_ms": 185281,
-      "name": "quase nada",
-      "url": "https://open.spotify.com/track/3YFhVDpDYhGJIGnVoT27Cq"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "N\u00e3o Canto Porque Sonho",
-        "url": "https://open.spotify.com/album/1FW4Zl8cuSF7jxfc5MaxPu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Branco",
-          "url": "https://open.spotify.com/artist/7BCNNSSoCrteCcRoEKlm0g"
-        },
-        {
-          "name": "Noiserv",
-          "url": "https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys"
-        },
-        {
-          "name": "Tipo",
-          "url": "https://open.spotify.com/artist/6i09xszvXLDEQps4uMzqck"
-        }
-      ],
-      "duration_ms": 254011,
-      "name": "N\u00e3o Canto Porque Sonho",
-      "url": "https://open.spotify.com/track/3mG6GWAF7XlQxSD8pIWV3F"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Um Mais Um",
-        "url": "https://open.spotify.com/album/4uIMh5zR0GYAnSaLf2Ehfy"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 171297,
-      "name": "Um Mais Um",
-      "url": "https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/5auvzmaGYrLSWdbPZtNR9x"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        }
-      ],
-      "duration_ms": 243676,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/42mg6aq8u2myBFdBNMFo63"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Tr\u00eas Noites (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2"
-      },
-      "artists": [
-        {
-          "name": "Nunca Mates o Mandarim",
-          "url": "https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ"
-        },
-        {
-          "name": "Lu\u00eds Lucas",
-          "url": "https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe"
-        }
-      ],
-      "duration_ms": 295977,
-      "name": "Tr\u00eas Noites - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Aquele Abra\u00e7o",
-        "url": "https://open.spotify.com/album/0ApmgQ8TbmunL70MxRw6gz"
-      },
-      "artists": [
-        {
-          "name": "Filipe Karlsson",
-          "url": "https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6"
-        }
-      ],
-      "duration_ms": 163672,
-      "name": "Aquele Abra\u00e7o",
-      "url": "https://open.spotify.com/track/52RpSKRy5lcYps3dXs9aeV"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Sou Gente Outra Vez",
-        "url": "https://open.spotify.com/album/7qfjxVM3xHJ4KQJU0C3MA1"
-      },
-      "artists": [
-        {
-          "name": "Cassete Pirata",
-          "url": "https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "Sou Gente Outra Vez",
-      "url": "https://open.spotify.com/track/0j05nCNwPM2xZY9K9Icxlb"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Fala Bem",
-        "url": "https://open.spotify.com/album/7LYs2BW6mdSS227wRPhCkF"
-      },
-      "artists": [
-        {
-          "name": "Rita Redshoes",
-          "url": "https://open.spotify.com/artist/3Bce8amCAcl1Icpz8ebKVy"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Fala Bem",
-      "url": "https://open.spotify.com/track/6DOB7QK6gio2SfxQeDsWSt"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Quero L\u00e1 Saber",
         "url": "https://open.spotify.com/album/3a4OCyavg39d7FQaNTLLJx"
@@ -289,7 +153,143 @@
       "url": "https://open.spotify.com/track/1Z5iWAbfooHEdp6uKzPj6o"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "quase nada",
+        "url": "https://open.spotify.com/album/4idHrxnCqiGkWbj1syFMmH"
+      },
+      "artists": [
+        {
+          "name": "ed",
+          "url": "https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m"
+        }
+      ],
+      "duration_ms": 185281,
+      "name": "quase nada",
+      "url": "https://open.spotify.com/track/3YFhVDpDYhGJIGnVoT27Cq"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Surto",
+        "url": "https://open.spotify.com/album/3b3O0odN3O0ktd5kfIjRUB"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "duration_ms": 176574,
+      "name": "Se o jardim secar",
+      "url": "https://open.spotify.com/track/4CQv4FfZz62MxIgwlO529C"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "N'Essa Rua",
+        "url": "https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "N'Essa Rua",
+      "url": "https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Tr\u00eas Noites (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2"
+      },
+      "artists": [
+        {
+          "name": "Nunca Mates o Mandarim",
+          "url": "https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ"
+        },
+        {
+          "name": "Lu\u00eds Lucas",
+          "url": "https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe"
+        }
+      ],
+      "duration_ms": 295977,
+      "name": "Tr\u00eas Noites - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/5auvzmaGYrLSWdbPZtNR9x"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "duration_ms": 243676,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/42mg6aq8u2myBFdBNMFo63"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Sou Gente Outra Vez",
+        "url": "https://open.spotify.com/album/7qfjxVM3xHJ4KQJU0C3MA1"
+      },
+      "artists": [
+        {
+          "name": "Cassete Pirata",
+          "url": "https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "Sou Gente Outra Vez",
+      "url": "https://open.spotify.com/track/0j05nCNwPM2xZY9K9Icxlb"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Fala Bem",
+        "url": "https://open.spotify.com/album/7LYs2BW6mdSS227wRPhCkF"
+      },
+      "artists": [
+        {
+          "name": "Rita Redshoes",
+          "url": "https://open.spotify.com/artist/3Bce8amCAcl1Icpz8ebKVy"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Fala Bem",
+      "url": "https://open.spotify.com/track/6DOB7QK6gio2SfxQeDsWSt"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Pr\u00f3logo",
+        "url": "https://open.spotify.com/album/31ujjBhs20A2Hu0Ktybrum"
+      },
+      "artists": [
+        {
+          "name": "Gon\u00e7alo Gomes",
+          "url": "https://open.spotify.com/artist/57UJld56DwSVOFCXuHJ8qi"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Mau da Fita",
+      "url": "https://open.spotify.com/track/03paVlIZB12fIyg9fLqsPX"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Marianne",
         "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "purgat\u00f3rio (Crisi)",
         "url": "https://open.spotify.com/album/1Bkutf7IV47JXOdpq8Hj85"
@@ -321,23 +321,23 @@
       "url": "https://open.spotify.com/track/63LsuUAN1CTRQfgtS9y499"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "A Cada Passo Que Dou",
-        "url": "https://open.spotify.com/album/6hybWHAJd5VE69gY9lQxwQ"
+        "name": "Sofrimento",
+        "url": "https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU"
       },
       "artists": [
         {
-          "name": "Xico Gaiato",
-          "url": "https://open.spotify.com/artist/6aAB6u4yMhkK5YvtDJW1dK"
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
         }
       ],
-      "duration_ms": 156218,
-      "name": "A Cada Passo Que Dou",
-      "url": "https://open.spotify.com/track/4lAMCFyVfuswxDCsU7lOza"
+      "duration_ms": 258549,
+      "name": "Sofrimento",
+      "url": "https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Coitadinho",
         "url": "https://open.spotify.com/album/34tuylP0gM9B8FWivB0PNl"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5j6u5G59T0zKMOgQ0MYn82"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Mesmo sem querer / Ningu\u00e9m o vai parar",
         "url": "https://open.spotify.com/album/7wir76GW4NJPYD3UeSbeka"
@@ -373,39 +373,39 @@
       "url": "https://open.spotify.com/track/7n1zBR0xyMMylm2a0BwM5Z"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "Sofrimento",
-        "url": "https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU"
+        "name": "suspenso",
+        "url": "https://open.spotify.com/album/4P1HwUpGqSw4hBNOd3eN3z"
       },
       "artists": [
         {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+          "name": "TOTA",
+          "url": "https://open.spotify.com/artist/5E4Co7JcDatdwl6c6ti55N"
         }
       ],
-      "duration_ms": 258549,
-      "name": "Sofrimento",
-      "url": "https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep"
+      "duration_ms": 246101,
+      "name": "suspenso",
+      "url": "https://open.spotify.com/track/2T924hI8GyXYiVMa1w54sV"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+        "name": "A Cada Passo Que Dou",
+        "url": "https://open.spotify.com/album/6hybWHAJd5VE69gY9lQxwQ"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Xico Gaiato",
+          "url": "https://open.spotify.com/artist/6aAB6u4yMhkK5YvtDJW1dK"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+      "duration_ms": 156218,
+      "name": "A Cada Passo Que Dou",
+      "url": "https://open.spotify.com/track/4lAMCFyVfuswxDCsU7lOza"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Who's the Clown?",
         "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "White Feather Hawk Tail Deer Hunter",
         "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "(((((ultraSOUND)))))",
         "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
@@ -713,23 +713,7 @@
       "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Daughter from Hell",
-      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
@@ -745,7 +729,23 @@
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Daughter from Hell",
+      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Porch Light",
         "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Twizzler",
         "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Music, Fashion, Film",
         "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Anna Karenina",
         "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "The Wave",
         "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Switchblade",
         "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Elegantly Wasted [Feat. Leon Bridges]",
         "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Going Shopping",
         "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "End Of Summer",
         "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
@@ -1033,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
@@ -1049,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Essex Honey",
         "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
@@ -1065,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
@@ -1081,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "EP #2",
         "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
@@ -1097,7 +1097,7 @@
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
@@ -1129,23 +1129,7 @@
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
-      "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
-    },
-    {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "The Crux Deluxe",
         "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
@@ -1161,7 +1145,23 @@
       "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Falling out of Love",
         "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
@@ -1249,7 +1249,7 @@
       "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Whale Call",
         "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
-      "added_at": "2026-10-09 05:09:05",
+      "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"

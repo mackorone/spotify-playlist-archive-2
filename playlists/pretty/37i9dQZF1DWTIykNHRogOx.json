@@ -1,18 +1,34 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec TeddyBear.",
-  "num_followers": 445277,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec No\u00e9 Preszow.",
+  "num_followers": 445273,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHRvzBWuweRVlGjBMzIQLqr0EESj",
+  "snapshot_id": "AAAAANiF3sIgRouxYUr95nN8W/7hy80f",
   "tracks": [
     {
-      "added_at": "2026-09-17 22:01:59",
+      "added_at": "2026-10-08 22:02:12",
       "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+        "name": "Noir Jaune Rouge",
+        "url": "https://open.spotify.com/album/4ouEqlPzTzVVT91yOoXs4Y"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Noir Jaune Rouge",
+      "url": "https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2"
+    },
+    {
+      "added_at": "2026-10-15 22:01:32",
+      "album": {
+        "name": "L'Humain",
+        "url": "https://open.spotify.com/album/1kAZZCiEqvD9mCZtdVcR8R"
       },
       "artists": [
         {
@@ -20,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
         }
       ],
-      "duration_ms": 168935,
-      "name": "Le Plus Beau",
-      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
+      "duration_ms": 195506,
+      "name": "L'Humain",
+      "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
     },
     {
-      "added_at": "2026-10-08 22:02:12",
+      "added_at": "2026-10-15 22:01:32",
       "album": {
-        "name": "Noir Jaune Rouge",
-        "url": "https://open.spotify.com/album/4ouEqlPzTzVVT91yOoXs4Y"
+        "name": "Maman travaille trop",
+        "url": "https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ"
       },
       "artists": [
         {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
         }
       ],
-      "duration_ms": 258040,
-      "name": "Noir Jaune Rouge",
-      "url": "https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2"
+      "duration_ms": 172036,
+      "name": "Maman travaille trop",
+      "url": "https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -119,6 +135,22 @@
       "duration_ms": 186908,
       "name": "sous influence",
       "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+    },
+    {
+      "added_at": "2026-09-17 22:01:59",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "added_at": "2026-10-08 22:02:12",
@@ -141,6 +173,54 @@
       "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
     },
     {
+      "added_at": "2026-10-15 22:01:32",
+      "album": {
+        "name": "DANS LE LOINTAIN DE TA VOIX, UN REFUGE",
+        "url": "https://open.spotify.com/album/7JQWXnbHUzptmsoaFBfhFM"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "duration_ms": 249028,
+      "name": "APR\u00c8S TOI MILLE HIVERS",
+      "url": "https://open.spotify.com/track/0wMCbU9J9rCMMEwNo0i5D1"
+    },
+    {
+      "added_at": "2026-10-15 22:01:32",
+      "album": {
+        "name": "Ph\u00e9nom\u00e8ne",
+        "url": "https://open.spotify.com/album/1jhlEXyKFd7wHECLqEck2g"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Ph\u00e9nom\u00e8ne",
+      "url": "https://open.spotify.com/track/2sCwkZ5IRCYJDsM6EF6nx4"
+    },
+    {
+      "added_at": "2026-10-15 22:01:32",
+      "album": {
+        "name": "Partager le monde",
+        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Partager le monde",
+      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
+    },
+    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "\u00c9t\u00e9 avec toi",
@@ -157,22 +237,6 @@
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
     },
     {
-      "added_at": "2026-10-08 22:02:12",
-      "album": {
-        "name": "la maison s'effondre",
-        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
-      },
-      "artists": [
-        {
-          "name": "Alma Rechtman",
-          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "baisers puissants",
-      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
-    },
-    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "Ce qu'on devient",
@@ -187,22 +251,6 @@
       "duration_ms": 229306,
       "name": "Ce qu\u2019on devient - La cl\u00e9",
       "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
-    },
-    {
-      "added_at": "2026-10-08 22:02:12",
-      "album": {
-        "name": "mon c\u0153ur",
-        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
-      },
-      "artists": [
-        {
-          "name": "Coralie Fischer",
-          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "mon c\u0153ur",
-      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -257,6 +305,38 @@
       "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
     },
     {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "la maison s'effondre",
+        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "baisers puissants",
+      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
+    },
+    {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "mon c\u0153ur",
+        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
+      },
+      "artists": [
+        {
+          "name": "Coralie Fischer",
+          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "mon c\u0153ur",
+      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
+    },
+    {
       "added_at": "2026-10-01 22:02:00",
       "album": {
         "name": "souveraine : melancholia",
@@ -309,6 +389,22 @@
       "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
     },
     {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 177863,
+      "name": "dans dix ans",
+      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
+    },
+    {
       "added_at": "2026-09-17 22:01:59",
       "album": {
         "name": "Le monde ne tourne pas rond",
@@ -323,22 +419,6 @@
       "duration_ms": 211106,
       "name": "Le monde ne tourne pas rond",
       "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Enfin Bon",
-        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Enfin Bon",
-      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -419,22 +499,6 @@
       "duration_ms": 249480,
       "name": "Pour ce qui nous attend de mieux",
       "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 177863,
-      "name": "dans dix ans",
-      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
     },
     {
       "added_at": "2026-09-24 22:01:42",
@@ -683,22 +747,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "le village",
-        "url": "https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "le village",
-      "url": "https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "peut-\u00eatre!",
         "url": "https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC"
       },
@@ -711,22 +759,6 @@
       "duration_ms": 194039,
       "name": "peut-\u00eatre!",
       "url": "https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Yao",
-        "url": "https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "Yao",
-      "url": "https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -763,22 +795,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "A Chuva",
-        "url": "https://open.spotify.com/album/3GPMANzTJfjYTJTmrbdTcT"
-      },
-      "artists": [
-        {
-          "name": "Marco Ferreira",
-          "url": "https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona"
-        }
-      ],
-      "duration_ms": 169315,
-      "name": "A Chuva",
-      "url": "https://open.spotify.com/track/1E6VOGJTgoJFzkpOGLKrKA"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "\u00c7a change quoi ?",
         "url": "https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS"
       },
@@ -795,30 +811,6 @@
       "duration_ms": 150012,
       "name": "\u00c7a change quoi ?",
       "url": "https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "ENTRE TON \u00c9PAULE ET TON COEUR",
-        "url": "https://open.spotify.com/album/0L0axrxsQTpVgMs6aLWRP0"
-      },
-      "artists": [
-        {
-          "name": "RAVAGE",
-          "url": "https://open.spotify.com/artist/2nzJoceQS5bcczyqPolHq6"
-        },
-        {
-          "name": "Aur\u00e9lie Saada",
-          "url": "https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh"
-        },
-        {
-          "name": "Gaspard Royant",
-          "url": "https://open.spotify.com/artist/4TYLelqEy8Fy7dJrNPOmN4"
-        }
-      ],
-      "duration_ms": 202523,
-      "name": "ENTRE TON \u00c9PAULE ET TON COEUR",
-      "url": "https://open.spotify.com/track/6qoMOknWFZt2fQt22iyzgZ"
     },
     {
       "added_at": "2026-09-10 22:00:49",

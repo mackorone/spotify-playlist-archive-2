@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Asteria",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Abdullah Siddiqui",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Farvari",
+        "url": "https://open.spotify.com/album/58doQEPLSgCirXqBzgVKGu"
+      },
+      "artists": [
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Farvari",
+      "url": "https://open.spotify.com/track/6xNFZCKGpCRUHUQng3rx82"
+    },
+    {
+      "album": {
         "name": "Faryaad",
         "url": "https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z"
       },
@@ -4213,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Kahani adhuri si",
+        "url": "https://open.spotify.com/album/1UP6SKUepHid7sOBLSbR8U"
+      },
+      "artists": [
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253122,
+      "name": "Kahani adhuri si",
+      "url": "https://open.spotify.com/track/7a1CYnyYZE4MvdpmDdyo4y"
+    },
+    {
+      "album": {
         "name": "Kahani Meri",
         "url": "https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc"
       },
@@ -4756,6 +4792,28 @@
       "duration_ms": 229199,
       "name": "Khwahishain",
       "url": "https://open.spotify.com/track/3JnlRLK9emP2AY7q9kh5aO"
+    },
+    {
+      "album": {
+        "name": "Ki Be Dardan",
+        "url": "https://open.spotify.com/album/6F1twkTrRBas9tcvix6ip4"
+      },
+      "artists": [
+        {
+          "name": "Akbar Ali",
+          "url": "https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z"
+        },
+        {
+          "name": "Trigger Tapes",
+          "url": "https://open.spotify.com/artist/1tHbtg79S5CVZOdLf5AdT9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "Ki Be Dardan",
+      "url": "https://open.spotify.com/track/1xnne96ziI2QVnizewzl5o"
     },
     {
       "album": {
@@ -9094,6 +9152,24 @@
       "duration_ms": 173179,
       "name": "Toko Mujhay",
       "url": "https://open.spotify.com/track/5QkFoOGV3aX2O5gj1Ypwvq"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5WQNCGMBigBtoDJWixJayt"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/298JAlQJJCeXJvZxJlW05t"
     },
     {
       "album": {

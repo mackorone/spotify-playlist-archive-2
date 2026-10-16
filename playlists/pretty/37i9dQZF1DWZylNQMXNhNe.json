@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247616,
+  "num_followers": 247612,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-09-25 03:00:37",
       "album": {
-        "name": "SANDRA ELETR\u00d4NICA",
-        "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
-      },
-      "artists": [
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "Drogas, Sexo, Techno, Repete!",
-      "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
-    },
-    {
-      "added_at": "2026-09-25 03:00:37",
-      "album": {
         "name": "8 HORAS DE PRAZER",
         "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 161777,
       "name": "8 HORAS DE PRAZER",
       "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
+    },
+    {
+      "added_at": "2026-09-25 03:00:37",
+      "album": {
+        "name": "SANDRA ELETR\u00d4NICA",
+        "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Drogas, Sexo, Techno, Repete!",
+      "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
     },
     {
       "added_at": "2026-09-25 03:00:37",

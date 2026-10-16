@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMxla2XHpv2CG4dYmE9r3UgCq76hAD",
+  "snapshot_id": "AAAMyCzU/ndDmgSDn6Ain921MnSV0HzJ",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -2539,6 +2539,38 @@
       "duration_ms": 298665,
       "name": "Healed by grace",
       "url": "https://open.spotify.com/track/4lACGHtRSMAdxITk9vkxKb"
+    },
+    {
+      "added_at": "2026-10-15 08:12:36",
+      "album": {
+        "name": "Foot Down On The Freeway",
+        "url": "https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy"
+      },
+      "artists": [
+        {
+          "name": "Static Revolver",
+          "url": "https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi"
+        }
+      ],
+      "duration_ms": 191111,
+      "name": "Foot Down On The Freeway",
+      "url": "https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx"
+    },
+    {
+      "added_at": "2026-10-15 14:17:15",
+      "album": {
+        "name": "Con:ter",
+        "url": "https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN"
+      },
+      "artists": [
+        {
+          "name": "Con:ter",
+          "url": "https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Kommst Du Mit",
+      "url": "https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

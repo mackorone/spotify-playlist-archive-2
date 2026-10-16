@@ -1,12 +1,12 @@
 {
   "description": "This is Central Cee. The essential tracks, all in one playlist.",
-  "num_followers": 343031,
+  "num_followers": 343089,
   "original_name": "This Is Central Cee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAABFbtau8YBqzDQ/BbzUExFq",
+  "snapshot_id": "as7GAAAAAAA9mjVfSIbQWnDsUsOM4qe4",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
       },
       "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
         {
           "name": "Central Cee",
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 205879,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf"
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/1vrHvLIgh1wjMFpjTr5bMu"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL ROADS LEAD HOME",
-        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
         {
           "name": "Central Cee",
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 186000,
-      "name": "ICEMAN FREESTYLE",
-      "url": "https://open.spotify.com/track/1vrHvLIgh1wjMFpjTr5bMu"
+      "duration_ms": 205879,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf"
     },
     {
       "added_at": null,

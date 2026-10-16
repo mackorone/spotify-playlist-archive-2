@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! Change up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,692 likes - 91 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,735 likes - 91 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Is NMIXX Audio Liner](https://open.spotify.com/track/2whQdEBB308CuSpt7rBR8a) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 0:14 |
-| 2 | [THE MIXXTOPIA SAGA 1](https://open.spotify.com/track/2bfYgLxs8nE7InssmJVMEA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:29 |
-| 3 | [THE MIXXTOPIA SAGA 2](https://open.spotify.com/track/2N0OdNr9zCzyZRzk0VQQ1o) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:00 |
-| 4 | [THE MIXXTOPIA SAGA 3](https://open.spotify.com/track/1oMEIFQBndYDg8A4kuzba6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:08 |
-| 5 | [THE MIXXTOPIA SAGA 4](https://open.spotify.com/track/15b6EyZ8NYwcIwwCoz4NaS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:25 |
-| 6 | [THE MIXXTOPIA SAGA 5](https://open.spotify.com/track/69NSJ4U9yOlA55kZDOHYsf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:53 |
-| 7 | [THE MIXXTOPIA SAGA 6](https://open.spotify.com/track/7r2sSeAzrrCSrqtKME4Aua) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:24 |
-| 8 | [THE MIXXTOPIA SAGA 7](https://open.spotify.com/track/0KN9KFozuRuNxzrJnM4sVR) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:29 |
+| 2 | [Everyone heads for adventure](https://open.spotify.com/track/2bfYgLxs8nE7InssmJVMEA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:29 |
+| 3 | [우리는 처음 만났지만 서로에 대해 이미 알고 있다](https://open.spotify.com/track/2N0OdNr9zCzyZRzk0VQQ1o) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:00 |
+| 4 | ['드디어'](https://open.spotify.com/track/1oMEIFQBndYDg8A4kuzba6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:08 |
+| 5 | [12개의 발자국](https://open.spotify.com/track/15b6EyZ8NYwcIwwCoz4NaS) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:25 |
+| 6 | [I’ll be with you](https://open.spotify.com/track/69NSJ4U9yOlA55kZDOHYsf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:53 |
+| 7 | [상상은 그녀를 어디로든 데려갔다](https://open.spotify.com/track/7r2sSeAzrrCSrqtKME4Aua) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 1:24 |
+| 8 | [Will this adventure be a success?](https://open.spotify.com/track/0KN9KFozuRuNxzrJnM4sVR) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [This Is NMIXX Audio Liners](https://open.spotify.com/album/6zCq78NSfXoDkzHcLC771R) | 2:29 |
 | 9 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
 | 10 | [SPINNIN′ ON IT](https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:16 |
 | 11 | [Phoenix](https://open.spotify.com/track/0Q5GvSTFxH8yk3A9ktC3iv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:44 |

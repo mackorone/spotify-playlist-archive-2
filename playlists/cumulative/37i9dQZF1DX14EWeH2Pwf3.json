@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rkomi in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
+  "description": "DAGOOD YL in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211250,
       "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
       "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -1614,6 +1614,24 @@
       "duration_ms": 269386,
       "name": "All'Ultimo Respiro",
       "url": "https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW"
+    },
+    {
+      "album": {
+        "name": "ALLA FINE",
+        "url": "https://open.spotify.com/album/6h4pCM54abtHOMwp0mmb7Q"
+      },
+      "artists": [
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195370,
+      "name": "ALLA FINE",
+      "url": "https://open.spotify.com/track/51exmtZgvJDmxdzW8dCXdQ"
     },
     {
       "album": {
@@ -4750,6 +4768,24 @@
       "duration_ms": 150526,
       "name": "Calma (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo"
+    },
+    {
+      "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116770,
+      "name": "CALVAIRATE CALIFORNIA",
+      "url": "https://open.spotify.com/track/0hiYUfLiO0aQYDDUtDj3TZ"
     },
     {
       "album": {
@@ -8041,6 +8077,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203192,
+      "name": "EMANUELE E ANDREA (feat. Shiva)",
+      "url": "https://open.spotify.com/track/0cnt8TurPDB0URgPEFPT39"
+    },
+    {
+      "album": {
         "name": "Emotions (feat. Tony Boy)",
         "url": "https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb"
       },
@@ -10485,6 +10543,28 @@
     },
     {
       "album": {
+        "name": "Guerra 2",
+        "url": "https://open.spotify.com/album/0221RjDxkUA2ilJdrjUqke"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "Guerra 2",
+      "url": "https://open.spotify.com/track/41Am9Wf5VPGbKZwzq0mxrT"
+    },
+    {
+      "album": {
         "name": "Guess Who's Back",
         "url": "https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr"
       },
@@ -11895,6 +11975,32 @@
     },
     {
       "album": {
+        "name": "Je ne sais pas (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/5X0g9a1Fp305lZQvLmr392"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Je ne sais pas (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0AGOXOfcDIRXwZtny26RDd"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
@@ -13050,6 +13156,24 @@
       "duration_ms": 146285,
       "name": "Leanin'",
       "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174891,
+      "name": "LEGGENDA",
+      "url": "https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV"
     },
     {
       "album": {
@@ -16623,6 +16747,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "NON SEI PI\u00d9 TU (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny"
+    },
+    {
+      "album": {
         "name": "NON SEMBRIAMO FELICI",
         "url": "https://open.spotify.com/album/3g3HiqQRW5uy6Tyr9izE1q"
       },
@@ -18830,7 +18976,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173774,
       "name": "PIENXA EN MI",
       "url": "https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP"
@@ -22914,7 +23060,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 200816,
       "name": "SPORTLIFE",
       "url": "https://open.spotify.com/track/7l2vPfyoq0ssCGCOA8Af50"

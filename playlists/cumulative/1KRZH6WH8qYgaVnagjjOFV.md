@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-238 songs - 15 hr 30 min
+239 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 | 2025-09-19 | 2026-06-02 |
 | [Loved By You](https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:03 | 2025-01-31 | 2025-09-23 |
 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-08 |  |
+| [Maker's Mark](https://open.spotify.com/track/4kqqJb2dXFcZM7fy3SCzVM) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:37 | 2026-10-15 |  |
 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 | 2024-11-01 |  |
-| [Me & Jesus](https://open.spotify.com/track/02j7pikjgJqmmQUBr23zPt) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:42 | 2026-07-10 |  |
+| [Me & Jesus](https://open.spotify.com/track/02j7pikjgJqmmQUBr23zPt) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:42 | 2026-07-10 | 2026-10-16 |
 | [Menace](https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Menace](https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK) | 3:21 | 2026-06-05 | 2026-07-25 |
 | [Mercy / Tremble](https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:42 | 2025-01-31 | 2025-09-20 |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:02 | 2025-02-28 |  |

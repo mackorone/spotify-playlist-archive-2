@@ -6339,6 +6339,28 @@
     },
     {
       "album": {
+        "name": "Trisikulo",
+        "url": "https://open.spotify.com/album/2LBma9pugz4QM1btCzMYjG"
+      },
+      "artists": [
+        {
+          "name": "Ziv",
+          "url": "https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t"
+        },
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169692,
+      "name": "Trisikulo",
+      "url": "https://open.spotify.com/track/5ZOcgcOuMamz9I4DscdCs8"
+    },
+    {
+      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C"
       },

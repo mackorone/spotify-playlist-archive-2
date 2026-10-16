@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
+  "description": "Look fear in the face. Scary movie themes, including tracks from Clayface, only in theatres.",
   "name": "Fright Fest",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 127360,
       "name": "A Nightmare On Elm Street",
       "url": "https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc"
@@ -193,6 +193,46 @@
     },
     {
       "album": {
+        "name": "Clayface Theme (from \"Clayface\")",
+        "url": "https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114946,
+      "name": "Clayface Theme - from \"Clayface\"",
+      "url": "https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs"
+    },
+    {
+      "album": {
+        "name": "A Nightmare on Elm Street 35th Anniversary (Selections from Wes Craven's A Nightmare On Elm Street)",
+        "url": "https://open.spotify.com/album/7uQto9ZpiOdAy5EMNmkSDi"
+      },
+      "artists": [
+        {
+          "name": "Charles Bernstein",
+          "url": "https://open.spotify.com/artist/1r5HqYbJ06Q75oCXSEdoJU"
+        },
+        {
+          "name": "Freddy Krueger",
+          "url": "https://open.spotify.com/artist/336kvMlm6XMCnJccdnWrt3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Come to Freddy / Main Title",
+      "url": "https://open.spotify.com/track/3CmS5XB51n50FlLiOAuZOK"
+    },
+    {
+      "album": {
         "name": "Jeepers Creepers (Score)",
         "url": "https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk"
       },
@@ -212,6 +252,24 @@
       "duration_ms": 162560,
       "name": "Creeper's Tale (From \"Jeepers Creepers\")",
       "url": "https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO"
+    },
+    {
+      "album": {
+        "name": "IT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124920,
+      "name": "Deadlights",
+      "url": "https://open.spotify.com/track/5UQEpK2VdAOzTuEPzpui1m"
     },
     {
       "album": {
@@ -356,7 +414,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Freddy's Coming For You",
       "url": "https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K"
@@ -392,7 +450,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 123134,
       "name": "Ghostbusters - Piano & Strings Version",
       "url": "https://open.spotify.com/track/3beAE0QZgk8GIKy3epPfAS"
@@ -414,6 +472,24 @@
       "duration_ms": 63755,
       "name": "Gr\u00fcnewald",
       "url": "https://open.spotify.com/track/3fNqTSlT3TqSdZOdP4ARkO"
+    },
+    {
+      "album": {
+        "name": "IT Chapter Two (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5H94TuqhT5k2odQ0aMUu3Y"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134066,
+      "name": "Hall of Mirrors",
+      "url": "https://open.spotify.com/track/1ukzF852rI3gSw9OOBn6Vz"
     },
     {
       "album": {
@@ -468,6 +544,28 @@
       "duration_ms": 102000,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/1Vya0Wd5w4HGeEvCipqg74"
+    },
+    {
+      "album": {
+        "name": "A Nightmare on Elm Street 35th Anniversary (Selections from Wes Craven's A Nightmare On Elm Street)",
+        "url": "https://open.spotify.com/album/7uQto9ZpiOdAy5EMNmkSDi"
+      },
+      "artists": [
+        {
+          "name": "Charles Bernstein",
+          "url": "https://open.spotify.com/artist/1r5HqYbJ06Q75oCXSEdoJU"
+        },
+        {
+          "name": "Freddy Krueger",
+          "url": "https://open.spotify.com/artist/336kvMlm6XMCnJccdnWrt3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70821,
+      "name": "I'm Your Boyfriend Now, Nancy / Telephone Terror",
+      "url": "https://open.spotify.com/track/6DnIByKXoD0AiDNvCqL0nr"
     },
     {
       "album": {
@@ -627,6 +725,32 @@
     },
     {
       "album": {
+        "name": "Weapons (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/77fF23B6tnhVZlLxynbCon"
+      },
+      "artists": [
+        {
+          "name": "Ryan Holladay",
+          "url": "https://open.spotify.com/artist/5Avhvu4chjrA10c0p70cOc"
+        },
+        {
+          "name": "Hays Holladay",
+          "url": "https://open.spotify.com/artist/2rcjIwc9iPMdaOMCSECtzk"
+        },
+        {
+          "name": "Zach Cregger",
+          "url": "https://open.spotify.com/artist/7bAw28j06w8E8lNncY40As"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118566,
+      "name": "Main Theme (from Weapons)",
+      "url": "https://open.spotify.com/track/0p1kpOfg9aZdwn20Jbv7qE"
+    },
+    {
+      "album": {
         "name": "Halloween Monster Collection - 55 Classic Tracks from the Best Scary Movies",
         "url": "https://open.spotify.com/album/1rLvz13VSlwKUdA4DVYwec"
       },
@@ -678,6 +802,24 @@
       "duration_ms": 252186,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU"
+    },
+    {
+      "album": {
+        "name": "Wes Craven's A Nightmare on Elm Street (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Tno1annbzyMzeoF44RXwI"
+      },
+      "artists": [
+        {
+          "name": "Charles Bernstein",
+          "url": "https://open.spotify.com/artist/1r5HqYbJ06Q75oCXSEdoJU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Main Title (A Nightmare on Elm Street)",
+      "url": "https://open.spotify.com/track/68ml3Lm4GNTlpNmmUJfvUu"
     },
     {
       "album": {
@@ -808,6 +950,24 @@
       "duration_ms": 97314,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1dDBCtOZbf0M6tlpjAWB6D"
+    },
+    {
+      "album": {
+        "name": "Other Mommy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iSeMdYhSrTTB0CSc918OR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "Other Mommy Reprise",
+      "url": "https://open.spotify.com/track/2xWSiWu6aDgFrwrnh7wRTM"
     },
     {
       "album": {
@@ -1136,6 +1296,24 @@
       "duration_ms": 97093,
       "name": "Sidney's Lament - From \"Scream\"",
       "url": "https://open.spotify.com/track/0V7wkk4c6GUJyVs8Ou2XpF"
+    },
+    {
+      "album": {
+        "name": "Sinister (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4isNDcdh05jGd91v2h6tbC"
+      },
+      "artists": [
+        {
+          "name": "Christopher Young",
+          "url": "https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264826,
+      "name": "Sinister",
+      "url": "https://open.spotify.com/track/37AeIi2vuBSWmJdG3zXn3k"
     },
     {
       "album": {
@@ -1588,6 +1766,60 @@
       "duration_ms": 199200,
       "name": "This is Halloween",
       "url": "https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD"
+    },
+    {
+      "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/59BNWzDecXxvS1r5JsVrzp"
+    },
+    {
+      "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq"
+    },
+    {
+      "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/7xXrZH16UoKpdSxjNslUzw"
     },
     {
       "album": {

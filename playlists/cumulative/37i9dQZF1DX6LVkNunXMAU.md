@@ -4,7 +4,7 @@
 
 > Folk latino de estación\. Foto: Camila Bañados
 
-426 songs - 23 hr 21 min
+428 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Rua Lisboa](https://open.spotify.com/track/0c2CiUEiiw9O0aF58VCRs1) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Rua Lisboa](https://open.spotify.com/album/4IU0F8RFPwcw9q0k9GGh3O) | 3:11 | 2023-10-06 | 2024-01-07 |
 | [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 | 2023-04-07 | 2024-09-27 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-05-20 | 2024-09-27 |
+| [Santiago de Nadie](https://open.spotify.com/track/3Bk8RFKchqd5WKOp4jz0Lb) | [Paisano](https://open.spotify.com/artist/121UaZBofpgTXFSEZojXh3) | [Santiago de Nadie](https://open.spotify.com/album/2KVqYKOW9HC07agiLiQiys) | 4:21 | 2026-10-16 |  |
 | [Sentado Esperando](https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9) | [Sentado Esperando](https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2) | 4:17 | 2024-09-26 | 2026-09-12 |
 | [Sentimientos](https://open.spotify.com/track/7CaDm6qJKC4f3PuUiUsc2T) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sentimientos](https://open.spotify.com/album/3SyvjffyNzzp6GjLBvmZ3P) | 4:00 | 2026-08-28 |  |
 | [Sequía](https://open.spotify.com/track/0ARR3l1yzjK0E3BLL9lvZK) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Sequía](https://open.spotify.com/album/6JBFi4aWk56THgFa7DQJPj) | 3:29 | 2022-05-20 | 2022-08-27 |
@@ -433,6 +434,7 @@
 | [Yo Invito](https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Yo Invito](https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH) | 3:11 | 2022-05-20 | 2023-04-15 |
 | [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-07-18 |  |
 | [Árboles](https://open.spotify.com/track/5y4J5an3AUHCgyAdi7a7Iq) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/3m0R7fX6Gsd7fd7nyQ3FJd) | 2:34 | 2023-07-14 | 2023-08-12 |
+| [Última foto](https://open.spotify.com/track/2t2sGnJsjZjlmpXejQuSDX) | [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Giu Azul](https://open.spotify.com/artist/2WeIvQUrTkrmwhB3ZmQwXf) | [Última foto](https://open.spotify.com/album/530eSUqXhg1c1UF5tZ3kKb) | 3:07 | 2026-10-16 |  |
 | [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 | 2025-10-27 | 2026-07-03 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

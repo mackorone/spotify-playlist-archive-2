@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-810 songs - 2 day 2 hr 26 min
+812 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2026-04-27 | 2026-05-26 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-06-18 | 2026-07-12 |
 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 | 2026-04-21 |
+| [Foot Down On The Freeway](https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Foot Down On The Freeway](https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy) | 3:11 | 2026-10-15 |  |
 | [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 | 2026-05-05 | 2026-05-26 |
 | [Forbidden Fruit](https://open.spotify.com/track/3ZooZAL52Vt7UWFlpBOr7l) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Forbidden Fruit](https://open.spotify.com/album/5CZ1DxtWeHoPgTFPBOxrUr) | 3:42 | 2026-10-14 |  |
 | [Forgive](https://open.spotify.com/track/5ytMfGDejFHiRfVmdjF78L) | [Death is a Bastard](https://open.spotify.com/artist/2sQoCJHOl4SChaJkymcsPY) | [Forgive](https://open.spotify.com/album/0zGmjvzjzdqKpdVa5iHVBB) | 5:46 | 2026-04-12 |  |
@@ -372,6 +373,7 @@
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 | 2026-07-26 | 2026-08-15 |
 | [Knottamun](https://open.spotify.com/track/4cj2mmO3p7ai4wqntGHkLL) | [DriftKin](https://open.spotify.com/artist/2ckHeRf1toBEDN7mos54nm) | [Knottamun](https://open.spotify.com/album/7gEP4C4P6qQ4TWXc1JPk5G) | 3:04 | 2026-08-29 |  |
+| [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:31 | 2026-10-15 |  |
 | [Kryptonite](https://open.spotify.com/track/51FvtQMsWXSDS7bmnOqDcD) | [Mama Said](https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V) | [Kryptonite](https://open.spotify.com/album/2Ttr0fh2gvZQuurlb5Nav6) | 3:07 | 2026-09-18 |  |
 | [L'ora della verità](https://open.spotify.com/track/3aDQeYFC5nETqDr6c3dIC1) | [Loryheart](https://open.spotify.com/artist/7nEVWdmA3rTNUtKI4abDsa) | [Inquietudini](https://open.spotify.com/album/1Xsfu4dN4W5IGGB6TPxKiY) | 3:47 | 2026-08-13 |  |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |

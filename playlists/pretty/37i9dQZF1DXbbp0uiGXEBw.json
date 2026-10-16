@@ -1,18 +1,18 @@
 {
   "description": "Th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh t\u00e0i n\u0103ng c\u00e1c ngh\u1ec7 s\u0129 n\u1eef Vi\u1ec7t Nam. \u1ea2nh b\u00eca: Ho\u00e0ng Th\u00f9y Linh",
-  "num_followers": 30060,
+  "num_followers": 30072,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGc9N+9I94ZW4bYwKsLmSZDNVkyt",
+  "snapshot_id": "AAAAAETS1LWVKM9yRUhah7+NnuK5R1rB",
   "tracks": [
     {
-      "added_at": "2026-10-07 20:58:02",
+      "added_at": "2026-10-15 12:00:10",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+        "name": "Th\u1ea7y D\u00f9i",
+        "url": "https://open.spotify.com/album/4xsY1xvMaeILGo4Hkrxyaj"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
         }
       ],
-      "duration_ms": 185002,
-      "name": "See T\u00ecnh",
-      "url": "https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt"
+      "duration_ms": 168750,
+      "name": "Th\u1ea7y D\u00f9i",
+      "url": "https://open.spotify.com/track/3GNRzMvOoYa5B6zNrCflIy"
     },
     {
       "added_at": "2026-06-08 04:26:44",
@@ -131,6 +131,22 @@
       "duration_ms": 217932,
       "name": "Thi\u00ean \u0110\u01b0\u1eddng V\u1edbi Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/6zwC3vsCniAGu6WpOkg6qV"
+    },
+    {
+      "added_at": "2026-10-07 20:58:02",
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "See T\u00ecnh",
+      "url": "https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt"
     },
     {
       "added_at": "2026-10-07 20:58:02",
@@ -495,22 +511,6 @@
       "duration_ms": 208608,
       "name": "M\u1ed9t C\u00fa L\u1eeba",
       "url": "https://open.spotify.com/track/0d6x6469lyfnzbZp259vqS"
-    },
-    {
-      "added_at": "2026-06-08 04:26:44",
-      "album": {
-        "name": "Y\u00caU TH\u1eacT",
-        "url": "https://open.spotify.com/album/0MmmI3L7FRv9dw4dO3kGfO"
-      },
-      "artists": [
-        {
-          "name": "SUNI",
-          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0110\u1ee3i em \u0111\u01b0\u1ee3c kh\u00f4ng",
-      "url": "https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX"
     },
     {
       "added_at": "2026-06-08 04:26:44",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover: FOLA",
+  "description": "Sweet afro melodies. Cover: Yarden",
   "name": "Ginja",
   "tracks": [
     {
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 159335,
       "name": "Choice",
       "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
@@ -12936,7 +12936,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148571,
       "name": "MIKE TYSON",
       "url": "https://open.spotify.com/track/0cDSkCjlBgmPsQggS1JC0B"
@@ -17105,6 +17105,24 @@
     },
     {
       "album": {
+        "name": "SDF (SO DAMN FINE)",
+        "url": "https://open.spotify.com/album/5wRKlRhqRXZG3ywRDz5Jl2"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "SDF (SO DAMN FINE)",
+      "url": "https://open.spotify.com/track/58Qf0DEvNQvH2bFjkLC4Wv"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/16cdT3kzDu99BEAxrIgTcR"
       },
@@ -17236,6 +17254,24 @@
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
+    },
+    {
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154328,
+      "name": "SEX LOVE UNDERSTANDING TRUST",
+      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
     },
     {
       "album": {
@@ -19749,6 +19785,24 @@
     },
     {
       "album": {
+        "name": "Something To Die For",
+        "url": "https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S"
+    },
+    {
+      "album": {
         "name": "treat u right",
         "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
       },
@@ -20226,7 +20280,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161632,
       "name": "Uwese (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552"
@@ -20728,7 +20782,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155840,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0zUzki4TULK7JUbWf2ILwV"

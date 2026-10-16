@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,517 songs - 2 day 17 hr 17 min
+1,518 songs - 2 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1484,6 +1484,7 @@
 | [With Every Heartbeat](https://open.spotify.com/track/730FJB8nMBjNZ6V55b14vQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [With Every Heartbeat](https://open.spotify.com/album/0FCjFSdT6tUdKuOnHPGnWZ) | 2:19 | 2026-09-20 |  |
 | [With You](https://open.spotify.com/track/7nIJwWOQgmatvOcwOfNZ6Y) | [Conner Fox](https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [With You](https://open.spotify.com/album/6hE8DlNrnvnavNIT9kShMq) | 2:01 | 2024-07-05 | 2024-08-10 |
 | [With You](https://open.spotify.com/track/3GgHToWEiAi0fkfi5RqSXD) | [Hokima](https://open.spotify.com/artist/5oUG50CyujwLgloGYBjdTc) | [With You](https://open.spotify.com/album/6QWXR95ARSK49Jo1YZvMny) | 2:54 | 2024-03-24 | 2024-04-02 |
+| [With You](https://open.spotify.com/track/5lVxzByzaIK07EMKKz2pTp) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [With You](https://open.spotify.com/album/595fpKM2TAP5iyn8GQ8Xm8) | 2:19 | 2026-10-15 |  |
 | [With You](https://open.spotify.com/track/5Bh9yee1RRVyksKctBm0F6) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [With You](https://open.spotify.com/album/2iSoiCWE5fytEqicLRk3FS) | 2:16 | 2023-10-27 | 2024-05-13 |
 | [Without Me](https://open.spotify.com/track/5BSkWQR6E7Cl1XXM6bqQeF) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Without Me](https://open.spotify.com/album/2OMqtcnZWFytJDuPZcQMpW) | 2:11 | 2024-06-02 | 2024-06-24 |
 | [Without You](https://open.spotify.com/track/6sTRRES1pZTUPbQtAYR5SW) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Without You](https://open.spotify.com/album/1EAdonVaTPxAuT6pk1XdJw) | 2:52 | 2026-01-03 |  |

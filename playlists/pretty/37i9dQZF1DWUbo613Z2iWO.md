@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Johnny Venus
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,387 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,390 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 107 | [could it be love](https://open.spotify.com/track/6dlariohKh4NweeHkENvOF) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [could it be love](https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB) | 4:38 |
 | 108 | [Tit 4 Tat](https://open.spotify.com/track/1A51S6aWOo0yjkU8U7RwzO) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Tit 4 Tat](https://open.spotify.com/album/39xXEZ6T8Tcl2bsnd92MMR) | 2:53 |
 | 109 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
-| 110 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/3xFV4FWskoe7sxMh8NDswQ) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
+| 110 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
 | 111 | [Tunnel Vision](https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Tunnel Vision](https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV) | 2:59 |
 | 112 | [NO JODECI](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [NO JODECI](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
 | 113 | [RAX](https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [RAX](https://open.spotify.com/album/01kT2Oh03HzYUpIP8nrCaM) | 2:54 |

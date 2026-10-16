@@ -4425,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Foot Down On The Freeway",
+        "url": "https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy"
+      },
+      "artists": [
+        {
+          "name": "Static Revolver",
+          "url": "https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "Foot Down On The Freeway",
+      "url": "https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx"
+    },
+    {
+      "album": {
         "name": "For So Long",
         "url": "https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm"
       },
@@ -6750,6 +6768,24 @@
       "duration_ms": 184615,
       "name": "Knottamun",
       "url": "https://open.spotify.com/track/4cj2mmO3p7ai4wqntGHkLL"
+    },
+    {
+      "album": {
+        "name": "Con:ter",
+        "url": "https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN"
+      },
+      "artists": [
+        {
+          "name": "Con:ter",
+          "url": "https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Kommst Du Mit",
+      "url": "https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2"
     },
     {
       "album": {

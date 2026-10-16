@@ -2,9 +2,9 @@
 
 ### [The Listening Post](https://open.spotify.com/playlist/37i9dQZF1DWT2471UyOhDZ)
 
-> A hand\-picked selection for an extraordinary palette\. Cover: Greg Freeman
+> A hand\-picked selection for an extraordinary palette\. Cover: Marika Hackman
 
-538 songs - 1 day 10 hr 38 min
+542 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-25 |  |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
+| [33](https://open.spotify.com/track/1L1qrIhU58MlisUGxUL5ub) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [False Dogs](https://open.spotify.com/album/4TlM69gj3kHdIqCuq9kT9K) | 2:33 | 2026-10-15 |  |
 | [3310](https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [3310](https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb) | 3:02 | 2026-08-20 |  |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-20 | 2026-09-25 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-04 | 2026-06-19 |
@@ -25,7 +26,7 @@
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-15 | 2025-04-21 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2025-05-09 |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-03-21 | 2025-05-09 |
-| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
+| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 | 2026-10-16 |
 | [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-27 |
 | [All The People \(所有人\)](https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [All The People \(所有人\)](https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2) | 3:33 | 2026-02-20 | 2026-05-30 |
 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 | 2025-05-08 | 2026-06-19 |
@@ -53,7 +54,7 @@
 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 | 2025-02-13 | 2025-04-21 |
 | [Bambi](https://open.spotify.com/track/2oMBqyiQ8Ggr9YhBuwV6dY) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/artist/2Ow5BisePB6igZKlCxCXrd) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/album/1loaJGkhpz1vtkOXg0EowR) | 2:57 | 2026-10-01 |  |
 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 | 2025-05-08 | 2025-06-21 |
-| [Be With You Tonight](https://open.spotify.com/track/2EqRbAoCpZRe8rrAQQf7uj) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Be With You Tonight](https://open.spotify.com/album/23mlecmi7U6Kn6iPMK56DC) | 3:30 | 2026-09-25 |  |
+| [Be With You Tonight](https://open.spotify.com/track/2EqRbAoCpZRe8rrAQQf7uj) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Be With You Tonight](https://open.spotify.com/album/23mlecmi7U6Kn6iPMK56DC) | 3:30 | 2026-09-25 | 2026-10-16 |
 | [Before Before](https://open.spotify.com/track/48xmirSoXOlkObvyEAJwJq) | [Paul Heaton](https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j), [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Jenius](https://open.spotify.com/album/6gxTMkVUCvfKkFvgq8vCYL) | 3:06 | 2026-08-20 | 2026-10-01 |
 | [Begging for Change](https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Begging for Change](https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw) | 4:20 | 2026-02-23 | 2026-07-31 |
 | [Bell](https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Bell](https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9) | 4:28 | 2025-03-21 | 2026-06-13 |
@@ -70,6 +71,7 @@
 | [black33](https://open.spotify.com/track/1corH4C9dbYGfhfUR3dwIH) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [black33](https://open.spotify.com/album/7LweLc9XWdl1pXgKBSNJuX) | 4:33 | 2026-09-25 |  |
 | [Blankspace](https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Blankspace](https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g) | 3:04 | 2026-01-12 | 2026-02-07 |
 | [Blight](https://open.spotify.com/track/49MLQo97bae1S4OaDQ01in) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Blight](https://open.spotify.com/album/3Arvlvf9vzWbE66l5Q7n4j) | 3:01 | 2026-07-31 | 2026-09-05 |
+| [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 | 2026-10-15 |  |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-06-14 | 2025-03-22 |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-06 | 2025-01-17 |
 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 | 2024-10-06 | 2025-01-31 |
@@ -84,7 +86,7 @@
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-03-28 | 2026-06-19 |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-14 | 2025-01-17 |
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-01-31 | 2026-06-19 |
-| [But You Just Woke Me Up](https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 2:10 | 2026-01-12 |  |
+| [But You Just Woke Me Up](https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 2:10 | 2026-01-12 | 2026-10-16 |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2025-05-09 |
 | [Cameos](https://open.spotify.com/track/0bdEpK83erx3mPwSqxGGNP) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Cameos](https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw) | 2:55 | 2026-08-13 | 2026-09-25 |
 | [Cameos](https://open.spotify.com/track/6q1og9CkTnFTTYqOSN9ed3) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Cameos](https://open.spotify.com/album/1KtLF0mP4It7MNhJSmE0Yc) | 2:55 | 2026-06-25 | 2026-08-14 |
@@ -261,6 +263,7 @@
 | [Is This Love](https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 3:39 | 2024-06-14 | 2025-01-17 |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-17 | 2025-07-21 |
 | [It's Time](https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [It's Time](https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg) | 4:07 | 2026-10-01 |  |
+| [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-10-15 |  |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-12 | 2026-04-28 |
 | [Jubilee Feeling](https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Jubilee Feeling](https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx) | 4:15 | 2026-08-28 |  |
 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 | 2024-06-14 | 2025-01-31 |
@@ -362,6 +365,7 @@
 | [One Thing At A Time](https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Creature of Habit](https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2) | 4:42 | 2026-04-30 |  |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 | 2026-08-10 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-17 | 2025-05-22 |
+| [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 | 2026-10-15 |  |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-06 | 2025-10-24 |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 | 2025-10-24 |
@@ -448,7 +452,7 @@
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-06-14 | 2024-07-12 |
 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-18 |  |
 | [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2025-01-31 | 2025-02-02 |
-| [Teachers](https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe) | 5:18 | 2026-06-12 |  |
+| [Teachers](https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe) | 5:18 | 2026-06-12 | 2026-10-16 |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-07-20 |
 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-03 | 2026-09-25 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-14 | 2024-08-01 |

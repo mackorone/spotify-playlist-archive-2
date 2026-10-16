@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Dogs on Shady Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,164 likes - 74 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,231 likes - 74 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

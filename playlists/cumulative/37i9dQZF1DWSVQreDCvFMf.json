@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Over October",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Eliza Maturan",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180000,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4nDBJNQsLbxNxwQxnj1gSy"
@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Die with You",
+        "url": "https://open.spotify.com/album/4ccTSQqx1yDC1r0FxpLqhF"
+      },
+      "artists": [
+        {
+          "name": "Eli Elijah",
+          "url": "https://open.spotify.com/artist/2TPQLTVapuGIMQGjDDqhsi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238764,
+      "name": "Die with You",
+      "url": "https://open.spotify.com/track/4kVD5XwZ9TNP0igyepqPyH"
+    },
+    {
+      "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
@@ -4606,6 +4624,24 @@
       "duration_ms": 241000,
       "name": "Emoji",
       "url": "https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR"
+    },
+    {
+      "album": {
+        "name": "LIBEROSIS",
+        "url": "https://open.spotify.com/album/3UtaKn7ZkdQbLbs03vHN3b"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "ERIDANIA (TAGALOG)",
+      "url": "https://open.spotify.com/track/4o2G8yJ27FaGZG85ts958p"
     },
     {
       "album": {
@@ -8478,7 +8514,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 216551,
       "name": "Katabi",
       "url": "https://open.spotify.com/track/4xl8rbPjcxy42osfAgAGOw"
@@ -10055,6 +10091,28 @@
     },
     {
       "album": {
+        "name": "Lubayan",
+        "url": "https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH"
+      },
+      "artists": [
+        {
+          "name": "Pastel Sky",
+          "url": "https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r"
+        },
+        {
+          "name": "Enrique Hidalgo",
+          "url": "https://open.spotify.com/artist/5y38JK4NgfflFTtIEUvc9f"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Lubayan",
+      "url": "https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE"
+    },
+    {
+      "album": {
         "name": "luck (feat. James Reid)",
         "url": "https://open.spotify.com/album/1UnctzYaTFQxVdBVmfULfp"
       },
@@ -10204,7 +10262,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 232500,
       "name": "Luntian",
       "url": "https://open.spotify.com/track/0Z98m3Kp4zI9oYQ7yXRFM0"
@@ -11672,7 +11730,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 192315,
       "name": "My Favorite Notif",
       "url": "https://open.spotify.com/track/5XndcBTDPWVDc11EkHkS1L"
@@ -12040,7 +12098,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183857,
       "name": "Nakakabighani",
       "url": "https://open.spotify.com/track/0isK5sHesL3Hw3L5odItFK"
@@ -12058,7 +12116,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 233986,
       "name": "Nakaukit",
       "url": "https://open.spotify.com/track/76FFTDxECa2Mb9nySyKfYR"
@@ -13167,6 +13225,24 @@
     },
     {
       "album": {
+        "name": "Paano Ba?",
+        "url": "https://open.spotify.com/album/4MHu576vgfiM0A379s4yFL"
+      },
+      "artists": [
+        {
+          "name": "The Sun",
+          "url": "https://open.spotify.com/artist/7yTITctgiG4v8zy91s3fRZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193759,
+      "name": "Paano Ba?",
+      "url": "https://open.spotify.com/track/0fMnCh7MOclcX3r2OeUPtD"
+    },
+    {
+      "album": {
         "name": "Paasa",
         "url": "https://open.spotify.com/album/6Zqk1KriV0FkJmn295LGmt"
       },
@@ -13294,6 +13370,24 @@
       "duration_ms": 234000,
       "name": "Pag-ibig Na Walang Hanggan",
       "url": "https://open.spotify.com/track/1RYRRz8IiuZdqw9EKCPr7j"
+    },
+    {
+      "album": {
+        "name": "Pag-Ibig Nating Dalawa",
+        "url": "https://open.spotify.com/album/0wQJBOMTmjZNuCNLnsW3Wn"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226222,
+      "name": "Pag-Ibig Nating Dalawa",
+      "url": "https://open.spotify.com/track/3pKOGWYDPPNZzV06ofyRml"
     },
     {
       "album": {
@@ -13688,7 +13782,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 264615,
       "name": "Palayo",
       "url": "https://open.spotify.com/track/45tfQlFlhKgLvWXNyqUMEt"
@@ -13916,6 +14010,24 @@
       "duration_ms": 229403,
       "name": "Panatag",
       "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
+    },
+    {
+      "album": {
+        "name": "Pang Habang Buhay",
+        "url": "https://open.spotify.com/album/1n3FIWVQgFSJO96SAkK1jE"
+      },
+      "artists": [
+        {
+          "name": "JET",
+          "url": "https://open.spotify.com/artist/03OqzRFwbSqQCIZyZTKOJI"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271343,
+      "name": "Pang Habang Buhay",
+      "url": "https://open.spotify.com/track/0UzxC0o0a0d4RmemwiqvIQ"
     },
     {
       "album": {
@@ -17171,6 +17283,24 @@
     },
     {
       "album": {
+        "name": "Sinasabi Ng Iba",
+        "url": "https://open.spotify.com/album/17bAX8XlFZ7GGRlVXiA7Xa"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118108,
+      "name": "Sinasabi Ng Iba",
+      "url": "https://open.spotify.com/track/21mgRtnWBJeG9LGyldJwQd"
+    },
+    {
+      "album": {
         "name": "SINAYANG MO",
         "url": "https://open.spotify.com/album/0whfWV03SIkgggiwxATXRl"
       },
@@ -18203,6 +18333,24 @@
     },
     {
       "album": {
+        "name": "Habambuhay",
+        "url": "https://open.spotify.com/album/1402jBneVtfpKMSCtrZeAU"
+      },
+      "artists": [
+        {
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Sydney",
+      "url": "https://open.spotify.com/track/6xDrrEfKthGyIKEjGELukD"
+    },
+    {
+      "album": {
         "name": "TABI",
         "url": "https://open.spotify.com/album/4sE6c5DewRVRzNjDzNeidS"
       },
@@ -19220,7 +19368,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198750,
       "name": "Thought Of Us",
       "url": "https://open.spotify.com/track/0u60HtheyIq6KdN2xcrj3p"

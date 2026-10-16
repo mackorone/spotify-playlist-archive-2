@@ -6557,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Th\u1ea7y D\u00f9i",
+        "url": "https://open.spotify.com/album/4xsY1xvMaeILGo4Hkrxyaj"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Th\u1ea7y D\u00f9i",
+      "url": "https://open.spotify.com/track/3GNRzMvOoYa5B6zNrCflIy"
+    },
+    {
+      "album": {
         "name": "yesteryear",
         "url": "https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4"
       },
@@ -8220,7 +8238,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 240000,
       "name": "\u0110\u1ee3i em \u0111\u01b0\u1ee3c kh\u00f4ng",
       "url": "https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX"

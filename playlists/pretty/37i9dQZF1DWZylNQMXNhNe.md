@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,616 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,612 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 55 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
 | 56 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 57 | [romance](https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7) | [renanrenan](https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [romance](https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa) | 3:40 |
-| 58 | [Drogas, Sexo, Techno, Repete!](https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [SANDRA ELETRÔNICA](https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3) | 3:38 |
-| 59 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
+| 58 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
+| 59 | [Drogas, Sexo, Techno, Repete!](https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [SANDRA ELETRÔNICA](https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3) | 3:38 |
 | 60 | [Sideral](https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sideral](https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ) | 2:49 |
 | 61 | [Deixa a Gira Girar](https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Deixa a Gira Girar](https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS) | 3:48 |
 | 62 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 2:47 |

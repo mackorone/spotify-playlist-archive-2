@@ -24501,6 +24501,24 @@
     },
     {
       "album": {
+        "name": "Curame",
+        "url": "https://open.spotify.com/album/0er7UMf0bWwES1lUMRHpyR"
+      },
+      "artists": [
+        {
+          "name": "Seryne",
+          "url": "https://open.spotify.com/artist/1PAMV7EdEiIj25nwEnaJeQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Curame",
+      "url": "https://open.spotify.com/track/54gntvVol3DgKwGNPiZmEG"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/0LUvY3vRLsxpbY3XEdQKrA"
       },
@@ -30004,7 +30022,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178320,
       "name": "Down On My Knee",
       "url": "https://open.spotify.com/track/59y5gbVlBohUZShj6hOQwX"
@@ -34300,6 +34318,24 @@
       "duration_ms": 220641,
       "name": "Everything and Anything",
       "url": "https://open.spotify.com/track/6NF37GshCNOl3xorfCrp79"
+    },
+    {
+      "album": {
+        "name": "everything i've wanted (demo)",
+        "url": "https://open.spotify.com/album/3u1yHk2g0C1IbjEhSoMUFx"
+      },
+      "artists": [
+        {
+          "name": "Steve Stout",
+          "url": "https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171896,
+      "name": "everything i've wanted - demo",
+      "url": "https://open.spotify.com/track/1CgCMABG4BjpFNIKkG1Mic"
     },
     {
       "album": {
@@ -70920,7 +70956,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 192369,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/2tvq9LmrKIxeej0IvKsaPq"
@@ -89334,7 +89370,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 212500,
       "name": "Return in Glory",
       "url": "https://open.spotify.com/track/4me5EN5wEwfgchXPqsk6ka"
@@ -91014,6 +91050,32 @@
       "duration_ms": 151000,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/2XKut37KFBAZ771tLRK1sv"
+    },
+    {
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/6zC0duVudUBGA3aDQq2v6v"
+      },
+      "artists": [
+        {
+          "name": "\u00dcDOR\u0100",
+          "url": "https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq"
+        },
+        {
+          "name": "Sico Vox",
+          "url": "https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP"
+        },
+        {
+          "name": "Vincent Peters",
+          "url": "https://open.spotify.com/artist/361tIBzh7jqyr8XyrO7egw"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/0HMYMXqBaqeyxBSmgs7V2R"
     },
     {
       "album": {

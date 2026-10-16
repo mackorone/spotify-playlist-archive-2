@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1187632,
+  "num_followers": 1187750,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAACJCeBY2ND3DN+KYjE9tq8o",
+  "snapshot_id": "as7GAAAAAAB8yr0KG4COdLWxs8qhy8rN",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Sisters of the Moon - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 190377,
       "name": "That's Alright - 2016 Remaster",
       "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Sisters of the Moon - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Over & Over - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pious Bird of Good Omen",
         "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Master",
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "Over & Over - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 82 songs - 4 hr 42 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 80 | [Autumn Leaves](https://open.spotify.com/track/0kSmIuMcvpjyYjkCngSb4q) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Autumn Leaves](https://open.spotify.com/album/4q9kf0FvysHkqWnpfi9cSy) | 3:30 |
 | 81 | [core](https://open.spotify.com/track/6wPEISpKBJ3Dam6ffffF6O) | [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun), [Aero Austaire](https://open.spotify.com/artist/6gaofWZf1OGPK0Egq9yJEQ), [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD) | [JINX! \(DELUXE\)](https://open.spotify.com/album/4OkxVtkRV61levPOhYbB59) | 2:01 |
 | 82 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
+| 83 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
+| 84 | [Refuge](https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Fear of Isolation](https://open.spotify.com/album/0LoLbU30mKbb1CgNMQ3Tvy) | 2:32 |
 
-Snapshot ID: `AAAQNh0sESvhglDdsvjgggpaLzMY4NxV`
+Snapshot ID: `AAAQOJRv8W/rN0Koccd943z4O8vUjpH/`

@@ -4,7 +4,7 @@
 
 > Nieuwe tijdloze muziek\. Cover: Teddy Swims
 
-966 songs - 2 day 8 hr 57 min
+968 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Champagne Apocalypse](https://open.spotify.com/track/7CKlBkG0XPvslx9mKfF1Wj) | [M\. Lucky](https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt) | [Gentlewoman](https://open.spotify.com/album/25J3wD5LwPNKByqKepqYwr) | 3:31 | 2023-02-23 | 2023-06-27 |
 | [Change](https://open.spotify.com/track/6oCkScXYHXf3ErRyYGZfCR) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Change](https://open.spotify.com/album/3il7EoYbXsrqTABgz1IHbV) | 2:53 | 2023-07-14 | 2023-09-22 |
 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-10-17 | 2025-11-25 |
-| [Changes Coming 'Round The Bend](https://open.spotify.com/track/0LYxksy1iGlktBf595NNmZ) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Changes Coming 'Round The Bend](https://open.spotify.com/album/2XjWpWHdgRrBQOjpXyYoZJ) | 2:47 | 2026-05-04 |  |
+| [Changes Coming 'Round The Bend](https://open.spotify.com/track/0LYxksy1iGlktBf595NNmZ) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Changes Coming 'Round The Bend](https://open.spotify.com/album/2XjWpWHdgRrBQOjpXyYoZJ) | 2:47 | 2026-05-04 | 2026-10-16 |
 | [Changing Colors](https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Changing Colors](https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4) | 3:40 | 2024-10-03 | 2024-12-06 |
 | [Cheap Perfume](https://open.spotify.com/track/0beLzAzx0wDG0IASq3B5Av) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Cheap Perfume](https://open.spotify.com/album/2VKMjMKxQzVtHxdJkpJX35) | 2:37 | 2026-04-23 | 2026-09-16 |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-03-05 | 2026-09-16 |
@@ -172,7 +172,7 @@
 | [Dark Before The Dawn](https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Dark Before The Dawn](https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb) | 3:35 | 2026-01-22 | 2026-09-04 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-09-12 | 2024-12-21 |
 | [Darkest of Days](https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Darkest of Days](https://open.spotify.com/album/2fTBLk3ckC1fcjegqxPq84) | 3:41 | 2024-08-01 | 2024-09-25 |
-| [Dat Ze Van Hem Houdt](https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F) | 3:05 | 2026-09-17 |  |
+| [Dat Ze Van Hem Houdt](https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F) | 3:05 | 2026-09-17 | 2026-10-16 |
 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-30 | 2026-02-27 |
 | [Dawncolored Horse](https://open.spotify.com/track/3InAiW7SMYPaO3roqeGVY5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Dawncolored Horse](https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN) | 4:04 | 2023-02-23 | 2023-06-23 |
 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 | 2025-11-17 | 2026-03-20 |
@@ -230,7 +230,7 @@
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2023-08-03 | 2024-01-26 |
 | [Eternal](https://open.spotify.com/track/6r2n0bg792Lfn7AwH948OP) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Eternal](https://open.spotify.com/album/1uALQ5jXTSEXBWFguynY4g) | 4:32 | 2023-02-23 | 2023-03-25 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-05-10 |
-| [Evergreen](https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Evergreen](https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg) | 3:12 | 2026-03-13 |  |
+| [Evergreen](https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Evergreen](https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg) | 3:12 | 2026-03-13 | 2026-10-16 |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-23 | 2023-07-15 |
 | [Everybody's Got to Learn](https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:53 | 2023-07-14 | 2024-01-26 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 | 2025-06-20 |
@@ -281,6 +281,7 @@
 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 | 2026-01-22 | 2026-05-12 |
 | [Get it wrong](https://open.spotify.com/track/1M4p6SpM5H4WcYenCuAbJD) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Get it wrong](https://open.spotify.com/album/6HSvZXxHcg9yy3OVSadSFh) | 3:14 | 2026-03-19 | 2026-08-25 |
 | [Get Up](https://open.spotify.com/track/5dmkqmGXCi8IK1fuVilhYX) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Get Up](https://open.spotify.com/album/23WTkcOd1rOmmEinugyrF9) | 4:04 | 2025-12-04 | 2026-06-24 |
+| [Ghosts](https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Ghosts](https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ) | 3:46 | 2026-10-15 |  |
 | [Giants](https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Giants](https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF) | 3:41 | 2024-10-21 | 2025-02-21 |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2024-06-20 | 2024-09-20 |
 | [Girl & A Gun](https://open.spotify.com/track/4jZ1LJqcXbtNO5EZZVAkzC) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Girl & A Gun](https://open.spotify.com/album/0KoTtRAsQvauiehrOzaKh6) | 3:42 | 2023-04-28 | 2023-09-22 |
@@ -870,6 +871,7 @@
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-28 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-04-18 | 2024-08-30 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-26 | 2024-03-31 |
+| [Track 3](https://open.spotify.com/track/5DrChTVsNNFMbRYsalIh4y) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [The Blueprint](https://open.spotify.com/album/3wmL3VMB0fuyK8H2tzfiGV) | 0:00 | 2026-10-15 |  |
 | [Trade it for the Night \- Single Version](https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6) | 3:48 | 2023-02-23 | 2023-08-01 |
 | [Trade it for the Night \- Symphonic Version](https://open.spotify.com/track/5s5Nqv8ziDXoiOgFZcAF2v) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Symphonic Tales II](https://open.spotify.com/album/3Qfy4dS5v3ksqu5OltccOy) | 6:10 | 2026-05-04 | 2026-09-25 |
 | [Trash](https://open.spotify.com/track/4I6suhvOGM371QWu2syteT) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Trash](https://open.spotify.com/album/0V9hG58IyxvnVIuiv00JVL) | 2:58 | 2025-05-29 | 2025-09-09 |

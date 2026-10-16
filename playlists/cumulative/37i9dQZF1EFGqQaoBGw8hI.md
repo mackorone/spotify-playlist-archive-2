@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-759 songs - 2 day 4 hr 24 min
+760 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 |  |
 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 | 2022-09-08 |  |
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |
+| [Love Is A Cannibal](https://open.spotify.com/track/6rwGNInRAfoPd27t75QBHg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/2eNwbtNeveYa2jhCc2cz7c) | 3:51 | 2026-10-15 |  |
 | [Love So Cold](https://open.spotify.com/track/2RmXLOSrK4LJ3zzGz5lwUA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:04 | 2023-05-26 |  |
 | [Love's Got A Lot To Answer For](https://open.spotify.com/track/57LGc6kMOrfEDM8EiZxQln) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:00 | 2022-09-08 |  |
 | [Lovesick](https://open.spotify.com/track/18s5u73IeszmNilFtAZ27U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:59 | 2022-09-14 |  |
@@ -443,7 +444,7 @@
 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 | 2022-09-08 |  |
 | [New World Order](https://open.spotify.com/track/3MIaMzfn268zyJxUboLAYc) | [Sam Sneed](https://open.spotify.com/artist/7fhSN2Pok7u6J2IER2MFeQ), [Ramaj](https://open.spotify.com/artist/3K2mfMVB6bAqyOzvljwUjz), [Shadow](https://open.spotify.com/artist/2lf0FYOB52skJWouVr7orA), [Atilio Jarquin](https://open.spotify.com/artist/5P0K08hWBiz3dkyditBr18), [Feab](https://open.spotify.com/artist/6JkkqbGQOIbpT4YN4ASBbJ) | [Street Scholars](https://open.spotify.com/album/0Dc2YMSF2zNj5ka8RQXKHg) | 4:05 | 2023-05-26 | 2026-10-14 |
 | [Nice And Slow](https://open.spotify.com/track/0ThIeJpqmnxAb9XvWlSIjO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Complete Thom Bell Sessions](https://open.spotify.com/album/0EXubpxzIR0IoPJCCvJNDZ) | 4:40 | 2022-09-08 |  |
-| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 | 2026-10-14 |
+| [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-09-08 |  |
 | [Nikita](https://open.spotify.com/track/0Nch1D9uPB4krd8eEmDWc0) | [Mel Jersey](https://open.spotify.com/artist/5hPk4VKUsJPYP8CEZ6y84t) | [25 Jahre Mel Jersey](https://open.spotify.com/album/36Yk30GImpsHXei1oEJGej) | 4:48 | 2023-05-26 |  |
 | [Nina \- Band Version](https://open.spotify.com/track/1rv2bzca6ilxwMynldXTyF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:42 | 2023-05-26 | 2023-06-16 |
 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 | 2023-06-15 |  |

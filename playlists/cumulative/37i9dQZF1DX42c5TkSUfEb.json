@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183000,
       "name": "Grandma Song",
       "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 180613,
       "name": "How Many Days",
       "url": "https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07"
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 264000,
       "name": "Lucky, Forever",
       "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 214032,
       "name": "only human",
       "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
@@ -6766,7 +6766,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202226,
       "name": "Ose",
       "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
@@ -6784,7 +6784,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 305875,
       "name": "Over country",
       "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
@@ -7228,6 +7228,24 @@
       "duration_ms": 199040,
       "name": "queen of the season",
       "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
+    },
+    {
+      "album": {
+        "name": "Solaire",
+        "url": "https://open.spotify.com/album/5HUdII3JKk1ZNZvYUIvdep"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187440,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/5FlMiiDcXmWB2VQRb9oJV3"
     },
     {
       "album": {
@@ -8786,7 +8804,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 212680,
       "name": "The Holy Ghost",
       "url": "https://open.spotify.com/track/1b924g4lZUE8AMywa1trXy"
@@ -9071,6 +9089,24 @@
     },
     {
       "album": {
+        "name": "Things I've done",
+        "url": "https://open.spotify.com/album/3vSjGMxPRfNHvxe5h7rDnD"
+      },
+      "artists": [
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "Things I've done",
+      "url": "https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i"
+    },
+    {
+      "album": {
         "name": "think about it",
         "url": "https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH"
       },
@@ -9162,7 +9198,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 193177,
       "name": "tired",
       "url": "https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg"

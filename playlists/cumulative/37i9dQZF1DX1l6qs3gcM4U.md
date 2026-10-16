@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-10-02 |
+| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 | 2026-03-20 |
@@ -256,7 +256,7 @@
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [Forever My Own](https://open.spotify.com/track/5HpnPSzYPocliLVOQiZrhN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Forever My Own](https://open.spotify.com/album/5aGOeueu72qTMNHohwLPyg) | 1:55 | 2025-10-16 | 2026-03-20 |
 | [FORTI SO DA DI](https://open.spotify.com/track/26PYN8A18eUNXJw0BSWHJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:54 | 2023-10-26 | 2023-11-17 |
-| [FREESTYLE](https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [FREESTYLE](https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B) | 2:56 | 2026-07-02 |  |
+| [FREESTYLE](https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [FREESTYLE](https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B) | 2:56 | 2026-07-02 | 2026-10-16 |
 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 | 2025-06-06 |
 | [Gabriela](https://open.spotify.com/track/4h2efiSX3jLkhYbDKSnNJF) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Gabriela](https://open.spotify.com/album/0aQZXGj1TbwIyfNZicvSOt) | 3:44 | 2025-02-21 | 2025-04-18 |
 | [GBB](https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [GBB](https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh) | 3:22 | 2025-10-16 | 2026-08-21 |

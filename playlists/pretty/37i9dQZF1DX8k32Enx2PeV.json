@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17521,
+  "num_followers": 17536,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "fill de la mar (2026)",
-        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+        "name": "Coste\u00f1ita",
+        "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 153741,
-      "name": "preso",
-      "url": "https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo"
+      "duration_ms": 226618,
+      "name": "Coste\u00f1ita",
+      "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -375,22 +379,18 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Coste\u00f1ita",
-        "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
       },
       "artists": [
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 226618,
-      "name": "Coste\u00f1ita",
-      "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
+      "duration_ms": 153741,
+      "name": "preso",
+      "url": "https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "borondo",
-        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 141821,
-      "name": "borondo",
-      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "Namorar (Remix)",
         "url": "https://open.spotify.com/album/2uGVGe8Y5guvN7g11kYkbO"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 226319,
       "name": "Namorar - Remix",
       "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "borondo",
+        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 141821,
+      "name": "borondo",
+      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Ojitos Chinos",
-        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Ojitos Chinos",
-      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "TE LO ADVERT\u00cd",
         "url": "https://open.spotify.com/album/3k5sKzriLrzq46FcLccPZK"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 199388,
       "name": "TE LO ADVERT\u00cd",
       "url": "https://open.spotify.com/track/65obf6PsnYTQk4votV4aA3"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Ojitos Chinos",
+        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Ojitos Chinos",
+      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Aqu\u00ed Me Tienes",
-        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 157259,
-      "name": "Aqu\u00ed Me Tienes",
-      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "Partycito",
         "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 153786,
       "name": "Partycito",
       "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Aqu\u00ed Me Tienes",
+        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Aqu\u00ed Me Tienes",
+      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Cuando Te Vi",
-        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 177115,
-      "name": "Cuando Te Vi",
-      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 221346,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Cuando Te Vi",
+        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 177115,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
     },
     {
       "added_at": "2026-10-09 04:59:21",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-10-09 04:59:21",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
-    },
-    {
-      "added_at": "2026-10-09 04:59:21",
-      "album": {
         "name": "Qui\u00e9n Lo Dir\u00eda?",
         "url": "https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 218000,
       "name": "Qui\u00e9n Lo Dir\u00eda?",
       "url": "https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H"
+    },
+    {
+      "added_at": "2026-10-09 04:59:21",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
     },
     {
       "added_at": "2026-10-09 04:59:21",

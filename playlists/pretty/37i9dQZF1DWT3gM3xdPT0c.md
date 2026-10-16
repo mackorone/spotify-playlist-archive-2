@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,462 likes - 103 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,495 likes - 103 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 3 | [Desiduous Forest](https://open.spotify.com/track/3G7Ku8bRYbkkVhdm8TcnUa) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Desiduous Forest](https://open.spotify.com/album/3akGIFQqqRuyvJKgTkeIGg) | 2:19 |
 | 4 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
 | 5 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 |
-| 6 | [The Edge of Spring](https://open.spotify.com/track/3AvLzbjoGGSSevdcOgP2Wp) | [Adrian Cove](https://open.spotify.com/artist/0KjrNob5QYjE0gay87Z9vO) | [The Edge of Spring](https://open.spotify.com/album/2l9yUjkZhuBiDueh7GDIZw) | 2:16 |
+| 6 | [The Edge of Spring](https://open.spotify.com/track/3AvLzbjoGGSSevdcOgP2Wp) | [Adrian Cove](https://open.spotify.com/artist/0shCvw7gkMu2ieJSWwTue4) | [The Edge of Spring](https://open.spotify.com/album/2l9yUjkZhuBiDueh7GDIZw) | 2:16 |
 | 7 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 |
 | 8 | [Fiora Notturna](https://open.spotify.com/track/0fCuGlhzbEtKEvBBu9wcIV) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fiora Notturna](https://open.spotify.com/album/4vlNde9zWcbXfvlRgzLWS3) | 3:08 |
 | 9 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 |

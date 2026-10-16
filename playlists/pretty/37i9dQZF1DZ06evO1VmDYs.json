@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 206822,
+  "num_followers": 206844,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADuDet/QbNQu9DcXYOzzGyn",
+  "snapshot_id": "as7GAAAAAABSBT27AEWpmWBmPHD+Ssmc",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Up In the Clouds",
-      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 245564,
-      "name": "Shine Again",
-      "url": "https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C"
+      "duration_ms": 219560,
+      "name": "Up In the Clouds",
+      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
     },
     {
       "added_at": null,

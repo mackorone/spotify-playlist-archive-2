@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: J\u00e3o",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 144759,
       "name": "Dominou",
       "url": "https://open.spotify.com/track/4H9a5FMFA5Kg9RqC8DSAY8"
@@ -7862,6 +7862,24 @@
       "duration_ms": 186698,
       "name": "Por Supuesto",
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+    },
+    {
+      "album": {
+        "name": "Por Voc\u00ea - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216766,
+      "name": "Por Voc\u00ea - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CDG739960vzk63xW376x2"
     },
     {
       "album": {

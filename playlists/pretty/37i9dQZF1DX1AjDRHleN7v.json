@@ -211,6 +211,22 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
+        "name": "Desejo Paz",
+        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Desejo Paz",
+      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
+    },
+    {
+      "added_at": "2026-09-11 12:59:28",
+      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-09-11 12:59:28",
-      "album": {
-        "name": "Desejo Paz",
-        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Desejo Paz",
-      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
     },
     {
       "added_at": "2026-09-11 12:59:28",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
+        "name": "Brisa Positiva",
+        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 204224,
+      "name": "Brisa Positiva",
+      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
+    },
+    {
+      "added_at": "2026-09-11 12:59:28",
+      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-09-11 12:59:28",
-      "album": {
-        "name": "Brisa Positiva",
-        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 204224,
-      "name": "Brisa Positiva",
-      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
     },
     {
       "added_at": "2026-09-11 12:59:28",

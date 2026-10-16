@@ -6465,6 +6465,24 @@
     },
     {
       "album": {
+        "name": "Santiago de Nadie",
+        "url": "https://open.spotify.com/album/2KVqYKOW9HC07agiLiQiys"
+      },
+      "artists": [
+        {
+          "name": "Paisano",
+          "url": "https://open.spotify.com/artist/121UaZBofpgTXFSEZojXh3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261446,
+      "name": "Santiago de Nadie",
+      "url": "https://open.spotify.com/track/3Bk8RFKchqd5WKOp4jz0Lb"
+    },
+    {
+      "album": {
         "name": "Sentado Esperando",
         "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
       },
@@ -8320,6 +8338,28 @@
       "duration_ms": 154337,
       "name": "\u00c1rboles",
       "url": "https://open.spotify.com/track/5y4J5an3AUHCgyAdi7a7Iq"
+    },
+    {
+      "album": {
+        "name": "\u00daltima foto",
+        "url": "https://open.spotify.com/album/530eSUqXhg1c1UF5tZ3kKb"
+      },
+      "artists": [
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Giu Azul",
+          "url": "https://open.spotify.com/artist/2WeIvQUrTkrmwhB3ZmQwXf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187550,
+      "name": "\u00daltima foto",
+      "url": "https://open.spotify.com/track/2t2sGnJsjZjlmpXejQuSDX"
     },
     {
       "album": {

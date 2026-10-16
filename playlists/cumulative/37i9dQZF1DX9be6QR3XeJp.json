@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Saskia",
+  "description": "Discover your new favourite artists from UK&IE. Cover: bed",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6972,6 +6972,24 @@
       "duration_ms": 204923,
       "name": "You Used To Be So Sexy",
       "url": "https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV"
+    },
+    {
+      "album": {
+        "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+        "url": "https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+      "url": "https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp"

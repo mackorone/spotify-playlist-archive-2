@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> dagood in cover 🇲🇽🌮🌶️
+> Marra & Elisa in cover 🪽🪽
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,323 likes - 105 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,332 likes - 105 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA SCOPO CO O' SGUARDO](https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:13 |
-| 2 | [Pookie \(feat\. Capo Plaza\) \- Remix](https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Pookie \(feat\. Capo Plaza\) \[Remix\]](https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq) | 3:08 |
-| 3 | [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 |
-| 4 | [NEON \- Le Ali \(feat\. Elisa\)](https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:27 |
+| 1 | [NEON \- Le Ali \(feat\. Elisa\)](https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:27 |
+| 2 | [LA SCOPO CO O' SGUARDO](https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:13 |
+| 3 | [Pookie \(feat\. Capo Plaza\) \- Remix](https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Pookie \(feat\. Capo Plaza\) \[Remix\]](https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq) | 3:08 |
+| 4 | [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 |
 | 5 | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 |
 | 6 | [Confetti](https://open.spotify.com/track/1LpL0GnZJCONyXCradymzL) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Confetti](https://open.spotify.com/album/2ITQeAS7YdCjyGch5PK3ni) | 2:40 |
 | 7 | [Sipario feat\. Promessa](https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 2:01 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 104 | [PUTTANA SVIZZERA CON NERISSIMA SERPE, PAPA V, 6OCCIA](https://open.spotify.com/track/4uri8E52AMEg2HKMkfolHL) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [6occia](https://open.spotify.com/artist/2VXJau991JXvbeF48YVjoX) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 3:21 |
 | 105 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
 
-Snapshot ID: `AAAAAHp51f1Sv7yuJyep05XNWoljZiAO`
+Snapshot ID: `AAAAALB0J1+jqMRzdRh7MNCqomvDu3lK`

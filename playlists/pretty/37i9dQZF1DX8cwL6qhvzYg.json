@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 460513,
+  "num_followers": 460529,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "La Charamusca",
-        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
-      },
-      "artists": [
-        {
-          "name": "Sonido La Conga",
-          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "La Charamusca",
-      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Adicto a Tu Piel (Rebajada)",
         "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 243066,
       "name": "Adicto a Tu Piel (Rebajada)",
       "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "La Charamusca",
+        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
+      },
+      "artists": [
+        {
+          "name": "Sonido La Conga",
+          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "La Charamusca",
+      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache - En Vivo",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Vuelve Mi Amor",
         "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 300000,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache - En Vivo",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 151928,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 195866,
       "name": "Cumbia De Los Monjes",
       "url": "https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 151928,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Vampiresa",
-        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
-        }
-      ],
-      "duration_ms": 298353,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 256773,
       "name": "Cabo E",
       "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+        }
+      ],
+      "duration_ms": 298353,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
     },
     {
       "added_at": "2026-10-02 06:00:16",

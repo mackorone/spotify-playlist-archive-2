@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,292 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,410 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 11 | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de) | 4:07 |
 | 12 | [Jaane Kis Mod Pe \(From "Pehla Pyaar Doosri Baar"\)](https://open.spotify.com/track/70F8DfT2o1MYtVQLOJyuBS) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Jaane Kis Mod Pe \(From "Pehla Pyaar Doosri Baar"\)](https://open.spotify.com/album/0yVv1hWLxbnVPtweFn8Pt9) | 4:10 |
 | 13 | [Sooraj Dooba Hain](https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Roy](https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf) | 4:24 |
-| 14 | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/track/0PjlMtYAIBnCRajbUceZgc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/album/6JV9NdXyU39TdZ5oTVXDnv) | 2:27 |
+| 14 | [Dil Haareya](https://open.spotify.com/track/157H1RQQiJhYbVDDGjbao8) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Rajini The Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InrZTyhqtizdFFen4aJQN) | 2:58 |
 | 15 | [Mashooqa \- From “Cocktail 2”](https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Mashooqa \(From “Cocktail 2”\)](https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac) | 3:50 |
 | 16 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 |
 | 17 | [Sunny Sunny](https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan](https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 49 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 |
 | 50 | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA) | 3:45 |
 
-Snapshot ID: `AAAAANC4H+2i/UecnafQcjEB4sT3ZGGP`
+Snapshot ID: `AAAAAJNF/oRdiuHwrzy751CZhw4yDOU+`

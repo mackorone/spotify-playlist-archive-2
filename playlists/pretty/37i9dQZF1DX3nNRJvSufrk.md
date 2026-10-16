@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,539 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,541 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 2 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
 | 3 | [What You Need](https://open.spotify.com/track/1oGd6koqefNYVJ0Rn6EKOW) | [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [TEKLIFE Vol.2: What You Need](https://open.spotify.com/album/3gp6LlL3363zr3Jz9rjH0G) | 5:41 |
 | 4 | [Chicago \(feat\. Lefty & Nikes\)](https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Lefty](https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W), [Nikes](https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc) | [\#UOAI](https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2) | 4:20 |
-| 5 | [Bounce](https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo) | [Starski and Clutch](https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe) | [Players, Ballers, Rollers](https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1) | 2:25 |
-| 6 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
+| 5 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
+| 6 | [Bounce](https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo) | [Starski and Clutch](https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe) | [Players, Ballers, Rollers](https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1) | 2:25 |
 | 7 | [Still Geekin'](https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 2:30 |
 | 8 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
 | 9 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 44 | [Imma Dog](https://open.spotify.com/track/524AOf3Zmp93608e38RukD) | [bastienGOAT](https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B) | [Aspects](https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC) | 1:48 |
 | 45 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 |
 | 46 | [WE GON DANCE](https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:39 |
-| 47 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
+| 47 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
 | 48 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 49 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
 | 50 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
-| 51 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
+| 51 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
 | 52 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |
 | 53 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
 | 54 | [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 |

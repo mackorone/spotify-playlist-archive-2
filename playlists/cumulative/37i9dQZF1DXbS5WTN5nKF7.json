@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Ofenbach.",
+  "description": "Le meilleur des hits avec Vianney.",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1110,6 +1110,32 @@
       "duration_ms": 202460,
       "name": "Bass Persuades",
       "url": "https://open.spotify.com/track/3LzQnKyOaYOfmroOwIvKUS"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -5186,7 +5212,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 208963,
       "name": "La lune",
       "url": "https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw"
@@ -6610,7 +6636,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
@@ -7845,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/38Ew64EUTNSxobuP09ucyZ"
+      },
+      "artists": [
+        {
+          "name": "Bormin\u2019",
+          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/35tbU5JgunboLHBaUJnqqZ"
+    },
+    {
+      "album": {
         "name": "Nouveau souffle",
         "url": "https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb"
       },
@@ -8680,7 +8724,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198000,
       "name": "Soir\u00e9e mondaine",
       "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
@@ -10578,6 +10622,24 @@
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
+    },
+    {
+      "album": {
+        "name": "F\u00eate foraine",
+        "url": "https://open.spotify.com/album/01kMh4dyMdDfU7LchEKQCH"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212827,
+      "name": "Y'a que de l'amour chez toi",
+      "url": "https://open.spotify.com/track/3teVqb0dd11dhBFnCVeuaU"
     },
     {
       "album": {

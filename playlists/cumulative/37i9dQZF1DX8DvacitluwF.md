@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Sasha Keable
+> The best in South African and international R&B\. Cover: TRON PYRE
 
-700 songs - 1 day 13 hr 47 min
+701 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Desire](https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Desire](https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo) | 3:22 | 2024-02-08 | 2024-04-06 |
 | [DESTINY’S CHILD](https://open.spotify.com/track/1rDOGmUXOw68FtSWEx2mgW) | [TRON PYRE](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [DESTINY’S CHILD](https://open.spotify.com/album/6ZdCvu4poavVOag87HAMW2) | 2:34 | 2024-07-18 | 2024-09-03 |
 | [Devil's Daughter](https://open.spotify.com/track/2ENMkHQa5YZyYqpc9zUPfh) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Devil's Daughter](https://open.spotify.com/album/6RyH7bJpZVS8BkVJfBQGto) | 3:05 | 2026-07-23 | 2026-07-31 |
-| [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 | 2026-04-13 |  |
+| [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 | 2026-04-13 | 2026-10-16 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-02-13 | 2025-03-01 |
 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 | 2025-04-03 | 2025-08-09 |
 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 | 2025-05-01 | 2026-07-24 |
@@ -695,6 +695,7 @@
 | [With Me](https://open.spotify.com/track/08YCkJHWMhxjqBMaUzRtcj) | [Asaiowé](https://open.spotify.com/artist/6S2sQGQVsc7BzhaRzCrN4W) | [With Me](https://open.spotify.com/album/1S8424izWJM7maB0nQfSQm) | 3:08 | 2024-10-11 | 2024-11-29 |
 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-06-13 | 2025-06-20 |
 | [Wonder](https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Wonder](https://open.spotify.com/album/0R8zJtlrG8gyZtPQHiAEpY) | 3:48 | 2023-10-12 | 2024-01-26 |
+| [Wtshyf \(I Love It\)](https://open.spotify.com/track/65W0ND2YGkfqHon8IuJPMd) | [TRON PYRE](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [Wtshyf \(I Love It\)](https://open.spotify.com/album/5IpowIobPPGpGQ9whteD6a) | 3:30 | 2026-10-15 |  |
 | [WY@](https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:27 | 2024-02-22 | 2024-05-24 |
 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 | 2025-08-29 | 2026-04-10 |
 | [YES IT IS](https://open.spotify.com/track/7CbyFkT3ESTzWNR5k7ID1M) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:48 | 2026-02-13 | 2026-02-20 |

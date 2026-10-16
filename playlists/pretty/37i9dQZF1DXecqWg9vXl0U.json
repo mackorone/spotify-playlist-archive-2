@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring bri!!o \u2728",
-  "num_followers": 404,
+  "num_followers": 415,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-09-25 06:00:14",
       "album": {
-        "name": "Siempre Hago Lo Que Quiero",
-        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Siempre Hago Lo Que Quiero",
-      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
-    },
-    {
-      "added_at": "2026-09-25 06:00:14",
-      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
+    },
+    {
+      "added_at": "2026-09-25 06:00:14",
+      "album": {
+        "name": "Siempre Hago Lo Que Quiero",
+        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Siempre Hago Lo Que Quiero",
+      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
     },
     {
       "added_at": "2026-09-25 06:00:14",
@@ -787,18 +787,22 @@
     {
       "added_at": "2026-09-25 06:00:14",
       "album": {
-        "name": "Monterrey",
-        "url": "https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga"
+        "name": "Midifalda",
+        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
       },
       "artists": [
         {
-          "name": "Edgar Villarreal",
-          "url": "https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "el p\u00e1jaro del mar",
+          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Monterrey",
-      "url": "https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1"
+      "duration_ms": 230375,
+      "name": "Midifalda",
+      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
     },
     {
       "added_at": "2026-09-25 06:00:14",
@@ -819,22 +823,18 @@
     {
       "added_at": "2026-09-25 06:00:14",
       "album": {
-        "name": "Midifalda",
-        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
+        "name": "Monterrey",
+        "url": "https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga"
       },
       "artists": [
         {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "el p\u00e1jaro del mar",
-          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
+          "name": "Edgar Villarreal",
+          "url": "https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK"
         }
       ],
-      "duration_ms": 230375,
-      "name": "Midifalda",
-      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
+      "duration_ms": 193671,
+      "name": "Monterrey",
+      "url": "https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1"
     },
     {
       "added_at": "2026-09-25 06:00:14",

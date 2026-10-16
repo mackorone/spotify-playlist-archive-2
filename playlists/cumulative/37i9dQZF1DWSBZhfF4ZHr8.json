@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Ad\u00e8le Castillon.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Manon Lisa.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 154346,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6N6IDk3LpuH5yw5iizcdzT"
@@ -456,6 +456,24 @@
       "duration_ms": 149957,
       "name": "Au dessus des nuages",
       "url": "https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/7fI6oGb9FBWHru0W4sI1Ca"
     },
     {
       "album": {
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183493,
       "name": "Coeur Stone (feat. Styleto)",
       "url": "https://open.spotify.com/track/6ysaavTOBBGZk5AlQJXCFi"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171720,
       "name": "Fais gaffe \u00e0 toi",
       "url": "https://open.spotify.com/track/5SnA8y9M6VFMZlIeDiWOdN"
@@ -3100,6 +3118,24 @@
       "duration_ms": 179279,
       "name": "Gamins des sables",
       "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+    },
+    {
+      "album": {
+        "name": "Gendre id\u00e9al",
+        "url": "https://open.spotify.com/album/5DwrAHjoCzX6bXf1g4ESdm"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183584,
+      "name": "Gendre id\u00e9al",
+      "url": "https://open.spotify.com/track/6ryfKTpbjNY0A45CNmpVyY"
     },
     {
       "album": {
@@ -3606,6 +3642,24 @@
       "duration_ms": 171233,
       "name": "J'ai Grandi",
       "url": "https://open.spotify.com/track/5ETuaFo3eJjaGBSSHRXOCK"
+    },
+    {
+      "album": {
+        "name": "J'ai pas dit",
+        "url": "https://open.spotify.com/album/0aXeJZexnKviJVo0l7dMD6"
+      },
+      "artists": [
+        {
+          "name": "Camille Lellouche",
+          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172616,
+      "name": "J'ai pas dit",
+      "url": "https://open.spotify.com/track/6jwicegpsLHWMDDD1mTqV2"
     },
     {
       "album": {
@@ -4232,6 +4286,24 @@
       "duration_ms": 165000,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585"
+    },
+    {
+      "album": {
+        "name": "Jeune Demoiselle",
+        "url": "https://open.spotify.com/album/2AWZKCVDQGrAIiLNuBd9CG"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Jeune Demoiselle",
+      "url": "https://open.spotify.com/track/4uie9TydlbuQRptziBOzss"
     },
     {
       "album": {
@@ -5174,7 +5246,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187753,
       "name": "Le cri",
       "url": "https://open.spotify.com/track/6ArNSJnGPXrKDNpLaKUlfI"
@@ -5496,7 +5568,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179693,
       "name": "Les cicatrices d'or",
       "url": "https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN"
@@ -6628,7 +6700,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178002,
       "name": "Moiti\u00e9 les m\u00eames",
       "url": "https://open.spotify.com/track/5bvqmfsknupgemx1eTlOFz"
@@ -6808,7 +6880,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 164316,
       "name": "monstres & cie",
       "url": "https://open.spotify.com/track/3LCptvBYHtjDJI6R8o3z9L"
@@ -7324,7 +7396,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 205889,
       "name": "Pa",
       "url": "https://open.spotify.com/track/0eQjNtRungUNMAieeZOqGs"
@@ -7703,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/2N5HvSJsmokg6M18s7EHVX"
+      },
+      "artists": [
+        {
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/30JdCYz6qw1he2DtxwFZP7"
+    },
+    {
+      "album": {
         "name": "Petit",
         "url": "https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH"
       },
@@ -7798,6 +7888,28 @@
       "duration_ms": 163961,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
+    },
+    {
+      "album": {
+        "name": "\u00c7a ira",
+        "url": "https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "Place Massena",
+      "url": "https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O"
     },
     {
       "album": {
@@ -8759,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Naufrag\u00e9 - La suite",
+        "url": "https://open.spotify.com/album/36HpsUgZ6NVqW52Lh8Ad3v"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165985,
+      "name": "R\u00e9par\u00e9",
+      "url": "https://open.spotify.com/track/726zSugZBNTuOlXQyQbuvd"
+    },
+    {
+      "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
       },
@@ -9199,6 +9329,28 @@
     },
     {
       "album": {
+        "name": "ZMIG EXPANSION",
+        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "SI TU M'ABANDONNES",
+      "url": "https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2"
+    },
+    {
+      "album": {
         "name": "Sicile",
         "url": "https://open.spotify.com/album/0cwuZthC2IBx4d2aiSy6PS"
       },
@@ -9460,7 +9612,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194778,
       "name": "Super-h\u00e9ros",
       "url": "https://open.spotify.com/track/5izltdx7IO0nF0T8lWWuO0"
@@ -10528,6 +10680,28 @@
       "duration_ms": 204800,
       "name": "Venise",
       "url": "https://open.spotify.com/track/0fVe3hxRuNrSl7wnxUSTZj"
+    },
+    {
+      "album": {
+        "name": "Vers les jours heureux",
+        "url": "https://open.spotify.com/album/4VJ8wkjTYl2HBZmKCPD4gC"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        },
+        {
+          "name": "Philippine Lavrey",
+          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184036,
+      "name": "Vers les jours heureux",
+      "url": "https://open.spotify.com/track/0e6WDe2sImXEbqA5afJUnY"
     },
     {
       "album": {

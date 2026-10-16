@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5InrZTyhqtizdFFen4aJQN"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "Dil Haareya",
+      "url": "https://open.spotify.com/track/157H1RQQiJhYbVDDGjbao8"
+    },
+    {
+      "album": {
         "name": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
         "url": "https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq"
       },
@@ -720,7 +742,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147613,
       "name": "Issa Vibe (From \"Bloody Daddy\")",
       "url": "https://open.spotify.com/track/0PjlMtYAIBnCRajbUceZgc"

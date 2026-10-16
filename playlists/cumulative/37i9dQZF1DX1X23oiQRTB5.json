@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Vacra x La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "La Fouine au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1445,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "BRACELET",
+        "url": "https://open.spotify.com/album/4L898G8nVXcQJ6hkc9NYw6"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "BRACELET",
+      "url": "https://open.spotify.com/track/6S8erJASTt3KImpljxcQiR"
+    },
+    {
+      "album": {
         "name": "Branch\u00e9",
         "url": "https://open.spotify.com/album/6TV5K3x5cYFMBdowpZYkZ1"
       },
@@ -1548,6 +1570,28 @@
       "duration_ms": 179413,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg"
+    },
+    {
+      "album": {
+        "name": "C'EST NOUS",
+        "url": "https://open.spotify.com/album/7xS9tt6smNa4H2Olu9yz63"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        },
+        {
+          "name": "Doulkha",
+          "url": "https://open.spotify.com/artist/746NtgxeCDrfBTLUOOvjBw"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "C'EST NOUS",
+      "url": "https://open.spotify.com/track/0NbqOg775aApRnRvHHcTPz"
     },
     {
       "album": {
@@ -2256,6 +2300,24 @@
       "duration_ms": 230813,
       "name": "Crime ensoleill\u00e9",
       "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
+    },
+    {
+      "album": {
+        "name": "CYBERTESLA",
+        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178645,
+      "name": "CYBERTESLA",
+      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
     },
     {
       "album": {
@@ -3048,7 +3110,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160320,
       "name": "FENG SHUI",
       "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
@@ -4518,7 +4580,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176933,
       "name": "L'humain",
       "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
@@ -5016,7 +5078,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152282,
       "name": "LES DIAMANTS DE BOKASSA",
       "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
@@ -5334,7 +5396,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
@@ -5374,6 +5436,28 @@
       "duration_ms": 171392,
       "name": "Lululemon",
       "url": "https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV"
+    },
+    {
+      "album": {
+        "name": "Silence Radio",
+        "url": "https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "M.D",
+      "url": "https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ"
     },
     {
       "album": {

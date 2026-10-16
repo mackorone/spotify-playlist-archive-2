@@ -4,7 +4,7 @@
 
 > New music from Gunna, BigXthaPlug and Offset with Don Toliver.
 
-2,899 songs - 6 day 6 hr 33 min
+2,900 songs - 6 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \- REMIX](https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \[REMIX\]](https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B) | 3:27 | 2020-10-08 | 2020-10-09 |
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2020-09-25 | 2021-02-06 |
 | [Freaky](https://open.spotify.com/track/0NJp8GyCOWnQh71xKSPfuV) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Freaky](https://open.spotify.com/album/0JDoNU0AZ54Ng8e2iPTKRs) | 2:53 | 2019-05-26\* | 2019-06-28 |
+| [Freaky Girl](https://open.spotify.com/track/5wTV2aPLlM3nB3GmEMiXZb) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hard to Kill](https://open.spotify.com/album/3Ra9lGcR2g1edYL8txyKDq) | 3:45 | 2026-10-15 |  |
 | [Freaky Gurl \(feat\. Ludacris and Lil Kim\) \- Remix](https://open.spotify.com/track/3oePgThYVcdoQCBAf4lovM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Back to the Traphouse](https://open.spotify.com/album/5bq0rBzgv7bJEwn76KfHBF) | 4:40 | 2022-12-08 | 2022-12-10 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2023-01-27 | 2023-04-22 |
 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 | 2023-04-21 | 2023-07-01 |

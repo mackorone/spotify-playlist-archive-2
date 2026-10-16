@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-527 songs - 1 day 6 hr 31 min
+529 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 | 2026-08-12 |  |
 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 | 2026-06-06 | 2026-08-18 |
 | [Red Stain](https://open.spotify.com/track/1B9QyAQ7n93w9d39YxdIac) | [9VOLT](https://open.spotify.com/artist/1yGIUUNxhETK7t4ccYvaIF) | [Hard to Get Out](https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs) | 1:54 | 2026-04-20 | 2026-07-01 |
+| [Refuge](https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Fear of Isolation](https://open.spotify.com/album/0LoLbU30mKbb1CgNMQ3Tvy) | 2:32 | 2026-10-15 |  |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 | 2026-05-27 | 2026-07-24 |
 | [Runner](https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid) | [Jude Watkins](https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn) | [Just This Once](https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq) | 4:30 | 2026-07-13 | 2026-08-18 |
@@ -438,6 +439,7 @@
 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 | 2026-04-23 | 2026-07-02 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 | 2026-05-14 |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 | 2026-05-06 |
+| [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 | 2026-10-15 |  |
 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 | 2026-05-22 | 2026-07-24 |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-22 | 2026-07-24 |
 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-25 | 2026-08-18 |

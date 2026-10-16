@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo"
+    },
+    {
+      "album": {
         "name": "Fast Animals",
         "url": "https://open.spotify.com/album/6sKy9KhjloDKHcoyfY8UgZ"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 308093,
       "name": "The Fruits of Conquest",
       "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"

@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-503 songs - 1 day 7 hr 46 min
+504 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Las Ganas](https://open.spotify.com/track/4k2pYwAEf6iwHE4LIuL1t2) | [Tamesis](https://open.spotify.com/artist/4YUhzjxOSh8c1xht20jCD9) | [Las Ganas](https://open.spotify.com/album/4SP5EFfGpDljnKiYORsf3X) | 4:00 | 2026-04-10 | 2026-05-08 |
 | [Las Lunas](https://open.spotify.com/track/4N6ReNPvyh4r8KExkKyow9) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Lunas](https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ) | 3:46 | 2022-07-19 | 2022-07-28 |
 | [Las Margaritas Mienten](https://open.spotify.com/track/40wGVBb3OKqTYevo2etwSr) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Las Margaritas Mienten](https://open.spotify.com/album/3EFNKAhyEPSMGNLXqAHjVi) | 5:13 | 2026-04-10 | 2026-04-18 |
+| [Las Ruinas de tu Imperio ·III· La Emperatriz Invertida](https://open.spotify.com/track/4Yi6Je53CHUvOCeixjxKc8) | [Cony Langone](https://open.spotify.com/artist/1Mn6Bw0MZ9oSUU8C03sRHN) | [La Caída del Imperio](https://open.spotify.com/album/4dikHSF1BM381eFMhsko2b) | 3:54 | 2026-10-15 |  |
 | [Le conté a mi psicólogo de vos](https://open.spotify.com/track/0peDKddtxstiRwgEJBRN7o) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [Le conté a mi psicólogo de vos](https://open.spotify.com/album/7CGx8wKrOGJ8wKIe6FF1Mc) | 3:25 | 2025-07-18 | 2025-08-01 |
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-07-01 | 2022-07-06 |
 | [Lejos](https://open.spotify.com/track/48vROM5AxWZtBhynXjcFYi) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Lejos](https://open.spotify.com/album/7dBpmGvDx4TLkxcRps4Mfr) | 3:38 | 2025-12-05 | 2026-01-15 |
@@ -350,7 +351,7 @@
 | [Para Mucho Más](https://open.spotify.com/track/6N2KX0WX4k7Q5gXJf2z7kL) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Para Mucho Más](https://open.spotify.com/album/4euMstUng8ttxXboSRhXOh) | 3:31 | 2022-07-01 | 2022-07-18 |
 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 | 2022-07-19 | 2022-08-30 |
 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 | 2022-06-29 |  |
-| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-11-07 |  |
+| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-11-07 | 2026-10-16 |
 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 | 2022-07-06 |  |
 | [Pensamientos](https://open.spotify.com/track/4BVUqdx68RHFWruvHVQtvJ) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Pensamientos](https://open.spotify.com/album/1ZO91hsQDPJohLn1NlghqD) | 3:52 | 2022-07-06 | 2022-07-12 |
 | [Perdido](https://open.spotify.com/track/4iyzfXpgx4vCEU40sVUMvm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:52 | 2025-04-25 | 2026-05-29 |

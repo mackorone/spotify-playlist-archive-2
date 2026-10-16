@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯<br/>Photo : Ruthee
 
-666 songs - 1 day 8 hr 52 min
+669 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 | 2023-09-28 | 2023-11-24 |
 | [Après](https://open.spotify.com/track/30X4degBCDUzKHUXK4HF0h) | [Mee Shel](https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH) | [Le Temps Qui Passe](https://open.spotify.com/album/5UuCnoVtFkjjk5VhK1GuhH) | 1:30 | 2025-02-27 | 2025-04-04 |
 | [après l'été](https://open.spotify.com/track/6Dh3l2G4elvQTIQHM9VfCK) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [On verra après l'été](https://open.spotify.com/album/1M9IXFB282zyzdhp0CSSm7) | 3:54 | 2024-08-15 | 2024-09-20 |
+| [Après Moi](https://open.spotify.com/track/5LKsXN90VEK7OBGpUJjvZc) | [Mabz](https://open.spotify.com/artist/6HIYnnpXjGTm61j3jAqzss) | [Après Moi](https://open.spotify.com/album/1aZxa5ezIdrJNzvMnFf9zX) | 2:41 | 2026-10-15 |  |
 | [Après toi](https://open.spotify.com/track/3D1yHZ6rA4hCHjSEOJwNQ8) | [Donguti](https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf) | [Après toi](https://open.spotify.com/album/6DoD3nLPtXjTkWLOxAgOQa) | 3:50 | 2025-04-24 | 2025-06-27 |
 | [Arrêter de t'aimer](https://open.spotify.com/track/7mCyJMSTddnGZruHCVxItd) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Arrêter de t'aimer](https://open.spotify.com/album/0VJ4FVEk2y4cVrynESQ5yO) | 3:34 | 2024-07-04 | 2024-11-29 |
 | [attention](https://open.spotify.com/track/56qWdInzVg3YP6GvVvj5Vp) | [ŸEND](https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s) | [attention](https://open.spotify.com/album/6zAcXtD1C9LrWDZamPaSFS) | 2:34 | 2025-12-18 | 2026-01-23 |
@@ -95,7 +96,7 @@
 | [Ce que tu me fais](https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Ce que tu me fais](https://open.spotify.com/album/2yL3QxmcGIdKXqZEGcj2tl) | 2:18 | 2025-11-13 | 2026-01-16 |
 | [Chambre](https://open.spotify.com/track/5p0yFqkNzdqjE7aYd5n9eZ) | [Tallulah](https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3) | [Chambre](https://open.spotify.com/album/7gAen5UcxotCPpRp5DsMvi) | 2:45 | 2025-12-18 | 2026-01-23 |
 | [Chanel Pt\. 2](https://open.spotify.com/track/7egZBEbXibU03rGh3zpqoq) | [TMI](https://open.spotify.com/artist/3hu0IhZbt6Re7ckM2LKglZ), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Chanel Pt\. 2](https://open.spotify.com/album/1l9kSwS7e5t2sDAIEWs64l) | 3:06 | 2024-02-15 | 2024-05-03 |
-| [Changer](https://open.spotify.com/track/4DxrLnzLmGNVh5yPc28HZg) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [Soleil Nomade](https://open.spotify.com/album/0YZV68wXuCTYihBpUBRrRh) | 2:53 | 2026-06-18 |  |
+| [Changer](https://open.spotify.com/track/4DxrLnzLmGNVh5yPc28HZg) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [Soleil Nomade](https://open.spotify.com/album/0YZV68wXuCTYihBpUBRrRh) | 2:53 | 2026-06-18 | 2026-10-16 |
 | [Chaque Seconde](https://open.spotify.com/track/6EsL43PFCLyr8CDsgEGQrs) | [Lukazam](https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD) | [Chaque Seconde](https://open.spotify.com/album/3SEPPrl3Jt3TR9IoTBlrp3) | 3:22 | 2026-05-07 | 2026-07-31 |
 | [Chéri](https://open.spotify.com/track/22f7A8gSa2P5TK8lWlNU0Q) | [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w), [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh), [La Place](https://open.spotify.com/artist/74FkYQfvkB8WQ3yPnLThJj) | [Des perles et des cendres](https://open.spotify.com/album/43qUSB8OWn8A3R9IbCYSyb) | 2:51 | 2023-09-28 | 2024-02-16 |
 | [Chéri doudou](https://open.spotify.com/track/31v1ovWgFGYqF4ylU647q7) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [Chéri doudou](https://open.spotify.com/album/3PmlIZLR43yjTglW8XSHnW) | 3:05 | 2026-09-24 |  |
@@ -211,6 +212,7 @@
 | [Fils de \(Sans Valentin\)](https://open.spotify.com/track/3iIW06aZGly2F0ViQigqEt) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Fils de \(Sans Valentin\)](https://open.spotify.com/album/5YpWbeDdxKkXBXfroGETc4) | 1:41 | 2025-02-13 | 2025-02-28 |
 | [Finalement](https://open.spotify.com/track/1NzsLLC52w06Dln3UoXME2) | [Bluuchyd](https://open.spotify.com/artist/6XNamyfKXLfPAxvkYhAAv1), [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [Finalement](https://open.spotify.com/album/7I6ZSYK1TeDw7jOJBDAlBo) | 3:16 | 2024-11-07 | 2025-02-14 |
 | [Fini](https://open.spotify.com/track/6wOg028Ir9iTzesjbR2oDD) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 2:50 | 2026-10-01 |  |
+| [Flemme](https://open.spotify.com/track/4WZK3AZ4k32AiQWPhvFfwS) | [Dacey](https://open.spotify.com/artist/03SPCkSg1W71wU60QnTPbO) | [Sad&Sexy](https://open.spotify.com/album/3PLhGxxtwUFo8uorlQDsMp) | 2:51 | 2026-10-15 |  |
 | [fleur bleue](https://open.spotify.com/track/5omVv07GhoWSfoooEW6xYT) | [Alvin Amaïzo](https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh) | [fleur bleue](https://open.spotify.com/album/1YbubU4LCCF8Zev5TgsYUC) | 2:45 | 2026-01-15 | 2026-02-20 |
 | [Fleur de peau](https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Fleur de peau](https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk) | 3:33 | 2024-06-27 | 2024-11-08 |
 | [Flippé](https://open.spotify.com/track/4Ed9rXKzmekpCokfFlneNr) | [Flo Malley](https://open.spotify.com/artist/30HRLwtkyjmXNwoUe0eDa5) | [Flippé](https://open.spotify.com/album/1kCK1SLSfxWkp2uYiVUOxe) | 3:21 | 2025-04-03 | 2025-05-02 |
@@ -296,7 +298,7 @@
 | [Je te déteste](https://open.spotify.com/track/0g1U9MuUMDt0v4wKKXR2u5) | [WM](https://open.spotify.com/artist/3bWvLWa0SjKm8esaGS2TAE) | [Je te déteste](https://open.spotify.com/album/7aOQZ6DOqr5lSffGGJHLOA) | 3:58 | 2024-12-19 | 2025-02-14 |
 | [Je Te Laisse](https://open.spotify.com/track/5ZqdSv8fa1KQrplwlEjh2V) | [Mhike Xtensen](https://open.spotify.com/artist/4g3RRp0XNIsMZK7lyoCIG8) | [Miel Box](https://open.spotify.com/album/5hIoGiT48gQ5BpA4ENFBBq) | 3:20 | 2024-04-25 | 2024-11-08 |
 | [journée à paris](https://open.spotify.com/track/1JNqH2aVfVqMWtZnfGyln0) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [journée à paris](https://open.spotify.com/album/05ed2hnhQTx5YqZRCNqbJs) | 2:46 | 2024-07-18 | 2024-11-15 |
-| [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 | 2026-06-04 |  |
+| [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 | 2026-06-04 | 2026-10-16 |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/3tCSDz7OiGQUTQNRkUqw0E) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [EGO'STRIP](https://open.spotify.com/album/3NfIHvvShDhGkn1x41UVFE) | 2:12 | 2026-06-11 | 2026-09-25 |
 | [Juste une dernière fois](https://open.spotify.com/track/1zgpMOoiX4265eNzasafiN) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [Juste une dernière fois](https://open.spotify.com/album/5Unwgpvu24yFxE24NJDnDu) | 2:54 | 2025-05-01 | 2025-05-30 |
 | [juste une fois](https://open.spotify.com/track/74NfVgbBS8VoVvSC7e8Y9E) | [SWETHA](https://open.spotify.com/artist/5CsSIXTkXaMwYWPKtPlMm7) | [juste une fois](https://open.spotify.com/album/0yek37mQsZIXLpOXEM6hmk) | 2:38 | 2025-04-17 | 2025-05-16 |
@@ -564,7 +566,7 @@
 | [Septembre](https://open.spotify.com/track/69oM9FG9MjQg8hmSfHMpiD) | [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Septembre](https://open.spotify.com/album/2AcLdUpK98EXkGbBUZlOiD) | 2:23 | 2025-09-11 | 2025-11-14 |
 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 | 2024-11-28 | 2025-09-19 |
 | [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 | 2025-11-20 | 2026-01-15 |
-| [Si elle demande](https://open.spotify.com/track/42GUegcNJubq8geCozIssi) | [Dienini](https://open.spotify.com/artist/5MCpw9P0BJ7vTFst9E6COK) | [Jusqu'à l'aube](https://open.spotify.com/album/26MONn92vJC2Z3UV3kSarj) | 2:52 | 2026-07-09 |  |
+| [Si elle demande](https://open.spotify.com/track/42GUegcNJubq8geCozIssi) | [Dienini](https://open.spotify.com/artist/5MCpw9P0BJ7vTFst9E6COK) | [Jusqu'à l'aube](https://open.spotify.com/album/26MONn92vJC2Z3UV3kSarj) | 2:52 | 2026-07-09 | 2026-10-16 |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 | 2024-02-16 |
 | [Si je reste](https://open.spotify.com/track/3CyZu7VYkNtU20zdqQqKBl) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [Si je reste](https://open.spotify.com/album/62vpOwtznSBvnBL7jd2rEA) | 3:00 | 2025-10-09 | 2025-11-07 |
 | [Si j’avais su](https://open.spotify.com/track/5XWWSnBxoSsFQbb0kpLjGQ) | [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Si j’avais su](https://open.spotify.com/album/7icVd9EZl1GKAOYA7DgQTa) | 3:27 | 2026-04-09 | 2026-05-22 |
@@ -619,6 +621,7 @@
 | [TOU SÈL](https://open.spotify.com/track/51QyajsUEuJBtQR0aLJzpb) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [TOU SÈL](https://open.spotify.com/album/4ytfHdTPhBsN4v0f2fNO0r) | 4:22 | 2026-05-21 | 2026-09-04 |
 | [Touch](https://open.spotify.com/track/4mpfsfixDXudZSQN8rVjwq) | [LÜZLO](https://open.spotify.com/artist/019ufnK32dBUQLEHa8CUv5) | [Touch](https://open.spotify.com/album/1NGUmMEG5UTdtfgia6RNmw) | 2:58 | 2024-04-18 | 2024-07-05 |
 | [Tous les deux \- version acoustique](https://open.spotify.com/track/7AE3xJuOyyukbbEMdLaXIJ) | [Svudvde](https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo) | [Tous les deux \(version acoustique\)](https://open.spotify.com/album/2H5Fngx8vdGkgvXEzHWpy8) | 2:22 | 2024-08-08 | 2024-10-11 |
+| [Tout autour](https://open.spotify.com/track/5t49NVxD0AGiURPZ4Fdys0) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juste avant l'étincelle...](https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0) | 3:08 | 2026-10-15 |  |
 | [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 | 2025-08-28 | 2025-11-28 |
 | [Tout pour toi](https://open.spotify.com/track/2lkyILEN21Cbnb9tlwuuOo) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Tout pour toi](https://open.spotify.com/album/0CCz8kxIMz9XgKU7JLTXrR) | 3:12 | 2026-04-23 | 2026-07-10 |

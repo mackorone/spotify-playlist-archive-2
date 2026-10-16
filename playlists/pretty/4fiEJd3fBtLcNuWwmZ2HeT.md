@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 525 songs - 1 day 6 hr 17 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 527 songs - 1 day 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -533,5 +533,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 523 | [AaAaAaAAaAaAAa \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/4NN46C9Wznv1vVWqFhE9wn) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Owari](https://open.spotify.com/album/2D3a0mdI5nvHelF8vWL1Lj) | 3:39 |
 | 524 | [저격수 인형](https://open.spotify.com/track/5B1us6jlfXwpqhEZRa8s4P) | [WyvernP](https://open.spotify.com/artist/2Iw5m7MkqPhLpQxdx0SVmn), [유니](https://open.spotify.com/artist/3bFS3jV2rAepYVOuft1iDP) | [Zinnia \(2016\-2018 Collection Vol.01\)](https://open.spotify.com/album/77qDP4NFpjc763QSvxNAqF) | 3:21 |
 | 525 | [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 |
+| 526 | [I'll Throw My Emotions Away](https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH) | [Riproducer](https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N) | [My Brain The Musical](https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S) | 4:44 |
+| 527 | [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 |
 
-Snapshot ID: `AAAKhrW0663av2FMC1Yknb+40RkuhfcD`
+Snapshot ID: `AAAKiBNY99DTU2jDU2e28riWKFFiG3mT`

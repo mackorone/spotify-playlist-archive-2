@@ -846,10 +846,36 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 210152,
       "name": "Lumidee",
       "url": "https://open.spotify.com/track/2KihIG1ZqhFqOU6Q0kzcB9"
+    },
+    {
+      "album": {
+        "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/2C8NJqcBoVC33EIJQUWfUP"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210152,
+      "name": "Lumidee",
+      "url": "https://open.spotify.com/track/772SeVKaz5N9UxM3K3kMHa"
     },
     {
       "album": {

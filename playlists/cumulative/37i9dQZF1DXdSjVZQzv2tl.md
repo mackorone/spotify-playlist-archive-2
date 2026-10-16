@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ícaro e Gilmar
 
-427 songs - 20 hr 1 min
+428 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 | 2023-09-08 | 2024-09-06 |
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-08-22 | 2023-12-11 |
 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 | 2021-12-31 | 2022-02-19 |
-| [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 | 2026-02-20 |  |
+| [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 | 2026-02-20 | 2026-10-16 |
 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 | 2022-09-09 | 2023-12-11 |
 | [Beijo Equivocado](https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Beijo Equivocado](https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT) | 2:36 | 2024-01-12 | 2024-11-29 |
 | [Beijo Fuleiro \- Ao Vivo](https://open.spotify.com/track/55vC6IXdrqntPOZeMQJ8Kd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Beijo Fuleiro \(Ao Vivo\)](https://open.spotify.com/album/2HzDbcpXFKvh4cnEEJ3Ds7) | 2:48 | 2023-07-21 | 2023-11-11 |
@@ -333,6 +333,7 @@
 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \(Ao Vivo\)](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 | 2024-08-30 | 2025-06-14 |
 | [Pulando o Muro \- Ao Vivo](https://open.spotify.com/track/0KDxhAvKeiVFL1bZccQVJs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Intenso, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5p2auLiTOfPNkdlKyW5eM8) | 2:32 | 2024-09-06 | 2025-11-28 |
 | [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 | 2023-05-05 | 2024-05-10 |
+| [Pós \- Ao Vivo](https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Pós \(Ao Vivo\)](https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv) | 2:55 | 2026-10-15 |  |
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 | 2023-01-27 | 2024-02-24 |
 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 | 2025-10-17 |  |
 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 | 2023-09-22 | 2024-07-19 |

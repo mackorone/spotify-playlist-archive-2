@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,699 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,718 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 11 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 | 12 | [Christmas in New England](https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Christmas in New England](https://open.spotify.com/album/2lOq547LxWZumv19kK2Aw4) | 4:04 |
 | 13 | [blame it on the snow](https://open.spotify.com/track/1QZbfQMzfDqWoyAEvXi1jQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 2:35 |
-| 14 | [Under the Christmas Moonlight](https://open.spotify.com/track/6l7U0g3QVVmLYI27mnhfjB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Christmas In Tahoe \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/15miSp8pamtTpk4MYACBXP) | 3:46 |
+| 14 | [Under the Christmas Moonlight](https://open.spotify.com/track/6l7U0g3QVVmLYI27mnhfjB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Christmas In Tahoe](https://open.spotify.com/album/15miSp8pamtTpk4MYACBXP) | 3:46 |
 | 15 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 |
 | 16 | [Christmas Lights](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 17 | [Blue Christmas](https://open.spotify.com/track/38fhq0EiSzlIwv20tHNGss) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Blue Christmas](https://open.spotify.com/album/3DRGhm9rkjANo94CxrhsMc) | 2:30 |

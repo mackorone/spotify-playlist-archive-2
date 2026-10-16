@@ -1,28 +1,64 @@
 {
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Asteria",
-  "num_followers": 37814,
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Abdullah Siddiqui",
+  "num_followers": 37820,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIfqLZoJrmJju2z9/dzkcnPV26c",
+  "snapshot_id": "AAAAAETPp/WTDl7yrcK3qMwMvNK2hzt/",
   "tracks": [
     {
-      "added_at": "2026-09-06 19:55:43",
+      "added_at": "2026-10-16 03:00:19",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7BOtjNPakuo357nNpk58K0"
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5WQNCGMBigBtoDJWixJayt"
       },
       "artists": [
         {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ"
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1VnB7BN28qn9bn8FV3ZUp0"
+      "duration_ms": 174000,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/298JAlQJJCeXJvZxJlW05t"
+    },
+    {
+      "added_at": "2026-10-16 03:00:19",
+      "album": {
+        "name": "Kahani adhuri si",
+        "url": "https://open.spotify.com/album/1UP6SKUepHid7sOBLSbR8U"
+      },
+      "artists": [
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        }
+      ],
+      "duration_ms": 253122,
+      "name": "Kahani adhuri si",
+      "url": "https://open.spotify.com/track/7a1CYnyYZE4MvdpmDdyo4y"
+    },
+    {
+      "added_at": "2026-10-16 03:00:19",
+      "album": {
+        "name": "Ki Be Dardan",
+        "url": "https://open.spotify.com/album/6F1twkTrRBas9tcvix6ip4"
+      },
+      "artists": [
+        {
+          "name": "Akbar Ali",
+          "url": "https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z"
+        },
+        {
+          "name": "Trigger Tapes",
+          "url": "https://open.spotify.com/artist/1tHbtg79S5CVZOdLf5AdT9"
+        }
+      ],
+      "duration_ms": 426000,
+      "name": "Ki Be Dardan",
+      "url": "https://open.spotify.com/track/1xnne96ziI2QVnizewzl5o"
     },
     {
       "added_at": "2026-09-11 04:01:50",
@@ -83,26 +119,6 @@
     {
       "added_at": "2026-09-06 19:55:43",
       "album": {
-        "name": "Day 5",
-        "url": "https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU"
-      },
-      "artists": [
-        {
-          "name": "Hassan & Roshaan",
-          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
-        },
-        {
-          "name": "Amna Riaz",
-          "url": "https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl"
-        }
-      ],
-      "duration_ms": 244485,
-      "name": "Duur Se",
-      "url": "https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm"
-    },
-    {
-      "added_at": "2026-09-06 19:55:43",
-      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/6E5pORwJWiSggsnzD1yWfU"
       },
@@ -119,6 +135,46 @@
       "duration_ms": 216923,
       "name": "Safar",
       "url": "https://open.spotify.com/track/0q4442eIt44kTWEhkoTlh8"
+    },
+    {
+      "added_at": "2026-09-06 19:55:43",
+      "album": {
+        "name": "WHERE R U",
+        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+      },
+      "artists": [
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "WHERE R U",
+      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
+    },
+    {
+      "added_at": "2026-09-06 19:55:43",
+      "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Amna Riaz",
+          "url": "https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl"
+        }
+      ],
+      "duration_ms": 244485,
+      "name": "Duur Se",
+      "url": "https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm"
     },
     {
       "added_at": "2026-09-06 19:55:43",
@@ -157,6 +213,22 @@
       "url": "https://open.spotify.com/track/2DdFRAGP6oHUvc0YsGaxqL"
     },
     {
+      "added_at": "2026-10-16 03:00:19",
+      "album": {
+        "name": "Farvari",
+        "url": "https://open.spotify.com/album/58doQEPLSgCirXqBzgVKGu"
+      },
+      "artists": [
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        }
+      ],
+      "duration_ms": 180352,
+      "name": "Farvari",
+      "url": "https://open.spotify.com/track/6xNFZCKGpCRUHUQng3rx82"
+    },
+    {
       "added_at": "2026-09-06 19:55:43",
       "album": {
         "name": "Jaaun Kahan",
@@ -175,22 +247,18 @@
     {
       "added_at": "2026-09-06 19:55:43",
       "album": {
-        "name": "WHERE R U",
-        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7BOtjNPakuo357nNpk58K0"
       },
       "artists": [
         {
-          "name": "Alistair Alvin",
-          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
-        },
-        {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ"
         }
       ],
-      "duration_ms": 221935,
-      "name": "WHERE R U",
-      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
+      "duration_ms": 187800,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1VnB7BN28qn9bn8FV3ZUp0"
     },
     {
       "added_at": "2026-09-06 19:55:43",

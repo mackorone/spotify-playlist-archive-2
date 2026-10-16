@@ -1,13 +1,33 @@
 {
   "description": "Introducing RADAR Philippines Cast of 2026. Cover: rhodessa",
-  "num_followers": 135828,
+  "num_followers": 135831,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEcUFpu5mBr8ft/3jqecCr9phW8p",
+  "snapshot_id": "AAAAANyfXHG3Zuu6QTLOfC0F7zYRnxKw",
   "tracks": [
+    {
+      "added_at": "2026-10-16 02:09:45",
+      "album": {
+        "name": "Trisikulo",
+        "url": "https://open.spotify.com/album/2LBma9pugz4QM1btCzMYjG"
+      },
+      "artists": [
+        {
+          "name": "Ziv",
+          "url": "https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t"
+        },
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        }
+      ],
+      "duration_ms": 169692,
+      "name": "Trisikulo",
+      "url": "https://open.spotify.com/track/5ZOcgcOuMamz9I4DscdCs8"
+    },
     {
       "added_at": "2026-10-09 02:00:36",
       "album": {

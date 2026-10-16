@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Le petit pêcheur" de Manon Lisa est le Grand Hit de la semaine.
+> "Été avec toi" d'Adèle Castillon est le Grand Hit de la semaine.
 
 353 songs - 18 hr 4 min
 

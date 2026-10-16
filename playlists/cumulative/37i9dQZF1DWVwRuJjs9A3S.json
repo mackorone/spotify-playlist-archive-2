@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Sunnan",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Valter Nilsson",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 245452,
       "name": "blue+green",
       "url": "https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx"
@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 262500,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/648HgjnfsGe0e1SHa05kFS"
@@ -6304,7 +6304,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211233,
       "name": "East Village",
       "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
@@ -10245,6 +10245,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/63tDkScueEmDfGasampjs3"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274618,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR"
+    },
+    {
+      "album": {
         "name": "Husk",
         "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
       },
@@ -13261,6 +13279,24 @@
     },
     {
       "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J"
+    },
+    {
+      "album": {
         "name": "Leash (Babygirl Original Soundtrack)",
         "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
       },
@@ -15741,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "Totally",
+        "url": "https://open.spotify.com/album/5zrHyT2dw1ahFzjwYD97JC"
+      },
+      "artists": [
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188189,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2CBJj1jVItTdfCF3Repsxr"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3sjduxqQ11a8iJ2GzkMrYm"
       },
@@ -17954,6 +18008,28 @@
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
+    {
+      "album": {
+        "name": "PIG!!",
+        "url": "https://open.spotify.com/album/51SrKsfHDdVkvmWjBIlP6F"
+      },
+      "artists": [
+        {
+          "name": "Gone Future",
+          "url": "https://open.spotify.com/artist/4qlD6ohmoQ4jbj8Bu27Ci5"
+        },
+        {
+          "name": "ShitKid",
+          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217504,
+      "name": "PIG!!",
+      "url": "https://open.spotify.com/track/4d9xUor9LZdf7uHU7gbeSH"
     },
     {
       "album": {
@@ -20498,7 +20574,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171985,
       "name": "Slow My Heart Down",
       "url": "https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp"
@@ -21380,6 +21456,24 @@
       "duration_ms": 181840,
       "name": "Steady Baby",
       "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
+    },
+    {
+      "album": {
+        "name": "Sten, sax, p\u00e5se sten",
+        "url": "https://open.spotify.com/album/03XVftzV3qgtzOzJfgnTGC"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197908,
+      "name": "Sten, sax, p\u00e5se sten",
+      "url": "https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j"
     },
     {
       "album": {
@@ -23124,6 +23218,24 @@
       "duration_ms": 211973,
       "name": "The Prettiest Face",
       "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
+    },
+    {
+      "album": {
+        "name": "THE RAT AND THE FUCKING COCAINE",
+        "url": "https://open.spotify.com/album/1WWS6wuclotLBkRIhIgf3t"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272125,
+      "name": "THE RAT AND THE FUCKING COCAINE",
+      "url": "https://open.spotify.com/track/26nkKSSuMC9SYoOho0QZ4c"
     },
     {
       "album": {
@@ -24966,7 +25078,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171200,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
@@ -25288,7 +25400,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 250038,
       "name": "well, well, well",
       "url": "https://open.spotify.com/track/6HKWq6r4OedN1Ey33G07qi"

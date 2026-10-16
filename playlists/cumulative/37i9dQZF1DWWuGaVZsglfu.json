@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: Taylor Swift",
+  "description": "The best tracks from the world of music. Cover: AD\u00c9LA",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 149000,
       "name": "Aku Berjanji",
       "url": "https://open.spotify.com/track/0v2DdUmdjv6Qi8yiRzYq2Q"
@@ -1484,6 +1484,24 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
+        "name": "Bluest Sky",
+        "url": "https://open.spotify.com/album/6djNFwATelSuauy8erJkgE"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178976,
+      "name": "Bluest Sky",
+      "url": "https://open.spotify.com/track/6ujS6AQC7T6nFLY5SBchdQ"
     },
     {
       "album": {

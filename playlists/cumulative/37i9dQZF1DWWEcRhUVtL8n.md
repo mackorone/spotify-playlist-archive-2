@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,552 songs - 5 day 16 hr 9 min
+2,553 songs - 5 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-03-08 | 2024-05-05 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-09-28 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-07-29 |
+| [EVERY THOUGHT I’VE EVER HAD](https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [let the feeling die](https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV) | 2:56 | 2026-10-09 |  |
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-09-24 | 2022-04-16 |
 | [Everything and Nothing](https://open.spotify.com/track/2q3x2IKA8QWK40XjXqhD5j) | [Mob Rich](https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5) | [Everything and Nothing](https://open.spotify.com/album/3MI7LEhvkWMUJKa4Z5W91C) | 3:07 | 2021-05-03 | 2021-05-19 |
@@ -810,7 +811,7 @@
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-25 | 2022-05-20 |
 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-08 | 2026-02-14 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-04-13 |
-| [FLOWERS](https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [FLOWERS](https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4) | 3:14 | 2026-07-24 |  |
+| [FLOWERS](https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [FLOWERS](https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4) | 3:14 | 2026-07-24 | 2026-10-16 |
 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 | 2020-10-20 | 2020-10-21 |
 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-02-27 | 2026-06-20 |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 | 2022-07-29 |

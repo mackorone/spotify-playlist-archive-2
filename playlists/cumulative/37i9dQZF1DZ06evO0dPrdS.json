@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "2 Become 1",
+        "url": "https://open.spotify.com/album/7hNNgDU4imUDX29rfuKBGO"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230226,
+      "name": "Seremos 1 Los 2 - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/6hcNd7nKFpTt06C754iIg0"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG"
       },

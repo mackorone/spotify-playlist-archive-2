@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 14171,
+  "num_followers": 14172,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAC4HNbyply2QHacYC4fCfRz",
+  "snapshot_id": "as7GAAAAAAD07hY7aXfXu/tvTs98y5Pn",
   "tracks": [
     {
       "added_at": null,
@@ -770,15 +770,11 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 378213,
-      "name": "Ch\u00e9rie s'en va",
-      "url": "https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ"
+      "duration_ms": 267946,
+      "name": "Natty",
+      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
     },
     {
       "added_at": null,
@@ -842,11 +838,15 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Natty",
-      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
+      "duration_ms": 378213,
+      "name": "Ch\u00e9rie s'en va",
+      "url": "https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-146 songs - 9 hr 8 min
+148 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-08-08 | 2025-09-27 |
 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 | 2025-08-08 | 2026-04-21 |
 | [dance & giggle](https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4) | [sura sol](https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1) | [i will be dead](https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt) | 2:50 | 2026-07-17 | 2026-10-10 |
+| [Days on Days on Days](https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [Days on Days on Days](https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3) | 3:14 | 2026-10-15 |  |
 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 | 2025-08-08 |  |
 | [Do No Harm \(feat\. Baby Rose\)](https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [22 Durnham Dew](https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n) | 3:15 | 2026-10-09 |  |
 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 | 2025-08-08 |  |
@@ -72,7 +73,7 @@
 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 | 2025-08-08 |  |
 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 | 2025-08-08 | 2026-05-27 |
 | [love so blind \- night tapes](https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [love so blind \(night tapes\)](https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT) | 4:05 | 2026-04-20 |  |
-| [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 |  |
+| [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 | 2026-10-16 |
 | [Make It Rain \- 27 Tapes](https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Make It Rain \(27 Tapes\)](https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G) | 6:35 | 2026-05-26 | 2026-09-11 |
 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 | 2026-07-18 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-10-21 | 2025-12-05 |
@@ -86,7 +87,7 @@
 | [Mr\. Beckett \- Alternate Version](https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Mr\. Beckett \(Alternate Version\)](https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi) | 3:47 | 2026-07-17 |  |
 | [Muddy Water](https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94) | [DeNohr](https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E) | [Muddy Water](https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl) | 2:40 | 2026-07-17 |  |
 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 | 2025-08-08 |  |
-| [My Hands](https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [My Hands](https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD) | 3:38 | 2026-03-23 |  |
+| [My Hands](https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [My Hands](https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD) | 3:38 | 2026-03-23 | 2026-10-16 |
 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 | 2025-08-08 | 2026-09-29 |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-08-29 | 2025-09-16 |
 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 | 2025-08-08 |  |
@@ -99,6 +100,7 @@
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-08-08 | 2025-10-22 |
 | [Only You](https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:23 | 2026-03-23 |  |
 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 | 2025-11-11 |  |
+| [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 | 2026-10-15 |  |
 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 | 2025-08-08 |  |
 | [Paul](https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Paul](https://open.spotify.com/album/4Rqzk5YGDOux3QZgs2HEN4) | 3:12 | 2026-09-10 |  |
 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 | 2025-08-08 |  |

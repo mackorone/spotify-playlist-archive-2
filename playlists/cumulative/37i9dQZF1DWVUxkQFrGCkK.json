@@ -6119,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Dancing On Me",
+        "url": "https://open.spotify.com/album/16T6kSTWtAPh0v6Gy7l0Pv"
+      },
+      "artists": [
+        {
+          "name": "yaman",
+          "url": "https://open.spotify.com/artist/2GNgkPTNjYTz634sfCsDwb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220487,
+      "name": "Dancing On Me",
+      "url": "https://open.spotify.com/track/07LpFeh7djxNLedL8EiKaH"
+    },
+    {
+      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/6lTtYYVqJCRxc28a6cUK73"
       },
@@ -10168,7 +10186,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 372480,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
@@ -13154,6 +13172,24 @@
       "duration_ms": 200655,
       "name": "Je t'attends",
       "url": "https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l"
+    },
+    {
+      "album": {
+        "name": "Jealous Twins",
+        "url": "https://open.spotify.com/album/2hTFUaUkrYPV1wRApa26Xh"
+      },
+      "artists": [
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365714,
+      "name": "Jealous Twins",
+      "url": "https://open.spotify.com/track/3ZGqQUwwfsXPXqvCwn63WG"
     },
     {
       "album": {
@@ -24898,7 +24934,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189396,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq"
@@ -24938,6 +24974,24 @@
       "duration_ms": 219556,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/3POm8joJYkBKhBWw2MZPWz"
+      },
+      "artists": [
+        {
+          "name": "Peredel",
+          "url": "https://open.spotify.com/artist/5zB0FBsAWuAnuQBz9JCFbb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215821,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2ic0oL9o2JumjSFGKsrDU1"
     },
     {
       "album": {

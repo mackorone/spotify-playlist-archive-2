@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Swimming Paul new album keeps it cool 🏊 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,349 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,305 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 43 | [What I Feel Inside ?](https://open.spotify.com/track/6nlDAEfDNoySCKHdWBPAoQ) | [Obsimo](https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI), [Inkkø](https://open.spotify.com/artist/2GYgQ9HxcrxzKil0Z1jGw2) | [What I Feel Inside ?](https://open.spotify.com/album/4qfoVJXUT9FRh8M2pQmsIi) | 2:42 |
 | 44 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH) | 2:40 |
 | 45 | [You Mean The World To Me](https://open.spotify.com/track/65yxSGrrEc4zeRiQPVOjty) | [J\. Peacock](https://open.spotify.com/artist/6b4Mcps4CuXfzgKYvhuJP7) | [You Mean the World to Me](https://open.spotify.com/album/7gQHCDOGp7jAVtoTQbPrrL) | 4:20 |
-| 46 | [moln \- Finally Version](https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [moln \(Finally Version\)](https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh) | 3:52 |
+| 46 | [moln \- Finally Version](https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [moln \(Finally Version\)](https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh) | 3:52 |
 | 47 | [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 |
 | 48 | [Moolah](https://open.spotify.com/track/0rhWe6AnzLyusled6mZJHP) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Moolah](https://open.spotify.com/album/6vRjPTdMZTgg7i2EUwDBr4) | 2:47 |
 | 49 | [Talk to Me](https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Talk to Me](https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg) | 3:42 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16546,
+  "num_followers": 16549,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADy6xpkyN8xRyyKcffxgOUf",
+  "snapshot_id": "as7GAAAAAABVyCiKjdS6VPlkoZj/18d4",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 341130,
-      "name": "Ithaca",
-      "url": "https://open.spotify.com/track/7uXHip6O0uQHqHrewyUctI"
+      "duration_ms": 200981,
+      "name": "Chasing the Escaping Sun",
+      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 200981,
-      "name": "Chasing the Escaping Sun",
-      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
+      "duration_ms": 341130,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/7uXHip6O0uQHqHrewyUctI"
     },
     {
       "added_at": null,

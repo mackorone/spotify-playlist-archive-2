@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166962,
+  "num_followers": 166956,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,30 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Ya Mind",
+        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+        },
+        {
+          "name": "Harry Bee",
+          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ya Mind",
+      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "DID IT AGAIN (feat. Fred again..) [MPH Remix]",
         "url": "https://open.spotify.com/album/1wQ6r57Y4wfzFTJEFFKpTf"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 186857,
       "name": "DID IT AGAIN (feat. Fred again..) - MPH Remix",
       "url": "https://open.spotify.com/track/3AX5uNN5flZ8fnNZlMXNpT"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Ya Mind",
-        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
-        },
-        {
-          "name": "Harry Bee",
-          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ya Mind",
-      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "TW3LVE",
+          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "We're Not Alone",
         "url": "https://open.spotify.com/album/6yY0gkq57sT6MlNmATkCRM"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 170270,
       "name": "We're Not Alone",
       "url": "https://open.spotify.com/track/6XmyL6AjHgssLxJEWUBocv"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        },
-        {
-          "name": "TW3LVE",
-          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -683,30 +683,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/6zyPEuxwgovdnQQAAhv5SQ"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "Blvk H3ro",
-          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3kB3o4vzt1NxMbKKv5VHaJ"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "Cut Em Down",
         "url": "https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6"
       },
@@ -747,6 +723,30 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6zyPEuxwgovdnQQAAhv5SQ"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Blvk H3ro",
+          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3kB3o4vzt1NxMbKKv5VHaJ"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "Strong Like Lion",
         "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
       },
@@ -771,30 +771,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "140 MAFIA",
-        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        },
-        {
-          "name": "SVDKO",
-          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
-        },
-        {
-          "name": "JONCASS",
-          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "Legit",
         "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 181028,
       "name": "Legit",
       "url": "https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "140 MAFIA",
+        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "SVDKO",
+          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
+        },
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -987,58 +987,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Who Do You Run To",
-        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
-      },
-      "artists": [
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Cammie Robinson",
-          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Who Do You Run To",
-      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "King of the Dancefloor",
-        "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "King of the Dancefloor",
-      "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 266742,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/3qhQt4MFDlXPhRLRvQ199i"
       },
@@ -1063,22 +1011,54 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2eZH1iX2yegT5rtfqf8mIc"
+        "name": "King of the Dancefloor",
+        "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
       },
       "artists": [
         {
-          "name": "QZB",
-          "url": "https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9"
-        },
-        {
-          "name": "Sydney Bryce",
-          "url": "https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 204255,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4IgHjm0DQwnxoOryCeU6aK"
+      "duration_ms": 227657,
+      "name": "King of the Dancefloor",
+      "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Who Do You Run To",
+        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Who Do You Run To",
+      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 266742,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1099,6 +1079,26 @@
       "duration_ms": 157288,
       "name": "Check 2",
       "url": "https://open.spotify.com/track/0sodHuvSUwDegzgyM9xy1c"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2eZH1iX2yegT5rtfqf8mIc"
+      },
+      "artists": [
+        {
+          "name": "QZB",
+          "url": "https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9"
+        },
+        {
+          "name": "Sydney Bryce",
+          "url": "https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4IgHjm0DQwnxoOryCeU6aK"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1251,26 +1251,22 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
+        "name": "Log On",
+        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
       },
       "artists": [
         {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
         },
         {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 210344,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/0AzytvRcpoml1cd11WiBbp"
+      "duration_ms": 212571,
+      "name": "Log On",
+      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1295,22 +1291,26 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Log On",
-        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
       },
       "artists": [
         {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Log On",
-      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
+      "duration_ms": 210344,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/0AzytvRcpoml1cd11WiBbp"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "Paigons",
         "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
       },
@@ -1371,8 +1355,8 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+        "name": "Tha Beat",
+        "url": "https://open.spotify.com/album/2GAdVytpUlKBEP2wn3BfsC"
       },
       "artists": [
         {
@@ -1380,9 +1364,25 @@
           "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+      "duration_ms": 198260,
+      "name": "Tha Beat",
+      "url": "https://open.spotify.com/track/7s4E0ngx0GKhgq938N0HEH"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "Haikyo",
         "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
       },
@@ -1455,38 +1471,6 @@
       "duration_ms": 243000,
       "name": "Haikyo",
       "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Tha Beat",
-        "url": "https://open.spotify.com/album/2GAdVytpUlKBEP2wn3BfsC"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Tha Beat",
-      "url": "https://open.spotify.com/track/7s4E0ngx0GKhgq938N0HEH"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Back To My Roots EP",
-        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Invasion",
-      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Back To My Roots EP",
+        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Invasion",
+      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "Rewind Crew",
         "url": "https://open.spotify.com/album/2gfHvl5pbe42rnIlWvIkJk"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 165666,
       "name": "Rewind Crew",
       "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
-        "name": "Shots",
-        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1599,6 +1583,22 @@
       "duration_ms": 173793,
       "name": "Argument Done",
       "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1703,30 +1703,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "SHATTER",
-        "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "FSHR",
-          "url": "https://open.spotify.com/artist/5Gr03VDrhCcPF1HAI8WpiE"
-        },
-        {
-          "name": "Trilla Jermaine Trilloski",
-          "url": "https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "SHATTER",
-      "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
       },
@@ -1747,22 +1723,26 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+        "name": "SHATTER",
+        "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
       },
       "artists": [
         {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
         },
         {
-          "name": "TSVI",
-          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+          "name": "FSHR",
+          "url": "https://open.spotify.com/artist/5Gr03VDrhCcPF1HAI8WpiE"
+        },
+        {
+          "name": "Trilla Jermaine Trilloski",
+          "url": "https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW"
         }
       ],
-      "duration_ms": 334138,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
+      "duration_ms": 168000,
+      "name": "SHATTER",
+      "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -1803,6 +1783,26 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "duration_ms": 334138,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
         "name": "Ash Dem",
         "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
       },
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Original Style",
-        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 154566,
-      "name": "Original Style",
-      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
-    },
-    {
-      "added_at": "2026-10-06 08:27:14",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 208457,
       "name": "Mood",
       "url": "https://open.spotify.com/track/14pFCy9Wnkpt1SWJxQJZ6I"
+    },
+    {
+      "added_at": "2026-10-06 08:27:14",
+      "album": {
+        "name": "Original Style",
+        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "Original Style",
+      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
     },
     {
       "added_at": "2026-10-06 08:27:14",
@@ -2027,22 +2027,26 @@
     {
       "added_at": "2026-10-06 08:27:14",
       "album": {
-        "name": "Metaphors",
-        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
       },
       "artists": [
         {
-          "name": "Benny L",
-          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         },
         {
-          "name": "Cleveland Watkiss",
-          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
         }
       ],
-      "duration_ms": 570514,
-      "name": "Metaphors",
-      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
+      "duration_ms": 179000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
     }
   ],
   "unique_name": "Proper Naughty ",

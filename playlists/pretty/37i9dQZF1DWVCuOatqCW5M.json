@@ -1,13 +1,73 @@
 {
-  "description": "Latest music from Guru Randhawa, Aastha Gill, Armaan Malik and more.",
-  "num_followers": 101713,
+  "description": "Latest music from King, Nishant Mukta,  Akshath and more.",
+  "num_followers": 101741,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlgcMnTiWPUQcD7Baha43LjmlfZ",
+  "snapshot_id": "AAAAAKEWO89xKKDsYUyzdS6Zs1OqNHBt",
   "tracks": [
+    {
+      "added_at": "2026-10-16 00:54:04",
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/5ophtHrKunU9YVYK00YdGB"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Nishant Mukta",
+          "url": "https://open.spotify.com/artist/6waxuGnORMzEklX62CvfK0"
+        },
+        {
+          "name": "Zero Chill",
+          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/4MXyA2Uh2KCUnL0mHFfe8j"
+    },
+    {
+      "added_at": "2026-10-16 00:54:04",
+      "album": {
+        "name": "Dhoond",
+        "url": "https://open.spotify.com/album/74t69zVK1iIYYeZoqd1CUW"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "Dhoond",
+      "url": "https://open.spotify.com/track/7fGPb53JPKWVYtofXWK3p2"
+    },
+    {
+      "added_at": "2026-10-16 00:54:04",
+      "album": {
+        "name": "Dilfek",
+        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "duration_ms": 173138,
+      "name": "Dilruba Dilnasheen",
+      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
+    },
     {
       "added_at": "2026-10-09 02:52:30",
       "album": {
@@ -879,26 +939,6 @@
     {
       "added_at": "2026-09-25 05:13:09",
       "album": {
-        "name": "Chokhi Laage",
-        "url": "https://open.spotify.com/album/06uMnHFlEM9eYFo40mPZ0U"
-      },
-      "artists": [
-        {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
-        },
-        {
-          "name": "Raja Hasan",
-          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Chokhi Laage",
-      "url": "https://open.spotify.com/track/74iPQPCwr1EJq2qoxSGza6"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
         "name": "Sajna Sang Tere",
         "url": "https://open.spotify.com/album/4lQqEtLAvUTApzSFO5o8zY"
       },
@@ -1083,54 +1123,6 @@
       "duration_ms": 173142,
       "name": "Rehbara",
       "url": "https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "PARINDA",
-        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/75prkScvmpqHqH5vI89qw9"
-        },
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/22wNTxE1rJerY53nAhyZl0"
-        }
-      ],
-      "duration_ms": 158811,
-      "name": "Jogi Naal",
-      "url": "https://open.spotify.com/track/3Oqfj8U3rQqGnQMXIvmku8"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Tere Sang Rehna",
-        "url": "https://open.spotify.com/album/0Oxdv58bdaOBD5xkHiu0Hi"
-      },
-      "artists": [
-        {
-          "name": "Raj Barman",
-          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
-        },
-        {
-          "name": "Harsh Aviral",
-          "url": "https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1"
-        },
-        {
-          "name": "Saviimusic",
-          "url": "https://open.spotify.com/artist/1ksypzEHG5BZh9DUGs1MLr"
-        }
-      ],
-      "duration_ms": 193966,
-      "name": "Tere Sang Rehna",
-      "url": "https://open.spotify.com/track/560vnIacH4ZnxLwa00DvTi"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

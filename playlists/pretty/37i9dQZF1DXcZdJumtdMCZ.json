@@ -71,10 +71,14 @@
     {
       "added_at": "2026-10-14 07:16:49",
       "album": {
-        "name": "Officer On Duty (From \"Vidhiyum Kaathiru\")",
+        "name": "Officer On Duty (From \"Vidiyum Kaathiru\")",
         "url": "https://open.spotify.com/album/0LzFCdabWvuLEX6pvCXlGC"
       },
       "artists": [
+        {
+          "name": "C. Sathya",
+          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
+        },
         {
           "name": "Valamkudimal Gnanamoorthy",
           "url": "https://open.spotify.com/artist/2B5hHzAutwcOOV8uQinNp7"
@@ -82,14 +86,10 @@
         {
           "name": "Dharshini",
           "url": "https://open.spotify.com/artist/2ydj6DD5LRYMWPc33oT6C7"
-        },
-        {
-          "name": "C. Sathya",
-          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
         }
       ],
       "duration_ms": 157500,
-      "name": "Officer On Duty (From \"Vidhiyum Kaathiru\")",
+      "name": "Officer On Duty (From \"Vidiyum Kaathiru\")",
       "url": "https://open.spotify.com/track/3aaaJ9gp4AmdqoAqprYRfr"
     },
     {

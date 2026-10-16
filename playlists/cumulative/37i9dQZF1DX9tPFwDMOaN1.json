@@ -7846,10 +7846,28 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189000,
       "name": "ICONIC HEART",
       "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
+    },
+    {
+      "album": {
+        "name": "ICONIC HEART (Korean Version)",
+        "url": "https://open.spotify.com/album/7a8DYa6HRY7TK0AWtUDv46"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "ICONIC HEART - Korean Version",
+      "url": "https://open.spotify.com/track/2BLHTFy1rAtYwmm0uEFAuj"
     },
     {
       "album": {
@@ -15266,6 +15284,28 @@
       "duration_ms": 157906,
       "name": "TAP",
       "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
+    },
+    {
+      "album": {
+        "name": "TATA",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINAMI",
+          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
     },
     {
       "album": {

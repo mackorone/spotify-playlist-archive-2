@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604670,
+  "num_followers": 604658,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Dissolve Me",
         "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 207514,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "I Think I've Heard This Before",
-        "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "I Think I've Heard This Before",
+        "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Probable Claws",
         "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Hard Call",
-        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
       },
       "artists": [
         {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Hard Call",
-      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1039,6 +1023,22 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Hard Call",
+        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Hard Call",
+      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "INMYFEELINGS",
         "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 212464,
       "name": "INMYFEELINGS",
       "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 213364,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "me against me",
-        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
+        "name": "Who Will Look After The Dogs?",
+        "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
       },
       "artists": [
         {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 223229,
-      "name": "me against me",
-      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
+      "duration_ms": 119481,
+      "name": "No Hope",
+      "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Who Will Look After The Dogs?",
-        "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
+        "name": "me against me",
+        "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 119481,
-      "name": "No Hope",
-      "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
+      "duration_ms": 223229,
+      "name": "me against me",
+      "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
     },
     {
       "added_at": "2026-07-24 04:02:31",

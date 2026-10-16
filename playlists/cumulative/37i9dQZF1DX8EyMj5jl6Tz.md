@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-219 songs - 9 hr 45 min
+220 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2025-07-10 |  |
 | [Like A Prayer](https://open.spotify.com/track/5Ojjh0PUsxva1bP5JkQiYQ) | [Alphajack](https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9) | [Like A Prayer](https://open.spotify.com/album/3vHGOMDZB5fnz9bxgl54LN) | 2:31 | 2026-01-08 |  |
 | [Like A Prayer \(feat\. Charla K\)](https://open.spotify.com/track/6HjdL6nsBMykh2ehTv1kbb) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [Like A Prayer \(feat\. Charla K\)](https://open.spotify.com/album/5mPeCuhPdfuifGDXEBhnvY) | 2:44 | 2025-07-10 | 2026-01-15 |
-| [Little Lies](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Little Lies](https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b) | 3:08 | 2025-09-04 |  |
+| [Little Lies](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Little Lies](https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b) | 3:08 | 2025-09-04 | 2026-10-16 |
 | [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/5ZA8y7ISUIEWcfuQSai2kX) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[TAKEDOWN\]](https://open.spotify.com/album/1bS9MQ5MkiXVVeYugReG50) | 2:23 | 2025-07-10 | 2025-09-05 |
 | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/track/5xKjvOO3TX8A9UsurpAOb2) | [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Shemenzo](https://open.spotify.com/artist/25fXb5qv0GFehqD82VA87j), [Phany](https://open.spotify.com/artist/3YkS0v0VJDuBzu4P9gziyC), [Chempy](https://open.spotify.com/artist/1HY2LGhVBAD6IUBSMJFt3R) | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/album/2rxu5xiwVmkLPhTmkV0jqW) | 3:08 | 2025-07-10 |  |
 | [Lost In Music \- Edit](https://open.spotify.com/track/1uuqdYGOuPfBqQA5YhxT76) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Lost In Music](https://open.spotify.com/album/1mevpy036HSDdm5oJydjKt) | 2:35 | 2026-10-08 |  |
@@ -126,6 +126,7 @@
 | [Maniac](https://open.spotify.com/track/7snMDOhoYrd4oQpVjPv3Ut) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Maniac](https://open.spotify.com/album/3My0pUnHR2Vn0GUIvAkdii) | 2:11 | 2025-07-10 |  |
 | [Mercy](https://open.spotify.com/track/5luB60l0emJUAZbCBTaB7g) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [BXT](https://open.spotify.com/artist/3Orw1hfOCxmHl61nIDuzcF) | [Mercy](https://open.spotify.com/album/5lvYiiiQQemklMEX5dYTdo) | 2:35 | 2025-07-10 | 2026-06-27 |
 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 | 2025-07-10 |  |
+| [Midnight Sun \(feat\. OLIVIA\)](https://open.spotify.com/track/1GFefAWT8WyNgjwE3uGQpG) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Midnight Sun \(feat\. OLIVIA\)](https://open.spotify.com/album/3JNeI9CRT3XQSkXCirhuAy) | 2:01 | 2026-10-15 |  |
 | [Missing](https://open.spotify.com/track/5Fals7X3A4f2fJ575x3T35) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Missing](https://open.spotify.com/album/2PSDUqAyJ8r9AjF58FjPWA) | 2:40 | 2025-07-10 | 2025-09-05 |
 | [Mr\. Saxobeat](https://open.spotify.com/track/3zHZDl3HldA76rGBedhAJB) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Mr\. Saxobeat](https://open.spotify.com/album/7b8Bws3xlXblxOj95IUe9D) | 2:02 | 2025-07-10 |  |
 | [Must Have Been Love](https://open.spotify.com/track/7iD88mOPwZWGaTHMgpnzmf) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj) | [Must Have Been Love](https://open.spotify.com/album/7707zHA1Pri209xrh014PE) | 2:40 | 2025-07-10 | 2025-09-05 |

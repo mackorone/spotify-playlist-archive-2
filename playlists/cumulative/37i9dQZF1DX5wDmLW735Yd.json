@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Kings Of The Rollers",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 170057,
       "name": "BACK 2 LIFE",
       "url": "https://open.spotify.com/track/0GMeW8uDI1ZJsCPFvdk1T1"
@@ -8388,7 +8388,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180689,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/3HiRpvyo4sjYumFPRUqA4v"
@@ -12044,7 +12044,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191810,
       "name": "homesick",
       "url": "https://open.spotify.com/track/0vXtfiRKw4aytisBbduvLZ"
@@ -13751,6 +13751,28 @@
     },
     {
       "album": {
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Bang Bang (Bou Remix)",
         "url": "https://open.spotify.com/album/5zUJMySBMqtPJYOkOW21xA"
       },
@@ -14691,6 +14713,28 @@
     },
     {
       "album": {
+        "name": "Lillies",
+        "url": "https://open.spotify.com/album/0pxugD9PQrcccc8azjzKLX"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Lillies",
+      "url": "https://open.spotify.com/track/4M0awukHJ1DanhC6CrsHS1"
+    },
+    {
+      "album": {
         "name": "Rumble in the Jungle, Vol. 2",
         "url": "https://open.spotify.com/album/2eZMOpHPQD6mmYr5NygRxg"
       },
@@ -14946,6 +14990,28 @@
       "duration_ms": 134305,
       "name": "Loca",
       "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "album": {
+        "name": "LOCKDOWN",
+        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182057,
+      "name": "LOCKDOWN",
+      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
     },
     {
       "album": {
@@ -22829,6 +22895,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/0JgGC8l8gF5ptOaGojVibJ"
+      },
+      "artists": [
+        {
+          "name": "Dwarde",
+          "url": "https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312740,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/6kl24oJhER5hndSpNwWPyf"
+    },
+    {
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -28088,7 +28172,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198667,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/5FP1dR0ttFHQOCvrSiMsCo"

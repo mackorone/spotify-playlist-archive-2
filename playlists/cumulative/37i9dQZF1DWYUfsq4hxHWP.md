@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Dylan Davidson, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Jovi Greene, Artwork: Fanélie Muselier
 
 3,854 songs - 8 day 17 hr 1 min
 

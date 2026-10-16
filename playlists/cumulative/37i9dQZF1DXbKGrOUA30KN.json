@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LEVKA",
+  "description": "Deutschpop, der jetzt passiert. Cover: badm\u00f3mzjay",
   "name": "POPLAND",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190000,
       "name": "Anfang",
       "url": "https://open.spotify.com/track/0jB90NOO3Vrxd2kLHWDsF2"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176665,
       "name": "Aus Versehen",
       "url": "https://open.spotify.com/track/1coin7rtEKb0rDoYV4hbd6"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156063,
       "name": "Brombeeren unter Dornen",
       "url": "https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h"
@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Egoist",
+        "url": "https://open.spotify.com/album/5pX6ttlM7ROJcn2UYouAK0"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121188,
+      "name": "Egoist",
+      "url": "https://open.spotify.com/track/5sKaXQk5oUkwHDohQZfuNQ"
+    },
+    {
+      "album": {
         "name": "eigentlich",
         "url": "https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 129666,
       "name": "Ende der Welt",
       "url": "https://open.spotify.com/track/4rDp0owP2tmSUrLBIs91cB"
@@ -4898,7 +4916,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 135500,
       "name": "Glashaus",
       "url": "https://open.spotify.com/track/5wkp5pSUaMvtCtmo2SmE7n"
@@ -5987,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "H\u00f6rt nicht auf",
+        "url": "https://open.spotify.com/album/1fY0VJqHGqd7j4AY1Uyv4f"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "H\u00f6rt nicht auf",
+      "url": "https://open.spotify.com/track/5zmITfhDUl9D1iFM4eeiQt"
+    },
+    {
+      "album": {
         "name": "ich brauch dich.",
         "url": "https://open.spotify.com/album/0uH1HmKWnNiFsSmcoPCEkg"
       },
@@ -6178,7 +6214,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160205,
       "name": "ich liebe was, was du nicht liebst",
       "url": "https://open.spotify.com/track/2rWfFqRJ8f5wKI9lQIaO4Z"
@@ -6268,7 +6304,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151851,
       "name": "ICH SEIN",
       "url": "https://open.spotify.com/track/5uVqMsIea84JBqMut0csCc"
@@ -6311,6 +6347,24 @@
     },
     {
       "album": {
+        "name": "Ich vermisse mich",
+        "url": "https://open.spotify.com/album/41QomOtaG0CjXIP8exqhBz"
+      },
+      "artists": [
+        {
+          "name": "Irem",
+          "url": "https://open.spotify.com/artist/551JO6bz4U6to0LMjMKct3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138095,
+      "name": "Ich vermisse mich",
+      "url": "https://open.spotify.com/track/6bHkrScCGqNcgIVDDKhaDW"
+    },
+    {
+      "album": {
         "name": "Ich versteh es jetzt",
         "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
       },
@@ -6322,7 +6376,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155742,
       "name": "Ich versteh es jetzt",
       "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
@@ -6340,7 +6394,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151721,
       "name": "Ich Wart Auf Dich",
       "url": "https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV"
@@ -6832,7 +6886,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 120606,
       "name": "Jetzt rufst du an",
       "url": "https://open.spotify.com/track/57bpZitt4r5TX2Zt9mlyn4"
@@ -7288,7 +7342,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 144190,
       "name": "keiner wei\u00df",
       "url": "https://open.spotify.com/track/3TkBNiJIOWlhshr9SKiRHi"
@@ -7328,6 +7382,24 @@
       "duration_ms": 148906,
       "name": "Kinder lieben ihre Eltern",
       "url": "https://open.spotify.com/track/6oQrSWZFOE7NZ30vYCLJp2"
+    },
+    {
+      "album": {
+        "name": "Kinder mit Kippen",
+        "url": "https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213649,
+      "name": "Kinder mit Kippen",
+      "url": "https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8"
     },
     {
       "album": {
@@ -8327,6 +8399,28 @@
     },
     {
       "album": {
+        "name": "Lieben wir uns genug",
+        "url": "https://open.spotify.com/album/3M1wsswjmMykyTiNrcjX0H"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155442,
+      "name": "Lieben wir uns genug",
+      "url": "https://open.spotify.com/track/565Xq4DJ5kXwzhL6dDov2J"
+    },
+    {
+      "album": {
         "name": "lieberallein",
         "url": "https://open.spotify.com/album/0rI8Er4eE3vyhx0sjrPr2U"
       },
@@ -8547,6 +8641,28 @@
     },
     {
       "album": {
+        "name": "lovergirl",
+        "url": "https://open.spotify.com/album/4ROxylQpMHsKkoSpv0VOg3"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/5P46TidG49SHFNzdiiVHiN"
+    },
+    {
+      "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/3AwV2fmBZezk62WPGkRmuH"
       },
@@ -8594,7 +8710,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 208008,
       "name": "L\u00fcgen",
       "url": "https://open.spotify.com/track/5bzleNHcpxIxtKK17pqWaS"
@@ -8616,6 +8732,24 @@
       "duration_ms": 176359,
       "name": "magisch",
       "url": "https://open.spotify.com/track/0wmR6boixeo88YknUEIfmq"
+    },
+    {
+      "album": {
+        "name": "PONYHOF EP",
+        "url": "https://open.spotify.com/album/3BvCCoUjkiwKGdBfMtLT8X"
+      },
+      "artists": [
+        {
+          "name": "Anne West",
+          "url": "https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1vrPxToRy7ACc7K3ewbO6v"
     },
     {
       "album": {
@@ -8816,6 +8950,24 @@
       "duration_ms": 153369,
       "name": "Mauern aus Granit",
       "url": "https://open.spotify.com/track/3BPns5Bo5yH8QLcpdWhLCT"
+    },
+    {
+      "album": {
+        "name": "Meer",
+        "url": "https://open.spotify.com/album/7pYClHMXTt7Gge4UG1CtFr"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199605,
+      "name": "Meer",
+      "url": "https://open.spotify.com/track/3z8uaAcm9s6u9RlBo5pZha"
     },
     {
       "album": {
@@ -9758,7 +9910,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 146100,
       "name": "nichts f\u00fcr immer",
       "url": "https://open.spotify.com/track/0SfuYqmsl2cWv5KSkoUYyz"
@@ -10424,7 +10576,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 175835,
       "name": "Optimistisch",
       "url": "https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6"
@@ -10965,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/08k611hM5Bgd1GVb6SVgey"
+      },
+      "artists": [
+        {
+          "name": "Queen Mahoro",
+          "url": "https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163983,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/4TXeZhDInJT7osQTazk7Tt"
+    },
+    {
+      "album": {
         "name": "PRIVILEG",
         "url": "https://open.spotify.com/album/0Jyoc5G3CJkYG44mGZa7CO"
       },
@@ -11373,6 +11543,24 @@
     },
     {
       "album": {
+        "name": "LIEBE GLAUBE MONSTER (WINTER EDITION)",
+        "url": "https://open.spotify.com/album/543KJ2GFqZ4xRIyyCqGGu9"
+      },
+      "artists": [
+        {
+          "name": "Unheilig",
+          "url": "https://open.spotify.com/artist/6f1kv0aUPG9I0Rp3dmLCPi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308640,
+      "name": "Schneemannslied",
+      "url": "https://open.spotify.com/track/0gaDSliFIgzPnS6KlI83xB"
+    },
+    {
+      "album": {
         "name": "Schwarzer Hund (Joel's Lieblingslieder)",
         "url": "https://open.spotify.com/album/2jXNB1c0zEH8Z9YuJwv6M5"
       },
@@ -11772,6 +11960,24 @@
       "duration_ms": 139616,
       "name": "So gut",
       "url": "https://open.spotify.com/track/6XeWiaVccx7THsF34WJAYG"
+    },
+    {
+      "album": {
+        "name": "so viele sterne (home)",
+        "url": "https://open.spotify.com/album/3KWyVzfYMNdR3YwQSeFIza"
+      },
+      "artists": [
+        {
+          "name": "Lea Marie",
+          "url": "https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "so viele sterne (home)",
+      "url": "https://open.spotify.com/track/2ZYiqVYWWxieGHjL8NjZjw"
     },
     {
       "album": {
@@ -12260,7 +12466,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165053,
       "name": "stumm",
       "url": "https://open.spotify.com/track/0rXScmWf2iNJHjoNPv3DfL"
@@ -12523,6 +12729,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/3EzxmPD75aFIKcqi0uWPU0"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU"
+    },
+    {
+      "album": {
         "name": "Traumfrau",
         "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
       },
@@ -12766,6 +12990,24 @@
       "duration_ms": 133201,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/5wVQkK3wSa7ExEYAdfXAKg"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/6eWkdOfdCQx7xskaqxovsQ"
+      },
+      "artists": [
+        {
+          "name": "GRETA",
+          "url": "https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146522,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/0U54r5ANynDHtGesAabAVe"
     },
     {
       "album": {
@@ -13092,6 +13334,28 @@
       "duration_ms": 176129,
       "name": "Vielleicht in einem anderen Leben",
       "url": "https://open.spotify.com/track/3koGoS4iwYQcrnrL2ban2M"
+    },
+    {
+      "album": {
+        "name": "vielleicht w\u00e4r's besser",
+        "url": "https://open.spotify.com/album/1hft4mSFUjCvgNuAfIuoMe"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "vielleicht w\u00e4r's besser",
+      "url": "https://open.spotify.com/track/5ocfJbyBKgnZfSJK2paPcp"
     },
     {
       "album": {
@@ -13768,7 +14032,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 222526,
       "name": "Weniger mehr",
       "url": "https://open.spotify.com/track/5FCwfr68wmB5hRiT94hlGc"
@@ -13999,6 +14263,24 @@
     },
     {
       "album": {
+        "name": "Wenn Eltern \u00e4lter werden",
+        "url": "https://open.spotify.com/album/4gZlkETrsKOZBNurkxBtPg"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Wenn Eltern \u00e4lter werden",
+      "url": "https://open.spotify.com/track/3hyZCY55ZRvAzgmLJfEuXT"
+    },
+    {
+      "album": {
         "name": "Wenn F\u00fcr Immer Heute W\u00e4r",
         "url": "https://open.spotify.com/album/36OJLa0UTDA01dLcg1GT1M"
       },
@@ -14148,6 +14430,28 @@
       "duration_ms": 195500,
       "name": "Wer wir sind",
       "url": "https://open.spotify.com/track/6qcEMiN7OvfOiw7dzwjuGZ"
+    },
+    {
+      "album": {
+        "name": "When A Dream Comes True, A Fantasy Dies",
+        "url": "https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "When A Dream Comes True, A Fantasy Dies",
+      "url": "https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE"
     },
     {
       "album": {

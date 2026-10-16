@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143092,
+  "num_followers": 143090,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
+        "name": "Por Vos",
+        "url": "https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 185394,
+      "name": "Por Vos",
+      "url": "https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
         "name": "Hermoso",
         "url": "https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 174813,
       "name": "Ay Bendito (with Mora & Ovy On The Drums)",
       "url": "https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "Por Vos",
-        "url": "https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 185394,
-      "name": "Por Vos",
-      "url": "https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
         }
       ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+      "duration_ms": 158545,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
       "artists": [
         {
-          "name": "Dejota2021",
-          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 158545,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Aiwo (Remix)",
         "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 175135,
       "name": "Aiwo - Remix",
       "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "todav\u00edA",
-      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 153707,
       "name": "En Tu Marea",
       "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "todav\u00edA",
+      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        },
-        {
-          "name": "K\u00e9nsel Tell Them",
-          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
-        }
-      ],
-      "duration_ms": 131022,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "No Esperes",
         "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 194347,
       "name": "No Esperes",
       "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+        }
+      ],
+      "duration_ms": 131022,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
     },
     {
       "added_at": "2026-09-04 04:01:49",

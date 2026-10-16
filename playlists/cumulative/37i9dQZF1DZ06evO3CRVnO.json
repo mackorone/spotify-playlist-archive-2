@@ -964,6 +964,28 @@
     {
       "album": {
         "name": "Pump Fake",
+        "url": "https://open.spotify.com/album/2nVIxZAt0Ir9KWJXezgbVI"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Pump Fake",
+      "url": "https://open.spotify.com/track/2yEUn83xO0zakwRnlIf6q9"
+    },
+    {
+      "album": {
+        "name": "Pump Fake",
         "url": "https://open.spotify.com/album/6xqAqJiQNeeFWvTK7rDCGr"
       },
       "artists": [

@@ -2,7 +2,7 @@
 
 ### [Girl On Fire](https://open.spotify.com/playlist/37i9dQZF1DX4F2k37fMTyn)
 
-> 女性ポップアイコンを一つのプレイリストに。cover: Victoria Monét
+> 女性ポップアイコンを一つのプレイリストに。cover: Slayyyter
 
 854 songs - 1 day 20 hr 19 min
 

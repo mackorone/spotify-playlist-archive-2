@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-747 songs - 1 day 15 hr 14 min
+749 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 | 2025-04-03 | 2025-08-22 |
 | [אם לא דואגים לי](https://open.spotify.com/track/1sGkY13peTaRlo48Kxnt0w) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [אם לא דואגים לי](https://open.spotify.com/album/1beyQsYtGthFs1Qzo2VVDt) | 3:34 | 2025-10-23 | 2026-01-15 |
 | [אם לא דואגים לי \- לייב בגילה וננסי](https://open.spotify.com/track/4COkFXzUfHWQoJpjhipAk3) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [ליהי טולדנו \- לייב בגילה וננסי](https://open.spotify.com/album/4lh2tgbjmYpH76kKDIYUiq) | 3:34 | 2026-06-18 | 2026-07-31 |
+| [אם לא הייתי](https://open.spotify.com/track/5qcq0Q78nEAxyrxZBwb4wD) | [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [עתה](https://open.spotify.com/album/48m0wGbSuK8B4CzjjMKR9s) | 3:38 | 2026-10-15 |  |
 | [אמאלה](https://open.spotify.com/track/0UVsxku9loEUoofjxjeKL1) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [אמאלה](https://open.spotify.com/album/3Kf6t92jBFBDs9kJgahNmD) | 2:57 | 2025-02-13 | 2025-02-28 |
 | [אמן](https://open.spotify.com/track/2aIXUJpfkXplSwa6vpPRZe) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [אמן](https://open.spotify.com/album/1hbpxgTtulgMDOPBhp8AgM) | 3:05 | 2025-11-27 | 2026-02-27 |
 | [אמן](https://open.spotify.com/track/0TtfX7xLUvfrrqeqjgb8R7) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [אמן](https://open.spotify.com/album/4c9i71tLOI8NNTYH3oMJWS) | 2:53 | 2025-02-20 | 2025-03-21 |
@@ -291,7 +292,7 @@
 | [הייתי נער](https://open.spotify.com/track/0CkLBzuD4HI9eWnT9BwKoz) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [כאן גימל](https://open.spotify.com/artist/4WQlIWFXTbWSeWLfEqXYhx) | [הייתי נער](https://open.spotify.com/album/3dQanWnZAnj3QRL9bLqSc7) | 3:45 | 2026-04-09 | 2026-06-05 |
 | [הייתי רוצה](https://open.spotify.com/track/6QcDN61ZsEjeeJRKX4RMhS) | [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [הדרך הבטוחה לשבור לעצמי את הלב](https://open.spotify.com/album/4jEv8AqZ1he2i64yIbo9t1) | 3:07 | 2026-05-28 | 2026-07-03 |
 | [הילד עם הבוגי](https://open.spotify.com/track/1P87GFldJdVHjn7pto4aHP) | [Udi Schneider](https://open.spotify.com/artist/5DEX9UqXj4FoYCv8mZQDjy) | [הילד עם הבוגי](https://open.spotify.com/album/7pZSpJno5zaJ37bXjE15C5) | 3:14 | 2025-07-31 | 2025-11-28 |
-| [הים הזה](https://open.spotify.com/track/7CHEJSNNEEE0r4nHYGdvmM) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H), [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [הים הזה](https://open.spotify.com/album/2WXQQoDkmnpVBwN6NObUIT) | 4:30 | 2026-08-13 |  |
+| [הים הזה](https://open.spotify.com/track/7CHEJSNNEEE0r4nHYGdvmM) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H), [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [הים הזה](https://open.spotify.com/album/2WXQQoDkmnpVBwN6NObUIT) | 4:30 | 2026-08-13 | 2026-10-16 |
 | [הכי טוב במיטה](https://open.spotify.com/track/2GxRzcH8fGgfMuhqyovlt8) | [Cookie Levanna](https://open.spotify.com/artist/39hTcjXHjg9XAGWO5ubNCD) | [הכי טוב במיטה](https://open.spotify.com/album/4bCPIgPUjUE4vobQfzBLTm) | 2:42 | 2025-12-11 | 2026-01-15 |
 | [הכי יפה כשטעים לך](https://open.spotify.com/track/5lF6rogyJvyd6psqdkHfoP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [הכי יפה כשטעים לך](https://open.spotify.com/album/3sSrK5k0odF4g5UMxlVwXr) | 2:27 | 2026-05-14 | 2026-07-31 |
 | [הכל בסדר](https://open.spotify.com/track/27J03lBCBDAPEAptQbHHdc) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [הכל בסדר](https://open.spotify.com/album/6pemosj7J7gapGPWOevLWd) | 2:25 | 2025-12-04 | 2026-02-20 |
@@ -323,7 +324,7 @@
 | [הריקוד האחרון](https://open.spotify.com/track/6NWbeLZXgp30P4HnF5bH0Y) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [הריקוד האחרון](https://open.spotify.com/album/5kXMySR8LaFnfPQpC3Sv6B) | 2:57 | 2026-08-13 |  |
 | [השיבה לאוקטובר](https://open.spotify.com/track/0Tcg2DOTuPJp0m0lVHqyzq) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיבה לאוקטובר](https://open.spotify.com/album/4kXVIH5V3l0B1WwJbGJDCL) | 3:55 | 2024-10-10 | 2025-02-07 |
 | [השיבנו](https://open.spotify.com/track/5VksXB2EcN8EQFaM2U3vIR) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [השיבנו](https://open.spotify.com/album/02tTkn5LIZAUxF5L4KvEH4) | 3:56 | 2025-10-16 | 2025-10-31 |
-| [השיר האחרון](https://open.spotify.com/track/2XoKor2uVHjXau2fftrB7e) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיר האחרון](https://open.spotify.com/album/7Hn0FKRxaCupJXjZ4CN0M8) | 4:13 | 2026-08-06 |  |
+| [השיר האחרון](https://open.spotify.com/track/2XoKor2uVHjXau2fftrB7e) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיר האחרון](https://open.spotify.com/album/7Hn0FKRxaCupJXjZ4CN0M8) | 4:13 | 2026-08-06 | 2026-10-16 |
 | [ואז הגיעה השבת \(עם מוקי\)](https://open.spotify.com/track/2TVQU1SAdjMYqGUTxRmXg5) | [Elia Rosilio](https://open.spotify.com/artist/0fdJoov5KY8fDtgufXKCi3), [Mooki](https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm) | [ואז הגיעה השבת](https://open.spotify.com/album/0OpioKDmfVBbj3z4PLHGbn) | 2:50 | 2024-09-26 | 2024-10-11 |
 | [וויסקי](https://open.spotify.com/track/3DR2iCjmEmejVeOlMKfNvt) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [וויסקי](https://open.spotify.com/album/5DVfk6GFpcHGPvodsEMGAb) | 3:11 | 2026-06-11 | 2026-06-26 |
 | [וויסקי](https://open.spotify.com/track/3auHd9yPWIwTr64EAVJiBQ) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [וויסקי](https://open.spotify.com/album/44Wmmb8pkgcFFDvqdbI5hD) | 2:42 | 2026-08-20 |  |
@@ -545,6 +546,7 @@
 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 | 2026-01-29 | 2026-02-27 |
 | [מנדם](https://open.spotify.com/track/37q9THV9yOev5D8smN5E6c) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [מנדם](https://open.spotify.com/album/5thhlpwxmf5GtuSnmJdxdb) | 2:17 | 2026-02-19 | 2026-06-26 |
 | [מנורה ופסנתר](https://open.spotify.com/track/5nLY3hwxj7CJSjpLSSDsU6) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מנורה ופסנתר](https://open.spotify.com/album/4tQJK69yKCecga7vNT5CHl) | 2:53 | 2025-07-24 | 2025-11-14 |
+| [מניפולציה](https://open.spotify.com/track/4UkJFves7CEtNexeidvcbE) | [Emily Kuper](https://open.spotify.com/artist/1g6uvC6cZc5WlurDV1L0o7) | [מניפולציה](https://open.spotify.com/album/4VmKlqbDI8qa3Ily8cqMaB) | 2:26 | 2026-10-15 |  |
 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 | 2025-06-12 | 2025-07-11 |
 | [מסיבת פרידה](https://open.spotify.com/track/1eIfbqarkyZJpBTnUa3TQ8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מסיבת פרידה](https://open.spotify.com/album/4MFryrYp2dF2uasF3dV5ox) | 3:04 | 2026-01-01 | 2026-02-13 |
 | [מספיק ממך](https://open.spotify.com/track/2J4K2irvcQCXCwUQqc7EBo) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [מספיק ממך](https://open.spotify.com/album/3WplXbgtTRHWQy2rsmbeMa) | 3:19 | 2026-02-26 | 2026-07-03 |

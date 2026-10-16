@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-02",
-  "description": "pearl of the week \u2728GRANT\u2728",
+  "description": "pearl of the week \u2728Mechatok & Robyn\u2728",
   "name": "Oyster",
   "tracks": [
     {
@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 184060,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0ebIDciVUpDhnNrivrXMzv"
@@ -12925,6 +12925,24 @@
     },
     {
       "album": {
+        "name": "Elastic",
+        "url": "https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133289,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
+    },
+    {
+      "album": {
         "name": "Eleanor's Escape",
         "url": "https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL"
       },
@@ -14011,6 +14029,36 @@
     },
     {
       "album": {
+        "name": "Expression On Your Face / Fembot",
+        "url": "https://open.spotify.com/album/0IXzSs819M2QT126j6heUM"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218011,
+      "name": "Expression On Your Face - Robyn Remix",
+      "url": "https://open.spotify.com/track/6aPloFOrVltPzjn2SYNxCj"
+    },
+    {
+      "album": {
         "name": "Eyes on my baby",
         "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
       },
@@ -14048,6 +14096,24 @@
       "duration_ms": 235500,
       "name": "Ezekiel's Wheel",
       "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
+    },
+    {
+      "album": {
+        "name": "F*** No",
+        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172368,
+      "name": "F*** No",
+      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
     },
     {
       "album": {
@@ -14496,7 +14562,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -16489,6 +16555,24 @@
     },
     {
       "album": {
+        "name": "Fuck This Stress",
+        "url": "https://open.spotify.com/album/5tJvDKq3WPB758tknz0mix"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181938,
+      "name": "Fuck This Stress",
+      "url": "https://open.spotify.com/track/5f3LPYNbngs55vHYXsU13W"
+    },
+    {
+      "album": {
         "name": "FUCK. IT.",
         "url": "https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD"
       },
@@ -18298,7 +18382,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156848,
       "name": "GUAYANDO - Lykke Li Remix",
       "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
@@ -20578,6 +20662,24 @@
       "duration_ms": 212486,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/63tDkScueEmDfGasampjs3"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274618,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR"
     },
     {
       "album": {
@@ -24344,7 +24446,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 177592,
       "name": "Knife In The Heart",
       "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
@@ -26924,7 +27026,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
@@ -27656,6 +27758,24 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
     },
     {
       "album": {
@@ -29494,7 +29614,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 206467,
       "name": "MURAL (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
@@ -29578,6 +29698,24 @@
       "duration_ms": 138000,
       "name": "Musicality",
       "url": "https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3"
+    },
+    {
+      "album": {
+        "name": "Totally",
+        "url": "https://open.spotify.com/album/5zrHyT2dw1ahFzjwYD97JC"
+      },
+      "artists": [
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188189,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2CBJj1jVItTdfCF3Repsxr"
     },
     {
       "album": {
@@ -32236,7 +32374,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 255428,
       "name": "one4u",
       "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
@@ -33052,6 +33190,24 @@
       "duration_ms": 133000,
       "name": "Park Bench Blues (feat. Curren$y)",
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
+    },
+    {
+      "album": {
+        "name": "Pass Me By",
+        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
     },
     {
       "album": {
@@ -34294,6 +34450,24 @@
       "duration_ms": 190282,
       "name": "Pour Your Heart Out",
       "url": "https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4T88HTOoSPl71GxYd7gqgi"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235529,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6twMvsb4PyrBUOkgCYu1OX"
     },
     {
       "album": {
@@ -38210,7 +38384,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219630,
       "name": "Shake Down - Regrette Rien Mix",
       "url": "https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk"
@@ -38852,7 +39026,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 334078,
       "name": "Sick Of Love - Mura Masa Remix",
       "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
@@ -39344,7 +39518,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199240,
       "name": "Slow Me Down",
       "url": "https://open.spotify.com/track/3GC2di2z5jt6NsyrrAOC22"
@@ -43125,6 +43299,32 @@
     },
     {
       "album": {
+        "name": "Dreamer+ Deluxe",
+        "url": "https://open.spotify.com/album/5wt80PRhJGSuAIZobVgTEV"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Tell Me - Eurohead Remix",
+      "url": "https://open.spotify.com/track/1mBBdn1abDANDbYFy9Cipp"
+    },
+    {
+      "album": {
         "name": "Tell Me (Jam City Remix)",
         "url": "https://open.spotify.com/album/7iWHByXWMp5EyHn4DKyNlR"
       },
@@ -44640,7 +44840,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 159506,
       "name": "Things",
       "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
@@ -46192,6 +46392,24 @@
       "duration_ms": 223826,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3U4eW849fjz2U8BF9ghjQb"
+    },
+    {
+      "album": {
+        "name": "Twin Clouds",
+        "url": "https://open.spotify.com/album/4n3y3pSRbdXlIslExnWaSa"
+      },
+      "artists": [
+        {
+          "name": "Zhala",
+          "url": "https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252633,
+      "name": "Twin Clouds",
+      "url": "https://open.spotify.com/track/4VlFDDzLe3Qo4koW5Gy67Y"
     },
     {
       "album": {

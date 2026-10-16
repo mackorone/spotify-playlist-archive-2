@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Asteria
+> Explore Pakistan's thriving independent scene 🔥 Cover: Abdullah Siddiqui
 
-478 songs - 1 day 2 hr 19 min
+482 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2022-06-16 | 2026-09-07 |
 | [Fan](https://open.spotify.com/track/3oSsS8p33sZzx4cug3MOn0) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Fan](https://open.spotify.com/album/1QJKJSrjPk2E1lguFleUyk) | 3:30 | 2025-10-03 |  |
 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 | 2022-11-30 |  |
+| [Farvari](https://open.spotify.com/track/6xNFZCKGpCRUHUQng3rx82) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Farvari](https://open.spotify.com/album/58doQEPLSgCirXqBzgVKGu) | 3:00 | 2026-10-16 |  |
 | [Faryaad](https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Faryaad](https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z) | 4:45 | 2021-12-06 | 2023-02-13 |
 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 | 2021-12-06 | 2025-02-27 |
 | [Fiqr Na Karo](https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Fiqr Na Karo](https://open.spotify.com/album/7B5gIstmMrODjIn32kUFVO) | 3:39 | 2025-08-08 |  |
@@ -210,6 +211,7 @@
 | [Kadi Kadi](https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Indiedanish](https://open.spotify.com/artist/5lUo8Dl9AEOYsPfvHhSCnI), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Kadi Kadi](https://open.spotify.com/album/6GUKecLQQ6bflSmP7nKNsS) | 3:39 | 2024-08-16 | 2025-01-17 |
 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-06 | 2024-02-17 |
 | [Kahani](https://open.spotify.com/track/3TF5QEUU9lVrYALuWdz8Xc) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Kahani](https://open.spotify.com/album/2KaQsHtuID8cd3aG2CBF31) | 2:41 | 2026-01-23 | 2026-02-07 |
+| [Kahani adhuri si](https://open.spotify.com/track/7a1CYnyYZE4MvdpmDdyo4y) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Kahani adhuri si](https://open.spotify.com/album/1UP6SKUepHid7sOBLSbR8U) | 4:13 | 2026-10-16 |  |
 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 | 2024-04-19 | 2024-09-14 |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2022-09-14 | 2023-04-09 |
 | [Kaise](https://open.spotify.com/track/4ZNlNsg7aDjeK9ORQpIPMh) | [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Kaise](https://open.spotify.com/album/7KzDSXFJmK5dJzOe9U5zqu) | 4:24 | 2025-09-09 | 2025-09-25 |
@@ -237,6 +239,7 @@
 | [Khwaab](https://open.spotify.com/track/5l1TyIIMmF9dl9xKqTwZjr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Khwaab](https://open.spotify.com/album/5JqeFHuEs0NapdjBs9cqTn) | 4:02 | 2021-12-06 | 2022-11-24 |
 | [Khwabeeda](https://open.spotify.com/track/0dxX0XyoYAc9BtEvGgBdpk) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3) | [Khwabeeda](https://open.spotify.com/album/3EsrLMbFaBPmSwtDzJ2AFp) | 3:00 | 2025-09-09 | 2025-10-04 |
 | [Khwahishain](https://open.spotify.com/track/3JnlRLK9emP2AY7q9kh5aO) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Khwahishain](https://open.spotify.com/album/3UKUPIJG5v25jr3M6agNRv) | 3:49 | 2025-09-17 | 2026-01-15 |
+| [Ki Be Dardan](https://open.spotify.com/track/1xnne96ziI2QVnizewzl5o) | [Akbar Ali](https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z), [Trigger Tapes](https://open.spotify.com/artist/1tHbtg79S5CVZOdLf5AdT9) | [Ki Be Dardan](https://open.spotify.com/album/6F1twkTrRBas9tcvix6ip4) | 7:06 | 2026-10-16 |  |
 | [kidhar?](https://open.spotify.com/track/4T4zLKjpso1xQAq0osYzV3) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [kidhar?](https://open.spotify.com/album/5cKwWoAZweUuAzlYQjPm46) | 3:34 | 2021-12-06 | 2026-04-17 |
 | [Kinaaray](https://open.spotify.com/track/3hWb1muCu9ZC4hsj46oDrp) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Kinaaray](https://open.spotify.com/album/38KL7ralFHyW0G5CZnTAn7) | 3:20 | 2025-06-13 | 2026-09-12 |
 | [Kinda Qatil](https://open.spotify.com/track/16GaFGlPCINwlRN1tr66Dz) | [Mudabbir Azeez Jamall](https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [Kinda Qatil](https://open.spotify.com/album/7t9GgDyQDCHeUnV1Dth5VS) | 2:34 | 2026-08-07 |  |
@@ -444,6 +447,7 @@
 | [Theek Hai](https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Theek Hai](https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183) | 2:22 | 2022-01-18 | 2023-04-09 |
 | [Tittar Bittar](https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Tittar Bittar](https://open.spotify.com/album/7Ch7CBPwb3pKALwumKVnhw) | 2:49 | 2025-02-26 | 2025-05-19 |
 | [Toko Mujhay](https://open.spotify.com/track/5QkFoOGV3aX2O5gj1Ypwvq) | [Saad Mazher](https://open.spotify.com/artist/090ZjnRapPoPKa9gA2etv3) | [Toko Mujhay](https://open.spotify.com/album/5Axxnlrt5hWx3TdZyGJMfQ) | 2:53 | 2026-08-07 |  |
+| [Trigger](https://open.spotify.com/track/298JAlQJJCeXJvZxJlW05t) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Trigger](https://open.spotify.com/album/5WQNCGMBigBtoDJWixJayt) | 2:54 | 2026-10-16 |  |
 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 | 2022-09-26 | 2023-12-31 |
 | [TRUTH](https://open.spotify.com/track/7bFHSNqvz9cMMrW5MYLA3Z) | [EL RASHID](https://open.spotify.com/artist/0GoJ9aPkKAfaXnAWiRC2yG) | [TRUTH](https://open.spotify.com/album/1pdOJunOhvGapGa6Vl7UUb) | 3:51 | 2026-04-03 | 2026-04-25 |
 | [Tu](https://open.spotify.com/track/330TsHu0mlE6C6HUMonBsZ) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV) | [Tu](https://open.spotify.com/album/1bo7xoT51hozH458Dlen4O) | 3:18 | 2025-09-09 |  |

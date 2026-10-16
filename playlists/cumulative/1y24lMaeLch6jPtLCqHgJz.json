@@ -9129,6 +9129,28 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/21exUHrb05gZ15hJTXb9Wl"
+      },
+      "artists": [
+        {
+          "name": "Matt Dybal",
+          "url": "https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2"
+        },
+        {
+          "name": "Alan Krevo",
+          "url": "https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153107,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6uLIJS8O3IlXbmswf2NuCF"
+    },
+    {
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
       },
@@ -10344,6 +10366,32 @@
       "duration_ms": 213428,
       "name": "Ultra Love - RYOS Remix",
       "url": "https://open.spotify.com/track/1gh0zF0GW1Rf0e2Bpvi4oz"
+    },
+    {
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/3S1j9UHWLks59ypFnB1xWc"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "FELYN",
+          "url": "https://open.spotify.com/artist/0szTDpZPGXwM1fJpgaJkhF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/5ECbvtOhtlZr0rMS2k5SNX"
     },
     {
       "album": {

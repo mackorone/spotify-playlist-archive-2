@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-600 songs - 1 day 7 hr 58 min
+603 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [CONFINE](https://open.spotify.com/track/2yGcUs3vmQvJQnQ7isVbnC) | [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg), [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [why do things keep getting worse?](https://open.spotify.com/album/3NapyJ3I6UEAJ7jGvlC6EW) | 4:07 | 2026-01-10 |  |
 | [Constelación](https://open.spotify.com/track/3DX3fg9gd8KYBuYKPKQj4i) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:52 | 2026-07-17 |  |
 | [COOL](https://open.spotify.com/track/7DnQoAKAbH6iBrT2FruKvQ) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:31 | 2025-11-11 |  |
+| [Corn Maze Days, Pumpkin Patch Nights](https://open.spotify.com/track/4I3K2VP0XtLXJoUj2O5RCU) | [Roadkill't](https://open.spotify.com/artist/5lvarDFsfZZaK87sFgg2g2) | [Corn Maze Days, Pumpkin Patch Nights](https://open.spotify.com/album/3qMVQx6hpSkxUbytWrOFQg) | 3:23 | 2026-10-15 |  |
 | [Counting Sheep](https://open.spotify.com/track/7nEuQWH4JH1fQ4S9u7hRSG) | [Daniel Shaye](https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF) | [Counting Sheep](https://open.spotify.com/album/1wQAW0rnbLCLXT9prUf5zX) | 2:43 | 2026-08-27 |  |
 | [Crazy For U](https://open.spotify.com/track/4R6Ha3buGUWh55Gc6jswsD) | [Sylvver](https://open.spotify.com/artist/6benA6onjBBMuXMxzP8HCB), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d) | [Crazy For U](https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M) | 2:43 | 2024-07-14 |  |
 | [Creature Feature](https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk) | [Strat Strat](https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB) | [Digital Pawprint](https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP) | 2:07 | 2026-07-31 |  |
@@ -462,6 +463,7 @@
 | [Say The Words](https://open.spotify.com/track/0SFYPKipfy0G1R7Y6oAkqO) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Bite Me](https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK) | 3:37 | 2026-07-03 |  |
 | [Say The Words](https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Say The Words](https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO) | 3:37 | 2026-06-21 | 2026-07-04 |
 | [Screaming at the Top](https://open.spotify.com/track/3d2IuTn71tQpHEkXAO5VsY) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Schtewee](https://open.spotify.com/artist/052C9zO8Vd32kWv9fRwzi1) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 1:00 | 2024-02-09 |  |
+| [Set Me Down](https://open.spotify.com/track/68DePrm3cdtsMrsevG7wH0) | [Mostly Mammals](https://open.spotify.com/artist/6PlX3THROp2sMePaNoK16W) | [Breakthrough](https://open.spotify.com/album/000wW9lL3QSGGhHAiGZBZK) | 2:45 | 2026-10-15 |  |
 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 | 2023-10-30 |  |
 | [Shadow in the Dark](https://open.spotify.com/track/4bIAlhrgDknR6iPH1ZW4ES) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 4:14 | 2024-12-06 | 2026-03-01 |
 | [She Rained Down](https://open.spotify.com/track/7fvMOmTsmThOIpzKGO8A7p) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [As Small As Ants](https://open.spotify.com/album/3nsiCBttVO5PmlsIT8mDVY) | 3:28 | 2024-07-22 |  |
@@ -592,6 +594,7 @@
 | [WHERE U ARE](https://open.spotify.com/track/31y0swhInjpPshVRhUChf3) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [BLISS IN THE MIDST OF UNCERTAIN TIDES](https://open.spotify.com/album/0ZzlryTHJyECF1n3c3tjz9) | 3:46 | 2024-02-23 |  |
 | [Wind Up!](https://open.spotify.com/track/4cMw34uFMZSxus8eCtHoqU) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 2:20 | 2024-02-23 | 2026-03-01 |
 | [with you](https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2) | [wisp](https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv) | [Brumal](https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8) | 2:39 | 2024-07-22 |  |
+| [within](https://open.spotify.com/track/4QAX0PNPELt7O2o1zo1dBi) | [Moochie](https://open.spotify.com/artist/5ocQX6VrwISE9pQd2N3mOn) | [Breath of Life](https://open.spotify.com/album/4g71Jwoca7a8nAWpdtoet2) | 2:33 | 2026-10-15 |  |
 | [Won't Give Into Darkness](https://open.spotify.com/track/0KuVHX7z5CQQvoVUq5xc4K) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg) | [Won't Give Into Darkness](https://open.spotify.com/album/03ihSJ5sQkAPUgAwNP6nJX) | 4:22 | 2023-06-14 |  |
 | [Won't Go](https://open.spotify.com/track/1Np8Uf6RTomJNnUxT0DnQ7) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Won't Go](https://open.spotify.com/album/23GVy9XAQlkZ22nwP2PRND) | 3:18 | 2023-06-14 |  |
 | [WORKITOUT](https://open.spotify.com/track/4pMe5h7KvKdf5aVPiGcYwz) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 5:01 | 2025-11-11 | 2025-11-18 |

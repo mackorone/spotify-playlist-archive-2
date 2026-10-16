@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135388,
+  "num_followers": 135385,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Quena de los Andes",
-        "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
-      },
-      "artists": [
-        {
-          "name": "U\u00f1a Ramos",
-          "url": "https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA"
-        }
-      ],
-      "duration_ms": 227252,
-      "name": "Cometa de Luz",
-      "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
         "name": "Encuentros (Meetings)",
         "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 272840,
       "name": "Baila Caporal",
       "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Quena de los Andes",
+        "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
+      },
+      "artists": [
+        {
+          "name": "U\u00f1a Ramos",
+          "url": "https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA"
+        }
+      ],
+      "duration_ms": 227252,
+      "name": "Cometa de Luz",
+      "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
     },
     {
       "added_at": "2026-09-25 04:59:23",
@@ -419,6 +419,58 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
+        "name": "No Me Quiero Doler",
+        "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
+      },
+      "artists": [
+        {
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+        },
+        {
+          "name": "Carlos Rizzi",
+          "url": "https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7"
+        }
+      ],
+      "duration_ms": 326037,
+      "name": "No Me Quiero Doler",
+      "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "duration_ms": 170037,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 2",
+        "url": "https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D"
+      },
+      "artists": [
+        {
+          "name": "Los Curacas",
+          "url": "https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Trote de Enquelga",
+      "url": "https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
         "name": "No Vuelvo a Amar (Bolivia y Su Folklore)",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -447,58 +499,6 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
-      },
-      "artists": [
-        {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
-        }
-      ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
-        "name": "No Me Quiero Doler",
-        "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
-      },
-      "artists": [
-        {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
-        },
-        {
-          "name": "Carlos Rizzi",
-          "url": "https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7"
-        }
-      ],
-      "duration_ms": 326037,
-      "name": "No Me Quiero Doler",
-      "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 2",
-        "url": "https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D"
-      },
-      "artists": [
-        {
-          "name": "Los Curacas",
-          "url": "https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Trote de Enquelga",
-      "url": "https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD"
     },
     {
       "added_at": "2026-09-25 04:59:23",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
         "name": "Amansar\u00e1 (Remixed)",
         "url": "https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 313240,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2026-09-25 04:59:23",

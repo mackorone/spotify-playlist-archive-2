@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: Chloe Slater
+> my alt/pop could mean anything ⚔️ cover: Nieve Ella
 
-747 songs - 1 day 16 hr 15 min
+752 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-12-10 |
 | [Better If We Don't](https://open.spotify.com/track/7h9etc3zfnXYobjqCiQG20) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Better If We Don't](https://open.spotify.com/album/6j3p3KuggLr8qPaXlKyz7T) | 3:08 | 2025-04-17 | 2025-05-31 |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-10 | 2025-09-12 |
+| [bide my time](https://open.spotify.com/track/6aZEGN4NXYPV7NUUEaDJPA) | [AMINAT](https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh) | [bide my time](https://open.spotify.com/album/3aiYOJvEpEczglmYKNVupk) | 2:41 | 2026-10-15 |  |
 | [Big Bad Pearl](https://open.spotify.com/track/7cPH1QXuEtdtGGJ7f1bn6j) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Big Bad Pearl](https://open.spotify.com/album/46WHnnpAdHD3vQgtJA6e8i) | 3:42 | 2025-09-04 | 2025-10-24 |
 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-23 | 2026-06-26 |
 | [Bite](https://open.spotify.com/track/3kcJrIE5mQ6wmGKSy61hmT) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [Bite](https://open.spotify.com/album/02b7XEH280zTd1rSOWRi8u) | 2:26 | 2025-07-24 | 2025-09-20 |
@@ -206,6 +207,7 @@
 | [E\-MOTION](https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:00 | 2026-06-25 |  |
 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 | 2026-07-09 |  |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-07 | 2026-09-18 |
+| [Easy Love](https://open.spotify.com/track/23QXuv4NHqC4TKUPLJhW4e) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [Inside My Mind](https://open.spotify.com/album/3lAWm2kc4A3A5SLLesRagS) | 3:52 | 2026-10-15 |  |
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-06-07 | 2025-03-03 |
 | [Ego](https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Ego](https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw) | 2:56 | 2026-05-07 | 2026-08-14 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-10-10 | 2025-03-14 |
@@ -376,6 +378,7 @@
 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 | 2025-08-28 | 2025-10-10 |
 | [IT'S UP](https://open.spotify.com/track/3ZTg8yL0YzvVLB1fyvvZhp) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [misfit.](https://open.spotify.com/album/4DMku5uHZbI91xDhHU4PIG) | 2:15 | 2025-04-17 | 2025-04-25 |
 | [It's you](https://open.spotify.com/track/7BMosyyfESXA8PoYJWm6N5) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [It's you](https://open.spotify.com/album/1XnIi6LnbvwXafL4gntBCD) | 2:50 | 2025-07-10 | 2025-10-03 |
+| [I’M NOT DEAD](https://open.spotify.com/track/7bx8oQpOzKqKfLLLLOfNgM) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [How Long Will It Take?](https://open.spotify.com/album/59SbHFKM5vJ07NLFurCsq5) | 4:14 | 2026-10-15 |  |
 | [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 | 2025-03-07 | 2025-04-18 |
 | [JACKIN’ THE SYSTEM](https://open.spotify.com/track/0rJQhqLVu9phFCbhFwk0vp) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [JACKIN’ THE SYSTEM](https://open.spotify.com/album/4x38wTeIhE0eIdSCOtgJVL) | 3:08 | 2024-08-23 | 2024-10-11 |
 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-11 | 2026-02-27 |
@@ -429,6 +432,7 @@
 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 | 2024-06-07 | 2024-07-19 |
 | [Lovelorn](https://open.spotify.com/track/397ZkoEUm0yfkHCTKlHrxT) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [Lovelorn](https://open.spotify.com/album/1vq4P3z0gkOrT6EQcTCrmH) | 2:36 | 2025-09-04 | 2025-10-10 |
 | [Lovemesick](https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Lovemesick](https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv) | 3:49 | 2026-04-23 |  |
+| [Lovestruck](https://open.spotify.com/track/0BQHJP1Q9SsU7fA2hwTJjo) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Lovestruck](https://open.spotify.com/album/4McrpdtpEMFxmVjuL9OdxM) | 3:12 | 2026-10-15 |  |
 | [Lucy](https://open.spotify.com/track/2djMadJLhufUl397ravYvO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Lucy](https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8) | 2:41 | 2025-03-28 | 2025-07-11 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-07 | 2025-03-08 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-07 | 2025-03-14 |
@@ -555,6 +559,7 @@
 | [Pure](https://open.spotify.com/track/16xeq3pPRpd5tkD57fMJqY) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bought Me A Guitar](https://open.spotify.com/album/4Vqylkfp1XEmdwx533duY1) | 4:09 | 2026-03-13 | 2026-05-22 |
 | [Quicksand Heart](https://open.spotify.com/track/10sBS8Ko7OdndQKsGNSpBA) | [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Quicksand Heart](https://open.spotify.com/album/7mkv6Reo0oxld8GyMNWVs8) | 3:41 | 2026-01-09 | 2026-05-22 |
 | [R U OK?](https://open.spotify.com/track/2bE7yw711WwTYNcd6v1Yzt) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [R U OK?](https://open.spotify.com/album/3QuDfvfYx0m0K3A2fmBy2g) | 2:49 | 2026-09-25 |  |
+| [R.O.C.K.S.T.A.R.](https://open.spotify.com/track/73KKLZcggTD42ZrvDkcbFY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SKINSHIP](https://open.spotify.com/artist/1np9bHZkaVv1mtYva42QM7) | [R.O.C.K.S.T.A.R.](https://open.spotify.com/album/5CQ4x0Rr5iSc2o61TFF7Op) | 3:19 | 2026-10-15 |  |
 | [Ra Ra Oh!](https://open.spotify.com/track/42Wt1HFkcaspbWuRzp8D6W) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Ra Ra Oh!](https://open.spotify.com/album/0RigzX9V2jsubJLtR12Fff) | 2:23 | 2025-07-24 | 2025-09-12 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-07 | 2025-04-04 |
 | [Rage Song](https://open.spotify.com/track/1mZsxI7QtNxMEZvBKnRPFN) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Rage Song](https://open.spotify.com/album/4qJlBhyclw8Dz0uRzfiyzL) | 2:54 | 2025-09-19 | 2025-11-07 |

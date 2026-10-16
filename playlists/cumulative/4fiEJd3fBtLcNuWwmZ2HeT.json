@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "My Brain The Musical",
+        "url": "https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S"
+      },
+      "artists": [
+        {
+          "name": "Riproducer",
+          "url": "https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284525,
+      "name": "I'll Throw My Emotions Away",
+      "url": "https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH"
+    },
+    {
+      "album": {
         "name": "i'm high",
         "url": "https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03"
       },
@@ -6980,6 +6998,24 @@
       "duration_ms": 206373,
       "name": "\u300cTHE KINKY\u300d",
       "url": "https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P"
+    },
+    {
+      "album": {
+        "name": "\u300eGrimm\u2019s Garden\u300f",
+        "url": "https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU"
+      },
+      "artists": [
+        {
+          "name": "DaTuRa-\u30c0\u30c1\u30e5\u30e9-",
+          "url": "https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131162,
+      "name": "\u300eMadly in Love\u300f",
+      "url": "https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR"
     },
     {
       "album": {

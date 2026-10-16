@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,621 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,630 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 42 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 43 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 |
 | 44 | [Momentos Difíceis](https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Momentos Difíceis](https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu) | 2:38 |
-| 45 | [Te Agradeço](https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Te Agradeço](https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ) | 2:37 |
-| 46 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 |
+| 45 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 |
+| 46 | [Te Agradeço](https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Te Agradeço](https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ) | 2:37 |
 | 47 | [Mais Perto do Céu](https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mais Perto do Céu](https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk) | 2:37 |
 | 48 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
 | 49 | [Sem a Sua Presença](https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Clerick](https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5) | [Sem a Sua Presença](https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX) | 3:05 |

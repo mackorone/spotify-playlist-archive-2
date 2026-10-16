@@ -1,287 +1,15 @@
 {
-  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Milena Benites",
-  "num_followers": 17178,
+  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Milena Benites y Barboza",
+  "num_followers": 17183,
   "original_name": "RADAR Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLAFG89LrOGFTFsAdf9jp013TQf",
+  "snapshot_id": "AAAAAGcV2ZkIHTQttKqvPmNwVQ9v/yQr",
   "tracks": [
     {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Ah Llano Pa' Ser Bonito",
-        "url": "https://open.spotify.com/album/1zyqHEPgHYYEXLj9JoBY78"
-      },
-      "artists": [
-        {
-          "name": "Milena Benites",
-          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
-        }
-      ],
-      "duration_ms": 187218,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/3xWwX0i6zJgdwFmLR9n8GN"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "JOROPOP",
-        "url": "https://open.spotify.com/album/1bdDRKTsC09h2wHB0Bb7Do"
-      },
-      "artists": [
-        {
-          "name": "Lady Arias",
-          "url": "https://open.spotify.com/artist/07rWcDaGp6UoyzJLMu4y90"
-        }
-      ],
-      "duration_ms": 154993,
-      "name": "Zumba Que Tumba",
-      "url": "https://open.spotify.com/track/6zaAR2zwKNFWMDPT6vXkOg"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Cuando te Vi",
-        "url": "https://open.spotify.com/album/6mvwFHOAIlnYrp89JmrPAf"
-      },
-      "artists": [
-        {
-          "name": "Rosangela Belisario",
-          "url": "https://open.spotify.com/artist/1KPC9e2Z0EDYybKT7iRPLZ"
-        }
-      ],
-      "duration_ms": 236823,
-      "name": "Cuando te Vi",
-      "url": "https://open.spotify.com/track/7lDUHNL4oLierEPDKzJSuV"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Popurr\u00ed 01",
-        "url": "https://open.spotify.com/album/7csIQxw5ToevxunPMwQEbv"
-      },
-      "artists": [
-        {
-          "name": "Emily Galaviz",
-          "url": "https://open.spotify.com/artist/0oxb3uhVq0HQLq3Oi7OIp7"
-        }
-      ],
-      "duration_ms": 132317,
-      "name": "La Vecina",
-      "url": "https://open.spotify.com/track/6yVkqumvtQ8Ld5EueTNUhB"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Agon\u00eda",
-        "url": "https://open.spotify.com/album/3NLo4QVCpjz8VkXSzozyOV"
-      },
-      "artists": [
-        {
-          "name": "Yenifer Mora",
-          "url": "https://open.spotify.com/artist/6TQ8mgGTlxNQ2WgVoQ5AsZ"
-        }
-      ],
-      "duration_ms": 206275,
-      "name": "Agon\u00eda",
-      "url": "https://open.spotify.com/track/1ssJw7s3Y2AAqnyyqdeWoC"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Mi Forma De Amar",
-        "url": "https://open.spotify.com/album/6GvSIc4DWNYAm3XqlDsCuw"
-      },
-      "artists": [
-        {
-          "name": "Emily Galaviz",
-          "url": "https://open.spotify.com/artist/0oxb3uhVq0HQLq3Oi7OIp7"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Por Los Caminos Del Llano",
-      "url": "https://open.spotify.com/track/2IwLr4Davq56oUpGseXNVP"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "No te lo Creo",
-        "url": "https://open.spotify.com/album/3g4HWcQAu8QMkqO1CnwgEm"
-      },
-      "artists": [
-        {
-          "name": "Yenifer Mora",
-          "url": "https://open.spotify.com/artist/6TQ8mgGTlxNQ2WgVoQ5AsZ"
-        }
-      ],
-      "duration_ms": 187501,
-      "name": "No te lo Creo",
-      "url": "https://open.spotify.com/track/5xGfK4ANWuXStzeXqNWUel"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Mi Juramento",
-        "url": "https://open.spotify.com/album/4DjW74RSrBs1vLwbrSfxi1"
-      },
-      "artists": [
-        {
-          "name": "Araima Amezquita",
-          "url": "https://open.spotify.com/artist/1voGCRx1wHcEo6PDJQR8lv"
-        }
-      ],
-      "duration_ms": 235049,
-      "name": "Mi Juramento",
-      "url": "https://open.spotify.com/track/6pitcnQvExtxGqLpa864Fe"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "B\u00e9seme Poquito a Poco",
-        "url": "https://open.spotify.com/album/1tPaXuzJHWMoFFOpIAM10k"
-      },
-      "artists": [
-        {
-          "name": "Rosangela Belisario",
-          "url": "https://open.spotify.com/artist/1KPC9e2Z0EDYybKT7iRPLZ"
-        }
-      ],
-      "duration_ms": 223619,
-      "name": "B\u00e9seme Poquito a Poco",
-      "url": "https://open.spotify.com/track/3sURZGDAzc5ilmxiHYKbu9"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "As\u00f3mate a la Ventana",
-        "url": "https://open.spotify.com/album/5iYM2i7DaNE7BqmI7uSi95"
-      },
-      "artists": [
-        {
-          "name": "Rosangela Belisario",
-          "url": "https://open.spotify.com/artist/1KPC9e2Z0EDYybKT7iRPLZ"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "As\u00f3mate a la Ventana",
-      "url": "https://open.spotify.com/track/2UnelkSX44J5RyWWEiNYip"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Guayabo Motolito",
-        "url": "https://open.spotify.com/album/2PxINRwSdNdgtjkuubySJx"
-      },
-      "artists": [
-        {
-          "name": "Elisa Guerrero",
-          "url": "https://open.spotify.com/artist/3fAMEB6aDq6brysAxTRBcW"
-        }
-      ],
-      "duration_ms": 227799,
-      "name": "Guayabo Motolito",
-      "url": "https://open.spotify.com/track/1SgLWihj6r7vI0mmcSjf0z"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Mi Mango Piche",
-        "url": "https://open.spotify.com/album/7mtLpjFmpyh81DHHZ3y67J"
-      },
-      "artists": [
-        {
-          "name": "Araima Amezquita",
-          "url": "https://open.spotify.com/artist/1voGCRx1wHcEo6PDJQR8lv"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Mi Mango Piche",
-      "url": "https://open.spotify.com/track/4p2XbZR8mZtPYPsNCyVYMG"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "JOROPOP",
-        "url": "https://open.spotify.com/album/1bdDRKTsC09h2wHB0Bb7Do"
-      },
-      "artists": [
-        {
-          "name": "Lady Arias",
-          "url": "https://open.spotify.com/artist/07rWcDaGp6UoyzJLMu4y90"
-        }
-      ],
-      "duration_ms": 170781,
-      "name": "Joropo Estileto",
-      "url": "https://open.spotify.com/track/5AwNweHJH7guT4nfLk3hLo"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "De Mi Pu\u00f1o Y Letra",
-        "url": "https://open.spotify.com/album/08caD1fgAzSun5ActKhpQH"
-      },
-      "artists": [
-        {
-          "name": "Emily Galaviz",
-          "url": "https://open.spotify.com/artist/0oxb3uhVq0HQLq3Oi7OIp7"
-        }
-      ],
-      "duration_ms": 121130,
-      "name": "Yo S\u00ed S\u00e9",
-      "url": "https://open.spotify.com/track/5KF6CGh9QR95QDasFwrp5d"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Soy La Veguera De Siempre",
-        "url": "https://open.spotify.com/album/3NlfXkIEPVoP0NxD8zbPHt"
-      },
-      "artists": [
-        {
-          "name": "Elisa Guerrero",
-          "url": "https://open.spotify.com/artist/3fAMEB6aDq6brysAxTRBcW"
-        }
-      ],
-      "duration_ms": 214909,
-      "name": "El Gobernao",
-      "url": "https://open.spotify.com/track/0MCPj11rCb5Weu9dLas8w7"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "De Aqu\u00ed Pa' Lante Soy Rata",
-        "url": "https://open.spotify.com/album/4UVEq0h5DvgvNCYiv0AKq9"
-      },
-      "artists": [
-        {
-          "name": "Duglanny Sosa",
-          "url": "https://open.spotify.com/artist/2KfN0pl5Sp6CsMC4aVOSpX"
-        }
-      ],
-      "duration_ms": 184412,
-      "name": "De Aqu\u00ed Pa' Lante Soy Rata",
-      "url": "https://open.spotify.com/track/2BvowIjXaTGI8jOcrDczZh"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/365sRiLYPrJTn5r1F4vyxe"
-      },
-      "artists": [
-        {
-          "name": "Marianny D\u00edaz",
-          "url": "https://open.spotify.com/artist/1hYBBlEZfqEQCvizf4LNiy"
-        }
-      ],
-      "duration_ms": 220108,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/2zq3QQGJ1sDNaSBi0pyrPA"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
         "name": "El Joropo es Mujer",
         "url": "https://open.spotify.com/album/6SEhTplJ1zEDhi1UjsmRju"
@@ -292,89 +20,25 @@
           "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
         }
       ],
-      "duration_ms": 214922,
-      "name": "S\u00ed me Cumple nos Casamos",
-      "url": "https://open.spotify.com/track/3Nlmn6CFCrYRpxeeafNJf6"
+      "duration_ms": 195242,
+      "name": "El Joropo es Mujer",
+      "url": "https://open.spotify.com/track/3m1kv4oNX21PYmgZ8uHU6c"
     },
     {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
-        "name": "Guayabo Motolito",
-        "url": "https://open.spotify.com/album/1Yn46U3fz8Mn9y9d9HvSqE"
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
       },
       "artists": [
         {
-          "name": "Yenifer Mora",
-          "url": "https://open.spotify.com/artist/6TQ8mgGTlxNQ2WgVoQ5AsZ"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
         }
       ],
-      "duration_ms": 239933,
-      "name": "Guayabo Motolito",
-      "url": "https://open.spotify.com/track/6EavtseH18jPAwpznSll0B"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Mientras Exista En El Mundo",
-        "url": "https://open.spotify.com/album/30k7hgztPd8zQMsGJAputL"
-      },
-      "artists": [
-        {
-          "name": "Nathalya D\u00edaz",
-          "url": "https://open.spotify.com/artist/26JKwm0OKWWrT7u4MM9KKR"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Mientras Exista En El Mundo",
-      "url": "https://open.spotify.com/track/3vS3SPn523MJwbu1QCV9sh"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Ni Que Me Fumen Tabacos",
-        "url": "https://open.spotify.com/album/65Jh15DSFWf56DM7vM8Z87"
-      },
-      "artists": [
-        {
-          "name": "Duglanny Sosa",
-          "url": "https://open.spotify.com/artist/2KfN0pl5Sp6CsMC4aVOSpX"
-        }
-      ],
-      "duration_ms": 244548,
-      "name": "Ni Que Me Fumen Tabacos",
-      "url": "https://open.spotify.com/track/2GP72GzS3EnCjeFaWx8z1W"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Las Cartas Sobre la Mesa",
-        "url": "https://open.spotify.com/album/7FXPEttys87RVU7uYaTol0"
-      },
-      "artists": [
-        {
-          "name": "Mayra Tovar",
-          "url": "https://open.spotify.com/artist/4HMqER5hv9Wvsaye7CbAvE"
-        }
-      ],
-      "duration_ms": 242555,
-      "name": "Las Cartas Sobre la Mesa",
-      "url": "https://open.spotify.com/track/307wgpktY4Mdj8vPClOXAd"
-    },
-    {
-      "added_at": "2026-08-11 04:59:05",
-      "album": {
-        "name": "Reina Siempre ser\u00e1 Reina",
-        "url": "https://open.spotify.com/album/7KoWtrOopG2pnRNqnp4SfS"
-      },
-      "artists": [
-        {
-          "name": "Araima Amezquita",
-          "url": "https://open.spotify.com/artist/1voGCRx1wHcEo6PDJQR8lv"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Reina Siempre ser\u00e1 Reina",
-      "url": "https://open.spotify.com/track/75IWQdiyFDKc5Tl6DOy5UL"
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-08-11 04:59:05",
@@ -393,20 +57,52 @@
       "url": "https://open.spotify.com/track/29dcilqv4Oiry5ldoX2DvO"
     },
     {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
-        "name": "No me Pregunten por \u00c9l",
-        "url": "https://open.spotify.com/album/4QhCsCPPozZJc3awLkS5Ht"
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/3US50V3VCPozqqyMVb6Psw"
       },
       "artists": [
         {
-          "name": "Marianny D\u00edaz",
-          "url": "https://open.spotify.com/artist/1hYBBlEZfqEQCvizf4LNiy"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
         }
       ],
-      "duration_ms": 195000,
-      "name": "No me Pregunten por \u00c9l",
-      "url": "https://open.spotify.com/track/48EK10UzfWwC4yKUzWXcSq"
+      "duration_ms": 164705,
+      "name": "Isla Bonita",
+      "url": "https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX"
+    },
+    {
+      "added_at": "2026-08-11 04:59:05",
+      "album": {
+        "name": "El Joropo es Mujer",
+        "url": "https://open.spotify.com/album/6SEhTplJ1zEDhi1UjsmRju"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 214922,
+      "name": "S\u00ed me Cumple nos Casamos",
+      "url": "https://open.spotify.com/track/3Nlmn6CFCrYRpxeeafNJf6"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Intention",
+        "url": "https://open.spotify.com/album/525yQy3XdpE2xKcpNTtsl2"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Intention",
+      "url": "https://open.spotify.com/track/2FOzWHN036GlXdFJgm9ERL"
     },
     {
       "added_at": "2026-08-11 04:59:05",
@@ -425,52 +121,56 @@
       "url": "https://open.spotify.com/track/0vXAApedf0rCfxBcYD3LEy"
     },
     {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/03wjCGek4UtZiY8E1xVeIW"
+        "name": "La Vibra",
+        "url": "https://open.spotify.com/album/6325pn0Xzc4q2DvrKP4Yv3"
       },
       "artists": [
         {
-          "name": "Marianny D\u00edaz",
-          "url": "https://open.spotify.com/artist/1hYBBlEZfqEQCvizf4LNiy"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
         }
       ],
-      "duration_ms": 172302,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/3CTupVwoxpYKGUxT5gSTB9"
+      "duration_ms": 174315,
+      "name": "La Vibra",
+      "url": "https://open.spotify.com/track/5kgcbTlykPL6k9M1KZxuDs"
     },
     {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
-        "name": "Criolla y de Elorza",
-        "url": "https://open.spotify.com/album/7eQsHhBcIu4c1LyqWf8Co1"
+        "name": "Se Parece a \u00c9l",
+        "url": "https://open.spotify.com/album/5RyRo6DLSFVv3BwcCeCcJR"
       },
       "artists": [
         {
-          "name": "Mayra Tovar",
-          "url": "https://open.spotify.com/artist/4HMqER5hv9Wvsaye7CbAvE"
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
         }
       ],
-      "duration_ms": 216154,
-      "name": "\u00daltimas Palabras",
-      "url": "https://open.spotify.com/track/4pd2a1aYCzwFwaPpcHDXX1"
+      "duration_ms": 233711,
+      "name": "Se Parece a \u00c9l",
+      "url": "https://open.spotify.com/track/0TcbaO4WoljNrI5KFP0vKX"
     },
     {
-      "added_at": "2026-08-11 04:59:05",
+      "added_at": "2026-10-15 04:59:05",
       "album": {
-        "name": "Ando Buscandome Un Novio",
-        "url": "https://open.spotify.com/album/2qdCczOWeGclPu5a3oiySe"
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
       },
       "artists": [
         {
-          "name": "Duglanny Sosa",
-          "url": "https://open.spotify.com/artist/2KfN0pl5Sp6CsMC4aVOSpX"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
         }
       ],
-      "duration_ms": 149048,
-      "name": "Ando Buscandome Un Novio",
-      "url": "https://open.spotify.com/track/6OljcHWCrxz3mH5nLa1SVD"
+      "duration_ms": 159914,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4UbTKtCsUCbNZGDuz1fhSL"
     },
     {
       "added_at": "2026-08-11 04:59:05",
@@ -487,6 +187,326 @@
       "duration_ms": 239480,
       "name": "Muchacho de Pelo Negro",
       "url": "https://open.spotify.com/track/3Bjw7HfJuGdd4jGfUcohJQ"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "X Siempre",
+        "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "X Siempre",
+      "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "El Joropo es Mujer",
+        "url": "https://open.spotify.com/album/6SEhTplJ1zEDhi1UjsmRju"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Por Dios la Vida y la Suerte",
+      "url": "https://open.spotify.com/track/2tq94ff3S4qGmCUP1DJCPy"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Milenarios 2021 (En Vivo)",
+        "url": "https://open.spotify.com/album/0d4LQ3jqJexUR1UgUrtoMX"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 504092,
+      "name": "Milenarios 2021",
+      "url": "https://open.spotify.com/track/4u8cUt00iM44yT1kdKcgGr"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Quisiera Decirle",
+        "url": "https://open.spotify.com/album/4tAlOrmdW6Id3MVcP82uzE"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Quisiera Decirle",
+      "url": "https://open.spotify.com/track/3ByhXqzBALET0Ta2kXG347"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "El Joropo es Mujer",
+        "url": "https://open.spotify.com/album/6SEhTplJ1zEDhi1UjsmRju"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 263264,
+      "name": "Llanero Nato",
+      "url": "https://open.spotify.com/track/6cjTXpnOHBY7hJytthn0H7"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/1oDGNRUzS7yHbxMwzh2mSb"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 150302,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/59KV56ZKTdtJxMEcqjwRXq"
+    },
+    {
+      "added_at": "2026-08-11 04:59:05",
+      "album": {
+        "name": "Ah Llano Pa' Ser Bonito",
+        "url": "https://open.spotify.com/album/1zyqHEPgHYYEXLj9JoBY78"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 187218,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/3xWwX0i6zJgdwFmLR9n8GN"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Un D\u00eda M\u00e1s Sin Ti",
+        "url": "https://open.spotify.com/album/4SD1c5dpQo5bJcOlEmQmkk"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Un D\u00eda M\u00e1s Sin Ti",
+      "url": "https://open.spotify.com/track/00Ag3yWGv5xzb3hfXWDFjv"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Amor Criollito",
+        "url": "https://open.spotify.com/album/6VJG3flJWn8SxX5HLdMHy3"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 234154,
+      "name": "Amor Criollito",
+      "url": "https://open.spotify.com/track/5jsTbCHif8lBWeqe26Qaxr"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Vvs",
+        "url": "https://open.spotify.com/album/48ix1dbSUhDguBCbxFZ70C"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 159611,
+      "name": "Vvs",
+      "url": "https://open.spotify.com/track/2Kqh2gX1WQwTk1z9UwSAmp"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Ah Llano Pa' Ser Bonito",
+        "url": "https://open.spotify.com/album/1zyqHEPgHYYEXLj9JoBY78"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 167129,
+      "name": "Otro Pa' que te Reemplace",
+      "url": "https://open.spotify.com/track/5oC6Su9SukT4Sg95EezzaK"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 157959,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2bh2wPS64zApR0lwC3WLWU"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "El Coleador de mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3ktl86rStxStYEBnvFWq11"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 283798,
+      "name": "El Coleador de mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4cm5iamEAJESM0HvCKjF43"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Tragadito",
+        "url": "https://open.spotify.com/album/55MWWW0y6688ofK1HRwK86"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 128659,
+      "name": "Tragadito",
+      "url": "https://open.spotify.com/track/6matDtrLnCuPyDK2OFRnng"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Nac\u00ed Criolla",
+        "url": "https://open.spotify.com/album/6ge4ibQNqfjqgpYbUZt4ia"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Nac\u00ed Criolla",
+      "url": "https://open.spotify.com/track/2KAYev4iVr03mLvr2GyVm8"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Curita al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7sZXPYSpl98krsXF5SCtyY"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Keyvin Ce",
+          "url": "https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Curita al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3QIdqmXApUxPGhnwhN5pRl"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "Cosas de Dios",
+        "url": "https://open.spotify.com/album/6gEzuuMvVFDp5aJtXFzFsb"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        },
+        {
+          "name": "Reynaldo Armas",
+          "url": "https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots"
+        }
+      ],
+      "duration_ms": 261546,
+      "name": "Cosas de Dios",
+      "url": "https://open.spotify.com/track/3BOv8oi7Kbf99psE2cFB8X"
+    },
+    {
+      "added_at": "2026-10-15 04:59:05",
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 178517,
+      "name": "Despu\u00e9s de la Tormenta",
+      "url": "https://open.spotify.com/track/6YCfIhKQ1KUb2XjTO4Mfxa"
     }
   ],
   "unique_name": "RADAR Andinos",

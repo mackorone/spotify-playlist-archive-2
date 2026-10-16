@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "Evera",
+        "url": "https://open.spotify.com/album/4M5n7EmD1ZJKpnVHSICgT2"
+      },
+      "artists": [
+        {
+          "name": "CAMILA (AR)",
+          "url": "https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228196,
+      "name": "Evera - Radio Edit",
+      "url": "https://open.spotify.com/track/4jXkLIxBATMQdFV0RAANoa"
+    },
+    {
+      "album": {
         "name": "Everlong / Lies",
         "url": "https://open.spotify.com/album/34Drpugegb65VUOcNCjvFj"
       },
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 292000,
       "name": "Haciendo Saturar (Tayhana Remix)",
       "url": "https://open.spotify.com/track/79WOaiXVf1Bs6tm9VKLe1U"
@@ -5919,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Powerup",
+        "url": "https://open.spotify.com/album/1IpDdxTYP8M8qzC4TDeOk4"
+      },
+      "artists": [
+        {
+          "name": "Arena",
+          "url": "https://open.spotify.com/artist/2c3uVklrfVPgzBIUIqcGai"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577906,
+      "name": "Powerup",
+      "url": "https://open.spotify.com/track/3hUAJj628H8jW2BBNGPdro"
+    },
+    {
+      "album": {
         "name": "Prana Vayu",
         "url": "https://open.spotify.com/album/38SCAuXZIlAXKcqq6xw2VH"
       },
@@ -8392,7 +8428,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 304000,
       "name": "What I Do - Acrobatik Remix",
       "url": "https://open.spotify.com/track/7tpcW6OE8VI7eryrRhziPG"

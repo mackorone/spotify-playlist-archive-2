@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Gl\u00f3ria",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Machete Bomb",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 233002,
       "name": "animal",
       "url": "https://open.spotify.com/track/7zwdYqsgSUSUDcjJ6hWakh"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 204411,
       "name": "Boto F\u00e9",
       "url": "https://open.spotify.com/track/0pZ6YeNzwIvnAI8qog3Pby"
@@ -2670,6 +2670,24 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+    },
+    {
+      "album": {
+        "name": "CORTA PELA R@IZ",
+        "url": "https://open.spotify.com/album/2xbR5XxcluBiVVSAnUCQkZ"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210792,
+      "name": "CORTA PELA R@IZ",
+      "url": "https://open.spotify.com/track/6bP686VZ1V1AUKc9f6QuSR"
     },
     {
       "album": {
@@ -4062,6 +4080,24 @@
       "duration_ms": 302333,
       "name": "Estilha\u00e7o",
       "url": "https://open.spotify.com/track/4yWWKYMnxHZQJEPh7RPcLQ"
+    },
+    {
+      "album": {
+        "name": "eternamente",
+        "url": "https://open.spotify.com/album/4dRv2T66HvBySs37ciShUi"
+      },
+      "artists": [
+        {
+          "name": "Lua Dultra",
+          "url": "https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272158,
+      "name": "eternamente",
+      "url": "https://open.spotify.com/track/4e8viVM9hXPasMMxCPXCuV"
     },
     {
       "album": {
@@ -7682,7 +7718,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169047,
       "name": "Nova Paix\u00e3o",
       "url": "https://open.spotify.com/track/4jJketS7IciufwvBiGsCRi"
@@ -9423,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Pitty",
+        "url": "https://open.spotify.com/album/7oJsUbfVjaOxKFYTurScsT"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187916,
+      "name": "Pileque de Poeta",
+      "url": "https://open.spotify.com/track/0bRTPRtcjt4OIQA3lTpHLf"
+    },
+    {
+      "album": {
         "name": "Supercombo Ao Vivo no Studio F",
         "url": "https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp"
       },
@@ -10423,6 +10477,28 @@
     },
     {
       "album": {
+        "name": "O RETORNO",
+        "url": "https://open.spotify.com/album/5UcM9bPNzlzMwiE4DBv5Ya"
+      },
+      "artists": [
+        {
+          "name": "Fac\u00e7\u00e3o Caipira",
+          "url": "https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg"
+        },
+        {
+          "name": "Andr\u00e9 Prando",
+          "url": "https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199808,
+      "name": "RECOME\u00c7AR",
+      "url": "https://open.spotify.com/track/6w9cn95J6USpYjzn2TMsKO"
+    },
+    {
+      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/6J1JucU1ItGgQ9BobRei8y"
       },
@@ -11350,7 +11426,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173188,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/1PvY10ztE7toA8MUCCP5M3"
@@ -11640,7 +11716,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 124970,
       "name": "S\u00d3 EU SEI E MAIS NINGU\u00c9M",
       "url": "https://open.spotify.com/track/3LHL16rgp7oWs11rMRGYGE"
@@ -12244,6 +12320,36 @@
       "duration_ms": 178930,
       "name": "Troglomitus Broncossaurus",
       "url": "https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s"
+    },
+    {
+      "album": {
+        "name": "Trope\u00e7o Mas N\u00e3o Caio",
+        "url": "https://open.spotify.com/album/1mF3ZxP78DfN4uAbUJA6TD"
+      },
+      "artists": [
+        {
+          "name": "Machete Bomb",
+          "url": "https://open.spotify.com/artist/0BjJ3oYFwa2SUn567mGSOQ"
+        },
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "Aliena\u00e7\u00e3o Afrofuturista",
+          "url": "https://open.spotify.com/artist/6SDw7meBBAwiwI92SnXZ77"
+        },
+        {
+          "name": "Mano Hick",
+          "url": "https://open.spotify.com/artist/1NSMbmEWPHbQwwuEFxzoKB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230268,
+      "name": "Trope\u00e7o Mas N\u00e3o Caio",
+      "url": "https://open.spotify.com/track/3kEDKlpKOfFH8VNEUKuaoN"
     },
     {
       "album": {

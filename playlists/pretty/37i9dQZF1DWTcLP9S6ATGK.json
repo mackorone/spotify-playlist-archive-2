@@ -1,13 +1,69 @@
 {
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Adrian Khalif",
-  "num_followers": 168247,
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Matter Mos, Dere",
+  "num_followers": 168233,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQ7T0Sst6Vq9wC/Hs/VHxzYvhOj",
+  "snapshot_id": "AAAAAI5MixV21EmBvR8a8j6Kxcl3IAEX",
   "tracks": [
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Senyum Tidurnya",
+        "url": "https://open.spotify.com/album/77ofAsrQSwJuMGuJrn1fW0"
+      },
+      "artists": [
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "duration_ms": 241224,
+      "name": "Senyum Tidurnya",
+      "url": "https://open.spotify.com/track/0usfbBRsRYoGzvjpwZjpkj"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "MARBLES",
+        "url": "https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Tak Ingin Pulang",
+      "url": "https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Kalau Aku Lebih Darinya",
+        "url": "https://open.spotify.com/album/4ZgasxLGs6rIncquhm28O2"
+      },
+      "artists": [
+        {
+          "name": "Giant Jay",
+          "url": "https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI"
+        },
+        {
+          "name": "Dewanda Pratama",
+          "url": "https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Kalau Aku Lebih Darinya",
+      "url": "https://open.spotify.com/track/0K2MsV4d21Q2oF6O4qTf74"
+    },
     {
       "added_at": "2026-10-09 01:13:20",
       "album": {
@@ -67,6 +123,94 @@
       "duration_ms": 261585,
       "name": "Mendung",
       "url": "https://open.spotify.com/track/3uughs6wfHNEeyPSR5u4US"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Lebih Beruntung Sedikit",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Lebih Beruntung Sedikit",
+      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Maukah Kau Menikah Denganku?",
+        "url": "https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Tiroy Sihotang",
+          "url": "https://open.spotify.com/artist/4j3ddH7rNFJtEGOPu9XCPj"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Maukah Kau Menikah Denganku?",
+      "url": "https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Oh Semoga",
+        "url": "https://open.spotify.com/album/1xT1OMRep1UfugffULFXVk"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Oh Semoga",
+      "url": "https://open.spotify.com/track/7hmpSmU4rmr7qJyU3puCxs"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "Tanpa Tepuk Tangan",
+        "url": "https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl"
+      },
+      "artists": [
+        {
+          "name": "SANDHYA",
+          "url": "https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J"
+        }
+      ],
+      "duration_ms": 243829,
+      "name": "Tanpa Tepuk Tangan",
+      "url": "https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy"
+    },
+    {
+      "added_at": "2026-10-15 23:20:42",
+      "album": {
+        "name": "manja aja! ( gpp )",
+        "url": "https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "manja aja! ( gpp )",
+      "url": "https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -331,22 +475,6 @@
       "duration_ms": 228778,
       "name": "typeku",
       "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3VTQ9iF0HB1hkWhGYkBQ7J"
-      },
-      "artists": [
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        }
-      ],
-      "duration_ms": 282985,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/19lj8puyqwoG2cusG9nAG4"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -651,26 +779,6 @@
     {
       "added_at": "2026-10-09 01:13:20",
       "album": {
-        "name": "Surat Untuk Penakluk Hatiku",
-        "url": "https://open.spotify.com/album/6j8nJzEHz7weIbXoZiSCkI"
-      },
-      "artists": [
-        {
-          "name": "Clay Siahaan",
-          "url": "https://open.spotify.com/artist/26O6jBlQew6TaDWOBYtPCr"
-        },
-        {
-          "name": "Sisca Insani",
-          "url": "https://open.spotify.com/artist/0uh9xFuckufgEa6T7SNpzt"
-        }
-      ],
-      "duration_ms": 234287,
-      "name": "Surat Untuk Penakluk Hatiku",
-      "url": "https://open.spotify.com/track/2vuqaLSKw7R9DlP2cAgDtx"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
         "name": "Pura Pura",
         "url": "https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP"
       },
@@ -715,22 +823,6 @@
       "duration_ms": 157969,
       "name": "Mungkin di Depan Buram",
       "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "puisi lama",
-        "url": "https://open.spotify.com/album/4Drty5NWppimN5X6tuYXt7"
-      },
-      "artists": [
-        {
-          "name": "buN",
-          "url": "https://open.spotify.com/artist/3ehgRVx1JRzUs3cydKG09b"
-        }
-      ],
-      "duration_ms": 209125,
-      "name": "puisi lama",
-      "url": "https://open.spotify.com/track/6VQodtAc2AhGeFZwsAUarC"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -1351,22 +1443,6 @@
     {
       "added_at": "2026-10-09 01:13:20",
       "album": {
-        "name": "KONTRADILSKI +",
-        "url": "https://open.spotify.com/album/0a6q01riAfrARGGzhyhKJT"
-      },
-      "artists": [
-        {
-          "name": "DEABDIL",
-          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
-        }
-      ],
-      "duration_ms": 246397,
-      "name": "13456789 ( gak ada 2nya )",
-      "url": "https://open.spotify.com/track/3De7UbhVWH8X9gLQKcYQMs"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
         "name": "Map of Feelings",
         "url": "https://open.spotify.com/album/0lbVLDfKJoLbXuKV5aY9y4"
       },
@@ -1463,62 +1539,6 @@
       "duration_ms": 228680,
       "name": "Pertiwi",
       "url": "https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Tentangmu, Tenangku (From \"Ibu, Bagaimana Aku Tanpamu?\")",
-        "url": "https://open.spotify.com/album/2WLVGuGrm7OCH4DXAROCSd"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 325900,
-      "name": "Tentangmu, Tenangku - From \"Ibu, Bagaimana Aku Tanpamu?\"",
-      "url": "https://open.spotify.com/track/50KLVKPseJNmSnwIDg7bES"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Terpesona",
-        "url": "https://open.spotify.com/album/6EIeAiwGskDBWBQGy7PZIr"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Josh Flo",
-          "url": "https://open.spotify.com/artist/1N9oae6JjWPiMYrbhDpIdw"
-        }
-      ],
-      "duration_ms": 267089,
-      "name": "Terpesona",
-      "url": "https://open.spotify.com/track/1iRDtYqkXpKfo5X0bXzWa2"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "Berharap",
-        "url": "https://open.spotify.com/album/0nOTBbapQWzdFHZAfiAz9F"
-      },
-      "artists": [
-        {
-          "name": "Kevin Aprilio",
-          "url": "https://open.spotify.com/artist/1JBtcNC11ceVl8JXaR4dbV"
-        },
-        {
-          "name": "Widy Vierratale",
-          "url": "https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb"
-        }
-      ],
-      "duration_ms": 189142,
-      "name": "Berharap",
-      "url": "https://open.spotify.com/track/2xewuXavdzmk6yVniNY596"
     },
     {
       "added_at": "2026-10-09 01:13:20",
@@ -1667,26 +1687,6 @@
       "duration_ms": 161379,
       "name": "Siapa Yang Salah",
       "url": "https://open.spotify.com/track/1zAvBONvnVO8JBW0kXGJcZ"
-    },
-    {
-      "added_at": "2026-10-09 01:13:20",
-      "album": {
-        "name": "37 minggu",
-        "url": "https://open.spotify.com/album/03EvtQH9yMie7s0YALEAfX"
-      },
-      "artists": [
-        {
-          "name": "Jentik Manis",
-          "url": "https://open.spotify.com/artist/0y2BvbLkLY5K6vQjejRtll"
-        },
-        {
-          "name": "Rosmarandi",
-          "url": "https://open.spotify.com/artist/4ZjW78IyPMCQWVWChvEJHI"
-        }
-      ],
-      "duration_ms": 179218,
-      "name": "37 minggu",
-      "url": "https://open.spotify.com/track/3DXDtHF1WLRt5LqQ9naxfN"
     },
     {
       "added_at": "2026-10-09 01:13:20",

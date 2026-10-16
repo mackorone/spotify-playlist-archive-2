@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Chris Holsten",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Olivia Rodrigo & Chappell Roan",
   "name": "Ny Pop",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 270634,
       "name": "At the end of every story",
       "url": "https://open.spotify.com/track/6BTsQLrgOvRxYU9VO6PLLa"
@@ -1040,6 +1040,24 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
+        "name": "Beste du har hatt",
+        "url": "https://open.spotify.com/album/6vHHPtTcttA3EQZXHY2Wo9"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Beste du har hatt",
+      "url": "https://open.spotify.com/track/6x2AR7jQaQDFxW6mVk07jn"
     },
     {
       "album": {
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166447,
       "name": "DANS BABY",
       "url": "https://open.spotify.com/track/63JUuqZ7SwbDhVBVUaGxcM"
@@ -3319,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -3728,7 +3768,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 233944,
       "name": "For Your Entertainment",
       "url": "https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um"
@@ -4638,7 +4678,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147250,
       "name": "Head Over Water",
       "url": "https://open.spotify.com/track/581YIWLD60XPpP0GqWQ0Pz"
@@ -5470,7 +5510,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 247124,
       "name": "How Love\u2019s Supposed to Feel",
       "url": "https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk"
@@ -5813,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "Spill For Galleriet (Deluxe)",
+        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "I et annet liv",
+      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
+    },
+    {
+      "album": {
         "name": "I Feel So Free",
         "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
       },
@@ -6081,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "I'm a girl with feelings, baby!",
+        "url": "https://open.spotify.com/album/4x3KAEGZq3nHmtK1J6Mftc"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "I'm a girl with feelings, baby!",
+      "url": "https://open.spotify.com/track/6BHunRN9cypPJq0OpIODxA"
+    },
+    {
+      "album": {
         "name": "I'm Still",
         "url": "https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu"
       },
@@ -6294,7 +6370,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186045,
       "name": "ILU",
       "url": "https://open.spotify.com/track/0ZnYt1zaaZOWmiekyM3E7s"
@@ -6728,7 +6804,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 164850,
       "name": "Kanskje Siste Gang",
       "url": "https://open.spotify.com/track/0FmJh6KSwZnNlMkJktpeh1"
@@ -7423,6 +7499,32 @@
     },
     {
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
+    },
+    {
+      "album": {
         "name": "20 Years From Now",
         "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
       },
@@ -7803,6 +7905,24 @@
     },
     {
       "album": {
+        "name": "Man Out of Me",
+        "url": "https://open.spotify.com/album/5O1OSD73X9C8kSQWewMgJD"
+      },
+      "artists": [
+        {
+          "name": "8lanco",
+          "url": "https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199779,
+      "name": "Man Out of Me",
+      "url": "https://open.spotify.com/track/6EXDWi38oaSctFVmBbaPkO"
+    },
+    {
+      "album": {
         "name": "RAMUELO",
         "url": "https://open.spotify.com/album/3ow5zUIQ1F6dnyBu2t3wj6"
       },
@@ -7908,6 +8028,24 @@
       "duration_ms": 229151,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
+    },
+    {
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete (forlenga)",
+        "url": "https://open.spotify.com/album/4WWvCqQVw9KD7qGEfotnxi"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216722,
+      "name": "Mellom hei og hade",
+      "url": "https://open.spotify.com/track/5SP8elX4Q24zwjmo0jyh0k"
     },
     {
       "album": {
@@ -9308,7 +9446,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 116087,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/7tmXnleWYIQozVJJQs3YFB"
@@ -9666,7 +9804,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
@@ -11192,7 +11330,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 250116,
       "name": "Suser avg\u00e5rde",
       "url": "https://open.spotify.com/track/4jehW3QGAeTvmTCYNKGS0N"
@@ -11282,7 +11420,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198335,
       "name": "S\u00c5 LENGE JEG LEVER",
       "url": "https://open.spotify.com/track/50jvnoVELEfoyRknCPAsu3"
@@ -13006,7 +13144,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 182920,
       "name": "Wasn't it sweet?",
       "url": "https://open.spotify.com/track/0NG405X61oF21s35JSI3Lf"
@@ -13342,6 +13480,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "World's Greatest!",
+        "url": "https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "World's Greatest!",
+      "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
     },
     {
       "album": {

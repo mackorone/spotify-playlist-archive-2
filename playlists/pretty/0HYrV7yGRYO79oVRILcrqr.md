@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,911 likes - 153 songs - 9 hr 43 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,911 likes - 155 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,5 +161,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 151 | [Forbidden Fruit](https://open.spotify.com/track/3ZooZAL52Vt7UWFlpBOr7l) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Forbidden Fruit](https://open.spotify.com/album/5CZ1DxtWeHoPgTFPBOxrUr) | 3:42 |
 | 152 | [Send Your Best](https://open.spotify.com/track/559fbHuOhwUqVq3pkJcY2e) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [Send Your Best](https://open.spotify.com/album/6zSAbp740eRa8IU5oMxC80) | 3:51 |
 | 153 | [Healed by grace](https://open.spotify.com/track/4lACGHtRSMAdxITk9vkxKb) | [Faby Heavenly Rock](https://open.spotify.com/artist/6yYt5hgzgGJoHX0zzte2GW) | [Healed by grace](https://open.spotify.com/album/0ZeYzdDh2rfiuBCS0N0OVK) | 4:58 |
+| 154 | [Foot Down On The Freeway](https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Foot Down On The Freeway](https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy) | 3:11 |
+| 155 | [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:31 |
 
-Snapshot ID: `AAAMxla2XHpv2CG4dYmE9r3UgCq76hAD`
+Snapshot ID: `AAAMyCzU/ndDmgSDn6Ain921MnSV0HzJ`

@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165319,
       "name": "No Harm",
       "url": "https://open.spotify.com/track/2XQ133QNNO2GbOsOiukvSW"
@@ -3032,6 +3032,24 @@
       "duration_ms": 128421,
       "name": "One More",
       "url": "https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj"
+    },
+    {
+      "album": {
+        "name": "Only Yours For The Moment",
+        "url": "https://open.spotify.com/album/2fT2MaN9lZJrtJ6KLfOtqL"
+      },
+      "artists": [
+        {
+          "name": "Amahla",
+          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155646,
+      "name": "Only Yours For The Moment",
+      "url": "https://open.spotify.com/track/0ehykySALxYm3XYmN43ysj"
     },
     {
       "album": {
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211084,
       "name": "SNM",
       "url": "https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9"
@@ -4267,6 +4285,24 @@
     },
     {
       "album": {
+        "name": "Talking A Lot",
+        "url": "https://open.spotify.com/album/3lwMYi4UP06ie7pE4ZZo4r"
+      },
+      "artists": [
+        {
+          "name": "Skirmish",
+          "url": "https://open.spotify.com/artist/5K2GSK8mGJrO5pkfL5neXc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "Talking A Lot",
+      "url": "https://open.spotify.com/track/3e64l56lmo1sBPY5cMMHWs"
+    },
+    {
+      "album": {
         "name": "I Like To Tamper",
         "url": "https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo"
       },
@@ -4342,6 +4378,28 @@
       "duration_ms": 193548,
       "name": "Tell Me!!!",
       "url": "https://open.spotify.com/track/1qvTzVA2VVi3nnknvaSJ20"
+    },
+    {
+      "album": {
+        "name": "TELLIN ME",
+        "url": "https://open.spotify.com/album/5AGJ2kM6BoQqom7yNJJ1ZW"
+      },
+      "artists": [
+        {
+          "name": "REEM",
+          "url": "https://open.spotify.com/artist/4XLQZFoBe4f5JuiaTAiMgR"
+        },
+        {
+          "name": "TayoLoxs",
+          "url": "https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89142,
+      "name": "TELLIN ME",
+      "url": "https://open.spotify.com/track/3QyCTs0VAni6y1VBvl9PtW"
     },
     {
       "album": {
@@ -4544,7 +4602,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 134766,
       "name": "Top 3",
       "url": "https://open.spotify.com/track/47E59ScAI4kEsAH6ELaIkA"

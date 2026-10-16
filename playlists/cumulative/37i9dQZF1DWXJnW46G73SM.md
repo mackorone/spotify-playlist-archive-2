@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> شجّع المنتَج المحلي\. الغلاف: كراشندو
+> شجّع المنتَج المحلي\. الغلاف: خالد عصام
 
-1,831 songs - 4 day 5 hr 18 min
+1,832 songs - 4 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [Met7amelany](https://open.spotify.com/track/269WJylolN9d4Igz7NVvDt) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Met7amelany](https://open.spotify.com/album/63R80jJ48lRDXzgMqJ3SuP) | 4:34 | 2023-06-01 | 2023-07-15 |
 | [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-07 | 2023-08-09 |
 | [Metlakhbata Ahwaly](https://open.spotify.com/track/5vWcAMQKuk2aR2qB9fSyyT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:24 | 2026-07-23 |  |
+| [METRO](https://open.spotify.com/track/5M9dsScDhc1lIASVjdxK80) | [Khaled Essam](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [METRO](https://open.spotify.com/album/35VxjNpkANbk0As8JSDfy7) | 2:53 | 2026-10-15 |  |
 | [Miganinani](https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Miganinani](https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1) | 2:47 | 2023-07-13 | 2023-08-11 |
 | [Million Meraya](https://open.spotify.com/track/6dx92bVPfZlG54RcstXHrO) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Million Meraya](https://open.spotify.com/album/2jQAipD7BHhhujcCsXY2jE) | 2:40 | 2025-02-07 | 2025-04-25 |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 | 2022-08-24 |

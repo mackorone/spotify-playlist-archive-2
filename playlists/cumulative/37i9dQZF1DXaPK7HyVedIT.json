@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: VXSION",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Mochakk",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -846,7 +846,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181035,
       "name": "ALL OVER AGAIN",
       "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
@@ -1864,6 +1864,32 @@
       "duration_ms": 136615,
       "name": "Bad Choices",
       "url": "https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk"
+    },
+    {
+      "album": {
+        "name": "No Return",
+        "url": "https://open.spotify.com/album/142QWlZ9y0EY6QRGW6UBRk"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Breazy Daze",
+          "url": "https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Bad Dope (feat. Breazy Daze)",
+      "url": "https://open.spotify.com/track/1ecITmgTIXa2HskpijU8iI"
     },
     {
       "album": {
@@ -2896,7 +2922,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189230,
       "name": "Booty Bang",
       "url": "https://open.spotify.com/track/59FSooGapAZzGZ5cflEufI"
@@ -4542,7 +4568,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 174375,
       "name": "Crazy Dream",
       "url": "https://open.spotify.com/track/371GFNvEcw8nGblC56ED2G"
@@ -5278,6 +5304,32 @@
       "duration_ms": 236065,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/6ktJMFOkWEya3GL3nL02u9"
+    },
+    {
+      "album": {
+        "name": "Disco In My Head",
+        "url": "https://open.spotify.com/album/6r8QMMlPuJg0Z214JhdgFa"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        },
+        {
+          "name": "ANY ZEE",
+          "url": "https://open.spotify.com/artist/0VUSbfrFrqCtemSb2GOEfe"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164062,
+      "name": "Disco In My Head",
+      "url": "https://open.spotify.com/track/2GrU6EPYBO3yg3GMGcBI2r"
     },
     {
       "album": {
@@ -10664,7 +10716,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181620,
       "name": "In My House",
       "url": "https://open.spotify.com/track/3Lw69ZoWwno0K09kxFskKn"
@@ -10726,7 +10778,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157500,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5SlgO3tndAkHsew4j09cbE"
@@ -14321,6 +14373,28 @@
     },
     {
       "album": {
+        "name": "Morning Shit",
+        "url": "https://open.spotify.com/album/3UmNxuytmU6NrT5Vx6jZVn"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "Ricckbr",
+          "url": "https://open.spotify.com/artist/3oXT0km39NyQDowvpYPka6"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167722,
+      "name": "Morning Shit",
+      "url": "https://open.spotify.com/track/79lOrruGNDYXw30E4XRzOK"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1D4zpF6pyutYkHlikXauUT"
       },
@@ -14876,6 +14950,28 @@
       "duration_ms": 195744,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
+      "album": {
+        "name": "Neckwear",
+        "url": "https://open.spotify.com/album/7nneCCvtN7wV29VarPwRAQ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Neckwear",
+      "url": "https://open.spotify.com/track/3BgLZtFdHRKKtC9Gvpsgzk"
     },
     {
       "album": {
@@ -16124,7 +16220,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181769,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
@@ -16530,6 +16626,28 @@
       "duration_ms": 193464,
       "name": "Passion (R U Satisfied)",
       "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
+    },
+    {
+      "album": {
+        "name": "People In The Back",
+        "url": "https://open.spotify.com/album/5WbpOoqqrM0gFIHnLTcQEX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Charlotte Moss",
+          "url": "https://open.spotify.com/artist/6x7zlplC8xOHkZxjOFmLxV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "People In The Back",
+      "url": "https://open.spotify.com/track/3o1rdK4SipPibK1ZVPHnUO"
     },
     {
       "album": {
@@ -18049,6 +18167,24 @@
     },
     {
       "album": {
+        "name": "Sambae",
+        "url": "https://open.spotify.com/album/1MCA7cUa8GUOrbfhgAF8Ss"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Sambae",
+      "url": "https://open.spotify.com/track/6SaynYlThfD37ayiBxwSBY"
+    },
+    {
+      "album": {
         "name": "Saturn Storm",
         "url": "https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG"
       },
@@ -18528,6 +18664,28 @@
       "duration_ms": 265161,
       "name": "SERENA",
       "url": "https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj"
+    },
+    {
+      "album": {
+        "name": "The Genesis of Chaos",
+        "url": "https://open.spotify.com/album/0h195JC3zI4EGO6c1O2PET"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        },
+        {
+          "name": "Emanuelle",
+          "url": "https://open.spotify.com/artist/6R4qCQfvbVtvZnP1pxQaCV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2X2BmUb7RNjsGNKaoiWtX0"
     },
     {
       "album": {
@@ -19080,7 +19238,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
@@ -20174,7 +20332,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172093,
       "name": "Taste",
       "url": "https://open.spotify.com/track/6KwS5hoHrQ6LQuerWbkikq"
@@ -20324,6 +20482,24 @@
       "duration_ms": 164303,
       "name": "Tell Us",
       "url": "https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI"
+    },
+    {
+      "album": {
+        "name": "Tension EP",
+        "url": "https://open.spotify.com/album/6d7NXl2QIBSqA4AdrvNALO"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136846,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/3TzRxb7If5yRVEpBBdyFlc"
     },
     {
       "album": {
@@ -21108,7 +21284,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193000,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"

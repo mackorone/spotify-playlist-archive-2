@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: LUDMILLA",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -302,6 +302,32 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "album": {
+        "name": "R&Belo",
+        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212650,
+      "name": "Agenda",
+      "url": "https://open.spotify.com/track/6PhHVWdtBhPkQCxCZp1lDz"
     },
     {
       "album": {
@@ -1610,6 +1636,28 @@
       "duration_ms": 145714,
       "name": "DE REPENTE",
       "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "album": {
+        "name": "R&Belo",
+        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Caetanoprod",
+          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195669,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
     },
     {
       "album": {
@@ -3576,7 +3624,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 129896,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
@@ -6584,7 +6632,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"

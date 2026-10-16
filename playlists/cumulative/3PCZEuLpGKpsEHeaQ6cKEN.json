@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Aligned",
+        "url": "https://open.spotify.com/album/1Utdip680zilMqce6isNMk"
+      },
+      "artists": [
+        {
+          "name": "Beob\u00ea",
+          "url": "https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/09udipM6oi3ZLwT4cY9FPt"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku"
       },
@@ -3552,6 +3570,28 @@
       "duration_ms": 215005,
       "name": "Blue",
       "url": "https://open.spotify.com/track/30jjLOdrqdV4DhUuvI0IX9"
+    },
+    {
+      "album": {
+        "name": "Everything, Briefly",
+        "url": "https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148003,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/7yLfYrDxetF6AHBC2Dv67X"
     },
     {
       "album": {
@@ -22521,6 +22561,28 @@
     },
     {
       "album": {
+        "name": "LOVERS ON THE RUN",
+        "url": "https://open.spotify.com/album/3d2XU6aCBoSfzCn7Vc449P"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "MRYN",
+          "url": "https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181024,
+      "name": "LOVERS ON THE RUN",
+      "url": "https://open.spotify.com/track/1BV9Xaf1XHsW6CPsGSNT1w"
+    },
+    {
+      "album": {
         "name": "Lovesongs & Sextapes",
         "url": "https://open.spotify.com/album/2fZTmEHd8lwVkE6345WcZ9"
       },
@@ -23754,7 +23816,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 556555,
       "name": "More",
       "url": "https://open.spotify.com/track/0wNr3LhIQxyTYyT9ljSELV"
@@ -28148,6 +28210,28 @@
       "duration_ms": 120000,
       "name": "Pretty Little Lies",
       "url": "https://open.spotify.com/track/2EE25iuKGA0Z5dVw00RMlt"
+    },
+    {
+      "album": {
+        "name": "Everything, Briefly",
+        "url": "https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149050,
+      "name": "Promise You",
+      "url": "https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"
     },
     {
       "album": {
@@ -41666,6 +41750,24 @@
       "duration_ms": 195477,
       "name": "Wrap Yourself Around Me",
       "url": "https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD"
+    },
+    {
+      "album": {
+        "name": "X Files: 001",
+        "url": "https://open.spotify.com/album/7iJG1xTUvSU508swG9IhwN"
+      },
+      "artists": [
+        {
+          "name": "Ae:ther",
+          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257340,
+      "name": "X Is For Lovers",
+      "url": "https://open.spotify.com/track/5qKeF7ysOfsqwyyaKGsKsA"
     },
     {
       "album": {

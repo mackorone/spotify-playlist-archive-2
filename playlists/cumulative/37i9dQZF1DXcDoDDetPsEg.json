@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: FOLA, Davido",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Mr Eazi",
   "name": "Who We Be",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155860,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
@@ -2249,20 +2249,24 @@
     },
     {
       "album": {
-        "name": "As a Friend (Raw) [Jack Hammer Riddim]",
+        "name": "As A Friend (Raw) [Jack Hammer Riddim]",
         "url": "https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX"
       },
       "artists": [
         {
           "name": "Fari",
           "url": "https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8"
+        },
+        {
+          "name": "Jagwa De Champ",
+          "url": "https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH"
         }
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135888,
-      "name": "As a Friend (Raw) [Jack Hammer Riddim]",
+      "name": "As A Friend (Raw) [Jack Hammer Riddim]",
       "url": "https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU"
     },
     {
@@ -6306,6 +6310,28 @@
       "duration_ms": 163961,
       "name": "Chief Rhys Freestyle",
       "url": "https://open.spotify.com/track/2NJ9SrL3cdNveVVDeoKQWu"
+    },
+    {
+      "album": {
+        "name": "Chiltern Firehouse .",
+        "url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146655,
+      "name": "Chiltern Firehouse .",
+      "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
     },
     {
       "album": {
@@ -24350,7 +24376,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147107,
       "name": "Old Dilemma",
       "url": "https://open.spotify.com/track/5mr9bd8eo2Vx2TMxtaWFTO"
@@ -34733,6 +34759,32 @@
     },
     {
       "album": {
+        "name": "Try A Hundred Times",
+        "url": "https://open.spotify.com/album/6wAVQX0HJbLdyIHlRkBmVE"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "db.",
+          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
+        },
+        {
+          "name": "Dylan Hingston",
+          "url": "https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219648,
+      "name": "Try A Hundred Times",
+      "url": "https://open.spotify.com/track/161RBd1KoPgrzPUGSgcIIB"
+    },
+    {
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
       },
@@ -36764,7 +36816,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173022,
       "name": "What's Done Is Done",
       "url": "https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1"

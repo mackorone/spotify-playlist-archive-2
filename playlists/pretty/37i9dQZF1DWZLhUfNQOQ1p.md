@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,385 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,367 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 95 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 96 | [First Light Falling](https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [First Light Falling](https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9) | 2:52 |
 | 97 | [Chica](https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi) | [NUZZLE](https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa), [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ) | [Chica](https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi) | 2:10 |
-| 98 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
-| 99 | [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 |
+| 98 | [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 |
+| 99 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 100 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
 
 Snapshot ID: `AAAAAI5KK4dFb0wS6zveuE6TTY6yglvP`

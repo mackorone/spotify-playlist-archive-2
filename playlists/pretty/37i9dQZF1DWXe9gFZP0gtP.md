@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987,907 likes - 215 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,384 likes - 215 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 214 | [Peaceful Mountains](https://open.spotify.com/track/61mcJfGPWZJG12WKjLcgC2) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Peaceful Mountains](https://open.spotify.com/album/1Jbe03BZJQsfXRSXEzhi7b) | 2:45 |
 | 215 | [Along the Way](https://open.spotify.com/track/6vNFvvF0dg4LVW6LeUmcbN) | [Koma](https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49) | [Along the Way](https://open.spotify.com/album/0xauq0fJIvU1zLt4V9c4bD) | 2:47 |
 
-Snapshot ID: `AAAAAOE9ejW8H1eX05asVZcxAysJnOOw`
+Snapshot ID: `AAAAAIZyzAKgGUMnY9iKLnrtvAQTOOiX`

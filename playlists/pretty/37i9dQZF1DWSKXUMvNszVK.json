@@ -1,15 +1,211 @@
 {
   "description": "<a href=\"spotify:artist:5YFS41yoX0YuFY39fq21oN\">Bob Sinclar</a>'s favourite tracks. Updated regularly. Curated by Bob Sinclar. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 14327,
+  "num_followers": 14357,
   "original_name": "Bob Sinclar's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOykPLWBVxnKul2ucNpgDaiuYNIy",
+  "snapshot_id": "AAAAAGski01+NsvGmEVBq+2MUbpKkTOR",
   "tracks": [
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Kiss My Eyes (Nico Zandolino Remix)",
+        "url": "https://open.spotify.com/album/2tgOkBZgGuMHMtL04cASl0"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Nico Zandolino",
+          "url": "https://open.spotify.com/artist/68rOxEiTfz0UZMFzHQtVcZ"
+        }
+      ],
+      "duration_ms": 171030,
+      "name": "Kiss My Eyes - Nico Zandolino Remix",
+      "url": "https://open.spotify.com/track/4WrEM0lGIapltDyTzyjDHf"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Music Don't Stop",
+        "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Music Don't Stop",
+      "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Class Room / Camino",
+        "url": "https://open.spotify.com/album/048S3TnNe5DtCHGd5vln2m"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "duration_ms": 302394,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/22S4Wae4mUOnEehvNlz33i"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Do Your Thing & Samba Magic (Reboot Remixes)",
+        "url": "https://open.spotify.com/album/3eIiSaDv3suxGis7kLuzPG"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Reboot",
+          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Samba Magic - Reboot Remix",
+      "url": "https://open.spotify.com/track/5Fz6x0vHnNke0WzJoJmumy"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Alone Feels Good",
+        "url": "https://open.spotify.com/album/6UBvdqytDdPy6nXLtxeQHn"
+      },
+      "artists": [
+        {
+          "name": "Fuzzy Hair",
+          "url": "https://open.spotify.com/artist/1oyIKLL0h1Bw9yR8scqwdo"
+        },
+        {
+          "name": "PLAVKA",
+          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "Alone Feels Good",
+      "url": "https://open.spotify.com/track/1jGWF5TjYvsjXSF6LSWOBI"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/5lbjbjRwV4Qtx5z5NTCkDi"
+      },
+      "artists": [
+        {
+          "name": "LEFTI",
+          "url": "https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Muchacho",
+      "url": "https://open.spotify.com/track/25SkGp1mc3qk6wsEPGKtNt"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "How Far (Chal\u00e9)",
+        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        },
+        {
+          "name": "BELLIL BROTHERS",
+          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "How Far (Chal\u00e9)",
+      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Miami Vice",
+        "url": "https://open.spotify.com/album/0DvrSM1pqByeKLS9UiiMP1"
+      },
+      "artists": [
+        {
+          "name": "DJ PP",
+          "url": "https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 179523,
+      "name": "Miami Vice",
+      "url": "https://open.spotify.com/track/3dnE1sm2j3Z6vLA0dQdtig"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/1dR7ugrGOOVz1nkfQiMoah"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Feels Good - Radio Edit",
+      "url": "https://open.spotify.com/track/48TC7Y611B43T4ZiU96k1t"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
+      "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Dj Bountyhunter",
+          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp"
+    },
+    {
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF"
@@ -29,7 +225,7 @@
       "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/3EXw9tcmiPJmCQY1s0tKfR"
@@ -49,7 +245,7 @@
       "url": "https://open.spotify.com/track/1nof4vrrB0SxrOwTfTchDO"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "The Bomb (These Sounds Fall Into My Mind)",
         "url": "https://open.spotify.com/album/0PeidEigo3NDHu6RiQLPfg"
@@ -65,7 +261,7 @@
       "url": "https://open.spotify.com/track/0qQiqwzddwQmtoGcF3Uzm5"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Get Ready",
         "url": "https://open.spotify.com/album/6I3lJ5LTu6z2lShsJXTNqP"
@@ -85,7 +281,7 @@
       "url": "https://open.spotify.com/track/5qOTgjGGg6ezIrO13WYPsA"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Outro Lugar",
         "url": "https://open.spotify.com/album/4MbbbAxMTkEQlQwZTF3qEP"
@@ -101,7 +297,7 @@
       "url": "https://open.spotify.com/track/0IYuKku8COh0Zu9sHEvKue"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Block Party (Baron Remix)",
         "url": "https://open.spotify.com/album/1IzNzNUo6wCHEMZt02MpJc"
@@ -125,7 +321,7 @@
       "url": "https://open.spotify.com/track/1Npa3nhCJqvXwwygYvn6yR"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -145,7 +341,7 @@
       "url": "https://open.spotify.com/track/3Z9uims4BXsx1DtETrjNDo"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "\u00ca, Yemanj\u00e0",
         "url": "https://open.spotify.com/album/0EDeHBr1oV5DKnQT0XRbzn"
@@ -165,7 +361,7 @@
       "url": "https://open.spotify.com/track/6n6eAGau7FE4ki2ArL1olC"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "En la Mar",
         "url": "https://open.spotify.com/album/7LQHtXXlnSPzdSKnXtnYGa"
@@ -189,7 +385,7 @@
       "url": "https://open.spotify.com/track/05JnonXRKFFnIe89mSvnWG"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Champs Elys\u00e9es Remixed",
         "url": "https://open.spotify.com/album/3bkdby8erJRQUL2DmZGrnN"
@@ -205,7 +401,7 @@
       "url": "https://open.spotify.com/track/2E5lZex1c8rTq3RnsRQ4xZ"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/2bF4ZCIyeBJMiX7xHOyeUT"
@@ -221,7 +417,7 @@
       "url": "https://open.spotify.com/track/6enadQqKDljEVtdAfWga7p"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "He Not In (Edit)",
         "url": "https://open.spotify.com/album/0mUXgYDAQl7cN5ENpuH4Ry"
@@ -237,7 +433,7 @@
       "url": "https://open.spotify.com/track/0dCwrpyt9GjcNPfcxHmkJQ"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Metro Area (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG"
@@ -253,7 +449,7 @@
       "url": "https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Same Man",
         "url": "https://open.spotify.com/album/6m9XXQkjEenHHx3O1P2xJG"
@@ -273,7 +469,7 @@
       "url": "https://open.spotify.com/track/6FwxKDR1xWxYLOVKVwN7GY"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
@@ -301,7 +497,7 @@
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Austin's Groove (Edit)",
         "url": "https://open.spotify.com/album/03KwbhFYm183L5FtqMPie8"
@@ -317,7 +513,7 @@
       "url": "https://open.spotify.com/track/18zA3Svo8cN8bSrZMkDqO1"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Have a Good Time",
         "url": "https://open.spotify.com/album/5rDGnIZ53L9lHtadvQpSUq"
@@ -337,7 +533,7 @@
       "url": "https://open.spotify.com/track/2vIEBETfRHbUdjCqZtT4mk"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
@@ -357,7 +553,7 @@
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "World Hold On (Children of the Sky) [Radio Edit]",
         "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
@@ -377,7 +573,7 @@
       "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "I Love Serge",
         "url": "https://open.spotify.com/album/4i0cpFTmtEpJnoC6wR893e"
@@ -397,7 +593,7 @@
       "url": "https://open.spotify.com/track/35Fc4rMxYzl0hAyHU4Bnfq"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Tropical Soundclash",
         "url": "https://open.spotify.com/album/4aHOTHJZQ04Dm1oHKuxLvG"
@@ -413,7 +609,7 @@
       "url": "https://open.spotify.com/track/0oAUQzRSH6nJwAFHXYOoNV"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Premier Gaou, The Remixes",
         "url": "https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a"
@@ -433,7 +629,7 @@
       "url": "https://open.spotify.com/track/2IWLXQrMszvlBPzh06JT5I"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Antigua",
         "url": "https://open.spotify.com/album/5eyD8JkBHbzNgnbQL7GbLq"
@@ -449,7 +645,7 @@
       "url": "https://open.spotify.com/track/17j4AjclS5hbnfy8BThMMi"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
@@ -465,7 +661,7 @@
       "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
@@ -481,7 +677,7 @@
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "T-Connection (Expanded Edition)",
         "url": "https://open.spotify.com/album/5jTdQq8HHeiUXLOpKtXoGa"
@@ -497,7 +693,7 @@
       "url": "https://open.spotify.com/track/2UNREXVQxVGR3jJbbXOtRB"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
@@ -513,7 +709,7 @@
       "url": "https://open.spotify.com/track/6oOtua2Bx9jqVqEm9a1e7t"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Speechless (Remixes)",
         "url": "https://open.spotify.com/album/3gjPjlHqwpyvQizoKKjmZK"
@@ -529,7 +725,7 @@
       "url": "https://open.spotify.com/track/6E1G0DDkrB5ODithltGL3O"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Oh What A Night - 70's Classics",
         "url": "https://open.spotify.com/album/6eWkC2Qv4ly7zIbyQWF4j8"
@@ -545,7 +741,7 @@
       "url": "https://open.spotify.com/track/3pCGWTSbrv8ecj1L9q0hvp"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "AIE A Mwana (Remixes)",
         "url": "https://open.spotify.com/album/7KNV69aOJOmM2RZ1uKUevT"
@@ -569,7 +765,7 @@
       "url": "https://open.spotify.com/track/4ILeDt28VAZr5mzJKvs5sj"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Free (Remixes Version)",
         "url": "https://open.spotify.com/album/1riexMGDToI5m6KZqQtpHy"
@@ -593,7 +789,7 @@
       "url": "https://open.spotify.com/track/4GpanMrsboraBpCr66iBQw"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Believe (Kurd Maverick Revamp)",
         "url": "https://open.spotify.com/album/1MWTsRJtM3izRfUilHc5MB"
@@ -613,7 +809,7 @@
       "url": "https://open.spotify.com/track/3iIvbWzmktfVT4apAf0mff"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Groovejet (If This Ain't Love)",
         "url": "https://open.spotify.com/album/5zReRXnW4GnxbcHKsvMcHW"
@@ -633,7 +829,7 @@
       "url": "https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Lucky Star (Jay Vegas Remixes)",
         "url": "https://open.spotify.com/album/7GhYjPvZdpwzk5HTz2UeWJ"
@@ -653,7 +849,7 @@
       "url": "https://open.spotify.com/track/4IrtjzQWlLa5suKrCNrkui"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Love Generation (Edit)",
         "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
@@ -673,7 +869,7 @@
       "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Point of View",
         "url": "https://open.spotify.com/album/4DsEZFC6juc9cUhMSK8DXi"
@@ -689,7 +885,7 @@
       "url": "https://open.spotify.com/track/1Jlt67b4oOhCoFW9GQwL9T"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Another Chance",
         "url": "https://open.spotify.com/album/7Mn4QEaFm9H2hVrfLdgocm"
@@ -705,7 +901,7 @@
       "url": "https://open.spotify.com/track/0EoGXXi91KSqAIY7SSgizW"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Tempovision",
         "url": "https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5"
@@ -721,7 +917,7 @@
       "url": "https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL"
@@ -741,7 +937,7 @@
       "url": "https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Peppermint Jam Records Pres. Catch the Groove, Vol. 5",
         "url": "https://open.spotify.com/album/6Sxq5IyM8NXJCNGqmCcEuN"
@@ -757,7 +953,7 @@
       "url": "https://open.spotify.com/track/6oblKNYDOZprcV0VViK03Z"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "1999 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43"
@@ -773,7 +969,7 @@
       "url": "https://open.spotify.com/track/4CHGyhVoq5AVpG47klsVrL"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "30 Years Of Vicious",
         "url": "https://open.spotify.com/album/5nVK3dUT5Uy2OscwH0xhtD"
@@ -797,7 +993,7 @@
       "url": "https://open.spotify.com/track/77Oq4eOP2k5hlFnyKLe2a2"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/7fYBbxNlF6edZLtqg0bGW1"
@@ -817,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5RAop8B9sG1nRFecl98uUW"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Africanism Vol. 4",
         "url": "https://open.spotify.com/album/59gsN1hwMJreI1xojXotV2"
@@ -841,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5AjRJJw7c1cYfDjxrXHxXm"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Jump N Shout",
         "url": "https://open.spotify.com/album/6HtWkYz4ORUFyRkVOCA8DY"
@@ -861,7 +1057,7 @@
       "url": "https://open.spotify.com/track/35ivXRH1Aiy0I3H9Pdh3UN"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol. 1",
         "url": "https://open.spotify.com/album/4ksqeIcvNfFtxWfBzmBEeJ"
@@ -881,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6bcoZVOKIL3AQYN0SXsTpc"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/3rELAoYRzk6TbvWTk1c4rC"
@@ -901,7 +1097,7 @@
       "url": "https://open.spotify.com/track/39VFi0lAiaV6zmAhZhxC3G"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Dia De Ayer",
         "url": "https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI"
@@ -921,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Leleley",
         "url": "https://open.spotify.com/album/6X0CXHyreRsC7QxDSJJJpx"
@@ -945,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2s6yMhP44eP9zDl2CoEtLx"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Vamonos",
         "url": "https://open.spotify.com/album/1Iw15P4bkPDiRxcx4zAEIR"
@@ -965,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3nXOr4yKNupaAOO1PIVcDm"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "La Colombiana",
         "url": "https://open.spotify.com/album/71bMIvoxxGOG6UTN0SekWt"
@@ -989,7 +1185,7 @@
       "url": "https://open.spotify.com/track/1VjOrzemvBWaMn24PLMW3o"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Africanism Vol. 1",
         "url": "https://open.spotify.com/album/53wNwEOJH5VPXcVLgKcvIF"
@@ -1009,7 +1205,7 @@
       "url": "https://open.spotify.com/track/61qgyog2CxMmvWREAp89Id"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "House Music",
         "url": "https://open.spotify.com/album/7CdJ0Rc4LpkFSovGOgtcqm"
@@ -1025,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5pKOHgmgMqx0h2UVbSlF3l"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Boxed Off",
         "url": "https://open.spotify.com/album/6KlT5wd8PMU5j2bzQ7L4bp"
@@ -1041,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7aBOeUzDz8JIhBYYgKZJih"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "My House From All Angles (Remixes)",
         "url": "https://open.spotify.com/album/7DoIgIKizT38FKFZBuEEoj"
@@ -1061,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0l8XVSJbHy8fUQOlXPxfy6"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "ADD SUV",
         "url": "https://open.spotify.com/album/7iAhrXrGRbPcXWL6E8xiIW"
@@ -1085,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7kE1g5T0Mmc84izq9DirqZ"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Thrill Me",
         "url": "https://open.spotify.com/album/5qDXHfhhvVGM465Hsvb7mq"
@@ -1101,7 +1297,7 @@
       "url": "https://open.spotify.com/track/23PTFxhy19oWVioUZg1Vfr"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Big Love (David Penn Remix)",
         "url": "https://open.spotify.com/album/0u1Rh0xmhWqXVr2F6zeBI3"
@@ -1121,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4WHXk1rnSH8galaTU8xVbm"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Let's Groove (Mel\u00e9 Mix)",
         "url": "https://open.spotify.com/album/0GEgbFTmTjPzslBh4pmKe1"
@@ -1141,7 +1337,7 @@
       "url": "https://open.spotify.com/track/73Vjs6HglJ2DVbzVPkgzZI"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/6zwUPGMAnjh2PLxfVDTdnf"
@@ -1157,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "The Greatest Thing Alive",
         "url": "https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0"
@@ -1181,7 +1377,7 @@
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Sinfonia Della Notte",
         "url": "https://open.spotify.com/album/1hvbFj46hmNAwetX2iQdTp"
@@ -1197,7 +1393,7 @@
       "url": "https://open.spotify.com/track/49TbrhhHfBrArjFW4fxL1y"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Remixes Reworked, EP 2",
         "url": "https://open.spotify.com/album/2ZJi2RVw13mVoOjDRXgWco"
@@ -1225,7 +1421,7 @@
       "url": "https://open.spotify.com/track/2KlceNytPzYWN0sjGwmi4Y"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Parappow",
         "url": "https://open.spotify.com/album/445Ue2ml90pWcHh2egQmxE"
@@ -1249,7 +1445,7 @@
       "url": "https://open.spotify.com/track/0DahMgYVKXWjey246ShIpG"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "La v\u00e9rit\u00e9 - EP",
         "url": "https://open.spotify.com/album/5ZirtZDSjScU6GJxVxIQXJ"
@@ -1265,7 +1461,7 @@
       "url": "https://open.spotify.com/track/1olkSxl7smVpgNZzFSWT5S"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Live Together",
         "url": "https://open.spotify.com/album/5mUYtm2hQszSG92rev3ejK"
@@ -1281,7 +1477,7 @@
       "url": "https://open.spotify.com/track/3zk5JgFAFu8l6pNJ6p5ouI"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "La La Land",
         "url": "https://open.spotify.com/album/3B6zro5mGUn8HvzO0odvyK"
@@ -1297,7 +1493,7 @@
       "url": "https://open.spotify.com/track/33BwJL3RsOtnzNq3u6sTAB"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Bad Decisions (Remixes)",
         "url": "https://open.spotify.com/album/6Q04p0pmhO1yGB4Y4okPEh"
@@ -1317,7 +1513,7 @@
       "url": "https://open.spotify.com/track/0m902KgphfY1cKdWmxNGPX"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Don Dadda",
         "url": "https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6"
@@ -1337,7 +1533,7 @@
       "url": "https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU"
     },
     {
-      "added_at": "2026-03-09 09:43:20",
+      "added_at": "2026-10-15 22:01:39",
       "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip"

@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: rhodessa
 
-363 songs - 21 hr 30 min
+364 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-21 | 2024-04-03 |
 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 | 2025-03-27 | 2026-04-07 |
+| [Trisikulo](https://open.spotify.com/track/5ZOcgcOuMamz9I4DscdCs8) | [Ziv](https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t), [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Trisikulo](https://open.spotify.com/album/2LBma9pugz4QM1btCzMYjG) | 2:49 | 2026-10-16 |  |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2025-03-27 | 2026-04-07 |
 | [Tumesting Ka](https://open.spotify.com/track/69b2CdT6PY3d7v5nBEAvjw) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Tumesting Ka](https://open.spotify.com/album/5kud3utN64wrye9dxwRSU3) | 1:54 | 2025-03-27 | 2026-04-07 |
 | [Tumitigil Ang Mundo](https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Tumitigil Ang Mundo](https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj) | 4:07 | 2022-07-15 | 2022-12-01 |

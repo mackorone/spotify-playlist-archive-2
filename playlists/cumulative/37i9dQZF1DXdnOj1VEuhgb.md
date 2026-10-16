@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Joker
 
-1,174 songs - 2 day 4 hr 10 min
+1,175 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [FLAŞ!](https://open.spotify.com/track/7DvJYWBoGx4fSuw1IG4IK2) | [ÖTE](https://open.spotify.com/artist/49z6dTtf30rgYZ6qkvPbkD) | [SES](https://open.spotify.com/album/7DJy7OjpsP7aQLpzviQqID) | 2:20 | 2026-08-27 | 2026-09-15 |
 | [FLEX](https://open.spotify.com/track/6Cd4tpGCTQnxkKVWsy6AUA) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [FLEX](https://open.spotify.com/album/4bAamQMysxekb1UJ7nGR7G) | 3:16 | 2026-08-20 | 2026-09-29 |
 | [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 | 2023-01-10 | 2023-06-16 |
-| [FOTO](https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [FOTO](https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me) | 2:10 | 2026-07-30 |  |
+| [FOTO](https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [FOTO](https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me) | 2:10 | 2026-07-30 | 2026-10-16 |
 | [FRED PERRY](https://open.spotify.com/track/4AmLGwWkeiclifE1qA74oL) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [FRED PERRY](https://open.spotify.com/album/7J5FLyFC5XDgLyMeHDhOFP) | 1:50 | 2026-06-11 | 2026-06-26 |
 | [Fred Çakmaktaş](https://open.spotify.com/track/1x0lpjMOS245apC6cekxuy) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Silah Gibi](https://open.spotify.com/album/4ktOuEyfPqsFTxNupKdXoV) | 3:25 | 2024-01-18 | 2024-02-16 |
 | [Fıstık](https://open.spotify.com/track/6NUuqQJoZQULg0kX4wo1gL) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Fıstık](https://open.spotify.com/album/5BB0Bx6pmN3YknwBkF6rAU) | 1:59 | 2023-07-13 | 2023-08-11 |
@@ -531,6 +531,7 @@
 | [İnte Kalbi](https://open.spotify.com/track/2sVErvNVhO6MzYeTqkj2LJ) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [İnte Kalbi](https://open.spotify.com/album/29U0KMw89nokmLRxYBbmET) | 2:14 | 2026-04-23 | 2026-05-08 |
 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-03-16 | 2023-08-11 |
 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-06-18 | 2025-02-14 |
+| [İSMET](https://open.spotify.com/track/0ly64DlojMgv0m82OmAaro) | [Keişan](https://open.spotify.com/artist/5Pd3tsRa9fj2Q3JPQ0tYEv), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [İSMET](https://open.spotify.com/album/2sVIVKcO5fMc7557L85kPU) | 2:36 | 2026-10-15 |  |
 | [İstanbul](https://open.spotify.com/track/1XbcUEDgr6PARv1nqCGSjR) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [PAGE](https://open.spotify.com/artist/3k80flpfCSGhpLBtUsm2pN) | [İstanbul](https://open.spotify.com/album/0U5lnIDiNLHAgF5MtXB7BQ) | 2:42 | 2024-12-12 | 2024-12-27 |
 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 | 2024-01-05 | 2024-03-08 |
 | [İSTANBUL](https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İSTANBUL](https://open.spotify.com/album/4NyR5G4ZqFgBn3Xst6NCV8) | 3:04 | 2024-01-25 | 2024-02-16 |

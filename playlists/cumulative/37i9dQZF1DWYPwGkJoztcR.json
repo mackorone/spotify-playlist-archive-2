@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
+    },
+    {
+      "album": {
         "name": "goodbye",
         "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180177,
       "name": "Just Another Road",
       "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
@@ -2010,6 +2028,24 @@
       "duration_ms": 153880,
       "name": "Magnetic Fields",
       "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
+    },
+    {
+      "album": {
+        "name": "Make It A Better Place",
+        "url": "https://open.spotify.com/album/42jISsT0BzDHJZRKclpuBs"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Make It A Better Place",
+      "url": "https://open.spotify.com/track/2Ylixb6RYn2zi8KfO56bgI"
     },
     {
       "album": {
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 248019,
       "name": "Woman",
       "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"

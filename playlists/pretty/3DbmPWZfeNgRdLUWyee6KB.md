@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 139 songs - 8 hr 8 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 143 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 137 | [Better \- Acoustic](https://open.spotify.com/track/7ALzwV00n3SoxEjjvyfO13) | [Nana Elan](https://open.spotify.com/artist/0kzPNnI3XMmI9Fd76tSx6m) | [Love Drain](https://open.spotify.com/album/0HGcgPhdIYu2BAiCd4gJZ4) | 2:24 |
 | 138 | [I'm Tired of Being Strong](https://open.spotify.com/track/063EkEISzzT4rR869svQ9H) | [Leo Foz](https://open.spotify.com/artist/0VcS8qkGSqi4wqIqt2Yljh) | [I'm Tired of Being Strong](https://open.spotify.com/album/6F8WG3MJW883ktG1hTt6Rp) | 3:12 |
 | 139 | [Bad News Bear](https://open.spotify.com/track/06gijoAL4er9g0FWqWUrsL) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Bad News Bear](https://open.spotify.com/album/6STKhZJUlBl6aKEyxXvlkq) | 4:16 |
+| 140 | [Sukoon](https://open.spotify.com/track/4IBp7JwMMjXmGkEi8WT4X0) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Sukoon](https://open.spotify.com/album/4MliQdjQcDXA4wUxi5iGVP) | 4:40 |
+| 141 | [Tell Me What You Need](https://open.spotify.com/track/6lNrMjZ13e2RT48UqO6sBX) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [My Heart Don't Listen](https://open.spotify.com/album/6uyxE9AkclfxwkZyvNfuji) | 3:26 |
+| 142 | [the plot](https://open.spotify.com/track/0byJTjjV8MGyxGrg7KKc6m) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [the plot](https://open.spotify.com/album/7rCfpT9ro31RR4vZ0e4oAs) | 4:52 |
+| 143 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 |
 
-Snapshot ID: `AAAYqSyYYV8vj2FMnMq9fXtlyKP91Pqb`
+Snapshot ID: `AAAYrat/F2AehOIdQUxm+NY9aoDLwbxZ`

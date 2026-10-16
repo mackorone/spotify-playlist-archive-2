@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122499,
+  "num_followers": 122475,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV1qxt0MEgCUbyGyaz6bZpEYO+Ez65",
+  "snapshot_id": "AAAV17gq2mT4PFFjeGOfY4MjFT5gwb96",
   "tracks": [
+    {
+      "added_at": "2026-10-15 13:58:24",
+      "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ"
+    },
     {
       "added_at": "2026-10-14 14:27:41",
       "album": {

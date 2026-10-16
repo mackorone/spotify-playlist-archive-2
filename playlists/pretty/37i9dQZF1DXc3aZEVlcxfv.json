@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22172,
+  "num_followers": 22174,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRwRV36E9v8e07bx6sUJZ0H/0bP",
+  "snapshot_id": "AAAAAKf4Qy2wZPrYBUtKB0+4tvLMzcVM",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
-      "added_at": "2026-01-09 00:01:29",
-      "album": {
-        "name": "With My Name",
-        "url": "https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 221743,
-      "name": "With My Name",
-      "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
-    },
-    {
       "added_at": "2025-02-14 00:01:09",
       "album": {
         "name": "Future Now",
@@ -487,6 +471,22 @@
       "duration_ms": 362553,
       "name": "I Testify",
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
+    },
+    {
+      "added_at": "2026-01-09 00:01:29",
+      "album": {
+        "name": "With My Name",
+        "url": "https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 221743,
+      "name": "With My Name",
+      "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
+      "added_at": "2026-09-25 00:01:24",
+      "album": {
+        "name": "MY GOD, YOU ARE GOOD",
+        "url": "https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 488149,
+      "name": "MY GOD, YOU ARE GOOD",
+      "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
+    },
+    {
       "added_at": "2025-03-14 00:01:27",
       "album": {
         "name": "Your Love",
@@ -563,22 +579,6 @@
       "duration_ms": 233135,
       "name": "Your love",
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
-    },
-    {
-      "added_at": "2026-09-25 00:01:24",
-      "album": {
-        "name": "MY GOD, YOU ARE GOOD",
-        "url": "https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 488149,
-      "name": "MY GOD, YOU ARE GOOD",
-      "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
     },
     {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "No Other Saviour",
+        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 1026979,
+      "name": "No Other Saviour",
+      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
+    },
+    {
       "added_at": "2026-09-25 00:01:24",
       "album": {
         "name": "Already Loved",
@@ -715,22 +731,6 @@
       "duration_ms": 419027,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
-    },
-    {
-      "added_at": "2026-10-09 00:01:36",
-      "album": {
-        "name": "No Other Saviour",
-        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 1026979,
-      "name": "No Other Saviour",
-      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
       "added_at": "2025-12-19 00:01:10",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "Want to Grow",
@@ -865,6 +849,22 @@
       "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
+    },
+    {
       "added_at": "2026-09-18 00:01:36",
       "album": {
         "name": "Nothing Spoils in my Hand",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
+    },
+    {
       "added_at": "2026-01-23 00:01:16",
       "album": {
         "name": "ENOUGH FOR ME",
@@ -915,22 +931,6 @@
       "duration_ms": 580500,
       "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
-    },
-    {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2026-08-14 00:01:28",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
-    },
-    {
       "added_at": "2026-10-02 00:01:17",
       "album": {
         "name": "When I Walk (Psalm 23) [World Version]",
@@ -1077,20 +1061,20 @@
       "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
-      "added_at": "2026-08-14 00:01:28",
+      "added_at": "2025-02-14 00:01:09",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 442538,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": "2026-08-28 00:01:38",
@@ -1107,6 +1091,22 @@
       "duration_ms": 229120,
       "name": "how can it be?",
       "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1165,26 +1165,6 @@
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
-      "added_at": "2025-11-07 00:01:42",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm"
-      },
-      "artists": [
-        {
-          "name": "Awesome Madu",
-          "url": "https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8"
-        },
-        {
-          "name": "Hi-Bred",
-          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
-        }
-      ],
-      "duration_ms": 193422,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
-    },
-    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "My Daddy Loves Me",
@@ -1223,6 +1203,26 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "added_at": "2025-11-07 00:01:42",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm"
+      },
+      "artists": [
+        {
+          "name": "Awesome Madu",
+          "url": "https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8"
+        },
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        }
+      ],
+      "duration_ms": 193422,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -1269,26 +1269,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-02-20 00:01:25",
-      "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
-      },
-      "artists": [
-        {
-          "name": "Yinka Okeleye",
-          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
-        },
-        {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
-        }
-      ],
-      "duration_ms": 381970,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -1307,6 +1287,26 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
+      },
+      "artists": [
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        },
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        }
+      ],
+      "duration_ms": 381970,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
       "added_at": "2026-08-14 00:01:28",
@@ -1345,10 +1345,10 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
+      "added_at": "2026-10-09 00:01:36",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5"
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
       },
       "artists": [
         {
@@ -1356,17 +1356,33 @@
           "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
         },
         {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Johay",
-          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
         }
       ],
-      "duration_ms": 193658,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
+      "duration_ms": 141818,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
+    },
+    {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "MY LOVE",
+        "url": "https://open.spotify.com/album/0qlVGbPbFM5vQzNPM0dRjz"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "duration_ms": 181232,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1405,42 +1421,6 @@
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
-      },
-      "artists": [
-        {
-          "name": "Hope Philipz",
-          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
-    },
-    {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "MY LOVE",
-        "url": "https://open.spotify.com/album/0qlVGbPbFM5vQzNPM0dRjz"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ahonen",
-          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
-        },
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        }
-      ],
-      "duration_ms": 181232,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"
-    },
-    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "K'OSENI",
@@ -1455,6 +1435,46 @@
       "duration_ms": 187826,
       "name": "K'OSENI",
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+    },
+    {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Johay",
+          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
+      },
+      "artists": [
+        {
+          "name": "Hope Philipz",
+          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
     },
     {
       "added_at": "2026-05-29 00:01:36",
@@ -1477,6 +1497,26 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "Tinotenda",
+        "url": "https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 190865,
+      "name": "Tinotenda",
+      "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
+    },
+    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1495,42 +1535,6 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
-    },
-    {
-      "added_at": "2026-09-11 00:01:55",
-      "album": {
-        "name": "Gata 2 (Gospel According to Amapiano)",
-        "url": "https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "I Am Blessed - Amapiano",
-      "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
-    },
-    {
-      "added_at": "2026-10-09 00:01:36",
-      "album": {
-        "name": "Soji",
-        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
-      },
-      "artists": [
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Denzel Rocks",
-          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Soji",
-      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     }
   ],
   "unique_name": "Blessed",

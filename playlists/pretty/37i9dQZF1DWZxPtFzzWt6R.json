@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115730,
+  "num_followers": 115747,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Encontrar Meu Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 172487,
       "name": "Encontrar Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Vou Embora pro C\u00e9u",
         "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 214786,
       "name": "Vou Embora pro C\u00e9u",
       "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -939,8 +939,8 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Ref\u00e9m do Caminh\u00e3o",
-        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD"
       },
       "artists": [
         {
@@ -948,13 +948,13 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
         }
       ],
-      "duration_ms": 276088,
-      "name": "Ref\u00e9m do Caminh\u00e3o",
-      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
+      "duration_ms": 184483,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD"
+        "name": "Ref\u00e9m do Caminh\u00e3o",
+        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
       },
       "artists": [
         {
@@ -1080,13 +1080,13 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
         }
       ],
-      "duration_ms": 184483,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT"
+      "duration_ms": 276088,
+      "name": "Ref\u00e9m do Caminh\u00e3o",
+      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     }
   ],
   "unique_name": "Sertanejo Religioso",

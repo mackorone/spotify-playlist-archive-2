@@ -17895,6 +17895,24 @@
     },
     {
       "album": {
+        "name": "Hard to Kill",
+        "url": "https://open.spotify.com/album/3Ra9lGcR2g1edYL8txyKDq"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "Freaky Girl",
+      "url": "https://open.spotify.com/track/5wTV2aPLlM3nB3GmEMiXZb"
+    },
+    {
+      "album": {
         "name": "Back to the Traphouse",
         "url": "https://open.spotify.com/album/5bq0rBzgv7bJEwn76KfHBF"
       },

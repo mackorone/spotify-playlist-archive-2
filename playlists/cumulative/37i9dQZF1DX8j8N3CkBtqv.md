@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring W.i.S.H., Aanchal Tyagi, KhoslaRaghu and other exciting artists.
 
-1,630 songs - 3 day 17 hr 50 min
+1,631 songs - 3 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [Maze / Haze](https://open.spotify.com/track/5wrBB8f4odV2bsjd8uIvoP) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq) | [Maze / Haze](https://open.spotify.com/album/42jBbohhJCA97YWTwv51GW) | 1:49 | 2023-07-07 | 2023-08-05 |
 | [Mazhabon](https://open.spotify.com/track/0rnpWXyHwDb4fwkNub56B9) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Mazhabon](https://open.spotify.com/album/24MOF0Aw8hHKAxt6WEhH7v) | 4:03 | 2024-09-13 | 2024-10-12 |
 | [Meena Bazaar](https://open.spotify.com/track/6zbiXI7GAeG23AIG7ocSdC) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Meena Bazaar](https://open.spotify.com/album/5qpD2yDln9a0BopzZGefKR) | 2:17 | 2026-06-12 | 2026-09-05 |
+| [Megha](https://open.spotify.com/track/2s9RRsZrdaZ3wtOiGYhjvJ) | [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj) | [Megha](https://open.spotify.com/album/4QfpymJ8f95Fs6lfD1VcLi) | 3:24 | 2026-10-09 |  |
 | [Mehfilein](https://open.spotify.com/track/0PHoyLbOsXTV8jtD7fWZKr) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p) | [Mehfilein](https://open.spotify.com/album/2X8DlB3za1eLymLoI0PqAJ) | 3:17 | 2024-04-19 | 2024-06-29 |
 | [Mehfooz](https://open.spotify.com/track/63PBLCusJc0ZMaKSA0pfex) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mehfooz](https://open.spotify.com/album/774XcXabwenOF4KYWhy9xe) | 2:40 | 2024-11-08 | 2024-11-30 |
 | [MEHFOOZ](https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [MEHFOOZ](https://open.spotify.com/album/47M5qZnaJ8bKLBhEHj5hII) | 3:01 | 2024-09-06 | 2024-10-19 |
@@ -1600,7 +1601,7 @@
 | [Yaar Mila Ve](https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Yaar Mila Ve](https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf) | 2:31 | 2024-09-13 | 2024-10-26 |
 | [Yaara Ve](https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF) | [Yaara Ve](https://open.spotify.com/album/7uK9M1tHaA3FZ0rlEDYHVx) | 3:15 | 2024-08-09 | 2024-09-13 |
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-02 |
-| [Yahan Pe Sirf Mai Hun](https://open.spotify.com/track/5Ozrr8yOw3BkS3EawFPFuK) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Aman Sharma](https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200) | [Yahan Pe Sirf Mai Hun](https://open.spotify.com/album/1lHhXKYyRe390gaMivF82L) | 3:37 | 2026-09-25 |  |
+| [Yahan Pe Sirf Mai Hun](https://open.spotify.com/track/5Ozrr8yOw3BkS3EawFPFuK) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Aman Sharma](https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200) | [Yahan Pe Sirf Mai Hun](https://open.spotify.com/album/1lHhXKYyRe390gaMivF82L) | 3:37 | 2026-09-25 | 2026-10-16 |
 | [Yahin Toh Hai Woh](https://open.spotify.com/track/7rvT0gGYSGY6MEps4mkiw3) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:00 | 2024-08-30 | 2024-10-12 |
 | [Ye Lo](https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Ye Lo](https://open.spotify.com/album/3bY5IS2Ai41yYscIoDvuND) | 5:19 | 2025-07-11 | 2025-08-08 |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-03-09 |

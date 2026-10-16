@@ -4,7 +4,7 @@
 
 > Niños Del Cerro en portada.
 
-620 songs - 1 day 13 hr 17 min
+622 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-02-24 | 2025-08-02 |
 | [cuando pienses en el destino](https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 3:45 | 2023-11-24 | 2026-07-25 |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-04-15 | 2022-07-29 |
-| [Cuando Vas al Trabajo](https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Cuando Vas al Trabajo](https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94) | 2:40 | 2026-10-09 |  |
+| [Cuando Vas al Trabajo](https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Cuando Vas al Trabajo](https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94) | 2:40 | 2026-10-09 | 2026-10-16 |
+| [Cuando Vas al Trabajo](https://open.spotify.com/track/6RKdQouZq9VAFLGkOSapv8) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Algunos Apuntes Sobre La Sociedad Pastoril](https://open.spotify.com/album/62Rfdbq3ZoRrIYLbGWWM4K) | 2:40 | 2026-10-15 |  |
 | [Cuotas](https://open.spotify.com/track/7pRYt9hsBvUjdiWFGKigld) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Hecho en Casa](https://open.spotify.com/album/3p2eoHbgQS5XRCxUPWLfs1) | 4:12 | 2022-04-15 | 2022-12-10 |
 | [Cuándo y Dónde](https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Luz Elena Mendoza](https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv) | [Cuándo y Dónde](https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf) | 3:14 | 2024-08-23 | 2026-07-25 |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-04-15 | 2022-12-10 |
@@ -327,6 +328,7 @@
 | [Maricoteca](https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Maricoteca](https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu) | 3:42 | 2022-11-11 | 2024-06-08 |
 | [Mariposa](https://open.spotify.com/track/2E6V7cwXI10QywIhZfpev9) | [Hesse Kassel](https://open.spotify.com/artist/5H88ECGf9hb6CqElLAKgld) | [Morir Saltando](https://open.spotify.com/album/4kjGLSRCXMMy6sCnz4bwpL) | 6:03 | 2026-07-17 | 2026-07-25 |
 | [María Lionza](https://open.spotify.com/track/5B0qBy4MF9qJgVr7TW4Mn0) | [Yucatán](https://open.spotify.com/artist/60zr13Q20Zu7kY7yxQZmkA) | [María Lionza](https://open.spotify.com/album/4nEBpk6jdnA40N0XJJHRqE) | 3:22 | 2026-07-24 |  |
+| [Mateluna](https://open.spotify.com/track/1Viv9SMfWjbaTQ0yDQjbxG) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Algunos Recuerdos \(archivos y rarezas\)](https://open.spotify.com/album/3w8OrFm3pUFjwsmAu85VZ5) | 3:07 | 2026-10-15 |  |
 | [Me Asusta Amar Tanto la Soledad](https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Me Asusta Amar Tanto la Soledad](https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs) | 3:22 | 2026-01-30 | 2026-07-25 |
 | [Me Derretí](https://open.spotify.com/track/0eGzggbKVakRzwysJ9jSzT) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR) | [Me Derretí](https://open.spotify.com/album/7kGWmW0hpfvVMEmAgzgX5H) | 3:41 | 2025-02-14 | 2026-07-25 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-04-15 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Leto",
+  "description": "Photo : Gambi",
   "name": "Best Life",
   "tracks": [
     {
@@ -964,7 +964,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152750,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/5aYvQs8EzhOLTfQyJ2qiJ1"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 144880,
       "name": "CATIMINI",
       "url": "https://open.spotify.com/track/7zEHWvanE9NZrcz92U6QAT"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157570,
       "name": "Comme un Sheguey",
       "url": "https://open.spotify.com/track/1lnqHtvkO4NN2cZU0ayeA1"
@@ -5107,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/4d6UPuzH7S5hZhaWqQZ2U9"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193072,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/1ixnGkLXZJuEueqJioIjmm"
+    },
+    {
+      "album": {
         "name": "HASTA LA VISTA",
         "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
       },
@@ -5122,6 +5140,24 @@
       "duration_ms": 199666,
       "name": "HASTA LA VISTA",
       "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "album": {
+        "name": "HIJAMA",
+        "url": "https://open.spotify.com/album/4g48Agw3s2L9NaMY3MUz25"
+      },
+      "artists": [
+        {
+          "name": "2zg",
+          "url": "https://open.spotify.com/artist/362uHPHfDmbmnXTy3w8ro4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163361,
+      "name": "HIJAMA",
+      "url": "https://open.spotify.com/track/5SUCtEDFYS3LzvkgdYYlGc"
     },
     {
       "album": {
@@ -5835,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "KITTEN HEELS",
+        "url": "https://open.spotify.com/album/4JyD5avC00MCVjxw0WwG5u"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "KITTEN HEELS",
+      "url": "https://open.spotify.com/track/1OXvj2IxNvQTXC87M5g8kX"
+    },
+    {
+      "album": {
         "name": "KONGOLESE SOUS BBL",
         "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
       },
@@ -6058,7 +6112,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153489,
       "name": "La porte",
       "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
@@ -6466,7 +6520,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193914,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/0qW7TuFAr8erCQRcnbFXtE"
@@ -8048,7 +8102,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 162519,
       "name": "Ngami Amich\u00e9",
       "url": "https://open.spotify.com/track/7ouRHt3TSDAqSiRJOGNlw4"
@@ -8833,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "PAPILLON",
+        "url": "https://open.spotify.com/album/1L07dcPZtI9eVu4tPylTtD"
+      },
+      "artists": [
+        {
+          "name": "GIGIO",
+          "url": "https://open.spotify.com/artist/5QB62hs2rcNhER3gHzKIcg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "PAPILLON",
+      "url": "https://open.spotify.com/track/1LYPU9jseBsrW8LMNrInLT"
+    },
+    {
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5k2ytou7kc4qjcmQQ0uaRr"
       },
@@ -8884,7 +8956,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220546,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/7sezSNKkQvBhO4OegNAYcs"
@@ -9026,6 +9098,28 @@
       "duration_ms": 108576,
       "name": "PAS COMME LES AUTRES",
       "url": "https://open.spotify.com/track/7IhB9WKWuEISgm34K2R9no"
+    },
+    {
+      "album": {
+        "name": "Pas d'probl\u00e8mes",
+        "url": "https://open.spotify.com/album/0G9e3wiB41FKHJ1fIgUkEk"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170457,
+      "name": "Pas d'probl\u00e8mes",
+      "url": "https://open.spotify.com/track/7rtEzMhr9ZRYUTXJKd6xLc"
     },
     {
       "album": {
@@ -9434,6 +9528,24 @@
       "duration_ms": 130000,
       "name": "Pilotis",
       "url": "https://open.spotify.com/track/12UNec5WzLuCOBIgoMGsoq"
+    },
+    {
+      "album": {
+        "name": "PIM-POM",
+        "url": "https://open.spotify.com/album/0CBb5Veywoh5Y2JJhhW0ik"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181992,
+      "name": "PIM-POM",
+      "url": "https://open.spotify.com/track/0nlj45CVvJ8mo0jebkH01p"
     },
     {
       "album": {
@@ -10064,7 +10176,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 163000,
       "name": "Rek",
       "url": "https://open.spotify.com/track/4QCBVk0hoDdy9Hukn7r6fF"
@@ -12192,6 +12304,24 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+    },
+    {
+      "album": {
+        "name": "carpaccio",
+        "url": "https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw"
     },
     {
       "album": {

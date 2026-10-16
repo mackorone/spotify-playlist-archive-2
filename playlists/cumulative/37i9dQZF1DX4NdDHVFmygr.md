@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Stormy
+> Les hits marocains du moment\. Cover: Draganov
 
 547 songs - 1 day 5 hr 2 min
 

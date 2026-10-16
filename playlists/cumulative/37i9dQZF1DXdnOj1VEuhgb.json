@@ -7494,7 +7494,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 130285,
       "name": "FOTO",
       "url": "https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC"
@@ -10848,6 +10848,28 @@
       "duration_ms": 128000,
       "name": "\u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS"
+    },
+    {
+      "album": {
+        "name": "\u0130SMET",
+        "url": "https://open.spotify.com/album/2sVIVKcO5fMc7557L85kPU"
+      },
+      "artists": [
+        {
+          "name": "Kei\u015fan",
+          "url": "https://open.spotify.com/artist/5Pd3tsRa9fj2Q3JPQ0tYEv"
+        },
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "\u0130SMET",
+      "url": "https://open.spotify.com/track/0ly64DlojMgv0m82OmAaro"
     },
     {
       "album": {

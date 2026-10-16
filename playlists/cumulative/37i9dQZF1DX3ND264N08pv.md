@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-465 songs - 1 day 0 hr 48 min
+466 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 | 2025-07-01 | 2026-03-31 |
 | [Hard Knock Life](https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Hard Knock Life](https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ) | 3:35 | 2022-12-08 | 2023-12-22 |
 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 | 2026-03-20 |  |
+| [Hardcore Beats From Rotterdam](https://open.spotify.com/track/7usVPjZDEosoj3CoDXglWj) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Hardcore Beats From Rotterdam](https://open.spotify.com/album/76fLI6l27BLhZeTqv65KwQ) | 3:41 | 2026-10-15 |  |
 | [Hardcore By Nature \(Official Titanium Festival 2022 Anthem\) \- Radio Edit](https://open.spotify.com/track/4Vss1bAPHkVTVbxURknLwL) | [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Hardcore By Nature](https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ) | 3:21 | 2022-12-08 | 2023-06-30 |
 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 | 2024-09-10 |
 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-01-24 | 2025-04-26 |
@@ -243,7 +244,7 @@
 | [Lose My Mind](https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Lose My Mind](https://open.spotify.com/album/5NK6a73PWXffL6PzUeMNIf) | 3:02 | 2026-03-20 | 2026-06-02 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
 | [Love me again](https://open.spotify.com/track/601Ve74IypElO6ptmCvr9C) | [Jordanx](https://open.spotify.com/artist/4BLx1tjsJATdjBdkvl3m1p) | [Love me again](https://open.spotify.com/album/2SbFIaFMdkSR3TMAw2QpbI) | 2:00 | 2026-09-15 |  |
-| [Love The Way You Lie](https://open.spotify.com/track/6DD7Ko5QhfNMmqmYPUhJNn) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Love The Way You Lie](https://open.spotify.com/album/5oJIJpryAfPfyyc52olHAv) | 3:39 | 2026-09-07 |  |
+| [Love The Way You Lie](https://open.spotify.com/track/6DD7Ko5QhfNMmqmYPUhJNn) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Love The Way You Lie](https://open.spotify.com/album/5oJIJpryAfPfyyc52olHAv) | 3:39 | 2026-09-07 | 2026-10-16 |
 | [Loyal to the Game](https://open.spotify.com/track/7wIuIs7P8QOPaASnFhnxt0) | [Tensor & Re\-Direction](https://open.spotify.com/artist/2M1ImrPjIvIYkPqnupYXHP), [Dj Ron](https://open.spotify.com/artist/4K7cOE9EnsUMPclHZt8VlN), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Loyal to the Game](https://open.spotify.com/album/6sPZpaF8IZRxdmDnSFTweN) | 3:01 | 2026-03-06 | 2026-03-31 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,704 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,712 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WARHORN \(E1: To War We Go\)](https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [WARHORN \(E1: To War We Go\)](https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q) | 3:46 |
 | 2 | [Magic Key](https://open.spotify.com/track/3qNzpMWBWbm3MGAL92ffNm) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Magic Key](https://open.spotify.com/album/1fRDbBtJoR11bq9UTGEML2) | 2:37 |
 | 3 | [WORK!](https://open.spotify.com/track/1PEnlGgCV27weSdrCubadg) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [WORK!](https://open.spotify.com/album/0qgkOLybvh0tiGxyEz0TX3) | 2:28 |
-| 4 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 |
-| 5 | [Wonderful Days Reloaded](https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232) | [Wonderful Days Reloaded](https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC) | 2:58 |
+| 4 | [Wonderful Days Reloaded](https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232) | [Wonderful Days Reloaded](https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC) | 2:58 |
+| 5 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 |
 | 6 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
 | 7 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 |
 | 8 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
 | 50 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `as10gAAAAAAoYXkjjlmjYIArm6N2+VuR`
+Snapshot ID: `as7GAAAAAACz5aAJqHnKB6KeaJBCjY2b`

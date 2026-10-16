@@ -12825,6 +12825,24 @@
     },
     {
       "album": {
+        "name": "What You Got?",
+        "url": "https://open.spotify.com/album/5oulQkpVNFd7wVrLFc71ga"
+      },
+      "artists": [
+        {
+          "name": "Baizyeah",
+          "url": "https://open.spotify.com/artist/5q5qxjk6S64TT57OYKRDMd"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "What You Got?",
+      "url": "https://open.spotify.com/track/21cPg2ceTdGUKBaqntM2y4"
+    },
+    {
+      "album": {
         "name": "WHYSHE",
         "url": "https://open.spotify.com/album/55jLv1XxqUy1FMgAUsofy6"
       },

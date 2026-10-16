@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : DRE-A",
+  "description": "Le meilleur du rap africain francophone. Photo : Himra",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 105351,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/0VlUoXTfLMHbVuJuDne2Q6"
@@ -1346,6 +1346,24 @@
     {
       "album": {
         "name": "B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6cSTZ9oQBLjxOH0wo1fWV5"
+      },
+      "artists": [
+        {
+          "name": "Devone",
+          "url": "https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/6nkbhiCzZ5wew22RDph08p"
+    },
+    {
+      "album": {
+        "name": "B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/7GiORhpifyeuEKlrSkuIoe"
       },
       "artists": [
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 188307,
       "name": "Cardiaque",
       "url": "https://open.spotify.com/track/4saPGHe9NZJkZLbcVT2rLI"
@@ -2691,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "DJAKOUTA",
+        "url": "https://open.spotify.com/album/3JYhYoY6yk9pyxVNTGvNrF"
+      },
+      "artists": [
+        {
+          "name": "Skizzo",
+          "url": "https://open.spotify.com/artist/7LUDXjoc4vNLFzNSES0Kcm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "DJAKOUTA",
+      "url": "https://open.spotify.com/track/2AltaNAwyzcctgCMn8Vqth"
+    },
+    {
+      "album": {
         "name": "Djamanan",
         "url": "https://open.spotify.com/album/5H7xOjqGNXigxGVbtapQ9L"
       },
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147695,
       "name": "FGLM",
       "url": "https://open.spotify.com/track/28OC9fRC71m4Oij5HiuHcz"
@@ -3872,7 +3908,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180500,
       "name": "GBONHI",
       "url": "https://open.spotify.com/track/2bednMcqtsuplyt4vHwLis"
@@ -4262,6 +4298,24 @@
       "duration_ms": 211069,
       "name": "Il ne s'agit que de \u00e7a",
       "url": "https://open.spotify.com/track/0EDRILx03sIkT0OdDv5coM"
+    },
+    {
+      "album": {
+        "name": "Ines",
+        "url": "https://open.spotify.com/album/7IifwbvEKfAy7IIROoPqPw"
+      },
+      "artists": [
+        {
+          "name": "STEPHEN IDOLO",
+          "url": "https://open.spotify.com/artist/65wqX8sDV2IIPUxwLJXJ4i"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179384,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/5TzZbOyVxBli5WGXG6BIO7"
     },
     {
       "album": {
@@ -5183,6 +5237,28 @@
     },
     {
       "album": {
+        "name": "L\u2019ARGENT",
+        "url": "https://open.spotify.com/album/4xB91cUo68K5ceekd14WmR"
+      },
+      "artists": [
+        {
+          "name": "ADB",
+          "url": "https://open.spotify.com/artist/3rNdf6wK0vycXyi6Di7VOL"
+        },
+        {
+          "name": "GNTIK",
+          "url": "https://open.spotify.com/artist/59AFRvLNNA4rLsQXUWIELR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145459,
+      "name": "L\u2019ARGENT",
+      "url": "https://open.spotify.com/track/1lbrQ8GuhynjZED2KDVYdI"
+    },
+    {
+      "album": {
         "name": "Ma girlfriend (feat. Chrystel)",
         "url": "https://open.spotify.com/album/6hywxYL7qefkTGWLT5KML3"
       },
@@ -5708,7 +5784,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 154500,
       "name": "MOI AU MOINS",
       "url": "https://open.spotify.com/track/7jOruMv2nUCUzjAFjCJF4Q"
@@ -5730,7 +5806,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190888,
       "name": "MOKOLOBANGO",
       "url": "https://open.spotify.com/track/4g4SQS2WcROJ8YJXJYRlID"
@@ -6006,7 +6082,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166568,
       "name": "Museli\u00e8re 3 (HURACAN)",
       "url": "https://open.spotify.com/track/4MoItzad27LjMs8zfKU0y6"
@@ -6640,6 +6716,24 @@
       "duration_ms": 145500,
       "name": "Oulala - II",
       "url": "https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5"
+    },
+    {
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
     },
     {
       "album": {
@@ -8627,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "Twrk",
+        "url": "https://open.spotify.com/album/37YPZxhP727SSQkGt0r1WV"
+      },
+      "artists": [
+        {
+          "name": "Abescar",
+          "url": "https://open.spotify.com/artist/4JFeKwBBztZykDsadklAG3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183425,
+      "name": "Twrk",
+      "url": "https://open.spotify.com/track/0nPdR6zPzCRRBP0ukdkGhE"
+    },
+    {
+      "album": {
         "name": "Juventus Nueva Era (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6wFsAMvb2JxIKvwMW1TMv9"
       },
@@ -8756,6 +8868,24 @@
       "duration_ms": 130909,
       "name": "URBAN D\u00c9CAL\u00c9 #2",
       "url": "https://open.spotify.com/track/1BFlwRDhiqQLwV39665vcf"
+    },
+    {
+      "album": {
+        "name": "Urban D\u00c9Cal\u00c9 #3",
+        "url": "https://open.spotify.com/album/2aXX01wWoQfRWejKB8yDer"
+      },
+      "artists": [
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146225,
+      "name": "Urban D\u00c9Cal\u00c9 #3",
+      "url": "https://open.spotify.com/track/3z6L17Np1W7gtOAHaGC6uj"
     },
     {
       "album": {
@@ -9214,7 +9344,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140533,
       "name": "Z\u00c9L\u00c9",
       "url": "https://open.spotify.com/track/0jLi5SgjahwWtjLpswWogi"
@@ -9236,6 +9366,28 @@
       "duration_ms": 166956,
       "name": "Z\u00c9RO",
       "url": "https://open.spotify.com/track/1rCpRaidop0h75ng6VpIDd"
+    },
+    {
+      "album": {
+        "name": "Z\u00d4R\u00d4P\u00d4T\u00d4 2.0",
+        "url": "https://open.spotify.com/album/5MF9Nakovh9cecACofwCyj"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "ANGE MOR\u20acL",
+          "url": "https://open.spotify.com/artist/797o7wsbradDDilMW0YEX2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162062,
+      "name": "Z\u00d4R\u00d4P\u00d4T\u00d4 2.0",
+      "url": "https://open.spotify.com/track/4OurdIIY6G3mU4kMr7nH7O"
     },
     {
       "album": {

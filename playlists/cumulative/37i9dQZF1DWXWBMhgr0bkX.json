@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Matt Wills & Ellie Hider",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Victor Ray",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161266,
       "name": "3 Month Mark",
       "url": "https://open.spotify.com/track/6nFHVsqOubPuqE9pA885YF"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193951,
       "name": "3 Years",
       "url": "https://open.spotify.com/track/57crF4v0kiQwuQncA0URHG"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 244526,
       "name": "Best I Can",
       "url": "https://open.spotify.com/track/08HRzux4mcLR6mtJ68EWoc"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220677,
       "name": "Broken chair",
       "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219555,
       "name": "Changing Times",
       "url": "https://open.spotify.com/track/6Oxpm6WGkdWHrojl3NmJqj"
@@ -7269,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "Inside My Mind",
+        "url": "https://open.spotify.com/album/3lAWm2kc4A3A5SLLesRagS"
+      },
+      "artists": [
+        {
+          "name": "Beattie",
+          "url": "https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232962,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/23QXuv4NHqC4TKUPLJhW4e"
+    },
+    {
+      "album": {
         "name": "Easy on My Little Heart",
         "url": "https://open.spotify.com/album/6NAo4g4qh1iXDR9fNBUi3a"
       },
@@ -8876,7 +8894,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 233330,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7pwkPTtue2UibkJ3iif32R"
@@ -9441,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "When Saturn Returns",
+        "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204845,
+      "name": "Girls Girl",
+      "url": "https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz"
+    },
+    {
+      "album": {
         "name": "MINI SKIRT WARRIOR",
         "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
       },
@@ -9672,7 +9708,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186613,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/1PgPyVgCMJa2olW1i3Hdwa"
@@ -9712,6 +9748,24 @@
       "duration_ms": 258211,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/0fuRi9qAY3ZcZOo5udQnNL"
+    },
+    {
+      "album": {
+        "name": "Good Light",
+        "url": "https://open.spotify.com/album/6HaelxqjtVMzcpSs6O2GjA"
+      },
+      "artists": [
+        {
+          "name": "Bash Croft",
+          "url": "https://open.spotify.com/artist/0z6dMH7qcKgqKnJy4j9nil"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Good Light",
+      "url": "https://open.spotify.com/track/1k72oFz1g4x52G2YcOoT8z"
     },
     {
       "album": {
@@ -11103,6 +11157,24 @@
     },
     {
       "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "album": {
         "name": "HOT PEOPLE MAKE HOT MUSIC",
         "url": "https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W"
       },
@@ -11593,6 +11665,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want It",
+        "url": "https://open.spotify.com/album/1T8cODENqkwhvvnGLM5Zc3"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239052,
+      "name": "I Don't Want It",
+      "url": "https://open.spotify.com/track/2jXxvzuqRPCIYURiB0ydex"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Really Blame You",
         "url": "https://open.spotify.com/album/6JOiJHYXmU3Vb03dOROi9h"
       },
@@ -11712,7 +11802,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 230000,
       "name": "I HATE YOU DON'T LEAVE ME !",
       "url": "https://open.spotify.com/track/2nZFXBGRt0j2OidpbhDhNn"
@@ -12807,6 +12897,24 @@
     },
     {
       "album": {
+        "name": "Irrevocably Changed",
+        "url": "https://open.spotify.com/album/2b2o4kXt4Wn3RN0Sosxwdi"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293237,
+      "name": "Irrevocably Changed",
+      "url": "https://open.spotify.com/track/5pN9DaWcBU9PFY766pjVW2"
+    },
+    {
+      "album": {
         "name": "A Modern Girl (Deluxe)",
         "url": "https://open.spotify.com/album/7uMEGzzZzyGNI2fiDq9WIb"
       },
@@ -12818,7 +12926,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 247748,
       "name": "Is Love Real?",
       "url": "https://open.spotify.com/track/6N2u2q9VaJ8qDKiApORB7H"
@@ -13621,6 +13729,24 @@
     },
     {
       "album": {
+        "name": "Knockin' On Wood",
+        "url": "https://open.spotify.com/album/39gyA541xVESVqk80HvtNc"
+      },
+      "artists": [
+        {
+          "name": "JP O'Grady",
+          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Knockin\u2019 On Wood",
+      "url": "https://open.spotify.com/track/5FOMmRwn03ZwOfVDfQbkx8"
+    },
+    {
+      "album": {
         "name": "Know How It Hurts",
         "url": "https://open.spotify.com/album/6q5b2ooIGg1oPlxD969M9l"
       },
@@ -14147,6 +14273,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/1SBX6cfG6h2JrAsTqL0ZTb"
+      },
+      "artists": [
+        {
+          "name": "roman",
+          "url": "https://open.spotify.com/artist/0n8Tw6tFO2hKvVl4KdzOa6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188864,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/7vaL1B3FbHn9xmBOxNDfrp"
+    },
+    {
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/5DIKYxgZ1Js1zpjZmL4n6c"
       },
@@ -14176,7 +14320,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 240648,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5sTcGQXd5WuW1slqxpDP0E"
@@ -14860,7 +15004,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180768,
       "name": "Love, At The End Of The World",
       "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
@@ -14878,7 +15022,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180948,
       "name": "Love?",
       "url": "https://open.spotify.com/track/4jGfEE6MN3PO492lfcz5gA"
@@ -15166,7 +15310,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219013,
       "name": "Magic For a While",
       "url": "https://open.spotify.com/track/37J3OBwpbEdRXFrr68VidR"
@@ -15692,7 +15836,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165339,
       "name": "Met my match",
       "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
@@ -17759,6 +17903,24 @@
     },
     {
       "album": {
+        "name": "I HATE YOU DON'T LEAVE ME !",
+        "url": "https://open.spotify.com/album/2yZZ6VRCMGevv7zhSTvA8m"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "PAPER MAN !",
+      "url": "https://open.spotify.com/track/6A60klhOqdxLnxzUugA5hf"
+    },
+    {
+      "album": {
         "name": "papercut",
         "url": "https://open.spotify.com/album/1fIkrh2MTVQs928bBy8AQK"
       },
@@ -18739,6 +18901,24 @@
     },
     {
       "album": {
+        "name": "I think I spoke too soon",
+        "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "Pretty girls",
+      "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
+    },
+    {
+      "album": {
         "name": "Pretty Soon",
         "url": "https://open.spotify.com/album/56sGAdK8bzLhUQeGiBBGyb"
       },
@@ -18912,7 +19092,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 174133,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/4l2yt3rEAQ6K61UjL0EwLP"
@@ -19222,7 +19402,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148541,
       "name": "Rather You Leave",
       "url": "https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU"
@@ -21582,7 +21762,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 112466,
       "name": "So Entitled",
       "url": "https://open.spotify.com/track/1Qn9D0yPJb2zre0zx8dFhW"
@@ -21986,6 +22166,24 @@
       "duration_ms": 149344,
       "name": "Spit or Kiss",
       "url": "https://open.spotify.com/track/7jWCMlmyn42w3Excc4apGd"
+    },
+    {
+      "album": {
+        "name": "Magic For a While",
+        "url": "https://open.spotify.com/album/5S5GvGgF31KP5yar8UL364"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248573,
+      "name": "Spreadsheets",
+      "url": "https://open.spotify.com/track/0gUaLYxyvx6b6bfM4Ku0YJ"
     },
     {
       "album": {
@@ -22724,7 +22922,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193628,
       "name": "SUNSHINE DAZE",
       "url": "https://open.spotify.com/track/2IHiUzrKkjiuxeyYvBdeaf"
@@ -23228,7 +23426,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150483,
       "name": "Talk Sweet",
       "url": "https://open.spotify.com/track/3qclF21Il03BYepEmewZwl"
@@ -23250,6 +23448,24 @@
       "duration_ms": 212009,
       "name": "Talking To Jesus",
       "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
+    },
+    {
+      "album": {
+        "name": "Talking To Talk",
+        "url": "https://open.spotify.com/album/2rxNjRNtVZeO24p0y49jDN"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Talking To Talk",
+      "url": "https://open.spotify.com/track/3ECuB4EnA3OTtgNcoIraUy"
     },
     {
       "album": {
@@ -23754,6 +23970,24 @@
       "duration_ms": 165333,
       "name": "The Late Night Feeling",
       "url": "https://open.spotify.com/track/2C91dH6N3TqZstTSvwRsVb"
+    },
+    {
+      "album": {
+        "name": "The Love After The Love of Your Life",
+        "url": "https://open.spotify.com/album/0teoZcrLE3q2BCfzDfO4gg"
+      },
+      "artists": [
+        {
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "The Love After The Love of Your Life",
+      "url": "https://open.spotify.com/track/3RRgSyVmTtnEwqWHWFcHeg"
     },
     {
       "album": {
@@ -24716,6 +24950,24 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "album": {
+        "name": "Should I block him?",
+        "url": "https://open.spotify.com/album/7nHwDJZvplX7WKGgIWZM8n"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5d6xOhSzA3cRPfrLxGNdn0"
     },
     {
       "album": {
@@ -25941,6 +26193,24 @@
     },
     {
       "album": {
+        "name": "Win, Win",
+        "url": "https://open.spotify.com/album/6d5Uml56D6vRIMxOQqgOWj"
+      },
+      "artists": [
+        {
+          "name": "Lenii",
+          "url": "https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Win, Win",
+      "url": "https://open.spotify.com/track/41pM8eLGCo5028RVqQN4vu"
+    },
+    {
+      "album": {
         "name": "windowsill",
         "url": "https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b"
       },
@@ -26576,6 +26846,24 @@
       "duration_ms": 205130,
       "name": "you ruined paris",
       "url": "https://open.spotify.com/track/3zD3520PMpHZILeOSScSGx"
+    },
+    {
+      "album": {
+        "name": "You Still Love Me Anyway",
+        "url": "https://open.spotify.com/album/4W1JzgDQTHFnENEJqkoSQd"
+      },
+      "artists": [
+        {
+          "name": "Ruby Poole",
+          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "You Still Love Me Anyway",
+      "url": "https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1054597,
+  "num_followers": 1054529,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
+      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
-      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
     },
     {
       "added_at": "2026-02-12 19:18:10",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Inevitable - En Vivo",
-      "url": "https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb"
+      "duration_ms": 249733,
+      "name": "Ciega, Sordomuda - En Vivo",
+      "url": "https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv"
     },
     {
       "added_at": "2026-02-12 19:18:10",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Ciega, Sordomuda - En Vivo",
-      "url": "https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv"
+      "duration_ms": 219466,
+      "name": "Inevitable - En Vivo",
+      "url": "https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb"
     },
     {
       "added_at": "2026-02-12 19:18:10",

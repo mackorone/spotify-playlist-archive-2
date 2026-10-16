@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25841,
+  "num_followers": 25840,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAACdylY1cyeQtbjQaHoOqScS",
+  "snapshot_id": "as7GAAAAAAChj9k8WwcccF3vJZ1KQx+A",
   "tracks": [
     {
       "added_at": null,
@@ -903,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "The Chocolate Invasion (Trax From The NPG Music Club Volume One)",
+        "url": "https://open.spotify.com/album/1v48RtdtTRvnqYVOxsj2q3"
       },
       "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 290533,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/2xh8WUGmT2Av3VwuMewcLh"
+      "duration_ms": 425586,
+      "name": "U Make My Sun Shine (feat. Angie Stone)",
+      "url": "https://open.spotify.com/track/6ucOlSv5N8sa18vJIkE7lf"
     }
   ],
   "unique_name": "This Is Angie Stone",

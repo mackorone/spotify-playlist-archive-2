@@ -1,12 +1,12 @@
 {
   "description": "welcome to our universe ft. grimes",
-  "num_followers": 1092688,
+  "num_followers": 1092669,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPyaDNqgm1vPk2/ZqgLwui8/kBpU",
+  "snapshot_id": "AAAAADbO9Scl4a+fcwW8QFbGdtlz+QcJ",
   "tracks": [
     {
       "added_at": "2026-10-08 23:00:46",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
     },
     {
+      "added_at": "2026-10-15 15:57:23",
+      "album": {
+        "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+        "url": "https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+      "url": "https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD"
+    },
+    {
       "added_at": "2026-10-08 23:00:46",
       "album": {
         "name": "evidence of you",
@@ -131,6 +147,22 @@
       "duration_ms": 255880,
       "name": "THE GOLDEN RECORD",
       "url": "https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA"
+    },
+    {
+      "added_at": "2026-10-15 15:57:23",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
     },
     {
       "added_at": "2026-10-08 23:00:46",
@@ -317,6 +349,22 @@
       "url": "https://open.spotify.com/track/1fPpjfV2kdKcxcIOa6djCt"
     },
     {
+      "added_at": "2026-10-15 15:57:23",
+      "album": {
+        "name": "Freedom of Me",
+        "url": "https://open.spotify.com/album/0uxgo6aUSnjvUt7y8NgdhG"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Freedom of Me",
+      "url": "https://open.spotify.com/track/1r0uIjzNWhD0zDpBtzQV8H"
+    },
+    {
       "added_at": "2026-10-08 23:00:46",
       "album": {
         "name": "Umami",
@@ -411,6 +459,22 @@
       "duration_ms": 215124,
       "name": "GREY",
       "url": "https://open.spotify.com/track/6hRWQS48H0n7MIaOoxVe33"
+    },
+    {
+      "added_at": "2026-10-15 15:57:23",
+      "album": {
+        "name": "bide my time",
+        "url": "https://open.spotify.com/album/3aiYOJvEpEczglmYKNVupk"
+      },
+      "artists": [
+        {
+          "name": "AMINAT",
+          "url": "https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh"
+        }
+      ],
+      "duration_ms": 161745,
+      "name": "bide my time",
+      "url": "https://open.spotify.com/track/6aZEGN4NXYPV7NUUEaDJPA"
     },
     {
       "added_at": "2026-10-08 23:00:46",

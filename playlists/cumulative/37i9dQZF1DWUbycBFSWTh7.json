@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 394838,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/4gha3RdrDG21s30NF3PTeT"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 310819,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3R5rvianKz530a3g6uKWto"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 395806,
       "name": "Dope - Rocco Rodamaal Deep Mix",
       "url": "https://open.spotify.com/track/1z3AZbkX1gANRMlSPOdOlf"
@@ -4233,6 +4233,28 @@
     },
     {
       "album": {
+        "name": "Friday To Monday",
+        "url": "https://open.spotify.com/album/3gr6xDTxVsyeFQepUeNMkX"
+      },
+      "artists": [
+        {
+          "name": "Lex (Athens)",
+          "url": "https://open.spotify.com/artist/07xgHn84Dp2AVF5tEsmGOh"
+        },
+        {
+          "name": "Boot Slap",
+          "url": "https://open.spotify.com/artist/4TiueXVHsrvr5Jo5S6x1gB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325161,
+      "name": "Friday To Monday",
+      "url": "https://open.spotify.com/track/0K7KCepByAD1IkexIx0lba"
+    },
+    {
+      "album": {
         "name": "Era E.P.",
         "url": "https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ"
       },
@@ -4976,6 +4998,24 @@
       "duration_ms": 177560,
       "name": "High School",
       "url": "https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj"
+    },
+    {
+      "album": {
+        "name": "Hive Mind (Primitive Body Dub)",
+        "url": "https://open.spotify.com/album/5yJCYNZ2M7QvJ86dspaQZk"
+      },
+      "artists": [
+        {
+          "name": "Serenda",
+          "url": "https://open.spotify.com/artist/7tStdR31umQBfAHaXhl3oh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262555,
+      "name": "Hive Mind - Primitive Body Dub",
+      "url": "https://open.spotify.com/track/17TxuInhH8QcnzTE299VcX"
     },
     {
       "album": {
@@ -13864,6 +13904,24 @@
       "duration_ms": 399360,
       "name": "What Is This",
       "url": "https://open.spotify.com/track/7wvy6ruzBPQD7wdnWRaryH"
+    },
+    {
+      "album": {
+        "name": "What U R",
+        "url": "https://open.spotify.com/album/2VHGiDI3iISHkXG31Usnr1"
+      },
+      "artists": [
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338298,
+      "name": "What U R",
+      "url": "https://open.spotify.com/track/62RZNfzhIwYa2DpLJouqZx"
     },
     {
       "album": {

@@ -919,6 +919,32 @@
     },
     {
       "album": {
+        "name": "Helluva Boss: Season Three, Part 1 (Episodes 1-3)",
+        "url": "https://open.spotify.com/album/3jWn7EGc5KAaLeVz9sAaIM"
+      },
+      "artists": [
+        {
+          "name": "Helluva Boss",
+          "url": "https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7"
+        },
+        {
+          "name": "Bryce Pinkham",
+          "url": "https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd"
+        },
+        {
+          "name": "Brandon Rogers",
+          "url": "https://open.spotify.com/artist/71C5XIIrFr89qg3GmOUUQf"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109166,
+      "name": "Dirty Bird",
+      "url": "https://open.spotify.com/track/7IRzBo9UvnQ4wnexEXGFR0"
+    },
+    {
+      "album": {
         "name": "Monstercat 007 - Solace",
         "url": "https://open.spotify.com/album/7dArkHuO5wkus2TJTu6Ytx"
       },

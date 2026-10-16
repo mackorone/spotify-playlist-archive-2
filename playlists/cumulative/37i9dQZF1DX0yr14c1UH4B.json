@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udfa7 cover: Amble",
+  "description": "It's all about the song \ud83c\udfa7 cover: Mathilda Homer",
   "name": "Common Thread",
   "tracks": [
     {
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183984,
       "name": "Dickhead - demo",
       "url": "https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl"
@@ -6338,7 +6338,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 217410,
       "name": "Good Guess",
       "url": "https://open.spotify.com/track/5z4z1zam5AEzXo1GtWacjP"
@@ -7152,7 +7152,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 241169,
       "name": "Hollywood Sign",
       "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 215480,
       "name": "I'll Never Feel That Young Again",
       "url": "https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL"
@@ -10747,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "Mayday (demo)",
+        "url": "https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW"
+      },
+      "artists": [
+        {
+          "name": "Tadhg Nolan",
+          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mayday - demo",
+      "url": "https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0"
+    },
+    {
+      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
       },
@@ -12168,6 +12186,24 @@
       "duration_ms": 259773,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr"
+    },
+    {
+      "album": {
+        "name": "open exit wounds",
+        "url": "https://open.spotify.com/album/6FjI9OyYl1U8JeBlP531Wa"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206271,
+      "name": "open exit wounds",
+      "url": "https://open.spotify.com/track/0DMQ5AbI8KrPSbYNSEnap7"
     },
     {
       "album": {
@@ -14975,6 +15011,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/24tK49X3YPgtZmhr2e3XIF"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177749,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3Y8A88bftffx1QjN6B9GIW"
+    },
+    {
+      "album": {
         "name": "SOMEWHERE IN BETWEEN",
         "url": "https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT"
       },
@@ -15508,7 +15562,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 215293,
       "name": "Stronger Man",
       "url": "https://open.spotify.com/track/4iSkK2caRr05s7bKVdurU9"
@@ -18235,6 +18289,24 @@
     },
     {
       "album": {
+        "name": "Love Gets Bigger",
+        "url": "https://open.spotify.com/album/0ORFiAWHBQwaHX5LBO3hkQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/6rc1efEikil57lLEhLlp6B"
+    },
+    {
+      "album": {
         "name": "Wedding Song",
         "url": "https://open.spotify.com/album/5F5FlH0DmqWvPZEi2bMAsX"
       },
@@ -18520,6 +18592,24 @@
       "duration_ms": 237906,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/6d4KYg3Bby8Fz7GUlESLA9"
+      },
+      "artists": [
+        {
+          "name": "Curtis Walsh",
+          "url": "https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197387,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/5eM3Njfh0POue5JytpolPt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-2,321 songs - 4 day 12 hr 38 min
+2,322 songs - 4 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2226,7 +2226,8 @@
 | [цветы](https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:38 | 2025-06-25 | 2025-12-19 |
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-01-09 | 2025-06-17 |
 | [це не сильно радикально?](https://open.spotify.com/track/1nu8xUXvU5RKy3vCgA4EiD) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC) | [це не сильно радикально?](https://open.spotify.com/album/2P5uufzlFrJrveBPwfvj8c) | 2:49 | 2025-03-29 | 2025-03-31 |
-| [целоваться](https://open.spotify.com/track/2UqlmIBAURsHt13ArF16YI) | [lightprey](https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh) | [целоваться](https://open.spotify.com/album/7FPkvXL4biLihwTAIByilG) | 1:54 | 2026-07-16 |  |
+| [целоваться](https://open.spotify.com/track/2UqlmIBAURsHt13ArF16YI) | [lightprey](https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh) | [целоваться](https://open.spotify.com/album/7FPkvXL4biLihwTAIByilG) | 1:54 | 2026-07-16 | 2026-10-16 |
+| [целоваться](https://open.spotify.com/track/3q6UzpYSLp7cIGIoHAs21d) | [lightprey](https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh) | [целоваться](https://open.spotify.com/album/2ekppuWPWbYN83aI3sDuFO) | 1:54 | 2026-10-15 |  |
 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 | 2025-04-04 | 2025-08-29 |
 | [Цифры](https://open.spotify.com/track/4m5olwfzFs9DYa5CZwFJwz) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [Индаблэк](https://open.spotify.com/artist/46qyo3WiGJbyfXh7XI25ut), [qurt](https://open.spotify.com/artist/3FV5Pa1PcxwHzc4rVEWVrW), [Rodionis](https://open.spotify.com/artist/0NwHP2UPexnet2CwYsqxJY) | [Цифры](https://open.spotify.com/album/5CjZHTKkrNT7YJtYjlQRle) | 3:28 | 2021-07-28 | 2021-08-08 |
 | [ЦУНАМИ](https://open.spotify.com/track/7qCVgOCMrIGgNY0IgFcoYQ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [ЦУНАМИ](https://open.spotify.com/album/0gG7yuYcOLGwpvaZzwEWH7) | 2:44 | 2021-11-08 | 2021-11-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Stanislas.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: TheFrenchKris.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168458,
       "name": "1000_vies_(avec_toi).MPEG-4",
       "url": "https://open.spotify.com/track/4k3zBTIr9ixWJw9Jc6y5c6"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160070,
       "name": "Autod\u00e9fense",
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 141176,
       "name": "Comme des rats",
       "url": "https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 142702,
       "name": "Coup de t\u00eate",
       "url": "https://open.spotify.com/track/5LzPzjb3O0dxim7GebwZyx"
@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "#poprock!",
+        "url": "https://open.spotify.com/album/2m75Ge7EhOvSD5YRoKsIBz"
+      },
+      "artists": [
+        {
+          "name": "paulvitesse!",
+          "url": "https://open.spotify.com/artist/0eHSGxdbaHWjtpSGX72FuV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126382,
+      "name": "faire le vide",
+      "url": "https://open.spotify.com/track/42knhCy45P7pKll6f70mI6"
+    },
+    {
+      "album": {
         "name": "FAIT CH!ER",
         "url": "https://open.spotify.com/album/7j41jeEuoehmZJJIRzISs7"
       },
@@ -3881,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "idole",
+        "url": "https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi"
+      },
+      "artists": [
+        {
+          "name": "Louve",
+          "url": "https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138915,
+      "name": "idole",
+      "url": "https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb"
+    },
+    {
+      "album": {
         "name": "Ikea Boy",
         "url": "https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU"
       },
@@ -4236,6 +4272,24 @@
       "duration_ms": 151453,
       "name": "J'Suis Pas Bo",
       "url": "https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI"
+    },
+    {
+      "album": {
+        "name": "Jack Frost",
+        "url": "https://open.spotify.com/album/2LdOCywX2pm0ORufaDtA3j"
+      },
+      "artists": [
+        {
+          "name": "ruoma",
+          "url": "https://open.spotify.com/artist/6uU4whWSfT9rv1mXuTgJRN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Jack Frost",
+      "url": "https://open.spotify.com/track/1Gdg3aBIsc0LYzg4XvPglC"
     },
     {
       "album": {
@@ -4751,6 +4805,28 @@
     },
     {
       "album": {
+        "name": "K!TCH",
+        "url": "https://open.spotify.com/album/0ZIRIIdAKuCgN0aAW98uXi"
+      },
+      "artists": [
+        {
+          "name": "AYMCE",
+          "url": "https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv"
+        },
+        {
+          "name": "PINKY",
+          "url": "https://open.spotify.com/artist/6TF8edpxRiFN2W8ohVzN3U"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "K!TCH",
+      "url": "https://open.spotify.com/track/2Gu1mOaC5sCQ2ep4L9W0QI"
+    },
+    {
+      "album": {
         "name": "Piquer un cheveu",
         "url": "https://open.spotify.com/album/1lY2iMNzbgEcQCTajmqJJp"
       },
@@ -5018,7 +5094,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 115426,
       "name": "LA BARMAID!",
       "url": "https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC"
@@ -5820,7 +5896,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169009,
       "name": "LES FOURMIS",
       "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
@@ -5914,6 +5990,28 @@
       "duration_ms": 216299,
       "name": "Les Gens Qui Dansent (j'adore)",
       "url": "https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us"
+    },
+    {
+      "album": {
+        "name": "Les Lettres de Krakovie",
+        "url": "https://open.spotify.com/album/548KluEN2P06SC5jpjp3zw"
+      },
+      "artists": [
+        {
+          "name": "Arnold Turboust",
+          "url": "https://open.spotify.com/artist/3z8iQqWLPw51mizHQ3Qu3U"
+        },
+        {
+          "name": "Flora Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173706,
+      "name": "Les lettres de Krakovie",
+      "url": "https://open.spotify.com/track/6gdOKT620eGuO92ruLZLW7"
     },
     {
       "album": {
@@ -7869,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "Photos au mur",
+        "url": "https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152024,
+      "name": "Photos au mur",
+      "url": "https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7"
+    },
+    {
+      "album": {
         "name": "Ph\u00e9nom\u00e8ne",
         "url": "https://open.spotify.com/album/33dwEnfktJrytwlanY8e7X"
       },
@@ -7938,7 +8054,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
@@ -10258,6 +10374,28 @@
       "duration_ms": 140827,
       "name": "Tout seul",
       "url": "https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy"
+    },
+    {
+      "album": {
+        "name": "Lazar",
+        "url": "https://open.spotify.com/album/1s4pRwHfYXFvhSbTcWjfJu"
+      },
+      "artists": [
+        {
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+        },
+        {
+          "name": "C\u00e9line",
+          "url": "https://open.spotify.com/artist/2328WsfrUqs6w7En7Si3WQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "Tout va passer",
+      "url": "https://open.spotify.com/track/07x7aqwqXyAwoj5NDwajHd"
     },
     {
       "album": {

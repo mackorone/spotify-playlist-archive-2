@@ -4,7 +4,7 @@
 
 > Les hits zouk & kompa du moment\. Photo : Fanny J
 
-489 songs - 1 day 1 hr 38 min
+490 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Distance](https://open.spotify.com/track/5gm1YR7hZceqQybXUsYJTH) | [Dory](https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK) | [Distance](https://open.spotify.com/album/1pddEeJwVOkuzP6ybsjlHz) | 3:05 | 2024-07-18 | 2024-09-20 |
 | [Distance](https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oniro](https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8) | 3:13 | 2023-09-28 | 2023-10-20 |
 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-07-10 | 2025-12-05 |
+| [DON'T CARE](https://open.spotify.com/track/5kYQ0GagBehowLHQOvlXQY) | [Dj Blax](https://open.spotify.com/artist/44VNFYznTUZXUy2b0KMhZx), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [DON'T CARE](https://open.spotify.com/album/2nNnIqw4MROGSDYiXhnY28) | 2:12 | 2026-10-15 |  |
 | [Donne Le Moi](https://open.spotify.com/track/0uVgGwKhDbjkcgjGBiFr6E) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [Donne Le Moi](https://open.spotify.com/album/4Li36b4Lst3H2aBBbR9nJ8) | 3:37 | 2026-03-26 | 2026-05-15 |
 | [Donne Tout](https://open.spotify.com/track/1U5gnEmalOGreRltGLpLh2) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3) | [Donne Tout](https://open.spotify.com/album/54PTwBFY7fgUy30qzHlviC) | 2:41 | 2025-11-20 | 2026-01-23 |
 | [Donne\-moi ton coeur](https://open.spotify.com/track/6kXBZDR02iBGvZIml9UzmF) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW), [Dory](https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK) | [Donne\-moi ton coeur](https://open.spotify.com/album/53FGcyfkrUNuYKFBs6GHjQ) | 3:54 | 2026-02-12 | 2026-03-27 |
@@ -378,7 +379,7 @@
 | [Rété](https://open.spotify.com/track/0SHEQGXUj2WRJg7HJIiduJ) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Rété](https://open.spotify.com/album/2KfC8YMWmpfG5kiuN3YVdp) | 4:12 | 2025-02-13 | 2025-04-25 |
 | [Safe place](https://open.spotify.com/track/6M8l9eprbrVogC3V6MnO9d) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Safe place](https://open.spotify.com/album/5RvPwdxHGLNaxKvySH3cf2) | 2:59 | 2026-02-12 | 2026-06-19 |
 | [Saison 2](https://open.spotify.com/track/61zhgBrll0JcbZdhaYQ16i) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq) | [Saison 2](https://open.spotify.com/album/0msn4kPdpwzjypJgyDeomg) | 3:12 | 2025-10-23 | 2026-05-08 |
-| [Sale entre nous](https://open.spotify.com/track/0qKd2Zuta92bPxhxpJgluL) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [Jusqu'à ce que l'amour nous sépare](https://open.spotify.com/album/2TzC8h6AIeNmbO9Op5W710) | 3:15 | 2026-08-27 |  |
+| [Sale entre nous](https://open.spotify.com/track/0qKd2Zuta92bPxhxpJgluL) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [Jusqu'à ce que l'amour nous sépare](https://open.spotify.com/album/2TzC8h6AIeNmbO9Op5W710) | 3:15 | 2026-08-27 | 2026-10-16 |
 | [Sale Idée](https://open.spotify.com/track/1Z5kLE4IKKZSPhxUaOWJD5) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6) | [Sale Idée](https://open.spotify.com/album/5Saun7SaZrCFErtuAOlvkY) | 2:51 | 2025-12-18 | 2026-01-30 |
 | [San Deba](https://open.spotify.com/track/24utXqtVcAeOCZzFoSZKwS) | [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [San Deba](https://open.spotify.com/album/7sClLRML5OSA4L7AV7TblO) | 2:50 | 2026-07-23 | 2026-09-25 |
 | [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 | 2024-09-19 | 2024-11-15 |

@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN, THE TOYS
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GAVIN:D
 
 271 songs - 17 hr 27 min
 

@@ -2,13 +2,14 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: quiet morning
+> Meet the future\. Cover: Estelle Fly
 
-337 songs - 18 hr 18 min
+340 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Kali Sakit](https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [1000 Kali Sakit](https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy) | 4:04 | 2026-04-17 |  |
+| [26min in](https://open.spotify.com/track/3rR6F6dPQz8XbJriebx7z6) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [wake up 18](https://open.spotify.com/album/1QW4WSaHyCEcXjuaproSyG) | 3:06 | 2026-10-15 |  |
 | [3 HAJAT](https://open.spotify.com/track/1XmCZBnNXYYTgCiQUZA9XK) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [SAMPAH](https://open.spotify.com/album/5OBNO5de9kYK1MeMDmKlw1) | 3:33 | 2025-04-15 | 2026-04-07 |
 | [30,000](https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [30,000](https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg) | 3:07 | 2024-11-28 | 2024-12-05 |
 | [99](https://open.spotify.com/track/6Fx2MscRZmwIUhjOO3qUsg) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:03 | 2024-12-04 | 2025-04-16 |
@@ -226,6 +227,7 @@
 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 | 2025-04-15 | 2026-04-07 |
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 | 2026-04-07 |
 | [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 | 2026-10-08 |  |
+| [on the floor](https://open.spotify.com/track/3jBQP4Ok9cEZ1zxok5e85k) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [wake up 18](https://open.spotify.com/album/1QW4WSaHyCEcXjuaproSyG) | 2:25 | 2026-10-15 |  |
 | [ONE DAY AT A TIME](https://open.spotify.com/track/3uGdsz2OOs5pGodQvEiPnh) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Kevin Brendan](https://open.spotify.com/artist/6ugRGLIWSHusjCas08bxXr) | [ONE DAY AT A TIME](https://open.spotify.com/album/43r58mDnZjEN1v3DQEMGP5) | 3:57 | 2025-11-27 | 2026-04-07 |
 | [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 | 2025-08-21 | 2026-04-07 |
 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 | 2026-09-03 | 2026-09-18 |
@@ -280,6 +282,7 @@
 | [Setiap Nafasku Kernamu](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:23 | 2026-07-30 |  |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 | 2025-04-16 |
 | [SHOW YOUR LOVE](https://open.spotify.com/track/2gosyc6Y3NrVJiiE0eSP5D) | [Maia](https://open.spotify.com/artist/1ma5eSgw4el6YDXfhfZ3JC), [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [SHOW YOUR LOVE](https://open.spotify.com/album/58ck8JaQilltGtwQd98XUv) | 3:12 | 2026-03-20 | 2026-04-07 |
+| [Shut It Down](https://open.spotify.com/track/6jzR5WsT1IxDSGU162jyUC) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Shut It Down](https://open.spotify.com/album/2YxDLUbB4QoyjWXq06DM8C) | 3:32 | 2026-10-15 |  |
 | [so in love \(tonight\)](https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [so in love \(tonight\)](https://open.spotify.com/album/0Q4t7FACl7vtiMYAsgjCxR) | 2:28 | 2025-09-08 | 2025-10-17 |
 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 | 2025-09-08 | 2025-10-17 |
 | [Song No\. 2](https://open.spotify.com/track/4v34de6hult90cQjAGxugf) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 4:24 | 2025-03-27 | 2025-04-16 |

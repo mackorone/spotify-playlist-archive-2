@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 1 hr 46 min
+41 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 | 2026-02-06 |  |
 | [Pretty Girls](https://open.spotify.com/track/7uYXHXWBq4VEsMywZQrMfR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:38 | 2026-02-06 |  |
 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 | 2026-02-06 |  |
+| [Revenge](https://open.spotify.com/track/3h9jy7cOpyIyAxllvaXZbg) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7) | 3:07 | 2026-10-15 |  |
 | [S.I.M.P.L.E](https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [DND](https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs) | 2:33 | 2026-04-21 |  |
 | [Save Your Soul](https://open.spotify.com/track/4ln9MQz4OChaV3eqGNS7BU) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:07 | 2026-02-06 |  |
 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 | 2026-02-06 |  |

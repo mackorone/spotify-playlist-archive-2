@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068612,
+  "num_followers": 1068581,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Breakdown",
-        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
         },
         {
-          "name": "Take 6",
-          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 282581,
-      "name": "They Don\u2019t Make \u2019Em Like They Used to (feat. Take 6)",
-      "url": "https://open.spotify.com/track/4jLOt63posrIQXjap1muX3"
+      "duration_ms": 242174,
+      "name": "Southern Man",
+      "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -339,22 +339,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Act I",
-        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
       },
       "artists": [
         {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         },
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
         }
       ],
-      "duration_ms": 242174,
-      "name": "Southern Man",
-      "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
+      "duration_ms": 282581,
+      "name": "They Don\u2019t Make \u2019Em Like They Used to (feat. Take 6)",
+      "url": "https://open.spotify.com/track/4jLOt63posrIQXjap1muX3"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Fussing and Fighting",
-        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "Fussing and Fighting",
-      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Fussing and Fighting",
+        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Fussing and Fighting",
+      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 296380,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "The Breakdown",
-        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 234808,
-      "name": "One Day Away",
-      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -763,6 +747,22 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 234808,
+      "name": "One Day Away",
+      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
-      },
-      "artists": [
-        {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
-        }
-      ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Man's World",
         "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
+      },
+      "artists": [
+        {
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
+        }
+      ],
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 236219,
+      "name": "Oh Betty",
+      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -979,18 +995,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
         }
       ],
-      "duration_ms": 236219,
-      "name": "Oh Betty",
-      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1019,22 +1035,6 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
-      },
-      "artists": [
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Slow Lightning (Deluxe)",
         "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Love in the Lead",
-        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
-      },
-      "artists": [
-        {
-          "name": "Ivan Hartle",
-          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
-        }
-      ],
-      "duration_ms": 195885,
-      "name": "Love in the Lead",
-      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Medium Raw",
         "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 255573,
       "name": "I Could Just Die Right Now",
       "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Love in the Lead",
+        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Hartle",
+          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+        }
+      ],
+      "duration_ms": 195885,
+      "name": "Love in the Lead",
+      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "You Can't Love Me",
         "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Best Believe",
         "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 228192,
       "name": "Best Believe",
       "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
-      },
-      "artists": [
-        {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
-        }
-      ],
-      "duration_ms": 192877,
-      "name": "A Heathen's Hymn",
-      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Death Rolls Like Thunder",
         "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 223366,
       "name": "Death Rolls Like Thunder",
       "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "duration_ms": 192877,
+      "name": "A Heathen's Hymn",
+      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
     },
     {
       "added_at": "2026-09-18 04:01:42",

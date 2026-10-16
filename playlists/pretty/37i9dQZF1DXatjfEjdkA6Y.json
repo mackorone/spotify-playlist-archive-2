@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6268,
+  "num_followers": 6269,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Reeling In The Decades",
+        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
+      },
+      "artists": [
+        {
+          "name": "The Swarbriggs",
+          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Tsarli Tsaplin",
         "url": "https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 165293,
       "name": "Brez besed - Evrovizija 1966",
       "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Reeling In The Decades",
-        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
-      },
-      "artists": [
-        {
-          "name": "The Swarbriggs",
-          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
     },
     {
       "added_at": "2025-03-14 16:55:23",

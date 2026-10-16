@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Pizza",
+  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Lagrimitas",
   "name": "alt/rock",
   "tracks": [
     {
@@ -1636,6 +1636,24 @@
       "duration_ms": 187000,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt"
+    },
+    {
+      "album": {
+        "name": "Curaplus",
+        "url": "https://open.spotify.com/album/6qd7lYC1jIzonTmrnwPzne"
+      },
+      "artists": [
+        {
+          "name": "No Me Toques",
+          "url": "https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274288,
+      "name": "Curaplus",
+      "url": "https://open.spotify.com/track/5IZeChXvcB0RQUJYBhQe7S"
     },
     {
       "album": {
@@ -4427,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Me Desvelo",
+        "url": "https://open.spotify.com/album/4YiiyDPZh33f6ekAAxICMp"
+      },
+      "artists": [
+        {
+          "name": "Lagrimitas",
+          "url": "https://open.spotify.com/artist/6ciaCuNXH1oI9zNW0Wrm9a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163452,
+      "name": "Me Desvelo",
+      "url": "https://open.spotify.com/track/4N9QiJ4tSaNIfjX45cIdsG"
+    },
+    {
+      "album": {
         "name": "Me Tir\u00e9",
         "url": "https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m"
       },
@@ -6354,6 +6390,24 @@
       "duration_ms": 166615,
       "name": "SALTEMOS MOLINETES",
       "url": "https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH"
+    },
+    {
+      "album": {
+        "name": "Escuchen los Sonidos",
+        "url": "https://open.spotify.com/album/3hTyWhIkVfhnzG3aanP0uQ"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190158,
+      "name": "Salven a las Abejas",
+      "url": "https://open.spotify.com/track/4Xh8VA9GRNI5VdHUAZevte"
     },
     {
       "album": {

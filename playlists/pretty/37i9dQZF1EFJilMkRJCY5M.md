@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 139 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 139 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 96 | [Somehow, Some Way, Somewhere, Some Day \- Worktape](https://open.spotify.com/track/3mPNkTNYIt14YD75wbbEhM) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Heartbreak Worktapes Vol\. 2](https://open.spotify.com/album/0k9RnyrVHo7mvgdug6CVxp) | 3:01 |
 | 97 | [Where the Cowboys Ride](https://open.spotify.com/track/7sGNBMpZJm77YoaBs5e2cg) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Bridges](https://open.spotify.com/album/2UMHfMc5EN5y6DyMDS4kQr) | 3:07 |
 | 98 | [Future History](https://open.spotify.com/track/0mjx0wo5jbVjfbds3kRlOQ) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Future History](https://open.spotify.com/album/4EHgSyCfTca6SDVBr2G2HV) | 3:14 |
-| 99 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
-| 100 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
+| 99 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
+| 100 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 101 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
 | 102 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 103 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 108 | [Lucky To Be Loved](https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Lucky To Be Loved](https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6) | 3:00 |
 | 109 | [Cowboy Outta You](https://open.spotify.com/track/5x6m9fSw23i0koNnpMxNQn) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/3siD2kVE0SFBgPXBlujSTH) | 3:30 |
 | 110 | [Own My Body](https://open.spotify.com/track/5a6QsW35imEPjk7TP9g4N6) | [MEG + JAC](https://open.spotify.com/artist/6q6isSwnbC9MxmWGZYl7sk), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Own My Body](https://open.spotify.com/album/6WL5v0CjTwys4HuN6RSH3Y) | 2:42 |
-| 111 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
-| 112 | [Spur Of The Moment](https://open.spotify.com/track/6kZhMmAGqjQ1x6b0znord0) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Spur Of The Moment](https://open.spotify.com/album/6OGkY4dqAZI4E0SDiJJsNN) | 3:30 |
+| 111 | [Spur Of The Moment](https://open.spotify.com/track/6kZhMmAGqjQ1x6b0znord0) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Spur Of The Moment](https://open.spotify.com/album/6OGkY4dqAZI4E0SDiJJsNN) | 3:30 |
+| 112 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
 | 113 | [die 4 u](https://open.spotify.com/track/0EpvQGvlRj414hJ1s93UP9) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/1jS2Iktf5SkTmQH04nWHkZ) | 2:53 |
 | 114 | [Easy on Me](https://open.spotify.com/track/1PZNwWmUCQVuH39sooxPQT) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/0jsFsXKWSichKhDTk9UvhY) | 2:56 |
 | 115 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 138 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 139 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `Ace88gAAAACks5ZKfptdnH4YErKLfhoQ`
+Snapshot ID: `AcfCkgAAAAC/qj3BtCvhcByTKtJIo4MK`

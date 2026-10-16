@@ -1,13 +1,45 @@
 {
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Eve",
-  "num_followers": 563606,
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YOASOBI",
+  "num_followers": 563653,
   "original_name": "Gacha Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJvMBhLqzZqgFqU7uRpYg2ncm3w",
+  "snapshot_id": "AAAAAI791jJyOH5VIP5N8zc+Tg1x/AHt",
   "tracks": [
+    {
+      "added_at": "2026-10-15 17:37:29",
+      "album": {
+        "name": "\u54b2\u304d\u8a87\u308c",
+        "url": "https://open.spotify.com/album/24oSk67TQF7dlvkVJwWtWt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 246850,
+      "name": "\u54b2\u304d\u8a87\u308c",
+      "url": "https://open.spotify.com/track/2t5C9K8bQMCHXG0zdXRI12"
+    },
+    {
+      "added_at": "2026-10-15 17:37:29",
+      "album": {
+        "name": "Raven Sky",
+        "url": "https://open.spotify.com/album/6YDBrEr2LJoNsKQD3Le4eR"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Raven Sky",
+      "url": "https://open.spotify.com/track/1D2G2i1mtiTWYmkwqZX2jt"
+    },
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
@@ -39,6 +71,38 @@
       "duration_ms": 237517,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9",
       "url": "https://open.spotify.com/track/6m93jhY37ewvEMkUu0rMh6"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
+        "name": "mosi mosi?",
+        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+      },
+      "artists": [
+        {
+          "name": "\u697d\u97f3",
+          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "mosi mosi?",
+      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
+    },
+    {
+      "added_at": "2026-10-15 17:37:29",
+      "album": {
+        "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+        "url": "https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 238398,
+      "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+      "url": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -107,22 +171,6 @@
       "duration_ms": 210233,
       "name": "\u3042\u304b\u306d\u3055\u3059\u9803",
       "url": "https://open.spotify.com/track/0C0yofbpECr2lGAiKhnVXA"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "mosi mosi?",
-        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
-      },
-      "artists": [
-        {
-          "name": "\u697d\u97f3",
-          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "mosi mosi?",
-      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -1143,22 +1191,6 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "SALTARE",
-        "url": "https://open.spotify.com/album/2lmDFg8jSd0oNRNOnKBraV"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "SALTARE",
-      "url": "https://open.spotify.com/track/0AT3NPrDFFIoMqWCwOZM1w"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
         "name": "DEMON'S SHOT",
         "url": "https://open.spotify.com/album/2wdIBhWASWShjvCm9uzili"
       },
@@ -1195,22 +1227,6 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "Whoop It Up \"DELUXE Edition\"",
-        "url": "https://open.spotify.com/album/2wtXAFjLd0tys8M4oBdWMF"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEON LIME WHOOPIEPIE",
-          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
-        }
-      ],
-      "duration_ms": 235525,
-      "name": "PUNKS",
-      "url": "https://open.spotify.com/track/1qOfcSDdi7Q4L1K6hhYCVL"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/46yP7hfFOSSMdYhVZVE50b"
       },
@@ -1239,26 +1255,6 @@
       "duration_ms": 219400,
       "name": "\u30d0\u30ea\u30d0\u30eaBuddy",
       "url": "https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "WATCH ME",
-        "url": "https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "WATCH ME feat. BIA",
-      "url": "https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ"
     },
     {
       "added_at": "2026-10-08 16:50:18",

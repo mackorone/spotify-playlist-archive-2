@@ -1,12 +1,12 @@
 {
   "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Dabda) (Meet the emerging talents of Korea!) ",
-  "num_followers": 63759,
+  "num_followers": 63762,
   "original_name": "Fresh Finds Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNBKtFe6gEY10g9sSnzm0DKb4Rk",
+  "snapshot_id": "AAAAAMBC/oXiZD3YRLEvNQ0H1pKosOkG",
   "tracks": [
     {
       "added_at": "2026-10-01 04:35:12",
@@ -23,6 +23,38 @@
       "duration_ms": 438750,
       "name": "ON(\u767e)",
       "url": "https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7"
+    },
+    {
+      "added_at": "2026-10-15 04:49:21",
+      "album": {
+        "name": "Kaamos",
+        "url": "https://open.spotify.com/album/6kUmjbeGJaY3Q1uBY9jvf9"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3ychysmraX2dnOXfaZEwcM"
+    },
+    {
+      "added_at": "2026-10-15 04:49:21",
+      "album": {
+        "name": "cold",
+        "url": "https://open.spotify.com/album/7H4Ifv07fJNDk4lDuPecia"
+      },
+      "artists": [
+        {
+          "name": "\uc190\uc608\uc9c0",
+          "url": "https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/3FENqbU7PTiPZ60Dwm7Skh"
     },
     {
       "added_at": "2026-10-01 04:35:12",
@@ -807,38 +839,6 @@
       "duration_ms": 189629,
       "name": "me, myself and cat",
       "url": "https://open.spotify.com/track/25zaajzCkPGYHF3rTalHti"
-    },
-    {
-      "added_at": "2026-10-01 04:35:12",
-      "album": {
-        "name": "shining.",
-        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
-      },
-      "artists": [
-        {
-          "name": "Tokai",
-          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "sway",
-      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
-    },
-    {
-      "added_at": "2026-10-01 04:35:12",
-      "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
     }
   ],
   "unique_name": "Fresh Finds Korea",

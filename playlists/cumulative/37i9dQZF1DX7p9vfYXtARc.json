@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Baby 81",
+        "url": "https://open.spotify.com/album/6LwDQs1eEiLdVmKSKL9Xlw"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "666 Conducer",
+      "url": "https://open.spotify.com/track/0UgorYXmz0oFYSyK8ftrGb"
+    },
+    {
+      "album": {
         "name": "The Black Album",
         "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 291866,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/3JlP8EkTyPiWDRbka7CtP6"
+    },
+    {
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Blood Hands",
+      "url": "https://open.spotify.com/track/21XbBWCMvtfpyriyHpxAry"
     },
     {
       "album": {
@@ -816,6 +852,24 @@
       "duration_ms": 248533,
       "name": "Living in America",
       "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
+    },
+    {
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/4BPGAt5Q5IOQIqBPEJdKTG"
     },
     {
       "album": {

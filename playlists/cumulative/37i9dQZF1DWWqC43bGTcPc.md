@@ -2,7 +2,7 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Jess Lee 李佳薇
 
 1,283 songs - 3 day 7 hr 47 min
 

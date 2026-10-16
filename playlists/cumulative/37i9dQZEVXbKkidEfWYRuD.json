@@ -43332,10 +43332,28 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 114580,
       "name": "\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/2UqlmIBAURsHt13ArF16YI"
+    },
+    {
+      "album": {
+        "name": "\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2ekppuWPWbYN83aI3sDuFO"
+      },
+      "artists": [
+        {
+          "name": "lightprey",
+          "url": "https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114636,
+      "name": "\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/3q6UzpYSLp7cIGIoHAs21d"
     },
     {
       "album": {

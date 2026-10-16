@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: YOASOBI \*👉 <a href="https://spice.eplus.jp/articles/349667">連動記事</a>をSPICEでチェック!
 
-16,618 songs - 44 day 3 hr 32 min
+16,619 songs - 44 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10246,6 +10246,7 @@
 | [uragaeshi](https://open.spotify.com/track/63uiuhPamIBf8Pd3mChKAs) | [LioLan](https://open.spotify.com/artist/0cOeltjiLyEirwTTtaah11) | [uragaeshi](https://open.spotify.com/album/0OkEz2EelO9b1rwM2U93fK) | 3:00 | 2023-07-04 | 2023-07-12 |
 | [Urara](https://open.spotify.com/track/0kaSm0DOlHly6m6nVUV2iC) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [Urara](https://open.spotify.com/album/0VvkO9Lf9FVOmDoVYEbZHJ) | 3:48 | 2026-08-25 | 2026-09-02 |
 | [Urban Escape](https://open.spotify.com/track/4w3sQVzAJDdr2QqEFWNYqh) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [Urban Escape](https://open.spotify.com/album/4RDkN4wOGRvG38J8uK6V6Z) | 2:23 | 2025-11-18 | 2025-11-26 |
+| [UREI](https://open.spotify.com/track/5tdTfpYYQGZe0EvmXHgSs8) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Rise of The Man](https://open.spotify.com/album/1CrtLyH5X4RfK6onpwbRJX) | 4:08 | 2026-10-14 |  |
 | [URUSAi! \(feat\. Kaneee\)](https://open.spotify.com/track/1aYhTY5QQ1BSs7P5kEQLIw) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [VS](https://open.spotify.com/album/2f0TS2nA9mkJqyDxLIyhgj) | 2:52 | 2025-02-25 | 2025-03-05 |
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-04-12 |
 | [us](https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [us](https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx) | 3:28 | 2025-07-08 | 2025-07-16 |

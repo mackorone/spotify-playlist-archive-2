@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Nashley in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Gaia in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 123111,
       "name": "#cannavaro",
       "url": "https://open.spotify.com/track/1GbuCcP5T7MM6qIY3A8LWQ"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169411,
       "name": "BOP BOP",
       "url": "https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw"
@@ -3708,6 +3708,24 @@
       "duration_ms": 161904,
       "name": "CARMELA",
       "url": "https://open.spotify.com/track/439QmtZOPb9bGObA7sTWT6"
+    },
+    {
+      "album": {
+        "name": "CARMEN",
+        "url": "https://open.spotify.com/album/3egwaEvQ1yDA4JpQrSzypE"
+      },
+      "artists": [
+        {
+          "name": "novepercento",
+          "url": "https://open.spotify.com/artist/5hNOf8SMa77O8B0EEt2O9o"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "CARMEN",
+      "url": "https://open.spotify.com/track/4KleiTim0ZR1yFmUcF7H99"
     },
     {
       "album": {
@@ -9043,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "Guardia del corpo",
+        "url": "https://open.spotify.com/album/0y1WRlvE9QsRhuHmAguxQi"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218478,
+      "name": "Guardia del corpo",
+      "url": "https://open.spotify.com/track/6IuVQGqZd5aGEnc9frfLBV"
+    },
+    {
+      "album": {
         "name": "GUARDO AVANTI",
         "url": "https://open.spotify.com/album/2NYsMcagPoWR6OiN4N5KZW"
       },
@@ -9306,7 +9342,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 149538,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/55wR6hA738HnTk4F1z23oR"
@@ -9382,6 +9418,24 @@
       "duration_ms": 188372,
       "name": "hyperlacrime",
       "url": "https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA"
+    },
+    {
+      "album": {
+        "name": "I BAFFI",
+        "url": "https://open.spotify.com/album/33JlIF1AQ7th0szEcvsSFc"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126218,
+      "name": "I BAFFI",
+      "url": "https://open.spotify.com/track/7oJyLYCKlZeC6f4ygsakUy"
     },
     {
       "album": {
@@ -13404,7 +13458,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173445,
       "name": "MILLION DOLLAR BABE",
       "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
@@ -14479,6 +14533,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "NON SEI PI\u00d9 TU (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny"
+    },
+    {
+      "album": {
         "name": "oltre al club cosa (ci) resta",
         "url": "https://open.spotify.com/album/4ZW8ehDMQbU4Uok1Xv6Su3"
       },
@@ -14490,7 +14566,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 256824,
       "name": "non sento + aria",
       "url": "https://open.spotify.com/track/3jT9I7NWw3OwBKseJeOZrK"
@@ -15946,7 +16022,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 154920,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4JKX37OcxWbq2qL0eyVYs2"
@@ -16048,6 +16124,28 @@
       "duration_ms": 142500,
       "name": "PARIGI IN MOTORINO",
       "url": "https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt"
+    },
+    {
+      "album": {
+        "name": "Parlame D\u2019Ammore",
+        "url": "https://open.spotify.com/album/5sNNsDSmpaapdZtj3XJaXU"
+      },
+      "artists": [
+        {
+          "name": "MONET",
+          "url": "https://open.spotify.com/artist/4lA15DbyyCQ6RzappQIUyL"
+        },
+        {
+          "name": "Greg Rega",
+          "url": "https://open.spotify.com/artist/6RdgqQCHmW1GUqcECiypOH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Parlame D\u2019Ammore",
+      "url": "https://open.spotify.com/track/7EW4OysJVeJqF999PW0s1g"
     },
     {
       "album": {
@@ -17020,7 +17118,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 134181,
       "name": "Polinesia",
       "url": "https://open.spotify.com/track/3FjVhne7zMiM1Zl1csIXIv"
@@ -17708,6 +17806,24 @@
       "duration_ms": 173797,
       "name": "Quando si aprono le porte",
       "url": "https://open.spotify.com/track/0AO7FTJQ10UdJikrYJsHqH"
+    },
+    {
+      "album": {
+        "name": "Quando ti ho visto arrivare",
+        "url": "https://open.spotify.com/album/2ZYfD4SYVmJxjrByNQenUU"
+      },
+      "artists": [
+        {
+          "name": "L'AMORE",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158352,
+      "name": "Quando ti ho visto arrivare",
+      "url": "https://open.spotify.com/track/2m8oXzw1GcSLZxoJYaIKU5"
     },
     {
       "album": {
@@ -19498,6 +19614,24 @@
       "duration_ms": 144431,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L"
+    },
+    {
+      "album": {
+        "name": "SENZ'ALLEGRIA",
+        "url": "https://open.spotify.com/album/77oDrvHHBmNUZFW9xvwSM2"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "SENZ'ALLEGRIA",
+      "url": "https://open.spotify.com/track/2hbrk0CNaGmQNZWlFhkTZg"
     },
     {
       "album": {
@@ -23426,7 +23560,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151363,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/3bFUhrjNmC3179e2R5lqjp"
@@ -23726,6 +23860,24 @@
       "duration_ms": 159438,
       "name": "vita adrenalina",
       "url": "https://open.spotify.com/track/2CeeDcXJQrrIGoOBBs8zzd"
+    },
+    {
+      "album": {
+        "name": "Vita da adulti",
+        "url": "https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213790,
+      "name": "Vita da adulti",
+      "url": "https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro"
     },
     {
       "album": {

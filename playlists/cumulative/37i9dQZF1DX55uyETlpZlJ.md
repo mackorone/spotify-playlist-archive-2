@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Ashwin Mandoth, Vivek Kiran
 
-739 songs - 1 day 17 hr 47 min
+740 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [DON'T KNOW](https://open.spotify.com/track/7ibBcvABwZB29w33zQLO5i) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3), [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4) | [TEASER](https://open.spotify.com/album/66JhdhbpW7N08TStp8kMuW) | 2:57 | 2025-10-23 | 2026-02-18 |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doni](https://open.spotify.com/track/0ro1PXkPcE8Fp7yDlF3A5H) | [Prathik Shetty](https://open.spotify.com/artist/0yhQlNXfqPZ7OvXf3nRWcY) | [Doni](https://open.spotify.com/album/3RyOL4w7MnR2Hs4zYlNSoa) | 2:15 | 2026-09-16 |  |
+| [Doora](https://open.spotify.com/track/4fCxwlAXoGlRsWvynLRCqZ) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Akshay K](https://open.spotify.com/artist/1LyUTXeGLDkoVI3vSl9GPZ) | [Doora](https://open.spotify.com/album/3qJv9zceIXXi2uR4VIJxA5) | 3:50 | 2026-10-15 |  |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Doora](https://open.spotify.com/track/0j6QbbtyE4zJyIpR7Vz9f5) | [Sagar Simha](https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG) | [Doora](https://open.spotify.com/album/5TPp4krPiOtsgp5F0WGoDy) | 4:29 | 2026-09-16 |  |
 | [Doora Doora](https://open.spotify.com/track/2kHvNJ3FUeOQP2Y6ubdQJD) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [Doora Doora](https://open.spotify.com/album/2Mcdq1eoQpkqx0BKlcHlKr) | 4:43 | 2025-02-06 | 2025-06-21 |
@@ -192,7 +193,7 @@
 | [FIDHA](https://open.spotify.com/track/4bRZCUeozVp0OUepOBz4Os) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [FIDHA](https://open.spotify.com/album/38CxDzHunFwBoSJ0xTI7LP) | 2:49 | 2024-12-16 | 2025-04-03 |
 | [Finding Her \(Kannada Version\)](https://open.spotify.com/track/3GkpEXkMibSCNIvMHT9dxa) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Finding Her \(Kannada Version\)](https://open.spotify.com/album/4BIqq9YekFVyQpOTNhIKve) | 3:31 | 2026-03-13 | 2026-10-06 |
 | [Fineapple](https://open.spotify.com/track/4hU2FaZs5wHQdxfydUGxSz) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Fineapple](https://open.spotify.com/album/3F1D92Ds30VPnvPYO2LOXY) | 4:40 | 2026-07-24 |  |
-| [Fire](https://open.spotify.com/track/5S8vhcYEtPiU9blVxIzq1t) | [Karthik Chennoji Rao](https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu), [Avinash Balekkala](https://open.spotify.com/artist/3b4YWyZTjKAu8vsot8EyIY) | [Fire](https://open.spotify.com/album/3hrICi5rtsaVOQIP3DIq4U) | 3:34 | 2026-03-19 |  |
+| [Fire](https://open.spotify.com/track/5S8vhcYEtPiU9blVxIzq1t) | [Karthik Chennoji Rao](https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu), [Avinash Balekkala](https://open.spotify.com/artist/3b4YWyZTjKAu8vsot8EyIY) | [Fire](https://open.spotify.com/album/3hrICi5rtsaVOQIP3DIq4U) | 3:34 | 2026-03-19 | 2026-10-16 |
 | [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 | 2025-07-01 |
 | [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 | 2024-10-15 |
 | [Flex](https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Flex](https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq) | 2:39 | 2024-11-19 | 2025-03-20 |

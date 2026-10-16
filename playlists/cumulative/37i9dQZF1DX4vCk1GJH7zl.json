@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197285,
       "name": "Anjo de Papel",
       "url": "https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202384,
       "name": "Cozinho de Noite",
       "url": "https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh"
@@ -1422,6 +1422,24 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "album": {
+        "name": "eternamente",
+        "url": "https://open.spotify.com/album/4dRv2T66HvBySs37ciShUi"
+      },
+      "artists": [
+        {
+          "name": "Lua Dultra",
+          "url": "https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272158,
+      "name": "eternamente",
+      "url": "https://open.spotify.com/track/4e8viVM9hXPasMMxCPXCuV"
     },
     {
       "album": {
@@ -3606,6 +3624,24 @@
       "duration_ms": 261966,
       "name": "Save It For Later",
       "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
+    },
+    {
+      "album": {
+        "name": "Pra Cima Todo Santo Ajuda",
+        "url": "https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059"
+      },
+      "artists": [
+        {
+          "name": "Vitor Isensee",
+          "url": "https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179448,
+      "name": "Se Rimar, Rimou",
+      "url": "https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9"
     },
     {
       "album": {

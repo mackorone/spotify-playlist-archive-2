@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111732,
+  "num_followers": 111746,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "POSITIE",
-        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
+        "name": "Omlaag",
+        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
       "artists": [
         {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         },
         {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
         }
       ],
-      "duration_ms": 200970,
-      "name": "POSITIE",
-      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
+      "duration_ms": 196958,
+      "name": "Omlaag",
+      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -971,50 +975,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Omlaag",
-        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
+        "name": "POSITIE",
+        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
       "artists": [
         {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
         },
         {
-          "name": "Keizer",
-          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
-        },
-        {
-          "name": "Freddy Moreira",
-          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
         }
       ],
-      "duration_ms": 196958,
-      "name": "Omlaag",
-      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
-      },
-      "artists": [
-        {
-          "name": "Dyna",
-          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
+      "duration_ms": 200970,
+      "name": "POSITIE",
+      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1043,6 +1019,30 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
+      },
+      "artists": [
+        {
+          "name": "Dyna",
+          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Give Dem",
         "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 189757,
       "name": "Give Dem",
       "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2019,6 +2019,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Designers",
         "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
       },
@@ -2063,30 +2087,6 @@
       "duration_ms": 152032,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        },
-        {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+      },
+      "artists": [
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Forever Lit",
         "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
       },
@@ -2179,26 +2199,6 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
-      },
-      "artists": [
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

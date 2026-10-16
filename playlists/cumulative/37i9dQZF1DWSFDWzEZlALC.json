@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Raum27",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Hartmann",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Die kleinste Stadt",
+        "url": "https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152202,
+      "name": "ALLES WAS ICH HASS",
+      "url": "https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P"
+    },
+    {
+      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I"
       },
@@ -2174,6 +2192,28 @@
       "duration_ms": 174236,
       "name": "Alma",
       "url": "https://open.spotify.com/track/3BeKhlADRYwyPF4jcsy4zf"
+    },
+    {
+      "album": {
+        "name": "Die Kugel",
+        "url": "https://open.spotify.com/album/2FNjReHXVDFZsbwWxya31J"
+      },
+      "artists": [
+        {
+          "name": "Bruno Kawelke",
+          "url": "https://open.spotify.com/artist/2IUWBYmkakCuaUMvtmRjRt"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137506,
+      "name": "Almer\u00eda",
+      "url": "https://open.spotify.com/track/5ndluppHwAgqr4H13KiR05"
     },
     {
       "album": {
@@ -2928,7 +2968,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 138823,
       "name": "Atme Aus",
       "url": "https://open.spotify.com/track/6cZPb49X2iO89TkxlpBjNi"
@@ -3908,7 +3948,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 118200,
       "name": "beijing",
       "url": "https://open.spotify.com/track/4TXXiugsx7XUPLT4qVJvd9"
@@ -6090,7 +6130,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171428,
       "name": "D$QUARED",
       "url": "https://open.spotify.com/track/6aW4iH4LKYGeEk31Kvvpmm"
@@ -6830,6 +6870,24 @@
       "duration_ms": 148335,
       "name": "Dein Problem",
       "url": "https://open.spotify.com/track/31NC7l105DItxREcfwPDnV"
+    },
+    {
+      "album": {
+        "name": "DEINE TR\u00c4UME",
+        "url": "https://open.spotify.com/album/7FIFFXCFtVoyvrRHgnpkVq"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "DEINE TR\u00c4UME",
+      "url": "https://open.spotify.com/track/7d7lN4rVz3dX0IWzv7JhUE"
     },
     {
       "album": {
@@ -7884,7 +7942,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 132822,
       "name": "Du",
       "url": "https://open.spotify.com/track/2nG3Mc1jSwvvL3EgZ9l0PL"
@@ -7964,7 +8022,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 135800,
       "name": "Du bist kaputt",
       "url": "https://open.spotify.com/track/2K2tw6gwpVWdr24MTsk02v"
@@ -8351,6 +8409,28 @@
     },
     {
       "album": {
+        "name": "Du verstehst mich nicht",
+        "url": "https://open.spotify.com/album/4PoW64LmkwCjMfbR2fZUhv"
+      },
+      "artists": [
+        {
+          "name": "EASY EASY",
+          "url": "https://open.spotify.com/artist/7EflARVegRjDm9gcQOSQjT"
+        },
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238218,
+      "name": "Du verstehst mich nicht",
+      "url": "https://open.spotify.com/track/6UfxmK9iMzRTxaCzPv8VMX"
+    },
+    {
+      "album": {
         "name": "Du wartest",
         "url": "https://open.spotify.com/album/0uEqVvkXEukoi3vNapr1DR"
       },
@@ -8528,7 +8608,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173202,
       "name": "Durchschnitt",
       "url": "https://open.spotify.com/track/2LTDRKleIR8PzHeqz4fbt0"
@@ -8958,6 +9038,24 @@
       "duration_ms": 147756,
       "name": "Eine Wolke, die sich vor die Sonne schiebt",
       "url": "https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5"
+    },
+    {
+      "album": {
+        "name": "einer dieser geister",
+        "url": "https://open.spotify.com/album/1jTTgP9gf2doKUWokLtN8d"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201821,
+      "name": "einer dieser geister",
+      "url": "https://open.spotify.com/track/3P8nXlkpxMasuwE2Gh1TfA"
     },
     {
       "album": {
@@ -9733,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "Es Ist Sp\u00e4t",
+        "url": "https://open.spotify.com/album/3wbws4cjN48o3d7iWkk3Ak"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154251,
+      "name": "Es Ist Sp\u00e4t",
+      "url": "https://open.spotify.com/track/0udb3LrxU1MgP5F6wGxpmJ"
+    },
+    {
+      "album": {
         "name": "es ist sp\u00e4t",
         "url": "https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW"
       },
@@ -10261,6 +10377,24 @@
     },
     {
       "album": {
+        "name": "es w\u00e4re sch\u00f6n",
+        "url": "https://open.spotify.com/album/1w5Gf1cE7Ks1QwZf1EyLNi"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193924,
+      "name": "Fang mich auf",
+      "url": "https://open.spotify.com/track/0x8HTg8W2aYLWN2xGvQgzU"
+    },
+    {
+      "album": {
         "name": "fanta lustig ep",
         "url": "https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm"
       },
@@ -10728,6 +10862,24 @@
       "duration_ms": 123923,
       "name": "Feuerzeug",
       "url": "https://open.spotify.com/track/6aokqeWVGvGG1vztSoJnjA"
+    },
+    {
+      "album": {
+        "name": "Fichtenholz",
+        "url": "https://open.spotify.com/album/0mWXFHaN1WYPKquFtol0AF"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Fichtenholz",
+      "url": "https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz"
     },
     {
       "album": {
@@ -11396,7 +11548,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 177037,
       "name": "Freunde bleiben?",
       "url": "https://open.spotify.com/track/1FSLIvBRk3h3MbRhPGjDwu"
@@ -15395,6 +15547,24 @@
     },
     {
       "album": {
+        "name": "Ich hab jeder KI von dir erz\u00e4hlt",
+        "url": "https://open.spotify.com/album/0xn8KVXofsrpwNhnzNHfeG"
+      },
+      "artists": [
+        {
+          "name": "Sarro",
+          "url": "https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "Ich hab jeder KI von dir erz\u00e4hlt",
+      "url": "https://open.spotify.com/track/4VEOgPWhpQYVn3DsBDdCWR"
+    },
+    {
+      "album": {
         "name": "Ich hab mich neu sortiert",
         "url": "https://open.spotify.com/album/3V0JDcNqrbtkJKAFRgdPkB"
       },
@@ -18359,6 +18529,24 @@
     },
     {
       "album": {
+        "name": "Kinder mit Kippen",
+        "url": "https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213649,
+      "name": "Kinder mit Kippen",
+      "url": "https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8"
+    },
+    {
+      "album": {
         "name": "Kippe",
         "url": "https://open.spotify.com/album/6kbiR8fu64IB1LmGW7S32g"
       },
@@ -18424,7 +18612,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156506,
       "name": "Kippe danach",
       "url": "https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U"
@@ -20122,7 +20310,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202407,
       "name": "Levanto",
       "url": "https://open.spotify.com/track/5t9BLe2Z74dNmrV3QZ6qYJ"
@@ -21900,7 +22088,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 149000,
       "name": "mehr als du warst",
       "url": "https://open.spotify.com/track/5FKPtcanswnR3ilAqqLTWG"
@@ -24586,7 +24774,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 141285,
       "name": "ok",
       "url": "https://open.spotify.com/track/7txOS94i7qA6DnzFPPVwu5"
@@ -26225,6 +26413,24 @@
     },
     {
       "album": {
+        "name": "Renn!",
+        "url": "https://open.spotify.com/album/6Hv1fPxmiEKHr2gr1Zbkr4"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311204,
+      "name": "Renn!",
+      "url": "https://open.spotify.com/track/1NVO2eLVoxUY5WIbG2FLWA"
+    },
+    {
+      "album": {
         "name": "Rennrad-Romantik",
         "url": "https://open.spotify.com/album/3m06s1EvynziPZd37mhO3l"
       },
@@ -26718,7 +26924,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172048,
       "name": "Rote Funken",
       "url": "https://open.spotify.com/track/0PkmwgqyKLlVm3bhGl4gMX"
@@ -31713,6 +31919,42 @@
     },
     {
       "album": {
+        "name": "aus dem Koffer",
+        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
+    },
+    {
+      "album": {
+        "name": "Verstr!ckt",
+        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -32670,6 +32912,24 @@
       "duration_ms": 218691,
       "name": "Unter den Masken",
       "url": "https://open.spotify.com/track/4TO1feWbbSrPgsQcU7z4rF"
+    },
+    {
+      "album": {
+        "name": "Unter den Sternen",
+        "url": "https://open.spotify.com/album/0skwJA3jKmGYsi82Tipt7K"
+      },
+      "artists": [
+        {
+          "name": "Lovis",
+          "url": "https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156206,
+      "name": "Unter den Sternen",
+      "url": "https://open.spotify.com/track/1CFl2PtJQ0GZHP86CRTyg2"
     },
     {
       "album": {
@@ -34694,7 +34954,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 129142,
       "name": "Weinen, Babe",
       "url": "https://open.spotify.com/track/5RwBo04gsKygujjJuQuf5i"
@@ -37350,7 +37610,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 192631,
       "name": "zwei Fremde (mit Erinnerung)",
       "url": "https://open.spotify.com/track/25wNwVq89F62rH4m4sEU7V"

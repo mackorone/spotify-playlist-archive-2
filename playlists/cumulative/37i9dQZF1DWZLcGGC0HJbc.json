@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 148920,
       "name": "Against The Dying Of The Light",
       "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 210050,
       "name": "Clover",
       "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 183200,
       "name": "Crying Laughing Loving Lying (From \"The Holdovers\")",
       "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 216840,
       "name": "Dove or the Devil",
       "url": "https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 277504,
       "name": "From Up Here",
       "url": "https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 186435,
       "name": "green",
       "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 264400,
       "name": "Missionary Bell",
       "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 145134,
       "name": "mountain of a memory",
       "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179291,
       "name": "Oh Wide World",
       "url": "https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv"
@@ -3868,6 +3868,46 @@
       "duration_ms": 181411,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/6hNK2xLiAZ139KFu8oRDFV"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305875,
+      "name": "Over country",
+      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "album": {
+        "name": "Overboda",
+        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        {
+          "name": "Sofia HK",
+          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Overboda",
+      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
     },
     {
       "album": {
@@ -4012,7 +4052,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160925,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
@@ -4428,7 +4468,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 235647,
       "name": "Science",
       "url": "https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G"
@@ -4554,7 +4594,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
@@ -4644,7 +4684,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 271866,
       "name": "Slowpoke",
       "url": "https://open.spotify.com/track/4BoEkyrekQzY1oEehWT2S7"
@@ -5030,7 +5070,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Sweet Sixteen",
       "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"
@@ -5174,7 +5214,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 228459,
       "name": "The Bug Collector",
       "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
@@ -5550,7 +5590,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176826,
       "name": "Tie you down",
       "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
@@ -6052,7 +6092,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 274210,
       "name": "Willow",
       "url": "https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM"

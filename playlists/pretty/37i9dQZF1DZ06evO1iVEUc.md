@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,841 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,840 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 47 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
 | 48 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 |
 | 49 | [Hold Me Down \(feat\. Angie Stone\)](https://open.spotify.com/track/7oYRjaI7yDJB7hCa20kbbD) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Time To Share](https://open.spotify.com/album/6b8QS64EfefuXpdZ0dLHWX) | 3:21 |
-| 50 | [Wait For Me](https://open.spotify.com/track/2xh8WUGmT2Av3VwuMewcLh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:50 |
+| 50 | [U Make My Sun Shine \(feat\. Angie Stone\)](https://open.spotify.com/track/6ucOlSv5N8sa18vJIkE7lf) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Chocolate Invasion \(Trax From The NPG Music Club Volume One\)](https://open.spotify.com/album/1v48RtdtTRvnqYVOxsj2q3) | 7:05 |
 
-Snapshot ID: `as10gAAAAACdylY1cyeQtbjQaHoOqScS`
+Snapshot ID: `as7GAAAAAAChj9k8WwcccF3vJZ1KQx+A`

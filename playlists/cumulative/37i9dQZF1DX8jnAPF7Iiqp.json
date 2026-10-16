@@ -2513,6 +2513,28 @@
     },
     {
       "album": {
+        "name": "Fever Thoughts",
+        "url": "https://open.spotify.com/album/7D9lretg5Ms82Zjsogyw6W"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Fever Thoughts",
+      "url": "https://open.spotify.com/track/4lZRBPSSYSsM1ab0bRLfGf"
+    },
+    {
+      "album": {
         "name": "Fire & Water (feat. Marianna Ray)",
         "url": "https://open.spotify.com/album/0BdohkF1N7ZaItAWMHlxVE"
       },
@@ -6956,7 +6978,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211066,
       "name": "Satisfaction Skank - High Contrast Remix",
       "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"

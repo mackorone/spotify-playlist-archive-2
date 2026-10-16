@@ -4,10 +4,11 @@
 
 > Perfect dinner playlist \| soulful music
 
-211 songs - 12 hr 4 min
+212 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [22 Durnham Dew](https://open.spotify.com/track/7FIdb3RznfvfDgGPY8b4ab) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [22 Durnham Dew](https://open.spotify.com/album/3eZ0xeHq1CMzaxxQXQi5Nd) | 3:19 | 2026-10-15 |  |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2025-07-16 | 2025-08-09 |
 | [45](https://open.spotify.com/track/7f6wpGdjJVwNZaQTw90DYG) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [45](https://open.spotify.com/album/7BAwI46JKFpaoFYXa5ay3P) | 3:03 | 2025-07-16 | 2025-10-22 |
 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 | 2026-01-22 |  |
@@ -49,7 +50,7 @@
 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 | 2025-09-15 |  |
 | [Did I Say That Loud Enough?](https://open.spotify.com/track/09KEOIPPWXSxFVuy0vEyzZ) | [Rory Sturgeon](https://open.spotify.com/artist/7v5gnZba4iB7tjlnZKS1Oo), [Edits Project](https://open.spotify.com/artist/7IlETFNSRRURMOfj23g40S) | [Did I Say That Loud Enough?](https://open.spotify.com/album/4P9Ki3UutUiSvisaECnY8f) | 3:05 | 2026-05-26 |  |
 | [DIG! \(feat\. Brian Jackson\)](https://open.spotify.com/track/58MkiOEe314jQ1MBUq3T49) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [DIG! \(feat\. Brian Jackson\)](https://open.spotify.com/album/6GiZ0tbtdGBq8XvkJNndWM) | 3:36 | 2026-02-06 |  |
-| [Dog Left In The Rain](https://open.spotify.com/track/0yJTsYsFOrL9KFjMQBPnTN) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Dog Left In The Rain](https://open.spotify.com/album/1kh7Dv3aXucqDO4clqMBsK) | 2:41 | 2025-07-16 |  |
+| [Dog Left In The Rain](https://open.spotify.com/track/0yJTsYsFOrL9KFjMQBPnTN) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Dog Left In The Rain](https://open.spotify.com/album/1kh7Dv3aXucqDO4clqMBsK) | 2:41 | 2025-07-16 | 2026-10-16 |
 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 | 2025-10-01 |  |
 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 | 2025-08-08 |  |
 | [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 | 2025-11-06 |  |

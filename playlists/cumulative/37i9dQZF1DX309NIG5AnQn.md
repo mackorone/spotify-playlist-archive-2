@@ -2,9 +2,9 @@
 
 ### [alt/rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo y sudamericano\. <br/>📷 Pizza
+> rock alternativo y sudamericano\. <br/>📷 Lagrimitas
 
-410 songs - 23 hr 14 min
+413 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cuidado!](https://open.spotify.com/track/72GGPzaWYpeEHstvhkMcBH) | [Parásito Paraíso](https://open.spotify.com/artist/0H6YoMqKk2CF7Z0TPtraUZ) | [Imagen, Defecto](https://open.spotify.com/album/47wbKgA1KXkTfTYsAAp0Zd) | 2:59 | 2024-08-23 |  |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-03-25 | 2022-07-29 |
 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 | 2022-03-25 | 2023-03-25 |
+| [Curaplus](https://open.spotify.com/track/5IZeChXvcB0RQUJYBhQe7S) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Curaplus](https://open.spotify.com/album/6qd7lYC1jIzonTmrnwPzne) | 4:34 | 2026-10-16 |  |
 | [Cómo Conquistar la Ciudad](https://open.spotify.com/track/0KQE1Mt4imKQKya2d0aPg3) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta \(Deluxe\)](https://open.spotify.com/album/32qXrkxbLyo7lGqNeN2Oe0) | 3:04 | 2024-02-09 | 2024-11-16 |
 | [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que obtenés cuando te cansás de lo que ya obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 | 2023-04-28 | 2025-10-25 |
 | [DAME MENOS](https://open.spotify.com/track/5kjeSPCqW7SqvT9bCJV1HN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 1:43 | 2024-07-05 | 2026-04-04 |
@@ -243,6 +244,7 @@
 | [Matufia](https://open.spotify.com/track/0EDLiGilKGEOs1yOhIjnUU) | [Tomson Olson](https://open.spotify.com/artist/0MLtB9n8HZBReh3njxUn84) | [Matufia](https://open.spotify.com/album/4HVZpKfksOZdTKWx0Rl6d5) | 3:36 | 2026-01-23 |  |
 | [Mañana Voy](https://open.spotify.com/track/2XdnhbxTaMdqNwgw3joWfk) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Ida, Atajo y Vuelta](https://open.spotify.com/album/5f2pZrmIEq76zaDmi4wKsU) | 3:34 | 2023-03-31 | 2023-08-12 |
 | [Me Cansé](https://open.spotify.com/track/3mHGTb4UbOOlrMZqdDmTSL) | [Poción Sirena](https://open.spotify.com/artist/2CMR1PGwgGgrCsRvXx0Bdn) | [Me Cansé](https://open.spotify.com/album/5mj2wDiIMRrgIGPQTW321O) | 5:28 | 2026-07-17 |  |
+| [Me Desvelo](https://open.spotify.com/track/4N9QiJ4tSaNIfjX45cIdsG) | [Lagrimitas](https://open.spotify.com/artist/6ciaCuNXH1oI9zNW0Wrm9a) | [Me Desvelo](https://open.spotify.com/album/4YiiyDPZh33f6ekAAxICMp) | 2:43 | 2026-10-16 |  |
 | [Me Tiré](https://open.spotify.com/track/0ApZq70y3QiAZIVFeXkXP7) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Me Tiré](https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m) | 5:16 | 2025-03-07 | 2026-09-12 |
 | [Medicina](https://open.spotify.com/track/2QIzLrFFIAq0WMG16BmgyJ) | [Los Magos](https://open.spotify.com/artist/2zg8HO2cZlSowR4L16SBho) | [Medicina](https://open.spotify.com/album/3Z6BE2pzQ3wSV7UmrBAYvH) | 2:48 | 2026-07-24 |  |
 | [Mejor Persona](https://open.spotify.com/track/1kEFulsxY6K8PekfjAFvaK) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 6:11 | 2023-06-16 | 2026-04-04 |
@@ -346,6 +348,7 @@
 | [Salida de Emergencia](https://open.spotify.com/track/5MZ51pn76FPDljpmpuThsq) | [Hannie Schaft](https://open.spotify.com/artist/1G29EDYLoQukmfPzWUyGQq) | [Este Es el Lugar](https://open.spotify.com/album/4QbUExGROMkYszcKBVJW1G) | 4:34 | 2026-09-25 |  |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 | 2026-04-04 |
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 | 2024-07-06 |
+| [Salven a las Abejas](https://open.spotify.com/track/4Xh8VA9GRNI5VdHUAZevte) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Escuchen los Sonidos](https://open.spotify.com/album/3hTyWhIkVfhnzG3aanP0uQ) | 3:10 | 2026-10-16 |  |
 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2023-05-12 | 2026-02-28 |
 | [Santa Fe \(feat\. Marilina Bertoldi\)](https://open.spotify.com/track/2Lpu0GIzpbiLj4W8ccW3i5) | [Zero Kill](https://open.spotify.com/artist/79Ni1ePx75PABzezrpjmwV), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Lapsus](https://open.spotify.com/album/5mVzHcH0B9KYunmuSgLrq3) | 5:16 | 2022-03-25 | 2023-03-25 |
 | [Semáforos](https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:18 | 2026-04-03 |  |

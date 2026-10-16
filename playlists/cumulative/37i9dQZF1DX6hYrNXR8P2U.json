@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Chechi de Marcos en portada. ",
+  "description": "Homog\u00e9nica y Juana Rozas en portada. ",
   "name": "ALT/AR",
   "tracks": [
     {
@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Basta!",
+        "url": "https://open.spotify.com/album/73jwsOzvKduX2rGWEM0nM5"
+      },
+      "artists": [
+        {
+          "name": "El Club de los Corazones Rotos",
+          "url": "https://open.spotify.com/artist/625WHpXBx5T1qWkSLLtaDp"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161367,
+      "name": "Basta!",
+      "url": "https://open.spotify.com/track/3TMRTIkb9Yqhs8hFdZVnZr"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148893,
       "name": "Capri27",
       "url": "https://open.spotify.com/track/6leusFl4vaVxRU1z9JfUnZ"
@@ -2820,6 +2838,28 @@
       "duration_ms": 178076,
       "name": "complikado",
       "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
+    },
+    {
+      "album": {
+        "name": "Ohm (Deluxe)",
+        "url": "https://open.spotify.com/album/64RcuviCtk6bYC0t8DSEqn"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200349,
+      "name": "Con Vos (feat. Lali)",
+      "url": "https://open.spotify.com/track/2uxTDIosk7109oD2TV8rGe"
     },
     {
       "album": {
@@ -4301,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "El Ventilador",
+        "url": "https://open.spotify.com/album/0EZh4gsGkSmGmMr7X69etz"
+      },
+      "artists": [
+        {
+          "name": "MALUF",
+          "url": "https://open.spotify.com/artist/4ijIESrXcfjLSbZxZbUcly"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156928,
+      "name": "El Ventilador",
+      "url": "https://open.spotify.com/track/00UEsAghS5s1tCEKdILTpj"
+    },
+    {
+      "album": {
         "name": "el vino y el tiempo (feat. Willy Rodr\u00edguez)",
         "url": "https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce"
       },
@@ -4490,7 +4548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 174000,
       "name": "En Vano",
       "url": "https://open.spotify.com/track/6R12ZDn9nyXSdKlT36EhQm"
@@ -4868,7 +4926,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 240535,
       "name": "Fan",
       "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
@@ -5219,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "VALE EQUIVOCARSE",
+        "url": "https://open.spotify.com/album/1Tv9WxsD3meVW30YlfvpWH"
+      },
+      "artists": [
+        {
+          "name": "Bisherop",
+          "url": "https://open.spotify.com/artist/35M9AalZEGS9LRZafQ6VFo"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120624,
+      "name": "Fugazzetta",
+      "url": "https://open.spotify.com/track/1TTt4OcLLxFAGUmGndzKAg"
+    },
+    {
+      "album": {
         "name": "FULL TIME",
         "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
       },
@@ -5238,6 +5314,28 @@
       "duration_ms": 174764,
       "name": "FULL TIME",
       "url": "https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp"
+    },
+    {
+      "album": {
+        "name": "Fush",
+        "url": "https://open.spotify.com/album/1FM9Ryw6VaafYNkO4X1rpd"
+      },
+      "artists": [
+        {
+          "name": "tap",
+          "url": "https://open.spotify.com/artist/6LkwKAWamywo0LoglvtREb"
+        },
+        {
+          "name": "Guido Messina",
+          "url": "https://open.spotify.com/artist/6njJVzue1msfKWBWX5bLio"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182203,
+      "name": "Fush",
+      "url": "https://open.spotify.com/track/2ZL2XMbbGRUDRDd4mxda0Z"
     },
     {
       "album": {
@@ -5409,7 +5507,7 @@
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 255162,
+      "duration_ms": 254130,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/0W0OFZz6e36Srp2Lz5wo3W"
     },
@@ -5758,6 +5856,24 @@
       "duration_ms": 202000,
       "name": "Hojas Largas",
       "url": "https://open.spotify.com/track/50iJkSS5lo6u7dloSKmnm1"
+    },
+    {
+      "album": {
+        "name": "202X",
+        "url": "https://open.spotify.com/album/2K0WBdwP9MfmNdWYNMzWmd"
+      },
+      "artists": [
+        {
+          "name": "Lupretinia",
+          "url": "https://open.spotify.com/artist/6960ZeP0HXwRLo81fBpAlW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124078,
+      "name": "HONDO AL MAR - 202X version",
+      "url": "https://open.spotify.com/track/6gLZdYsSjZmkaxnwcy1Ej6"
     },
     {
       "album": {
@@ -8236,7 +8352,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 232125,
       "name": "mi mejor intento..",
       "url": "https://open.spotify.com/track/5hQcAoszsQ3afsessUJkXc"
@@ -9670,7 +9786,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 174791,
       "name": "NUEVOS AIRES",
       "url": "https://open.spotify.com/track/5u4vrlWOVWJrxR30IP6Jp2"
@@ -10342,7 +10458,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197994,
       "name": "pel\u00edculas perdidas - Remix",
       "url": "https://open.spotify.com/track/1tppL3pCHVjL63aW0rwSAo"
@@ -13312,7 +13428,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 230000,
       "name": "Tita Merello y Alejandra Pradon",
       "url": "https://open.spotify.com/track/4JVBiZjMOZkEm5g8G3D2uE"
@@ -13374,6 +13490,24 @@
       "duration_ms": 229531,
       "name": "Toda la Noche",
       "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
+    },
+    {
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/35yQxId90q0rbEVj3bRjqG"
+      },
+      "artists": [
+        {
+          "name": "Tropicalboy",
+          "url": "https://open.spotify.com/artist/2hu4Pbf212y7f9yE998PIZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194903,
+      "name": "Todo el tiempo que se va",
+      "url": "https://open.spotify.com/track/0uVq8zN0gY8tZLfnqRlbwJ"
     },
     {
       "album": {
@@ -14763,6 +14897,28 @@
     },
     {
       "album": {
+        "name": "VOS TENES TU NOVIO",
+        "url": "https://open.spotify.com/album/0LuuWYnNtKsyc7XaX9yf4j"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        },
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221875,
+      "name": "VOS TENES TU NOVIO",
+      "url": "https://open.spotify.com/track/43jQPZgoRjpFD2YWmWNyXv"
+    },
+    {
+      "album": {
         "name": "Mufa",
         "url": "https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO"
       },
@@ -15064,7 +15220,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178608,
       "name": "Yanina",
       "url": "https://open.spotify.com/track/3ERN9saVeg8WeMe8m48Spd"

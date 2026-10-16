@@ -4,10 +4,11 @@
 
 > The official music from the Battlefield franchise
 
-62 songs - 3 hr 46 min
+65 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [666 Conducer](https://open.spotify.com/track/0UgorYXmz0oFYSyK8ftrGb) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Baby 81](https://open.spotify.com/album/6LwDQs1eEiLdVmKSKL9Xlw) | 3:59 | 2026-10-15 |  |
 | [99 Problems](https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 3:54 | 2026-02-18 |  |
 | [A Theme For Kjell](https://open.spotify.com/track/3WZEr3mdRoAcmtnWBWQkxF) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 4 \(Original Soundtrack\)](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) | 3:36 | 2026-02-18 |  |
 | [Asleep at the Wheel \- Remastered 2024](https://open.spotify.com/track/11GNdEEuDtGyXYMKtZVt8h) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan \(Remastered 2024\)](https://open.spotify.com/album/5CvcBUPiu16gDqrY1rnvvr) | 4:06 | 2026-07-23 |  |
@@ -25,6 +26,7 @@
 | [Battlefield V Legacy Theme](https://open.spotify.com/track/3LBzYSJzJVCyff1bLBOzcr) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Patrik Andrén](https://open.spotify.com/artist/6RgbIwWiBcHtDEk77uNjrA) | [Battlefield V \(Original Soundtrack\)](https://open.spotify.com/album/4SAV75H61yWLg3tiIwM2FX) | 3:35 | 2026-02-18 |  |
 | [Battlefield: The After\-party](https://open.spotify.com/track/2Ow6WvNDcW3gxSMxCZ0qXq) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz), [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Battlefield 6 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) | 3:48 | 2026-02-18 |  |
 | [Black Beatles](https://open.spotify.com/track/3JlP8EkTyPiWDRbka7CtP6) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/6owiReuvPVSOpulm9diUVd) | 4:51 | 2026-02-18 |  |
+| [Blood Hands](https://open.spotify.com/track/21XbBWCMvtfpyriyHpxAry) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 3:09 | 2026-10-15 |  |
 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2026-02-18 |  |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2026-02-18 |  |
 | [Brooklyn Assault](https://open.spotify.com/track/7MFdsLtwlN2HAlFQzv3ogQ) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Battlefield 6 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) | 1:49 | 2026-02-18 |  |
@@ -49,6 +51,7 @@
 | [La Bourse](https://open.spotify.com/track/53agjmQ3aAPCfoUdSjgRfA) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 3 \(Original Soundtrack\)](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC) | 0:53 | 2026-02-18 |  |
 | [Last Resort](https://open.spotify.com/track/4YLI2hVQu66q23ScZKFg47) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/4T1iDqGZflgQdzTPSV7mBa) | 3:19 | 2026-02-18 |  |
 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 | 2026-02-18 |  |
+| [Love Train](https://open.spotify.com/track/4BPGAt5Q5IOQIqBPEJdKTG) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 3:01 | 2026-10-15 |  |
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2026-02-18 |  |
 | [Making Love to Morgan Wallen](https://open.spotify.com/track/3Ks8ihjDWX6D1abq9xgPqF) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/4ME4cmhrGAWiewVOTMnmi2) | 4:09 | 2026-02-18 |  |
 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:38 | 2026-02-18 |  |

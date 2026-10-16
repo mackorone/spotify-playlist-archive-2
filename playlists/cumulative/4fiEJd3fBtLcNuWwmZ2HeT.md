@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-566 songs - 1 day 9 hr 11 min
+568 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-08-31 |  |
 | [I want to be poisoned by you and drown](https://open.spotify.com/track/1EXISH6kISEMaqXAoD8uEO) | [式浦躁吾](https://open.spotify.com/artist/64tqgUSdRPy0Kl8KmvBj8s) | [I want to be poisoned by you and drown](https://open.spotify.com/album/165uzoJNb4F27IaludLZCU) | 2:12 | 2024-10-14 |  |
 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu) | 2:27 | 2026-02-18 |  |
+| [I'll Throw My Emotions Away](https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH) | [Riproducer](https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N) | [My Brain The Musical](https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S) | 4:44 | 2026-10-15 |  |
 | [i'm high](https://open.spotify.com/track/4Ff2jbq4IvpGQRjrwbge4t) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [i'm high](https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03) | 4:12 | 2026-01-11 |  |
 | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/track/4H5yS7hAdspvJ99wConp95) | [ki\-you](https://open.spotify.com/artist/5jaTqsboVvCuvp8QXaOXjc), [Ui](https://open.spotify.com/artist/3QffMjj7uwfV2xqGhHiIZq), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/album/2he6vKNJgpSofmf8jQXNTy) | 2:40 | 2026-09-11 |  |
 | [If...with tears in one's eyes](https://open.spotify.com/track/3OikLDf5WAJkVinnP30Cqp) | [SHAZNA](https://open.spotify.com/artist/1qWhc5xaI8R8Mv95ZY2rY6) | [Promise Eve](https://open.spotify.com/album/1fSiPEa4ZV41tivCVUqhcD) | 3:05 | 2025-09-25 |  |
@@ -369,6 +370,7 @@
 | [ZEKKOU](https://open.spotify.com/track/7nlj9QwWHCmDPq89CkebOs) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ZEKKOU](https://open.spotify.com/album/0aT6OYiBjgEMfA92jWmoeE) | 1:53 | 2026-01-26 |  |
 | [「Crazy ∞ nighT」 feat.いかさん\(カバー\)](https://open.spotify.com/track/0a64sJhQS80cXPWHR7QhdA) | [HitoshizukuP](https://open.spotify.com/artist/5Vozl7NL075bgJOe1iSlcP), [やま△](https://open.spotify.com/artist/5iw5VPMwEb9vomcLBDwFPK) | [ボクらの最終定理](https://open.spotify.com/album/0iFf8I1UnP7pzBtbsyYeij) | 3:22 | 2024-03-10 |  |
 | [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 | 2025-11-04 |  |
+| [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 | 2026-10-15 |  |
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-06 |  |
 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:51 | 2025-07-20 |  |

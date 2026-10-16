@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAASo17WVfLliZlBIz5MuPXy",
+  "snapshot_id": "as7GAAAAAABCoGWZXcNfAQiP6KAF88wp",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "The Lovesong Writer",
-      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -419,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
+      "duration_ms": 318226,
+      "name": "The Lovesong Writer",
+      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
     },
     {
       "added_at": null,
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Application For Release From The Dream",
-        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+        "name": "White Bikes",
+        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 269721,
-      "name": "Application For Release From The Dream",
-      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
+      "duration_ms": 265570,
+      "name": "White Bikes",
+      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
     },
     {
       "added_at": null,
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The House Lights",
-        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Ladies And Gentlemen: My Brother, The Failure",
-      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "added_at": null,
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Friends In The Armed Forces",
-      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Friends In The Armed Forces",
+      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Devoluci\u00f3n",
         "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217186,
       "name": "In-Transmission",
       "url": "https://open.spotify.com/track/74IEX2wviU359ODZwmtG2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
     },
     {
       "added_at": null,

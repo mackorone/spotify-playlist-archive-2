@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
   "name": "R&Bae",
   "tracks": [
+    {
+      "album": {
+        "name": "#PASLETEMPS",
+        "url": "https://open.spotify.com/album/61vdoj0fqvqPFT91NjUmPZ"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128275,
+      "name": "#PASLETEMPS",
+      "url": "https://open.spotify.com/track/63zxFqe1AVO5Le33fvfP45"
+    },
     {
       "album": {
         "name": "1 Minute",
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150872,
       "name": "Follow me",
       "url": "https://open.spotify.com/track/6pgzFQkEONKLWG3Q1w3ErS"
@@ -6133,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
+    },
+    {
+      "album": {
         "name": "J'en veux encore",
         "url": "https://open.spotify.com/album/0wJ83M3KizDfFGf5LiW60L"
       },
@@ -6510,7 +6546,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155454,
       "name": "Je Signe",
       "url": "https://open.spotify.com/track/5bQ2c0NXFMuo0bhO0OU68i"
@@ -9279,6 +9315,28 @@
     },
     {
       "album": {
+        "name": "ZMIG EXPANSION",
+        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "NAVR\u00c9",
+      "url": "https://open.spotify.com/track/2E0HZe6I8XPmGDzNCBHSuz"
+    },
+    {
+      "album": {
         "name": "NDENGE NINI",
         "url": "https://open.spotify.com/album/5Z5Ws3kl6PTc7jF03H9haF"
       },
@@ -9476,6 +9534,28 @@
       "duration_ms": 214895,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/3vYKnqj1DEt7WEBk2mPzPH"
+    },
+    {
+      "album": {
+        "name": "SWITCH PART. 1",
+        "url": "https://open.spotify.com/album/6P9PuFIGuJSmMkc8pDlpKp"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179473,
+      "name": "NONCHALANT (feat. Prototype)",
+      "url": "https://open.spotify.com/track/1MqN5070Dp3gXgKFLpL9gs"
     },
     {
       "album": {
@@ -11969,6 +12049,24 @@
     },
     {
       "album": {
+        "name": "S.M.L",
+        "url": "https://open.spotify.com/album/5uuU4OMYKuAwWqMZIK1vgx"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "S.M.L",
+      "url": "https://open.spotify.com/track/0HWA7rwu3ZUZvA85PDkaMu"
+    },
+    {
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/08ksLbbYidSLVQ3W79Lwt6"
       },
@@ -12452,6 +12550,24 @@
       "duration_ms": 135413,
       "name": "Sexy Chuchu",
       "url": "https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8"
+    },
+    {
+      "album": {
+        "name": "SEXY DINO",
+        "url": "https://open.spotify.com/album/3frexKb8x3HgamacKlIz3D"
+      },
+      "artists": [
+        {
+          "name": "Teyma",
+          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176252,
+      "name": "SEXY DINO",
+      "url": "https://open.spotify.com/track/3mDTu0kKfjj72JqboYClnn"
     },
     {
       "album": {
@@ -13049,6 +13165,24 @@
     },
     {
       "album": {
+        "name": "Juste avant l'\u00e9tincelle...",
+        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Sous ta peau",
+      "url": "https://open.spotify.com/track/10nq1ICgCxWFHyxQXkGBND"
+    },
+    {
+      "album": {
         "name": "SOUVENIR",
         "url": "https://open.spotify.com/album/0xAfpPg7Skj5S9E8Faw22R"
       },
@@ -13620,7 +13754,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187914,
       "name": "Talons, Pt. 2",
       "url": "https://open.spotify.com/track/6yxn10ZN8rl3XPNPObXMLN"
@@ -13910,7 +14044,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 210000,
       "name": "Termin\u00e9",
       "url": "https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu"
@@ -14624,7 +14758,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 221885,
       "name": "VA LOIN",
       "url": "https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX"
@@ -14682,7 +14816,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150752,
       "name": "VIBES",
       "url": "https://open.spotify.com/track/7pchvc1iKVljVhZLUu7mUs"
@@ -14776,7 +14910,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202920,
       "name": "Viens qu'on se fatigue",
       "url": "https://open.spotify.com/track/5kSiiAu3p9LsJnw7Fz4evF"

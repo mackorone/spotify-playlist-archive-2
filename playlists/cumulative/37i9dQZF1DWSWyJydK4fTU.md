@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-417 songs - 21 hr 11 min
+419 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bis zum Mond und zurück](https://open.spotify.com/track/67DN4peAmexRxZSFxdzVke) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Bis zum Mond und zurück](https://open.spotify.com/album/2f9oYYzbAtEqf5w4IVoDa2) | 2:04 | 2024-08-02 | 2024-12-19 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-22 | 2025-02-20 |
 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-14 | 2026-10-02 |
+| [Blood On Our Hands](https://open.spotify.com/track/2gqatintbIk3Y7lz46zpDP) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Blood On Our Hands](https://open.spotify.com/album/60BNyDHsaazyoTe2MQ0WQA) | 3:18 | 2026-10-15 |  |
 | [Blood Sweat Tears](https://open.spotify.com/track/0zXNtzZZAE8SEAOuq6PEfY) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Blood Sweat Tears](https://open.spotify.com/album/6CBsLqPSsbikgdUINClZOO) | 2:47 | 2024-10-11 | 2024-11-14 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-06-04 | 2025-07-11 |
 | [Blue](https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Blue](https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u) | 3:49 | 2026-02-12 | 2026-03-13 |
@@ -207,7 +208,7 @@
 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-02 | 2024-09-14 |
 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 | 2026-04-23 | 2026-05-15 |
 | [Jamais Été \(Cool\)](https://open.spotify.com/track/2Znp96G4Vy1ZOuCEFheCBF) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN), [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Jamais Été \(Cool\)](https://open.spotify.com/album/2vdKUoBLa2xEUvVAnUgc7F) | 2:36 | 2026-06-25 | 2026-07-10 |
-| [James Dean](https://open.spotify.com/track/5lkAV2SAqgSXN0L2VrNiSi) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [James Dean](https://open.spotify.com/album/6Wu1NQVa0dXVOctX2M96L3) | 3:01 | 2026-09-24 |  |
+| [James Dean](https://open.spotify.com/track/5lkAV2SAqgSXN0L2VrNiSi) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [James Dean](https://open.spotify.com/album/6Wu1NQVa0dXVOctX2M96L3) | 3:01 | 2026-09-24 | 2026-10-16 |
 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-05 | 2026-03-20 |
 | [Jedes Jahr](https://open.spotify.com/track/0wRu4iD5DqZxL7jjwcRr0j) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Jedes Jahr](https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9) | 2:54 | 2025-11-17 | 2026-01-03 |
 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-14 |  |
@@ -367,6 +368,7 @@
 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 | 2025-08-01 | 2025-12-04 |
 | [The One](https://open.spotify.com/track/5eS3K28unzlfVchFSyJMrF) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [The One](https://open.spotify.com/album/0hR1jJLGAzzgxAfnRAtlmo) | 3:01 | 2025-05-22 | 2025-09-25 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-08 | 2026-03-06 |
+| [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 | 2026-10-15 |  |
 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 | 2026-06-25 |  |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-12-18 | 2025-08-02 |
 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 | 2026-05-07 | 2026-07-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Yung Milla",
+  "description": "The best new AUS & NZ Rap. Cover: Kerser",
   "name": "Local Hype",
   "tracks": [
     {
@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Battery Pack",
+        "url": "https://open.spotify.com/album/6mfxApVh218mHriOCrLpQP"
+      },
+      "artists": [
+        {
+          "name": "Eo",
+          "url": "https://open.spotify.com/artist/7GKKyI2hagbhshi8SaFhjM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178241,
+      "name": "2Cleva",
+      "url": "https://open.spotify.com/track/6SkpDOjj64i8NlCg8Wz1zg"
+    },
+    {
+      "album": {
         "name": "2EAZY",
         "url": "https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx"
       },
@@ -294,6 +312,24 @@
       "duration_ms": 231750,
       "name": "2pac",
       "url": "https://open.spotify.com/track/52441KGFUdzLHTPjugzNw4"
+    },
+    {
+      "album": {
+        "name": "EUREKA",
+        "url": "https://open.spotify.com/album/0JjkD5MARX00fwUPTg3J5W"
+      },
+      "artists": [
+        {
+          "name": "Trae Monte",
+          "url": "https://open.spotify.com/artist/7sdY3zddktcb7lWeYHfCyq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127995,
+      "name": "3 For 3",
+      "url": "https://open.spotify.com/track/0zRIkTIhTpubHspBJbL25b"
     },
     {
       "album": {
@@ -658,7 +694,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178181,
       "name": "6PM Somewhere",
       "url": "https://open.spotify.com/track/5WEysL7Mt6FWb61bizCSIx"
@@ -1092,6 +1128,28 @@
       "duration_ms": 180785,
       "name": "af1 2.0",
       "url": "https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET"
+    },
+    {
+      "album": {
+        "name": "AFTER THE PARTY",
+        "url": "https://open.spotify.com/album/3Z7fkP5drgWHjibyOctHx3"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141480,
+      "name": "AFTER THE PARTY",
+      "url": "https://open.spotify.com/track/5Zobujy9uygazwjWTZDPlx"
     },
     {
       "album": {
@@ -8280,7 +8338,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168000,
       "name": "Dubs Up",
       "url": "https://open.spotify.com/track/5I0aS1XmscbaleYxPkC5w5"
@@ -8480,6 +8538,24 @@
       "duration_ms": 191289,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/7MeaeQ0ANQ8k85bsM5U4sL"
+    },
+    {
+      "album": {
+        "name": "Effortless",
+        "url": "https://open.spotify.com/album/5aetSrrhTetpi8jXtxpcaW"
+      },
+      "artists": [
+        {
+          "name": "Kerser",
+          "url": "https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/5O3wwWyc6xJKJpCdyOge1R"
     },
     {
       "album": {
@@ -9066,6 +9142,28 @@
       "duration_ms": 170434,
       "name": "Face It",
       "url": "https://open.spotify.com/track/2jmwUQDIENcoLKAzfz7hLi"
+    },
+    {
+      "album": {
+        "name": "FACEBONE! (feat. Ahk Sair)",
+        "url": "https://open.spotify.com/album/1mfHerClXed7AwccKJ5GBp"
+      },
+      "artists": [
+        {
+          "name": "Kowa Mirai",
+          "url": "https://open.spotify.com/artist/3YGBevTng3pYSHe79QJ7xu"
+        },
+        {
+          "name": "Ahk Sair",
+          "url": "https://open.spotify.com/artist/2FbwiaSrER77DKwpQzRE9d"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160723,
+      "name": "FACEBONE! (feat. Ahk Sair)",
+      "url": "https://open.spotify.com/track/7HRp7QvQtcRHchRQKbtj6a"
     },
     {
       "album": {
@@ -12658,7 +12756,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153245,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6dB13jgFnMLynd6K1FO3nT"
@@ -18602,7 +18700,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153409,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7"
@@ -21932,7 +22030,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180835,
       "name": "Out In The Sunshine",
       "url": "https://open.spotify.com/track/2HXJDSezZ390YOkldE0vjm"
@@ -22714,6 +22812,24 @@
       "duration_ms": 185077,
       "name": "Perfect Tension",
       "url": "https://open.spotify.com/track/6kRUXZseQ0oUik1DeyffDK"
+    },
+    {
+      "album": {
+        "name": "Phaethon",
+        "url": "https://open.spotify.com/album/1URyFFGLaZxQGzpVXvycTT"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220979,
+      "name": "Phaethon",
+      "url": "https://open.spotify.com/track/2jTiYWuVU7p77s0RQ57ETy"
     },
     {
       "album": {
@@ -26508,7 +26624,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189834,
       "name": "Show Up, Show Out",
       "url": "https://open.spotify.com/track/0DCAJ5FgC3nQMinOX3qXXj"
@@ -28440,7 +28556,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 196990,
       "name": "Swear Mums",
       "url": "https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az"
@@ -33890,6 +34006,24 @@
       "duration_ms": 135652,
       "name": "YAPPA YAPPA",
       "url": "https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA"
+    },
+    {
+      "album": {
+        "name": "yeah true",
+        "url": "https://open.spotify.com/album/16QwBMte0Xby7jVHdFnWJb"
+      },
+      "artists": [
+        {
+          "name": "Oshua",
+          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "yeah true",
+      "url": "https://open.spotify.com/track/1IcHL6oRnza55VXkjDUBju"
     },
     {
       "album": {

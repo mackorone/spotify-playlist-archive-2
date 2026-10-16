@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Tabber)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Zion.T)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -634,6 +634,24 @@
       "duration_ms": 182439,
       "name": "All of Me (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/4X4W051XN4gViiCy6rlIy1"
+    },
+    {
+      "album": {
+        "name": "PRAISE",
+        "url": "https://open.spotify.com/album/2aG8BXFCuU5r6ys9aL8DLm"
+      },
+      "artists": [
+        {
+          "name": "Yel",
+          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "ALMOND JOY",
+      "url": "https://open.spotify.com/track/4JBWIzJG9Y37GtP7Pi11bF"
     },
     {
       "album": {
@@ -4095,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "first again",
+        "url": "https://open.spotify.com/album/65XeF2pI8ucTRUAzktPkiF"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "first again",
+      "url": "https://open.spotify.com/track/32K5WIilgKY4sq1LLlm7uZ"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/3BGZoDfmfyEpcnnlRS1Jux"
       },
@@ -5799,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "In Yeonhui-dong",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221153,
+      "name": "In Yeonhui-dong",
+      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
+    },
+    {
+      "album": {
         "name": "insomnia (feat. KURO)",
         "url": "https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs"
       },
@@ -6070,6 +6124,24 @@
       "duration_ms": 157168,
       "name": "jellyfish",
       "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+    },
+    {
+      "album": {
+        "name": "jenga",
+        "url": "https://open.spotify.com/album/2Wh8weCUuNwJnLCaCKrJz9"
+      },
+      "artists": [
+        {
+          "name": "harry kim",
+          "url": "https://open.spotify.com/artist/5mVriC7pIC1vvJjhDs0OK0"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194393,
+      "name": "jenga",
+      "url": "https://open.spotify.com/track/7hlQ7F3hNZqKHc5luDj03z"
     },
     {
       "album": {
@@ -7090,6 +7162,24 @@
       "duration_ms": 200375,
       "name": "Lover Boy (feat. khaki)",
       "url": "https://open.spotify.com/track/1W1QBvmbTJ4OLkRkpTJOsw"
+    },
+    {
+      "album": {
+        "name": "Osaka - Seoul - Kiel",
+        "url": "https://open.spotify.com/album/32y8kpIZR4WTmX3C8auj7n"
+      },
+      "artists": [
+        {
+          "name": "NIKA",
+          "url": "https://open.spotify.com/artist/6pnKekRHJdpKCadKeW4JOT"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Lover\u2032s Night",
+      "url": "https://open.spotify.com/track/1tHGv8y4ZVmM9SsfVC9run"
     },
     {
       "album": {
@@ -9682,7 +9772,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147299,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
@@ -9924,7 +10014,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 206857,
       "name": "Sex Genius",
       "url": "https://open.spotify.com/track/0keBlUMTT3es63FPRblZ71"
@@ -11146,7 +11236,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187692,
       "name": "Tell Me What You Feel",
       "url": "https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR"
@@ -11978,7 +12068,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220000,
       "name": "victim mentality",
       "url": "https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO"
@@ -12502,7 +12592,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 207626,
       "name": "Who went to the toilet?",
       "url": "https://open.spotify.com/track/7BxcVRP7iu7JUJJ5M0oJh7"

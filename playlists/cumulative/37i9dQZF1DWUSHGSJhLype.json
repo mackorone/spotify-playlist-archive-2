@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "10 Segundos",
+        "url": "https://open.spotify.com/album/7K4DvZwYtIrcOuA8piTPRw"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181956,
+      "name": "10 Segundos",
+      "url": "https://open.spotify.com/track/7iKrmZ55oIjC51J4c3MxG1"
+    },
+    {
+      "album": {
         "name": "2 Descaradinhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/4IuKk2IULwLhudSQfPSl5H"
       },
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -1172,7 +1194,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156034,
       "name": "Arame Farpado",
       "url": "https://open.spotify.com/track/1nPAnnIsvOWmPEBY5OECXd"
@@ -1268,6 +1290,32 @@
       "duration_ms": 156444,
       "name": "Assanhadinha",
       "url": "https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR"
+    },
+    {
+      "album": {
+        "name": "Assunto",
+        "url": "https://open.spotify.com/album/4zqZKFQDTIlLAPeYXbdyiE"
+      },
+      "artists": [
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133396,
+      "name": "Assunto",
+      "url": "https://open.spotify.com/track/21KxzoufcNs3QeO325eVt2"
     },
     {
       "album": {
@@ -3508,7 +3556,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 116250,
       "name": "Disneyl\u00e2ndia",
       "url": "https://open.spotify.com/track/42bT00XQO5QlRo5HJQsGYn"
@@ -4892,6 +4940,24 @@
       "duration_ms": 153965,
       "name": "Ficamento",
       "url": "https://open.spotify.com/track/7tGzVJFdCTrcaPg3fqPN3X"
+    },
+    {
+      "album": {
+        "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Higor",
+          "url": "https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157184,
+      "name": "Flash - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
     },
     {
       "album": {
@@ -7207,6 +7273,28 @@
     },
     {
       "album": {
+        "name": "Mega Hair (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6x2tya5gbF2JqQIvW1p0ST"
+      },
+      "artists": [
+        {
+          "name": "Netto Brito",
+          "url": "https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "Mega Hair - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lZjGV5YRf4JP82ylbO0yu"
+    },
+    {
+      "album": {
         "name": "Meia-noite e Meia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6C5tZaCt38gbWBIIfdMOUP"
       },
@@ -8616,7 +8704,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155697,
       "name": "N\u00e3o Me Cutuca",
       "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
@@ -8764,6 +8852,28 @@
       "duration_ms": 162461,
       "name": "N\u00e3o Vou Namorar",
       "url": "https://open.spotify.com/track/027ielmg4mNR1p1Ds3Mvgh"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Vou Te Bloquear",
+        "url": "https://open.spotify.com/album/6IZebaqHqHmeL0uoapPQQB"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "N\u00e3o Vou Te Bloquear",
+      "url": "https://open.spotify.com/track/6DocVKVk9h2TXdd1gdpfjK"
     },
     {
       "album": {
@@ -10019,6 +10129,28 @@
     },
     {
       "album": {
+        "name": "Ao Vivo em Goi\u00e2nia - Ep.2",
+        "url": "https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143371,
+      "name": "Postinho de Gasolina",
+      "url": "https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh"
+    },
+    {
+      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
       },
@@ -10126,7 +10258,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137560,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/7u3wnVbQVWIVjSfm1lKcmS"
@@ -10428,7 +10560,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176073,
       "name": "QUE LOUCURA - Remix",
       "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"
@@ -10766,7 +10898,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 221538,
       "name": "Resenha de Ex-love 2.0",
       "url": "https://open.spotify.com/track/5W5X1peSN7er7ZIEMZBI3H"
@@ -11080,7 +11212,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151596,
       "name": "Sal Grosso",
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
@@ -12454,7 +12586,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 167692,
       "name": "Telefone Sem Fio - Ao Vivo",
       "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
@@ -13984,7 +14116,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148921,
       "name": "V\u00eddeo Sensual",
       "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo"

@@ -2,9 +2,9 @@
 
 ### [mint Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in Africa\. Cover: FKA MASH
+> The best dance hits in Africa\. Cover: Darque
 
-1,517 songs - 5 day 14 hr 17 min
+1,518 songs - 5 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Amandla](https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Amandla](https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah) | 6:10 | 2023-11-03 | 2024-04-26 |
 | [Amanxeba](https://open.spotify.com/track/0WGcw62a3tCniUTFP50lWt) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Indalo](https://open.spotify.com/album/7kx9yTATM8wc4c1u4fmwQc) | 7:32 | 2024-08-29 | 2025-01-17 |
 | [Amanxeba](https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY) | [Sami'Kay](https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7), [Misokuhle](https://open.spotify.com/artist/7ch05S0MB1zfGB50F7PRCL) | [Amanxeba](https://open.spotify.com/album/3A3JFmEMkrIpKUGubH4KJH) | 6:55 | 2026-01-08 | 2026-05-30 |
+| [Amaphupho](https://open.spotify.com/track/2vJVZqBU5crXahDo0GhC2U) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Open Your Eyes More \(Deluxe\)](https://open.spotify.com/album/7EeiOTP8ycMXT7BFmoC7Ar) | 6:55 | 2026-10-15 |  |
 | [Amaphupho](https://open.spotify.com/track/2zXofbvj4aLQkwXvfLtazL) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV), [Exclusive Drumz](https://open.spotify.com/artist/3rNiGadXFR9NyaHAT0utl6) | [Amaphupho](https://open.spotify.com/album/58jofMkMku2onn2IUdRNvZ) | 4:52 | 2025-10-10 | 2026-01-15 |
 | [Amaphupho](https://open.spotify.com/track/45hTW7vepklO2ZNSEAoFYs) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [UNDERRATED 2.0](https://open.spotify.com/album/2ZNqWRe7AbH6HRiTwtFvkX) | 6:58 | 2023-06-02 | 2023-06-23 |
 | [Amaphutha](https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1) | [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Acquiesce](https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu) | 5:33 | 2026-01-08 | 2026-07-10 |

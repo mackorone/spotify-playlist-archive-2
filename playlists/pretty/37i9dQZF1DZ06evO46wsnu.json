@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 179727,
+  "num_followers": 179744,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADjesaPge91wWTkWxAtgVBV",
+  "snapshot_id": "as7GAAAAAAAnEjGPiIDEBAuzV8h9eP1B",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Injection",
-      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
+      "duration_ms": 181453,
+      "name": "The Good Left Undone",
+      "url": "https://open.spotify.com/track/7eWuwGCowJAlHAGiHuH8UI"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 181453,
-      "name": "The Good Left Undone",
-      "url": "https://open.spotify.com/track/7eWuwGCowJAlHAGiHuH8UI"
+      "duration_ms": 199213,
+      "name": "Injection",
+      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 257000,
       "name": "Tragedy + Time",
       "url": "https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unraveling (Re-Issue)",
-        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Everchanging",
-      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 248986,
       "name": "People Live Here",
       "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unraveling (Re-Issue)",
+        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Everchanging",
+      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/0oVGfCae0v0ygXbYklG5fk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224973,
       "name": "Forfeit",
       "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/0oVGfCae0v0ygXbYklG5fk"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 255960,
-      "name": "The Black Market",
-      "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 204160,
       "name": "Talking To Ourselves",
       "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "The Black Market",
+      "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 142892,
-      "name": "Faint Resemblance - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233280,
       "name": "Broken Dreams, Inc.",
       "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 142892,
+      "name": "Faint Resemblance - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 233553,
-      "name": "Far From Perfect - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226960,
       "name": "Sudden Urge",
       "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 233553,
+      "name": "Far From Perfect - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
     },
     {
       "added_at": null,

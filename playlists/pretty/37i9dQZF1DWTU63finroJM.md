@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,587 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,585 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 3 | [sur](https://open.spotify.com/track/4uSdRZl6iMyOAujgnGTfnY) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [de visita](https://open.spotify.com/album/3roNPvfUr5E8EJECXx7AwX) | 3:13 |
 | 4 | [Al Revés](https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Al Revés](https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d) | 3:02 |
 | 5 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
-| 6 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
-| 7 | [P0RN0](https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Chesyprod](https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD) | [P0RN0](https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL) | 2:18 |
+| 6 | [P0RN0](https://open.spotify.com/track/5LMy35rxqq4OG4VTWRMtz3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Chesyprod](https://open.spotify.com/artist/3dSQm2WdaqG31BS3DylQFD) | [P0RN0](https://open.spotify.com/album/6B0R5o69CqabFAfU3rIeeL) | 2:18 |
+| 7 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 8 | [Kho Sa Gaya Hoon](https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kho Sa Gaya Hoon](https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N) | 2:07 |
 | 9 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
 | 10 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 12 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
 | 13 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
 | 14 | [stranger](https://open.spotify.com/track/7rIncPcHyKmnsZgyvGhoDw) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:28 |
-| 15 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
-| 16 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
+| 15 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
+| 16 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
 | 17 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
 | 18 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
 | 19 | [MUM SAID](https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [MUM SAID](https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8) | 1:53 |

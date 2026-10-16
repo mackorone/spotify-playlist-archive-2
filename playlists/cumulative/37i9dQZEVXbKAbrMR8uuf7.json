@@ -27248,7 +27248,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 213868,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/37BkJJ6JR2qBmt5PRJaPHi"
@@ -32775,6 +32775,32 @@
     },
     {
       "album": {
+        "name": "PIERDE",
+        "url": "https://open.spotify.com/album/4jtZsvxgPGemIjWm8EfcBY"
+      },
+      "artists": [
+        {
+          "name": "Bubu Saoco",
+          "url": "https://open.spotify.com/artist/4Cse2JK18a8LE4I8tLw6wO"
+        },
+        {
+          "name": "K2 INSTRUMENTAL",
+          "url": "https://open.spotify.com/artist/6g4udKFE5XMP1Vzu9O87om"
+        },
+        {
+          "name": "Bubu Saoco K2 Instrumental",
+          "url": "https://open.spotify.com/artist/5RTWFIus768a4N7ly6LA8B"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101344,
+      "name": "PIERDE",
+      "url": "https://open.spotify.com/track/6ins62mbmfjuyx3GrWgBik"
+    },
+    {
+      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
       },
@@ -33936,7 +33962,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 240195,
       "name": "PPC",
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
@@ -45752,7 +45778,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

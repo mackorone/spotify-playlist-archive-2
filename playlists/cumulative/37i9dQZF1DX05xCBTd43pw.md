@@ -2,9 +2,9 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
+> Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Zoë Më
 
-597 songs - 1 day 7 hr 0 min
+599 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 | 2025-07-31 | 2026-10-09 |
 | [Different Life](https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Different Life](https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E) | 2:43 | 2026-07-16 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-02 |  |
+| [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 | 2026-10-15 |  |
 | [distance](https://open.spotify.com/track/3LJ5QtTyjtBgsMVLZsLYj0) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [distance](https://open.spotify.com/album/7bmRFHbePpU69LAIRY8X66) | 3:20 | 2026-05-21 | 2026-06-26 |
 | [Divine](https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins \(Deluxe\)](https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB) | 3:23 | 2025-12-05 |  |
 | [Dodo](https://open.spotify.com/track/4uwXA0cDCqfLhBILOXKHl8) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy), [Dibby Sounds](https://open.spotify.com/artist/3K8wOgBm2F7eT4ARLsLq1c) | [EGREGORE](https://open.spotify.com/album/1dH56AsyhoFITRAV8E9zkq) | 3:05 | 2025-04-24 | 2025-05-02 |
@@ -296,7 +297,7 @@
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 | 2024-10-04 |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 | 2025-02-14 | 2025-10-03 |
-| [Kleines Lied](https://open.spotify.com/track/4WOqim4SQDPgjp3nxeTl0U) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kleines Lied](https://open.spotify.com/album/7EO8VCvJXe9QIDEBoTnGKG) | 2:39 | 2026-07-30 |  |
+| [Kleines Lied](https://open.spotify.com/track/4WOqim4SQDPgjp3nxeTl0U) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kleines Lied](https://open.spotify.com/album/7EO8VCvJXe9QIDEBoTnGKG) | 2:39 | 2026-07-30 | 2026-10-16 |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [La Bambele](https://open.spotify.com/track/1UB7rmiUlZEpA7EKLWFoG0) | [Müslüm](https://open.spotify.com/artist/30n84qoTYUcib1cU4WJj9h) | [Apochalüpt](https://open.spotify.com/album/3eIqmJS11sy0lZCtAvFa9M) | 3:10 | 2025-05-08 | 2025-05-16 |
 | [Lakers](https://open.spotify.com/track/0351Q9c4ETLOlr34NGQyEN) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 3:23 | 2025-04-24 | 2025-05-02 |
@@ -341,7 +342,7 @@
 | [match](https://open.spotify.com/track/4XvqwNxxXci3LBxjgbmjvj) | [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P), [FAU$TINO](https://open.spotify.com/artist/41mWHdUrRkLbXOxtyAwRuF), [Manu913](https://open.spotify.com/artist/6m8KlKXrvvy0mXGf2dMoZW) | [match](https://open.spotify.com/album/6IoI2KhDtdIKA2drLdfHFu) | 3:13 | 2025-05-29 | 2025-07-26 |
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-11-24 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
-| [Meilenweit](https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS) | [Kim Lemmi](https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC) | [Meilenweit](https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO) | 2:41 | 2026-10-01 |  |
+| [Meilenweit](https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS) | [Kim Lemmi](https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC) | [Meilenweit](https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO) | 2:41 | 2026-10-01 | 2026-10-16 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
 | [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2026-05-05 |
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
@@ -399,6 +400,7 @@
 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 |  |
 | [Paperhearts](https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Paperhearts](https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj) | 3:03 | 2025-01-10 | 2025-03-08 |
 | [Partir pour de vrai](https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Partir pour de vrai](https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq) | 2:42 | 2026-08-27 |  |
+| [People Pleaser](https://open.spotify.com/track/7v5GZwJfcjg0ZRUWkkdVpp) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [People Pleaser](https://open.spotify.com/album/3OcME429LpUx8j5240BnKX) | 2:24 | 2026-10-15 |  |
 | [perles de sang](https://open.spotify.com/track/0lbCihT7AYHcGBe0tsXDzi) | [Mané](https://open.spotify.com/artist/4pvp9ohkSsRCGFNhE2ZkR1) | [perles de sang](https://open.spotify.com/album/34kGclNjhV06a3yc2KH02M) | 4:24 | 2026-04-23 | 2026-05-08 |
 | [Petra Sturzenegger](https://open.spotify.com/track/79fkcZ3Fa04MA5ydqCMVQb) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:30 | 2025-05-08 | 2025-05-16 |
 | [Pillow Song](https://open.spotify.com/track/2PGr4xCiAFnH9o1MIr5oza) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Pillow Song](https://open.spotify.com/album/70EOvr61gUGqUOvNYyEBRQ) | 3:33 | 2024-10-03 | 2024-10-06 |

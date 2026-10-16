@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176741,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/4iVGBdNJHUBcQZKHkKhMTN"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166321,
       "name": "Avante Garde II",
       "url": "https://open.spotify.com/track/56jnTJaI8hwL4VMYCHNUJr"
@@ -7891,6 +7891,28 @@
     },
     {
       "album": {
+        "name": "Daddy Daddy",
+        "url": "https://open.spotify.com/album/0kS3UiWkW6JLRdsrm3FoAm"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180036,
+      "name": "Daddy Daddy",
+      "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
+    },
+    {
+      "album": {
         "name": "Daddy Wey Dey Pamper (Gbedu Version)",
         "url": "https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1"
       },
@@ -9678,7 +9700,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179931,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/2iIf6WmhUOFN3QQyfWOU2b"
@@ -12021,6 +12043,24 @@
     },
     {
       "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/6uUo6pmWWGBTpBco286rE1"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236168,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/3ppt1sX2IaQwEYFiDYMBs2"
+    },
+    {
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/3OQykJKmy4qjR684ZtP8FO"
       },
@@ -12796,7 +12836,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 146229,
       "name": "Forgive Them",
       "url": "https://open.spotify.com/track/7AKGAXjgLwJqjlDiRgPRzm"
@@ -13078,6 +13118,24 @@
       "duration_ms": 140640,
       "name": "Freedom Song",
       "url": "https://open.spotify.com/track/2esjn7VKNcXXlxTquqVqQr"
+    },
+    {
+      "album": {
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
     },
     {
       "album": {
@@ -13422,7 +13480,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 175542,
       "name": "Gimme That",
       "url": "https://open.spotify.com/track/0VXBzkmEvAdPkd1NwogcK5"
@@ -15476,6 +15534,44 @@
       "duration_ms": 164702,
       "name": "Halle",
       "url": "https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8"
+    },
+    {
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "SpotLite Nation",
+          "url": "https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "KHAEL",
+          "url": "https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv"
     },
     {
       "album": {
@@ -17800,7 +17896,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199947,
       "name": "I Belong",
       "url": "https://open.spotify.com/track/6pXjLtmCpTMoYHOa56csXu"
@@ -20833,6 +20929,24 @@
     },
     {
       "album": {
+        "name": "John 14:6",
+        "url": "https://open.spotify.com/album/4LtuXMBcUIbSQY16FdF1AA"
+      },
+      "artists": [
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248058,
+      "name": "John 14:6",
+      "url": "https://open.spotify.com/track/0FJd1iZ3FtWxEODZezld5A"
+    },
+    {
+      "album": {
         "name": "Jokes On You",
         "url": "https://open.spotify.com/album/0FTCCj7kmv9ay2mGyucm6g"
       },
@@ -22625,6 +22739,28 @@
     },
     {
       "album": {
+        "name": "LIVING WATER",
+        "url": "https://open.spotify.com/album/7KbKMCYcCnxrcCtDaKcfWo"
+      },
+      "artists": [
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "LIVING WATER",
+      "url": "https://open.spotify.com/track/5YlKUXhuGwQlVDVCmRNK1u"
+    },
+    {
+      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/4ryDqnS7aEjvOV2dkzDSRB"
       },
@@ -22922,6 +23058,24 @@
       "duration_ms": 266657,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/6Bt6L4p8ZSWLsKr75KAgpW"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122307,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6BK2U3UXKhGz2TbfAqxzCh"
     },
     {
       "album": {
@@ -25347,6 +25501,24 @@
     },
     {
       "album": {
+        "name": "My Baba",
+        "url": "https://open.spotify.com/album/7kx3hrVc2BDcfRvWfInX2e"
+      },
+      "artists": [
+        {
+          "name": "Minister Rachel K",
+          "url": "https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262429,
+      "name": "My Baba",
+      "url": "https://open.spotify.com/track/2eEkTiXfAWfCm6hRBlFryw"
+    },
+    {
+      "album": {
         "name": "My Baby (For My Mind Refix)",
         "url": "https://open.spotify.com/album/0uvBNEyufd5alJGgDCozJF"
       },
@@ -25572,6 +25744,24 @@
       "duration_ms": 205800,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/3pgfdKeCSzBdmpkAGO2BSF"
+    },
+    {
+      "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249714,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
     },
     {
       "album": {
@@ -29963,6 +30153,28 @@
     },
     {
       "album": {
+        "name": "Oshey (Special Version)",
+        "url": "https://open.spotify.com/album/5veT4ShPzMxjYBW9Ta9PTp"
+      },
+      "artists": [
+        {
+          "name": "Zic Music",
+          "url": "https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128875,
+      "name": "Oshey - Special Version",
+      "url": "https://open.spotify.com/track/4RgWlWdrB5lRlFHWxI4iEy"
+    },
+    {
+      "album": {
         "name": "Oshey II",
         "url": "https://open.spotify.com/album/2b3KRX9Xmjhh8PlbNtEzEr"
       },
@@ -30154,6 +30366,28 @@
       "duration_ms": 227146,
       "name": "Over Di World",
       "url": "https://open.spotify.com/track/4bkdT1JmH1QwRWp3ogesse"
+    },
+    {
+      "album": {
+        "name": "Over Do",
+        "url": "https://open.spotify.com/album/7fx1anXzRC3rlW7MkRFzBw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188169,
+      "name": "Over Do",
+      "url": "https://open.spotify.com/track/51UwEzNg0PVggl1MEpkR74"
     },
     {
       "album": {
@@ -31927,6 +32161,24 @@
     },
     {
       "album": {
+        "name": "PROMISES",
+        "url": "https://open.spotify.com/album/0NYyCbw8hpJI2YQp1ZolBB"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219132,
+      "name": "PROMISES",
+      "url": "https://open.spotify.com/track/13mFJm1Dy7MWus3CbJwd3T"
+    },
+    {
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/7qHLWzIqErSImbcz47wrNP"
       },
@@ -31986,7 +32238,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190909,
       "name": "Promises",
       "url": "https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa"
@@ -34596,7 +34848,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 141818,
       "name": "Soji",
       "url": "https://open.spotify.com/track/44GL0KLGlko2aeX8l1Gyub"
@@ -40518,7 +40770,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176436,
       "name": "With you",
       "url": "https://open.spotify.com/track/5I7TtT69kgDmU4Jo7JowvA"
@@ -41140,7 +41392,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156964,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
@@ -41532,7 +41784,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155457,
       "name": "YGML",
       "url": "https://open.spotify.com/track/4Oguo9loZcERniR4Wyudpy"

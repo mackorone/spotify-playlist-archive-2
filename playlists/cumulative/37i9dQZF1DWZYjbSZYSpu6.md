@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: YENA, NOWIMYOUNG\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Epik High, DAVICHI\)
 
-296 songs - 17 hr 19 min
+297 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/album/4eld4LZK1hzHeJZuBw8n35) | 3:31 | 2022-03-24 | 2022-07-29 |
 | [Meet Me At Your Place \(Feat\. KANTO\)](https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7), [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [Meet Me At Your Place](https://open.spotify.com/album/0yrtUoCc020xe7Zy3Mu7vd) | 3:00 | 2022-06-18 | 2022-07-05 |
 | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 | 2025-11-06 | 2025-12-22 |
+| [Mise en scène](https://open.spotify.com/track/0wIwrT28ZIAHdJsTgKhAt9) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Mise en scène](https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4) | 2:58 | 2026-10-15 |  |
 | [Mugshot \(Feat\. UNE\)](https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:01 | 2022-08-12 | 2022-11-02 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-04-21 | 2022-07-23 |
 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King : Eternal Monarch, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 | 2023-09-11 | 2024-04-19 |
@@ -209,7 +210,7 @@
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-04-21 | 2022-05-10 |
 | [Skip again \(With Jin Jun Wang\)](https://open.spotify.com/track/7AvOQ2j6Q98ISq5YeIzRBq) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Jinjunwang](https://open.spotify.com/artist/2ZF8BPqVBSjgtJZvUUDa5i) | [Skip again \(With Jin Jun Wang\)](https://open.spotify.com/album/5McsicvuzAwyq5HWxfop9K) | 3:02 | 2022-03-24 | 2022-04-20 |
 | [Sleepless](https://open.spotify.com/track/2V00oEN3wDfzs932dszmG3) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [SONG HA YOUNG \(fromis\_9\)](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Sleepless](https://open.spotify.com/album/2NkLgDGMhZHcYYkEaaK93O) | 2:55 | 2025-08-14 | 2026-06-06 |
-| [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 | 2025-04-22 |  |
+| [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 | 2025-04-22 | 2026-10-16 |
 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 | 2024-08-10 |  |
 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 | 2022-07-25 | 2026-03-18 |
 | [Somehow Different](https://open.spotify.com/track/1f74SwIBl0FgeFMhefsBbS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Somehow Different](https://open.spotify.com/album/2y0d9PR0HmZ3fiFpik1jQ7) | 3:42 | 2024-03-28 | 2024-05-29 |

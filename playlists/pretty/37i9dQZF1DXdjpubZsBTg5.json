@@ -1,6 +1,6 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 247053,
+  "num_followers": 247092,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Veinte Para Las Doce",
-        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "A\u00fan",
-      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Veinte Para Las Doce",
+        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
-      "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
         "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 259786,
       "name": "Juegos de Amor",
       "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
+      "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
-      },
-      "artists": [
-        {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Bailando en las Veredas",
-      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Vol I",
         "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198520,
       "name": "Viento Loco",
       "url": "https://open.spotify.com/track/1wgUsPEuNiMMOsKYIzKabj"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
+      },
+      "artists": [
+        {
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "Bailando en las Veredas",
+      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
     }
   ],
   "unique_name": "Rock en tu Idioma",

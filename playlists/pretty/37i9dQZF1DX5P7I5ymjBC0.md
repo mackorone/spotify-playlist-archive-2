@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,591 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,605 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 42 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 43 | [Nayi Bhor](https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:05 |
 | 44 | [Ae Re Chanda, Pt\. 4 \(Tillana\)](https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq) | [Shankar Tucker](https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR), [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Filament](https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor) | 3:39 |
-| 45 | [Dream](https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp) | [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Vari](https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI) | 3:44 |
-| 46 | [Kaadambari](https://open.spotify.com/track/0CIftzAZ6bp9I3UbjgZ1J8) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Kaadambari](https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5) | 6:26 |
+| 45 | [Kaadambari](https://open.spotify.com/track/0CIftzAZ6bp9I3UbjgZ1J8) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Kaadambari](https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5) | 6:26 |
+| 46 | [Dream](https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp) | [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Vari](https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI) | 3:44 |
 | 47 | [Jhoomelo \(feat\. Hansa Devi\) \- Maati S1](https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Deepak Ramola](https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4), [Hansa Devi](https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9) | [Jhoomelo \(feat\. Hansa Devi\) \[Maati S1\]](https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn) | 4:19 |
 | 48 | [Mere Suron Mein](https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Ajoy Chakrabarty](https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:27 |
 | 49 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 |

@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Dabda\) \(Meet the emerging talents of Korea!\)
 
-1,712 songs - 3 day 23 hr 52 min
+1,714 songs - 3 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Cocktail love](https://open.spotify.com/track/4eqVxp7h7cTGJaKzefDRhJ) | [Sae Ra](https://open.spotify.com/artist/6YE2PO4gLc8ybNdD5qf0hP) | [A Profitable Cage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/6pdJ94PYofmKEksXlbTSEC) | 3:34 | 2024-04-03 | 2025-01-21 |
 | [Cocoa](https://open.spotify.com/track/0EjHPktdg1klqlZFIkK0fk) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [COCOA](https://open.spotify.com/album/6s5P7lk17DKel6JCpEvexk) | 3:14 | 2025-02-04 | 2026-01-15 |
 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 | 2023-03-31 | 2024-01-03 |
+| [cold](https://open.spotify.com/track/3FENqbU7PTiPZ60Dwm7Skh) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [cold](https://open.spotify.com/album/7H4Ifv07fJNDk4lDuPecia) | 3:40 | 2026-10-15 |  |
 | [Color Blind](https://open.spotify.com/track/1aPtx99z5Nr9B71CVaQkzl) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [Color Blind](https://open.spotify.com/album/65yzd3jv1aq93hEw5plgJw) | 2:29 | 2022-01-24 | 2022-03-03 |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-05 | 2022-11-08 |
 | [Colors \(Feat\. Seo Jayeong\)](https://open.spotify.com/track/3z8ockPtECgmTgMzclJEZQ) | [Nodsgn](https://open.spotify.com/artist/0swWCPlp1ot1VGRcQOfQWA), [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [COLORS](https://open.spotify.com/album/2U2bLL4A5GszHjJBJ5FZ3R) | 3:27 | 2022-06-09 | 2022-07-05 |
@@ -461,6 +462,7 @@
 | [Fall in summer \(Feat\. GRAM\)](https://open.spotify.com/track/4EMzbQQyZ3Do5Lr9fhZ17W) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [Fall in summer \(Feat\. GRAM\)](https://open.spotify.com/album/0o7H7HxfOH14rcfg3lb8Nl) | 2:33 | 2023-07-27 | 2024-01-09 |
 | [Fall Is Coming](https://open.spotify.com/track/4I0kjIezui6dV6uVovFYty) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Fall Is Coming](https://open.spotify.com/album/2P2zTJkaEDQVG58HvaFT9l) | 2:34 | 2024-09-24 | 2025-02-28 |
 | [fallen](https://open.spotify.com/track/14mDHG6i0nOWK2BKXk6eev) | [kyuman](https://open.spotify.com/artist/6kP25N7G38ac03KIwPsiph), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [leaf, leaves](https://open.spotify.com/album/1EpSqXzJzPabeM6yPx0onN) | 2:24 | 2026-01-16 | 2026-07-09 |
+| [Fallen Angel](https://open.spotify.com/track/3ychysmraX2dnOXfaZEwcM) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Kaamos](https://open.spotify.com/album/6kUmjbeGJaY3Q1uBY9jvf9) | 3:01 | 2026-10-15 |  |
 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 | 2025-05-23 | 2025-09-13 |
 | [Falling](https://open.spotify.com/track/7uWkMOwv9Vxu4dA8LXbVK3) | [Chaeree](https://open.spotify.com/artist/1I4Yi8vC8L81PN5DteKnoZ) | [Falling](https://open.spotify.com/album/0W2tomlU7AZNbr2wVe1gpY) | 2:59 | 2023-03-31 | 2023-05-02 |
 | [Fallin′](https://open.spotify.com/track/0vFfabXlHG4MPHzh4zpMae) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [Fallin'](https://open.spotify.com/album/5pXw8KcMeTBN7FQfHpSjNF) | 3:40 | 2023-11-14 | 2024-04-04 |
@@ -494,7 +496,7 @@
 | [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 | 2026-07-08 |  |
 | [Floating](https://open.spotify.com/track/3b4anaoUFT9kkfY1blMxQ7) | [Meanz](https://open.spotify.com/artist/5poeDYDuC0vXkvoIRiaj9W) | [Journey](https://open.spotify.com/album/2TLeiTKcQdQ0G3Xp8uP6xe) | 3:29 | 2022-01-10 | 2022-02-05 |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-02 | 2022-04-21 |
-| [Flower](https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [Flower](https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1) | 3:28 | 2026-02-01 |  |
+| [Flower](https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [Flower](https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1) | 3:28 | 2026-02-01 | 2026-10-16 |
 | [flower](https://open.spotify.com/track/3jgkcSbhBatCNlrJAnizNG) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [flower](https://open.spotify.com/album/7K2HNbayHtKdheEdhxTZ0r) | 2:53 | 2022-04-07 | 2022-06-10 |
 | [Flowering](https://open.spotify.com/track/5v8VNtV7jng4tXlW5uL5Lt) | [Route 1](https://open.spotify.com/artist/2LT18ID3Rygm7n13gZBny2) | [Flowering](https://open.spotify.com/album/3KH7GAByNZj6izdvUMjIZA) | 4:03 | 2023-05-01 | 2023-07-06 |
 | [flowers](https://open.spotify.com/track/22lzGZ116s9sdushVec187) | [kimparkjeje](https://open.spotify.com/artist/602h8qtRacImt6YVsJQZci) | [flowers](https://open.spotify.com/album/2BanvUZFBYMnANBgnJEkdz) | 3:31 | 2025-04-18 | 2025-06-27 |
@@ -1356,7 +1358,7 @@
 | [Sunset](https://open.spotify.com/track/0WaaNCMEYKZ5t95mP3Sib9) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/4dyrHFWWpQasYEcPiGKUHZ) | 3:00 | 2022-03-23 | 2022-05-03 |
 | [Super Freak](https://open.spotify.com/track/6c31ORfUpeHQF7df1AZV0X) | [200 \(Eback\)](https://open.spotify.com/artist/0fXWfP9K7O3T7z2uC1CzSc) | [Super Freak](https://open.spotify.com/album/3fHIbiwsluDRAfoebJralo) | 2:00 | 2024-11-11 | 2025-03-31 |
 | [SUPERSTAR](https://open.spotify.com/track/600ClyYoICsYgbrI5LUOgM) | [Woolenciah](https://open.spotify.com/artist/75q8VXGfnNUXiNjKRAQF1Q) | [SUPERSTAR](https://open.spotify.com/album/6iLZ4xQo9KJAAk5gmOpLQk) | 3:12 | 2023-03-31 | 2023-06-02 |
-| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-02-01 |  |
+| [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 | 2026-02-01 | 2026-10-16 |
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-09 | 2022-07-05 |
 | [Sweet Talk \(Feat\. Summer Soul\)](https://open.spotify.com/track/5T8iztCGEcUy7JhFFx8FnN) | [Lym en](https://open.spotify.com/artist/3iezENWrsyQSutsDx3dXD5), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Sweet Talk](https://open.spotify.com/album/19FB56vGsIr9LBoUVTnNub) | 3:09 | 2022-01-27 | 2022-03-03 |
 | [Swim](https://open.spotify.com/track/6HitvCQ2pMox22KVItCLuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [SWIM](https://open.spotify.com/album/3h31kw8EDPtUaihBzPIg54) | 2:53 | 2021-12-02 | 2022-01-11 |

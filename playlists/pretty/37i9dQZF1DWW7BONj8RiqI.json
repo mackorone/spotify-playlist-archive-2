@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 251054,
+  "num_followers": 251075,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Bakanation",
-        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 210755,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Heroes Riddim",
         "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188512,
       "name": "Jamtown",
       "url": "https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Bakanation",
+        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 210755,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Soca Start",
-        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
-      },
-      "artists": [
-        {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
-        },
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 141296,
-      "name": "Soca Start",
-      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Planet Jab Riddim",
         "url": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 191111,
       "name": "Run Wid It",
       "url": "https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Soca Start",
+        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 141296,
+      "name": "Soca Start",
+      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
       "artists": [
         {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 238400,
       "name": "Carnival Contract",
       "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-08-20 14:00:42",

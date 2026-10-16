@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 50540,
+  "num_followers": 50558,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-02 20:38:47",
       "album": {
-        "name": "Grandes \u00e9xitos (Remastered)",
-        "url": "https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Lasso",
-          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
-        }
-      ],
-      "duration_ms": 164572,
-      "name": "Buenas noches mi amor - Remastered",
-      "url": "https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz"
-    },
-    {
-      "added_at": "2026-10-02 20:38:47",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 181506,
       "name": "El Boogie de la Guitarra",
       "url": "https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT"
+    },
+    {
+      "added_at": "2026-10-02 20:38:47",
+      "album": {
+        "name": "Grandes \u00e9xitos (Remastered)",
+        "url": "https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Lasso",
+          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
+        }
+      ],
+      "duration_ms": 164572,
+      "name": "Buenas noches mi amor - Remastered",
+      "url": "https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz"
     },
     {
       "added_at": "2026-10-02 20:38:47",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-02 20:38:47",
       "album": {
-        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
-        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Recordar\u00e9 tu amor (remastered)",
-      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
-    },
-    {
-      "added_at": "2026-10-02 20:38:47",
-      "album": {
         "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
         "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2026-10-02 20:38:47",
       "album": {
-        "name": "Como Acostumbras",
-        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
+        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
+        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
       "artists": [
         {
-          "name": "Gloria Lasso",
-          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Luna de miel",
-      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
+      "duration_ms": 194093,
+      "name": "Recordar\u00e9 tu amor (remastered)",
+      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
     },
     {
       "added_at": "2026-10-02 20:38:47",
@@ -607,6 +591,22 @@
       "duration_ms": 161782,
       "name": "El agarrao - Remastered",
       "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
+    },
+    {
+      "added_at": "2026-10-02 20:38:47",
+      "album": {
+        "name": "Como Acostumbras",
+        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
+      },
+      "artists": [
+        {
+          "name": "Gloria Lasso",
+          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Luna de miel",
+      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
     },
     {
       "added_at": "2026-10-02 20:38:47",

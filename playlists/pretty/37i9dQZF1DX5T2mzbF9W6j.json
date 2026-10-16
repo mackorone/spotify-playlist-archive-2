@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113066,
+  "num_followers": 113069,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Faded Eyes",
-        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177713,
-      "name": "Faded Eyes",
-      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "AIOLI",
         "url": "https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 151875,
       "name": "AIOLI",
       "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Tu M\u00f3j Dom",
         "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 138876,
       "name": "Tu M\u00f3j Dom",
       "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Wo\u0142am",
+        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Wo\u0142am",
+      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "YEYEYO (the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122)",
         "url": "https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 147840,
       "name": "YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122",
       "url": "https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Wo\u0142am",
-        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "Wo\u0142am",
-      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
+        "url": "https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G"
+      },
+      "artists": [
+        {
+          "name": "Wojtek Szuma\u0144ski",
+          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
+        }
+      ],
+      "duration_ms": 181770,
+      "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
+      "url": "https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
-        "url": "https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G"
-      },
-      "artists": [
-        {
-          "name": "Wojtek Szuma\u0144ski",
-          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
-        }
-      ],
-      "duration_ms": 181770,
-      "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
-      "url": "https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Plamy",
-        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "\u017bebro",
-      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Bierz co jest",
         "url": "https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 150252,
       "name": "Bierz co jest",
       "url": "https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Plamy",
+        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "\u017bebro",
+      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Zapomnij mnie",
-        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
+        "name": "Zanim Znikniesz",
+        "url": "https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew"
       },
       "artists": [
         {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+          "name": "DJ Adamus",
+          "url": "https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt"
+        },
+        {
+          "name": "Kayomee",
+          "url": "https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Zapomnij mnie",
-      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
+      "duration_ms": 186310,
+      "name": "Zanim Znikniesz",
+      "url": "https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv"
     }
   ],
   "unique_name": "... ale najpierw kawa",

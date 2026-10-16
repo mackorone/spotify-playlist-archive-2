@@ -1,12 +1,12 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
-  "num_followers": 559563,
+  "num_followers": 559678,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxB6UQbBDRFHmfnWy2bq6DkpNCe",
+  "snapshot_id": "AAAAANA8gMXYrLVXdOKFCLSShNXhVLRf",
   "tracks": [
     {
       "added_at": "2026-10-09 05:34:55",
@@ -241,6 +241,30 @@
       "url": "https://open.spotify.com/track/70F8DfT2o1MYtVQLOJyuBS"
     },
     {
+      "added_at": "2026-10-15 07:15:06",
+      "album": {
+        "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/7fmBRUhfRUJAXWOiTCIXXf"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sonia Kapoor Reshammiya",
+          "url": "https://open.spotify.com/artist/5vvJy2gxIOIdbiMvM8lj7F"
+        }
+      ],
+      "duration_ms": 286582,
+      "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
+    },
+    {
       "added_at": "2026-10-09 05:34:55",
       "album": {
         "name": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
@@ -267,34 +291,6 @@
       "duration_ms": 214516,
       "name": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
       "url": "https://open.spotify.com/track/7J9m7Heb1kdSVdqRgSIDGq"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Bhootni Ka (From \"Udta Teer\")",
-        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Kaka",
-          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
-        },
-        {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 213904,
-      "name": "Bhootni Ka (From \"Udta Teer\")",
-      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
     },
     {
       "added_at": "2026-10-09 05:34:55",
@@ -535,6 +531,34 @@
     {
       "added_at": "2026-10-09 05:34:55",
       "album": {
+        "name": "Bhootni Ka (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 213904,
+      "name": "Bhootni Ka (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
+    },
+    {
+      "added_at": "2026-10-09 05:34:55",
+      "album": {
         "name": "Heropanti",
         "url": "https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0"
       },
@@ -619,22 +643,6 @@
       "duration_ms": 171147,
       "name": "Akhiyaan Gulaab",
       "url": "https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Kaare Bhaware",
-        "url": "https://open.spotify.com/album/70dq6xYxGmC4ueIr98EAlR"
-      },
-      "artists": [
-        {
-          "name": "ShNik",
-          "url": "https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Kaare Bhaware",
-      "url": "https://open.spotify.com/track/6uNgMz4aJ04H3ZY2kcPOra"
     },
     {
       "added_at": "2026-10-09 05:34:55",

@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 257068,
       "name": "Daari Maarina",
       "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198532,
       "name": "E Kshanamey",
       "url": "https://open.spotify.com/track/6j5qKkJpWhRN88ltIAWlru"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 243571,
       "name": "Edho Varamila",
       "url": "https://open.spotify.com/track/3aBodknhLkUpac581YamqC"
@@ -2278,6 +2278,32 @@
       "duration_ms": 179542,
       "name": "Egasa",
       "url": "https://open.spotify.com/track/1CZdzaKNrTCuDyOUKsW7ng"
+    },
+    {
+      "album": {
+        "name": "Em Bathukura",
+        "url": "https://open.spotify.com/album/0mr10RkZR9EXjWRCWsKbQc"
+      },
+      "artists": [
+        {
+          "name": "Vaishakh Jyothis",
+          "url": "https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot"
+        },
+        {
+          "name": "Amando Stanley",
+          "url": "https://open.spotify.com/artist/1lC3ezzlVn9aRInWWVPKgv"
+        },
+        {
+          "name": "Sam Francisco",
+          "url": "https://open.spotify.com/artist/4pioi8ctlnLQCHe56JfJpc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208447,
+      "name": "Em Bathukura",
+      "url": "https://open.spotify.com/track/7rVODSbE38OYpJKbGXfZ02"
     },
     {
       "album": {
@@ -2524,6 +2550,24 @@
       "duration_ms": 276019,
       "name": "Fariyaa",
       "url": "https://open.spotify.com/track/2ur9h7KSNPLFVCV2czUgJD"
+    },
+    {
+      "album": {
+        "name": "FDFS",
+        "url": "https://open.spotify.com/album/1GpCQJAgUc3tzabF8q0IPX"
+      },
+      "artists": [
+        {
+          "name": "brownkiddreams",
+          "url": "https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145507,
+      "name": "Fdfs",
+      "url": "https://open.spotify.com/track/3Gh6xq7IhK65SjzwMfBLpe"
     },
     {
       "album": {
@@ -7112,7 +7156,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156269,
       "name": "Nene Chinnu",
       "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
@@ -11560,7 +11604,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 278117,
       "name": "Tholi Prema",
       "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"

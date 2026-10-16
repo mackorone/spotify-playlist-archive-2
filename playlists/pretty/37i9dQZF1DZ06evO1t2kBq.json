@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 87220,
+  "num_followers": 87236,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADEC4Z4sq4v+hS3SpvbMOF8",
+  "snapshot_id": "as7GAAAAAAC4L01XOztpumtEui7DwmMQ",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 133986,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 107323,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 133986,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 115826,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 117333,
       "name": "Modern Man",
       "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 115826,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95697,
-      "name": "1000 More Fools",
-      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 141720,
       "name": "Flat Earth Society",
       "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95697,
+      "name": "1000 More Fools",
+      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 110320,
-      "name": "Chaos From Within",
-      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+      "duration_ms": 239813,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 239813,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
+      "duration_ms": 110320,
+      "name": "Chaos From Within",
+      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 165075,
-      "name": "Candidate",
-      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 117652,
       "name": "Atheist Peace",
       "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 165075,
+      "name": "Candidate",
+      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
     },
     {
       "added_at": null,

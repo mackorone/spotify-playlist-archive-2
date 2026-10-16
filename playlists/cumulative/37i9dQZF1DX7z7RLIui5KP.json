@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Wendy Kimani",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Iyanii",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 237600,
       "name": "Baddest Vibes",
       "url": "https://open.spotify.com/track/3VtYIGMMoSpgrU5tWGXgaU"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 254680,
       "name": "Ghetto Dala",
       "url": "https://open.spotify.com/track/3MQDQWquB3KcDWVVzhgkhj"
@@ -4479,6 +4479,28 @@
     },
     {
       "album": {
+        "name": "Kijana Wa Ingo",
+        "url": "https://open.spotify.com/album/3hVgiHMNJpxDAodBS9EkrT"
+      },
+      "artists": [
+        {
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Nilipe Ama Nilipishe",
+      "url": "https://open.spotify.com/track/0q3uRtwdeS1dEm5biasd5p"
+    },
+    {
+      "album": {
         "name": "Nimeonja",
         "url": "https://open.spotify.com/album/5OUIg0Vjl2fUoozuGxU31X"
       },
@@ -4730,6 +4752,24 @@
       "duration_ms": 224000,
       "name": "NYR",
       "url": "https://open.spotify.com/track/6cKDHkfxYpIAcOIi1rGnJv"
+    },
+    {
+      "album": {
+        "name": "N\u00eengwendete",
+        "url": "https://open.spotify.com/album/6feXNJEPgGqY5ymP9UxaKE"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "N\u00eengwendete",
+      "url": "https://open.spotify.com/track/1N3p7FQMoPpSHS3XsNJDJk"
     },
     {
       "album": {
@@ -5850,10 +5890,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199323,
       "name": "Soliana",
       "url": "https://open.spotify.com/track/2oObvMD6An11D426VHi3h7"
+    },
+    {
+      "album": {
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/4j7sVVrEg5X31to9IxWDIC"
+      },
+      "artists": [
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX"
     },
     {
       "album": {
@@ -6192,6 +6250,28 @@
       "duration_ms": 239572,
       "name": "Taya",
       "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
+    },
+    {
+      "album": {
+        "name": "Tea",
+        "url": "https://open.spotify.com/album/5hb05N7ITVoYvvfecslxpt"
+      },
+      "artists": [
+        {
+          "name": "Hadaya Eliana",
+          "url": "https://open.spotify.com/artist/1FbR4POuJEavlbVoYnXrz1"
+        },
+        {
+          "name": "Tanasha Donna",
+          "url": "https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "Tea",
+      "url": "https://open.spotify.com/track/555suDHTjFiyCVa9KkqOVb"
     },
     {
       "album": {
@@ -6578,7 +6658,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 240000,
       "name": "Ulinihukumu",
       "url": "https://open.spotify.com/track/21u6bShXJLrxwkoPSmpgue"

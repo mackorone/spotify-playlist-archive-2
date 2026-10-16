@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: あいみょん
 
-3,917 songs - 10 day 9 hr 10 min
+3,918 songs - 10 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3052,7 +3052,7 @@
 | [今日という日を](https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [今日という日を](https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw) | 4:37 | 2026-02-11 |  |
 | [今日の日はさようなら](https://open.spotify.com/track/4HsVLYW6FZbr20ZXZR61Wz) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今日の日はさようなら](https://open.spotify.com/album/5mcAElDTPz2VjJiorse1Z8) | 2:18 | 2024-03-26 | 2024-04-10 |
 | [今生の喜](https://open.spotify.com/track/71dBOO3g27m1HPqA7bV7CP) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [今生の喜](https://open.spotify.com/album/2GUaWPSbCAaEDTGBvjHBW8) | 4:08 | 2023-10-31 | 2023-11-08 |
-| [令和Lady恋愛賛歌](https://open.spotify.com/track/3O6MkX4eUxdNcxGZRZ2y4H) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [令和Lady恋愛賛歌](https://open.spotify.com/album/4vb0ONbzwvZBg4RedryIkn) | 2:45 | 2026-08-25 |  |
+| [令和Lady恋愛賛歌](https://open.spotify.com/track/3O6MkX4eUxdNcxGZRZ2y4H) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [令和Lady恋愛賛歌](https://open.spotify.com/album/4vb0ONbzwvZBg4RedryIkn) | 2:45 | 2026-08-25 | 2026-10-16 |
 | [仲直りのあとは](https://open.spotify.com/track/7adegfO1ubz1HZae429EPT) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [仲直りのあとは](https://open.spotify.com/album/0Wu8vPsDymj28G4C718zL5) | 1:55 | 2024-04-09 | 2024-04-11 |
 | [会いたい](https://open.spotify.com/track/5Uab2kk1H1vBXmDGk34u36) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [会いたい](https://open.spotify.com/album/1y8dpNVXgFqgx7m0hnXZtN) | 6:02 | 2024-11-05 | 2024-11-20 |
 | [会いたい\(想你\)](https://open.spotify.com/track/7wwBheREsRpiJIC0P2jhmH) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい\(想你\)](https://open.spotify.com/album/6dTilXpLProeKxzws8kDx5) | 5:18 | 2022-05-31 | 2022-07-29 |
@@ -3176,6 +3176,7 @@
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-02-28 | 2023-05-24 |
 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2024-12-05 |
+| [咲き誇れ](https://open.spotify.com/track/2t5C9K8bQMCHXG0zdXRI12) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [咲き誇れ](https://open.spotify.com/album/24oSk67TQF7dlvkVJwWtWt) | 4:06 | 2026-10-14 |  |
 | [問.1](https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [問.1](https://open.spotify.com/album/6rceF7Zl8hpcZYiXGNIgg4) | 3:51 | 2024-02-13 | 2024-02-15 |
 | [喫茶ドエル](https://open.spotify.com/track/1fW0qkyx8uHG7NsRh5GmtI) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [喫茶ドエル](https://open.spotify.com/album/75J0VDy8yNgc00CbsiRzv1) | 4:35 | 2026-02-17 | 2026-03-21 |
 | [嘘](https://open.spotify.com/track/4OG5eKOHXUAYRKluAeXU8p) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [嘘](https://open.spotify.com/album/4ZVmsubmaVI5uFvOUs52kk) | 5:06 | 2025-07-15 | 2025-07-23 |
@@ -3536,7 +3537,7 @@
 | [残影](https://open.spotify.com/track/725OdnhbQeM8xJa05RMiMZ) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [残影](https://open.spotify.com/album/5k13cPdumqOwWRI6QMSSdn) | 4:26 | 2024-04-23 | 2024-05-01 |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-10-18 | 2024-12-05 |
 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-18 | 2026-02-12 |
-| [残酷になりますように](https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [翠色に贈る](https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3) | 3:28 | 2026-08-25 |  |
+| [残酷になりますように](https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [翠色に贈る](https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3) | 3:28 | 2026-08-25 | 2026-10-16 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-07-28 | 2023-02-22 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-03 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-08-23 |
@@ -3659,7 +3660,7 @@
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-02 | 2022-06-29 |
 | [神秘の領域へ](https://open.spotify.com/track/6DgqBcs8YYhCunqicmABkT) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:01 | 2022-08-18 | 2022-08-20 |
 | [福は内 鬼は外](https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [The Mizuhara Sisters](https://open.spotify.com/artist/3tsvBhFzXFQYsK1Pc3w75L) | [福は内 鬼は外](https://open.spotify.com/album/49dnqkKRBRcNPwQX3Rzr49) | 2:28 | 2024-05-07 | 2024-05-15 |
-| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 | 2026-10-15 |
+| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 |  |
 | [私だけの人生](https://open.spotify.com/track/1STFOuSo5TfEz0m1sR8oA5) | [Charmant coco](https://open.spotify.com/artist/7sjEyXpi2SWI2J4rcKolGB) | [私だけの人生](https://open.spotify.com/album/0sBmnhxe2Ap3vXasX29RYo) | 4:29 | 2024-02-20 | 2024-02-28 |
 | [私にして](https://open.spotify.com/track/1PII87zGs7qMCD9AlEEM5f) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [私にして](https://open.spotify.com/album/6WLhoZVHZdcPkqnjcimLDN) | 4:11 | 2022-05-31 | 2022-07-20 |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 | 2024-02-02 |

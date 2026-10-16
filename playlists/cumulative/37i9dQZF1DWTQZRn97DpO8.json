@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Apr\u00e8s Moi",
+        "url": "https://open.spotify.com/album/1aZxa5ezIdrJNzvMnFf9zX"
+      },
+      "artists": [
+        {
+          "name": "Mabz",
+          "url": "https://open.spotify.com/artist/6HIYnnpXjGTm61j3jAqzss"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161014,
+      "name": "Apr\u00e8s Moi",
+      "url": "https://open.spotify.com/track/5LKsXN90VEK7OBGpUJjvZc"
+    },
+    {
+      "album": {
         "name": "Apr\u00e8s toi",
         "url": "https://open.spotify.com/album/6DoD3nLPtXjTkWLOxAgOQa"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173124,
       "name": "Changer",
       "url": "https://open.spotify.com/track/4DxrLnzLmGNVh5yPc28HZg"
@@ -3831,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "Sad&Sexy",
+        "url": "https://open.spotify.com/album/3PLhGxxtwUFo8uorlQDsMp"
+      },
+      "artists": [
+        {
+          "name": "Dacey",
+          "url": "https://open.spotify.com/artist/03SPCkSg1W71wU60QnTPbO"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "Flemme",
+      "url": "https://open.spotify.com/track/4WZK3AZ4k32AiQWPhvFfwS"
+    },
+    {
+      "album": {
         "name": "fleur bleue",
         "url": "https://open.spotify.com/album/1YbubU4LCCF8Zev5TgsYUC"
       },
@@ -5468,7 +5504,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153103,
       "name": "Juliette + Rom\u00e9o",
       "url": "https://open.spotify.com/track/76bIquLytt10pGhlygRqjC"
@@ -10472,7 +10508,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172778,
       "name": "Si elle demande",
       "url": "https://open.spotify.com/track/42GUegcNJubq8geCozIssi"
@@ -11488,6 +11524,24 @@
       "duration_ms": 142487,
       "name": "Tous les deux - version acoustique",
       "url": "https://open.spotify.com/track/7AE3xJuOyyukbbEMdLaXIJ"
+    },
+    {
+      "album": {
+        "name": "Juste avant l'\u00e9tincelle...",
+        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Tout autour",
+      "url": "https://open.spotify.com/track/5t49NVxD0AGiURPZ4Fdys0"
     },
     {
       "album": {

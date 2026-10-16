@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1086783,
+  "num_followers": 1086633,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "T\u00edpica Argentina",
         "url": "https://open.spotify.com/album/3HBd40il87H552v0UdXkUv"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 156118,
       "name": "T\u00edpica Argentina",
       "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -959,30 +959,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Me Cont\u00f3 Un Pajarito",
-        "url": "https://open.spotify.com/album/21gqDpCwrLz0JTCTEsxEwb"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        }
-      ],
-      "duration_ms": 126847,
-      "name": "Me Cont\u00f3 Un Pajarito",
-      "url": "https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Me Cont\u00f3 Un Pajarito",
+        "url": "https://open.spotify.com/album/21gqDpCwrLz0JTCTEsxEwb"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "duration_ms": 126847,
+      "name": "Me Cont\u00f3 Un Pajarito",
+      "url": "https://open.spotify.com/track/1BtekUrJrdyP26Vdv9jFUS"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1139,26 +1139,18 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Chica Brasile\u00f1a Remix",
-        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
       },
       "artists": [
         {
-          "name": "El Turko",
-          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
-        },
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        },
-        {
-          "name": "Mandale Flow",
-          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 167553,
-      "name": "Chica Brasile\u00f1a Remix",
-      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1187,18 +1179,26 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+        "name": "Chica Brasile\u00f1a Remix",
+        "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
         }
       ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+      "duration_ms": 167553,
+      "name": "Chica Brasile\u00f1a Remix",
+      "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1415,6 +1415,34 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "FINGIA",
         "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
       },
@@ -1451,34 +1479,6 @@
       "duration_ms": 211238,
       "name": "Sin Cadenas",
       "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Amor Sincero",
         "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
       },
@@ -1571,6 +1571,26 @@
       "duration_ms": 187956,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 326437,
+      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1595,26 +1615,6 @@
       "duration_ms": 166153,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 326437,
-      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Esperando por Ti",
-        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 134916,
-      "name": "Esperando por Ti",
-      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Esperando por Ti",
+        "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 134916,
+      "name": "Esperando por Ti",
+      "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
     },
     {
       "added_at": "2026-09-25 03:00:47",

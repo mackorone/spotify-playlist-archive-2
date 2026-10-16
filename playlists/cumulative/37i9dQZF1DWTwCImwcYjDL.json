@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Dimitri Vegas, Dj Bountyhunter & BRANDON",
+  "description": "De beste dance hits! Cover: Oliver Heldens & Will Clarke",
   "name": "360 Dance",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156668,
       "name": "Do You Want It Right Now",
       "url": "https://open.spotify.com/track/1xAMTwEG6OCawBiYzX3Kum"
@@ -1797,6 +1797,32 @@
     },
     {
       "album": {
+        "name": "Heart Of A Dragon",
+        "url": "https://open.spotify.com/album/3ZrBUSijdZYlPvSokYosxa"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230530,
+      "name": "Heart Of A Dragon",
+      "url": "https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX"
+    },
+    {
+      "album": {
         "name": "Helemaal Naar De Klote (feat. Jayh, Sjaak & Reverse) [LA$$A Remix]",
         "url": "https://open.spotify.com/album/7GcYEFyUEQCGTraXQJg4Ag"
       },
@@ -1940,7 +1966,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 195692,
       "name": "Higher When I Rise",
       "url": "https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT"
@@ -2474,7 +2500,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 216115,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
@@ -3885,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Open The Night",
+        "url": "https://open.spotify.com/album/2Y8Ooix4RYAey0MykQRyqO"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188105,
+      "name": "Open The Night",
+      "url": "https://open.spotify.com/track/3DdU6rhMoPIdOQG4iThhbL"
+    },
+    {
+      "album": {
         "name": "Our Time",
         "url": "https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz"
       },
@@ -4000,6 +4044,32 @@
       "duration_ms": 162206,
       "name": "pAPi wiTH tOKisCha",
       "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
+    },
+    {
+      "album": {
+        "name": "Are You Still You?",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164322,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4TCzyYDyqYbLlNC1Z8Ewiu"
     },
     {
       "album": {

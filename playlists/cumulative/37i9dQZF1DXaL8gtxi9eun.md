@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: كريم محسن
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا سمير غانم
 
-564 songs - 1 day 9 hr 12 min
+566 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-11 | 2024-01-04 |
 | [Allah Honej](https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Allah Honej](https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw) | 3:36 | 2023-05-17 | 2023-07-12 |
 | [Allah Shahid](https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Allah Shahid](https://open.spotify.com/album/5oIMyoc9iYzGFemCMxoIcR) | 4:19 | 2022-05-04 | 2023-02-16 |
+| [Allah Y3enny \- From El Dalal Album](https://open.spotify.com/track/4HqpRpef7v9OhkTAg7ybeF) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [Allah Y3enny](https://open.spotify.com/album/06B3Y6sQVzjFcy7Iceq7AZ) | 4:40 | 2026-10-15 |  |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-07-11 | 2024-02-07 |
 | [AMARA](https://open.spotify.com/track/1ahho7vAnLfSlu3A6cVweO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [POLYYY](https://open.spotify.com/artist/5Mlgdi9exIhmWELyyODMRL) | [AMARA](https://open.spotify.com/album/6PMu5EswjmyCwTMAk1pqWQ) | 4:02 | 2026-09-28 |  |
 | [Ana Gamed Keda Keda](https://open.spotify.com/track/4fl68lr8sFQbw94F60qr4H) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أنا جامد كده كده](https://open.spotify.com/album/1YhG18vjgk5DX4l7FNO1uV) | 2:51 | 2024-07-19 | 2024-07-30 |
@@ -414,6 +415,7 @@
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-27 | 2023-10-07 |
 | [العقد](https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [العقد](https://open.spotify.com/album/5hgr34kHjft85noGjE7Ufp) | 3:38 | 2023-08-24 | 2024-01-30 |
 | [العيب](https://open.spotify.com/track/6SBe9zsjDmieyHcOC2ALNd) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [العيب](https://open.spotify.com/album/0EYAcwhmD2H1tutw1jO9Ys) | 3:10 | 2024-02-06 | 2024-11-19 |
+| [العيله](https://open.spotify.com/track/2U1l0QOBJJuxlywhWsrPJL) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [العيله](https://open.spotify.com/album/5bAhyAktQQvqvJhBNSrS3b) | 3:15 | 2026-10-15 |  |
 | [العين بالعين](https://open.spotify.com/track/6SoaQw4IPCJOyErCTg6KeL) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [العين بالعين](https://open.spotify.com/album/4h9VVGe2EWkIm08FZUTsFn) | 3:36 | 2024-06-26 | 2024-12-20 |
 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-05-17 | 2023-08-05 |
 | [القلب مات](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [القلب مات](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 | 2026-10-09 |  |

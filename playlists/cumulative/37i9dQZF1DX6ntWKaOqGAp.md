@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Hump Back
 
-3,647 songs - 9 day 11 hr 2 min
+3,648 songs - 9 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1822,6 +1822,7 @@
 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 | 2025-09-23 | 2025-11-26 |
 | [UPSIDE DOWN](https://open.spotify.com/track/3Flk3HKs6CincLAM3tagXA) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [UPSIDE DOWN](https://open.spotify.com/album/5ro74xP1AManSglqKzpyYf) | 3:53 | 2026-08-11 | 2026-08-19 |
 | [Ura\-Shuden](https://open.spotify.com/track/6CR6gbIvujlQ2xyhLUSHgp) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Ura\-Shuden](https://open.spotify.com/album/2EBqSBPMP3cORqb3FT4PrT) | 3:27 | 2023-09-20 | 2023-10-11 |
+| [UREI](https://open.spotify.com/track/5tdTfpYYQGZe0EvmXHgSs8) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Rise of The Man](https://open.spotify.com/album/1CrtLyH5X4RfK6onpwbRJX) | 4:08 | 2026-10-13 |  |
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-04-19 |
 | [Useless](https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [Useless](https://open.spotify.com/album/5sEatstRNfjeRdXmu1pHBe) | 3:10 | 2025-05-27 | 2025-07-02 |
 | [utopia](https://open.spotify.com/track/2nF89JPsdElOBGNktaxveo) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [in my mind](https://open.spotify.com/album/5UEXM9D4ATjJewEwzWjZIu) | 4:21 | 2025-09-09 | 2025-09-18 |

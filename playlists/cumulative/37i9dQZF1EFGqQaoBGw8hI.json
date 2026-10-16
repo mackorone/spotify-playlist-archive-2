@@ -7593,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Sleeping With The Past (Remastered with bonus tracks)",
+        "url": "https://open.spotify.com/album/2eNwbtNeveYa2jhCc2cz7c"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231595,
+      "name": "Love Is A Cannibal",
+      "url": "https://open.spotify.com/track/6rwGNInRAfoPd27t75QBHg"
+    },
+    {
+      "album": {
         "name": "Jewel Box",
         "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
       },
@@ -8478,7 +8496,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"

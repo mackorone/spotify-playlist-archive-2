@@ -1,15 +1,35 @@
 {
-  "description": "Vacra x La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
-  "num_followers": 2435304,
+  "description": "La Fouine au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "num_followers": 2435095,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFfD2y60tDqdED49KDNg4+W4Eaau",
+  "snapshot_id": "AAAAAIAbQ09x4lh4f9nDX+WqtEbIfrvd",
   "tracks": [
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Silence Radio",
+        "url": "https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "M.D",
+      "url": "https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Fille \u00e0 Papa",
         "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Et si j'\u00e9choue ?",
         "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "M\u00e9lo D\u00e9cal\u00e9",
         "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
@@ -61,7 +81,59 @@
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "CYBERTESLA",
+        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "CYBERTESLA",
+      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Pas Comme Eux",
+        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "Pas Comme Eux",
+      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "BRACELET",
+        "url": "https://open.spotify.com/album/4L898G8nVXcQJ6hkc9NYw6"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "BRACELET",
+      "url": "https://open.spotify.com/track/6S8erJASTt3KImpljxcQiR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Allo Doudou",
         "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
@@ -85,7 +157,59 @@
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "La Nocturne",
+      "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Lululemon",
+        "url": "https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Lululemon",
+      "url": "https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Sexy Nana",
         "url": "https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30"
@@ -105,103 +229,27 @@
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "Pas Comme Eux",
-        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "Pas Comme Eux",
-      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Pangor (Swalalala)",
-        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
-      },
-      "artists": [
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
         {
-          "name": "Djaksparo",
-          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
         }
       ],
-      "duration_ms": 121704,
-      "name": "Pangor (Swalalala)",
-      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 129880,
-      "name": "Tequila Shot",
-      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "FRENCH CONNEXION, Pt.3",
-        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "FRENCH CONNEXION, Pt.3",
-      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "WpointM",
-        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "C\u0153ur De Pirate",
-      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Lululemon",
-        "url": "https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "Lululemon",
-      "url": "https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Jeunesse Dor\u00e9e",
         "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
@@ -217,7 +265,23 @@
       "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "ATL",
         "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
@@ -241,23 +305,23 @@
       "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "FINIS-LES",
-        "url": "https://open.spotify.com/album/5dMhvGdEwPkCTWuPdPqOCd"
+        "name": "FRENCH CONNEXION, Pt.3",
+        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
       },
       "artists": [
         {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
         }
       ],
-      "duration_ms": 135653,
-      "name": "FINIS-LES",
-      "url": "https://open.spotify.com/track/33tefvqbNE3zVlXxVHZ3Dm"
+      "duration_ms": 208372,
+      "name": "FRENCH CONNEXION, Pt.3",
+      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "\u00c0 tes c\u00f4t\u00e9s",
         "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
@@ -273,79 +337,27 @@
       "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "WpointM",
-        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+        "name": "C'EST NOUS",
+        "url": "https://open.spotify.com/album/7xS9tt6smNa4H2Olu9yz63"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
         },
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+          "name": "Doulkha",
+          "url": "https://open.spotify.com/artist/746NtgxeCDrfBTLUOOvjBw"
         }
       ],
-      "duration_ms": 221053,
-      "name": "La Nocturne",
-      "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
+      "duration_ms": 186666,
+      "name": "C'EST NOUS",
+      "url": "https://open.spotify.com/track/0NbqOg775aApRnRvHHcTPz"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "LOVE YOU",
-        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LOVE YOU",
-      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
-        }
-      ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "REQUIEM : MIEUX QU'HIER",
-        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 153490,
-      "name": "EXPLICIT 69",
-      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Argent Sale - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
@@ -365,7 +377,39 @@
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "BIR HAKEIM",
+        "url": "https://open.spotify.com/album/4bXz2X0dtOv60AdBf1TcB9"
+      },
+      "artists": [
+        {
+          "name": "Cherry Pie",
+          "url": "https://open.spotify.com/artist/6CLK013UumRbFXYJIYvRnz"
+        }
+      ],
+      "duration_ms": 243891,
+      "name": "BIR HAKEIM",
+      "url": "https://open.spotify.com/track/7kn0PLcflNzx1tC2dRm0BX"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 129880,
+      "name": "Tequila Shot",
+      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
@@ -385,27 +429,71 @@
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "M.I.L.S 4",
-        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+        "name": "FINIS-LES",
+        "url": "https://open.spotify.com/album/5dMhvGdEwPkCTWuPdPqOCd"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
         }
       ],
-      "duration_ms": 152282,
-      "name": "LES DIAMANTS DE BOKASSA",
-      "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
+      "duration_ms": 135653,
+      "name": "FINIS-LES",
+      "url": "https://open.spotify.com/track/33tefvqbNE3zVlXxVHZ3Dm"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "REQUIEM : MIEUX QU'HIER",
+        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 153490,
+      "name": "EXPLICIT 69",
+      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Belvedere",
         "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
@@ -421,23 +509,23 @@
       "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "BIR HAKEIM",
-        "url": "https://open.spotify.com/album/4bXz2X0dtOv60AdBf1TcB9"
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
       },
       "artists": [
         {
-          "name": "Cherry Pie",
-          "url": "https://open.spotify.com/artist/6CLK013UumRbFXYJIYvRnz"
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
         }
       ],
-      "duration_ms": 243891,
-      "name": "BIR HAKEIM",
-      "url": "https://open.spotify.com/track/7kn0PLcflNzx1tC2dRm0BX"
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
@@ -457,191 +545,7 @@
       "url": "https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Mati\u00e8re Noire",
-        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Baraque au Bled",
-      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "TERRIBLE MAN",
-        "url": "https://open.spotify.com/album/6FIfctGFvpjIrg13gzObEv"
-      },
-      "artists": [
-        {
-          "name": "OG Plugging",
-          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "TERRIBLE MAN",
-      "url": "https://open.spotify.com/track/0LM9OoiHTImJotTo0jMeeE"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Grand Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "Tu dors ?",
-      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Histoire sans fin",
-        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        },
-        {
-          "name": "MATHILDE",
-          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
-        }
-      ],
-      "duration_ms": 209617,
-      "name": "Histoire sans fin",
-      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "En Croix",
-        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
-      },
-      "artists": [
-        {
-          "name": "Lagui",
-          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Olivia Valere",
-      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Num\u00e9ro d'\u00e9crou",
-        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "PARLU",
-      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "BBL",
-        "url": "https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev"
-      },
-      "artists": [
-        {
-          "name": "OG Plugging",
-          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
-        }
-      ],
-      "duration_ms": 135793,
-      "name": "BBL",
-      "url": "https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Nowhere 2",
-        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 179301,
-      "name": "Nowhere 2",
-      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "RIEN D'EXCEPTIONNEL - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7iCAUOOPAX9AVsUlwwYvch"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 183621,
-      "name": "RIEN D'EXCEPTIONNEL - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3BLfy4wMaa7qha4Of6Owdl"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
-      "album": {
-        "name": "Arena de Cuba",
-        "url": "https://open.spotify.com/album/3fpzfOFiNQSisghQW3ZTQx"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Arena de Cuba",
-      "url": "https://open.spotify.com/track/00C1tjhavZt9cTW9lWGihn"
-    },
-    {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
         "name": "How Much",
         "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF"
@@ -661,26 +565,42 @@
       "url": "https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
+        "name": "Num\u00e9ro d'\u00e9crou",
+        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
       },
       "artists": [
         {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
+      "duration_ms": 141266,
+      "name": "PARLU",
+      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "L'humain",
-        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
+        "name": "TERRIBLE MAN",
+        "url": "https://open.spotify.com/album/6FIfctGFvpjIrg13gzObEv"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "TERRIBLE MAN",
+      "url": "https://open.spotify.com/track/0LM9OoiHTImJotTo0jMeeE"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Nowhere 2",
+        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
       },
       "artists": [
         {
@@ -688,25 +608,113 @@
           "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 176933,
-      "name": "L'humain",
-      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
+      "duration_ms": 179301,
+      "name": "Nowhere 2",
+      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
     },
     {
-      "added_at": "2026-10-08 22:00:27",
+      "added_at": "2026-10-15 22:00:49",
       "album": {
-        "name": "FENG SHUI",
-        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+        "name": "Grand Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 160320,
-      "name": "FENG SHUI",
-      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
+      "duration_ms": 128920,
+      "name": "Tu dors ?",
+      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Arena de Cuba",
+        "url": "https://open.spotify.com/album/3fpzfOFiNQSisghQW3ZTQx"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Arena de Cuba",
+      "url": "https://open.spotify.com/track/00C1tjhavZt9cTW9lWGihn"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Olivia Valere",
+      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Baraque au Bled",
+      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "RIEN D'EXCEPTIONNEL - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7iCAUOOPAX9AVsUlwwYvch"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 183621,
+      "name": "RIEN D'EXCEPTIONNEL - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3BLfy4wMaa7qha4Of6Owdl"
+    },
+    {
+      "added_at": "2026-10-15 22:00:49",
+      "album": {
+        "name": "Histoire sans fin",
+        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "MATHILDE",
+          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
+        }
+      ],
+      "duration_ms": 209617,
+      "name": "Histoire sans fin",
+      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
     }
   ],
   "unique_name": "PVNCHLNRS",

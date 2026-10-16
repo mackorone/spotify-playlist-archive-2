@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover:  ONEW, ZICO\)
+> Trendy & Chill Korean R&B music\. \(Cover: DPR CREAM\)
 
-941 songs - 2 day 1 hr 35 min
+943 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-17 | 2024-01-24 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Baby PLZ \(feat\. Jay Park\)](https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BLESSED](https://open.spotify.com/album/7wTEF0FR8kVEtPTV5cjRzd) | 2:45 | 2024-03-13 | 2024-03-28 |
-| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 |  |
+| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 | 2026-10-16 |
 | [Babyy](https://open.spotify.com/track/3G7yaITbl6QyDgCmcqEVTl) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:21 | 2026-08-07 | 2026-08-21 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
 | [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 | 2025-04-24 |
@@ -154,6 +154,7 @@
 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 | 2022-07-27 | 2026-03-14 |
 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 | 2023-05-24 | 2023-12-09 |
 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 | 2022-04-19 | 2022-04-23 |
+| [Captured](https://open.spotify.com/track/362qWnMWXNI98JS417FFBX) | [kwacamolee](https://open.spotify.com/artist/0rTxTUZTuPGp4faAnCgcxM) | [Captured](https://open.spotify.com/album/07UKQt1g0FcE6UPjtU1Vsr) | 3:36 | 2026-10-15 |  |
 | [Careless I Love You](https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Careless I Love You \(Secret Relationships X Paul Blanco\)](https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9) | 2:20 | 2024-12-05 | 2024-12-24 |
 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 | 2025-08-19 | 2025-11-07 |
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-05 | 2022-12-16 |
@@ -828,7 +829,7 @@
 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 | 2023-07-17 |  |
 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 | 2022-04-19 | 2022-07-28 |
 | [Thunders \(feat\. The Beach Voice\)](https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6), [The Beach Voice](https://open.spotify.com/artist/21YPOJui47iYLDL7WyYuWh) | [Thunders](https://open.spotify.com/album/46X48Jx8fmhMKMVJHEnn9z) | 3:32 | 2022-04-21 | 2022-07-17 |
-| [Tic Tac Toe](https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Tic Tac Toe](https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz) | 2:37 | 2026-10-08 |  |
+| [Tic Tac Toe](https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Tic Tac Toe](https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz) | 2:37 | 2026-10-08 | 2026-10-16 |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 | 2022-07-24 |
 | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-04 | 2025-08-04 |
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-13 | 2023-02-25 |
@@ -949,5 +950,6 @@
 | [듬뿍 generously \(feat\. SHIRT, UNE\)](https://open.spotify.com/track/6yDLnQJE5YFNprocPOsoQC) | [SOQI](https://open.spotify.com/artist/2zvEoTxRST15pPUcMVWw0K), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [듬뿍 generously \(feat\. SHIRT, UNE\)](https://open.spotify.com/album/1cf63WlroARiB9MQYQrNHi) | 2:48 | 2023-04-25 | 2023-05-04 |
 | [아무것도하기싫어](https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1) | [서영](https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia) | [아무것도하기싫어](https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj) | 3:14 | 2022-07-04 | 2022-07-15 |
 | [이른 겨울\(Feat\. Gist, 기원\(Giwon\)\)](https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [기원 \(Giwon\)](https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY) | [이른 겨울](https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu) | 2:52 | 2022-12-15 | 2022-12-20 |
+| [후 \(puff\)](https://open.spotify.com/track/0MmlAwSg3Zx8590JMei6G9) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [shaking](https://open.spotify.com/album/2ZDqjIVxeRURiJrp3sARkx) | 2:08 | 2026-10-15 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

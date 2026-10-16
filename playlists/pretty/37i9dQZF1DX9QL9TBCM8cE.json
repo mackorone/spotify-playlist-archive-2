@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30580,
+  "num_followers": 30581,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -276,13 +276,13 @@
       },
       "artists": [
         {
-          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
-          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
+          "name": "\u6709\u6816\u5ddd\u590f\u8449 (CV.\u6dbc\u672c\u3042\u304d\u307b)",
+          "url": "https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf"
         }
       ],
-      "duration_ms": 223766,
-      "name": "\u30cf\u30fc\u30c8\u30d5\u30eb\u30c7\u30a4 \u30cf\u30fc\u30c8\u30d5\u30eb\u30df\u30fc",
-      "url": "https://open.spotify.com/track/0d3QLFlNXW2HbyYzxD4wFP"
+      "duration_ms": 208600,
+      "name": "Be-witched",
+      "url": "https://open.spotify.com/track/30sNTeY5S4TKKqI0R37kv5"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -292,13 +292,13 @@
       },
       "artists": [
         {
-          "name": "\u6709\u6816\u5ddd\u590f\u8449 (CV.\u6dbc\u672c\u3042\u304d\u307b)",
-          "url": "https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf"
+          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
+          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Be-witched",
-      "url": "https://open.spotify.com/track/30sNTeY5S4TKKqI0R37kv5"
+      "duration_ms": 223766,
+      "name": "\u30cf\u30fc\u30c8\u30d5\u30eb\u30c7\u30a4 \u30cf\u30fc\u30c8\u30d5\u30eb\u30df\u30fc",
+      "url": "https://open.spotify.com/track/0d3QLFlNXW2HbyYzxD4wFP"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -639,38 +639,6 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
-        "url": "https://open.spotify.com/album/5vFeizkVQA7PqDIuSr4cH6"
-      },
-      "artists": [
-        {
-          "name": "HO-KA-GO CLIMAX GIRLS",
-          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
-        }
-      ],
-      "duration_ms": 217873,
-      "name": "\u4e00\u9583\u306f\u541b\u304c\u5c0e\u304f",
-      "url": "https://open.spotify.com/track/0RXHydlcC8JRkOWamsUzVn"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 07",
-        "url": "https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ"
-      },
-      "artists": [
-        {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "\u4eca\u3057\u304b\u306a\u3044\u77ac\u9593\u3092",
-      "url": "https://open.spotify.com/track/2LPfClXLGNlyRuXt2Mew89"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 05 \u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
         "url": "https://open.spotify.com/album/0zRTx2t73zMaA7LuGevhdJ"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 284288,
       "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0axy4UY8KsxBUxgytSeYx4"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 07",
+        "url": "https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "\u3042\u306e\u82b1\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
+        "url": "https://open.spotify.com/album/5vFeizkVQA7PqDIuSr4cH6"
+      },
+      "artists": [
+        {
+          "name": "HO-KA-GO CLIMAX GIRLS",
+          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
+        }
+      ],
+      "duration_ms": 217873,
+      "name": "\u4e00\u9583\u306f\u541b\u304c\u5c0e\u304f",
+      "url": "https://open.spotify.com/track/0RXHydlcC8JRkOWamsUzVn"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -719,38 +719,6 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
-        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
-      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 07",
-        "url": "https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh"
-      },
-      "artists": [
-        {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "\u3042\u306e\u82b1\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 05 \u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
         "url": "https://open.spotify.com/album/0zRTx2t73zMaA7LuGevhdJ"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 260969,
       "name": "\u30cf\u30d4\u30ea\u30ea",
       "url": "https://open.spotify.com/track/6EbppJnv3forKsWUP8Oa7K"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 07",
+        "url": "https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "\u4eca\u3057\u304b\u306a\u3044\u77ac\u9593\u3092",
+      "url": "https://open.spotify.com/track/2LPfClXLGNlyRuXt2Mew89"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
+        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
+      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
     },
     {
       "added_at": "2026-09-15 16:17:03",

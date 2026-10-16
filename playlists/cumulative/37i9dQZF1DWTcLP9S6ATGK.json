@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Adrian Khalif",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Matter Mos, Dere",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 246397,
       "name": "13456789 ( gak ada 2nya )",
       "url": "https://open.spotify.com/track/3De7UbhVWH8X9gLQKcYQMs"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179218,
       "name": "37 minggu",
       "url": "https://open.spotify.com/track/3DXDtHF1WLRt5LqQ9naxfN"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189142,
       "name": "Berharap",
       "url": "https://open.spotify.com/track/2xewuXavdzmk6yVniNY596"
@@ -8643,6 +8643,28 @@
     },
     {
       "album": {
+        "name": "Kalau Aku Lebih Darinya",
+        "url": "https://open.spotify.com/album/4ZgasxLGs6rIncquhm28O2"
+      },
+      "artists": [
+        {
+          "name": "Giant Jay",
+          "url": "https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI"
+        },
+        {
+          "name": "Dewanda Pratama",
+          "url": "https://open.spotify.com/artist/2fyO8muxJQylRhoNGHdIRV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Kalau Aku Lebih Darinya",
+      "url": "https://open.spotify.com/track/0K2MsV4d21Q2oF6O4qTf74"
+    },
+    {
+      "album": {
         "name": "Kamar Kost Kenangan",
         "url": "https://open.spotify.com/album/0vjf1NPMQ4nglpqEBRr7mV"
       },
@@ -10497,6 +10519,28 @@
     },
     {
       "album": {
+        "name": "Lebih Beruntung Sedikit",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241215,
+      "name": "Lebih Beruntung Sedikit",
+      "url": "https://open.spotify.com/track/0NNoaEAeftkCLPMYmpcGsX"
+    },
+    {
+      "album": {
         "name": "Lebih Dari Rindu",
         "url": "https://open.spotify.com/album/5BrxRIJJqADcpTmdtxAI5w"
       },
@@ -11207,6 +11251,24 @@
     },
     {
       "album": {
+        "name": "manja aja! ( gpp )",
+        "url": "https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "manja aja! ( gpp )",
+      "url": "https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ"
+    },
+    {
+      "album": {
         "name": "MANTRA (English Version)",
         "url": "https://open.spotify.com/album/1d6hyXGs01JfHrP4rnxfDW"
       },
@@ -11504,6 +11566,28 @@
       "duration_ms": 184615,
       "name": "Mau Adat Apa",
       "url": "https://open.spotify.com/track/7IQiQdqlAepp5AEPY6AhW9"
+    },
+    {
+      "album": {
+        "name": "Maukah Kau Menikah Denganku?",
+        "url": "https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        },
+        {
+          "name": "Tiroy Sihotang",
+          "url": "https://open.spotify.com/artist/4j3ddH7rNFJtEGOPu9XCPj"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Maukah Kau Menikah Denganku?",
+      "url": "https://open.spotify.com/track/003fbsliPwJfMgylqwcoyV"
     },
     {
       "album": {
@@ -13285,6 +13369,24 @@
     },
     {
       "album": {
+        "name": "Oh Semoga",
+        "url": "https://open.spotify.com/album/1xT1OMRep1UfugffULFXVk"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Oh Semoga",
+      "url": "https://open.spotify.com/track/7hmpSmU4rmr7qJyU3puCxs"
+    },
+    {
+      "album": {
         "name": "One Day In Tokyo",
         "url": "https://open.spotify.com/album/6PaOWPOngwRs689sO4IueV"
       },
@@ -14540,7 +14642,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 209125,
       "name": "puisi lama",
       "url": "https://open.spotify.com/track/6VQodtAc2AhGeFZwsAUarC"
@@ -14984,7 +15086,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 282985,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/19lj8puyqwoG2cusG9nAG4"
@@ -17637,6 +17739,28 @@
     },
     {
       "album": {
+        "name": "Senyum Tidurnya",
+        "url": "https://open.spotify.com/album/77ofAsrQSwJuMGuJrn1fW0"
+      },
+      "artists": [
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241224,
+      "name": "Senyum Tidurnya",
+      "url": "https://open.spotify.com/track/0usfbBRsRYoGzvjpwZjpkj"
+    },
+    {
+      "album": {
         "name": "Senyumannya Tutupi Semua Lelah",
         "url": "https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R"
       },
@@ -19018,7 +19142,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 234287,
       "name": "Surat Untuk Penakluk Hatiku",
       "url": "https://open.spotify.com/track/2vuqaLSKw7R9DlP2cAgDtx"
@@ -19386,6 +19510,24 @@
       "duration_ms": 279900,
       "name": "Tak Ingin Mengenalmu",
       "url": "https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q"
+    },
+    {
+      "album": {
+        "name": "MARBLES",
+        "url": "https://open.spotify.com/album/4NARgADquipnlhx9XzjsUZ"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Tak Ingin Pulang",
+      "url": "https://open.spotify.com/track/3Qs3UyQWrcMBZusrE5eNZm"
     },
     {
       "album": {
@@ -19971,6 +20113,24 @@
     },
     {
       "album": {
+        "name": "Tanpa Tepuk Tangan",
+        "url": "https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl"
+      },
+      "artists": [
+        {
+          "name": "SANDHYA",
+          "url": "https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243829,
+      "name": "Tanpa Tepuk Tangan",
+      "url": "https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy"
+    },
+    {
+      "album": {
         "name": "Tanya Alasanmu",
         "url": "https://open.spotify.com/album/7vk9DGsSOinJfCLMzXF5Vf"
       },
@@ -20412,7 +20572,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 325900,
       "name": "Tentangmu, Tenangku - From \"Ibu, Bagaimana Aku Tanpamu?\"",
       "url": "https://open.spotify.com/track/50KLVKPseJNmSnwIDg7bES"
@@ -20842,7 +21002,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 267089,
       "name": "Terpesona",
       "url": "https://open.spotify.com/track/1iRDtYqkXpKfo5X0bXzWa2"

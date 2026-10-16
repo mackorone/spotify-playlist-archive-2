@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Jess Lee 李佳薇
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,338 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,333 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [要去什麼地方](https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:47 |
-| 2 | [最後一個謊](https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d) | 4:08 |
+| 1 | [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
+| 2 | [要去什麼地方](https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:47 |
 | 3 | [Dear You](https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Dear You](https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp) | 4:02 |
 | 4 | [一樣會愛上你](https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [一樣會愛上你](https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs) | 3:46 |
-| 5 | [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
+| 5 | [最後一個謊](https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d) | 4:08 |
 | 6 | [愛情長跑](https://open.spotify.com/track/0DtZEmbJCUAhylo5HVbTj2) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [洋蔥](https://open.spotify.com/artist/6JIc47t8N2DH29x4ysG5ib) | [愛情長跑](https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY) | 3:58 |
 | 7 | [說分手的人也會難過 \- 影集《接招吧！製作人》單元曲](https://open.spotify.com/track/5DHfXnAmGzJAbZt6OHQvb4) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [說分手的人也會難過 \(影集《接招吧！製作人》單元曲\)](https://open.spotify.com/album/6lwM5XV9DH8LRxqODfi0Vv) | 4:00 |
 | 8 | [願我們能成長為自己想要成為的大人](https://open.spotify.com/track/4dC06cGKCoRQLkXANYRkAk) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [活著的副作用](https://open.spotify.com/album/2hi3wSxoWpEulgEXsWfJpT) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [未來日記](https://open.spotify.com/track/0TvW7hB1zS0KiBaEvmWJdc) | [曾柏鈞 JIMBo](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [未來日記](https://open.spotify.com/album/4vLw8KLL07kHKceMPkQiic) | 3:03 |
 | 50 | [魚花](https://open.spotify.com/track/37QvnYvNzJOz6r6EuOWLBp) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [魚花](https://open.spotify.com/album/0CTE6U8pr6xz5LzCFhEevQ) | 3:58 |
 
-Snapshot ID: `AAAAAJfuE/GWxB3gVzBQYkvFYgkgvDMz`
+Snapshot ID: `AAAAAIEDw85q5T61yIrRcwALDVL4l73F`

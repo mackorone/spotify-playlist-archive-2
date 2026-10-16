@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : TKS 2G",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Lawskie",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180000,
       "name": "BAD",
       "url": "https://open.spotify.com/track/57vLyi8pOHX2cSoYDodq3T"
@@ -5309,6 +5309,28 @@
     },
     {
       "album": {
+        "name": "Collimateur",
+        "url": "https://open.spotify.com/album/70neKEfBobfyqdhSk0Rsoj"
+      },
+      "artists": [
+        {
+          "name": "Lov'nee",
+          "url": "https://open.spotify.com/artist/2XHk8hsNkttV09BnFR7rTG"
+        },
+        {
+          "name": "DJ Jyz",
+          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113111,
+      "name": "Collimateur",
+      "url": "https://open.spotify.com/track/0eeWVhG6tOfT7XWhevCAoO"
+    },
+    {
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C"
       },
@@ -7538,7 +7560,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137500,
       "name": "Female Power",
       "url": "https://open.spotify.com/track/1ga2XorYsqHYaHSBGgWvas"
@@ -7642,6 +7664,32 @@
       "duration_ms": 105103,
       "name": "Fi Fun",
       "url": "https://open.spotify.com/track/6G6ClWuc24KdwsMEKJAwOO"
+    },
+    {
+      "album": {
+        "name": "Fi the Streets",
+        "url": "https://open.spotify.com/album/3WcZEEp5N1WZbJ4plpkme1"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        },
+        {
+          "name": "Shane Creative",
+          "url": "https://open.spotify.com/artist/6A5nTRn5PbijxOGcAECIB9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154421,
+      "name": "Fi the Streets",
+      "url": "https://open.spotify.com/track/56apfKWX9C2l8mQBdzQzH8"
     },
     {
       "album": {
@@ -9769,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/2M4tV0hDgK68qExR6CtXEK"
+      },
+      "artists": [
+        {
+          "name": "Yo Joshy",
+          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106971,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/4QaH5AN60V9pRL3E5qM1RZ"
+    },
+    {
+      "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/0CBhqrITaHfUtQLC7iq3kf"
       },
@@ -9898,7 +9964,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156000,
       "name": "Honorable",
       "url": "https://open.spotify.com/track/2QcVf4HB7yJHNYLfk0BBN9"
@@ -10958,7 +11024,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 143054,
       "name": "KALMAN",
       "url": "https://open.spotify.com/track/55FdCoVTDOcWQ9VoK5HC4Z"
@@ -12916,6 +12982,28 @@
       "duration_ms": 160981,
       "name": "MakoMakrel",
       "url": "https://open.spotify.com/track/5ukgajR0NEVN1dZeyyQED4"
+    },
+    {
+      "album": {
+        "name": "MALAXA",
+        "url": "https://open.spotify.com/album/3Ro8DXhVXPW7zckAl2vu34"
+      },
+      "artists": [
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
+        },
+        {
+          "name": "TMX Official",
+          "url": "https://open.spotify.com/artist/7zcM3eRHnnZ8QIp5aonNw5"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142741,
+      "name": "MALAXA",
+      "url": "https://open.spotify.com/track/6dhsiD7MHlBR2JNbC76NoV"
     },
     {
       "album": {
@@ -15819,6 +15907,24 @@
     },
     {
       "album": {
+        "name": "Paname",
+        "url": "https://open.spotify.com/album/1t5ImKShntckUElyYNcryD"
+      },
+      "artists": [
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Paname",
+      "url": "https://open.spotify.com/track/4A1EGyrbGBMrvmfzWsjZAy"
+    },
+    {
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ"
       },
@@ -17952,7 +18058,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148851,
       "name": "Reset",
       "url": "https://open.spotify.com/track/315qVAGqxCSD4Ll5qBEJzD"
@@ -18162,6 +18268,28 @@
       "duration_ms": 172800,
       "name": "R\u00e9fl\u00e9chi",
       "url": "https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU"
+    },
+    {
+      "album": {
+        "name": "R\u00e9seau",
+        "url": "https://open.spotify.com/album/745BtLan6ihiSKg5G5xgoW"
+      },
+      "artists": [
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159502,
+      "name": "R\u00e9seau",
+      "url": "https://open.spotify.com/track/6f69A5FrV3I7FIeAH1x7CN"
     },
     {
       "album": {
@@ -21394,7 +21522,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 145172,
       "name": "TOULOULOU",
       "url": "https://open.spotify.com/track/2C5RpfaSOVs6vRArWdEVJR"
@@ -22117,6 +22245,28 @@
     },
     {
       "album": {
+        "name": "VIENS",
+        "url": "https://open.spotify.com/album/2yIA1VILvndwa5FIix5XSo"
+      },
+      "artists": [
+        {
+          "name": "26keuss",
+          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "VIENS",
+      "url": "https://open.spotify.com/track/1okXkMZoG6Pg8tUQFDinZM"
+    },
+    {
+      "album": {
         "name": "Vieux cl\u00e9bard",
         "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
       },
@@ -22208,7 +22358,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193820,
       "name": "Vulnerability",
       "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
@@ -22410,7 +22560,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169500,
       "name": "WAP WAP",
       "url": "https://open.spotify.com/track/1mBZFAPrnuhYI5UqGZBFsi"
@@ -23298,6 +23448,36 @@
       "duration_ms": 141000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/6GXM1K6UfE4UNJHfpDxn73"
+    },
+    {
+      "album": {
+        "name": "You Call Me",
+        "url": "https://open.spotify.com/album/0O4GKPJ18nAdFSB9lni0o6"
+      },
+      "artists": [
+        {
+          "name": "Raive",
+          "url": "https://open.spotify.com/artist/6Lqb4B1rMflvN5yNvP774e"
+        },
+        {
+          "name": "Staniski",
+          "url": "https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT"
+        },
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "Yasbeat",
+          "url": "https://open.spotify.com/artist/0Srvt4G7q2hGEbYsIWN7a6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127179,
+      "name": "You Call Me",
+      "url": "https://open.spotify.com/track/2tW6K69VIv6r1c38sLcn9e"
     },
     {
       "album": {

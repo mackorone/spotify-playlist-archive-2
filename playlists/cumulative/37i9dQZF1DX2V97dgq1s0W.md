@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Sasha Keable
+> The voices shaping R&B\. Cover: Nao
 
-682 songs - 1 day 12 hr 16 min
+685 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 | 2026-08-04 |
 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 | 2026-04-24 | 2026-10-09 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-19 | 2026-03-20 |
-| [back then](https://open.spotify.com/track/6aVK1NArUNstG713aBQYql) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [back then](https://open.spotify.com/album/0Kd9rvhwMT6DKGeeN44jYo) | 3:53 | 2026-07-02 |  |
+| [back then](https://open.spotify.com/track/6aVK1NArUNstG713aBQYql) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [back then](https://open.spotify.com/album/0Kd9rvhwMT6DKGeeN44jYo) | 3:53 | 2026-07-02 | 2026-10-16 |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-21 | 2023-10-28 |
 | [Back To Us](https://open.spotify.com/track/6PiVSSO0uIokionVyS7aBR) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Julissa Leilani](https://open.spotify.com/artist/6YrTPHB2qNeb3HJIB3A35k) | [Back To Us](https://open.spotify.com/album/3hdXZjDDpfdYKXCDxJCO8a) | 3:36 | 2023-05-14 | 2023-07-22 |
 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 | 2026-01-16 | 2026-05-22 |
@@ -107,7 +107,7 @@
 | [Carry Me](https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:43 | 2023-10-27 | 2024-04-19 |
 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 | 2023-05-14 | 2023-07-22 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-31 | 2024-10-04 |
-| [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 | 2026-07-16 |  |
+| [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 | 2026-07-16 | 2026-10-16 |
 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 | 2023-07-03 | 2023-07-22 |
 | [Change Your Life](https://open.spotify.com/track/1PZutr5Gap9lBqLF5ccHId) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 3:22 | 2023-09-22 | 2024-11-08 |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-05-14 | 2023-09-30 |
@@ -128,7 +128,7 @@
 | [couture](https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [couture](https://open.spotify.com/album/4b1pJ5a1P2JnpstHQLDQ3c) | 2:33 | 2026-01-16 | 2026-04-17 |
 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 | 2026-10-09 |
 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 | 2025-10-09 | 2026-04-25 |
-| [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 | 2026-06-04 |  |
+| [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 | 2026-06-04 | 2026-10-16 |
 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 | 2026-03-27 |  |
 | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 | 2025-05-30 |
 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 | 2025-12-05 | 2026-03-27 |
@@ -206,6 +206,7 @@
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-21 | 2023-09-23 |
 | [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 | 2025-11-21 | 2026-03-27 |
 | [Floating \(feat\. PHABO\)](https://open.spotify.com/track/6B1ATelHWGrHzcKCKqLSTf) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Floating \(feat\. PHABO\)](https://open.spotify.com/album/7bH76YIlzc21indTnRiFsP) | 2:32 | 2024-06-14 | 2024-12-06 |
+| [Fly Away](https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 3:12 | 2026-10-15 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 | 2025-07-05 |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-12 | 2025-07-04 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-12 | 2026-09-12 |
@@ -327,6 +328,7 @@
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-19 | 2026-02-13 |
 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-02 | 2026-03-27 |
 | [Kacey \(feat\. Jordan Ward\)](https://open.spotify.com/track/2x98vnp1K0wgGgMmoBqYbG) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Kacey \(feat\. Jordan Ward\)](https://open.spotify.com/album/3AYglF9ygBXs6BVVlTUdYU) | 2:34 | 2026-08-27 | 2026-10-02 |
+| [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 | 2026-10-15 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2023-02-23 | 2023-05-15 |
 | [Khayaal](https://open.spotify.com/track/4Yf5yQGD3pMKhhQJn85kpR) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Khayaal](https://open.spotify.com/album/4OW44suWx0p3UR6n3QGTfm) | 2:39 | 2023-02-23 | 2023-05-15 |
 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel Abbott](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 | 2025-04-25 | 2025-06-27 |
@@ -633,6 +635,7 @@
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-10-03 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-08-28 | 2026-01-23 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |
+| [Try Again Tomorrow](https://open.spotify.com/track/1APix3h5tOfF9cWZHCXvdV) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Nina Ann Nelson](https://open.spotify.com/artist/3zaUrDI0cZRIHNUFysJB8O) | [Try Again Tomorrow](https://open.spotify.com/album/2ej9nBl3sGxduBI71rOqaa) | 3:30 | 2026-10-15 |  |
 | [Try and fit in](https://open.spotify.com/track/73zDIHFRM1Uw0wvH4ck35c) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 1:56 | 2023-09-29 | 2024-01-26 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2023-02-23 | 2023-05-15 |
 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 | 2026-01-09 | 2026-03-27 |

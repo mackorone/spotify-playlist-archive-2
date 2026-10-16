@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17743,
+  "num_followers": 17751,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAA3id2Z3btf6x599AgAbCWO",
+  "snapshot_id": "as7GAAAAAABXRbPXpriX+wo7KgK2vXMZ",
   "tracks": [
     {
       "added_at": null,
@@ -308,13 +308,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Quero saber",
-      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
+      "duration_ms": 142624,
+      "name": "Pense como uma diva",
+      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
     },
     {
       "added_at": null,
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 142624,
-      "name": "Pense como uma diva",
-      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
+      "duration_ms": 179500,
+      "name": "Quero saber",
+      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 120893,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Novo Tom",
         "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
       },
@@ -1079,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
       },
       "artists": [
         {
@@ -1088,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 120893,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+      "duration_ms": 129386,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
     },
     {
       "added_at": null,
@@ -1111,22 +1127,6 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
     },
     {
       "added_at": null,

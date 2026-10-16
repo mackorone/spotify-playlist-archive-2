@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,819 likes - 74 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,825 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Le Plus Beau](https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P) | 2:48 |
+| 1 | [L'Humain](https://open.spotify.com/track/0iE3YcbKElhdFznONeHpcJ) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq) | 3:15 |
 | 2 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
 | 3 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
-| 4 | [Bella Vita](https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Bella Vita](https://open.spotify.com/album/7E5q2YUeY5NXoo14PuI4Pn) | 2:59 |
+| 4 | [Place Massena](https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Ça ira](https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9) | 3:08 |
 | 5 | [Mal](https://open.spotify.com/track/1LvAoQEorMNKwhSb3AC20o) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [process](https://open.spotify.com/album/2rjqDCxSc9fgwllCVMGLXZ) | 3:25 |
 | 6 | [Hauteur](https://open.spotify.com/track/4SzrnrK1JA1LLyOPp0NrOx) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 3:24 |
 | 7 | [baisers puissants](https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:09 |
 | 8 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
 | 9 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
 | 10 | [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 |
-| 11 | [positif](https://open.spotify.com/track/2Q1SbyBfl38YKhpPeY6fif) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [positif](https://open.spotify.com/album/5G43OuGUS3r34pZ1HhdlRa) | 2:11 |
+| 11 | [Track 13](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 0:00 |
 | 12 | [ça pik un peu quand même](https://open.spotify.com/track/7Fu1fTmuyFgm2V16ACSVOk) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5xUIGLAWrim2JV9e4pVx4l) | 2:17 |
 | 13 | [Rien à fêter](https://open.spotify.com/track/7J9bfRJYMHLAWpAvwSxCxG) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:55 |
 | 14 | [Le Chat](https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Adieu Musique](https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR) | 3:13 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 22 | [Bagues en Or](https://open.spotify.com/track/1bnGWY5TmMBOpoYx7WPBWq) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Divine](https://open.spotify.com/album/4DbXX3AdezNUsnEcNFpa3P) | 2:44 |
 | 23 | [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 |
 | 24 | [Kilo par kilo](https://open.spotify.com/track/0fpyIJpLUk4bbNGi6nAa8r) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Effets Secondaires](https://open.spotify.com/album/1CDHmmmDBx7IKFLq1mm6LT) | 2:55 |
-| 25 | [U&I](https://open.spotify.com/track/0ngXPktDn76JGvEi1yi4Yr) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Goodbye](https://open.spotify.com/album/0reCuoSpZMDrx2LX87wsXS) | 2:32 |
-| 26 | [BROSKI](https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [BROSKI](https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du) | 2:17 |
+| 25 | [Fake or true](https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [NOTHING'S FAKE](https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW) | 2:47 |
+| 26 | [SI TU M'ABANDONNES](https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [ZMIG EXPANSION](https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP) | 2:46 |
 | 27 | [Princesse chaos \- Marine's Version](https://open.spotify.com/track/7y4qFoUVbDhJRJI0L9wVZZ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:55 |
 | 28 | [Alov](https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Alov](https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s) | 2:38 |
 | 29 | [JIMMY DANGER](https://open.spotify.com/track/2WYN1uJfN94kzNHKHqZCId) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [JIMMY DANGER](https://open.spotify.com/album/2VJxQniCPor0DPn8e8Es5X) | 1:56 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 34 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 |
 | 35 | [tu me manques](https://open.spotify.com/track/05kQsZQjZ20wu3Ku791ie9) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [tu me manques](https://open.spotify.com/album/1PqeiuxMzUiRN5RRQlvkKs) | 2:36 |
 | 36 | [MINUIT D'APRÈS](https://open.spotify.com/track/0mCSbQPrsIBhArYPptUqrk) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SAVASHUIA](https://open.spotify.com/album/51ZAiFItcL1kbcz5qszUqR) | 3:03 |
-| 37 | [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 |
+| 37 | [Maman travaille trop](https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Maman travaille trop](https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ) | 2:52 |
 | 38 | [Rods and Cones](https://open.spotify.com/track/3d06jCJ7qFDQzP8UX0n5ur) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D), [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Rods and Cones](https://open.spotify.com/album/7MYy8Y34WimjOqLwZbfsjo) | 3:26 |
 | 39 | [Il faut que tu m'attendes](https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Il faut que tu m'attendes](https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E) | 3:06 |
 | 40 | [MÉDICAMENT](https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [MÉDICAMENT](https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt) | 3:06 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 73 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 74 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAAFFC0qdPw+AImNYiBFnnFF2HG9BC`
+Snapshot ID: `AAAAADHXBF2CjemfMFQ1adraPLWzh/ig`

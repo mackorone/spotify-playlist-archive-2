@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: GRUB",
+  "description": "New and local indie noise. Cover: lahgo",
   "name": "Local Noise",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 258054,
       "name": "A Long Long Time",
       "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Yada Yada",
+        "url": "https://open.spotify.com/album/7AXG51Dt0jN5dtBeNghFg9"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227569,
+      "name": "Back to Strange",
+      "url": "https://open.spotify.com/track/0Q5RwM0XUjY4Y3HJ7LumyY"
+    },
+    {
+      "album": {
         "name": "Back To Texas",
         "url": "https://open.spotify.com/album/1NJhgKxTApGpoo1vUK8BJA"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198415,
       "name": "Bitter Start",
       "url": "https://open.spotify.com/track/2R11YDcbE599gK3XaNezWr"
@@ -2574,6 +2592,24 @@
       "duration_ms": 207026,
       "name": "Broke My Jaw",
       "url": "https://open.spotify.com/track/2dtiMGU46xRCa4pw68kx6l"
+    },
+    {
+      "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/2rrosgJgBQF39V4Es6aMQS"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157633,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/5CwEWNiPVZDTTIw6lMds9m"
     },
     {
       "album": {
@@ -4947,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Don't Make It Dumb",
+        "url": "https://open.spotify.com/album/3Af2tDEzhP4so9jbgqBuYl"
+      },
+      "artists": [
+        {
+          "name": "ONIERA",
+          "url": "https://open.spotify.com/artist/1ggoBYRQRypWatHXHnT2IC"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286411,
+      "name": "Don't Make It Dumb",
+      "url": "https://open.spotify.com/track/0VjkZBCzjcSFHO2xnkTTfq"
+    },
+    {
+      "album": {
         "name": "Don't Mean It",
         "url": "https://open.spotify.com/album/6nb6MFT29X22tcrGd8oISZ"
       },
@@ -4958,7 +5012,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 209056,
       "name": "Don't Mean It",
       "url": "https://open.spotify.com/track/3KE6Epz7OBx7nBsA3Ol6kt"
@@ -6666,7 +6720,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186568,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/1WiiNFcZE9bOP9XRNXrFDp"
@@ -6835,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Full Powers",
+        "url": "https://open.spotify.com/album/07t38cRJXEFb0VWG4eCjbh"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190379,
+      "name": "Full Powers",
+      "url": "https://open.spotify.com/track/3Inb9cDM4YpT0bVUG4D4QX"
+    },
+    {
+      "album": {
         "name": "Full Speed",
         "url": "https://open.spotify.com/album/5LStCFvzPL8W6gPrwL3SZZ"
       },
@@ -6954,7 +7026,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199219,
       "name": "Get It",
       "url": "https://open.spotify.com/track/6rMIauoEPKMgo6ZXb29hfn"
@@ -7942,7 +8014,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 260586,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0JjWzVCse0myHEoSoK68Or"
@@ -10840,7 +10912,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 242780,
       "name": "Love Me America",
       "url": "https://open.spotify.com/track/3EAcyL3yq5MLnzFegseJkz"
@@ -11290,7 +11362,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193470,
       "name": "Maybe I'll Come Around",
       "url": "https://open.spotify.com/track/2DKAlPSeJKNR4Wlg9xTpsv"
@@ -11531,6 +11603,24 @@
     },
     {
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/1M17nB0SPdGtYxbHvLbFcx"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218186,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/29tK0Cf37wzjtvBVy8IWOF"
+    },
+    {
+      "album": {
         "name": "Million Miles",
         "url": "https://open.spotify.com/album/6IiLwIOvzP66gLYCkROkaZ"
       },
@@ -11640,6 +11730,24 @@
       "duration_ms": 128173,
       "name": "MISS HER",
       "url": "https://open.spotify.com/track/6KdhOOGA2jiinTxZ9bUio4"
+    },
+    {
+      "album": {
+        "name": "MLE",
+        "url": "https://open.spotify.com/album/00wwfcvsmoCZwe6au6DsTn"
+      },
+      "artists": [
+        {
+          "name": "Miss June",
+          "url": "https://open.spotify.com/artist/5EVVKA7mtSCAgk1kDhAEFp"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225081,
+      "name": "MLE",
+      "url": "https://open.spotify.com/track/3iHgWcDwEi8gUTArmfnccV"
     },
     {
       "album": {
@@ -12000,6 +12108,24 @@
       "duration_ms": 256904,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/2sYuDfs6BAfhCiMHPaJkqy"
+    },
+    {
+      "album": {
+        "name": "My 600th Letter",
+        "url": "https://open.spotify.com/album/4aosg9Drfscxu36rU90xMd"
+      },
+      "artists": [
+        {
+          "name": "lahgo",
+          "url": "https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185450,
+      "name": "My 600th Letter",
+      "url": "https://open.spotify.com/track/26mzCUIRNXxncpT6jI9fl3"
     },
     {
       "album": {
@@ -13030,6 +13156,24 @@
       "duration_ms": 306064,
       "name": "One Metaphor",
       "url": "https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN"
+    },
+    {
+      "album": {
+        "name": "One of One",
+        "url": "https://open.spotify.com/album/7CvxiZ49jVxJ1BtwNZZPYs"
+      },
+      "artists": [
+        {
+          "name": "Running Touch",
+          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178488,
+      "name": "One of One",
+      "url": "https://open.spotify.com/track/0m7n4F48Uiopiz28nLYiXw"
     },
     {
       "album": {
@@ -14402,7 +14546,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 133636,
       "name": "react",
       "url": "https://open.spotify.com/track/1tjBHhhhPXFG4gjJ5MoC52"
@@ -18355,6 +18499,24 @@
     },
     {
       "album": {
+        "name": "Group Therapy",
+        "url": "https://open.spotify.com/album/00aKHaHjnfZp7OOmYXg14a"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "The Cannonball",
+      "url": "https://open.spotify.com/track/7Im1xu7Rv5x0IPzaG8EJYF"
+    },
+    {
+      "album": {
         "name": "the comedown",
         "url": "https://open.spotify.com/album/2WNIKrl5k7OfTokZnFGbMr"
       },
@@ -19538,7 +19700,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 227309,
       "name": "TWINSTAR",
       "url": "https://open.spotify.com/track/0snCIa3RCpwdIyonZDhhVS"
@@ -20169,6 +20331,24 @@
     },
     {
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/3GmglwgZQKAH46vpy9vbua"
+      },
+      "artists": [
+        {
+          "name": "Selve",
+          "url": "https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/2h17Ej0W9xht6Mjh0YI3hu"
+    },
+    {
+      "album": {
         "name": "Weird World Awoke",
         "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
       },
@@ -20620,6 +20800,24 @@
       "duration_ms": 204790,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/3NPjJchxfEdDjMzJUWYL0V"
+    },
+    {
+      "album": {
+        "name": "Won't Wish You The Best",
+        "url": "https://open.spotify.com/album/0jwlzYwwVe5n86lYyoCkxv"
+      },
+      "artists": [
+        {
+          "name": "About Yesterday",
+          "url": "https://open.spotify.com/artist/1NpflW3ZkpfS1xj3BrWqga"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Won't Wish You The Best",
+      "url": "https://open.spotify.com/track/7unYvfjBwgqyew6C0A1Zf0"
     },
     {
       "album": {

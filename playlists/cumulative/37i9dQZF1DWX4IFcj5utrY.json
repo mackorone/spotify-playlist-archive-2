@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: FKA MASH",
+  "description": "The best dance hits in Africa. Cover: Darque",
   "name": "mint Africa",
   "tracks": [
     {
@@ -1958,6 +1958,32 @@
       "duration_ms": 415440,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
+    },
+    {
+      "album": {
+        "name": "Open Your Eyes More (Deluxe)",
+        "url": "https://open.spotify.com/album/7EeiOTP8ycMXT7BFmoC7Ar"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415444,
+      "name": "Amaphupho",
+      "url": "https://open.spotify.com/track/2vJVZqBU5crXahDo0GhC2U"
     },
     {
       "album": {

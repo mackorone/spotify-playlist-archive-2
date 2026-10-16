@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,553 likes - 96 songs - 4 hr 57 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,549 likes - 96 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BITCH, I KNOW](https://open.spotify.com/track/0Oi7yCNUF7meXnoOzIA7ds) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [AFTER THE AFTERS](https://open.spotify.com/album/2ieA7vFE29EVe1re91ZqTn) | 2:09 |
-| 2 | [Bad Bite](https://open.spotify.com/track/2kxxij7NwfskdevaxEQ1yX) | [V!RTUA](https://open.spotify.com/artist/7tvpDJUOiQuU6gzZM2bz65), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Bad Bite](https://open.spotify.com/album/7IFInKLNjuIJ2sGZTIrQ4K) | 2:46 |
+| 2 | [Bad Bite](https://open.spotify.com/track/2kxxij7NwfskdevaxEQ1yX) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [V!RTUA](https://open.spotify.com/artist/7tvpDJUOiQuU6gzZM2bz65), [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Bad Bite](https://open.spotify.com/album/7IFInKLNjuIJ2sGZTIrQ4K) | 2:46 |
 | 3 | [Should've Known Better](https://open.spotify.com/track/1x4o2B74wHid523W5UZVf5) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [The Holy Grail](https://open.spotify.com/album/5hmHlwHuijw6zSeJCw4pTD) | 3:42 |
 | 4 | [Salt of the Earth](https://open.spotify.com/track/0MuV6kzhA43UumcOzX4tDB) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Salt of the Earth](https://open.spotify.com/album/0ELmL2uVLqpyCpGbHILxEB) | 3:10 |
 | 5 | [Damage Control](https://open.spotify.com/track/36BQ5kwJ66QRgOk4a66U34) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Damage Control](https://open.spotify.com/album/3h0ameRqy3yknW9UNYjxPV) | 2:59 |

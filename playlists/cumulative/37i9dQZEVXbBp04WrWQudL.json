@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "BUGS LIFE",
+        "url": "https://open.spotify.com/album/65L60gm7KVHGLTnVVZMXH8"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "BUGS LIFE",
+      "url": "https://open.spotify.com/track/22RLbmjRk8zpwIFUUYZ0DQ"
+    },
+    {
+      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/3CZklraqStkZKMUYcotdTE"
       },
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 216234,
       "name": "i think he's got a girl",
       "url": "https://open.spotify.com/track/0YkeK5SK19nXZgBdLCXTMj"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -2623,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Max Styler - Live at Portola Music Festival",
+        "url": "https://open.spotify.com/album/0xqUfLT7iJbrRQtsnKtsp8"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4743082,
+      "name": "Max Styler - Live at Portola Music Festival",
+      "url": "https://open.spotify.com/track/333Kt2zzWgHpW0BJtyPXiY"
+    },
+    {
+      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/6bqN8gLVg3WDpx3yMt9OTk"
       },
@@ -2674,6 +2710,28 @@
       "duration_ms": 212309,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
+    },
+    {
+      "album": {
+        "name": "MEANT TO BE",
+        "url": "https://open.spotify.com/album/0K2zFferMGNDcISHzmu6Ph"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179916,
+      "name": "MEANT TO BE",
+      "url": "https://open.spotify.com/track/5kqtvvFmuHwUazLzfSVjXd"
     },
     {
       "album": {
@@ -3828,7 +3886,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -3988,7 +4046,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197043,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/78Pzsnr1pdga44lhypgjM8"

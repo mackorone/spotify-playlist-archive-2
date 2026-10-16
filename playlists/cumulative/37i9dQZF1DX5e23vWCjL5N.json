@@ -3567,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "fomo :/",
+        "url": "https://open.spotify.com/album/63XNLA0BiSXp3zCdlwMJ3d"
+      },
+      "artists": [
+        {
+          "name": "RIRI2K",
+          "url": "https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "fomo :/",
+      "url": "https://open.spotify.com/track/1Ir0BU9fRhlESmLJnkkedC"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA (export)",
         "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
       },
@@ -5341,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174891,
+      "name": "LEGGENDA",
+      "url": "https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV"
+    },
+    {
+      "album": {
         "name": "Leggenda da Bar",
         "url": "https://open.spotify.com/album/00hG2B91nQ2723PPkdNYCI"
       },
@@ -5738,6 +5774,32 @@
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "album": {
+        "name": "M.E.R.D.A.",
+        "url": "https://open.spotify.com/album/7qIjmcmyeLelSBMnlVKoX4"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        },
+        {
+          "name": "Peter Wit",
+          "url": "https://open.spotify.com/artist/4d1ZdUOl3ZPWLC4FjYu0N8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147954,
+      "name": "M.E.R.D.A.",
+      "url": "https://open.spotify.com/track/5bqfhwlwu2RKiTUa2lkasJ"
     },
     {
       "album": {
@@ -7368,7 +7430,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172166,
       "name": "PHANTOM (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"
@@ -8998,7 +9060,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194187,
       "name": "STORIA DI UN ARTISTA",
       "url": "https://open.spotify.com/track/74diHfmz6H9IrW5lOuzVtx"
@@ -9422,7 +9484,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137234,
       "name": "TRINITY",
       "url": "https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ"

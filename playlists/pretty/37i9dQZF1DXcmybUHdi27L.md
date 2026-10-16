@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > Where's the next motive?
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,073 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,065 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU) | [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8) | [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX) | 2:15 |
+| 1 | [As A Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU) | [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8), [Jagwa De Champ](https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH) | [As A Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX) | 2:15 |
 | 2 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 3 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
 | 4 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |

@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 167519,
       "name": "Changes Coming 'Round The Bend",
       "url": "https://open.spotify.com/track/0LYxksy1iGlktBf595NNmZ"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 185429,
       "name": "Dat Ze Van Hem Houdt",
       "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 192666,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
@@ -5044,6 +5044,24 @@
       "duration_ms": 244199,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5dmkqmGXCi8IK1fuVilhYX"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
     },
     {
       "album": {
@@ -16018,6 +16036,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/3wmL3VMB0fuyK8H2tzfiGV"
+      },
+      "artists": [
+        {
+          "name": "Iris Jean",
+          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5DrChTVsNNFMbRYsalIh4y"
     },
     {
       "album": {

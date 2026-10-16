@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Capit\u00e3o Fausto",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: NAPA",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 238337,
       "name": "Amor Oper\u00e1rio",
       "url": "https://open.spotify.com/track/7mLpPjlQ3mpvkufndomkAq"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 163672,
       "name": "Aquele Abra\u00e7o",
       "url": "https://open.spotify.com/track/52RpSKRy5lcYps3dXs9aeV"
@@ -1544,6 +1544,28 @@
       "duration_ms": 238055,
       "name": "Can\u00e7\u00e3o de \u00e1guas mil",
       "url": "https://open.spotify.com/track/6aBlpwwH4QK1val0g6FDUe"
+    },
+    {
+      "album": {
+        "name": "Semitr\u00f3pico",
+        "url": "https://open.spotify.com/album/1xiZNq2nKPwevEr6J4OPjJ"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254969,
+      "name": "Can\u00e7\u00e3o Pra Dois",
+      "url": "https://open.spotify.com/track/0RVRvmYO2IBv96Y9Qf3JrC"
     },
     {
       "album": {
@@ -5787,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3logo",
+        "url": "https://open.spotify.com/album/31ujjBhs20A2Hu0Ktybrum"
+      },
+      "artists": [
+        {
+          "name": "Gon\u00e7alo Gomes",
+          "url": "https://open.spotify.com/artist/57UJld56DwSVOFCXuHJ8qi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Mau da Fita",
+      "url": "https://open.spotify.com/track/03paVlIZB12fIyg9fLqsPX"
+    },
+    {
+      "album": {
         "name": "Me Condena",
         "url": "https://open.spotify.com/album/0otaqMzz5BtElj5h7KbS9c"
       },
@@ -6684,7 +6724,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 254011,
       "name": "N\u00e3o Canto Porque Sonho",
       "url": "https://open.spotify.com/track/3mG6GWAF7XlQxSD8pIWV3F"
@@ -9067,6 +9107,24 @@
     },
     {
       "album": {
+        "name": "suspenso",
+        "url": "https://open.spotify.com/album/4P1HwUpGqSw4hBNOd3eN3z"
+      },
+      "artists": [
+        {
+          "name": "TOTA",
+          "url": "https://open.spotify.com/artist/5E4Co7JcDatdwl6c6ti55N"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246101,
+      "name": "suspenso",
+      "url": "https://open.spotify.com/track/2T924hI8GyXYiVMa1w54sV"
+    },
+    {
+      "album": {
         "name": "Suspensos",
         "url": "https://open.spotify.com/album/3nRP7kEHWFzDb5V51VgMsy"
       },
@@ -10298,7 +10356,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171297,
       "name": "Um Mais Um",
       "url": "https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E"
@@ -10842,6 +10900,28 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
+        "name": "Where Is Gone?",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
     },
     {
       "album": {

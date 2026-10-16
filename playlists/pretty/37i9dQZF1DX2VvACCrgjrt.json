@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310975,
+  "num_followers": 1310953,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
       "added_at": "2026-06-12 04:01:37",
       "album": {
         "name": "Arizona",
@@ -1055,22 +1071,6 @@
       "duration_ms": 164423,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1413,30 +1413,6 @@
       "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/1lndGVBJ0mATyCobqraSYj"
-      },
-      "artists": [
-        {
-          "name": "Pupa Nas T",
-          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Denise Belfon",
-          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
-        }
-      ],
-      "duration_ms": 182379,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
-    },
-    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Turn Up The Bass",
@@ -1459,6 +1435,30 @@
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
+    },
+    {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1lndGVBJ0mATyCobqraSYj"
+      },
+      "artists": [
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 182379,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1589,26 +1589,6 @@
       "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fashion From France",
@@ -1631,6 +1611,26 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Rich & Handsome",
@@ -1721,22 +1737,6 @@
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "I Wanna Dance",
@@ -1751,38 +1751,6 @@
       "duration_ms": 183998,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/476P50D7vX7U1LaMOKJHNI"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "HIM",
-      "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1803,6 +1771,38 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/476P50D7vX7U1LaMOKJHNI"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 197272,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "B2U EP",
         "url": "https://open.spotify.com/album/3n4wJlkHBkt2qrPzirQNaN"
       },
@@ -1939,38 +1955,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-07-24 04:02:19",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -2013,6 +1997,22 @@
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
+      "added_at": "2026-07-24 04:02:19",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
+    },
+    {
       "added_at": "2026-07-17 04:01:08",
       "album": {
         "name": "No Bite",
@@ -2049,6 +2049,42 @@
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -2067,22 +2103,6 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -2119,26 +2139,6 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/04pRqUd0kiXCx5RjElfah8"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "3D",
-      "url": "https://open.spotify.com/track/6ep0hLz1DJS78kdWDWtgLT"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2277,6 +2277,26 @@
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+    },
+    {
       "added_at": "2026-08-28 04:01:56",
       "album": {
         "name": "Thirsty (feat. Datti)",
@@ -2299,22 +2319,38 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
         }
       ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "\u2661\u262eEP",
+        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Nada De Novo",
+      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2343,26 +2379,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "BPM",
         "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
       },
@@ -2377,20 +2393,20 @@
       "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
-      "added_at": "2026-09-25 04:02:01",
+      "added_at": "2026-01-16 05:00:37",
       "album": {
-        "name": "\u2661\u262eEP",
-        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2JCGaCPj0RnyiVPtwbVtoL"
       },
       "artists": [
         {
-          "name": "Johannes Brecht",
-          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+          "name": "James Kennedy",
+          "url": "https://open.spotify.com/artist/5bayykQX2eN93SZW3Av1PJ"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Nada De Novo",
-      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
+      "duration_ms": 108398,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2411,22 +2427,6 @@
       "duration_ms": 191818,
       "name": "Stimulation",
       "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
-    },
-    {
-      "added_at": "2026-07-31 04:01:22",
-      "album": {
-        "name": "SO HYPE",
-        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
-      },
-      "artists": [
-        {
-          "name": "MAXARKA",
-          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
-        }
-      ],
-      "duration_ms": 175805,
-      "name": "SO HYPE",
-      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     }
   ],
   "unique_name": "Nasty Bits",

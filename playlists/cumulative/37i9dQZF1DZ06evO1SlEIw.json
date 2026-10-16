@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Shoukei to Shikabane no Michi (TV Size)",
+        "url": "https://open.spotify.com/album/0B5nGSu5QfWrlgdwzEw3uG"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90090,
+      "name": "Shokei to Shikabane no Michi - TV Size",
+      "url": "https://open.spotify.com/track/0q8WLWTRdN7XcNCoZIxCu9"
+    },
+    {
+      "album": {
         "name": "Shinjitsu eno Shingeki",
         "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 276176,
       "name": "Shoukei to Shikabane no Michi",
       "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"

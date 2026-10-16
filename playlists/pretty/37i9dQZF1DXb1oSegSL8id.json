@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 865280,
+  "num_followers": 865302,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 216818,
       "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
       "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Figurinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 206001,
       "name": "Figurinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Em Sintonia (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        }
+      ],
+      "duration_ms": 173856,
+      "name": "Saudade do Caramba - Ao Vivo",
+      "url": "https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Jogadora Cara (Ao Vivo)",
         "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 154997,
       "name": "Jogadora Cara - Ao Vivo",
       "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Em Sintonia (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        }
-      ],
-      "duration_ms": 173856,
-      "name": "Saudade do Caramba - Ao Vivo",
-      "url": "https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv"
     },
     {
       "added_at": "2026-06-22 17:28:18",

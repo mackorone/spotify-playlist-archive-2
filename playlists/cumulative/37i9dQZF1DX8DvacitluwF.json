@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Sasha Keable",
+  "description": "The best in South African and international R&B. Cover: TRON PYRE",
   "name": "R&Beats",
   "tracks": [
     {
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -13688,6 +13688,24 @@
       "duration_ms": 228235,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza"
+    },
+    {
+      "album": {
+        "name": "Wtshyf (I Love It)",
+        "url": "https://open.spotify.com/album/5IpowIobPPGpGQ9whteD6a"
+      },
+      "artists": [
+        {
+          "name": "TRON PYRE",
+          "url": "https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210212,
+      "name": "Wtshyf (I Love It)",
+      "url": "https://open.spotify.com/track/65W0ND2YGkfqHon8IuJPMd"
     },
     {
       "album": {

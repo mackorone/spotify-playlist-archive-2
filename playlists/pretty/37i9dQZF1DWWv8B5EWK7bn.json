@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 209349,
+  "num_followers": 209354,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Something in the Room She Moves",
-        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 378289,
-      "name": "Something in the Room She Moves",
-      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/6FirtsYEzCW5rLvX4Da6kJ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 474358,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/4H512sUGwagrnMGNoO6wmN"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Something in the Room She Moves",
+        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 378289,
+      "name": "Something in the Room She Moves",
+      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Inner Song",
-        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 447453,
-      "name": "Corner Of My Sky",
-      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 447453,
+      "name": "Corner Of My Sky",
+      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 275194,
       "name": "Billowing",
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "K for Key",
-        "url": "https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf"
-      },
-      "artists": [
-        {
-          "name": "Korobu",
-          "url": "https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
-        "name": "Rave Echoes",
-        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
-      },
-      "artists": [
-        {
-          "name": "Shed",
-          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
-        }
-      ],
-      "duration_ms": 272762,
-      "name": "Rave Predator",
-      "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -1191,18 +1159,34 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
+        "name": "Rave Echoes",
+        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
       },
       "artists": [
         {
-          "name": "Fight Pausa",
-          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+          "name": "Shed",
+          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
         }
       ],
-      "duration_ms": 169560,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
+      "duration_ms": 272762,
+      "name": "Rave Predator",
+      "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "K for Key",
+        "url": "https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf"
+      },
+      "artists": [
+        {
+          "name": "Korobu",
+          "url": "https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "thieves",
         "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 178616,
       "name": "thieves",
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "artclubdiscotheque",
         "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6LYTQsgDiyh6IgQawWBkvM"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6pcoerkO4sveBTJb4jxJBE"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6LYTQsgDiyh6IgQawWBkvM"
-      },
-      "artists": [
-        {
-          "name": "Love Spirals Downwards",
-          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/6pcoerkO4sveBTJb4jxJBE"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 291771,
       "name": "Lovegaze",
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2026-09-23 16:39:55",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
         }
       ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-09-23 16:39:55",
       "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
       },
       "artists": [
         {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2026-09-23 16:39:55",
@@ -1611,22 +1627,6 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
-    },
-    {
-      "added_at": "2026-09-23 16:39:55",
-      "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2026-09-23 16:39:55",

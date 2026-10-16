@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Basht.",
+  "description": "The UK's biggest rock playlist. Cover: Fontaines D.C.",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 206750,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/7yhMxoPBe4fFQ4bUeXAAi4"
@@ -6267,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199855,
+      "name": "Demolition",
+      "url": "https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD"
+    },
+    {
+      "album": {
         "name": "Descartes",
         "url": "https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY"
       },
@@ -6444,6 +6462,24 @@
       "duration_ms": 215973,
       "name": "Dirty Habit",
       "url": "https://open.spotify.com/track/6VkVVNFxYOySv4s4n6lTy3"
+    },
+    {
+      "album": {
+        "name": "DIRTY PARTS OF HEAVEN",
+        "url": "https://open.spotify.com/album/445l191yJKcof0xALNPnmI"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232770,
+      "name": "DIRTY PARTS OF HEAVEN",
+      "url": "https://open.spotify.com/track/6w5zpA4rMCtWmsQruHCKfH"
     },
     {
       "album": {
@@ -10090,7 +10126,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187156,
       "name": "Good Fortune",
       "url": "https://open.spotify.com/track/1wlzx2qdBH3SESjGCmScVE"
@@ -10524,7 +10560,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202520,
       "name": "happiest day of my life",
       "url": "https://open.spotify.com/track/64IXtVAa45ZNBkSpsUBoWJ"
@@ -10694,7 +10730,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 149333,
       "name": "He Said She Said",
       "url": "https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT"
@@ -14182,6 +14218,24 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197110,
+      "name": "KOYSAR",
+      "url": "https://open.spotify.com/track/6XqaHX17LC5y80yWz5fUnv"
     },
     {
       "album": {
@@ -21125,6 +21179,24 @@
     },
     {
       "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "Rote Zora. \u201cResistance is Possible.\u201d Emma, no. 6, June 1984, pp. 39-41.",
+      "url": "https://open.spotify.com/track/4RhzATKCn3I11zThqRc27o"
+    },
+    {
+      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
       },
@@ -21720,7 +21792,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197285,
       "name": "Seethe",
       "url": "https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r"
@@ -24178,7 +24250,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 209422,
       "name": "SWALLOW",
       "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
@@ -25182,6 +25254,24 @@
       "duration_ms": 255880,
       "name": "THE GOLDEN RECORD",
       "url": "https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Luz",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334109,
+      "name": "The Greatest Show On Earth",
+      "url": "https://open.spotify.com/track/77uz0Ooi3ERr1WMOnaBYPb"
     },
     {
       "album": {
@@ -26449,6 +26539,24 @@
     },
     {
       "album": {
+        "name": "IF HEAVEN EXISTS, THIS MIGHT BE IT",
+        "url": "https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG"
+    },
+    {
+      "album": {
         "name": "rl stine",
         "url": "https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ"
       },
@@ -27066,7 +27174,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 275750,
       "name": "Ur Bedroom",
       "url": "https://open.spotify.com/track/4ZYqfis4isgeIZ7qiM6904"

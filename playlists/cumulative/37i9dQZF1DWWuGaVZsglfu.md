@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Taylor Swift
+> The best tracks from the world of music\. Cover: ADÉLA
 
-594 songs - 1 day 9 hr 52 min
+595 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 | 2026-09-11 | 2026-09-18 |
 | [Air Mata Buaya](https://open.spotify.com/track/2Spcvj6Oy86jawtRa0joNX) | [Spooky Wet Dreams](https://open.spotify.com/artist/3tzJ1c1gcg2QIpyqV27y5b) | [Air Mata Buaya](https://open.spotify.com/album/07iP7djTpibqQVKMjTQwa1) | 4:05 | 2025-01-15 | 2025-03-13 |
 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 | 2025-05-28 | 2025-09-04 |
-| [Aku Berjanji](https://open.spotify.com/track/0v2DdUmdjv6Qi8yiRzYq2Q) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Aku Berjanji](https://open.spotify.com/album/4zBMIllu4btWzGF9g9nUEC) | 2:29 | 2026-09-04 |  |
+| [Aku Berjanji](https://open.spotify.com/track/0v2DdUmdjv6Qi8yiRzYq2Q) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Aku Berjanji](https://open.spotify.com/album/4zBMIllu4btWzGF9g9nUEC) | 2:29 | 2026-09-04 | 2026-10-16 |
 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 | 2025-03-19 | 2025-08-14 |
 | [Aku Ingin](https://open.spotify.com/track/5oazhBYMeRgGFB7XHwrgkN) | [Tuju](https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd) | [Aku Ingin](https://open.spotify.com/album/2iJMMLoVmVgyP71pVMtBrS) | 3:36 | 2024-09-25 | 2024-10-24 |
 | [Aku Rindu](https://open.spotify.com/track/45oq9OUw7UMJmxloTdfZhy) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Kembali](https://open.spotify.com/album/51kqRIEhejmav1uewvicyX) | 3:13 | 2024-08-21 | 2024-09-19 |
@@ -85,6 +85,7 @@
 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 | 2026-08-28 |  |
 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-28 | 2026-02-27 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-04 | 2025-05-29 |
+| [Bluest Sky](https://open.spotify.com/track/6ujS6AQC7T6nFLY5SBchdQ) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Bluest Sky](https://open.spotify.com/album/6djNFwATelSuauy8erJkgE) | 2:58 | 2026-10-15 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-08 | 2025-05-02 |
 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 | 2025-08-27 | 2025-09-25 |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-27 | 2026-07-03 |

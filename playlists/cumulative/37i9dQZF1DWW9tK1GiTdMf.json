@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 164610,
       "name": "ARRIVO",
       "url": "https://open.spotify.com/track/6XiFrMQi2C1X1m5UrBejPP"
@@ -5189,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "CARNE",
+        "url": "https://open.spotify.com/album/4KEALu0U5LbcNJZYPPh81J"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177129,
+      "name": "CARNE",
+      "url": "https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ"
+    },
+    {
+      "album": {
         "name": "Carrello di SHEIN",
         "url": "https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV"
       },
@@ -5334,6 +5352,24 @@
       "duration_ms": 186944,
       "name": "Cattiva - + Cattiva",
       "url": "https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y"
+    },
+    {
+      "album": {
+        "name": "CATTIVA ABITUDINE",
+        "url": "https://open.spotify.com/album/286MAYqWTy8ecDh1WaZkUB"
+      },
+      "artists": [
+        {
+          "name": "Knfuzed",
+          "url": "https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "CATTIVA ABITUDINE",
+      "url": "https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne"
     },
     {
       "album": {
@@ -10502,7 +10538,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 116444,
       "name": "essere me non \u00e8 facile",
       "url": "https://open.spotify.com/track/5aL8RaZ0EbCycC69TFIuIN"
@@ -10590,7 +10626,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 189268,
       "name": "estate//periferia",
       "url": "https://open.spotify.com/track/41SXX7eKbYOJR5aLXrsUIv"
@@ -11949,6 +11985,28 @@
     },
     {
       "album": {
+        "name": "FOGLIE DI TABACCO (feat. Shama24k)",
+        "url": "https://open.spotify.com/album/1r0rQMv3OwqJgm3lDLsKuU"
+      },
+      "artists": [
+        {
+          "name": "ArtiKo",
+          "url": "https://open.spotify.com/artist/1XJWVZguwF8VOyMyYQwpRk"
+        },
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "FOGLIE DI TABACCO (feat. Shama24k)",
+      "url": "https://open.spotify.com/track/6779Vm2PYeM1gXoPeiMxBk"
+    },
+    {
+      "album": {
         "name": "FOLLI",
         "url": "https://open.spotify.com/album/7Cj1uKSvSrJg62NEyt15Rt"
       },
@@ -12424,7 +12482,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148157,
       "name": "Fuori di me",
       "url": "https://open.spotify.com/track/3x5BsoBwfQKNOGRi8dMoUU"
@@ -12656,7 +12714,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155492,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/4JKGmKjPFkhCM0YXaxzpir"
@@ -13779,6 +13837,24 @@
     },
     {
       "album": {
+        "name": "La persona peggiore del mondo",
+        "url": "https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402531,
+      "name": "Guardami",
+      "url": "https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G"
+    },
+    {
+      "album": {
         "name": "SOTTOSOPRA \u0f1d",
         "url": "https://open.spotify.com/album/7F14fLaQK6FeKH7OCKCOTD"
       },
@@ -14572,6 +14648,24 @@
       "duration_ms": 131222,
       "name": "HYPE",
       "url": "https://open.spotify.com/track/764DluEO5lr3E5bUFmUbFZ"
+    },
+    {
+      "album": {
+        "name": "I BAFFI",
+        "url": "https://open.spotify.com/album/33JlIF1AQ7th0szEcvsSFc"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126218,
+      "name": "I BAFFI",
+      "url": "https://open.spotify.com/track/7oJyLYCKlZeC6f4ygsakUy"
     },
     {
       "album": {
@@ -15380,6 +15474,24 @@
       "duration_ms": 158909,
       "name": "Infranti",
       "url": "https://open.spotify.com/track/4Z9OBJrhph3YgoNwm9npFt"
+    },
+    {
+      "album": {
+        "name": "INOSSIDABILE",
+        "url": "https://open.spotify.com/album/2A8E8PfuYdZ8jiLxRZXTVT"
+      },
+      "artists": [
+        {
+          "name": "SoDa",
+          "url": "https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "INOSSIDABILE",
+      "url": "https://open.spotify.com/track/5GVDpXYTjffKfCuFTogFQ8"
     },
     {
       "album": {
@@ -16846,7 +16958,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 175639,
       "name": "LA VROOM DEI COPS",
       "url": "https://open.spotify.com/track/75gH8rgi747GD80YCfoFrs"
@@ -17450,7 +17562,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -21282,7 +21394,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178306,
       "name": "non mi va",
       "url": "https://open.spotify.com/track/0lcLLCzRlTJclhmBGcUfqs"
@@ -23374,7 +23486,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 130479,
       "name": "Per Niente",
       "url": "https://open.spotify.com/track/5PsGLywECNS5El8KEEjxEK"
@@ -25310,10 +25422,28 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166551,
       "name": "Quando Sar\u00f2 Morto - feat. J-AX",
       "url": "https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7"
+    },
+    {
+      "album": {
+        "name": "Quando ti ho visto arrivare",
+        "url": "https://open.spotify.com/album/2ZYfD4SYVmJxjrByNQenUU"
+      },
+      "artists": [
+        {
+          "name": "L'AMORE",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158352,
+      "name": "Quando ti ho visto arrivare",
+      "url": "https://open.spotify.com/track/2m8oXzw1GcSLZxoJYaIKU5"
     },
     {
       "album": {
@@ -27917,6 +28047,24 @@
     },
     {
       "album": {
+        "name": "SERPENTI",
+        "url": "https://open.spotify.com/album/7CtrfNjt1BG3WYruJuaUCl"
+      },
+      "artists": [
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176202,
+      "name": "SERPENTI",
+      "url": "https://open.spotify.com/track/39hT4Ge1XYT9Dz1mWElwrj"
+    },
+    {
+      "album": {
         "name": "Serramanico Farfalla",
         "url": "https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp"
       },
@@ -28836,7 +28984,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178186,
       "name": "SOLE DI NOTTE",
       "url": "https://open.spotify.com/track/6uRX6prGSg9UubfL4BOGnM"
@@ -30422,6 +30570,24 @@
       "duration_ms": 157946,
       "name": "Stronza(te)",
       "url": "https://open.spotify.com/track/226PtCoGUoPChxzaczVNNM"
+    },
+    {
+      "album": {
+        "name": "struccarti",
+        "url": "https://open.spotify.com/album/2J4oTw2RBDbKoGPVNojjzj"
+      },
+      "artists": [
+        {
+          "name": "main",
+          "url": "https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "struccarti",
+      "url": "https://open.spotify.com/track/2RkVikOyJYSK262ZmpwiYa"
     },
     {
       "album": {
@@ -33468,7 +33634,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157048,
       "name": "Una Foto",
       "url": "https://open.spotify.com/track/64Los7ZxxX27a632VHKdqO"
@@ -33990,7 +34156,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147529,
       "name": "Vatti a Scaldare",
       "url": "https://open.spotify.com/track/3wqwj0dpsWopgUkBb5bGp9"
@@ -34568,7 +34734,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150447,
       "name": "Voglio I Money",
       "url": "https://open.spotify.com/track/3kU00ujJyCJs4GmdUzaz7M"

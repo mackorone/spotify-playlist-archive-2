@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166307,
       "name": "CIRKLER (feat. wicky)",
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
@@ -6271,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "D\u00f8 Ung",
+        "url": "https://open.spotify.com/album/152IPIxDK4D18mHienosaX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201939,
+      "name": "D\u00f8 Ung",
+      "url": "https://open.spotify.com/track/1kQEhz2848yF0G6ZdDGxcn"
+    },
+    {
+      "album": {
         "name": "D\u00f8dvande",
         "url": "https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL"
       },
@@ -8420,7 +8438,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 212200,
       "name": "F\u00f8les For Godt",
       "url": "https://open.spotify.com/track/53deYp0ybqe2d5qGcmjEYi"
@@ -9668,6 +9686,28 @@
       "duration_ms": 162051,
       "name": "Healing (Shattered Heart)",
       "url": "https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0"
+    },
+    {
+      "album": {
+        "name": "Heartbreak & 808s",
+        "url": "https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187381,
+      "name": "Heartbreak & 808s",
+      "url": "https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7"
     },
     {
       "album": {
@@ -11000,6 +11040,24 @@
       "duration_ms": 229875,
       "name": "Hver Eneste Gang",
       "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
+    },
+    {
+      "album": {
+        "name": "Hvis Jeg Er Uden Dig",
+        "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187262,
+      "name": "Hvis Jeg Er Uden Dig",
+      "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
     },
     {
       "album": {
@@ -12532,7 +12590,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173016,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/2AXc5khn0M6yy8eTG7cwfn"
@@ -14705,6 +14763,24 @@
     },
     {
       "album": {
+        "name": "L\u00e5nt tid",
+        "url": "https://open.spotify.com/album/79vwYVClfAjkFUWqzFidgb"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173244,
+      "name": "L\u00e5nt tid",
+      "url": "https://open.spotify.com/track/6XciiReAnvmVap8HkmAVoH"
+    },
+    {
+      "album": {
         "name": "L\u00e5st Inde",
         "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
       },
@@ -15730,7 +15806,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219400,
       "name": "My Collection",
       "url": "https://open.spotify.com/track/592g2X2FjS9101PhGMRmrJ"
@@ -17860,7 +17936,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191785,
       "name": "Problemer",
       "url": "https://open.spotify.com/track/2elCXyOU2SMMBYGvSX1wkC"
@@ -23778,6 +23854,24 @@
       "duration_ms": 215504,
       "name": "Unge Vind (feat. MAS)",
       "url": "https://open.spotify.com/track/1puO0KT4oG2IdVx0vDmmdN"
+    },
+    {
+      "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
     },
     {
       "album": {

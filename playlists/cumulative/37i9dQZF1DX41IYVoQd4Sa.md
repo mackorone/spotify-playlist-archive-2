@@ -2,9 +2,9 @@
 
 ### [האלטרנטיב של ישראל](https://open.spotify.com/playlist/37i9dQZF1DX41IYVoQd4Sa)
 
-> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
+> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אביתר בנאי
 
-448 songs - 1 day 2 hr 16 min
+450 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [so pls just come over](https://open.spotify.com/track/4R2m8SLQ79eLf8p7AzNBat) | [Roby Fayer](https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs), [Amit Shauli](https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ) | [so pls just come over](https://open.spotify.com/album/56t29LVwzgZePZIz1AMelh) | 2:34 | 2025-08-28 | 2025-10-17 |
 | [Spinnin'](https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Spinnin'](https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt) | 3:17 | 2024-07-11 | 2024-10-18 |
 | [Stuck In Heaven \(AATM\) \- Live](https://open.spotify.com/track/2thCcR8O7YwgUTIjrIQBuX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Stuck In Heaven \(AATM\) \[Live\]](https://open.spotify.com/album/29041H9UFjzxE1zrVEQ7Km) | 2:50 | 2026-04-30 | 2026-06-01 |
+| [Summer Rain](https://open.spotify.com/track/21hXLnC7sgCI3wO1g8lyy2) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Summer Rain](https://open.spotify.com/album/7s1oTVvZjikJiUtGVqcmY5) | 3:12 | 2026-10-15 |  |
 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 | 2025-12-11 | 2026-02-27 |
 | [Sunflowers](https://open.spotify.com/track/7Ky2cG8KrGDAANz8gso58t) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [LNDE](https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be) | [Sunflowers](https://open.spotify.com/album/0BouAkjyz1EW1szwF5yyhB) | 3:54 | 2025-02-13 | 2025-03-21 |
 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 | 2025-06-05 |  |
@@ -147,7 +148,7 @@
 | [אדם ללא אדם](https://open.spotify.com/track/2p3MxQx5jEMJ97itxrd7tp) | [Hemi Rudner](https://open.spotify.com/artist/73Cuv6pUbmERHKWEGD4ffj) | [אדם ללא אדם](https://open.spotify.com/album/6AGcS4mQ2JzOzF0BGgEjjS) | 4:26 | 2024-09-26 | 2024-11-15 |
 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 | 2024-06-27 | 2025-02-10 |
 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 | 2025-09-18 | 2026-02-20 |
-| [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 | 2026-02-26 |  |
+| [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 | 2026-02-26 | 2026-10-16 |
 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 | 2025-11-13 | 2026-07-03 |
 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 | 2024-09-26 |  |
 | [אופק רחוק](https://open.spotify.com/track/1wSRh9stFhDUh5KvNskQNa) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [אופק רחוק](https://open.spotify.com/album/3Pwc1TAhCwAckLxQGxnujo) | 4:16 | 2025-12-18 | 2026-01-16 |
@@ -358,7 +359,7 @@
 | [מים על הסלע](https://open.spotify.com/track/60gGs8Qm93hUwLLjkXgTJX) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/5fTwKWtWPzu2zVp9rPSpn2) | 2:48 | 2025-01-02 | 2025-01-31 |
 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 | 2026-04-17 |
 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 | 2026-01-29 | 2026-05-05 |
-| [מניאקים](https://open.spotify.com/track/41CoPYXZ0Ln1R6WENZhowh) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [הזיות של מטייל בודד](https://open.spotify.com/album/4o92hoYNR8kwdJSXKaW2mm) | 3:51 | 2026-06-11 |  |
+| [מניאקים](https://open.spotify.com/track/41CoPYXZ0Ln1R6WENZhowh) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [הזיות של מטייל בודד](https://open.spotify.com/album/4o92hoYNR8kwdJSXKaW2mm) | 3:51 | 2026-06-11 | 2026-10-16 |
 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 | 2024-06-27 | 2025-02-28 |
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-08-16 |
 | [מציצים](https://open.spotify.com/track/1iP2IpPoc0dv0n8mkIkblS) | [Rockfour](https://open.spotify.com/artist/79yGLYvB762fzc956hwpza), [Maor Cohen](https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0) | [בחזרה לשבלול \- צד נוסף](https://open.spotify.com/album/5ArghaNMlcUd6Qlh64FfQE) | 4:08 | 2026-07-09 | 2026-08-07 |
@@ -372,6 +373,7 @@
 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 | 2025-10-30 | 2026-01-15 |
 | [מתגעגע](https://open.spotify.com/track/2bhkznDZSb1GtTLiUdmcpg) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy) | [מתגעגע](https://open.spotify.com/album/78OGy1SHfRpVoFHvPN8nYl) | 2:52 | 2025-11-20 | 2025-12-19 |
 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 | 2026-06-05 |
+| [נגמרו המילים](https://open.spotify.com/track/6CdRywW04YZOLXdR6r42oE) | [Joseph E\-Shine](https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4) | [כל כך הרבה שנים איתך](https://open.spotify.com/album/76TMJKwMXwwhGYK2QvgJDP) | 3:34 | 2026-10-15 |  |
 | [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 | 2024-06-27 | 2024-11-02 |
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 | 2025-03-21 |
 | [נושף מהחלל](https://open.spotify.com/track/1kkUZI1op0lX3x4mug2rf2) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [נושף מהחלל](https://open.spotify.com/album/4teXqEjIFXp1Wz4dBegRg0) | 3:13 | 2025-11-06 | 2025-11-28 |

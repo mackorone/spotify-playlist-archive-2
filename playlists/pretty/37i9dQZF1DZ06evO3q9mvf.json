@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3319,
+  "num_followers": 3320,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAD2VwnVqeGSoHD4s+1YPUve",
+  "snapshot_id": "as7GAAAAAADb0i0dJIKrt57RvFypGIOY",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 245320,
-      "name": "Difficult Fun",
-      "url": "https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41"
+      "duration_ms": 282906,
+      "name": "Walkabout",
+      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Walkabout",
-      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
+      "duration_ms": 245320,
+      "name": "Difficult Fun",
+      "url": "https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41"
     },
     {
       "added_at": null,

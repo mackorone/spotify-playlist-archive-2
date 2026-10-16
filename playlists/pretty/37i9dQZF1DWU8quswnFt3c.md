@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Majo Aguilar from Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,640 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,519 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 17 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
 | 18 | [Bulvár](https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Bulvár](https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn) | 2:08 |
 | 19 | [Highest](https://open.spotify.com/track/10VuwBAxEi3goN8n3AvrGS) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:56 |
-| 20 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
-| 21 | [MARRANA](https://open.spotify.com/track/4OYazVAyxXpVEKZcGOEg9c) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [elakkka](https://open.spotify.com/artist/2ovQecRjUZ8mmjcj9hHRLJ), [Grozero](https://open.spotify.com/artist/1FCT0FKl1NTrxZXA78LbNs) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:11 |
+| 20 | [MARRANA](https://open.spotify.com/track/4OYazVAyxXpVEKZcGOEg9c) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [elakkka](https://open.spotify.com/artist/2ovQecRjUZ8mmjcj9hHRLJ), [Grozero](https://open.spotify.com/artist/1FCT0FKl1NTrxZXA78LbNs) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:11 |
+| 21 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
 | 22 | [You Said Something](https://open.spotify.com/track/4m5S4wvLY031rN6beIWoRe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:18 |
 | 23 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 24 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
 | 34 | [Amor Azar](https://open.spotify.com/track/0utCRix8bmtLLhMSItgE72) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda Eterna](https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT) | 2:42 |
 | 35 | [Qué Hubiera Pasado](https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Qué Hubiera Pasado](https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC) | 2:39 |
-| 36 | [Necesito menos](https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 4:08 |
-| 37 | [ESQUINITAS](https://open.spotify.com/track/1bL1A8RfawZaWDs7NY9au5) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [ESQUINITAS](https://open.spotify.com/album/5rrYBDMFlGVCDpAScw72ea) | 2:14 |
+| 36 | [ESQUINITAS](https://open.spotify.com/track/1bL1A8RfawZaWDs7NY9au5) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [ESQUINITAS](https://open.spotify.com/album/5rrYBDMFlGVCDpAScw72ea) | 2:14 |
+| 37 | [Necesito menos](https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ey, no molestes](https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw) | 4:08 |
 | 38 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 39 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
 | 40 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
 | 44 | [Pagana](https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Pagana](https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0) | 2:57 |
 | 45 | [abans abans](https://open.spotify.com/track/02m8VMKmUILOO6aufAkJaQ) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Pripyat](https://open.spotify.com/album/0jwNPISM1nMtFfBqJvPnHE) | 4:04 |
-| 46 | [playa](https://open.spotify.com/track/65x6H83om4kmtQMRo6G4ea) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [playa](https://open.spotify.com/album/0MRYUqJVQnXymX1cWAlqsc) | 3:09 |
-| 47 | [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 |
+| 46 | [amor con coco](https://open.spotify.com/track/7s0D5cHFmgwKPqv8Bzf4Ia) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [amor con coco](https://open.spotify.com/album/09stTRWAeegzwtavBVXjD6) | 3:23 |
+| 47 | [playa](https://open.spotify.com/track/65x6H83om4kmtQMRo6G4ea) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [playa](https://open.spotify.com/album/0MRYUqJVQnXymX1cWAlqsc) | 3:09 |
 | 48 | [Mua Mua Mua](https://open.spotify.com/track/29RyqkUPTH38nwOXuj6dAj) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/6WZuiN4RpAA4DYVXiEl0bs) | 2:11 |
 | 49 | [Hotter Than Hot](https://open.spotify.com/track/1DcRZgk0OzhN9Fhxj0GiFs) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Callaita Nunca](https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd) | 3:10 |
 | 50 | [The Last Encounter](https://open.spotify.com/track/5RUkIOblbZ8P9fz4dUhQII) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 3:04 |

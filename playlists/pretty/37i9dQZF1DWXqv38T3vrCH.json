@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 328874,
+  "num_followers": 328877,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Night Crawler",
-      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 112426,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "superdeadfriends",
-      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 136040,
       "name": "Pumpkinhead",
       "url": "https://open.spotify.com/track/6WuJV4sF3LRFoG3hNUigaP"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "superdeadfriends",
+      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1111,7 +1111,7 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Lullabies To Paralyze",
+        "name": "Lullabies To Paralyze (Deluxe Edition)",
         "url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8"
       },
       "artists": [
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "The Rocky Horror Picture Show - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
-      },
-      "artists": [
-        {
-          "name": "Little Nell",
-          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
-        },
-        {
-          "name": "Patricia Quinn",
-          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
-        },
-        {
-          "name": "Richard O'Brien",
-          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
-        }
-      ],
-      "duration_ms": 199366,
-      "name": "Time Warp",
-      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 199946,
       "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
       "url": "https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+        },
+        {
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+        }
+      ],
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
     },
     {
       "added_at": "2025-10-27 20:26:25",

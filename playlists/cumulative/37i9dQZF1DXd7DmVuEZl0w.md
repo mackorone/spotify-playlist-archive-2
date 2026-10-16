@@ -4,7 +4,7 @@
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-189 songs - 9 hr 51 min
+190 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2025-03-28 |  |
 | [Ghafar](https://open.spotify.com/track/6pOFEHUELXDTNd2TJ3oIkE) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Ghafar](https://open.spotify.com/album/2IphGCfyPybFr6qFlBp92q) | 1:19 | 2025-01-28 | 2025-03-29 |
 | [Give Thanks to Allah](https://open.spotify.com/track/34rjVNKRvJtbVQgzrk1Km3) | [Zain Bhikha](https://open.spotify.com/artist/2S9mgYENcr2X6A4rRU83cb) | [Songs of a Soul \(Double Album\)](https://open.spotify.com/album/62Wfw6AFEtYSigIag286Lh) | 1:54 | 2024-03-11 | 2025-03-29 |
-| [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-28 |  |
+| [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-28 | 2026-10-16 |
 | [Habib Allah](https://open.spotify.com/track/1SnQTqKUaxJRIGzYknmRyu) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Habib Allah](https://open.spotify.com/album/1MnEwqAyo0PznggPe3f8kN) | 2:49 | 2024-03-11 | 2024-04-09 |
 | [Habibna Al Mostafa \- Al Maddah](https://open.spotify.com/track/4IREk5iMdOnZ0cIIFa7Tkl) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Habibna Al Mostafa \(Al Maddah\)](https://open.spotify.com/album/3wAUcH51VjK2DyEgIBqIup) | 3:09 | 2024-03-11 | 2025-03-29 |
 | [Hadul El\-Quran](https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Hadul El\-Quran](https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl) | 3:19 | 2024-03-11 | 2025-03-29 |
@@ -157,6 +157,7 @@
 | [اهديني](https://open.spotify.com/track/3vHSE1pwr3biAxobBF6tnN) | [Shimaa Shreif](https://open.spotify.com/artist/4yiBDuLDMJPNLNEESoO9mw) | [اهديني](https://open.spotify.com/album/4BcKkyQ1RnkgJMm5ivUUX3) | 2:02 | 2024-03-11 | 2025-02-15 |
 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 | 2024-04-08 | 2025-01-29 |
 | [تايب وراجع إليك](https://open.spotify.com/track/2qnhc9vuq4PtBH1iTWdk8U) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [تايب وراجع إليك](https://open.spotify.com/album/24Fk76LIeVjGi2Qc0VDL6H) | 2:58 | 2025-01-28 | 2025-02-23 |
+| [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 | 2025-03-28 |  |
 | [حب الله](https://open.spotify.com/track/6qrw0nMF6lyxfgCBfNR9nu) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [حب الله](https://open.spotify.com/album/49HWo0yoOTxqJhbfHc7Q7S) | 3:40 | 2024-03-11 | 2025-03-29 |
 | [حبيبي ليه](https://open.spotify.com/track/2OSxxCfS81wcds5RbQ0Ztq) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:00 | 2025-03-28 |  |
 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 | 2025-03-28 |  |

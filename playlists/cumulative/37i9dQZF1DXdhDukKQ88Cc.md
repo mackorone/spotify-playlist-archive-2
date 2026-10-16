@@ -2,9 +2,9 @@
 
 ### [ny rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀  ICEKIID på cover!!
+> kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
 
-648 songs - 1 day 3 hr 42 min
+654 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [365 \(feat\. Benny Jamz\)](https://open.spotify.com/track/6bcPxfjMUONVAbO4lYss1K) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [365 \(feat\. Benny Jamz\)](https://open.spotify.com/album/5PWg2uqvtri5cEX1yrZa4e) | 2:32 | 2025-06-05 | 2025-10-31 |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 | 2024-11-08 |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
+| [400KM](https://open.spotify.com/track/3ZQOc4eHvf8ndHcQsgOjY7) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [400KM](https://open.spotify.com/album/6WEjxiLRlD6VCzzj7aIJx7) | 2:14 | 2026-10-15 |  |
 | [4:44](https://open.spotify.com/track/2v28o9UzJpaFVxtJqH25XN) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [4:44](https://open.spotify.com/album/7nj291ovgMINOO9owFsM2o) | 1:57 | 2024-11-21 | 2025-11-14 |
 | [4AM](https://open.spotify.com/track/1N32Z7eOaLxT8WHXRhvySH) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [4AM](https://open.spotify.com/album/38hEWfFEVQjyBUj6OkwnnZ) | 3:04 | 2026-06-11 | 2026-06-20 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 | 2024-01-04 | 2024-02-10 |
@@ -79,6 +80,7 @@
 | [BAR GØR DET](https://open.spotify.com/track/62YoirydQgxNVCM0CwvBGS) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [BAR GØR DET](https://open.spotify.com/album/3z2nH1SAm6FGTaJ0aXJZf6) | 2:04 | 2026-05-28 | 2026-10-02 |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 | 2024-09-13 |
 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 | 2025-01-16 | 2026-04-10 |
+| [Barn Af Byen](https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Barn Af Byen](https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA) | 2:22 | 2026-10-15 |  |
 | [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 | 2024-09-05 | 2024-11-08 |
 | [Bedøvende](https://open.spotify.com/track/1XillHPBk3C21iDpnpLmSR) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Babyface Mo](https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf) | [Bedøvende](https://open.spotify.com/album/75hr6dG6BNro3Nx61Jc4La) | 2:45 | 2024-08-29 | 2024-09-13 |
 | [Bella](https://open.spotify.com/track/4vBmOdsWBa6HvHlzqVYhSh) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Bella](https://open.spotify.com/album/0UVSC630dOdCW1CVqXGP5M) | 2:13 | 2026-01-01 | 2026-04-17 |
@@ -484,7 +486,9 @@
 | [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 | 2025-07-17 | 2025-07-25 |
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-04 | 2025-05-16 |
 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:05 | 2025-02-06 | 2026-04-10 |
+| [Repertoire](https://open.spotify.com/track/2RtcQTIEUUPJtuh0UpItuD) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Repertoire](https://open.spotify.com/album/0nUvJucfYQjJMAaSRDr8qW) | 3:04 | 2026-10-15 |  |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 | 2025-04-18 |
+| [Reserveret](https://open.spotify.com/track/0fkB0JqfHEQcmi9ImNFYcr) | [HEISING](https://open.spotify.com/artist/2lLGHMeB6AaHqkD4eMVw6p) | [Reserveret](https://open.spotify.com/album/6XVED7F8jtd00VTiTxjrRf) | 2:41 | 2026-10-15 |  |
 | [Reykjavík](https://open.spotify.com/track/32CbA0gI0HvFjdXOLjkHoa) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Reykjavík](https://open.spotify.com/album/5YPOVLkiXvw7dnAWlJhfoK) | 2:25 | 2026-07-02 | 2026-08-08 |
 | [Rich Porter](https://open.spotify.com/track/3EVPeziBwtX2wwJUMJFEQm) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Rich Porter](https://open.spotify.com/album/6pWzVPKp2obWtt69IFkRO9) | 2:27 | 2025-09-18 | 2025-10-03 |
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 | 2024-02-23 |
@@ -570,6 +574,7 @@
 | [Tar Dig Med](https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Tar Dig Med](https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc) | 2:00 | 2023-09-21 | 2023-12-14 |
 | [TASK](https://open.spotify.com/track/3NE7NZrgtasZVKkzuoysba) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [TASK](https://open.spotify.com/album/5WKXDOzrwoaj4iKkIAcSG4) | 3:22 | 2026-10-01 |  |
 | [Terminator](https://open.spotify.com/track/0KMxeO43v7H3jlQgUDwnBh) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [Terminator](https://open.spotify.com/album/5jmcDbXtJoOnwfFe76i4pp) | 2:17 | 2026-10-08 |  |
+| [Teske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Teske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 | 2026-10-15 |  |
 | [Til Stede](https://open.spotify.com/track/2VKs1Cvg89HfMHTfGtXbc4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:52 | 2025-04-24 | 2026-04-10 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
 | [Tilfælles](https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Tilfælles](https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8) | 2:48 | 2026-09-17 |  |
@@ -635,6 +640,7 @@
 | [Wanna Be My Lady](https://open.spotify.com/track/2bsgTepwbSPYAS0gvlHUw7) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Wanna Be My Lady](https://open.spotify.com/album/5om9PmQ26QpvX2nSxVrcQB) | 1:58 | 2026-01-22 | 2026-02-27 |
 | [wannabee](https://open.spotify.com/track/13mLSGAcaBVwQe6QZohOBn) | [Rune Kuda](https://open.spotify.com/artist/1bmeYQ1w5TJEymee7OLanY), [Loke Deph](https://open.spotify.com/artist/3oRPfWPis1iIWdFElveUuN), [Elias Njovu](https://open.spotify.com/artist/42FrdBvYgumCoyWaYlL530), [MCKold](https://open.spotify.com/artist/46lNUlTtEPdqjrs4SWqfE7), [Kasper](https://open.spotify.com/artist/53jKhZZ8rse1WTivfPi6hb) | [wannabee](https://open.spotify.com/album/4CzMalPrp7E1g54e1RoDny) | 3:35 | 2026-06-19 | 2026-06-26 |
 | [WAYTA?](https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [WAYTA?](https://open.spotify.com/album/225eVssASgjupEqe3yNPYj) | 2:50 | 2026-10-08 |  |
+| [WEEZYBALLY](https://open.spotify.com/track/3MqKqxLMnwQped4F6pqgWF) | [KAS](https://open.spotify.com/artist/4phSEXoMC7iWJUN7Zxo6fJ) | [WEEZYBALLY](https://open.spotify.com/album/0mkdY7ljtJ6oLxm9FNWByW) | 2:51 | 2026-10-15 |  |
 | [Welcome To The Party](https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Welcome To The Party](https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX) | 2:35 | 2023-12-08 | 2024-05-14 |
 | [Westerlin](https://open.spotify.com/track/1x83R7cDnQzpuNwwvRVFZa) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Westerlin](https://open.spotify.com/album/4tTXelGtBBpqCXYdzsCTb6) | 2:24 | 2026-07-30 |  |
 | [WHIP](https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [WHIP](https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3) | 2:17 | 2024-11-28 | 2025-01-17 |

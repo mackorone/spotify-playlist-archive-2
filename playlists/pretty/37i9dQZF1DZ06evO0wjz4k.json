@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36614,
+  "num_followers": 36615,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADyWMay/OCFBh0aEzoCQNLr",
+  "snapshot_id": "as7GAAAAAADsJqki1xa64e2rZFN49KZY",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+        "name": "Big Ole Fancy House (Acoustic)",
+        "url": "https://open.spotify.com/album/6oNgOpksiHjRzxceMkNCrq"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Montgomery County",
-      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
+      "duration_ms": 303300,
+      "name": "Big Ole Fancy House - Acoustic",
+      "url": "https://open.spotify.com/track/5q6AeXUb3Qq9i2Q6WgPQGH"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ole Fancy House (Acoustic)",
-        "url": "https://open.spotify.com/album/6oNgOpksiHjRzxceMkNCrq"
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 303300,
-      "name": "Big Ole Fancy House - Acoustic",
-      "url": "https://open.spotify.com/track/5q6AeXUb3Qq9i2Q6WgPQGH"
+      "duration_ms": 208733,
+      "name": "Montgomery County",
+      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Tommy Jackson",
+        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
       },
       "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+      "duration_ms": 305609,
+      "name": "Tommy Jackson",
+      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
     },
     {
       "added_at": null,
@@ -511,6 +515,22 @@
       "duration_ms": 265906,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/30qsfPMvKe7oMgrqHb5OXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Defense of Drinking",
-        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Postcards From Texas",
         "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tommy Jackson",
-        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
+        "name": "In Defense of Drinking",
+        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
         },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 305609,
-      "name": "Tommy Jackson",
-      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+      "duration_ms": 212266,
+      "name": "Diamonds And Gasoline - Acoustic",
+      "url": "https://open.spotify.com/track/0pvXRqOKIyOl7GgKKz62Cp"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paper Umbrellas",
         "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },
@@ -815,26 +831,6 @@
       "duration_ms": 270213,
       "name": "Perfectly Lonely",
       "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Between: The Collection",
-        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
     }
   ],
   "unique_name": "This Is Parker McCollum",

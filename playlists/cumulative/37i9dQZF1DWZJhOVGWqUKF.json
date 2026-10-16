@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Royal Blood",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -602,6 +602,24 @@
       "duration_ms": 276096,
       "name": "About You",
       "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
+    },
+    {
+      "album": {
+        "name": "About You (Bonus Version)",
+        "url": "https://open.spotify.com/album/1jLD6o7DKOo8O1lXXPfGK4"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "About You - Bonus Version",
+      "url": "https://open.spotify.com/track/07f2UG1AH6Z1zv4LeGgUSA"
     },
     {
       "album": {
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 171120,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/5Pg9dsZZd6DuanCKlehvMx"
@@ -3404,6 +3422,24 @@
       "duration_ms": 240512,
       "name": "Cave Paintings",
       "url": "https://open.spotify.com/track/3pkVuZ4EX04NWRMpAd99rj"
+    },
+    {
+      "album": {
+        "name": "Death To Something",
+        "url": "https://open.spotify.com/album/4PiPObaFqaRSOgRaknNrJ6"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/5jnXvYY1Ppwf8uAXClMvsp"
     },
     {
       "album": {
@@ -5832,7 +5868,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 260826,
       "name": "Eight Legs of Thunder",
       "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
@@ -5916,6 +5952,24 @@
       "duration_ms": 159500,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6ofP6MhTyklCQQOSpYkiGy"
+    },
+    {
+      "album": {
+        "name": "Escalation",
+        "url": "https://open.spotify.com/album/5NaORksrNe1fa1LUGGyvx7"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Escalation",
+      "url": "https://open.spotify.com/track/3oVFSEzzjK8VC1hFMp7Mkr"
     },
     {
       "album": {
@@ -6466,7 +6520,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 209427,
       "name": "Fall into Pieces",
       "url": "https://open.spotify.com/track/6HJ7MBIiP0pwbHIlMJPziy"
@@ -11913,6 +11967,32 @@
     },
     {
       "album": {
+        "name": "Make It a Lie",
+        "url": "https://open.spotify.com/album/7EETmL4jdX9LIf3Hxd436h"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        },
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        },
+        {
+          "name": "Nastassja Giulia of Enemy Inside",
+          "url": "https://open.spotify.com/artist/14zQrRO0gM6voVn7dLrazq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210816,
+      "name": "Make It a Lie",
+      "url": "https://open.spotify.com/track/6OOxkOOUvNyeLi6JzQUD5H"
+    },
+    {
+      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -12402,6 +12482,24 @@
       "duration_ms": 282726,
       "name": "Modern Life Is Lonely",
       "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
+    },
+    {
+      "album": {
+        "name": "Mom Raised a Quitter",
+        "url": "https://open.spotify.com/album/79A04xivxgfnTl5EJwLzFP"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "Mom Raised a Quitter",
+      "url": "https://open.spotify.com/track/1G12FKANAmpZlYgxP0dy28"
     },
     {
       "album": {
@@ -14284,7 +14382,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 348439,
       "name": "PARTY'S OVER",
       "url": "https://open.spotify.com/track/5eJqtTJXQkOnJ6XR4FU60q"
@@ -14482,7 +14580,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 177906,
       "name": "Platform Decay",
       "url": "https://open.spotify.com/track/0yU5CncustQ6CftDXR6eMM"
@@ -14572,7 +14670,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191531,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
@@ -18170,7 +18268,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181415,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
@@ -19209,6 +19307,24 @@
     },
     {
       "album": {
+        "name": "Happy Little Accidents",
+        "url": "https://open.spotify.com/album/4SxK3w4iO6ZjpvpibLyzXa"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/0VM2EeAodLr1h8bLwH9R4s"
+    },
+    {
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8"
       },
@@ -19600,7 +19716,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -20371,6 +20487,24 @@
     },
     {
       "album": {
+        "name": "WHAAT",
+        "url": "https://open.spotify.com/album/6vgN6Hy73pmlytBdaMYYZu"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184064,
+      "name": "WHAAT",
+      "url": "https://open.spotify.com/track/01b5R3pLGj6n3tI54zEx9u"
+    },
+    {
+      "album": {
         "name": "What If...?",
         "url": "https://open.spotify.com/album/2iE4nia3tEAoQKRex8rElL"
       },
@@ -20968,6 +21102,24 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "album": {
+        "name": "WRONG",
+        "url": "https://open.spotify.com/album/0x0us1jvwMAzN45SFP1SRf"
+      },
+      "artists": [
+        {
+          "name": "Flash Forward",
+          "url": "https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187779,
+      "name": "WRONG",
+      "url": "https://open.spotify.com/track/3lvaXjWVqhB9N0VbkizJmK"
     },
     {
       "album": {

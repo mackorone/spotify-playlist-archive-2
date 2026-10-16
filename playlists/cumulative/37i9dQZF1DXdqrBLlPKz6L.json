@@ -1495,6 +1495,36 @@
     },
     {
       "album": {
+        "name": "Hagalo",
+        "url": "https://open.spotify.com/album/55AQ3rQ74ctxjfmLAXS8Gc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Hagalo",
+      "url": "https://open.spotify.com/track/1IfiayrBBdKt8cixUD4nOp"
+    },
+    {
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/1zE1QaUY29I0LZASdVAarT"
       },
@@ -1568,7 +1598,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 142095,
       "name": "Hoteles",
       "url": "https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV"
@@ -2006,7 +2036,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150532,
       "name": "Lora",
       "url": "https://open.spotify.com/track/1eKeNjTZZpSpNZn7309P1W"
@@ -2866,6 +2896,28 @@
       "duration_ms": 162857,
       "name": "Peli De Terror",
       "url": "https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
     },
     {
       "album": {

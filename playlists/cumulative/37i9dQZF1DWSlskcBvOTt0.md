@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,206 songs - 4 day 1 hr 8 min
+1,207 songs - 4 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Flores \- Meera \(NO\) Remix](https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flores \(Meera Remix\)](https://open.spotify.com/album/0vNnO7EV8asQ3ZcHxXy8lk) | 8:16 | 2024-04-19 | 2024-07-09 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-16 | 2022-09-24 |
 | [Flotando](https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flotando](https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA) | 3:55 | 2026-08-21 |  |
+| [Flow](https://open.spotify.com/track/5IpD0DMUjcvsIeVwWCdZR5) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Flow](https://open.spotify.com/album/4qw8nqSwg9rA04sPxxCdJf) | 3:30 | 2026-10-09 |  |
 | [Fluminnese \- Edit](https://open.spotify.com/track/5s9tEo2dnKiXIYZiossJjF) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Fluminnese \(Edit\)](https://open.spotify.com/album/58v3VkgqWzK4UFBn9RymaB) | 4:37 | 2022-02-18 | 2022-07-29 |
 | [Fly With Me](https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p) | [Habitatt](https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF) | [Fly With Me](https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87) | 3:46 | 2024-02-09 | 2024-11-17 |
 | [FOCUS](https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw), [KMNI](https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2) | [FOCUS](https://open.spotify.com/album/6nKI0eexIovx0Xd8BwC54p) | 3:40 | 2026-02-27 |  |
@@ -976,7 +977,7 @@
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-05-24 | 2023-11-05 |
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-09-20 | 2025-08-30 |
-| [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 | 2026-08-07 |  |
+| [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 | 2026-08-07 | 2026-10-16 |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-10 | 2023-04-10 |
 | [Sound Of The Sunrise](https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Sound Of The Sunrise](https://open.spotify.com/album/2edg227641w0qF8GX65k0R) | 3:13 | 2025-11-14 |  |
 | [Spirale](https://open.spotify.com/track/1NTl2IqpGs7iwKo2fl4boF) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Spirale](https://open.spotify.com/album/2NcaYhLVadAjKpD2DKlYHb) | 6:48 | 2021-04-21 | 2022-07-21 |

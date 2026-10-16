@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy, Kidd",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181492,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/6S1gs8NVoVEi8ODwUHLvqW"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 128611,
       "name": "BBB",
       "url": "https://open.spotify.com/track/4ff2Xlgyc33wNP5a8dITfj"
@@ -2752,6 +2752,32 @@
       "duration_ms": 166138,
       "name": "Big Moves - Vol. 5",
       "url": "https://open.spotify.com/track/01CrjNySWaln8aBVJA1MAg"
+    },
+    {
+      "album": {
+        "name": "BILLION VIEW",
+        "url": "https://open.spotify.com/album/6egXqUPkbVlKu0sxLkImVV"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Ghetto Queen",
+          "url": "https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK"
+        },
+        {
+          "name": "Icelee",
+          "url": "https://open.spotify.com/artist/2zj3FEs4NYe6Ij6hZsQ05F"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "BILLION VIEW",
+      "url": "https://open.spotify.com/track/4kWPKMeijVnvEG1OULI0KV"
     },
     {
       "album": {
@@ -3710,7 +3736,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153913,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/41XtiTLmGdK3XHmHLD85Va"
@@ -4730,6 +4756,24 @@
       "duration_ms": 130243,
       "name": "DISCO",
       "url": "https://open.spotify.com/track/2UB8Gy1S5s9OEnKRwBj3VC"
+    },
+    {
+      "album": {
+        "name": "Dead Or Wanted",
+        "url": "https://open.spotify.com/album/1TLEudSWzZckkbuuFDW6ui"
+      },
+      "artists": [
+        {
+          "name": "2shots",
+          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Diss Track",
+      "url": "https://open.spotify.com/track/2WZQ4o39tzTJn7trsM3ZcS"
     },
     {
       "album": {
@@ -9681,6 +9725,28 @@
     },
     {
       "album": {
+        "name": "Lefta & Jewels",
+        "url": "https://open.spotify.com/album/4yBRkBghgIXqhWiIO7A9WY"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Lefta & Jewels",
+      "url": "https://open.spotify.com/track/5mkzmkRvRFr3Qt4LHhky8X"
+    },
+    {
+      "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/3sFh2voJMS5lsw3h3ZXCnC"
       },
@@ -12791,6 +12857,24 @@
     },
     {
       "album": {
+        "name": "ON TOP",
+        "url": "https://open.spotify.com/album/6ibJHUFzHgti0ItBGncfim"
+      },
+      "artists": [
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "ON TOP",
+      "url": "https://open.spotify.com/track/63uhSjqx8phbSu0EUbRzoR"
+    },
+    {
+      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ"
       },
@@ -14193,6 +14277,28 @@
     },
     {
       "album": {
+        "name": "PINOCCHIO",
+        "url": "https://open.spotify.com/album/7j8B1jYWgZNQIOPYi655Wb"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "PINOCCHIO",
+      "url": "https://open.spotify.com/track/6CJziZEAirW4XRUzKtipzX"
+    },
+    {
+      "album": {
         "name": "PIRATES",
         "url": "https://open.spotify.com/album/1sX7gogveZwnm2XNAap1Kb"
       },
@@ -14314,7 +14420,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 162074,
       "name": "PLIGES",
       "url": "https://open.spotify.com/track/05ghTuQFLOvTIUdS6QyZxb"
@@ -15972,7 +16078,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 170434,
       "name": "Septemvris",
       "url": "https://open.spotify.com/track/3Y0YYhDOFz5QfPB5EhTPLc"

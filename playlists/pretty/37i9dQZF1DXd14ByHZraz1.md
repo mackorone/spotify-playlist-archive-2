@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,987 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,928 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep It Simple](https://open.spotify.com/track/4kmx6CCYSU8PCZhCvoO0oU) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Keep It Simple](https://open.spotify.com/album/7l1f5JhLks6aZ2rHy9weT6) | 2:45 |
-| 2 | [In The Dark](https://open.spotify.com/track/5SlgO3tndAkHsew4j09cbE) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [In The Dark](https://open.spotify.com/album/0BWHItIN8Po4HdmjTgRJpu) | 2:37 |
-| 3 | [Where You Go](https://open.spotify.com/track/6d1mptMgBAHBRH1MrcGauu) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB) | [Where You Go](https://open.spotify.com/album/0TWc8hSijo43EAkWUHehuu) | 2:44 |
-| 4 | [VEINS](https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [OVERDRIVE](https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A) | 3:45 |
-| 5 | [Pop This](https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Pop This](https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG) | 2:59 |
-| 6 | [Follower](https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Follower](https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1) | 2:45 |
-| 7 | [Around](https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Rave The World EP](https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo) | 3:53 |
-| 8 | [Censored](https://open.spotify.com/track/0FXlHHnHbYScs3EnljmErZ) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Censored](https://open.spotify.com/album/6etUuvTV1ze1txBe5piuDx) | 2:39 |
-| 9 | [In My House](https://open.spotify.com/track/3Lw69ZoWwno0K09kxFskKn) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [In My House](https://open.spotify.com/album/24expfrQAd6AyDlGAv3glD) | 3:01 |
-| 10 | [Let It Drop](https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U) | [Let It Drop](https://open.spotify.com/album/5fisNLHDre4GmMi2a1AbSS) | 2:40 |
+| 2 | [Where You Go](https://open.spotify.com/track/6d1mptMgBAHBRH1MrcGauu) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB) | [Where You Go](https://open.spotify.com/album/0TWc8hSijo43EAkWUHehuu) | 2:44 |
+| 3 | [VEINS](https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [OVERDRIVE](https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A) | 3:45 |
+| 4 | [Pop This](https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Pop This](https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG) | 2:59 |
+| 5 | [Follower](https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Follower](https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1) | 2:45 |
+| 6 | [Around](https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Rave The World EP](https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo) | 3:53 |
+| 7 | [Censored](https://open.spotify.com/track/0FXlHHnHbYScs3EnljmErZ) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Censored](https://open.spotify.com/album/6etUuvTV1ze1txBe5piuDx) | 2:39 |
+| 8 | [In My House](https://open.spotify.com/track/3Lw69ZoWwno0K09kxFskKn) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [In My House](https://open.spotify.com/album/24expfrQAd6AyDlGAv3glD) | 3:01 |
+| 9 | [Let It Drop](https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U) | [Let It Drop](https://open.spotify.com/album/5fisNLHDre4GmMi2a1AbSS) | 2:40 |
+| 10 | [In The Dark](https://open.spotify.com/track/5SlgO3tndAkHsew4j09cbE) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [In The Dark](https://open.spotify.com/album/0BWHItIN8Po4HdmjTgRJpu) | 2:37 |
 | 11 | [Open The Club](https://open.spotify.com/track/6Vc5Hg7DH5CWkn7qFTUuVB) | [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Open The Club](https://open.spotify.com/album/3KKG2KQwaIWXrrg03iMWhv) | 2:59 |
 | 12 | [Closer](https://open.spotify.com/track/4HJ0zn4lCBt9GsqM3lwP7j) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [Closer](https://open.spotify.com/album/48RVKGaIgOru7CP3kKhqi3) | 3:04 |
 | 13 | [Booty Bang](https://open.spotify.com/track/59FSooGapAZzGZ5cflEufI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Booty Bang](https://open.spotify.com/album/4sKpHVmmd522r3AxOYO1Yt) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Groove In](https://open.spotify.com/track/6HNDqY2aY9L7UuRGzA9gw5) | [Tough Art](https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA) | [Groove In](https://open.spotify.com/album/6p0dxT8vJNybsgPWDwUYXO) | 3:32 |
 | 50 | [Baby Boy](https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU) | [Baby Boy](https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo) | 3:30 |
 
-Snapshot ID: `AAAAANOipblYG5To92zM+2GocwFlsxJ4`
+Snapshot ID: `AAAAAOa+l4rt7f/MOzIhBYYa6JGzVFpq`

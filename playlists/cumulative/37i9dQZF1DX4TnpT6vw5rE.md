@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-439 songs - 1 day 0 hr 0 min
+440 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-12-08\* | 2021-03-06 |
 | [Nightbound](https://open.spotify.com/track/1SlLJlJxsiOxevF3vKLOfX) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [Nightbound](https://open.spotify.com/album/4vXRs9kqXMxOyATYQVfJbE) | 2:51 | 2026-02-12 |  |
 | [Nightshade](https://open.spotify.com/track/3kkzW8DJLHsUndIu2cYhq6) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Nightshade](https://open.spotify.com/album/3O0XR6clzXksizQC0M0lC0) | 2:31 | 2024-09-19 | 2024-11-15 |
+| [Nocturnal Nightfall](https://open.spotify.com/track/3u527JesGt5g5hpFHgsRkF) | [Terra Silva](https://open.spotify.com/artist/3QcRF5A3knoVN56ZQgcvWV) | [Nocturnal Nightfall](https://open.spotify.com/album/6dcfydLEI0dTbVhNyTlgQK) | 2:55 | 2026-10-05 |  |
 | [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 | 2020-12-08\* | 2022-07-29 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2020-12-08\* | 2024-08-22 |
@@ -308,7 +309,7 @@
 | [Porcelain](https://open.spotify.com/track/4pzv4KCrHJJneaIbmZTJ9Y) | [Aeuria](https://open.spotify.com/artist/1U8stB5JKpJA7atRjrlVtF), [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Collection](https://open.spotify.com/album/4724X87VNQtZQSovmdwXJR) | 4:35 | 2021-01-15 | 2021-03-18 |
 | [Porcelain I](https://open.spotify.com/track/5GEyjX4ZG60P1agLRJNJnE) | [Lentia](https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb) | [Porcelain I](https://open.spotify.com/album/5MgprFAx70ReKIGYCgf4DQ) | 2:12 | 2026-07-07 |  |
 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-24 | 2025-10-15 |
-| [Prism](https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Prism](https://open.spotify.com/album/26HLAmiLrUEgmltira0L3V) | 2:58 | 2024-05-10 |  |
+| [Prism](https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Prism](https://open.spotify.com/album/26HLAmiLrUEgmltira0L3V) | 2:58 | 2024-05-10 | 2026-10-16 |
 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 | 2020-12-08\* | 2025-12-11 |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-12-08\* | 2025-10-09 |
 | [R.E.M](https://open.spotify.com/track/35gC9vbIkLWvbEb6pCvDyp) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [R.E.M](https://open.spotify.com/album/3xJHqeyo6IriZWz5IfNtuX) | 3:13 | 2020-12-08\* | 2021-03-06 |

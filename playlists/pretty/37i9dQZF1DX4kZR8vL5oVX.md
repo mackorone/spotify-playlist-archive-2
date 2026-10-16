@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Angèle \(du titre \#1 au \#14\)\. Les titres \#15 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,410 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,373 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 39 | [Cœur](https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Cœur](https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ) | 3:40 |
 | 40 | [Bad Bara](https://open.spotify.com/track/4ZzGKf107MZ9vc2RPGqLHE) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Dance Again](https://open.spotify.com/album/3A6s0UFnrFU1QCl9QpFM3N) | 4:05 |
 
-Snapshot ID: `AAAAAO1qaG49TpnGjIv74HxotrUW5Sfw`
+Snapshot ID: `AAAAAIgO0rm0cMgPrLtYbKv1PYphXoUy`

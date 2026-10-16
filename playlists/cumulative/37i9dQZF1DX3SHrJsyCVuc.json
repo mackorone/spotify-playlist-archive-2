@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Cherry Chola",
+  "description": "A new world of alternative noise. Cover: Special Features",
   "name": "Wire",
   "tracks": [
     {
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2"
+    },
+    {
+      "album": {
         "name": "Blisters (feat. Noah Learmonth)",
         "url": "https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b"
       },
@@ -952,6 +974,24 @@
       "duration_ms": 270040,
       "name": "Deer In The Headlights",
       "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199855,
+      "name": "Demolition",
+      "url": "https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD"
     },
     {
       "album": {
@@ -1537,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Full Powers",
+        "url": "https://open.spotify.com/album/07t38cRJXEFb0VWG4eCjbh"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190379,
+      "name": "Full Powers",
+      "url": "https://open.spotify.com/track/3Inb9cDM4YpT0bVUG4D4QX"
+    },
+    {
+      "album": {
         "name": "Fun!",
         "url": "https://open.spotify.com/album/4jZ1ClfjRkEyMlVNVK65dw"
       },
@@ -1916,7 +1974,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 498293,
       "name": "Heat",
       "url": "https://open.spotify.com/track/1nDlFgDg3b4kYGWr8wEaUV"
@@ -2389,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/7tVAme8MhGv7E8aWPnYSWJ"
+      },
+      "artists": [
+        {
+          "name": "Aurat",
+          "url": "https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "KhudaHafiz",
+      "url": "https://open.spotify.com/track/0haFJadkCGGwSlzqUcEa3s"
+    },
+    {
+      "album": {
         "name": "Kick in the Shins",
         "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
       },
@@ -2512,7 +2588,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168961,
       "name": "Leave A Mark",
       "url": "https://open.spotify.com/track/1RJmbBwKvmFQAOBoJnkmHd"
@@ -2872,7 +2948,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156545,
       "name": "MOST NORMAL AMERICAN VOTER:",
       "url": "https://open.spotify.com/track/1ZFViiRzWZa2iWImM9HN7a"
@@ -4456,7 +4532,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 78618,
       "name": "Stillness Blues",
       "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
@@ -5156,7 +5232,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 283998,
       "name": "Where's My Dini? - Spotify Singles",
       "url": "https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s"
@@ -5232,6 +5308,24 @@
       "duration_ms": 304679,
       "name": "YES, I AM AN ANIMAL",
       "url": "https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl"
+    },
+    {
+      "album": {
+        "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+        "url": "https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+      "url": "https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
 
-1,006 songs - 2 day 2 hr 31 min
+1,007 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Dança](https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi) | 2:32 | 2022-05-13 | 2022-07-29 |
 | [Dança Comigo](https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Nanda](https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL) | [Dança Comigo](https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc) | 1:22 | 2024-05-31 | 2025-04-25 |
 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 | 2023-12-15 | 2024-12-13 |
-| [Daqui pra sempre](https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q) | [Deco Martins](https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Daqui pra sempre](https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N) | 2:40 | 2025-12-05 |  |
+| [Daqui pra sempre](https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q) | [Deco Martins](https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Daqui pra sempre](https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N) | 2:40 | 2025-12-05 | 2026-10-16 |
 | [De Mansinho](https://open.spotify.com/track/0pNZN7o0JWq9EXoPCutAHn) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [De Mansinho](https://open.spotify.com/album/1yHV7x9atniGlkPzf6ttOJ) | 3:10 | 2022-05-13 | 2022-06-15 |
 | [De Novo](https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [De Novo](https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY) | 2:41 | 2024-07-05 | 2025-01-18 |
 | [De Novo](https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [De Novo](https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj) | 2:45 | 2024-12-06 | 2025-02-08 |
@@ -696,6 +696,7 @@
 | [Por um Segundo](https://open.spotify.com/track/6iRIlunvrMSQN3fmEuWUEr) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por um Segundo](https://open.spotify.com/album/627Wd7lYBpTEJOD2QklY7i) | 2:50 | 2023-07-07 | 2023-08-26 |
 | [Por Você](https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Por Você](https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs) | 3:11 | 2023-02-24 | 2023-09-02 |
 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 | 2026-08-07 |  |
+| [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 | 2026-10-15 |  |
 | [Porta Do Teu Prédio](https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Mundo Novo](https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7) | 2:59 | 2022-06-03 | 2022-12-10 |
 | [Porta Retrato \- Acústico](https://open.spotify.com/track/7aVJS9Y99bHeZ2Q4ji2PqK) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Porta Retrato \(Acústico\)](https://open.spotify.com/album/1lAOMRnFbWv8eK8kkAw3Lm) | 2:46 | 2023-07-14 | 2023-09-09 |
 | [Porta Retrato \- Ao Vivo](https://open.spotify.com/track/0zZwVM8UrXq1ahEnMGuXEo) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Porta Retrato \(Ao Vivo\)](https://open.spotify.com/album/23WdEjWnQx1NJSyTRnSCcH) | 2:57 | 2023-06-16 | 2023-07-08 |

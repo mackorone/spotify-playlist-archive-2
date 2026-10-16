@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 914202,
+  "num_followers": 914254,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 168334,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Ride On Me",
         "url": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4"
       },
@@ -591,22 +575,34 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Rumpta",
-        "url": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv"
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
       },
       "artists": [
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 210625,
-      "name": "Rumpta",
-      "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
+      "duration_ms": 168334,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -631,18 +627,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
+        "name": "Rumpta",
+        "url": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 187272,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
+      "duration_ms": 210625,
+      "name": "Rumpta",
+      "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182441,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "My Temptations",
         "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
@@ -891,22 +875,34 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "She Can Love U",
-        "url": "https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2"
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
       },
       "artists": [
         {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        },
-        {
-          "name": "Toni B",
-          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
         }
       ],
-      "duration_ms": 221280,
-      "name": "She Can Love U",
-      "url": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
+      "duration_ms": 182441,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -947,18 +943,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+        "name": "She Can Love U",
+        "url": "https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Toni B",
+          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
         }
       ],
-      "duration_ms": 229174,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
+      "duration_ms": 221280,
+      "name": "She Can Love U",
+      "url": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Gator Boots",
         "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 141309,
       "name": "Gator Boots",
       "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "The Montana Girl",
-        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "The Montana Girl",
-      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Work Your Body",
         "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 186776,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1835,42 +1835,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 207764,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Like An Angel (Touch Me) / Word Play",
-        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 183636,
-      "name": "Like An Angel (Touch Me)",
-      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Bubbling",
         "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
       },
@@ -1903,6 +1867,42 @@
       "duration_ms": 223124,
       "name": "Me Sabe Bien",
       "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Like An Angel (Touch Me) / Word Play",
+        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 183636,
+      "name": "Like An Angel (Touch Me)",
+      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
     },
     {
       "added_at": "2026-10-01 23:00:26",

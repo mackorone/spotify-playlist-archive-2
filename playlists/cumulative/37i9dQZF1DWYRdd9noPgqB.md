@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-517 songs - 1 day 4 hr 16 min
+518 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 | 2023-11-16 | 2023-12-22 |
 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-09-28 | 2023-10-06 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2024-12-12 | 2025-04-25 |
-| [Back Alley Rhythm](https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu) | [GrooveBoom](https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R) | [The Avenue wave 1](https://open.spotify.com/album/32evpf12hMTPw544bBrMsq) | 4:14 | 2026-02-19 |  |
+| [Back Alley Rhythm](https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu) | [GrooveBoom](https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R) | [The Avenue wave 1](https://open.spotify.com/album/32evpf12hMTPw544bBrMsq) | 4:14 | 2026-02-19 | 2026-10-16 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-09-28 | 2023-12-15 |
 | [Bad Influence \(feat\. Ina Forsman\)](https://open.spotify.com/track/6p3nMMyQjld8eUFllEFq0g) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [From A Bakermat Point Of View](https://open.spotify.com/album/3JtScdRMG6TjAoiibRIYCS) | 2:27 | 2023-12-14 | 2024-03-22 |
 | [be someone](https://open.spotify.com/track/4ySSfveKffGyDTYvJBoQpi) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SUBURBIA](https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE) | 3:13 | 2024-11-14 | 2025-04-11 |
@@ -83,6 +83,7 @@
 | [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 | 2024-02-15 | 2024-03-30 |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-09-28 | 2023-12-01 |
 | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH) | 3:38 | 2024-11-21 | 2025-03-28 |
+| [Come And Get It](https://open.spotify.com/track/7iqqkkZYc5XJIUrdMv2a7v) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come And Get It](https://open.spotify.com/album/57OMmUmjMjPRzxJAqnLLT1) | 3:19 | 2026-10-15 |  |
 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 | 2024-06-13 | 2024-08-23 |
 | [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 | 2024-02-15 | 2024-03-30 |
 | [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 | 2026-09-10 | 2026-09-26 |

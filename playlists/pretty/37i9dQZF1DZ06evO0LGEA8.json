@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 331439,
+  "num_followers": 331542,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAC0bZH9MvJEpvLEQjn0fhFB",
+  "snapshot_id": "as7GAAAAAADu0t7lS/bBeRSYliDZ4Ngu",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s"
+        "name": "Piel Con Piel",
+        "url": "https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        },
-        {
-          "name": "Mickey Ojo Rojo Sg",
-          "url": "https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r"
         }
       ],
-      "duration_ms": 247078,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs"
+      "duration_ms": 243920,
+      "name": "Piel Con Piel",
+      "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
     },
     {
       "added_at": null,
@@ -135,18 +127,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel Con Piel",
-        "url": "https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW"
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Mickey Ojo Rojo Sg",
+          "url": "https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Piel Con Piel",
-      "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
+      "duration_ms": 247078,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 60116,
       "name": "Un Minuto",
       "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "added_at": null,

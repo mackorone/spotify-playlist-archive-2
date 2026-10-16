@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 196446,
       "name": "Convince Yourself",
       "url": "https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 278029,
       "name": "Even on Bad Days",
       "url": "https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 142500,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/2uw1eNEYcIF8s24ufIaWUF"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 134000,
       "name": "How It Feels To Be Me",
       "url": "https://open.spotify.com/track/6U3n979lTuZ33irdeaNaqj"
@@ -2302,6 +2302,24 @@
       "duration_ms": 220000,
       "name": "In Our Veins",
       "url": "https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ"
+    },
+    {
+      "album": {
+        "name": "In Times of Absolute Endings",
+        "url": "https://open.spotify.com/album/1aGsfs58XYBl7zAbrrikd0"
+      },
+      "artists": [
+        {
+          "name": "Gabbi Lieve",
+          "url": "https://open.spotify.com/artist/3h37iYeabo7qndCteCW9E6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192393,
+      "name": "In Times of Absolute Endings",
+      "url": "https://open.spotify.com/track/1n5CMJWzV9OimSjkoroBXB"
     },
     {
       "album": {
@@ -3651,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/1TKZ9Nq2LkC1FueWEETwaK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Andryk",
+          "url": "https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187860,
+      "name": "Once Upon An Aquarian Moon",
+      "url": "https://open.spotify.com/track/7ro1kMf0qPd38qePNM2pkz"
+    },
+    {
+      "album": {
         "name": "Our Part of Town",
         "url": "https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX"
       },
@@ -4743,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "stressed out",
+        "url": "https://open.spotify.com/album/67GbLcMvKt8gTttx72kGkB"
+      },
+      "artists": [
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195166,
+      "name": "stressed out",
+      "url": "https://open.spotify.com/track/5VebSmjRfNYbASNwiRyXla"
+    },
+    {
+      "album": {
         "name": "Strongest Girl",
         "url": "https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu"
       },
@@ -5067,6 +5121,28 @@
     },
     {
       "album": {
+        "name": "Tell me it will all work out",
+        "url": "https://open.spotify.com/album/63wfsOsUJOPBCabZQGZj8o"
+      },
+      "artists": [
+        {
+          "name": "Paper Towns",
+          "url": "https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U"
+        },
+        {
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Tell me it will all work out",
+      "url": "https://open.spotify.com/track/2eDBXb0turvM7EMnhETdmR"
+    },
+    {
+      "album": {
         "name": "Printemps",
         "url": "https://open.spotify.com/album/0zyaz4cul0G1bD0BjfJFC4"
       },
@@ -5150,7 +5226,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 181289,
       "name": "The Night We Both Felt Alone",
       "url": "https://open.spotify.com/track/2CMHLOLhkCrstNmEumL1GZ"
@@ -5370,6 +5446,28 @@
       "duration_ms": 261482,
       "name": "Truth",
       "url": "https://open.spotify.com/track/5PIVsmRNAY3Jm4rjiZF4Wy"
+    },
+    {
+      "album": {
+        "name": "Try Again Tomorrow",
+        "url": "https://open.spotify.com/album/2ej9nBl3sGxduBI71rOqaa"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Nina Ann Nelson",
+          "url": "https://open.spotify.com/artist/3zaUrDI0cZRIHNUFysJB8O"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Try Again Tomorrow",
+      "url": "https://open.spotify.com/track/1APix3h5tOfF9cWZHCXvdV"
     },
     {
       "album": {

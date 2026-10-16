@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN, THE TOYS
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: GAVIN:D
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,088 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,143 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
-| 2 | [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 |
+| 1 | [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 |
+| 2 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
 | 3 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 |
 | 4 | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 |
 | 5 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 |
 | 50 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
 
-Snapshot ID: `AAAAAEGCPg4eFMm/RemWvQUL/txEeSg4`
+Snapshot ID: `AAAAAPAdC6Hn4ZHK4AsuvYhjxsRXyI2p`

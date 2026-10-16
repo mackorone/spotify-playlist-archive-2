@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Jão
 
-526 songs - 1 day 1 hr 18 min
+527 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 |  |
 | [Doce](https://open.spotify.com/track/7sCGeBklTQyhZLbflFc6xg) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:16 | 2022-02-04 | 2022-03-05 |
 | [Doce Boy](https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Doce Boy](https://open.spotify.com/album/1BGmw1hnnwRV4NJ69wD4s9) | 2:18 | 2024-05-17 | 2024-06-15 |
-| [Dominou](https://open.spotify.com/track/4H9a5FMFA5Kg9RqC8DSAY8) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [Dominou](https://open.spotify.com/album/1RaOiXiVkDy73HCfZHW6bR) | 2:24 | 2026-09-18 |  |
+| [Dominou](https://open.spotify.com/track/4H9a5FMFA5Kg9RqC8DSAY8) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [Dominou](https://open.spotify.com/album/1RaOiXiVkDy73HCfZHW6bR) | 2:24 | 2026-09-18 | 2026-10-16 |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 | 2024-11-16 |
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-03-25 | 2022-09-24 |
 | [Drogas, Sexo, Techno, Repete!](https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [SANDRA ELETRÔNICA](https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3) | 3:38 | 2026-06-12 | 2026-07-25 |
@@ -380,6 +380,7 @@
 | [Ponto de Brasa](https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Ponto de Brasa](https://open.spotify.com/album/50JIAfAwNqPWVIzuYwgFPh) | 2:40 | 2023-04-14 | 2023-06-10 |
 | [Ponto de Brasa](https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:40 | 2023-06-09 | 2023-07-22 |
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-01-14 | 2023-01-28 |
+| [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 | 2026-10-15 |  |
 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 | 2024-12-13 | 2025-02-08 |
 | [Posturado e Calmo \(feat\. Anitta\)](https://open.spotify.com/track/5Goi3tmKtsXhqm875FBGbD) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 2:56 | 2024-03-29 | 2024-07-06 |
 | [Potência](https://open.spotify.com/track/4hjUqN9S84dPLGdlUufp0c) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Potência](https://open.spotify.com/album/1CwQPBAAD3xos4HZemsZvf) | 2:59 | 2022-07-29 | 2022-11-12 |

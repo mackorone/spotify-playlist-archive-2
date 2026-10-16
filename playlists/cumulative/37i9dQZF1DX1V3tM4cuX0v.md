@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: Jerry Heil & Sviatoslav Vakarchuk
+> 50 найгарячіших пісень в Україні\. Обкладинка: NAZVA
 
-228 songs - 11 hr 34 min
+230 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Афини](https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Афини](https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs) | 3:22 | 2025-08-11 |  |
 | [Бар за баром](https://open.spotify.com/track/2EJZw3QSNQS1LSIQMTd2TQ) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Бар за баром](https://open.spotify.com/album/1Q6PmLZZ13aQQ4jWr9sELF) | 2:17 | 2024-06-27 | 2024-07-12 |
 | [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-06-27 | 2025-09-16 |
-| [Боже, я вкохалася](https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Боже, я вкохалася](https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY) | 2:57 | 2026-06-11 |  |
+| [Боже, я вкохалася](https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Боже, я вкохалася](https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY) | 2:57 | 2026-06-11 | 2026-10-16 |
 | [Буревіями](https://open.spotify.com/track/0LydTnU3RQKbgMCKFWQ5nS) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Буревіями](https://open.spotify.com/album/7xOUWVVIMccfuLyUskG9eX) | 3:47 | 2024-06-27 | 2024-08-09 |
 | [БІТ ТРЕМБІТ](https://open.spotify.com/track/72O13xbRNI6TcTbeCIPRV5) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [БІТ ТРЕМБІТ](https://open.spotify.com/album/7zQqGhAv8NAo9ip1xLTCbj) | 3:37 | 2026-06-11 |  |
 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 | 2025-03-13 | 2025-07-11 |
@@ -150,6 +150,7 @@
 | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/track/5KoAIiBQdZJYhbtxwQ1Nvb) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/album/71teZep0gqgDwEVSKqesvf) | 3:18 | 2026-07-23 |  |
 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 | 2024-12-12 | 2025-12-12 |
 | [Люди для людей](https://open.spotify.com/track/4OVOZeec45CTqW9kC0tQoW) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Люди для людей](https://open.spotify.com/album/6fG1S5qK5mzYK806UOxVCR) | 4:02 | 2026-09-24 |  |
+| [Ліхтарики](https://open.spotify.com/track/3sZGWY8klzkjRMYGx4RJ3O) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Ліхтарики](https://open.spotify.com/album/4DCxZZkvifNqv0dlnP5lpd) | 2:27 | 2026-10-15 |  |
 | [Маргарита](https://open.spotify.com/track/4TlI6xqjE9pogjuJ2JlbZX) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Маргарита](https://open.spotify.com/album/2hgkQQkTFgZLOiv9KrV2Zr) | 3:31 | 2026-07-23 |  |
 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 | 2025-03-27 | 2026-01-20 |
 | [Миленький](https://open.spotify.com/track/0K5dkhupd2LyXehp0zbO1h) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Миленький](https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui) | 3:12 | 2025-10-26 | 2026-04-21 |
@@ -206,12 +207,13 @@
 | [Стерва](https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:03 | 2024-06-27 | 2024-10-04 |
 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 | 2026-01-15 | 2026-02-13 |
 | [Таку як є](https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Чюзмюз](https://open.spotify.com/album/51JgUGWfAX3Ny4h7P1YIwx) | 3:10 | 2025-12-11 |  |
-| [Танці](https://open.spotify.com/track/6a16DylhlR8fU9tu7wIGbi) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Танці](https://open.spotify.com/album/4ITj16QkmEkQt1UKfKwvEM) | 2:54 | 2026-09-24 |  |
+| [Танці](https://open.spotify.com/track/6a16DylhlR8fU9tu7wIGbi) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Танці](https://open.spotify.com/album/4ITj16QkmEkQt1UKfKwvEM) | 2:54 | 2026-09-24 | 2026-10-16 |
 | [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 | 2024-12-20 |
 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-22 | 2025-02-04 |
 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 | 2026-09-24 |  |
 | [Токсік](https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Токсік](https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq) | 2:59 | 2025-04-10 | 2026-02-13 |
 | [Тому що…](https://open.spotify.com/track/6wgsJzTs1dFIcmsrQyQJAe) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Тому що…](https://open.spotify.com/album/5XxRZuufy3Ego2CS0E7F23) | 2:57 | 2026-06-18 |  |
+| [Тримаєш мене](https://open.spotify.com/track/4IZvBgsortkhyBB9VNN0Qg) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тримаєш мене](https://open.spotify.com/album/1cW2tPQbHHwwcutjmNNABo) | 3:07 | 2026-10-15 |  |
 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 | 2025-04-14 |  |
 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 | 2026-04-09 |  |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-06-27 | 2025-03-21 |

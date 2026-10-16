@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 48 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,525 likes - 48 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 5 | [Bring Back the Jack \- Original Mix Re Mastered 2012](https://open.spotify.com/track/7419KUrbPgbnaGrgpqSsqg) | [Paranoid Jack](https://open.spotify.com/artist/6tI12pvMb0h95QSK0y7do1) | [Thrust Retrospective Vol 1 Mixed by Lee Coombs](https://open.spotify.com/album/1rYqn8Hz5O9cnYvTUjIAMI) | 8:39 |
 | 6 | [FOR PEACE \- I:Cube En Direct Remix](https://open.spotify.com/track/45vjXvwGaj6pKqbwZ4oSO3) | [MIND](https://open.spotify.com/artist/3DXG3U8an4aJGWbYFDM9o2), [Jean Phi Dary](https://open.spotify.com/artist/3nz3MRnnxdUet6vCqFVqhH), [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [FOR PEACE \(Remixes\)](https://open.spotify.com/album/1diLr5dSe1NNC1vNLvapYI) | 7:34 |
 | 7 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 |
-| 8 | [moln \(Finally Version\)](https://open.spotify.com/track/1OCydYotiWIJoanOlU703R) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [moln \(Finally Version\)](https://open.spotify.com/album/2pZC0Ad2BLGPhdiOkg5adl) | 3:52 |
+| 8 | [moln \(Finally Version\) \(feat\. Stuzzi\)](https://open.spotify.com/track/1OCydYotiWIJoanOlU703R) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [moln \(Finally Version\) \(feat\. Stuzzi\)](https://open.spotify.com/album/2pZC0Ad2BLGPhdiOkg5adl) | 3:52 |
 | 9 | [Semaphore](https://open.spotify.com/track/4t9d0S3qBCbvYoBXaXOk77) | [Braga Circuit](https://open.spotify.com/artist/7KP3UUwog2y9yJ4eQYGhM6) | [Semaphore](https://open.spotify.com/album/2P86XU86iyszGHL93CJ90u) | 6:20 |
 | 10 | [Keep Control](https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Keep Control](https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA) | 3:06 |
 | 11 | [Catch Me](https://open.spotify.com/track/7DenJnJd8T6WIrTfs6Ihii) | [Pancratio](https://open.spotify.com/artist/5Z38oNR1CHNo2ToSEgHNNJ) | [The Be Yourself EP](https://open.spotify.com/album/3yVT7L00O7xv0CAEPxugCd) | 7:21 |

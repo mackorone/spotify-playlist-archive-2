@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Dawn Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,433 likes - 185 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,438 likes - 185 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 110 | [Bullseye \- Nice Shot](https://open.spotify.com/track/4zL1U5KpM1hHbINN2wouBF) | [Sy'Rai](https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ) | [Bullseye \(Nice Shot\)](https://open.spotify.com/album/4fmn8OegoqLXX7YtS1Jsi4) | 3:03 |
 | 111 | [Mama Says](https://open.spotify.com/track/1zkuFUDkdyI3OHfVEqncWt) | [jael](https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw) | [Mama Says](https://open.spotify.com/album/5uUenKjXnMMiALmpHHTGp7) | 3:15 |
 | 112 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
-| 113 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/3xFV4FWskoe7sxMh8NDswQ) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
+| 113 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
 | 114 | [By The Time I Wake Up](https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [By The Time I Wake Up](https://open.spotify.com/album/7MV7YJxjstlQ2Nejqs2Zmj) | 3:32 |
 | 115 | [I Like It](https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK), [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [I Like It](https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9) | 3:24 |
 | 116 | [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 |

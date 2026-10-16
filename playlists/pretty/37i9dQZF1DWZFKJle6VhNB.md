@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,939 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,932 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 25 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 |
 | 26 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 27 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
-| 28 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
-| 29 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
-| 30 | [Bum Bum Tam Tam](https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [Bum Bum Tam Tam](https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG) | 2:35 |
-| 31 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 |
+| 28 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
+| 29 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
+| 30 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 |
+| 31 | [Bum Bum Tam Tam](https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [Bum Bum Tam Tam](https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG) | 2:35 |
 | 32 | [Toda Toda](https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Toda Toda](https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0) | 3:00 |
 | 33 | [Meteoro \- Ao Vivo](https://open.spotify.com/track/5JFpJWJIkEl97NgLgpo4pF) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo](https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr) | 3:36 |
 | 34 | [Marrom Bombom](https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub) | [Os Morenos](https://open.spotify.com/artist/153Lu5Zmx36hPnRpaHV0zq) | [Os Morenos](https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0) | 3:35 |

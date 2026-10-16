@@ -285,20 +285,24 @@
     },
     {
       "album": {
-        "name": "As a Friend (Raw) [Jack Hammer Riddim]",
+        "name": "As A Friend (Raw) [Jack Hammer Riddim]",
         "url": "https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX"
       },
       "artists": [
         {
           "name": "Fari",
           "url": "https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8"
+        },
+        {
+          "name": "Jagwa De Champ",
+          "url": "https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH"
         }
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135888,
-      "name": "As a Friend (Raw) [Jack Hammer Riddim]",
+      "name": "As A Friend (Raw) [Jack Hammer Riddim]",
       "url": "https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU"
     },
     {

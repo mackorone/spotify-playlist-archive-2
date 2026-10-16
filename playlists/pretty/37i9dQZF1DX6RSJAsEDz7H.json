@@ -1,15 +1,47 @@
 {
   "description": "Listen to all the music from Grand Theft Auto VI, out Nov 19.",
-  "num_followers": 541855,
+  "num_followers": 546067,
   "original_name": "Grand Theft Auto Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3UzbzjeyQrqVm+zNzAYPy0FjJS",
+  "snapshot_id": "AAAAANFa0Z2VCYJz3Q9pXsJtjUuNb9Ux",
   "tracks": [
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Don\u2019t Chart (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Suzuki (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
@@ -49,7 +81,7 @@
       "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "RHYNO (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
@@ -69,7 +101,7 @@
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Sexy Magic (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
@@ -101,7 +133,7 @@
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Last Thing You Need (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Macacoa 2000 (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "That's It (feat. Future & Metro Boomin) [from GTAVI: The Album]",
         "url": "https://open.spotify.com/album/3ESvHsZEscT58FNYE92nk6"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/45TB2WNxWu2X4MmqmCAJnF"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Bright Lights, Big City (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/1kpiZpM48ybu8qrh5DDa88"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Keeping Our Love Warm",
         "url": "https://open.spotify.com/album/2gmNIveGdMhCIRDvQ3wFiO"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/6mM4FYEtBWaosh60vaJTgh"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "5 * Stunna",
         "url": "https://open.spotify.com/album/6oJupyIaAOMlJHxVn05mBH"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/1kEp3Po9RUPm11N5ITOUWx"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Wallop",
         "url": "https://open.spotify.com/album/30vJA5TN3zRdN5bfngNfLj"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/4y2OemUjvs15S4oHui3Rv7"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Se Me Nota (Agarrame)",
         "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "I'm Nearly Famous",
         "url": "https://open.spotify.com/album/3zNPtljTj1NPNfs1H4hEqn"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/29YcYtqUNLWaYvGVGdYtZy"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "From Langley Park To Memphis",
         "url": "https://open.spotify.com/album/4yhZQGEEogCoJ0SZ9RTUrv"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/755cKP6z9tywIgQpAc3cVV"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Skrilla",
         "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "MYCELiUM",
         "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/0dRIEwA0oz2M9MnlWrNkHa"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/5whNhiIyzbPFz11Vq1kfFj"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/741fWPbQLcaYT0uVL32KCS"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/6qBSGvyUzqNQv8XtnzCr9n"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "5 Etwal",
         "url": "https://open.spotify.com/album/6oi3dqGLurce5Cl1vL6rwV"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/1i4AdS3vkcL1qfWP51RHFu"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
     },
     {
-      "added_at": "2026-10-09 04:49:41",
+      "added_at": "2026-10-15 13:15:21",
       "album": {
         "name": "Hot Together (Expanded Edition)",
         "url": "https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O"

@@ -2,7 +2,7 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita
+> Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita
 
 1,230 songs - 2 day 13 hr 0 min
 
@@ -794,7 +794,7 @@
 | [Ondas](https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Ondas](https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r) | 2:48 | 2023-08-11 | 2023-12-16 |
 | [Onde Cai o Sol](https://open.spotify.com/track/5uZgd7RvirlsrGNRGoyJAR) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Onde Cai o Sol](https://open.spotify.com/album/0gJvwsCefeDAHj0vjcQSMM) | 2:29 | 2023-06-23 | 2023-07-22 |
 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 | 2020-10-20 | 2023-02-15 |
-| [Ontem](https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Intimidade](https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg) | 2:49 | 2026-07-03 |  |
+| [Ontem](https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Intimidade](https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg) | 2:49 | 2026-07-03 | 2026-10-16 |
 | [Oops!…I Did It Again](https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Oops!...I did it again](https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv) | 2:18 | 2023-07-07 | 2024-03-23 |
 | [Orishas](https://open.spotify.com/track/5eZMv9ZkQ8ySMccOWAbHBq) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Orishas](https://open.spotify.com/album/5ExpTcYgqYuloazTYb0RgC) | 2:44 | 2023-06-16 | 2023-12-16 |
 | [Os Moços da Rádio](https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Tudo Pelo Show](https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J) | 2:32 | 2026-05-15 |  |
@@ -1088,7 +1088,7 @@
 | [Tattoo](https://open.spotify.com/track/65WbRpNqHIlyJ7V8U4yspX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Vulto](https://open.spotify.com/artist/0O8fcYK65bu5T7wqm8FXVl) | [Tattoo](https://open.spotify.com/album/3nuQgAJqmoCEpX30Cn5Vue) | 3:09 | 2020-10-20 | 2022-07-29 |
 | [Tbt](https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo) | [Tbt](https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr) | 3:15 | 2024-02-23 | 2024-03-30 |
 | [Te Amar](https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Te Amar](https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat) | 2:58 | 2026-07-31 | 2026-09-25 |
-| [Te Amar Me Dá Asas](https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Te Amar Me Dá Asas](https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ) | 3:15 | 2026-06-19 | 2026-09-27 |
+| [Te Amar Me Dá Asas](https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Te Amar Me Dá Asas](https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ) | 3:15 | 2026-06-19 |  |
 | [Te Amar É Fácil](https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Te Amar É Fácil](https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40) | 3:24 | 2026-09-04 |  |
 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 | 2023-04-14 | 2023-08-19 |
 | [Te espero ou fujo?](https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Te espero ou fujo?](https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr) | 2:14 | 2024-09-06 | 2025-08-23 |

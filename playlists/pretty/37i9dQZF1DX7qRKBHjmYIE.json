@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Andrea Bejar.",
-  "num_followers": 733721,
+  "num_followers": 733663,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "ENTREOLAS Mixtape, Vol. 2",
+        "url": "https://open.spotify.com/album/4PDhaXAcqaGXklORHXTJwo"
+      },
+      "artists": [
+        {
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        }
+      ],
+      "duration_ms": 152784,
+      "name": "Ambiente<3",
+      "url": "https://open.spotify.com/track/1xG5edatLwH6bW1CiWWIEC"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Mentirasmentiras",
         "url": "https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 248923,
       "name": "Mentirasmentiras",
       "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "ENTREOLAS Mixtape, Vol. 2",
-        "url": "https://open.spotify.com/album/4PDhaXAcqaGXklORHXTJwo"
-      },
-      "artists": [
-        {
-          "name": "LOCKWARD",
-          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
-        }
-      ],
-      "duration_ms": 152784,
-      "name": "Ambiente<3",
-      "url": "https://open.spotify.com/track/1xG5edatLwH6bW1CiWWIEC"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Miss Me Much?",
-        "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 114952,
-      "name": "La Baby Cambi\u00f3",
-      "url": "https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Miss Me Much?",
+        "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 114952,
+      "name": "La Baby Cambi\u00f3",
+      "url": "https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "otro d\u00eda m\u00e1s",
         "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 151264,
       "name": "otro d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
+        "name": "Suiza",
+        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 140342,
+      "name": "Suiza",
+      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
         "name": "Sensaci\u00f3n",
         "url": "https://open.spotify.com/album/4IlsDJUMB4nhLi3HPozP9H"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 209551,
       "name": "Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/2eNDrODvRe4dCnxGKGEKBB"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
-        "name": "Suiza",
-        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 140342,
-      "name": "Suiza",
-      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "Sin M\u00ed",
-        "url": "https://open.spotify.com/album/33A5vKIqvwVGfvtnhx0GNh"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Sin M\u00ed",
-      "url": "https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 202800,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "Sin M\u00ed",
+        "url": "https://open.spotify.com/album/33A5vKIqvwVGfvtnhx0GNh"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "Sin M\u00ed",
+      "url": "https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u"
     },
     {
       "added_at": "2026-10-02 04:02:44",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-10-02 04:02:44",
       "album": {
-        "name": "CASA X CASA",
-        "url": "https://open.spotify.com/album/5BaQwSF7nVYTPzoDtiGeEX"
-      },
-      "artists": [
-        {
-          "name": "Elia",
-          "url": "https://open.spotify.com/artist/77Yywnuagmv7UAdhALfhCA"
-        }
-      ],
-      "duration_ms": 144768,
-      "name": "5JONES",
-      "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
-    },
-    {
-      "added_at": "2026-10-02 04:02:44",
-      "album": {
         "name": "Toda una vida",
         "url": "https://open.spotify.com/album/5ZoDaSrxspL5PHHyqWu0Xd"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 171340,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7"
+    },
+    {
+      "added_at": "2026-10-02 04:02:44",
+      "album": {
+        "name": "CASA X CASA",
+        "url": "https://open.spotify.com/album/5BaQwSF7nVYTPzoDtiGeEX"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/77Yywnuagmv7UAdhALfhCA"
+        }
+      ],
+      "duration_ms": 144768,
+      "name": "5JONES",
+      "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
     }
   ],
   "unique_name": "Mixto",

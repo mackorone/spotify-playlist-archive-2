@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: before the night ends",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: elka \u912d\u82b7\u6dc7",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -7926,7 +7926,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172373,
       "name": "Home",
       "url": "https://open.spotify.com/track/7dkfornwa4SOG9C2dtUELO"
@@ -11346,7 +11346,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150000,
       "name": "Love Me You Do",
       "url": "https://open.spotify.com/track/2csVPQvnGuR5KYWhoxta8w"
@@ -15376,7 +15376,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 256816,
       "name": "Push",
       "url": "https://open.spotify.com/track/0vBST0bchXKqFLOuRt7Mbb"
@@ -25171,6 +25171,24 @@
     },
     {
       "album": {
+        "name": "\u5920\u81bd\u8e22\u6211\u51fa\u500bclub",
+        "url": "https://open.spotify.com/album/0lJ288TVilCk3Cm5KT5BQ9"
+      },
+      "artists": [
+        {
+          "name": "The Low Mays",
+          "url": "https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "\u5920\u81bd\u8e22\u6211\u51fa\u500bclub",
+      "url": "https://open.spotify.com/track/57SoPrzCHAUQHlcLdK3mXd"
+    },
+    {
+      "album": {
         "name": "\u5920\u9418 Time's Up",
         "url": "https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW"
       },
@@ -25222,7 +25240,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151799,
       "name": "\u5927\u4e82\u9b25\u751f\u5b58\u5b88\u5247",
       "url": "https://open.spotify.com/track/108vPqGjLYFtxqPHQL2Ydx"
@@ -30817,6 +30835,24 @@
     },
     {
       "album": {
+        "name": "\u7b2c7\u4ee3\u7537\u5718",
+        "url": "https://open.spotify.com/album/61ad29K38opBhpfs4hqRQP"
+      },
+      "artists": [
+        {
+          "name": "ZPOT",
+          "url": "https://open.spotify.com/artist/57y7JG0bX89FnUI4rsex2E"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "\u7b2c7\u4ee3\u7537\u5718",
+      "url": "https://open.spotify.com/track/3K9JAVucfQYyRlaNmtJu8I"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u4e00\u652f\u7159 (The First Cigarette)",
         "url": "https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A"
       },
@@ -31038,6 +31074,24 @@
       "duration_ms": 242727,
       "name": "\u7d14\u60c5",
       "url": "https://open.spotify.com/track/7CvTXPEEFrDinye9qEevka"
+    },
+    {
+      "album": {
+        "name": "\u7d19\u76ae\u5c4b",
+        "url": "https://open.spotify.com/album/5AzhfLk05iYIcPubxlwTGq"
+      },
+      "artists": [
+        {
+          "name": "elka \u912d\u82b7\u6dc7",
+          "url": "https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "\u7d19\u76ae\u5c4b",
+      "url": "https://open.spotify.com/track/4fa0qN4MrwDVkjB5zg6WZ8"
     },
     {
       "album": {
@@ -32950,6 +33004,24 @@
       "duration_ms": 202191,
       "name": "\u96ea\u767d\u7684\u611b",
       "url": "https://open.spotify.com/track/3gIemVYnj4E5tLWIrGf7Sw"
+    },
+    {
+      "album": {
+        "name": "\u96f2\u6ce5 ft. Alan",
+        "url": "https://open.spotify.com/album/1G7PDGcCgNRlEaqiGzh9j7"
+      },
+      "artists": [
+        {
+          "name": "SOPHY",
+          "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194612,
+      "name": "\u96f2\u6ce5 ft. Alan",
+      "url": "https://open.spotify.com/track/4Rl12IO8tkhgLwFJEOolKN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-319 songs - 15 hr 38 min
+320 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 | 2024-06-27 |  |
 | [Oglinda Oglinjoara](https://open.spotify.com/track/4NQcy8rMlBbIIwySNXZOeX) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Oglinda Oglinjoara](https://open.spotify.com/album/45xaKBcjTfsxVZMXnqNpCN) | 2:06 | 2026-03-06 | 2026-04-24 |
 | [Oglindă oglinjoară](https://open.spotify.com/track/38pN4Z80UagGOo2SrQhyrZ) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl), [Arkanian](https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p) | [Oglindă oglinjoară](https://open.spotify.com/album/1ZAHolbqWYrR3pBaZAYVF3) | 2:11 | 2026-09-25 |  |
+| [ONE IN A MILLION](https://open.spotify.com/track/6MCLwxQiOrQTzvU4GNohpM) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [ONE IN A MILLION](https://open.spotify.com/album/5IfxPRvL83AvRJBAHlcjfV) | 2:29 | 2026-10-15 |  |
 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 | 2025-03-27 |  |
 | [Otrava](https://open.spotify.com/track/0CNabe96mGBCMn22tTCZ5v) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Otrava](https://open.spotify.com/album/5zDse55zEb8drEC7Vjc0pv) | 3:13 | 2025-11-20 | 2025-12-05 |
 | [Pana la ultimul suflu](https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Pana la ultimul suflu](https://open.spotify.com/album/2wLwyvUpe56h74qMdVZf5s) | 2:36 | 2026-06-12 | 2026-07-03 |
@@ -219,7 +220,7 @@
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 | 2024-07-27 |
 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 |  |
-| [Port de Fontvieille](https://open.spotify.com/track/6vFKovvhOLG0PgqvAArQAK) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [Port de Fontvieille](https://open.spotify.com/album/2CCPt15p02VF4N6vhwj4CJ) | 2:01 | 2026-10-01 |  |
+| [Port de Fontvieille](https://open.spotify.com/track/6vFKovvhOLG0PgqvAArQAK) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [Port de Fontvieille](https://open.spotify.com/album/2CCPt15p02VF4N6vhwj4CJ) | 2:01 | 2026-10-01 | 2026-10-16 |
 | [Poseidon](https://open.spotify.com/track/1DWHungfvvL0Olwu1tSrBO) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Poseidon](https://open.spotify.com/album/4o3Qn53H6XlU1KSDM1YaYV) | 2:40 | 2025-06-26 | 2025-07-19 |
 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 | 2025-09-25 |  |
 | [POVESTEA NOASTRA](https://open.spotify.com/track/2IuPe40fG60s3MEV7JvpRN) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [POVESTEA NOASTRA](https://open.spotify.com/album/0OyBGc5qeRRXiYJMweI4Kd) | 3:46 | 2025-04-10 | 2025-06-06 |
@@ -266,7 +267,7 @@
 | [Storage Full](https://open.spotify.com/track/0MBXFQ3RXIdWqP6t6Mijrb) | [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [Storage Full](https://open.spotify.com/album/0E8ntlda6u2zEtUaZ0EcYk) | 2:25 | 2026-06-11 | 2026-07-10 |
 | [Sufletul tău](https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Sufletul tău](https://open.spotify.com/album/2tqXTltj5kC5wobURhsdXo) | 3:05 | 2025-06-05 | 2026-05-15 |
 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-06 |  |
-| [Sute](https://open.spotify.com/track/1EK1iYMBOZxGSd1lye6U0x) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Sute](https://open.spotify.com/album/1fRdjXY7y8rsOTarNHs8pQ) | 2:20 | 2026-10-01 |  |
+| [Sute](https://open.spotify.com/track/1EK1iYMBOZxGSd1lye6U0x) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Sute](https://open.spotify.com/album/1fRdjXY7y8rsOTarNHs8pQ) | 2:20 | 2026-10-01 | 2026-10-16 |
 | [Tata](https://open.spotify.com/track/3dKyg3xl2AblfOXXQIzd9m) | [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Gioconda](https://open.spotify.com/album/3VAJlaJqlmYqDDrhAzxseF) | 2:33 | 2026-04-30 | 2026-05-15 |
 | [Te huro](https://open.spotify.com/track/6zQXHOW4bTbpnn9yg7znLU) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ursarinho](https://open.spotify.com/album/4C6OBgnEjXgnTAZstlzYwp) | 1:53 | 2026-02-12 | 2026-08-14 |
 | [Te plac](https://open.spotify.com/track/5KRWkoI5OtgOK7wkJFj0Gs) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Andreea Lala](https://open.spotify.com/artist/3X9W01t5UjHeMxgRA6Te07) | [Te plac](https://open.spotify.com/album/5GY3fE0EWGGHqX5y8XLA8a) | 2:17 | 2026-05-28 | 2026-06-12 |

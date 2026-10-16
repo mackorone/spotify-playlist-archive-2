@@ -16519,6 +16519,24 @@
     },
     {
       "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3"
+      },
+      "artists": [
+        {
+          "name": "Pale State",
+          "url": "https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240245,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF"
+    },
+    {
+      "album": {
         "name": "Mon enfant",
         "url": "https://open.spotify.com/album/6nnP90eFP5Zb4F1mePVYZw"
       },
@@ -23933,6 +23951,24 @@
     },
     {
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/4MliQdjQcDXA4wUxi5iGVP"
+      },
+      "artists": [
+        {
+          "name": "Samaksh",
+          "url": "https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280153,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4IBp7JwMMjXmGkEi8WT4X0"
+    },
+    {
+      "album": {
         "name": "Summer days",
         "url": "https://open.spotify.com/album/1t1UpetlINbJ71govZlfUx"
       },
@@ -24550,6 +24586,24 @@
       "duration_ms": 247078,
       "name": "Telephone (Demo)",
       "url": "https://open.spotify.com/track/41xiEeepKURMhIFOtBahiM"
+    },
+    {
+      "album": {
+        "name": "My Heart Don't Listen",
+        "url": "https://open.spotify.com/album/6uyxE9AkclfxwkZyvNfuji"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Tell Me What You Need",
+      "url": "https://open.spotify.com/track/6lNrMjZ13e2RT48UqO6sBX"
     },
     {
       "album": {
@@ -25730,6 +25784,24 @@
       "duration_ms": 161122,
       "name": "The Pink Burger Bar Part 1 - Live",
       "url": "https://open.spotify.com/track/1fQjUPXzIhec1KRHTt4tNP"
+    },
+    {
+      "album": {
+        "name": "the plot",
+        "url": "https://open.spotify.com/album/7rCfpT9ro31RR4vZ0e4oAs"
+      },
+      "artists": [
+        {
+          "name": "Young JD",
+          "url": "https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292140,
+      "name": "the plot",
+      "url": "https://open.spotify.com/track/0byJTjjV8MGyxGrg7KKc6m"
     },
     {
       "album": {

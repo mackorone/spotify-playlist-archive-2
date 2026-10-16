@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211986,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179320,
       "name": "Bella Vita",
       "url": "https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137600,
       "name": "BROSKI",
       "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "NOTHING'S FAKE",
+        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Fake or true",
+      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
+    },
+    {
+      "album": {
         "name": "Fan",
         "url": "https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn"
       },
@@ -2989,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "L'Humain",
+      "url": "https://open.spotify.com/track/0iE3YcbKElhdFznONeHpcJ"
+    },
+    {
+      "album": {
         "name": "L'id\u00e9e de toi",
         "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
       },
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168935,
       "name": "Le Plus Beau",
       "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
@@ -3776,6 +3812,24 @@
       "duration_ms": 94346,
       "name": "MALADE!",
       "url": "https://open.spotify.com/track/3YS37AuvybZaRj5w3Z9Vs9"
+    },
+    {
+      "album": {
+        "name": "Maman travaille trop",
+        "url": "https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172036,
+      "name": "Maman travaille trop",
+      "url": "https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb"
     },
     {
       "album": {
@@ -4743,6 +4797,28 @@
     },
     {
       "album": {
+        "name": "\u00c7a ira",
+        "url": "https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "Place Massena",
+      "url": "https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O"
+    },
+    {
+      "album": {
         "name": "BREAK",
         "url": "https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK"
       },
@@ -4826,7 +4902,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 131065,
       "name": "positif",
       "url": "https://open.spotify.com/track/2Q1SbyBfl38YKhpPeY6fif"
@@ -5511,6 +5587,28 @@
     },
     {
       "album": {
+        "name": "ZMIG EXPANSION",
+        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "SI TU M'ABANDONNES",
+      "url": "https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2"
+    },
+    {
+      "album": {
         "name": "Soir\u00e9e mondaine",
         "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
       },
@@ -6009,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "carpaccio",
+        "url": "https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw"
+    },
+    {
+      "album": {
         "name": "Toujours des fleurs (Version deluxe)",
         "url": "https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj"
       },
@@ -6146,7 +6262,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152533,
       "name": "U&I",
       "url": "https://open.spotify.com/track/0ngXPktDn76JGvEi1yi4Yr"

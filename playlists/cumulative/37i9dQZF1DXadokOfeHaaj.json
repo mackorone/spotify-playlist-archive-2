@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 151003,
       "name": "Bond Girl",
       "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
@@ -6481,6 +6481,28 @@
     },
     {
       "album": {
+        "name": "No Love For The Bass",
+        "url": "https://open.spotify.com/album/12fkUY63xKnoy1Eq2m2ker"
+      },
+      "artists": [
+        {
+          "name": "Optikal",
+          "url": "https://open.spotify.com/artist/1JsMlvi2ErCH2XCqo8JdWO"
+        },
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "No Love For The Bass",
+      "url": "https://open.spotify.com/track/0uJLbxkjfiqhvfF5pA1j8b"
+    },
+    {
+      "album": {
         "name": "Noise Keeper",
         "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
       },
@@ -6500,6 +6522,24 @@
       "duration_ms": 222292,
       "name": "Noise Keeper",
       "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
+    },
+    {
+      "album": {
+        "name": "None Of This Is Real",
+        "url": "https://open.spotify.com/album/0T74EElO4wC3qEjv3fPHAQ"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401963,
+      "name": "None Of This Is Real",
+      "url": "https://open.spotify.com/track/1vJK1QGFqGcmfhhbQaQjwb"
     },
     {
       "album": {
@@ -7100,7 +7140,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
@@ -7548,7 +7588,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 378945,
       "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
@@ -7816,6 +7856,28 @@
       "duration_ms": 160986,
       "name": "RISE",
       "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
+    },
+    {
+      "album": {
+        "name": "Rise & Shine",
+        "url": "https://open.spotify.com/album/7DwqmyRo2dJeIpoQxE5cjo"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Rise & Shine",
+      "url": "https://open.spotify.com/track/5dB8Rp9VIXzYD8t5dsYzwW"
     },
     {
       "album": {
@@ -10430,7 +10492,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157997,
       "name": "ur so cool",
       "url": "https://open.spotify.com/track/7ePRg0Qbb1z6FfePSjcoMb"
@@ -10536,7 +10598,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 379723,
       "name": "Vogue - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/2PRjiYUrtroErUU1Ht4Kqh"
@@ -10588,6 +10650,28 @@
       "duration_ms": 168275,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB"
+    },
+    {
+      "album": {
+        "name": "Waiting (ft S\u00f8lv)",
+        "url": "https://open.spotify.com/album/31GsJMn0d4fhH2cfJ4bJ7t"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236885,
+      "name": "Waiting - ft S\u00f8lv",
+      "url": "https://open.spotify.com/track/5rpZudKWR829NBM0PlC8GD"
     },
     {
       "album": {
@@ -10694,6 +10778,24 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "album": {
+        "name": "Waterline",
+        "url": "https://open.spotify.com/album/7lHKm1kyFaKMdz02ZMkIzW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/45CkkypF9pXqefE6QNaMr5"
     },
     {
       "album": {
@@ -11108,7 +11210,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 227076,
       "name": "You - Edit",
       "url": "https://open.spotify.com/track/4ud0ZHYg6I2es1H2u0R997"
@@ -11174,7 +11276,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 296750,
       "name": "\u2060Blackoak - Maribou State Remix",
       "url": "https://open.spotify.com/track/0OdeaQoq2opDrt4SOuLe6f"

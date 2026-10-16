@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Call Me One Hundred (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3Q2FGSIvPi8PMdqgNMfsTP"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188854,
+      "name": "Call Me One Hundred (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/1mdSVLXx0KjDlVrJ5DP3QJ"
+    },
+    {
+      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
       },
@@ -5880,7 +5902,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 429954,
       "name": "Never Let Me Go (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/7kclJCORTXNTFHqmAkzGRp"
@@ -6994,6 +7016,28 @@
       "duration_ms": 556500,
       "name": "Revival Is Here",
       "url": "https://open.spotify.com/track/3MevbiyEBTpNq6RXcH99cG"
+    },
+    {
+      "album": {
+        "name": "Righteous One",
+        "url": "https://open.spotify.com/album/2cWbIMnEVzMfzlz6M8a1Jv"
+      },
+      "artists": [
+        {
+          "name": "Victoria Asi",
+          "url": "https://open.spotify.com/artist/2sVPdxLNh2OmgkiNih3LeB"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317250,
+      "name": "Righteous One",
+      "url": "https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8"
     },
     {
       "album": {

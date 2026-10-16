@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover:  ONEW, ZICO)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: DPR CREAM)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 145000,
       "name": "Baby, Honey",
       "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
@@ -2994,6 +2994,24 @@
       "duration_ms": 166746,
       "name": "Can\u2019t Be Happy",
       "url": "https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN"
+    },
+    {
+      "album": {
+        "name": "Captured",
+        "url": "https://open.spotify.com/album/07UKQt1g0FcE6UPjtU1Vsr"
+      },
+      "artists": [
+        {
+          "name": "kwacamolee",
+          "url": "https://open.spotify.com/artist/0rTxTUZTuPGp4faAnCgcxM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Captured",
+      "url": "https://open.spotify.com/track/362qWnMWXNI98JS417FFBX"
     },
     {
       "album": {
@@ -16704,7 +16722,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 157000,
       "name": "Tic Tac Toe",
       "url": "https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1"
@@ -19164,6 +19182,28 @@
       "duration_ms": 172500,
       "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
       "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"
+    },
+    {
+      "album": {
+        "name": "shaking",
+        "url": "https://open.spotify.com/album/2ZDqjIVxeRURiJrp3sARkx"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\ud6c4 (puff)",
+      "url": "https://open.spotify.com/track/0MmlAwSg3Zx8590JMei6G9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo"

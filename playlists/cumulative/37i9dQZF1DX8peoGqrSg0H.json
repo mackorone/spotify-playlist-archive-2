@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEGO",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FOURTH",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 176703,
       "name": "67",
       "url": "https://open.spotify.com/track/0HUI4f3Rw5zCR0g8nVxZka"
+    },
+    {
+      "album": {
+        "name": "8/7",
+        "url": "https://open.spotify.com/album/7u0pmgPq9blfDprhAe1FWO"
+      },
+      "artists": [
+        {
+          "name": "FirstOne",
+          "url": "https://open.spotify.com/artist/0VcQFPTVtUjOdJvVEkGvMP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "8/7",
+      "url": "https://open.spotify.com/track/7ngZZBjacwKycSVd9PObK3"
     },
     {
       "album": {
@@ -956,7 +974,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 216372,
       "name": "Burning Snow",
       "url": "https://open.spotify.com/track/2NS1rH1v9yTNVij2qoebQn"
@@ -3005,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0wLjOtLGxngWtCQfKUsR2C"
+      },
+      "artists": [
+        {
+          "name": "Kiismet",
+          "url": "https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/0rhRsXXkCfneqszIx9bLTj"
+    },
+    {
+      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P"
       },
@@ -3606,7 +3642,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 163920,
       "name": "NO ID",
       "url": "https://open.spotify.com/track/0kuGQbpuwVw5brae5t7x8V"
@@ -3668,6 +3704,24 @@
       "duration_ms": 178200,
       "name": "NOT BAD",
       "url": "https://open.spotify.com/track/7FTMdodLdOOWspXMQKKQw0"
+    },
+    {
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/7FnoXUbewU7cmSKIph1ByR"
+      },
+      "artists": [
+        {
+          "name": "LE7EL",
+          "url": "https://open.spotify.com/artist/6W1itHL95v5jqmqrg1N6fc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172052,
+      "name": "Not in the mood",
+      "url": "https://open.spotify.com/track/5egfnuw568pSQMzvfi1dgW"
     },
     {
       "album": {
@@ -4246,7 +4300,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199148,
       "name": "Rise up to the sky",
       "url": "https://open.spotify.com/track/6T3cUBSR6ut6BOd77fVvmv"
@@ -7171,6 +7225,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19 (Counting Till I Die)",
+        "url": "https://open.spotify.com/album/4Vdy0PEvKqz86c1Z1JKlTy"
+      },
+      "artists": [
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19 (Counting Till I Die)",
+      "url": "https://open.spotify.com/track/4INM2cIXCKyYQDuwdBsVgU"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
         "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
       },
@@ -9212,7 +9284,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 206466,
       "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
       "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
@@ -14682,7 +14754,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 238906,
       "name": "\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e08\u0e30\u0e23\u0e31\u0e01 (Love Symptoms) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"",
       "url": "https://open.spotify.com/track/6RSAWmSLwesRHlTLdblISU"
@@ -18814,6 +18886,28 @@
       "duration_ms": 198308,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e17\u0e31\u0e19\u0e44\u0e14\u0e49\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d (TOO LATE)",
       "url": "https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27 (Officially) [feat. JAOKHUN]",
+        "url": "https://open.spotify.com/album/54jtyXt7gl0FNBJIQSzC88"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        },
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27 (Officially) [feat. JAOKHUN]",
+      "url": "https://open.spotify.com/track/7BCtBwJry326NG7LT62eNe"
     },
     {
       "album": {

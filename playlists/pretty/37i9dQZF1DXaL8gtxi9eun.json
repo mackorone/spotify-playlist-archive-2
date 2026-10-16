@@ -1,13 +1,45 @@
 {
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0631\u064a\u0645 \u0645\u062d\u0633\u0646",
-  "num_followers": 283995,
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0633\u0645\u064a\u0631 \u063a\u0627\u0646\u0645",
+  "num_followers": 283999,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAS2G5vToV7PPkffRd0XJv8rKdNs",
+  "snapshot_id": "AAAAACi4comN+naJ8Y7cyF5E0MwRgMYu",
   "tracks": [
+    {
+      "added_at": "2026-10-15 21:46:26",
+      "album": {
+        "name": "\u0627\u0644\u0639\u064a\u0644\u0647",
+        "url": "https://open.spotify.com/album/5bAhyAktQQvqvJhBNSrS3b"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 195888,
+      "name": "\u0627\u0644\u0639\u064a\u0644\u0647",
+      "url": "https://open.spotify.com/track/2U1l0QOBJJuxlywhWsrPJL"
+    },
+    {
+      "added_at": "2026-10-15 21:46:26",
+      "album": {
+        "name": "Allah Y3enny",
+        "url": "https://open.spotify.com/album/06B3Y6sQVzjFcy7Iceq7AZ"
+      },
+      "artists": [
+        {
+          "name": "Donia Samir Ghanem",
+          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Allah Y3enny - From El Dalal Album",
+      "url": "https://open.spotify.com/track/4HqpRpef7v9OhkTAg7ybeF"
+    },
     {
       "added_at": "2026-10-09 14:22:27",
       "album": {

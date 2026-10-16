@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 129427,
+  "num_followers": 129452,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 181254,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
+        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 219977,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -195,38 +227,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
-        "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 219977,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -239,26 +239,6 @@
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -283,6 +263,26 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+      "duration_ms": 179813,
+      "name": "La Vecina",
+      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 179813,
-      "name": "La Vecina",
-      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202586,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Cumbia E' Plaza",
-        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
-      },
-      "artists": [
-        {
-          "name": "Sonora 5 Estrellas",
-          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "Supermandoneao",
-      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Cumbia E' Plaza",
+        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
+      },
+      "artists": [
+        {
+          "name": "Sonora 5 Estrellas",
+          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "Supermandoneao",
+      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Explicale",
-      "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
       "artists": [
         {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+      "duration_ms": 186986,
+      "name": "Explicale",
+      "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 213293,
       "name": "Muero De Fr\u00edo",
       "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Estaba Aqu\u00ed Pensando",
-        "url": "https://open.spotify.com/album/2hw5TTZ931aY4nYBMhXX2C"
-      },
-      "artists": [
-        {
-          "name": "La Mary",
-          "url": "https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn"
-        },
-        {
-          "name": "Los Bravos de Chile",
-          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
-        }
-      ],
-      "duration_ms": 187009,
-      "name": "Estaba Aqu\u00ed Pensando",
-      "url": "https://open.spotify.com/track/7fLicsIMv7WlXGTeLL089c"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -931,6 +911,26 @@
       "duration_ms": 231000,
       "name": "Tomare Para Olvidar",
       "url": "https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Estaba Aqu\u00ed Pensando",
+        "url": "https://open.spotify.com/album/2hw5TTZ931aY4nYBMhXX2C"
+      },
+      "artists": [
+        {
+          "name": "La Mary",
+          "url": "https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn"
+        },
+        {
+          "name": "Los Bravos de Chile",
+          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
+        }
+      ],
+      "duration_ms": 187009,
+      "name": "Estaba Aqu\u00ed Pensando",
+      "url": "https://open.spotify.com/track/7fLicsIMv7WlXGTeLL089c"
     },
     {
       "added_at": "2026-09-04 18:44:34",

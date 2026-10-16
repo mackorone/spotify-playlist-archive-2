@@ -9140,7 +9140,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -17944,7 +17944,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -18632,6 +18632,24 @@
       "duration_ms": 158905,
       "name": "NG\u00c2N",
       "url": "https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk"
+    },
+    {
+      "album": {
+        "name": "\u00c1c M\u1ed9ng \u0110\u1eb9p - Chapter 2",
+        "url": "https://open.spotify.com/album/6agvNM0cvP0WbbvR836k3H"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ea1t G",
+          "url": "https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295818,
+      "name": "Ng\u00e2n H\u00e0ng N\u1ed7i Nh\u1edb",
+      "url": "https://open.spotify.com/track/635E47CCnfNqNGvygqQemO"
     },
     {
       "album": {
@@ -22864,7 +22882,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 235658,
       "name": "Sandwich & Story",
       "url": "https://open.spotify.com/track/50xuQI5QlXggFKpq66IBON"
@@ -23612,7 +23630,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 293000,
       "name": "She Neva Knows",
       "url": "https://open.spotify.com/track/0NyrI1tMvqcK3vU5z9DMdI"
@@ -28994,7 +29012,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"

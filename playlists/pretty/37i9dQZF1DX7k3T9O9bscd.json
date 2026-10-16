@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Tame Impala on cover.",
-  "num_followers": 582649,
+  "num_followers": 582695,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Prophecy At 1420 MHz",
-        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 304499,
-      "name": "Prophecy At 1420 MHz",
-      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Prophecy At 1420 MHz",
+        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 304499,
+      "name": "Prophecy At 1420 MHz",
+      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "The Gold & Silver Sessions",
-        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 593386,
-      "name": "Illusory Motion",
-      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Barrio Hustle",
         "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 194400,
       "name": "Barrio Hustle",
       "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "The Gold & Silver Sessions",
+        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 593386,
+      "name": "Illusory Motion",
+      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "In Good Time",
-        "url": "https://open.spotify.com/album/6LAM6rSY9hy2gTpEJrH3rS"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "In Good Time",
-      "url": "https://open.spotify.com/track/7xddztgdnNHCQCNz0QA8k6"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/7Kw6btvDnHPBJDIDxMiPtC"
+        "name": "In Good Time",
+        "url": "https://open.spotify.com/album/6LAM6rSY9hy2gTpEJrH3rS"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
         }
       ],
-      "duration_ms": 264606,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/443DL7oQzzE2nfNr9afocb"
+      "duration_ms": 145200,
+      "name": "In Good Time",
+      "url": "https://open.spotify.com/track/7xddztgdnNHCQCNz0QA8k6"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -739,6 +723,22 @@
       "duration_ms": 355145,
       "name": "S.N.C",
       "url": "https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/7Kw6btvDnHPBJDIDxMiPtC"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 264606,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/443DL7oQzzE2nfNr9afocb"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "I'm Not Ready for the Change",
         "url": "https://open.spotify.com/album/1UNlSzZJmtRbmnYUjDOjGA"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Ring Tail",
         "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 118883,
       "name": "Ring Tail",
       "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+      },
+      "artists": [
+        {
+          "name": "Dead Vibrations",
+          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+        }
+      ],
+      "duration_ms": 235583,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
       "artists": [
         {
-          "name": "Dead Vibrations",
-          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+          "name": "El Goodo",
+          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
         }
       ],
-      "duration_ms": 235583,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+      "duration_ms": 237493,
+      "name": "Feel so Fine",
+      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1255,22 +1271,6 @@
       "duration_ms": 125973,
       "name": "Boudicaaa",
       "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
-      },
-      "artists": [
-        {
-          "name": "El Goodo",
-          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Feel so Fine",
-      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Pascuales",
         "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 217103,
       "name": "Pascuales",
       "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
-        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
-      },
-      "artists": [
-        {
-          "name": "Oru\u00e3",
-          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
-        }
-      ],
-      "duration_ms": 328404,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Moon Needs The Owl Pt. 1",
         "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 298828,
       "name": "Moon Needs The Owl Pt. 1",
       "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
+        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "duration_ms": 328404,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
     },
     {
       "added_at": "2026-08-21 04:10:49",

@@ -1,13 +1,61 @@
 {
   "description": "The official music from the Battlefield franchise",
-  "num_followers": 26503,
+  "num_followers": 26551,
   "original_name": "Battlefield Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHgBy65/8SEXXTPbcDuYAEzjnof",
+  "snapshot_id": "AAAAAIt2YAh3mfrfaYKDVhNVqSG55Gzs",
   "tracks": [
+    {
+      "added_at": "2026-10-15 04:00:08",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/4BPGAt5Q5IOQIqBPEJdKTG"
+    },
+    {
+      "added_at": "2026-10-15 04:00:08",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Blood Hands",
+      "url": "https://open.spotify.com/track/21XbBWCMvtfpyriyHpxAry"
+    },
+    {
+      "added_at": "2026-10-15 04:00:08",
+      "album": {
+        "name": "Baby 81",
+        "url": "https://open.spotify.com/album/6LwDQs1eEiLdVmKSKL9Xlw"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "666 Conducer",
+      "url": "https://open.spotify.com/track/0UgorYXmz0oFYSyK8ftrGb"
+    },
     {
       "added_at": "2026-08-24 16:52:39",
       "album": {

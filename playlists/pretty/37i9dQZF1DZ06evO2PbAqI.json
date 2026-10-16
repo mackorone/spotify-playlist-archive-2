@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35981,
+  "num_followers": 35985,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAAB7GJVnYzlRq613/Wc66Qfx",
+  "snapshot_id": "as7GAAAAAABT3yfTsA+gvwuBTp52n5Js",
   "tracks": [
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0hjOQVfGYP2NXINPOp4EgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Adrenaline",
-        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Kill The Light",
-      "url": "https://open.spotify.com/track/3DJbHfY5CMfsEDO935cWd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "These Scars Won't Define Us (Tour Version)",
         "url": "https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab"
       },
@@ -307,6 +275,38 @@
       "duration_ms": 212325,
       "name": "These Scars Won't Define Us - Tour Version",
       "url": "https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Adrenaline",
+        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Kill The Light",
+      "url": "https://open.spotify.com/track/3DJbHfY5CMfsEDO935cWd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0hjOQVfGYP2NXINPOp4EgI"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Adrenaline",
-        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Upsidedown",
-      "url": "https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq"
+      "duration_ms": 371426,
+      "name": "Veneficium",
+      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Dark Adrenaline",
+        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 371426,
-      "name": "Veneficium",
-      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
+      "duration_ms": 183440,
+      "name": "Upsidedown",
+      "url": "https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 317191,
-      "name": "The House of Shame",
-      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
+      "duration_ms": 257173,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
+      "duration_ms": 317191,
+      "name": "The House of Shame",
+      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Swamped XX",
-      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 257173,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Heaven's a Lie XX",
-      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
+      "duration_ms": 235213,
+      "name": "Sword of Anger",
+      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Sword of Anger",
-      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
+      "duration_ms": 247666,
+      "name": "Heaven's a Lie XX",
+      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "Tight Rope XX",
-      "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed Memories (Re-Release + Bonus)",
         "url": "https://open.spotify.com/album/3FQgJtOcKfuTlRkKIkCAV2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 274626,
       "name": "To Live Is To Hide",
       "url": "https://open.spotify.com/track/3yWIPGvQ7QcOhKx2gNImQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "Tight Rope XX",
+      "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 233915,
+  "num_followers": 233908,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Rede Velha",
+        "url": "https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "Rede Velha",
+      "url": "https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Fundamental - Teresa Cristina e Grupo Semente",
         "url": "https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 156280,
       "name": "Cora\u00e7\u00e3o Imprudente",
       "url": "https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Rede Velha",
-        "url": "https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "Rede Velha",
-      "url": "https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -1148,8 +1148,8 @@
           "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
         },
         {
-          "name": "Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/6xBfvBOVmzVbkVgl0C6jxH"
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
         },
         {
           "name": "Leny Andrade",

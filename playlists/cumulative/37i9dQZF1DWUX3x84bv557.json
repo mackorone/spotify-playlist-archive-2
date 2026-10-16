@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Samuel Welten",
+  "description": "Frisse Nederlandse pop. Cover: B-Brave",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "5 Weken",
+        "url": "https://open.spotify.com/album/7B55bsmbHHOrKIyAs8QJSP"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "5 Weken",
+      "url": "https://open.spotify.com/track/3z4SfCpG6tg6OBqqvwCICq"
+    },
+    {
+      "album": {
         "name": "drift",
         "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
       },
@@ -958,6 +976,24 @@
       "duration_ms": 193500,
       "name": "Adem In, Adem Uit",
       "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
+    },
+    {
+      "album": {
+        "name": "Adem Uit Adem In",
+        "url": "https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167622,
+      "name": "Adem Uit Adem In",
+      "url": "https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8"
     },
     {
       "album": {
@@ -1440,6 +1476,24 @@
       "duration_ms": 175853,
       "name": "Alles Kan Vanavond",
       "url": "https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG"
+    },
+    {
+      "album": {
+        "name": "Alles komt, Alles gaat",
+        "url": "https://open.spotify.com/album/09EA6PccLTmn3KkKyFhMt2"
+      },
+      "artists": [
+        {
+          "name": "Fenster",
+          "url": "https://open.spotify.com/artist/6KsLhQA2hXRIkvBsoKWqsR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Alles komt, Alles gaat",
+      "url": "https://open.spotify.com/track/0KlfMHN4CvIKsfcxJ18c1s"
     },
     {
       "album": {
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152166,
       "name": "Bare Minimum",
       "url": "https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd"
@@ -8379,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "GIRLS GIRLS GIRLS",
+        "url": "https://open.spotify.com/album/6R9aKL0YaHAs9zPHgwueN8"
+      },
+      "artists": [
+        {
+          "name": "B-Brave",
+          "url": "https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164982,
+      "name": "GIRLS GIRLS GIRLS",
+      "url": "https://open.spotify.com/track/2DBTDBihHsCR6n7EPiN5ML"
+    },
+    {
+      "album": {
         "name": "Glaasje of 2",
         "url": "https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j"
       },
@@ -9276,6 +9348,24 @@
       "duration_ms": 181410,
       "name": "Heet",
       "url": "https://open.spotify.com/track/1JIoe7WHdVMRun0XRwUq8g"
+    },
+    {
+      "album": {
+        "name": "Heimwee",
+        "url": "https://open.spotify.com/album/2lyWUMoV1LwDYuWlK0SAVR"
+      },
+      "artists": [
+        {
+          "name": "Berend",
+          "url": "https://open.spotify.com/artist/1gplC639zf5QFkEGFU4yt5"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121603,
+      "name": "Heimwee",
+      "url": "https://open.spotify.com/track/5vVxnrTRex3uSS6ZSwLeqg"
     },
     {
       "album": {
@@ -11939,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "Ik zeg niet dat je moet gaan",
+        "url": "https://open.spotify.com/album/4AQMj4r611Dr8r1tQ4hKQ5"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143640,
+      "name": "Ik zeg niet dat je moet gaan",
+      "url": "https://open.spotify.com/track/0UUJZopRBWmaHIHg8JgoFP"
+    },
+    {
+      "album": {
         "name": "Ik Zeg Niets",
         "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
@@ -11972,7 +12080,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 222976,
       "name": "Ik Zing",
       "url": "https://open.spotify.com/track/38rook8KIh6wCyPSK8CMBH"
@@ -15134,7 +15242,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 135008,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/5fgpgfjqrntiwZM4xLI7vy"
@@ -16856,7 +16964,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 179621,
       "name": "Morgen Weer",
       "url": "https://open.spotify.com/track/5wHrY42MYVXzpN4LXdCjVJ"
@@ -18436,7 +18544,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166693,
       "name": "Oh Zo Hopeloos",
       "url": "https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH"
@@ -19570,6 +19678,24 @@
     {
       "album": {
         "name": "Perfect",
+        "url": "https://open.spotify.com/album/7nCZp66b2qWoepuW7cVtvv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170368,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6gPWIpzzgWT0Z8O3ujpVrq"
+    },
+    {
+      "album": {
+        "name": "Perfect",
         "url": "https://open.spotify.com/album/1PyesUCvtqfk5Jq4jSoq6D"
       },
       "artists": [
@@ -19652,7 +19778,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140145,
       "name": "Plaats Delict",
       "url": "https://open.spotify.com/track/6fyr7vZ3O3GKeUpuoLfnbg"
@@ -20891,6 +21017,24 @@
     },
     {
       "album": {
+        "name": "Schoolplein",
+        "url": "https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK"
+      },
+      "artists": [
+        {
+          "name": "Lolo Hefting",
+          "url": "https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Schoolplein",
+      "url": "https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq"
+    },
+    {
+      "album": {
         "name": "Schoonzoon",
         "url": "https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4"
       },
@@ -20902,7 +21046,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 138150,
       "name": "Schoonzoon",
       "url": "https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT"
@@ -21532,6 +21676,24 @@
       "duration_ms": 138970,
       "name": "Soms",
       "url": "https://open.spotify.com/track/26BBJb1jBKXFe6G4g5gkk3"
+    },
+    {
+      "album": {
+        "name": "Tranen In De Giftshop",
+        "url": "https://open.spotify.com/album/6yeBv9FtLw2ioVF6DSTaZR"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203085,
+      "name": "Soms",
+      "url": "https://open.spotify.com/track/5aRBRmwtuSdDXJlnswPEK0"
     },
     {
       "album": {
@@ -23804,7 +23966,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 219250,
       "name": "Vang Je Mij",
       "url": "https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr"
@@ -23946,6 +24108,24 @@
       "duration_ms": 201742,
       "name": "Ver Van Huis",
       "url": "https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW"
+    },
+    {
+      "album": {
+        "name": "Veranderen Wij?",
+        "url": "https://open.spotify.com/album/1WnjGMgPenzuHZFBvBbW53"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Veranderen Wij?",
+      "url": "https://open.spotify.com/track/0jDjFrGovNhDuBlxDX4twm"
     },
     {
       "album": {
@@ -25732,7 +25912,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166895,
       "name": "Wat Er Morgen Komt",
       "url": "https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L"
@@ -26746,6 +26926,24 @@
       "duration_ms": 191645,
       "name": "Zaterdag",
       "url": "https://open.spotify.com/track/3XqcbsV9bgzQZ04CvkR24Q"
+    },
+    {
+      "album": {
+        "name": "Ze Denkt Niet Aan Morgen",
+        "url": "https://open.spotify.com/album/3ve07Ac6xhxZR9ld7A8CHz"
+      },
+      "artists": [
+        {
+          "name": "VOS",
+          "url": "https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "Ze Denkt Niet Aan Morgen",
+      "url": "https://open.spotify.com/track/4U9EAyYJP3eOL8LpmJLMF2"
     },
     {
       "album": {

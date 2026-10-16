@@ -4,7 +4,7 @@
 
 > 
 
-3,240 songs - 6 day 22 hr 36 min
+3,241 songs - 6 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1869,6 +1869,7 @@
 | [Mind Control \- Dacryø Remix](https://open.spotify.com/track/7mErwBqet7FTjRw5pMbSz6) | [Midori](https://open.spotify.com/artist/0V0jE7vDLq7Qqo8dIBrkOj), [Dacryø](https://open.spotify.com/artist/5lvgqq56KerD2aM5haSjiv) | [Masters of Underground Vol 1](https://open.spotify.com/album/1EmG8UCnmRVrhknt0xOfGd) | 3:34 | 2026-03-26 |  |
 | [Mind Destruction](https://open.spotify.com/track/5WmSVbt9YRzOTG9yF6nTnD) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Mind Destruction](https://open.spotify.com/album/2h4tWkMWV0WvN3Qjsq3lA6) | 3:03 | 2024-08-28 |  |
 | [Miniskirt](https://open.spotify.com/track/27bAbN1x4o0Aif1ruHtBfw) | [Tritium](https://open.spotify.com/artist/4NhYoKVnVJMTBCr7CRQt4w), [Rowdy](https://open.spotify.com/artist/2hmckvtgNataPUqMug2ksV) | [Miniskirt](https://open.spotify.com/album/05YMjHBOZtkIqfoi7AUx0M) | 3:50 | 2024-02-22 |  |
+| [Miracle](https://open.spotify.com/track/4E5i9iEQjPV7PWLRToZrQq) | [Exoform](https://open.spotify.com/artist/3sU17CPlVZZ4ImHsRAq7gM), [ERABREAK](https://open.spotify.com/artist/1ykesmLeugHwTXDfc81Pu8) | [Miracle](https://open.spotify.com/album/4c0lPduTD5mWNx3kzWPmet) | 3:03 | 2026-10-16 |  |
 | [Miracle](https://open.spotify.com/track/5SDLJ6MTeclcu5eLkJVeE9) | [Knitter&Fetze](https://open.spotify.com/artist/4x1uU1O0MFSLOct2ZyzFYJ) | [Miracle](https://open.spotify.com/album/3iJy2IvmLhWL6EpE1u6Row) | 2:40 | 2026-02-03 |  |
 | [Miracles](https://open.spotify.com/track/2da0u5ghkf1ExfkExb29cb) | [Skull Demon](https://open.spotify.com/artist/2S0ARB7meisIgCWq01As9p), [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Miracles](https://open.spotify.com/album/2LyDu55VaqmiCLPCuv8Hmg) | 2:45 | 2023-09-11 |  |
 | [Mirrors](https://open.spotify.com/track/6F1ysFXCZYocDOrczAz6Dm) | [Loner](https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry) | [Mirrors](https://open.spotify.com/album/3uojG5RBHgkvIL0LIOZu0Z) | 2:54 | 2024-06-21 |  |

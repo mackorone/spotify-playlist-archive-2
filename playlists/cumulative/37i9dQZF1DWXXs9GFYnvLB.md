@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Taylor Swift
+> The hottest tracks with the freshest hits! Cover: Solomun, Dom Dolla, Skepta
 
 522 songs - 1 day 4 hr 10 min
 

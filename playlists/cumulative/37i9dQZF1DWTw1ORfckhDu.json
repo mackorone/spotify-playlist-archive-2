@@ -64,6 +64,28 @@
     {
       "album": {
         "name": "100%",
+        "url": "https://open.spotify.com/album/5SQwrn0C4O3QIqBM7Nljjf"
+      },
+      "artists": [
+        {
+          "name": "Andrei",
+          "url": "https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR"
+        },
+        {
+          "name": "Rekami",
+          "url": "https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160462,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/0LjEFEnX1kzfrjUPqK50nd"
+    },
+    {
+      "album": {
+        "name": "100%",
         "url": "https://open.spotify.com/album/17yI7EEB8IvidRSBFCPhcb"
       },
       "artists": [
@@ -146,7 +168,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 134266,
       "name": "15K",
       "url": "https://open.spotify.com/track/0FkG18tlfLd8lcVHoP1np1"
@@ -1261,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4bag04hihvM8QASzKtSkHW"
+      },
+      "artists": [
+        {
+          "name": "WEWWE",
+          "url": "https://open.spotify.com/artist/3pSj91T5aQGsVUoLJH2mb9"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121350,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/6J21ssPpXFSjPe56WIhV0b"
+    },
+    {
+      "album": {
         "name": "Allstar (feat. ibe)",
         "url": "https://open.spotify.com/album/6wyZ9WblNTfN4LGHcsg7cf"
       },
@@ -2133,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Big Mac",
+        "url": "https://open.spotify.com/album/6PPWvhNaw2uFD4mwMOnlcj"
+      },
+      "artists": [
+        {
+          "name": "Duski",
+          "url": "https://open.spotify.com/artist/2d8mtjvfDprHZoxdL0NutC"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Big Mac",
+      "url": "https://open.spotify.com/track/7c09LYaULAKwaClyhEwzgV"
+    },
+    {
+      "album": {
         "name": "Oloasu Business",
         "url": "https://open.spotify.com/album/5ES7Tic3rT5Pv8d4MDaqhE"
       },
@@ -2678,6 +2736,24 @@
       "duration_ms": 125096,
       "name": "Chilleis",
       "url": "https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP"
+    },
+    {
+      "album": {
+        "name": "CLANTAG",
+        "url": "https://open.spotify.com/album/3eRNdYCTw30rozq9ssTFk9"
+      },
+      "artists": [
+        {
+          "name": "VBZ",
+          "url": "https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151928,
+      "name": "CLANTAG",
+      "url": "https://open.spotify.com/track/6GFSdyx9JBtDwysklVlXSd"
     },
     {
       "album": {
@@ -3506,6 +3582,24 @@
       "duration_ms": 164850,
       "name": "Downtown (feat. NCO)",
       "url": "https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75"
+    },
+    {
+      "album": {
+        "name": "Drama & Love",
+        "url": "https://open.spotify.com/album/1PWIm2cIGmIEtUR4ByjKbS"
+      },
+      "artists": [
+        {
+          "name": "Nupe",
+          "url": "https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Drama & Love",
+      "url": "https://open.spotify.com/track/7mqdyJnqNJU9IFgSGm9Fvh"
     },
     {
       "album": {
@@ -5588,6 +5682,28 @@
       "duration_ms": 131962,
       "name": "Gangstaparty",
       "url": "https://open.spotify.com/track/2Y16eiSMRQjbGwwC9EkJ9F"
+    },
+    {
+      "album": {
+        "name": "GANGSTAPOP",
+        "url": "https://open.spotify.com/album/0Un5GJKHNp1AJ9t2PghipN"
+      },
+      "artists": [
+        {
+          "name": "PASTORIPIKE",
+          "url": "https://open.spotify.com/artist/7skwhuDZgBkDc6jeSuDSa1"
+        },
+        {
+          "name": "breakingbonezz",
+          "url": "https://open.spotify.com/artist/1omCdf39B5rEwVTs7Dg116"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "GANGSTAPOP",
+      "url": "https://open.spotify.com/track/5DelVQGkwgf5mapYzufo00"
     },
     {
       "album": {
@@ -14753,6 +14869,28 @@
     },
     {
       "album": {
+        "name": "missaa",
+        "url": "https://open.spotify.com/album/4aBAuOgqzj38ScLWgbnhDJ"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "missaa",
+      "url": "https://open.spotify.com/track/3A3TNeDWLjPICABdh7dwjx"
+    },
+    {
+      "album": {
         "name": "Missaat Mut",
         "url": "https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y"
       },
@@ -15072,7 +15210,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191905,
       "name": "MJ",
       "url": "https://open.spotify.com/track/6yvTJPOY2hm8tF0W19TirA"
@@ -16760,7 +16898,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 132352,
       "name": "Nokia",
       "url": "https://open.spotify.com/track/6OFIJHfqjr37ifNGByvBuY"
@@ -17866,7 +18004,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 182571,
       "name": "Pahoi Barei (feat. Kube)",
       "url": "https://open.spotify.com/track/31TF1NiYxQdRb4AatCv0Ao"
@@ -18440,7 +18578,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 192355,
       "name": "PASSAT",
       "url": "https://open.spotify.com/track/0dZfBMOl7EESXidB3IaUVB"
@@ -18640,7 +18778,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147692,
       "name": "perfume",
       "url": "https://open.spotify.com/track/3O02rSXEcK2GpxFIBt2POz"
@@ -20952,7 +21090,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 198260,
       "name": "sanoja",
       "url": "https://open.spotify.com/track/4hg2YrHVcKz7QON5szNdZc"
@@ -21130,6 +21268,24 @@
       "duration_ms": 260000,
       "name": "Savu",
       "url": "https://open.spotify.com/track/14MZ5VjSRPjwToGzWDL5mw"
+    },
+    {
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/3v7QXzpLPyyTF8m07cNUIE"
+      },
+      "artists": [
+        {
+          "name": "1les",
+          "url": "https://open.spotify.com/artist/462eXvO7RVfaU7aCzxKggi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149334,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/1AIq0POMVtXp2WmSZTTx7C"
     },
     {
       "album": {
@@ -21420,7 +21576,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156631,
       "name": "Sekop\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2kcQmJ6NAfgbWwaRpjS0zD"
@@ -24083,6 +24239,24 @@
     },
     {
       "album": {
+        "name": "Toises el\u00e4m\u00e4s",
+        "url": "https://open.spotify.com/album/46rTLcBSqpgsbyYLbybyr2"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155245,
+      "name": "Toises el\u00e4m\u00e4s",
+      "url": "https://open.spotify.com/track/4aT1uT0Xl2MMLfRloe7yjP"
+    },
+    {
+      "album": {
         "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
         "url": "https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV"
       },
@@ -26528,7 +26702,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 212437,
       "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
       "url": "https://open.spotify.com/track/5DeFROT7Sb4NhrolCXTk9C"

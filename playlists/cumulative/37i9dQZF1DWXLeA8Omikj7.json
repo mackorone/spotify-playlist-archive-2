@@ -16200,7 +16200,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 235991,
       "name": "Rest Round Here",
       "url": "https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N"
@@ -21634,6 +21634,24 @@
       "duration_ms": 369214,
       "name": "twelve",
       "url": "https://open.spotify.com/track/6rRRueTvqqNuhjxe8Zw4D5"
+    },
+    {
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy"
+      },
+      "artists": [
+        {
+          "name": "burger/ink",
+          "url": "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+        }
+      ],
+      "date_added": "2026-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 682906,
+      "name": "Twelve Miles High",
+      "url": "https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk"
     },
     {
       "album": {

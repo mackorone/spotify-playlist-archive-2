@@ -126,7 +126,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 125827,
       "name": "a lot!",
       "url": "https://open.spotify.com/track/3vMIF9cZ6zZPKFYSKnaE7y"
@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Going Cr\u00e4zy",
+        "url": "https://open.spotify.com/album/4XNblDzETcarpWbdcawHHx"
+      },
+      "artists": [
+        {
+          "name": "Luh geeky \u272a",
+          "url": "https://open.spotify.com/artist/5NhMlzTcK9lMZYDF71ma7L"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151296,
+      "name": "Going Cr\u00e4zy",
+      "url": "https://open.spotify.com/track/1z8m7xk8otk5cS6D7cndui"
+    },
+    {
+      "album": {
         "name": "Gotham",
         "url": "https://open.spotify.com/album/73HinW2N7BXiYzNfGy7yIm"
       },
@@ -2754,6 +2772,24 @@
       "duration_ms": 110062,
       "name": "I Might Drive",
       "url": "https://open.spotify.com/track/6DCrWJbZPqqmnd0WpoB7su"
+    },
+    {
+      "album": {
+        "name": "I Miss X",
+        "url": "https://open.spotify.com/album/4JBfH9edqqRfLVmzMwvnYP"
+      },
+      "artists": [
+        {
+          "name": "Zelgin Jackson",
+          "url": "https://open.spotify.com/artist/2XL3zqK7k2Opyp5g5bjWlG"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80725,
+      "name": "I Miss X",
+      "url": "https://open.spotify.com/track/1v8pL1pxs6e3TinMSjJmJh"
     },
     {
       "album": {
@@ -3994,7 +4030,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"

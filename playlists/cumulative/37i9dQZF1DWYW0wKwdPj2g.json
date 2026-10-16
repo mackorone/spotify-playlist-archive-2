@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Amen Hallelujah (Live)",
+        "url": "https://open.spotify.com/album/7jjEY3xjRQR01Gyarb2tX9"
+      },
+      "artists": [
+        {
+          "name": "Favour Chetam",
+          "url": "https://open.spotify.com/artist/7bLkYkzh7VPnaUcwWrUxh2"
+        },
+        {
+          "name": "Anthony Kani",
+          "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1084004,
+      "name": "Amen Hallelujah - Live",
+      "url": "https://open.spotify.com/track/1TyT7RZkxTcqktYqq8rioL"
+    },
+    {
+      "album": {
         "name": "Amin (Amen) [Live]",
         "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
       },
@@ -488,7 +510,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 259640,
       "name": "Awesome God - Live",
       "url": "https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe"
@@ -6264,7 +6286,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 529230,
       "name": "To You Be All Glory - Live",
       "url": "https://open.spotify.com/track/7uqIqXsPPxCxnC6Env58xR"
@@ -7370,6 +7392,32 @@
       "duration_ms": 697988,
       "name": "Your name - Live",
       "url": "https://open.spotify.com/track/4L0h1nHoKo1Tq6ogZ8ywSY"
+    },
+    {
+      "album": {
+        "name": "Your True Friend (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/1pKK8Kl2Gz6TogHhtsFuKV"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        },
+        {
+          "name": "JUDAH NEW CREATION WORSHIP",
+          "url": "https://open.spotify.com/artist/6lNCI2cLHPAbegQ785hXM3"
+        },
+        {
+          "name": "Nhlanhla Dube",
+          "url": "https://open.spotify.com/artist/0VitabDkwg7dAXWkoZXbtW"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394647,
+      "name": "Your True Friend (Jesus) - Live",
+      "url": "https://open.spotify.com/track/4du4cTGn30RQcy9sY1Lc9J"
     },
     {
       "album": {

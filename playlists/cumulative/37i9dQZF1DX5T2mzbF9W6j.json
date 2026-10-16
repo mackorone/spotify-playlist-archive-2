@@ -8093,6 +8093,28 @@
     },
     {
       "album": {
+        "name": "Zanim Znikniesz",
+        "url": "https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew"
+      },
+      "artists": [
+        {
+          "name": "DJ Adamus",
+          "url": "https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt"
+        },
+        {
+          "name": "Kayomee",
+          "url": "https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186310,
+      "name": "Zanim Znikniesz",
+      "url": "https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv"
+    },
+    {
+      "album": {
         "name": "Zapomnij Mnie",
         "url": "https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi"
       },
@@ -8122,7 +8144,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169840,
       "name": "Zapomnij mnie",
       "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"

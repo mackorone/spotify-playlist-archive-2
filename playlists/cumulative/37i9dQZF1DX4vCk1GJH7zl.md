@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-249 songs - 14 hr 52 min
+251 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 | 2024-01-12 |  |
 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 | 2023-07-21 |  |
 | [América do Sul \(Vazia\)](https://open.spotify.com/track/6EXfuWApWrD6uvOb2rab8U) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [América do Sul \(Vazia\) / Problema Seu](https://open.spotify.com/album/2Ljh5dUhcwOe5fk32QYip9) | 3:14 | 2025-10-24 | 2026-04-04 |
-| [Anjo de Papel](https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X) | [Varanda](https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk) | [Anjo de Papel](https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3) | 3:17 | 2026-08-14 |  |
+| [Anjo de Papel](https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X) | [Varanda](https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk) | [Anjo de Papel](https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3) | 3:17 | 2026-08-14 | 2026-10-16 |
 | [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 | 2024-02-03 |
 | [Antissocial](https://open.spotify.com/track/1qF7eDzaR22J0uJjZFWdQB) | [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Antissocial](https://open.spotify.com/album/1dzVpgwhLIPUW7ZVuW43mB) | 2:43 | 2024-09-13 | 2024-10-19 |
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 | 2026-06-19 |
@@ -63,7 +63,7 @@
 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 | 2023-07-21 | 2023-09-16 |
 | [Como se Fosse Ontem](https://open.spotify.com/track/3JlqEzw89nFdPgKdUiYgKW) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Caranguejo](https://open.spotify.com/album/34w5qfn1rHBgu9ApBMhhs2) | 3:29 | 2026-04-17 | 2026-05-29 |
 | [Conto os Dias](https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Conto os Dias](https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB) | 3:23 | 2023-07-21 | 2025-02-15 |
-| [Cozinho de Noite](https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh) | [Arnaldo Baptista](https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Cozinho de Noite](https://open.spotify.com/album/6hzAbCqXhpUxNCuE0H1zJI) | 3:22 | 2026-09-04 |  |
+| [Cozinho de Noite](https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh) | [Arnaldo Baptista](https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Cozinho de Noite](https://open.spotify.com/album/6hzAbCqXhpUxNCuE0H1zJI) | 3:22 | 2026-09-04 | 2026-10-16 |
 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-18 | 2023-09-02 |
 | [Daqui Pra Frente \- Acústico](https://open.spotify.com/track/5VirBgNJOXzYGlxT9Int87) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y \(Deluxe\)](https://open.spotify.com/album/2zx0t2as117MZE7m5g79GN) | 3:21 | 2025-10-24 | 2025-12-19 |
 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-03-27 | 2026-06-19 |
@@ -84,6 +84,7 @@
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 | 2023-11-17 |  |
 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 | 2024-09-13 |  |
+| [eternamente](https://open.spotify.com/track/4e8viVM9hXPasMMxCPXCuV) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [eternamente](https://open.spotify.com/album/4dRv2T66HvBySs37ciShUi) | 4:32 | 2026-10-16 |  |
 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 | 2024-06-21 |  |
 | [Eu Deixo](https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Eu Deixo](https://open.spotify.com/album/00gv0XAlY69dAePHdTNisw) | 4:14 | 2023-07-21 | 2023-09-09 |
 | [Eu Nunca Fui Embora \- \(SABOR CHURRASCO\)](https://open.spotify.com/track/5DvoKbpUEi1orTxn60FJN9) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora \(Deluxe\)](https://open.spotify.com/album/18FyBiQZ5r5T7u82r6t1N2) | 3:12 | 2025-04-05 | 2025-12-19 |
@@ -198,6 +199,7 @@
 | [Rádio](https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Rádio](https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH) | 3:22 | 2026-06-26 |  |
 | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/track/0s0xqCwSN9dpouDr06i1eg) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/album/0PuCQoxexvLuUa2Ku1wbTM) | 4:01 | 2024-04-05 | 2024-04-27 |
 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-28 | 2025-05-17 |
+| [Se Rimar, Rimou](https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9) | [Vitor Isensee](https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s) | [Pra Cima Todo Santo Ajuda](https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059) | 2:59 | 2026-10-16 |  |
 | [Se Você Quiser Voltar](https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Se Você Quiser Voltar](https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg) | 3:24 | 2023-08-25 | 2023-09-30 |
 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-18 | 2023-09-02 |
 | [SEDE](https://open.spotify.com/track/2dUsGbQRh5jSUaF4J8ct0E) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [SEDE](https://open.spotify.com/album/71ZI6Y8D4GNsYkmw3HGhBk) | 4:04 | 2024-02-23 | 2024-03-23 |

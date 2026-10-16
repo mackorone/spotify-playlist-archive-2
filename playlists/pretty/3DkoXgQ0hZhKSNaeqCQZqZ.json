@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1236,
+  "num_followers": 1239,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAF0U9UVB0Prj54aTc3cd9KzjPboTXw",
+  "snapshot_id": "AAAF2OBak3EYPP/M6mPZC/6DxjYNTrxG",
   "tracks": [
     {
       "added_at": "2026-10-11 04:36:26",
@@ -91,6 +91,54 @@
       "duration_ms": 310375,
       "name": "excalibur",
       "url": "https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD"
+    },
+    {
+      "added_at": "2026-10-15 17:20:37",
+      "album": {
+        "name": "Corn Maze Days, Pumpkin Patch Nights",
+        "url": "https://open.spotify.com/album/3qMVQx6hpSkxUbytWrOFQg"
+      },
+      "artists": [
+        {
+          "name": "Roadkill't",
+          "url": "https://open.spotify.com/artist/5lvarDFsfZZaK87sFgg2g2"
+        }
+      ],
+      "duration_ms": 203254,
+      "name": "Corn Maze Days, Pumpkin Patch Nights",
+      "url": "https://open.spotify.com/track/4I3K2VP0XtLXJoUj2O5RCU"
+    },
+    {
+      "added_at": "2026-10-15 17:19:51",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/000wW9lL3QSGGhHAiGZBZK"
+      },
+      "artists": [
+        {
+          "name": "Mostly Mammals",
+          "url": "https://open.spotify.com/artist/6PlX3THROp2sMePaNoK16W"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Set Me Down",
+      "url": "https://open.spotify.com/track/68DePrm3cdtsMrsevG7wH0"
+    },
+    {
+      "added_at": "2026-10-15 17:24:35",
+      "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/4g71Jwoca7a8nAWpdtoet2"
+      },
+      "artists": [
+        {
+          "name": "Moochie",
+          "url": "https://open.spotify.com/artist/5ocQX6VrwISE9pQd2N3mOn"
+        }
+      ],
+      "duration_ms": 153249,
+      "name": "within",
+      "url": "https://open.spotify.com/track/4QAX0PNPELt7O2o1zo1dBi"
     },
     {
       "added_at": "2026-09-15 13:36:58",

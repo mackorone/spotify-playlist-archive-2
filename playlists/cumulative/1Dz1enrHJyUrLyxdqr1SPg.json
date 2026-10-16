@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2iCPnQsIHwJJUtAgGQF9za"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Tenot",
+          "url": "https://open.spotify.com/artist/6j3lTa5CHvS3l2ON2L226w"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2A0py9wFw5pieZbPAvJvEF"
+    },
+    {
+      "album": {
         "name": "Raging Daylight",
         "url": "https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: VERRY SMoL
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,846 likes - 98 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,843 likes - 98 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

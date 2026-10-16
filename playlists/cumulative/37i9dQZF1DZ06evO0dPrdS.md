@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 58 min
+43 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Saturday Night Divas](https://open.spotify.com/track/3M83cWfWcFXtkavdM8NuEZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:25 | 2025-10-28 |  |
 | [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 | 2025-10-28 |  |
 | [Say You'll Be There \- Single Mix](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2025-10-28 |  |
+| [Seremos 1 Los 2 \- Versión En Español](https://open.spotify.com/track/6hcNd7nKFpTt06C754iIg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [2 Become 1](https://open.spotify.com/album/7hNNgDU4imUDX29rfuKBGO) | 3:50 | 2026-10-16 |  |
 | [Sisters \(Are Doing It For Themselves\) \- Live](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 | 2025-10-28 |  |
 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 | 2025-10-28 |  |
 | [Spice Girls Party Mix](https://open.spotify.com/track/0b6QDY3DSV733KWYX6yWTU) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 14:44 | 2025-10-28 |  |

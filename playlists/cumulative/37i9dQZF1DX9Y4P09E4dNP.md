@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Mr Drew
+> The big Hip\-Life hits rn\. Cover: Sarkodie
 
-373 songs - 22 hr 10 min
+378 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 | 2024-03-05 |
+| [Deja Vu](https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Deja Vu](https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU) | 3:57 | 2026-10-16 |  |
 | [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 | 2024-09-20 |
 | [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 | 2024-08-31 |
 | [Do Better](https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Do Better](https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69) | 2:38 | 2025-06-20 |  |
@@ -204,6 +205,7 @@
 | [Many Times](https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:59 | 2026-05-18 |  |
 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 | 2022-05-19 | 2023-02-04 |
 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-05-01 |
+| [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 | 2026-10-16 |  |
 | [Medo](https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e) | 4:52 | 2020-02-20 | 2022-07-27 |
 | [Medo](https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht) | 4:52 | 2020-02-20 | 2022-11-13 |
 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 | 2020-02-20 | 2023-10-30 |
@@ -218,6 +220,7 @@
 | [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 | 2026-08-19 |  |
 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 | 2022-02-24 | 2024-03-05 |
 | [MILLIONS ii](https://open.spotify.com/track/50IzCGQidECh5zojglWB6w) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3), [Genna](https://open.spotify.com/artist/0vgmGJ9KtHHUNi1kDi0Eyt), [RASHID METAL](https://open.spotify.com/artist/0sawjBeMoue4ucinK3EA1K), [Jah Lead](https://open.spotify.com/artist/1mgGYlVrlrPTERwYmZV60h), [Kamelyeon](https://open.spotify.com/artist/5MP0kZyNCYX9cOcrH4HRhr), [Ras Kuuku](https://open.spotify.com/artist/4S25RJwSpzgN0r4Ud7gpwe), [CAPTAN GH](https://open.spotify.com/artist/68BeDAGR3ASjI5VP3SQ4gV), [J.Derobie](https://open.spotify.com/artist/0ZVmFagVyt9X9mpPo7DP1x) | [MILLIONS ii](https://open.spotify.com/album/419fDmAiFkD44r3OKtKLUv) | 5:53 | 2026-02-20 | 2026-03-27 |
+| [MIX MIX \(KINGSIZE\)](https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9) | 3:00 | 2026-10-16 |  |
 | [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-20 | 2026-03-13 |
 | [Mon Bébé \(with King Promise\)](https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Mon Bébé \(with King Promise\)](https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc) | 2:48 | 2026-05-08 |  |
 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 | 2022-03-31 | 2023-02-13 |
@@ -243,6 +246,7 @@
 | [Obiaa](https://open.spotify.com/track/2mtP8qyPhspOExsNpPmHuQ) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 4:15 | 2024-03-04 | 2025-04-08 |
 | [Obiaa Nte Mase](https://open.spotify.com/track/30a0k5w2WkXeqsIdXCiwNk) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Obiaa Nte Mase](https://open.spotify.com/album/2AHcKhDSVatchekMAEZGET) | 2:42 | 2026-04-24 |  |
 | [Obrempong](https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Obrempong](https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP) | 3:16 | 2024-03-29 | 2024-04-19 |
+| [Odo Ankasa](https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Ankasa](https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy) | 3:52 | 2026-10-16 |  |
 | [Odo Asisi Me \- Remix](https://open.spotify.com/track/5KRIF5cZR3XAayf98QTdZJ) | [Akatakyie](https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l) | [Odo Asisi Me](https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid) | 5:09 | 2020-02-20 | 2023-11-21 |
 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 | 2024-03-04 | 2024-04-19 |
 | [Odo Bi](https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/22SPXtFzEEjbhUCDB44BQk) | 3:27 | 2024-04-19 | 2024-05-24 |
@@ -380,6 +384,7 @@
 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-09-01 |  |
 | [Yire \(Fanfooler\)](https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:30 | 2026-05-15 | 2026-06-12 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
+| [Your Body \(Craze\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Craze\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 | 2026-10-16 |  |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2024-03-05 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

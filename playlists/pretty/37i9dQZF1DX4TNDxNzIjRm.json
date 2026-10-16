@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1251426,
+  "num_followers": 1251244,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-02 08:11:38",
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "added_at": "2026-10-02 08:11:38",
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-      "added_at": "2026-10-02 08:11:38",
-      "album": {
-        "name": "COMPA COLETO (uy_como)",
-        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "COMPA COLETO (uy_como)",
-      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "added_at": "2026-10-02 08:11:38",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-10-02 08:11:38",
       "album": {
+        "name": "La Bachata Volvi\u00f3",
+        "url": "https://open.spotify.com/album/7oqAsaPN3b6jhC7Bi9sWKX"
+      },
+      "artists": [
+        {
+          "name": "Dalvin La Melodia",
+          "url": "https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0RtlKChy7M5DHrezRiRNzh"
+    },
+    {
+      "added_at": "2026-10-02 08:11:38",
+      "album": {
         "name": "Dumb Boy",
         "url": "https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 183307,
       "name": "Dumb Boy",
       "url": "https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb"
-    },
-    {
-      "added_at": "2026-10-02 08:11:38",
-      "album": {
-        "name": "La Bachata Volvi\u00f3",
-        "url": "https://open.spotify.com/album/7oqAsaPN3b6jhC7Bi9sWKX"
-      },
-      "artists": [
-        {
-          "name": "Dalvin La Melodia",
-          "url": "https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/0RtlKChy7M5DHrezRiRNzh"
     },
     {
       "added_at": "2026-10-02 08:11:38",

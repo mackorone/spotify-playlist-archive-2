@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Armin Van Buuren",
+  "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Giuseppe Ottaviani and Hypaton",
   "name": "trance mission",
   "tracks": [
     {
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178125,
       "name": "Best One",
       "url": "https://open.spotify.com/track/0cb3OjsFdjBNj2ZlSBvf4M"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 175425,
       "name": "Broken Tides",
       "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
@@ -7222,7 +7222,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 236521,
       "name": "Eclipsed By You",
       "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
@@ -9150,7 +9150,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 197391,
       "name": "Final Memory",
       "url": "https://open.spotify.com/track/1cc7UCLeLeIEo0ziQqp2FE"
@@ -9704,7 +9704,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148356,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7GsyVPk2ixVCK7AJ6XfBOk"
@@ -10572,7 +10572,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161000,
       "name": "Glow Up",
       "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
@@ -18910,7 +18910,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 212903,
       "name": "Origins",
       "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
@@ -20506,7 +20506,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 183925,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO"
@@ -20872,7 +20872,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "ResuRection (Call Me)",
       "url": "https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9"
@@ -23276,6 +23276,28 @@
       "duration_ms": 177000,
       "name": "Soul Theory",
       "url": "https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh"
+    },
+    {
+      "album": {
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/6MaVblJiByJfyeZOcLparA"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "Soundboy",
+      "url": "https://open.spotify.com/track/1h5Xp7g4Y6ivW9gwWjtM56"
     },
     {
       "album": {
@@ -27504,7 +27526,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190344,
       "name": "Unified",
       "url": "https://open.spotify.com/track/1RrQr6asuzJOBFSjWtqOUn"

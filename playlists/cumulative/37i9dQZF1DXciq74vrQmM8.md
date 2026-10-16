@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. grimes
 
-1,350 songs - 2 day 18 hr 52 min
+1,354 songs - 2 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BERLIN](https://open.spotify.com/track/3VDogb52Rqkv0aGG2JEw2J) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:02 | 2023-10-13 | 2023-11-11 |
 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 | 2024-02-23 | 2024-09-06 |
 | [beTh aMpHeTamiNe](https://open.spotify.com/track/3jSBxsYABdrVQJe3e7HImp) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [tiLLieverse](https://open.spotify.com/album/6jg5wDpFY07qUl5IWwA58Z) | 2:05 | 2024-07-18 | 2025-03-07 |
+| [bide my time](https://open.spotify.com/track/6aZEGN4NXYPV7NUUEaDJPA) | [AMINAT](https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh) | [bide my time](https://open.spotify.com/album/3aiYOJvEpEczglmYKNVupk) | 2:41 | 2026-10-15 |  |
 | [Bikinis and Trackies \(feat\. Frost Children\)](https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bikinis and Trackies \(feat\. Frost Children\)](https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl) | 2:43 | 2024-11-08 | 2025-01-10 |
 | [BIRDS: SLAYYYTER VERSION](https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 3:12 | 2026-08-27 |  |
 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 | 2023-07-20 | 2024-02-16 |
@@ -450,6 +451,7 @@
 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 | 2025-05-01 | 2026-01-23 |
 | [Freak Baby](https://open.spotify.com/track/4Nf3j6BzVhqf0AFTQPgaTC) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Freak Baby](https://open.spotify.com/album/5RgwApkmHiwOfEjwcoz3f6) | 2:12 | 2023-03-24 | 2023-05-05 |
 | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG) | 2:34 | 2023-05-12 | 2023-07-21 |
+| [Freedom of Me](https://open.spotify.com/track/1r0uIjzNWhD0zDpBtzQV8H) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Freedom of Me](https://open.spotify.com/album/0uxgo6aUSnjvUt7y8NgdhG) | 3:47 | 2026-10-15 |  |
 | [Freefall](https://open.spotify.com/track/0XczwSIVWCjH800SBieNkC) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Freefall](https://open.spotify.com/album/08TgrjuVSPLq8ID3yGUs3W) | 3:12 | 2024-04-18 | 2024-07-12 |
 | [FRIDAY \(Reloaded\)](https://open.spotify.com/track/3Pf28cD5MjAuQzkBnYviCj) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [FRIDAY \(Reloaded\)](https://open.spotify.com/album/3XSKnyN9nvtxA2LFQOdTCu) | 1:40 | 2021-12-27 | 2022-02-18 |
 | [Friendly Machine](https://open.spotify.com/track/1HwDXo5LrML3NYmYQiboCB) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Friendly Machine](https://open.spotify.com/album/0K4D8UZiHwXH2c1cKNXnXZ) | 3:46 | 2021-12-27 | 2022-01-19 |
@@ -791,6 +793,7 @@
 | [Mandy](https://open.spotify.com/track/0XXG3I04gjwqU9Q8rxQk8y) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 2:20 | 2022-02-04 | 2022-02-13 |
 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 | 2024-08-01 | 2024-08-09 |
 | [Manicure](https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Manicure](https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT) | 2:01 | 2026-03-06 | 2026-07-31 |
+| [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 | 2026-10-15 |  |
 | [Mariah's Song](https://open.spotify.com/track/7ipDhQ3TgJnQNchsc82Xrz) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Mariah's Song](https://open.spotify.com/album/2O2tab6lfNyfZxWp8dWhM0) | 4:15 | 2025-09-18 | 2026-01-15 |
 | [Masochist](https://open.spotify.com/track/4YLqrcnj8weIaJ8YxEvqrf) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Sick Boi](https://open.spotify.com/album/1QIlhnFX2vOua9eLXNiUOg) | 3:23 | 2023-10-23 | 2024-02-23 |
 | [Matriarchy](https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD) | 2:44 | 2023-09-21 | 2024-02-23 |
@@ -1357,6 +1360,7 @@
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-06-20 | 2025-12-09 |
 | [Червь / Worm](https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Червь / Worm](https://open.spotify.com/album/0D0aIv3n85HJFtNuuXOxUc) | 2:54 | 2022-02-04 | 2022-04-01 |
 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 | 2023-04-27 | 2023-06-30 |
+| [ズーキッド｜Zookid](https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ズーキッド｜Zookid](https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS) | 3:01 | 2026-10-15 |  |
 | [風｜Kaze](https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [風｜Kaze](https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4) | 1:45 | 2026-03-06 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

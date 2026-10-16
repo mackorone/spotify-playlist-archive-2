@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187525,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/3h9jy7cOpyIyAxllvaXZbg"
+    },
+    {
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
       },

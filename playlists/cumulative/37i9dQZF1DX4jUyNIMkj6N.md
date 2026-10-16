@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-444 songs - 1 day 2 hr 40 min
+446 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Don't Waste Our Time](https://open.spotify.com/track/5Htz8oOxwK7GrggPuUQtCk) | [Maria Toresen](https://open.spotify.com/artist/2wzYrzIHrbBH2B8DVCa8sh) | [Don't Waste Our Time](https://open.spotify.com/album/77cCfoG0wBrss1KBjReemN) | 3:51 | 2021-12-02 | 2022-06-24 |
 | [Doves](https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Doves](https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65) | 4:11 | 2024-03-14 | 2025-02-28 |
 | [Down the Line](https://open.spotify.com/track/2dXdGxduPkeL00oHwN4jss) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL) | [Down the Line](https://open.spotify.com/album/61WmoOg3iTGiykw3xfMpB7) | 4:21 | 2024-03-14 | 2024-08-23 |
+| [Down the River](https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Down the River](https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6) | 6:23 | 2026-10-15 |  |
 | [Dreamer](https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Flora Kuriosa](https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk) | 3:03 | 2021-12-02 | 2022-07-29 |
 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 | 2022-08-18 | 2025-05-21 |
 | [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 | 2024-01-11 | 2024-05-29 |
@@ -296,9 +297,9 @@
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 | 2024-10-13 |
 | [perfect](https://open.spotify.com/track/6NHm6RpK7Gsfhlpj2Jlzfz) | [Elvira Alfaro](https://open.spotify.com/artist/2X935u573aID4nnG97RwE9) | [perfect](https://open.spotify.com/album/3Iqw4tA4oihGOordB2w47H) | 4:03 | 2026-02-26 | 2026-03-27 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
-| [Please Don't Let Go](https://open.spotify.com/track/19BRD66UlriSP5X7wgoP3w) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Please Don't Let Go](https://open.spotify.com/album/1SGeU2ZQ7QRy8yLkINuoyG) | 2:25 | 2026-10-08 |  |
+| [Please Don't Let Go](https://open.spotify.com/track/19BRD66UlriSP5X7wgoP3w) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Please Don't Let Go](https://open.spotify.com/album/1SGeU2ZQ7QRy8yLkINuoyG) | 2:25 | 2026-10-08 | 2026-10-16 |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
-| [project\_4](https://open.spotify.com/track/0uD3w2779MOsOqjQbTd4yT) | [Agate](https://open.spotify.com/artist/1pJPLg2VtHdOCk1upU6a5h) | [project\_4](https://open.spotify.com/album/4JFTve3uWKQ0r0nOu67Q4f) | 2:41 | 2026-05-07 |  |
+| [project\_4](https://open.spotify.com/track/0uD3w2779MOsOqjQbTd4yT) | [Agate](https://open.spotify.com/artist/1pJPLg2VtHdOCk1upU6a5h) | [project\_4](https://open.spotify.com/album/4JFTve3uWKQ0r0nOu67Q4f) | 2:41 | 2026-05-07 | 2026-10-16 |
 | [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 | 2025-10-04 |
 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 | 2026-02-26 |  |
 | [Red Lights](https://open.spotify.com/track/320z12RQPnJuz5ZhGxMY1o) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Red Lights](https://open.spotify.com/album/0ps4aJ1TD25oPafnp5LK6E) | 3:08 | 2026-05-21 |  |
@@ -419,6 +420,7 @@
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-03-24 |  |
 | [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-18 | 2023-10-18 |
 | [Well, that's all for now..](https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg) | [Crawly](https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0) | [Well, that's all for now..](https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy) | 2:11 | 2024-08-22 | 2024-10-24 |
+| [What A Lovely Time \(Honeychild\)](https://open.spotify.com/track/3q7Su3NYWAaHFuyGoG95R8) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [New Life](https://open.spotify.com/album/2MN11ljtp2BpVE1j0HGDiL) | 3:13 | 2026-10-15 |  |
 | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI) | 4:31 | 2021-12-02 | 2022-07-17 |
 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 | 2026-02-08 |
 | [What's Your Time Worth](https://open.spotify.com/track/4Xu0sZo5QjpALLNVnLCHMi) | [Rick Grove](https://open.spotify.com/artist/6ZqkiLDqtgWIf9upBjABI2) | [What's Your Time Worth](https://open.spotify.com/album/5dr1w0x0fZPI07SB9fVpJ3) | 3:35 | 2025-04-03 | 2025-05-09 |

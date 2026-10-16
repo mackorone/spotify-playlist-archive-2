@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 44053,
+  "num_followers": 44052,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADYOpffAWmyQL831XV3Xoqm",
+  "snapshot_id": "as7GAAAAAADoFQT0KKKdcYpM/19esS0T",
   "tracks": [
     {
       "added_at": null,
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
+      "duration_ms": 204069,
+      "name": "ME HACES FALTA",
+      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
     },
     {
       "added_at": null,
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 204069,
-      "name": "ME HACES FALTA",
-      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
     },
     {
       "added_at": null,

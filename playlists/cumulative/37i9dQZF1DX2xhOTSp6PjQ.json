@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Mshinwemali",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Sminofu",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -134,6 +134,32 @@
       "duration_ms": 260017,
       "name": "Akasangifuni",
       "url": "https://open.spotify.com/track/3gFgWXXr5TO2WI2ykUeSxi"
+    },
+    {
+      "album": {
+        "name": "KUYOBA UMLANDO",
+        "url": "https://open.spotify.com/album/00leJodB5XAJrT0Fvyqrrw"
+      },
+      "artists": [
+        {
+          "name": "TWO OCEAN",
+          "url": "https://open.spotify.com/artist/3XvgtYLREWdvmDdcx4KP1L"
+        },
+        {
+          "name": "JOZI NJOMANE",
+          "url": "https://open.spotify.com/artist/3R7o9B5JAzX1XbLblUEX14"
+        },
+        {
+          "name": "Londeka Shangase",
+          "url": "https://open.spotify.com/artist/6vmfqTLy0CzNoEi2QrPfgS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260310,
+      "name": "Akuqondani (feat. Londeka Shangase)",
+      "url": "https://open.spotify.com/track/5PO46i6DVSXl4kvk7jtzD2"
     },
     {
       "album": {
@@ -1746,7 +1772,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 289724,
       "name": "Imbali (feat. Shwi noMtekhala)",
       "url": "https://open.spotify.com/track/7r55BDG860Wm5XVxWGmOx4"
@@ -2050,7 +2076,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 298000,
       "name": "Indoda Enjani",
       "url": "https://open.spotify.com/track/2tNbE1V4pf0rLMKNOZFLMA"
@@ -5292,6 +5318,24 @@
       "duration_ms": 250546,
       "name": "Thuma mina baba",
       "url": "https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv"
+    },
+    {
+      "album": {
+        "name": "iTekisi",
+        "url": "https://open.spotify.com/album/0WcvW7hJWCFvf4lP6uKO9E"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/6zrSV6339hY4MjN9JoJ6cb"
     },
     {
       "album": {

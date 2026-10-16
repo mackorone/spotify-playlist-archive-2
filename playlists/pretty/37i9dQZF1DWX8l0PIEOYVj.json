@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring San Holo",
-  "num_followers": 473785,
+  "num_followers": 473783,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "We Survive",
+        "url": "https://open.spotify.com/album/5SgMAXg4QWmXumx1eHQ03w"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 210835,
+      "name": "We Survive",
+      "url": "https://open.spotify.com/track/4pJDJ9811yrn1MGkrW1Xdw"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 178285,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "We Survive",
-        "url": "https://open.spotify.com/album/5SgMAXg4QWmXumx1eHQ03w"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 210835,
-      "name": "We Survive",
-      "url": "https://open.spotify.com/track/4pJDJ9811yrn1MGkrW1Xdw"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Clara Park",
-          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "In The End",
         "url": "https://open.spotify.com/album/6lURFr4s4DoOGpXnkFIbn3"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 204666,
       "name": "In The End",
       "url": "https://open.spotify.com/track/5pt4hbLckWiwVDM9xcDG9D"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -1639,50 +1639,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Let It Go (feat. Nevve)",
-        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Let It Go (feat. Nevve)",
-      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Just A Mirage",
-        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "ILLUSIO",
-          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Just A Mirage",
-      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "New Home",
         "url": "https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa"
       },
@@ -1707,6 +1663,30 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Let It Go (feat. Nevve)",
+        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Let It Go (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 196233,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -2039,22 +2059,18 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+        "name": "Closer To The Sun",
+        "url": "https://open.spotify.com/album/0pm1naNljfu3t7ZBCKMqjT"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         }
       ],
-      "duration_ms": 196233,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+      "duration_ms": 173826,
+      "name": "Gotta Get To You",
+      "url": "https://open.spotify.com/track/1epssBNVhD0apfuap4qDI7"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2083,22 +2099,6 @@
       "duration_ms": 167403,
       "name": "Free",
       "url": "https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Closer To The Sun",
-        "url": "https://open.spotify.com/album/0pm1naNljfu3t7ZBCKMqjT"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        }
-      ],
-      "duration_ms": 173826,
-      "name": "Gotta Get To You",
-      "url": "https://open.spotify.com/track/1epssBNVhD0apfuap4qDI7"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
+      },
+      "artists": [
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "PART I - EXODUS",
         "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 214096,
       "name": "Colder",
       "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "ONLY U",
-        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
-      },
-      "artists": [
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "ONLY U",
-      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
+      },
+      "artists": [
+        {
+          "name": "Aye Bay",
+          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
+        },
+        {
+          "name": "ELLE",
+          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Miles From Home",
         "url": "https://open.spotify.com/album/4LmrGemhT0eR5LusWomTMk"
       },
@@ -2307,26 +2327,6 @@
       "duration_ms": 241548,
       "name": "Miles From Home",
       "url": "https://open.spotify.com/track/6lU6cq5kJc81K2quLJ8mtp"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
-      },
-      "artists": [
-        {
-          "name": "Aye Bay",
-          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
-        },
-        {
-          "name": "ELLE",
-          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2395,30 +2395,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
-        },
-        {
-          "name": "Stefan PVDS",
-          "url": "https://open.spotify.com/artist/3E2x6EOf4JvJp2gnxjYO6j"
-        }
-      ],
-      "duration_ms": 245620,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0vf786GQAdrGGHxbw4ohZg"
       },
@@ -2443,6 +2419,30 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Stefan PVDS",
+          "url": "https://open.spotify.com/artist/3E2x6EOf4JvJp2gnxjYO6j"
+        }
+      ],
+      "duration_ms": 245620,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
       },
@@ -2459,26 +2459,6 @@
       "duration_ms": 206047,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Who Am I Now",
-        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
-      },
-      "artists": [
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Who Am I Now",
-      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2503,6 +2483,26 @@
       "duration_ms": 271298,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/1YeNK6CZfTOjphogqF6ois"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Who Am I Now",
+        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Who Am I Now",
+      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2635,6 +2635,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Hold Onto Me",
         "url": "https://open.spotify.com/album/4vkuDbVU5e3XZPFB2Ax873"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 160000,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/4b6wQ8l2RvL6NklH6GDN8o"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2747,22 +2763,6 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2831,26 +2831,6 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Run To You",
-        "url": "https://open.spotify.com/album/23qIuKBlt9cdu15zgStaju"
-      },
-      "artists": [
-        {
-          "name": "CHPTR.",
-          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
-        },
-        {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/1hZ0phqPlhuC2isK7luDO4"
-    },
-    {
-      "added_at": "2026-10-09 04:01:58",
-      "album": {
         "name": "My Home",
         "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
       },
@@ -2867,6 +2847,26 @@
       "duration_ms": 177662,
       "name": "My Home",
       "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
+    },
+    {
+      "added_at": "2026-10-09 04:01:58",
+      "album": {
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/23qIuKBlt9cdu15zgStaju"
+      },
+      "artists": [
+        {
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/1hZ0phqPlhuC2isK7luDO4"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -2963,18 +2963,22 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "Always You",
-        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
       },
       "artists": [
         {
-          "name": "Monika Santucci",
-          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-10-09 04:01:58",
@@ -3027,22 +3031,18 @@
     {
       "added_at": "2026-10-09 04:01:58",
       "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
         }
       ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+      "duration_ms": 211200,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
     },
     {
       "added_at": "2026-10-09 04:01:58",

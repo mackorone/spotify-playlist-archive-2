@@ -4,7 +4,7 @@
 
 > JANAKI in cover della playlist dell'R&B italiano 🫀
 
-1,118 songs - 2 day 7 hr 6 min
+1,119 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Andiamo lontano](https://open.spotify.com/track/6epxNY4ColYTPqcFJH1t1J) | [Giulydx](https://open.spotify.com/artist/6zyixe1eiMtz1olS4BDOf5) | [Andiamo lontano](https://open.spotify.com/album/3a1Dni74rcQQQJ9al0cz6P) | 3:11 | 2025-11-27 | 2026-02-13 |
 | [Angeli](https://open.spotify.com/track/3qTBVHpP3r8hEPJsaSUdWn) | [Camaiani](https://open.spotify.com/artist/4KmFA2B3F3AipCFr7HYFXM) | [Non siamo soli](https://open.spotify.com/album/2DBJBniyrnSo7XhEZaBCKM) | 3:04 | 2026-07-02 |  |
 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 | 2022-10-13 | 2022-12-02 |
+| [Anime disperse](https://open.spotify.com/track/2nMPu1UWpc5XfFHdWYxKkj) | [Davide De Luca](https://open.spotify.com/artist/4ZddSTJRLFej3dy6bBynu6), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Anime disperse](https://open.spotify.com/album/4B5HpNQmcqdsSvbAoTM8ap) | 3:16 | 2026-10-15 |  |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [Annegare](https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Annegare](https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT) | 2:32 | 2024-05-02 | 2024-07-05 |
 | [ANNI '90](https://open.spotify.com/track/6AlO9krWeRcWkP3b9edxva) | [Miriam Ayaba](https://open.spotify.com/artist/7HuycvpoujiKhgEKkpfdaQ), [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [ANNI '90](https://open.spotify.com/album/6U8Xv6Ert5yaeyGtXZt1g1) | 3:32 | 2025-06-05 | 2025-07-04 |

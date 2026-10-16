@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 366079,
+  "num_followers": 366078,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "To Sir With Love",
-        "url": "https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3"
-      },
-      "artists": [
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "To Sir with Love",
-      "url": "https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Sound Of Love: The Very Best Of Darlene Love",
         "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166053,
       "name": "(Today I Met) The Boy I'm Gonna Marry",
       "url": "https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "To Sir With Love",
+        "url": "https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3"
+      },
+      "artists": [
+        {
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "To Sir with Love",
+      "url": "https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG"
     },
     {
       "added_at": "2024-06-03 14:49:59",

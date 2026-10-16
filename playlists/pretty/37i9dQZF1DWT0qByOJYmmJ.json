@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Luciano Daniel en portada. ",
-  "num_followers": 626871,
+  "num_followers": 626861,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-02 06:00:24",
       "album": {
-        "name": "No es normal (Versi\u00f3n Sierre\u00f1o)",
-        "url": "https://open.spotify.com/album/7ccZ24hiMFP4e1cqmWCUIS"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        }
-      ],
-      "duration_ms": 205932,
-      "name": "No es normal - Versi\u00f3n Sierre\u00f1o",
-      "url": "https://open.spotify.com/track/4b6sv202GMFAv3Zsy1da0R"
-    },
-    {
-      "added_at": "2026-10-02 06:00:24",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 242000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG"
+    },
+    {
+      "added_at": "2026-10-02 06:00:24",
+      "album": {
+        "name": "No es normal (Versi\u00f3n Sierre\u00f1o)",
+        "url": "https://open.spotify.com/album/7ccZ24hiMFP4e1cqmWCUIS"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "duration_ms": 205932,
+      "name": "No es normal - Versi\u00f3n Sierre\u00f1o",
+      "url": "https://open.spotify.com/track/4b6sv202GMFAv3Zsy1da0R"
     },
     {
       "added_at": "2026-10-02 06:00:24",

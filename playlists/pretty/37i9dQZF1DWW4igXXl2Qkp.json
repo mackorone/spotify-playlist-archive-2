@@ -1,18 +1,34 @@
 {
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Raud",
-  "num_followers": 295655,
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Johnny Slime",
+  "num_followers": 295756,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWfDO6K+Y0Uvsc23ibnE/YxeB9T",
+  "snapshot_id": "AAAAAKeas1EHHzVEoeP5SUa7VTlZKPj2",
   "tracks": [
     {
-      "added_at": "2026-10-08 20:39:24",
+      "added_at": "2026-10-15 17:35:21",
       "album": {
-        "name": "Boppin It",
-        "url": "https://open.spotify.com/album/4JKtwJazIpz4qKZPcgu0Cw"
+        "name": "Need 4 Speed",
+        "url": "https://open.spotify.com/album/6SnayJnGXTxC2zDOiGU1Ro"
+      },
+      "artists": [
+        {
+          "name": "Johnny Slime",
+          "url": "https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Need 4 Speed",
+      "url": "https://open.spotify.com/track/3VotbpH3LdsB0SitbMVW8N"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "Acting Like You Kanye",
+        "url": "https://open.spotify.com/album/4feZSrwcYQmTxHcQWvEeYf"
       },
       "artists": [
         {
@@ -20,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7"
         }
       ],
-      "duration_ms": 196848,
-      "name": "Boppin It",
-      "url": "https://open.spotify.com/track/2wWfoGuXPRsLHpoCdhz8xB"
+      "duration_ms": 95112,
+      "name": "Acting Like You Kanye",
+      "url": "https://open.spotify.com/track/0a1SVxFIghCTo0TynJn2rG"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/67equBMZP0lKaPAY0HivB4"
     },
     {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "BUNK",
+        "url": "https://open.spotify.com/album/5dq2DpY9osvpzoRjTko6vG"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        }
+      ],
+      "duration_ms": 140754,
+      "name": "BUNK",
+      "url": "https://open.spotify.com/track/3jU9KYS2RPPUKaVPBAf7Xk"
+    },
+    {
       "added_at": "2026-10-08 20:39:24",
       "album": {
         "name": "fun wit",
@@ -55,6 +87,22 @@
       "duration_ms": 166138,
       "name": "fun wit",
       "url": "https://open.spotify.com/track/69rGqcHlyQnhS9lDvc5hz9"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "Lil Bit",
+        "url": "https://open.spotify.com/album/3c8qnvaMvocx96OuQRIN0b"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "duration_ms": 133668,
+      "name": "Lil Bit",
+      "url": "https://open.spotify.com/track/2AAODIzIg1xWC1btjIVUAK"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -179,22 +227,6 @@
     {
       "added_at": "2026-10-08 20:39:24",
       "album": {
-        "name": "opened gates",
-        "url": "https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w"
-      },
-      "artists": [
-        {
-          "name": "Mark Lux",
-          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "on point",
-      "url": "https://open.spotify.com/track/0vVh4v2pZITlNiYhPIQhlZ"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
         "name": "Sey Mami",
         "url": "https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr"
       },
@@ -211,22 +243,6 @@
     {
       "added_at": "2026-10-08 20:39:24",
       "album": {
-        "name": "Vibin",
-        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
-      },
-      "artists": [
-        {
-          "name": "Wxoda",
-          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
-        }
-      ],
-      "duration_ms": 94615,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
         "name": "More To The Story",
         "url": "https://open.spotify.com/album/1Ntb0BRE8N7bJmPRBZ1Rhx"
       },
@@ -239,6 +255,46 @@
       "duration_ms": 93428,
       "name": "Cedric",
       "url": "https://open.spotify.com/track/4utTUtCNx1Ok7uG8XkP8Py"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "Dead Living",
+        "url": "https://open.spotify.com/album/1X0vrCDXklbbiBNpJRp53d"
+      },
+      "artists": [
+        {
+          "name": "Big Yba",
+          "url": "https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p"
+        },
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "duration_ms": 135915,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/1PFiFIf2kQZM6X3KK8J8ue"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "Why So Much Hate",
+        "url": "https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor"
+      },
+      "artists": [
+        {
+          "name": "Judah Weston",
+          "url": "https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX"
+        },
+        {
+          "name": "IsoKeys",
+          "url": "https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm"
+        }
+      ],
+      "duration_ms": 106032,
+      "name": "RA TA DIA",
+      "url": "https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -275,6 +331,22 @@
       "duration_ms": 182571,
       "name": "Bae Please [Remix]",
       "url": "https://open.spotify.com/track/0ETXcXvxt8kiDA0bexLHvw"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "Just Call Me Trap",
+        "url": "https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -435,42 +507,6 @@
     {
       "added_at": "2026-10-08 20:39:24",
       "album": {
-        "name": "Literally Doe",
-        "url": "https://open.spotify.com/album/5xmWlklFLEue1Fx3tY1xjs"
-      },
-      "artists": [
-        {
-          "name": "1up Tee",
-          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Literally Doe",
-      "url": "https://open.spotify.com/track/4Apwb0CmqWn00TMzjqMyaA"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
-        "name": "Disrespectfully",
-        "url": "https://open.spotify.com/album/2839n7epDNb9VzTkw74VaT"
-      },
-      "artists": [
-        {
-          "name": "bdifferent",
-          "url": "https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG"
-        },
-        {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        }
-      ],
-      "duration_ms": 207884,
-      "name": "Disrespectfully",
-      "url": "https://open.spotify.com/track/0xaAbHucphA5pb68eGW3Mp"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
         "name": "ROPE BURN",
         "url": "https://open.spotify.com/album/0GteknooF28InvAmZjGUx9"
       },
@@ -627,6 +663,26 @@
       "duration_ms": 89208,
       "name": "baby K",
       "url": "https://open.spotify.com/track/64ymc1luMokPgd8PZ1lI4F"
+    },
+    {
+      "added_at": "2026-10-15 17:35:21",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/1DYr8PLvud7I9Kv9jBZ5Ig"
+      },
+      "artists": [
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 153128,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/2EBDAuH1m4lBO54iJ3yHUl"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -923,22 +979,22 @@
     {
       "added_at": "2026-10-08 20:39:24",
       "album": {
-        "name": "PANE",
-        "url": "https://open.spotify.com/album/6PqnLC0meYSbuUslW4KeAi"
+        "name": "Disrespectfully",
+        "url": "https://open.spotify.com/album/2839n7epDNb9VzTkw74VaT"
       },
       "artists": [
         {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+          "name": "bdifferent",
+          "url": "https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG"
         },
         {
-          "name": "Self Proclaimed Narcissist",
-          "url": "https://open.spotify.com/artist/3j1FgqQv1HbfkuUrpMo0yp"
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
         }
       ],
-      "duration_ms": 157527,
-      "name": "PANE",
-      "url": "https://open.spotify.com/track/10o3WKLDyAhK7R8c4xIwH7"
+      "duration_ms": 207884,
+      "name": "Disrespectfully",
+      "url": "https://open.spotify.com/track/0xaAbHucphA5pb68eGW3Mp"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -975,22 +1031,6 @@
       "duration_ms": 133397,
       "name": "QUESTION MARK",
       "url": "https://open.spotify.com/track/1Cj9aavb9FbU51SjxXhl7g"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
-        "name": "TRUIST",
-        "url": "https://open.spotify.com/album/3V5MB8hQZQdvWEEJWsH2NA"
-      },
-      "artists": [
-        {
-          "name": "Shaudie Man",
-          "url": "https://open.spotify.com/artist/1MPNKNARfonIxUk1GXsEKx"
-        }
-      ],
-      "duration_ms": 184690,
-      "name": "T R U I S T",
-      "url": "https://open.spotify.com/track/1eSB69HilumiISGjVkjDMg"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -1083,26 +1123,6 @@
       "duration_ms": 97462,
       "name": "Bad Shit",
       "url": "https://open.spotify.com/track/40hgCwfD4ororMjvpYkfOv"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
-        "name": "Finessin Distribution Deals",
-        "url": "https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96"
-      },
-      "artists": [
-        {
-          "name": "Fox BD",
-          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 111960,
-      "name": "Seals Dekline",
-      "url": "https://open.spotify.com/track/14yrYGuktJmH9llt2uyQhH"
     },
     {
       "added_at": "2026-10-08 20:39:24",
@@ -1427,26 +1447,6 @@
       "duration_ms": 156471,
       "name": "Make It Look Sexy",
       "url": "https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh"
-    },
-    {
-      "added_at": "2026-10-08 20:39:24",
-      "album": {
-        "name": "#1 Trap Pick",
-        "url": "https://open.spotify.com/album/5KOXMWQZshaItuetrOuUpm"
-      },
-      "artists": [
-        {
-          "name": "Fatt Macc",
-          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
-        },
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "Met The Plug",
-      "url": "https://open.spotify.com/track/26edv2UUCuUQSet16uBrwo"
     },
     {
       "added_at": "2026-10-08 20:39:24",

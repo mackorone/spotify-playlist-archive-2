@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
-  "num_followers": 218495,
+  "num_followers": 218568,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGhLwrwb0IpZ5XiHdeQ1ejzywdT",
+  "snapshot_id": "AAAAADvfz7nsUGlSPLZ3BqodktaE5LNj",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:02",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "People Are Angry (DPMO)",
+        "url": "https://open.spotify.com/album/6zAfEdVFMjmCToho2FarZH"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "duration_ms": 243582,
+      "name": "People Are Angry (DPMO)",
+      "url": "https://open.spotify.com/track/2GldOS8ieY71YHIB1g4CwH"
+    },
+    {
       "added_at": "2026-09-18 04:02:35",
       "album": {
         "name": "ROCK THE DISCO",
@@ -45,6 +61,42 @@
       "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
     },
     {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "the wash",
+        "url": "https://open.spotify.com/album/0WyGlLwRg0dNZ6IpX25GJv"
+      },
+      "artists": [
+        {
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "the wash",
+      "url": "https://open.spotify.com/track/2uaK3EiYXxt3ovJvjBfVBL"
+    },
+    {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "Only one",
+        "url": "https://open.spotify.com/album/3p81u2wL3Bl7hoNDRvexSy"
+      },
+      "artists": [
+        {
+          "name": "phritz",
+          "url": "https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt"
+        },
+        {
+          "name": "Jukaa",
+          "url": "https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Only one",
+      "url": "https://open.spotify.com/track/2UbOssp0YwkiL73JTAJUd4"
+    },
+    {
       "added_at": "2026-09-17 01:08:14",
       "album": {
         "name": "The Arrival",
@@ -59,6 +111,22 @@
       "duration_ms": 211363,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/2Pwk40xHfMDwbJCYg5bOYl"
+      },
+      "artists": [
+        {
+          "name": "SLESS",
+          "url": "https://open.spotify.com/artist/3S0eOpa13f24tV5Lv7yOX9"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0Bk6nb5Doj8zyQ6Mpn8TBx"
     },
     {
       "added_at": "2026-10-07 04:00:12",
@@ -91,6 +159,26 @@
       "duration_ms": 194558,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/6vzBjc6Ea6EkPwfNwgMUUx"
+    },
+    {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "D Da Tira",
+        "url": "https://open.spotify.com/album/7kEGCgEDnoftKyLOz4MYUG"
+      },
+      "artists": [
+        {
+          "name": "Sonju",
+          "url": "https://open.spotify.com/artist/3ENtzbEOqdtfOnFSb0R16d"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "D Da Tira",
+      "url": "https://open.spotify.com/track/4yKxNxgj9RwdiorNpoQY44"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -129,22 +217,6 @@
       "url": "https://open.spotify.com/track/5Xe55KTe3nE8iy9ocTAT8U"
     },
     {
-      "added_at": "2026-10-07 04:00:12",
-      "album": {
-        "name": "Can't Define",
-        "url": "https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR"
-      },
-      "artists": [
-        {
-          "name": "AUGUXT",
-          "url": "https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Can't Define",
-      "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
-    },
-    {
       "added_at": "2026-10-01 04:34:51",
       "album": {
         "name": "i like what i see",
@@ -159,6 +231,42 @@
       "duration_ms": 158906,
       "name": "i like what i see",
       "url": "https://open.spotify.com/track/1NBv7FQrdPomUgceVWawKX"
+    },
+    {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "nerd is cool and funky",
+        "url": "https://open.spotify.com/album/6O8J3SZYvx82CxjpivVM1U"
+      },
+      "artists": [
+        {
+          "name": "Falsetti",
+          "url": "https://open.spotify.com/artist/1U0t9ehO7sK0r9GKDun7bJ"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "fallin' (feat. fenoaltea)",
+      "url": "https://open.spotify.com/track/1PK796wm83a7NnwpblVIO5"
+    },
+    {
+      "added_at": "2026-10-07 04:00:12",
+      "album": {
+        "name": "Can't Define",
+        "url": "https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR"
+      },
+      "artists": [
+        {
+          "name": "AUGUXT",
+          "url": "https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Can't Define",
+      "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
     },
     {
       "added_at": "2026-10-09 04:02:02",
@@ -893,38 +1001,6 @@
       "url": "https://open.spotify.com/track/0M1pZHTJEJOIou6Tutsq4p"
     },
     {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/33WjG1aG4yDsx06dcDuYWb"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9",
-          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/2CvD086JNMQLeDrWRTIXrI"
-    },
-    {
-      "added_at": "2026-09-04 04:01:34",
-      "album": {
-        "name": "LR002",
-        "url": "https://open.spotify.com/album/5cSCgi8BzuZlCKbX7ubQhj"
-      },
-      "artists": [
-        {
-          "name": "Larry Latenight",
-          "url": "https://open.spotify.com/artist/23wFOj7b7mywwkpPOAUjZf"
-        }
-      ],
-      "duration_ms": 288033,
-      "name": "The Bug",
-      "url": "https://open.spotify.com/track/0KDMGlT9H2q0CAkCURtR33"
-    },
-    {
       "added_at": "2026-07-31 04:02:23",
       "album": {
         "name": "MEDIA DOME",
@@ -973,90 +1049,6 @@
       "url": "https://open.spotify.com/track/0KmKxHrCsLK5yJtNWBxSX7"
     },
     {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Dancing With The Unknown",
-        "url": "https://open.spotify.com/album/2sRKHWY18joMLcf1PtEgDB"
-      },
-      "artists": [
-        {
-          "name": "Blossom Hill",
-          "url": "https://open.spotify.com/artist/1XDRiF92Udd46NuFLTKnIb"
-        },
-        {
-          "name": "aint about me",
-          "url": "https://open.spotify.com/artist/0pRD3uRIaAwqUvvD1lOkMK"
-        }
-      ],
-      "duration_ms": 228632,
-      "name": "Dancing With The Unknown",
-      "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "CATCH YA",
-        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
-      },
-      "artists": [
-        {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
-        }
-      ],
-      "duration_ms": 211775,
-      "name": "CATCH YA",
-      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "Bring That Beat Back EP",
-        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
-      },
-      "artists": [
-        {
-          "name": "AMMIL",
-          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Bring That Beat Back",
-      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/2TRhWuDOHZWfrZ5zzPD0EX"
-      },
-      "artists": [
-        {
-          "name": "Lover1k",
-          "url": "https://open.spotify.com/artist/77efs8tCHubvpIe3kVO2xK"
-        }
-      ],
-      "duration_ms": 167260,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/6lKU5z4ArKo235u0A6l5O9"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "STRICTLY 4 MY UNCS",
-        "url": "https://open.spotify.com/album/4hPKQKWcKYjZgdOm3CReC6"
-      },
-      "artists": [
-        {
-          "name": "DJ Young Brown",
-          "url": "https://open.spotify.com/artist/6gQYKDgb1lC8aZLNh5yN0H"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "PUT UR ASS IN DA AIR",
-      "url": "https://open.spotify.com/track/3U6fC3lXQ1Tc7taKmWIujJ"
-    },
-    {
       "added_at": "2026-08-19 21:18:18",
       "album": {
         "name": "C\u00c1LLATE",
@@ -1075,22 +1067,6 @@
       "duration_ms": 173700,
       "name": "C\u00c1LLATE",
       "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "Let It Go (Breathe)",
-        "url": "https://open.spotify.com/album/2MR1vnlnVu39lVPa4oXHdo"
-      },
-      "artists": [
-        {
-          "name": "MBALLA",
-          "url": "https://open.spotify.com/artist/7DvbzchNOQYsovNPGebdy1"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Let It Go (Breathe)",
-      "url": "https://open.spotify.com/track/4Wm8OqvY5K5LebhcFtWr7G"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -1123,46 +1099,6 @@
       "duration_ms": 175805,
       "name": "SO HYPE",
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/2tTZUDN2PX4QVlzCAuInEY"
-      },
-      "artists": [
-        {
-          "name": "Luca vd Hombergh",
-          "url": "https://open.spotify.com/artist/4qe6SfEaJUAm0CF2oyFdcd"
-        },
-        {
-          "name": "Jim Jonathan",
-          "url": "https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/52E7m3eNN4aznvlYiM1s5b"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "HOLDING ON",
-        "url": "https://open.spotify.com/album/3D98AFvYg4yXwNWbaPDxco"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
-        },
-        {
-          "name": "Bo Saero",
-          "url": "https://open.spotify.com/artist/5zz6gUQ7mVWhi5aBsAACtu"
-        }
-      ],
-      "duration_ms": 164543,
-      "name": "HOLDING ON",
-      "url": "https://open.spotify.com/track/17wru9AsJVNgUaEFlLyMwk"
     },
     {
       "added_at": "2026-07-23 04:00:10",
@@ -1215,26 +1151,6 @@
       "duration_ms": 196751,
       "name": "Casa Ponte",
       "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
-    },
-    {
-      "added_at": "2026-06-18 00:12:59",
-      "album": {
-        "name": "Disco Baile (Radio Edit)",
-        "url": "https://open.spotify.com/album/30i6Ah0BZNo9mDJ5TJRTGP"
-      },
-      "artists": [
-        {
-          "name": "Akalex",
-          "url": "https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Disco Baile - Radio Edit",
-      "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
     },
     {
       "added_at": "2026-05-15 04:01:46",

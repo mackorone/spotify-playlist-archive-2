@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQNh0sESvhglDdsvjgggpaLzMY4NxV",
+  "snapshot_id": "AAAQOJRv8W/rN0Koccd943z4O8vUjpH/",
   "tracks": [
     {
       "added_at": "2026-07-23 12:25:41",
@@ -1327,6 +1327,38 @@
       "duration_ms": 215604,
       "name": "long road",
       "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
+    },
+    {
+      "added_at": "2026-10-15 07:28:28",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 196474,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ"
+    },
+    {
+      "added_at": "2026-10-15 07:29:09",
+      "album": {
+        "name": "Fear of Isolation",
+        "url": "https://open.spotify.com/album/0LoLbU30mKbb1CgNMQ3Tvy"
+      },
+      "artists": [
+        {
+          "name": "Jfarrari",
+          "url": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+        }
+      ],
+      "duration_ms": 152849,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

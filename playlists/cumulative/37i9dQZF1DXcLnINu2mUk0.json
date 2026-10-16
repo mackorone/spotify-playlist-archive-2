@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay, Deejay Telio",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
   "name": "Seda",
   "tracks": [
     {
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 167906,
       "name": "Carol ou Xavi",
       "url": "https://open.spotify.com/track/1tO880MhhB3xg38v8GmFIN"
@@ -4534,6 +4534,28 @@
       "duration_ms": 206400,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP"
+    },
+    {
+      "album": {
+        "name": "Deixa-me Ser Casa (feat. Archie)",
+        "url": "https://open.spotify.com/album/41hufIpSh1fGhUdqQ4Fk6P"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        },
+        {
+          "name": "Archie",
+          "url": "https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135848,
+      "name": "Deixa-me Ser Casa (feat. Archie)",
+      "url": "https://open.spotify.com/track/3qFfJ2YBawWblXWBcAHPwa"
     },
     {
       "album": {
@@ -8606,7 +8628,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 204521,
       "name": "J\u00c1 T\u00c1 TARDE",
       "url": "https://open.spotify.com/track/2eUL8ZydJ3j3D2fNheqxuI"
@@ -9514,6 +9536,28 @@
       "duration_ms": 167715,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2vChrIVuHYKKyeWsgTJXq3"
+    },
+    {
+      "album": {
+        "name": "Modo Voo",
+        "url": "https://open.spotify.com/album/2oHv50XvZW3IXeTdv4c2Qh"
+      },
+      "artists": [
+        {
+          "name": "Valle",
+          "url": "https://open.spotify.com/artist/1ezLRigpJFQvYbXVRv7hOf"
+        },
+        {
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186366,
+      "name": "lutamos (feat. Harold)",
+      "url": "https://open.spotify.com/track/7pBE0pBAxSiE3uTXymiJu0"
     },
     {
       "album": {
@@ -10758,7 +10802,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194655,
       "name": "M\u00e3o de Sonhos",
       "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
@@ -11328,7 +11372,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166736,
       "name": "no brilho dos teus olhos",
       "url": "https://open.spotify.com/track/1qoR3WWjbgpDelk5jwC16d"
@@ -13098,7 +13142,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173142,
       "name": "Pensamentos",
       "url": "https://open.spotify.com/track/3GCPnJyIkr5wPs4PvdH3j1"
@@ -13946,7 +13990,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Quem Tem O Teu <3",
       "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
@@ -15536,6 +15580,60 @@
       "duration_ms": 172229,
       "name": "Ser\u00e1 Que Sentes",
       "url": "https://open.spotify.com/track/2XeXwzaBmXXHq2yQvvvqJE"
+    },
+    {
+      "album": {
+        "name": "Set Do Black Spygo Vol.2",
+        "url": "https://open.spotify.com/album/603eL3sEFGT6HoXBASoyOR"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        },
+        {
+          "name": "Nilton CM",
+          "url": "https://open.spotify.com/artist/4konJYmhNGaurONrcE9JMp"
+        },
+        {
+          "name": "Lil Saint",
+          "url": "https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4"
+        },
+        {
+          "name": "Xuxu Bower",
+          "url": "https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Kelson Most Wanted",
+          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
+        },
+        {
+          "name": "Yara Nunes",
+          "url": "https://open.spotify.com/artist/1rJpObsPpR6v9L61V95qok"
+        },
+        {
+          "name": "Eudreezy",
+          "url": "https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24"
+        },
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458666,
+      "name": "Set Do Black Spygo Vol.2 - \"Teu Nome\"",
+      "url": "https://open.spotify.com/track/2ie2w6zRuo3aP1UbTntVZb"
     },
     {
       "album": {

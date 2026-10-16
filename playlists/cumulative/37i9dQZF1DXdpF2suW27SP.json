@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Plutonio entra na zona. ",
+  "description": "Dezinho entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -5741,6 +5741,28 @@
     },
     {
       "album": {
+        "name": "\u00c2ncora",
+        "url": "https://open.spotify.com/album/3Xrs8UF2HgESblNglSNY8e"
+      },
+      "artists": [
+        {
+          "name": "12FUROS",
+          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
+        },
+        {
+          "name": "Nella Tavar",
+          "url": "https://open.spotify.com/artist/3Hs45GthcxEouELLKrkxaN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191431,
+      "name": "De Gang",
+      "url": "https://open.spotify.com/track/5yZY9IspgIKkWrqqmGQcf3"
+    },
+    {
+      "album": {
         "name": "DE LADO",
         "url": "https://open.spotify.com/album/4GJnHocZBHtTatzlE0pVGy"
       },
@@ -8696,7 +8718,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 225090,
       "name": "GATA",
       "url": "https://open.spotify.com/track/2jKF0jWTDa7FnI5W0CycAW"
@@ -9938,6 +9960,32 @@
       "duration_ms": 158658,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/2ATBdjH7OgwAryeowwlIXD"
+    },
+    {
+      "album": {
+        "name": "JACQUEMUS (feat. Mulatooh, Zara G)",
+        "url": "https://open.spotify.com/album/33m4OASvnjprIz1K8eDxEy"
+      },
+      "artists": [
+        {
+          "name": "Kev",
+          "url": "https://open.spotify.com/artist/5S532HeObKcDVrq2DnicTU"
+        },
+        {
+          "name": "Mulatooh",
+          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
+        },
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "JACQUEMUS (feat. Mulatooh, Zara G)",
+      "url": "https://open.spotify.com/track/0MQRF32KYCMdhrlVk9RK2a"
     },
     {
       "album": {
@@ -12512,7 +12560,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 158000,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/2jc2xZlXwjeAKoDkZB5Ykx"
@@ -14164,7 +14212,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194117,
       "name": "N\u00c3O D\u00c1",
       "url": "https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO"
@@ -20829,6 +20877,24 @@
     },
     {
       "album": {
+        "name": "Tutto Passa II",
+        "url": "https://open.spotify.com/album/2rP1Hl71QDZ9SMRXLHD2ps"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tutto Passa II",
+      "url": "https://open.spotify.com/track/0Ulolx8MoTh8txlEV4dl7Z"
+    },
+    {
+      "album": {
         "name": "T\u00e1 Puxar",
         "url": "https://open.spotify.com/album/2V18vWXp8hVt2eZM7rBCjT"
       },
@@ -22632,7 +22698,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190843,
       "name": "\u2060OLHOS VERMELHOS",
       "url": "https://open.spotify.com/track/1eB74qephHbpTmeII7HIFG"

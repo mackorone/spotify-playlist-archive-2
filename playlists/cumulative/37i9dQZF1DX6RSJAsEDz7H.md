@@ -4,7 +4,7 @@
 
 > Listen to all the music from Grand Theft Auto VI, out Nov 19.
 
-246 songs - 16 hr 47 min
+247 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Family Man](https://open.spotify.com/track/1k0d9o21xYWWLFck0NpX9H) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Rock 'N Soul, Part 1 \(Expanded Edition\)](https://open.spotify.com/album/59SwH7Ez6Gztywrcnvmx6n) | 3:25 | 2021-11-17 | 2022-11-13 |
 | [Family Man](https://open.spotify.com/track/4iET2VSSZ60K8S77FQRPGS) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/5nDQAU3K52JimAaShsZoSn) | 3:25 | 2021-11-17 | 2026-09-18 |
 | [Flash](https://open.spotify.com/track/2L9BBx9601VBbqTdVNtvPC) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Move With Me](https://open.spotify.com/album/3TBMoRfijzhUpcO9Rt4fNf) | 5:13 | 2021-11-17 | 2026-09-18 |
+| [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 | 2026-10-15 |  |
 | [Garbage](https://open.spotify.com/track/03Z9Xiu6te6MbMRlICuDGL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 3:28 | 2021-11-17 | 2026-09-18 |
 | [Garbage](https://open.spotify.com/track/10s2eN17PASGcpyuBgdr0G) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 3:28 | 2021-11-17 | 2024-04-19 |
 | [Get Innocuous!](https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:11 | 2021-11-17 | 2026-09-18 |

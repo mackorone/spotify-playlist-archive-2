@@ -4,7 +4,7 @@
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-155 songs - 8 hr 19 min
+156 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-06-19 | 2026-07-25 |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-12-08 | 2025-02-15 |
 | [Elle me dit](https://open.spotify.com/track/2CFGQXM3exBO8U9WGve2GY) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love \(Deluxe\)](https://open.spotify.com/album/0zY3JRYHC0rycbFUqGcRpV) | 3:36 | 2024-01-02 | 2024-10-02 |
-| [ENCORE & ENCORE \(From the movie "Pat'Patrouille : Mission Dino"\)](https://open.spotify.com/track/74wTf1aKDvp6fmy8PNfN0P) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [ENCORE & ENCORE \(From the movie "Pat'Patrouille : Mission Dino"\)](https://open.spotify.com/album/2b9NcHBuyZwquX7QcZu1E3) | 2:29 | 2026-08-21 |  |
+| [ENCORE & ENCORE \(From the movie "Pat'Patrouille : Mission Dino"\)](https://open.spotify.com/track/74wTf1aKDvp6fmy8PNfN0P) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [ENCORE & ENCORE \(From the movie "Pat'Patrouille : Mission Dino"\)](https://open.spotify.com/album/2b9NcHBuyZwquX7QcZu1E3) | 2:29 | 2026-08-21 | 2026-10-16 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2025-03-28 |  |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2024-03-04 | 2025-02-15 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-07-27 |  |
@@ -163,5 +163,6 @@
 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 | 2025-08-28 |  |
 | [YAPAQUE](https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [YAPAQUE](https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v) | 3:57 | 2026-08-21 |  |
 | [Zoo \- De "Zootopie 2"](https://open.spotify.com/track/196bJODAhGxwCP9oWAXlK1) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(De "Zootopie 2"\)](https://open.spotify.com/album/6CZJZ0gOiPcqGni1BRjJWN) | 3:10 | 2025-12-19 |  |
+| [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-10-15 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

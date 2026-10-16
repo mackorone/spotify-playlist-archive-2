@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 202421,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
@@ -6564,6 +6564,28 @@
       "duration_ms": 262711,
       "name": "GLU",
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
+    },
+    {
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "album": {
@@ -15383,6 +15405,24 @@
     },
     {
       "album": {
+        "name": "SDF (SO DAMN FINE)",
+        "url": "https://open.spotify.com/album/5wRKlRhqRXZG3ywRDz5Jl2"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "SDF (SO DAMN FINE)",
+      "url": "https://open.spotify.com/track/58Qf0DEvNQvH2bFjkLC4Wv"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
       },
@@ -16027,6 +16067,24 @@
     },
     {
       "album": {
+        "name": "Internet Age",
+        "url": "https://open.spotify.com/album/6yLsgX8LDYzcxVv0DG82wl"
+      },
+      "artists": [
+        {
+          "name": "Wapo",
+          "url": "https://open.spotify.com/artist/7bsdZxG79PZ5aFeubDD13H"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Skin - Acoustic",
+      "url": "https://open.spotify.com/track/65EHoz4zqBEjL9z6P6VfNm"
+    },
+    {
+      "album": {
         "name": "SLIDE",
         "url": "https://open.spotify.com/album/7clZsZOQ9lN2MAz0hykvW9"
       },
@@ -16622,7 +16680,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193672,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
@@ -17298,7 +17356,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140000,
       "name": "SUNSET IN PARIS",
       "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"

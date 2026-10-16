@@ -33250,6 +33250,24 @@
     {
       "album": {
         "name": "With You",
+        "url": "https://open.spotify.com/album/595fpKM2TAP5iyn8GQ8Xm8"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5lVxzByzaIK07EMKKz2pTp"
+    },
+    {
+      "album": {
+        "name": "With You",
         "url": "https://open.spotify.com/album/2iSoiCWE5fytEqicLRk3FS"
       },
       "artists": [

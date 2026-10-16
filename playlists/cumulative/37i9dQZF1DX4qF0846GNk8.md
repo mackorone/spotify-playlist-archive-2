@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
+> أجمد المهرجانات في مصر! الغلاف: اسلام كابونجا
 
-410 songs - 1 day 1 hr 31 min
+411 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [الصبر طيب يا عيوني](https://open.spotify.com/track/6MlfIdyeZRo0yRWIvMojGQ) | [فرامل](https://open.spotify.com/artist/6xLqSnm62lhtPR82fNG0uT) | [الصبر طيب يا عيوني](https://open.spotify.com/album/091A89Fi8UwATSmL97THJ8) | 3:26 | 2023-06-16 | 2023-08-09 |
 | [الصدارة بيتى](https://open.spotify.com/track/1qQoYkAVwP0PjSqgKgqaHG) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [الصدارة بيتى](https://open.spotify.com/album/52c3EJQaWAsE0GR4HVvclK) | 3:24 | 2026-05-05 | 2026-08-25 |
 | [الضهر و السند اتحبسو](https://open.spotify.com/track/1dCsdA218qS3AyW5Vn3HGc) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [الضهر و السند اتحبسو](https://open.spotify.com/album/3arCqAEdsTVgqLMABriSZw) | 3:58 | 2023-05-30 | 2023-06-22 |
+| [العركة بدأت تاك تاك](https://open.spotify.com/track/5PXjcBjSOGdjkGFEqgcqfK) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [العركة بدأت تاك تاك](https://open.spotify.com/album/22fB0htKOOfulV1k5o6vi1) | 4:10 | 2026-10-15 |  |
 | [العركه بدأت تاكا تاكا](https://open.spotify.com/track/110lbwge8fUNhKhg2yKeSt) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [العركه بدأت تاكا تاكا](https://open.spotify.com/album/2TpRuNCc7R2v8eC04ypeHa) | 5:33 | 2026-09-08 |  |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-07 | 2026-03-26 |
 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 | 2024-06-11 |  |

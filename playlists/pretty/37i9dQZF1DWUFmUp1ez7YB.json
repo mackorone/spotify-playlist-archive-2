@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Willie Col\u00f3n\n",
-  "num_followers": 1148812,
+  "num_followers": 1148980,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2026-10-05 22:10:01",
       "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Harlow",
-          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
-        },
-        {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        },
-        {
-          "name": "Junior Gonzalez",
-          "url": "https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY"
-        }
-      ],
-      "duration_ms": 386853,
-      "name": "La Cartera",
-      "url": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N"
-    },
-    {
-      "added_at": "2026-10-05 22:10:01",
-      "album": {
         "name": "Probablemente",
         "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 354093,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+    },
+    {
+      "added_at": "2026-10-05 22:10:01",
+      "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Junior Gonzalez",
+          "url": "https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY"
+        }
+      ],
+      "duration_ms": 386853,
+      "name": "La Cartera",
+      "url": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N"
     },
     {
       "added_at": "2026-10-05 22:10:01",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-10-05 22:10:01",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
-    },
-    {
-      "added_at": "2026-10-05 22:10:01",
-      "album": {
         "name": "Y No Hay M\u00e1s Na",
         "url": "https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 353253,
       "name": "Coraz\u00f3n Embusteros",
       "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
+    },
+    {
+      "added_at": "2026-10-05 22:10:01",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
     },
     {
       "added_at": "2026-10-05 22:10:01",

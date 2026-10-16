@@ -1337,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Anime disperse",
+        "url": "https://open.spotify.com/album/4B5HpNQmcqdsSvbAoTM8ap"
+      },
+      "artists": [
+        {
+          "name": "Davide De Luca",
+          "url": "https://open.spotify.com/artist/4ZddSTJRLFej3dy6bBynu6"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196241,
+      "name": "Anime disperse",
+      "url": "https://open.spotify.com/track/2nMPu1UWpc5XfFHdWYxKkj"
+    },
+    {
+      "album": {
         "name": "Anime Gemelle",
         "url": "https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB"
       },

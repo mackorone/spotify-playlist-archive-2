@@ -1,12 +1,12 @@
 {
   "description": "This is R\u00dcF\u00dcS DU SOL. The essential tracks, all in one playlist.",
-  "num_followers": 518709,
+  "num_followers": 518870,
   "original_name": "This Is R\u00dcF\u00dcS DU SOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAADrXa1d0XL3CzcdepdMj7mQ",
+  "snapshot_id": "as7GAAAAAAA6x5kCgwPbRDEBK323nQp+",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 260500,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/5LT4Fu3zeihIMVxKbDCN8I"
+      "duration_ms": 448800,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/5LT4Fu3zeihIMVxKbDCN8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -282,27 +298,15 @@
         {
           "name": "R\u00dcF\u00dcS DU SOL",
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 448800,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
+        },
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 281084,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ"
+      "duration_ms": 336693,
+      "name": "Surrender (feat. Curtis Harding)",
+      "url": "https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1"
     },
     {
       "added_at": null,
@@ -319,6 +323,22 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 281084,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ"
     },
     {
       "added_at": null,
@@ -346,31 +366,11 @@
         {
           "name": "R\u00dcF\u00dcS DU SOL",
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 336693,
-      "name": "Surrender (feat. Curtis Harding)",
-      "url": "https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ"
+      "duration_ms": 312120,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
       "duration_ms": 181960,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1qMGujcR5TWGxvCismyc6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ"
     },
     {
       "added_at": null,
@@ -416,25 +432,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 312120,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 325000,
-      "name": "Desert Night",
-      "url": "https://open.spotify.com/track/3absRUCrN1eRMe9Wg04zgg"
+      "duration_ms": 319920,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/56Qdvab5ordX97OCvgY3ie"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 325000,
+      "name": "Desert Night",
+      "url": "https://open.spotify.com/track/3absRUCrN1eRMe9Wg04zgg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -467,38 +483,6 @@
       "duration_ms": 223386,
       "name": "All I've Got",
       "url": "https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 319920,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/56Qdvab5ordX97OCvgY3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atlas (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/0cY0tA0ermWHywPtSy01oe"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 282000,
       "name": "Unforgiven - The Presets Remix",
       "url": "https://open.spotify.com/track/4Gim2bNaeGvR9K4zxD19nO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Two Clocks",
-      "url": "https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Two Clocks",
+      "url": "https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
         "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 503475,
       "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 222687,
-      "name": "Modest Life",
-      "url": "https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 224327,
       "name": "Standing at the Gates - Weval Remix",
       "url": "https://open.spotify.com/track/1opUUDEWEvvYmNa3FzzlFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 222687,
+      "name": "Modest Life",
+      "url": "https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw"
     }
   ],
   "unique_name": "This Is R\u00dcF\u00dcS DU SOL",

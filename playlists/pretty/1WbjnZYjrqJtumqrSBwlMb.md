@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,321 songs - 3 day 9 hr 29 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,327 songs - 3 day 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1329,5 +1329,11 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1319 | [Problem Child](https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [Problem Child](https://open.spotify.com/album/4wKgbBsCSTmLrQXhqvlqe1) | 3:42 |
 | 1320 | [Heroes](https://open.spotify.com/track/2MhJNvtkInVsS4zXXflvoV) | [Hollywood Vampires](https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Rise](https://open.spotify.com/album/0tbq3LgCA3BlNKLZ2E0vOO) | 4:08 |
 | 1321 | [Human Error](https://open.spotify.com/track/0mQlmaIfCBNRbnNIROGkbJ) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/3QzOrFl4k9dh735VKmjyoy) | 4:22 |
+| 1322 | [Hannah Montana](https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Hannah Montana](https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X) | 3:33 |
+| 1323 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 1324 | [bitE](https://open.spotify.com/track/6nIotBUAn7IsUpe2wwmQHE) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [bitE & body](https://open.spotify.com/album/3GjGlbzdVXFl5ssBcS1Iry) | 3:22 |
+| 1325 | [body](https://open.spotify.com/track/1CER3JagcLaRF2n1T9sedI) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [bitE & body](https://open.spotify.com/album/3GjGlbzdVXFl5ssBcS1Iry) | 3:44 |
+| 1326 | [Anyway](https://open.spotify.com/track/6L4E0aAIwgYK3xBRGlIXvM) | [Wildwood Sessions](https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | ['Wildwood Sessions' \(Music Inspired by LAIKA’s Wildwood\)](https://open.spotify.com/album/6nD1rZLe3QPfmCduf2pRs2) | 2:53 |
+| 1327 | [Goldmine](https://open.spotify.com/track/6kPT4YJeyQ2WCux1fgWMCF) | [Wildwood Sessions](https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | ['Wildwood Sessions' \(Music Inspired by LAIKA’s Wildwood\)](https://open.spotify.com/album/6nD1rZLe3QPfmCduf2pRs2) | 3:25 |
 
-Snapshot ID: `AAAKIicmJJXP/6GIduylZ2urJn2KaBXi`
+Snapshot ID: `AAAKJ7Jod7gC3RmwrJVhZY1nPU57KAwp`

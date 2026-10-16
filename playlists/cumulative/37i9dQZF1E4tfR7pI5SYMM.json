@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bad Scullianz, The Old, The Inklings and more",
+  "description": "With Bad Scullianz, Autoimmune, Juice and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 228375,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/3orKbuMfrVYHCGM21Uz78u"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191225,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 227696,
       "name": "Casca Vazia",
       "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
@@ -3168,6 +3168,24 @@
       "duration_ms": 164383,
       "name": "Dafeet",
       "url": "https://open.spotify.com/track/13zUeUMiC1CfU6Nn3HmpWH"
+    },
+    {
+      "album": {
+        "name": "Damaged Too?",
+        "url": "https://open.spotify.com/album/6Fy8A2vIACrBRClFWVZDmj"
+      },
+      "artists": [
+        {
+          "name": "damage done",
+          "url": "https://open.spotify.com/artist/6lRXnnW2eobKikk7udzbfP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198853,
+      "name": "Daily Deadly Sin",
+      "url": "https://open.spotify.com/track/1fihFELXz1qLkaDwuhI8TE"
     },
     {
       "album": {
@@ -4174,6 +4192,24 @@
       "duration_ms": 244508,
       "name": "Drag Me Under",
       "url": "https://open.spotify.com/track/6dVPnr1wql334QkuGLzJfZ"
+    },
+    {
+      "album": {
+        "name": "Dragonfighter",
+        "url": "https://open.spotify.com/album/5nQ28nyWMnjg8Px2MIjaAl"
+      },
+      "artists": [
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/6PhdOFr1xqdZFmnxi1iLr7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291969,
+      "name": "Dragonfighter",
+      "url": "https://open.spotify.com/track/71KjAeng0I37N9wvdvbkbp"
     },
     {
       "album": {
@@ -5626,7 +5662,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 299413,
       "name": "Fear",
       "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
@@ -6868,7 +6904,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -7506,7 +7542,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -7931,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
+      },
+      "artists": [
+        {
+          "name": "Statsmenn",
+          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "Ikkje Som De Andre",
+      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
+    },
+    {
+      "album": {
         "name": "Pukuut",
         "url": "https://open.spotify.com/album/2JZMG68FoxvBeAga2T0nSR"
       },
@@ -8162,7 +8216,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -8794,7 +8848,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -9310,7 +9364,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 87251,
       "name": "Life In Prison",
       "url": "https://open.spotify.com/track/1fZgTjAaFx0KJRhbmtU09N"
@@ -9466,7 +9520,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -11385,6 +11439,24 @@
     },
     {
       "album": {
+        "name": "Staticmatic",
+        "url": "https://open.spotify.com/album/2beocfSTkdrzBAy5aeSvQ4"
+      },
+      "artists": [
+        {
+          "name": "Warrior Gene",
+          "url": "https://open.spotify.com/artist/3oHWdbjqUzTztqRoh8iBSd"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238759,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/1LAt6QjyCz0T8kWxRR9S3x"
+    },
+    {
+      "album": {
         "name": "Ni tystnade n\u00e4r jag reste mig",
         "url": "https://open.spotify.com/album/73hEY2KF41EeG71g4lEwgm"
       },
@@ -12490,7 +12562,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -14340,7 +14412,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -14430,7 +14502,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -14664,7 +14736,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -15734,7 +15806,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -16070,7 +16142,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186600,
       "name": "The Complaint",
       "url": "https://open.spotify.com/track/2VbsZTkw9ryNI2ctcb5DFy"
@@ -20062,6 +20134,24 @@
       "duration_ms": 236666,
       "name": "\u00d6r\u00f6kk\u00e9 sz\u00e9p kering\u0151m",
       "url": "https://open.spotify.com/track/325g3llJMOQZicGNIv2seg"
+    },
+    {
+      "album": {
+        "name": "Faktor X",
+        "url": "https://open.spotify.com/album/2rHe25zczGFJuePjF9KQM5"
+      },
+      "artists": [
+        {
+          "name": "Raga Rockers",
+          "url": "https://open.spotify.com/artist/28ZDQf2XF8nAaPotggxfiS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "\u00d8de \u00f8y",
+      "url": "https://open.spotify.com/track/19vmu2vywwa2pAeKOKPGJL"
     },
     {
       "album": {

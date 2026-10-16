@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\ude80 cover: Florence Road",
+  "description": "a playlist without boundaries \ud83d\ude80 cover: Rachel Chinouriri",
   "name": "Our Generation",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168400,
       "name": "'fine'",
       "url": "https://open.spotify.com/track/47PLOslD1u38AZFzR6FsY6"
@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Be A Better Man",
+        "url": "https://open.spotify.com/album/6WC68BpTv5XUz6AsAsqKSa"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7dMQ1V2LZNmlTOFKKO82BT"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253625,
+      "name": "Be A Better Man",
+      "url": "https://open.spotify.com/track/7e0FuF2TBMVGETsaNzbE2D"
+    },
+    {
+      "album": {
         "name": "Good On Paper",
         "url": "https://open.spotify.com/album/2o7SMccQvGDVsn5B09GSOq"
       },
@@ -2066,6 +2084,24 @@
       "duration_ms": 293848,
       "name": "BFF (After Remix)",
       "url": "https://open.spotify.com/track/3fJ8pA7mHQNaS6JuT9MuKu"
+    },
+    {
+      "album": {
+        "name": "bide my time",
+        "url": "https://open.spotify.com/album/3aiYOJvEpEczglmYKNVupk"
+      },
+      "artists": [
+        {
+          "name": "AMINAT",
+          "url": "https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161745,
+      "name": "bide my time",
+      "url": "https://open.spotify.com/track/6aZEGN4NXYPV7NUUEaDJPA"
     },
     {
       "album": {
@@ -3762,6 +3798,28 @@
       "duration_ms": 202500,
       "name": "Chick Flick",
       "url": "https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs"
+    },
+    {
+      "album": {
+        "name": "Chiltern Firehouse .",
+        "url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146655,
+      "name": "Chiltern Firehouse .",
+      "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
     },
     {
       "album": {
@@ -7743,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Good Light",
+        "url": "https://open.spotify.com/album/6HaelxqjtVMzcpSs6O2GjA"
+      },
+      "artists": [
+        {
+          "name": "Bash Croft",
+          "url": "https://open.spotify.com/artist/0z6dMH7qcKgqKnJy4j9nil"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Good Light",
+      "url": "https://open.spotify.com/track/1k72oFz1g4x52G2YcOoT8z"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -7830,6 +7906,24 @@
       "duration_ms": 212157,
       "name": "grey area",
       "url": "https://open.spotify.com/track/0xG7W9LFtQKcUsAL1JP9RJ"
+    },
+    {
+      "album": {
+        "name": "REX",
+        "url": "https://open.spotify.com/album/6igKOsbTZO5b7fbqc121OB"
+      },
+      "artists": [
+        {
+          "name": "Daisy Maybe",
+          "url": "https://open.spotify.com/artist/518YEL23Iq71Z3Mx0vhbVd"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "GROWING PAINS",
+      "url": "https://open.spotify.com/track/0LE7PcE83wefBddmWUVGlY"
     },
     {
       "album": {
@@ -8842,6 +8936,24 @@
       "duration_ms": 155800,
       "name": "Hope You're Happy",
       "url": "https://open.spotify.com/track/7yicqueZF1XlA6T87i6lCg"
+    },
+    {
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     },
     {
       "album": {
@@ -10529,6 +10641,42 @@
     },
     {
       "album": {
+        "name": "Stick Around For Tea",
+        "url": "https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320713,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/3HGZUb5t818Ie2MsJJZhMq"
+    },
+    {
+      "album": {
+        "name": "How Long Will It Take?",
+        "url": "https://open.spotify.com/album/59SbHFKM5vJ07NLFurCsq5"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254926,
+      "name": "I\u2019M NOT DEAD",
+      "url": "https://open.spotify.com/track/7bx8oQpOzKqKfLLLLOfNgM"
+    },
+    {
+      "album": {
         "name": "Productive Pain",
         "url": "https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh"
       },
@@ -11535,6 +11683,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/4qZf9jdFIs2DdiQcmKCPjD"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146388,
+      "name": "Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2d8PoEif6i4ks29EvBTl6K"
+    },
+    {
+      "album": {
         "name": "Lights Off",
         "url": "https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH"
       },
@@ -12167,6 +12333,24 @@
     },
     {
       "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/4McrpdtpEMFxmVjuL9OdxM"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192405,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/0BQHJP1Q9SsU7fA2hwTJjo"
+    },
+    {
+      "album": {
         "name": "Lovey",
         "url": "https://open.spotify.com/album/3A8J8WKiPDt3OedYMUMOv0"
       },
@@ -12492,7 +12676,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 223575,
       "name": "Magnetic Love",
       "url": "https://open.spotify.com/track/5hUjEpJe5MgbNTCO1Fucj6"
@@ -12510,7 +12694,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
@@ -14015,6 +14199,24 @@
     },
     {
       "album": {
+        "name": "O r\u00ed mi",
+        "url": "https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "O r\u00ed mi",
+      "url": "https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt"
+    },
+    {
+      "album": {
         "name": "OGRE",
         "url": "https://open.spotify.com/album/4iJHQEw0xwgfHmjNJ4nmeE"
       },
@@ -15226,6 +15428,24 @@
       "duration_ms": 146858,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/3AUpTpz3K8o54wxCHnTgDz"
+    },
+    {
+      "album": {
+        "name": "I think I spoke too soon",
+        "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "Pretty girls",
+      "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
     },
     {
       "album": {
@@ -17996,7 +18216,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 175631,
       "name": "Standing On A Pane Of Glass",
       "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"

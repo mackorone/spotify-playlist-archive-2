@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 281826,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 161155,
       "name": "Burn For You",
       "url": "https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
@@ -1968,6 +1968,28 @@
       "duration_ms": 198808,
       "name": "Eusexua - Anyma Remix",
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
+    },
+    {
+      "album": {
+        "name": "Everything Changes (feat. Fr\u00fdnn)",
+        "url": "https://open.spotify.com/album/0r9cMhphd6VpzwagBz1FCx"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        },
+        {
+          "name": "Fr\u00fdnn",
+          "url": "https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "Everything Changes (feat. Fr\u00fdnn)",
+      "url": "https://open.spotify.com/track/3irieFgecxwlmogTqnvmBs"
     },
     {
       "album": {
@@ -2314,7 +2336,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150480,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
@@ -2472,6 +2494,28 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+    },
+    {
+      "album": {
+        "name": "City Reverie",
+        "url": "https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212883,
+      "name": "Forgive Them",
+      "url": "https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2"
     },
     {
       "album": {
@@ -4896,7 +4940,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 186785,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
@@ -6080,7 +6124,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
@@ -7842,7 +7886,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 234840,
       "name": "To The Heart",
       "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"

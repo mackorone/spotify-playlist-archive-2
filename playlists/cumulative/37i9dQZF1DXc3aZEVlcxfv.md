@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-695 songs - 1 day 22 hr 52 min
+696 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 | 2026-08-28 |  |
 | [How Love Is Done](https://open.spotify.com/track/5eIEpqK3gqaDNEvxEJC96W) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [How Love Is Done](https://open.spotify.com/album/7mXpmhWRAwTBjVim6OnfFS) | 3:12 | 2025-05-30 | 2025-06-20 |
 | [I am blessed](https://open.spotify.com/track/1QYpJIF5WBn4lmdK1wkcAV) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I am blessed](https://open.spotify.com/album/0RcyUlcMRtm06uXuMR2ZDF) | 4:06 | 2025-02-28 | 2025-04-18 |
-| [I Am Blessed \- Amapiano](https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Gata 2 \(Gospel According to Amapiano\)](https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp) | 3:09 | 2026-09-11 |  |
+| [I Am Blessed \- Amapiano](https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Gata 2 \(Gospel According to Amapiano\)](https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp) | 3:09 | 2026-09-11 | 2026-10-16 |
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 | 2025-02-28 |
 | [I Belong To You](https://open.spotify.com/track/0HYbFSop3uvZQgXknmUZN8) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [I Belong To You](https://open.spotify.com/album/7JE5drBI1kooLs1BB9meYN) | 5:22 | 2024-11-29 | 2025-03-21 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-11-14 |
@@ -616,6 +616,7 @@
 | [This Joy](https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Seun Makay](https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY) | [This Joy](https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij) | 4:03 | 2026-07-31 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
+| [Tinotenda](https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Tinotenda](https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P) | 3:10 | 2026-10-09 |  |
 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 | 2026-05-30 |
 | [Titilailai II](https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Johnson Jkeyz](https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [Titilailai II](https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9) | 3:19 | 2026-06-19 | 2026-10-15 |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 | 2025-11-28 |

@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Franz Keloh
 
-1,361 songs - 2 day 18 hr 39 min
+1,362 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [La vie d'rêve](https://open.spotify.com/track/0LxUzsfIOPidvu1QfSN9ol) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [La vie d'rêve](https://open.spotify.com/album/4LTGDCL4ELI1X4OaZCPn1B) | 2:04 | 2025-03-21 | 2026-01-17 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-06 | 2024-11-09 |
 | [La vie qu'on mène](https://open.spotify.com/track/7Hv971E42bN5nnj8lhKrBO) | [ray.z](https://open.spotify.com/artist/1EfhaaHz0yZn4W0SLHFKQS) | [La vie qu'on mène](https://open.spotify.com/album/4iPpgK53s9GyINfegUKaVb) | 3:02 | 2025-11-21 | 2025-12-04 |
-| [Laisse nous](https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Laisse nous](https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF) | 2:48 | 2026-05-08 |  |
+| [Laisse nous](https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Laisse nous](https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF) | 2:48 | 2026-05-08 | 2026-10-16 |
 | [Laisse tomber](https://open.spotify.com/track/1taQF7q16QsWXUcKct861A) | [Scrive](https://open.spotify.com/artist/1rtZUgRubvMt7evMt8fIVS), [Lunaire](https://open.spotify.com/artist/2utqlnLLPdrTcaohqgDLCS) | [Laisse tomber](https://open.spotify.com/album/7csh2v3US4ViOL2eWNs98l) | 3:15 | 2025-11-14 | 2025-12-04 |
 | [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 | 2024-05-03 | 2024-06-29 |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2023-01-21 |
@@ -954,6 +954,7 @@
 | [Pas l'choix](https://open.spotify.com/track/0hOq01qqFw0iiye2b9nzCS) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [Wawa EGK](https://open.spotify.com/artist/2QkUFGd1PxHozycS2MotJ3) | [Pas l'choix](https://open.spotify.com/album/6vGigTydEdJ4VjRYeim48h) | 4:12 | 2024-05-31 | 2024-08-24 |
 | [Pas la tête](https://open.spotify.com/track/0DAjxOoV7Tbg8rA0bLdvkI) | [De Lafe](https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1) | [Pas la tête](https://open.spotify.com/album/7tf4ZOgLWvDu2rIaRVzo0g) | 2:26 | 2026-07-03 | 2026-08-08 |
 | [Pas toi encore](https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 3:29 | 2023-11-03 | 2023-11-13 |
+| [Passe Passe](https://open.spotify.com/track/6vpHBvY5C6S7Dfd5qeOhN0) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Passe Passe](https://open.spotify.com/album/3wVH2OBl27kf1DdH6LmisK) | 2:49 | 2026-10-09 |  |
 | [Passenger Prince](https://open.spotify.com/track/0dcLSzhTGBJq3ZAwHNM52e) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Passenger Prince](https://open.spotify.com/album/6rGToOme38qBuUeic5U6zs) | 4:21 | 2025-01-10 | 2025-02-08 |
 | [Patience](https://open.spotify.com/track/0zrcUn1dW3oxjqwCJdMa0L) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI), [Damlif](https://open.spotify.com/artist/0mPfVYJyS10AuDGrS3ira2) | [Patience](https://open.spotify.com/album/3T7wTfrdZEo6FEPcnYB08j) | 3:39 | 2023-03-03 | 2023-06-03 |
 | [Patience](https://open.spotify.com/track/3B8pYyH1Kjho5BOXjtUA9o) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [Bachiflow](https://open.spotify.com/artist/4QaFinNAPercXkfpYbU8Yi) | [Patience](https://open.spotify.com/album/0KMwDACsAxoEQOwtcYpjZL) | 2:52 | 2022-01-07 | 2022-02-12 |

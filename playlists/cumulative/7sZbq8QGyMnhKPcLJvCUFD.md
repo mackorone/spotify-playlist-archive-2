@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-911 songs - 1 day 21 hr 19 min
+912 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alive](https://open.spotify.com/track/1vnUM8WoxD53ZDt46J4u1d) | [Tamlin](https://open.spotify.com/artist/6SxLJrAEcNokqcw5vBF0zS) | [Alive](https://open.spotify.com/album/2lhmR04Crc9MfIgbJXiPI7) | 3:43 | 2025-05-13 |  |
 | [Alive](https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Alive](https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG) | 2:56 | 2023-05-19 | 2023-08-10 |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 | 2023-04-28 |
+| [ALL BEFORE](https://open.spotify.com/track/57cGF1VxahI7G8z8tetjtq) | [DJ PUMA](https://open.spotify.com/artist/75zQ3IOLZjqk85P8T2R5J1) | [ALL BEFORE](https://open.spotify.com/album/3yYSZyPVnyPBbZtztDRqWf) | 2:05 | 2026-10-15 |  |
 | [All For You](https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX), [SILIAS](https://open.spotify.com/artist/2aImGHMM1Jwppsg2sbtevv) | [All For You](https://open.spotify.com/album/5ZZWeZpjUcRRu51rTv7vyL) | 3:33 | 2023-12-13 | 2024-04-10 |
 | [All I Need](https://open.spotify.com/track/1VPJGLDloCNj0NTBWqWfPO) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK), [Karl Killing](https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN) | [All I Need](https://open.spotify.com/album/0rOlhLhw1LZ36Ac1AQdXEA) | 2:32 | 2023-12-13 | 2024-07-19 |
 | [All I Need](https://open.spotify.com/track/3Wt6ZGLHnKTPT2emFjvRJo) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [All I Need](https://open.spotify.com/album/3TBi6eBO6EGHrf1W9H9ZvQ) | 2:39 | 2025-07-10 |  |

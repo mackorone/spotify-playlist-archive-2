@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,981 likes - 120 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,019 likes - 120 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 3 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 4 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 |
 | 5 | [Zomer, Zon & Strand](https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zomer, Zon & Strand](https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB) | 3:09 |
-| 6 | [Tinto de Verano](https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Tinto de Verano](https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p) | 2:26 |
-| 7 | [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 |
-| 8 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
-| 9 | [Een Zomeravond Met Jou](https://open.spotify.com/track/4RA0T0I98uoBcWmnU6uOQ1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv), [Tim Douwsma](https://open.spotify.com/artist/2fBh7Dt0OpbRH6cemGJi9K) | [Een Zomeravond Met Jou](https://open.spotify.com/album/5CkcfYmQ6Gdc3tjzi8ozU6) | 3:04 |
-| 10 | [Loco](https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Loco](https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc) | 2:33 |
-| 11 | [Hard To Get](https://open.spotify.com/track/1rUjgtpKXHLEEKvJ7S2oGz) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Hard To Get](https://open.spotify.com/album/16SCvjPxjZT0pBmPIymJwf) | 2:23 |
-| 12 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
-| 13 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
-| 14 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
-| 15 | [De Tent Moet Op Z'n Kop \- NL Versie](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop \(NL Versie\)](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 |
+| 6 | [Een Zomeravond Met Jou](https://open.spotify.com/track/4RA0T0I98uoBcWmnU6uOQ1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv), [Tim Douwsma](https://open.spotify.com/artist/2fBh7Dt0OpbRH6cemGJi9K) | [Een Zomeravond Met Jou](https://open.spotify.com/album/5CkcfYmQ6Gdc3tjzi8ozU6) | 3:04 |
+| 7 | [Tinto de Verano](https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Tinto de Verano](https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p) | 2:26 |
+| 8 | [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 |
+| 9 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
+| 10 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 11 | [De Tent Moet Op Z'n Kop \- NL Versie](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop \(NL Versie\)](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 |
+| 12 | [Loco](https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Loco](https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc) | 2:33 |
+| 13 | [Hard To Get](https://open.spotify.com/track/1rUjgtpKXHLEEKvJ7S2oGz) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Hard To Get](https://open.spotify.com/album/16SCvjPxjZT0pBmPIymJwf) | 2:23 |
+| 14 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
+| 15 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 16 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
 | 17 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 |
 | 18 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 119 | [Met Je Moeder Niks Te Maken](https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Met Je Moeder Niks Te Maken](https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI) | 2:39 |
 | 120 | [In De Boeken](https://open.spotify.com/track/5iHmlYIg8FaLrfxjRbmj3M) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [In De Boeken](https://open.spotify.com/album/6W57eI7WR2WhTTfcyyWhw2) | 2:41 |
 
-Snapshot ID: `AAAAAIbdQhdFSdtpB7p+e2yl3kSIYqZM`
+Snapshot ID: `AAAAAFiAgAMip4F5jlgJq8yZzCHxLclP`

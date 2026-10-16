@@ -6305,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "album": {
         "name": "Laho",
         "url": "https://open.spotify.com/album/65SUCKOvwWityHzXuDGWTl"
       },
@@ -11190,7 +11208,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 153214,
       "name": "Sin",
       "url": "https://open.spotify.com/track/1Pd976l3ctq3Ru7UDeLQcT"
@@ -11782,7 +11800,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 176941,
       "name": "Take It Slow (Bullit)",
       "url": "https://open.spotify.com/track/3d4xP3sUrLslwXjGsGdgSv"
@@ -12454,6 +12472,24 @@
       "duration_ms": 159907,
       "name": "Toyota (2016)",
       "url": "https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY"
+    },
+    {
+      "album": {
+        "name": "Luso",
+        "url": "https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda"
+      },
+      "artists": [
+        {
+          "name": "Marla Kether",
+          "url": "https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS"
     },
     {
       "album": {

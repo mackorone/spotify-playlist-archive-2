@@ -4,7 +4,7 @@
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Hoàng Thùy Linh
 
-425 songs - 1 day 2 hr 44 min
+426 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 | 2023-07-22 |
 | [Thương](https://open.spotify.com/track/64R6c49ljNaTEl7sGZxQ00) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Thương](https://open.spotify.com/album/0uzJPbCh0luZoWx0WXSkW9) | 3:10 | 2025-11-06 | 2026-10-08 |
 | [Thấm Tình](https://open.spotify.com/track/2eseFd61CIH5LMbiwOS40Y) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [ĐẪM TÌNH](https://open.spotify.com/album/2sTZrEzrWI6MKcuGVBdYol) | 3:15 | 2026-01-13 | 2026-03-20 |
+| [Thầy Dùi](https://open.spotify.com/track/3GNRzMvOoYa5B6zNrCflIy) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Thầy Dùi](https://open.spotify.com/album/4xsY1xvMaeILGo4Hkrxyaj) | 2:48 | 2026-10-15 |  |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2023-02-07 |
 | [Thỏ Săn Mồi](https://open.spotify.com/track/3nWbRAFNAW5vGi1nR20e2b) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Thỏ Săn Mồi](https://open.spotify.com/album/38DOhwjrW8ho0wini5LAZq) | 3:21 | 2026-05-14 | 2026-10-08 |
 | [Tin Nhắn Sau Cùng](https://open.spotify.com/track/4P05WuzPnCN2vqH50RyrLt) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:07 | 2025-07-03 | 2025-12-03 |
@@ -420,7 +421,7 @@
 | [Để Dành](https://open.spotify.com/track/0HOKHKHArpqG9Wqwkkjhlq) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [CUỘC ĐÀO TẨU CỦA VŨ THANH VÂN](https://open.spotify.com/album/3RrTTlmePlZyvNNz8ufwQH) | 4:19 | 2026-01-13 | 2026-03-20 |
 | [Đồi Hoa Mặt Trời](https://open.spotify.com/track/298K2LEeqDerHpJNbtShjj) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Đồi Hoa Mặt Trời](https://open.spotify.com/album/0u17k9QblgFJhk5dhC8Qab) | 4:01 | 2026-03-19 |  |
 | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 | 2024-01-09 | 2026-01-15 |
-| [Đợi em được không](https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [YÊU THẬT](https://open.spotify.com/album/0MmmI3L7FRv9dw4dO3kGfO) | 4:00 | 2026-03-19 |  |
+| [Đợi em được không](https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [YÊU THẬT](https://open.spotify.com/album/0MmmI3L7FRv9dw4dO3kGfO) | 4:00 | 2026-03-19 | 2026-10-16 |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-11-29 | 2025-11-07 |
 | [Đừng Khóc Em \(feat\. Tuimi\)](https://open.spotify.com/track/6ZxN9cK5pXweqQJCrrlb2J) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Tuimi](https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm) | [Đừng Khóc Em \(feat\. Tuimi\)](https://open.spotify.com/album/6DjioUI0shANNWQuPlo5ps) | 4:20 | 2026-01-13 | 2026-03-20 |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/1U4zQAW8s2kAMftN3avXL0) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 3:32 | 2024-02-06 | 2025-06-05 |

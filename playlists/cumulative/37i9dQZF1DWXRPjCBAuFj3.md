@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> dagood in cover 🇲🇽🌮🌶️
+> Marra & Elisa in cover 🪽🪽
 
 1,118 songs - 2 day 9 hr 13 min
 

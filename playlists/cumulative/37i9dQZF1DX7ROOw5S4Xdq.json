@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Kailane Frauches",
+  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Anderson Freire, Marine Friesen",
   "name": "Novidades Religiosas",
   "tracks": [
     {
@@ -4596,6 +4596,36 @@
       "duration_ms": 420708,
       "name": "Algo Novo Vindo",
       "url": "https://open.spotify.com/track/6fP2IJGSEvzIFEGJDNWvf4"
+    },
+    {
+      "album": {
+        "name": "Pocket GW",
+        "url": "https://open.spotify.com/album/3FVvJMXe79Bl8vB5IoVvZc"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        },
+        {
+          "name": "Ageu Soares",
+          "url": "https://open.spotify.com/artist/62HaSQvXOcBv0vIBnzt0hp"
+        },
+        {
+          "name": "Jo\u00e3o Oliver",
+          "url": "https://open.spotify.com/artist/3Y9ft4DgTwfVPQavOBevoi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Algo Novo Vindo",
+      "url": "https://open.spotify.com/track/1ZoOKx2g6bX100OkEbaeqG"
     },
     {
       "album": {
@@ -15342,7 +15372,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 400285,
       "name": "Deus Ainda Fala - Ao Vivo",
       "url": "https://open.spotify.com/track/47k7urz4okhpml9ivBXaAV"
@@ -24450,7 +24480,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 443933,
       "name": "Eu N\u00e3o Sabia (Ao Vivo)",
       "url": "https://open.spotify.com/track/2fafIJbMUTxaEygcixaShY"
@@ -25162,6 +25192,28 @@
       "duration_ms": 226000,
       "name": "Eu S\u00f3 Preciso Crer",
       "url": "https://open.spotify.com/track/1RZo3HN1riLDXdZ8Aavf0l"
+    },
+    {
+      "album": {
+        "name": "Eu S\u00f3 Preciso Crer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5d0VUPpmAIgzTYI3pbT3bo"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261666,
+      "name": "Eu S\u00f3 Preciso Crer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/09YWb8nLZF6rc0vlSMVvp0"
     },
     {
       "album": {
@@ -26848,6 +26900,24 @@
       "duration_ms": 179142,
       "name": "Fa\u00e7a o Bem",
       "url": "https://open.spotify.com/track/4zXXju1YwFpTfVxyZPA99n"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a o Teu Querer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IBttAvT94CqODqFPiJJiS"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276202,
+      "name": "Fa\u00e7a o Teu Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1fYDcVOlLuzyjHwlqsbfIJ"
     },
     {
       "album": {
@@ -33143,6 +33213,32 @@
     },
     {
       "album": {
+        "name": "Jornada",
+        "url": "https://open.spotify.com/album/4idSZEd45DcZAL1WCR1TAw"
+      },
+      "artists": [
+        {
+          "name": "Giovana Leite",
+          "url": "https://open.spotify.com/artist/5i9i8BFHUYLuYoG53bn8OO"
+        },
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        },
+        {
+          "name": "JesusCopy Music",
+          "url": "https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380788,
+      "name": "Jornada",
+      "url": "https://open.spotify.com/track/6uv8qNSsS596nh9pdcF4tn"
+    },
+    {
+      "album": {
         "name": "Josu\u00e9",
         "url": "https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw"
       },
@@ -36144,7 +36240,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 281266,
       "name": "Marcas de Guerra (Ao Vivo)",
       "url": "https://open.spotify.com/track/0LkQAqHoDAyrvgzr2Eoxr1"
@@ -37954,7 +38050,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 229693,
       "name": "Meu Alvo (Ao Vivo)",
       "url": "https://open.spotify.com/track/5QDesvAfEEjnBO2py9h2sN"
@@ -51775,6 +51871,24 @@
     },
     {
       "album": {
+        "name": "Perdoa-me",
+        "url": "https://open.spotify.com/album/6rD5jQiPiEkaH0cXKAVx0S"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275083,
+      "name": "Perdoa-me",
+      "url": "https://open.spotify.com/track/7dVOkAojXLaje43oMImGI0"
+    },
+    {
+      "album": {
         "name": "Perdoado/ Largue Suas Pedras (feat. Pregador Luo)",
         "url": "https://open.spotify.com/album/7HA83P5TVRBMQGRHSlKoQX"
       },
@@ -52278,7 +52392,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 244259,
       "name": "Pode Confiar (Ao Vivo)",
       "url": "https://open.spotify.com/track/3neUxnFRNMGOefG2ZxcE8Y"
@@ -52556,7 +52670,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 282745,
       "name": "Poderoso Ele \u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/4LcrzHd4cJfVBgInC4Ypsh"
@@ -58900,7 +59014,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 350672,
       "name": "Ressuscita",
       "url": "https://open.spotify.com/track/2Dh7fpdgIWEOOUk9kjIaKc"
@@ -60478,7 +60592,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 248520,
       "name": "Santo Pra Sempre (Voz e Viol\u00e3o Ao Vivo)",
       "url": "https://open.spotify.com/track/1ZZ2E5hiIyhwz8QS8lkIMy"
@@ -61550,6 +61664,24 @@
       "duration_ms": 300418,
       "name": "Se V\u00f3s Baterdes, Ele Vos Abre",
       "url": "https://open.spotify.com/track/19smAbcgmDSHlrRLV7wHFy"
+    },
+    {
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C"
+      },
+      "artists": [
+        {
+          "name": "BENITO",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Se \u00c9 L\u00e1 Que C\u00ea Ta",
+      "url": "https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8"
     },
     {
       "album": {
@@ -65063,6 +65195,32 @@
     },
     {
       "album": {
+        "name": "1976 - Autorais",
+        "url": "https://open.spotify.com/album/0S2RbXNL3SBcQXnMB36rWe"
+      },
+      "artists": [
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Isaque",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188698,
+      "name": "Sussurro",
+      "url": "https://open.spotify.com/track/4Son6DitQNfm5lWQsDQ0s8"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Bento (Livrai-Nos do Mal)",
         "url": "https://open.spotify.com/album/0ZNpPSJ3FD8DJfHcv27Esx"
       },
@@ -67629,6 +67787,28 @@
     },
     {
       "album": {
+        "name": "Toda Verdade (Live Session)",
+        "url": "https://open.spotify.com/album/3X0n6cQG4oL1sFe25g6EzQ"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Janaine Pavani",
+          "url": "https://open.spotify.com/artist/7DsuaYZqlTFs2cTt3apYZb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Toda Verdade (Live Session)",
+      "url": "https://open.spotify.com/track/7dtXjpg7s9CSIr6rozN7i9"
+    },
+    {
+      "album": {
         "name": "Todas As Coisas / Tudo Entregarei",
         "url": "https://open.spotify.com/album/5Ep7YwEM3YREQmcngzuvzN"
       },
@@ -70191,6 +70371,32 @@
     },
     {
       "album": {
+        "name": "Tudo Entregarei",
+        "url": "https://open.spotify.com/album/5kU8SwoE53Jx79aGs72atP"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "Kak\u00e1 Pires",
+          "url": "https://open.spotify.com/artist/2owOrxedVfC905IAXgDliy"
+        },
+        {
+          "name": "Filippe Augusto",
+          "url": "https://open.spotify.com/artist/5Yp9gm6eiLU5bNzPaCnch4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266485,
+      "name": "Tudo Entregarei",
+      "url": "https://open.spotify.com/track/1TIhTGyvOfKKHXmv1UGicA"
+    },
+    {
+      "album": {
         "name": "Tudo Ficou Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/02tYgCry3Vd22RoeygK7uO"
       },
@@ -70242,7 +70448,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 617185,
       "name": "Tudo Novo / Maranata - Ao Vivo",
       "url": "https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf"
@@ -70486,7 +70692,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 318309,
       "name": "Tudo Que Eu Vivi",
       "url": "https://open.spotify.com/track/1pBX1BHNkUqngIRqOnyIAz"
@@ -71104,6 +71310,28 @@
       "duration_ms": 775500,
       "name": "Um Encontro Contigo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vUHEjdFDpoMxSnWF6AKWw"
+    },
+    {
+      "album": {
+        "name": "Um Grito",
+        "url": "https://open.spotify.com/album/6PufRrnEYKhv19O6RGsHGo"
+      },
+      "artists": [
+        {
+          "name": "Gerados pela Imaculada",
+          "url": "https://open.spotify.com/artist/3r8g1RAaeYKY3ZtjrGhpjg"
+        },
+        {
+          "name": "Padre Renn\u00e9 Viana",
+          "url": "https://open.spotify.com/artist/3psM78wfH2Vt91KjGzDVNY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450877,
+      "name": "Um Grito",
+      "url": "https://open.spotify.com/track/7cNWw9AQFouxTr6el0nNLy"
     },
     {
       "album": {
@@ -75340,7 +75568,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 289425,
       "name": "Vou Voltar",
       "url": "https://open.spotify.com/track/2kun4AlblW2QgmfoI2WNSu"

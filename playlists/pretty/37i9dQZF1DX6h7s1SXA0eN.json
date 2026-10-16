@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:5tYqFEuFELxnJZgGmmsfSh\">Catz 'n Dogz</a>' favorite tracks. Updated regularly. Curated by Catz 'n Dogz. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 11514,
+  "num_followers": 11525,
   "original_name": "Catz 'n Dogz' track IDs",
   "owner": {
     "name": "Spotify",
@@ -131,7 +131,7 @@
     {
       "added_at": "2026-09-24 22:00:14",
       "album": {
-        "name": "moln (Finally Version)",
+        "name": "moln (Finally Version) (feat. Stuzzi)",
         "url": "https://open.spotify.com/album/2pZC0Ad2BLGPhdiOkg5adl"
       },
       "artists": [
@@ -140,16 +140,16 @@
           "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
         },
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
           "name": "Myd",
           "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
       "duration_ms": 232727,
-      "name": "moln (Finally Version)",
+      "name": "moln (Finally Version) (feat. Stuzzi)",
       "url": "https://open.spotify.com/track/1OCydYotiWIJoanOlU703R"
     },
     {

@@ -784,7 +784,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 163032,
       "name": "Dey With Me",
       "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
@@ -6296,7 +6296,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 157487,
       "name": "Feel Am",
       "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140916,
       "name": "For Me",
       "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
@@ -7963,6 +7963,28 @@
     },
     {
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
+    },
+    {
+      "album": {
         "name": "GOLIATH",
         "url": "https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC"
       },
@@ -8188,7 +8210,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 209514,
       "name": "HEAVENLY RACE",
       "url": "https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D"
@@ -8646,7 +8668,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
@@ -8868,7 +8890,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "i think i love you 2",
       "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
@@ -9104,7 +9126,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152372,
       "name": "IFEOMA",
       "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
@@ -11096,7 +11118,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
@@ -11176,7 +11198,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 204546,
       "name": "Look At Me (with Fridayy)",
       "url": "https://open.spotify.com/track/6Belt1VDE3OAvb4JWcn8nf"
@@ -12360,7 +12382,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
@@ -12612,7 +12634,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 166779,
       "name": "Mental",
       "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
@@ -13072,7 +13094,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 159757,
       "name": "Money Lingo",
       "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
@@ -13648,7 +13670,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 141521,
       "name": "Namipa",
       "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
@@ -14184,7 +14206,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173471,
       "name": "Numero Uno",
       "url": "https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul"
@@ -15092,7 +15114,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 163826,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
@@ -15560,7 +15582,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 139450,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0mYhu3m1LiMThKnLXZnSun"
@@ -15618,7 +15640,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186240,
       "name": "Pami",
       "url": "https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ"
@@ -16042,7 +16064,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 201000,
       "name": "Perspe",
       "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
@@ -16340,7 +16362,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 141716,
       "name": "Pity My Soul",
       "url": "https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ"
@@ -16508,7 +16530,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 144270,
       "name": "Pressure (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
@@ -17175,6 +17197,24 @@
     },
     {
       "album": {
+        "name": "Round One (Elle Mummy)",
+        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Round One (Elle Mummy)",
+      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
+    },
+    {
+      "album": {
         "name": "Rugged 2.0 (with Olivetheboy)",
         "url": "https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb"
       },
@@ -17514,7 +17554,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
@@ -17661,6 +17701,24 @@
     },
     {
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154328,
+      "name": "SEX LOVE UNDERSTANDING TRUST",
+      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
+    },
+    {
+      "album": {
         "name": "Sexy Roma",
         "url": "https://open.spotify.com/album/1IegkTCiqiahBKNx6q1swn"
       },
@@ -17764,7 +17822,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 169963,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6B47HeuNN6VsA0rydmv5eB"
@@ -17840,7 +17898,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
@@ -18906,7 +18964,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 117362,
       "name": "Stick to the Plan",
       "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
@@ -20428,7 +20486,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 161632,
       "name": "Uwese (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552"

@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/1eDsWM8fPDE511CDVJhD5p.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Like a Shooting Star \(feat\. 初音ミク\)](https://open.spotify.com/track/70VgBGCxm3rEP65NWIRi8q) | [Crusher](https://open.spotify.com/artist/0KSHyYpjnYwD2hanvF2s8K), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Like a Shooting Star](https://open.spotify.com/album/29tXSN4zCV9K2kkF4pTvRV) | 3:12 |
+| 1 | [Like a Shooting Star \(feat\. 初音ミク\)](https://open.spotify.com/track/70VgBGCxm3rEP65NWIRi8q) | [Crusher\-P](https://open.spotify.com/artist/0gnBpQrAfWy73XpB4ZZZYX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Like a Shooting Star](https://open.spotify.com/album/29tXSN4zCV9K2kkF4pTvRV) | 3:12 |
 | 2 | [キュビズム \(feat\. 初音ミク\)](https://open.spotify.com/track/1VFOYZ2bhmlPgzC7VALZiY) | [eco](https://open.spotify.com/artist/52ucEWRXDAG6YYspFxjN0N), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [キュビズム](https://open.spotify.com/album/0KjdsIUuRs5TMOdMUzBf5R) | 1:07 |
 | 3 | [インプレゾンビ \(feat\. 重音テト\)](https://open.spotify.com/track/2Psjiwecc3IX6OlSFOezYi) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [Cautions!!!](https://open.spotify.com/album/5S2n1RyL9UhWd1nnZPOsic) | 2:37 |
 | 4 | [アルマニ \(feat\. 初音ミク\)](https://open.spotify.com/track/19lrGATP757nPm5DPqWFQm) | [ざんぎ](https://open.spotify.com/artist/4wDMrlrNQiBlMgsZBzGOhP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アルマニ](https://open.spotify.com/album/3K90mzXwuhDI7IbAgaVpAg) | 3:34 |

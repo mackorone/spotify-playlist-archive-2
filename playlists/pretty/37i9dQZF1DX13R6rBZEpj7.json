@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 287121,
+  "num_followers": 287157,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "What Do I Need To Do",
-        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 183070,
-      "name": "What Do I Need To Do",
-      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "I've Got A Crush",
         "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 148956,
       "name": "I've Got A Crush",
       "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "What Do I Need To Do",
+        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 183070,
+      "name": "What Do I Need To Do",
+      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "SEND IT",
-        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "SEND IT",
-      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "Sorry I'm Like This",
         "url": "https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 172904,
       "name": "Sorry I'm Like This",
       "url": "https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "SEND IT",
+        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
+      },
+      "artists": [
+        {
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "SEND IT",
+      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 170462,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Club Orthodontics",
         "url": "https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 152871,
       "name": "No Chase",
       "url": "https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 170462,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        },
-        {
-          "name": "Wardy",
-          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "I Would Like (Chad Harrison Remix)",
         "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 187708,
       "name": "I Would Like - Chad Harrison Remix",
       "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Wardy",
+          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "No Lie (BL3SS Remix)",
+        "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
+      },
+      "artists": [
+        {
+          "name": "Harry T",
+          "url": "https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "No Lie - BL3SS Remix",
+      "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Excuses / Dem Ones",
         "url": "https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K"
       },
@@ -1343,46 +1363,18 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Little Bitta This",
-        "url": "https://open.spotify.com/album/3sTmICLlDJWDkXjHnQDuq1"
+        "name": "I Just Want U",
+        "url": "https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD"
       },
       "artists": [
         {
-          "name": "Neumonic",
-          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
-        },
-        {
-          "name": "Morty",
-          "url": "https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD"
-        },
-        {
-          "name": "Melvyn",
-          "url": "https://open.spotify.com/artist/0KdHrIqg805HwRwdxTMhjK"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         }
       ],
-      "duration_ms": 204315,
-      "name": "Little Bitta This",
-      "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "No Lie (BL3SS Remix)",
-        "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
-      },
-      "artists": [
-        {
-          "name": "Harry T",
-          "url": "https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa"
-        },
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 134166,
-      "name": "No Lie - BL3SS Remix",
-      "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
+      "duration_ms": 208050,
+      "name": "I Just Want U",
+      "url": "https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk"
     }
   ],
   "unique_name": "Bassline Bangers",

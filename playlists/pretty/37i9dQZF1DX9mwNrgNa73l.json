@@ -1,12 +1,12 @@
 {
   "description": "Jahaan bhi dekhun tera nishaan hai, mehraab-e-dil men teri azaan hai.",
-  "num_followers": 180799,
+  "num_followers": 180864,
   "original_name": "South Asian Sufi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxYkGqJRMmFgxcoYz9puBuZl97J",
+  "snapshot_id": "AAAAADt34Lg7qoVNIgbfbWtMpgqFfibo",
   "tracks": [
     {
       "added_at": "2026-09-03 07:25:34",
@@ -23,6 +23,106 @@
       "duration_ms": 383804,
       "name": "Dam Mast Qalander",
       "url": "https://open.spotify.com/track/72VT8vFpzIj5jkU6XtDD1Z"
+    },
+    {
+      "added_at": "2026-10-16 03:00:21",
+      "album": {
+        "name": "Ishq Da Jam",
+        "url": "https://open.spotify.com/album/5RDb67dbW2ClJ3xf5YcMPw"
+      },
+      "artists": [
+        {
+          "name": "Humera Channa",
+          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
+        },
+        {
+          "name": "Mezan Sur Ji Baithak",
+          "url": "https://open.spotify.com/artist/1djExkhiVjX4eN5gJLxKU5"
+        }
+      ],
+      "duration_ms": 318947,
+      "name": "Ishq Da Jam",
+      "url": "https://open.spotify.com/track/5Xz78SGGTb0ft3RsACbvch"
+    },
+    {
+      "added_at": "2026-10-16 03:00:21",
+      "album": {
+        "name": "Nafs Apne Nu Maar (Nafs)",
+        "url": "https://open.spotify.com/album/62tTioOKJ6YB3JfI6LTh7G"
+      },
+      "artists": [
+        {
+          "name": "Ramzan Jani",
+          "url": "https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Nafs Apne Nu Maar (Nafs)",
+      "url": "https://open.spotify.com/track/3hhPqrARe4TLaHFkxHNsHQ"
+    },
+    {
+      "added_at": "2026-10-16 03:00:21",
+      "album": {
+        "name": "Ustad",
+        "url": "https://open.spotify.com/album/1z5mwvYcuzuaS0r2LaSmXG"
+      },
+      "artists": [
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 215316,
+      "name": "Meri Zindagi Hai Tu",
+      "url": "https://open.spotify.com/track/4ekFCtm9Fuzn6Y8GiYz4N8"
+    },
+    {
+      "added_at": "2026-10-16 03:00:21",
+      "album": {
+        "name": "Tak Tak",
+        "url": "https://open.spotify.com/album/3pgeRFQCER23xrdD1dPykp"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Tak Tak",
+      "url": "https://open.spotify.com/track/24dOCa2ZLOA2hSZVoXxBI4"
+    },
+    {
+      "added_at": "2026-10-16 03:00:21",
+      "album": {
+        "name": "Ustad",
+        "url": "https://open.spotify.com/album/1z5mwvYcuzuaS0r2LaSmXG"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "Kabeer Khan",
+          "url": "https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/3LzuJ9dOteBzSugqSU0vZg"
     },
     {
       "added_at": "2026-09-03 07:25:34",

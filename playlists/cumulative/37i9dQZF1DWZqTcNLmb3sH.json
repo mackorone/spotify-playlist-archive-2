@@ -13859,6 +13859,32 @@
     },
     {
       "album": {
+        "name": "Friendship Song (From \"Maarige Daari\")",
+        "url": "https://open.spotify.com/album/4xv1oGadmdoNOpjj1uplv4"
+      },
+      "artists": [
+        {
+          "name": "Vijayalaxmi Mettinahole",
+          "url": "https://open.spotify.com/artist/0Y21TyAFkjyalKuDvyvT75"
+        },
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Swamynathan RK",
+          "url": "https://open.spotify.com/artist/2UB9m6meOJaCtdE2VLxrmq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Friendship Song - From \"Maarige Daari\"",
+      "url": "https://open.spotify.com/track/0gdPSztGuILUmy7dm72ID7"
+    },
+    {
+      "album": {
         "name": "#ParuParvathy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22STqh4nyxDDLaOKUtgQsw"
       },

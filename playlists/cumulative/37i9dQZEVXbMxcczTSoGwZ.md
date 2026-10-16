@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,512 songs - 7 day 16 hr 5 min
+3,513 songs - 7 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,8 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-19 | 2025-12-28 |
 | [Jingle Bell Rock](https://open.spotify.com/track/2N75B0jqKb13nTFpGEcC90) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6INqGgwMbLahKfHC4nfPYO) | 2:15 | 2021-12-19 | 2021-12-27 |
 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 | 2024-10-12 | 2024-10-18 |
-| [Join Me In Death](https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7tRL0nif9woiO3r7iLl3iD) | 3:36 | 2026-10-14 |  |
+| [Join Me \- Razorblade Mix](https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/36tz5XLSdscEvXvzWQwSXv) | 3:36 | 2026-10-15 |  |
+| [Join Me In Death](https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7tRL0nif9woiO3r7iLl3iD) | 3:36 | 2026-10-14 | 2026-10-16 |
 | [Joka Päivä Ja Joka Ikinen Yö](https://open.spotify.com/track/4neLYZzrh6Zrblc4VWaZFF) | [Eppu Normaali](https://open.spotify.com/artist/6KbCFHgM4basg1TvK3oEzv) | [Valkoinen Kupla](https://open.spotify.com/album/3XNFNh83UJU6392ILj0zq8) | 4:43 | 2026-08-09 | 2026-08-13 |
 | [Joka Päivä Ja Joka Ikinen Yö \- Remastered](https://open.spotify.com/track/1npgiW1IoVIJxVhhfQsq4r) | [Eppu Normaali](https://open.spotify.com/artist/6KbCFHgM4basg1TvK3oEzv) | [Jackpot – 101 Eppu\-klassikkoa 1978–2009](https://open.spotify.com/album/6NqDvU3yAQZw2IU27J6y69) | 4:43 | 2026-08-08 | 2026-08-14 |
 | [Jokainen aamu \(feat\. Bee & Olavi Uusivirta\)](https://open.spotify.com/track/4czl7AfRG7PklYbZGFQLRq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 2:45 | 2025-12-13 | 2025-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607,380 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,607,371 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 3 | [Miami Vice](https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [JamPack](https://open.spotify.com/album/1Q6F68AS8dqwHqc62cEaiD) | 3:02 |
 | 4 | [Gyal Good](https://open.spotify.com/track/60L2FqkzM2yYMxVvyFOZbu) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [NPT](https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z) | 2:32 |
 | 5 | [Passport Princess](https://open.spotify.com/track/2xoieEijJbhwhxBzXVpvnm) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passport Princess](https://open.spotify.com/album/2eUtwXjwqOfFVatGK9ri8h) | 2:14 |
-| 6 | [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU) | [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8) | [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX) | 2:15 |
+| 6 | [As A Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU) | [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8), [Jagwa De Champ](https://open.spotify.com/artist/3KKGLGlbW03IlZSnweDZZH) | [As A Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX) | 2:15 |
 | 7 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |
 | 8 | [SHINE](https://open.spotify.com/track/3XgZakIq0pKW1S5XlOPzRs) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [SHINE](https://open.spotify.com/album/4T2Rrdxdj3Hy1ZKHf3KnrB) | 2:24 |
 | 9 | [Van Cleef](https://open.spotify.com/track/6bjkO1d4c5lt6iBlvUxZHe) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Attomatic](https://open.spotify.com/artist/5QkYxKkEofNkQc82SgamSb) | [Van Cleef](https://open.spotify.com/album/3DJPjXWaeUcxqeAdRoGD6a) | 2:21 |

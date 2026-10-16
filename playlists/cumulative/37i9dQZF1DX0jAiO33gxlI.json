@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Emicida, Puro Suco",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Sant",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -770,6 +770,28 @@
       "duration_ms": 160000,
       "name": "40 Graus",
       "url": "https://open.spotify.com/track/1aqQWcSNFQYtp1bF7lziKI"
+    },
+    {
+      "album": {
+        "name": "4AM (Freeverse)",
+        "url": "https://open.spotify.com/album/2kNCievnPzD2EFXsvTWEqe"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128455,
+      "name": "4AM (Freeverse)",
+      "url": "https://open.spotify.com/track/67AfJEbIRlWc0TkhqC8vBf"
     },
     {
       "album": {
@@ -1680,7 +1702,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 205479,
       "name": "Aben\u00e7oado Demais",
       "url": "https://open.spotify.com/track/5gcX8f2CRP7bid2czoj4yP"
@@ -4363,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "Quintess\u00eancia",
+        "url": "https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/7wcsf2xN813UbVdCQqwrsk"
+    },
+    {
+      "album": {
         "name": "Barras",
         "url": "https://open.spotify.com/album/4XfX2ueZWoPWeunBMtD6jY"
       },
@@ -5400,7 +5444,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 180017,
       "name": "Bonvivant",
       "url": "https://open.spotify.com/track/1XmkZQN1bjD1yUMjErtEqG"
@@ -6678,7 +6722,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 146086,
       "name": "Cara Torta",
       "url": "https://open.spotify.com/track/33MJVawpTHHyAOPDxvWWwv"
@@ -8250,7 +8294,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 279244,
       "name": "CONTAGEM REGRESSIVA!",
       "url": "https://open.spotify.com/track/65TWLpEX1uca55cogMKnsn"
@@ -11030,7 +11074,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 300000,
       "name": "Ditado do Mais V\u00e9io",
       "url": "https://open.spotify.com/track/2qHYJ8qDlKvqjX4jfX1jcw"
@@ -16026,6 +16070,36 @@
       "duration_ms": 222371,
       "name": "GR\u00c9CIA",
       "url": "https://open.spotify.com/track/66WeFkFXdWoDaKgk8SrnBs"
+    },
+    {
+      "album": {
+        "name": "Gta",
+        "url": "https://open.spotify.com/album/0dW5OqgbOcrjFsiwft2WbC"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159921,
+      "name": "Gta",
+      "url": "https://open.spotify.com/track/6iQU1nlRt0W3uZTEvd6BK6"
     },
     {
       "album": {
@@ -21702,7 +21776,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 135527,
       "name": "Mil Problemas",
       "url": "https://open.spotify.com/track/0q0oEqe3R8aKIVvf6zoNje"
@@ -21728,6 +21802,24 @@
       "duration_ms": 148962,
       "name": "MILF (Minhas Irm\u00e3s Livres e Fortes)",
       "url": "https://open.spotify.com/track/1rl7y3PvD6RIngNDHKpTCw"
+    },
+    {
+      "album": {
+        "name": "Mili Mili (Orquestra) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0Rg1KNBwQHHda2sBxytMNY"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214428,
+      "name": "Mili Mili (Orquestra) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gSmXKH2TJKGp0KAqHUajq"
     },
     {
       "album": {
@@ -22778,7 +22870,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 74534,
       "name": "M\u00c9RITOCASSINO",
       "url": "https://open.spotify.com/track/04AEnemQmnaTdaMeWfLbJf"
@@ -24226,6 +24318,40 @@
       "duration_ms": 131368,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/4ip7eW9vRVyabiymJg9OsM"
+    },
+    {
+      "album": {
+        "name": "Nossa Vez",
+        "url": "https://open.spotify.com/album/33xU14jTZmgTFtYgCyib70"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "MC Nathanael",
+          "url": "https://open.spotify.com/artist/19j6k8zaS7LLly54vyWdsW"
+        },
+        {
+          "name": "Yasmin Limas",
+          "url": "https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf"
+        },
+        {
+          "name": "As Meninas do Rap I Fam\u00edlia UniVersos",
+          "url": "https://open.spotify.com/artist/5jxdm3KawOwEdA4TzFq308"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233725,
+      "name": "Nossa Vez",
+      "url": "https://open.spotify.com/track/5HWpwYtNL3MvwVvbAwZ4wR"
     },
     {
       "album": {
@@ -27040,7 +27166,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 358210,
       "name": "OURO, MIRRA E INCENSO",
       "url": "https://open.spotify.com/track/70DQxZJurPoqijwaRxqGaE"
@@ -29271,6 +29397,36 @@
     },
     {
       "album": {
+        "name": "PIQUE RACIONAIS",
+        "url": "https://open.spotify.com/album/51FIhkhWr9WsMoUtiCGUhT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Mar\u00e9",
+          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "f.b.o",
+          "url": "https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179472,
+      "name": "PIQUE RACIONAIS",
+      "url": "https://open.spotify.com/track/0HLGjMZyZjdJcKjJ2oszlV"
+    },
+    {
+      "album": {
         "name": "Pirraia Correria",
         "url": "https://open.spotify.com/album/4yVKCyUdhvQBoDCBhC9M86"
       },
@@ -30637,6 +30793,32 @@
     },
     {
       "album": {
+        "name": "\u00daltima Mesa da Lapa",
+        "url": "https://open.spotify.com/album/2kAUuUekQJv6ysJsEL4nHl"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        },
+        {
+          "name": "Mvzza",
+          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173903,
+      "name": "Profecias Profanas",
+      "url": "https://open.spotify.com/track/3DOrShD5N4UlbIjyT06f8j"
+    },
+    {
+      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
@@ -31332,7 +31514,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 117073,
       "name": "Quem Tava L\u00e1",
       "url": "https://open.spotify.com/track/4tisVe5pOtpagKMbGPBFyQ"
@@ -32062,6 +32244,36 @@
       "duration_ms": 189759,
       "name": "RE-SENTIMENTO",
       "url": "https://open.spotify.com/track/7FSRDAKQoCYq2458l8oKRP"
+    },
+    {
+      "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/6qQjD2vtenrz1gQVUxDXjW"
+      },
+      "artists": [
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Tamara Franklin",
+          "url": "https://open.spotify.com/artist/5Y9dtVLdhTkabuDGfFgerX"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216769,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/0X9xX6mSAsm2hNtjceJBLO"
     },
     {
       "album": {
@@ -37717,6 +37929,28 @@
     },
     {
       "album": {
+        "name": "Times Square 2",
+        "url": "https://open.spotify.com/album/6FDZnWySMR2kcrl0SQ2DaT"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "Kizuato",
+          "url": "https://open.spotify.com/artist/1CDBZ6ZYceJMFEj5lMn1yi"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Times Square 2",
+      "url": "https://open.spotify.com/track/50FpTMeUJfa3nDDvNFufwT"
+    },
+    {
+      "album": {
         "name": "Tinky Winky",
         "url": "https://open.spotify.com/album/1wZUskef25Q6eL0uFAKv28"
       },
@@ -39630,7 +39864,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 187758,
       "name": "VANGUARDAH",
       "url": "https://open.spotify.com/track/3WMzulhqTgVNW2LBjVvm8N"

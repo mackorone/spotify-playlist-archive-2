@@ -3569,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "Off With Her Head",
+        "url": "https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161337,
+      "name": "Move (feat. Yseult)",
+      "url": "https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu"
+    },
+    {
+      "album": {
         "name": "Just Keke",
         "url": "https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV"
       },

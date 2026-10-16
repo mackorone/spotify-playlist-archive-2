@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5J5252sLxpsS2aE0SqFZVA"
+      },
+      "artists": [
+        {
+          "name": "Chencho Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7dFJ6w6OTNwVKot15V3RMx"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248863,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/4VQL3vGXuYHxArNX1Gf9so"
+    },
+    {
+      "album": {
         "name": "406",
         "url": "https://open.spotify.com/album/6Exg7eOc74YG4IoFotHuvJ"
       },
@@ -1377,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Bailar en Beirut",
+        "url": "https://open.spotify.com/album/458Uk9AgXDT0pceeas0paA"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227690,
+      "name": "Bailar en Beirut",
+      "url": "https://open.spotify.com/track/5CTagJ9vQMHwRXQreJOMfg"
+    },
+    {
+      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1544,6 +1580,24 @@
       "duration_ms": 237325,
       "name": "Besos robados (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06sDS7TIJDylCGfJvnhUVI"
+    },
+    {
+      "album": {
+        "name": "Bicho raro",
+        "url": "https://open.spotify.com/album/3xwbi277jWTg8qxQiUytnq"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174265,
+      "name": "Bicho raro",
+      "url": "https://open.spotify.com/track/4Gzh5W9A7FAcFzoUkmg9mL"
     },
     {
       "album": {
@@ -2017,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Caras Largas",
+        "url": "https://open.spotify.com/album/6U7YP4tBO7V4WemTMmzlWx"
+      },
+      "artists": [
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "Caras Largas",
+      "url": "https://open.spotify.com/track/4CA9IaYwMN5W9noZaav3u5"
+    },
+    {
+      "album": {
         "name": "Caricias en tu espalda (feat. MARLENA)",
         "url": "https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF"
       },
@@ -2322,6 +2394,24 @@
       "duration_ms": 279726,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq"
+    },
+    {
+      "album": {
+        "name": "Colocado por ti",
+        "url": "https://open.spotify.com/album/5CMzqJnmqjsULZ9eal66lH"
+      },
+      "artists": [
+        {
+          "name": "WISTIMBER",
+          "url": "https://open.spotify.com/artist/2PCvP0taREKGddHdNdQuuY"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "Colocado por ti",
+      "url": "https://open.spotify.com/track/5hcVSGDdgUcqE7r84ctEml"
     },
     {
       "album": {
@@ -2760,7 +2850,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
@@ -2872,7 +2962,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -3270,6 +3360,24 @@
       "duration_ms": 193486,
       "name": "De Mi Tambi\u00e9n Me Puedo Salvar",
       "url": "https://open.spotify.com/track/3Ow6VYT1AF3q455O1YKewG"
+    },
+    {
+      "album": {
+        "name": "DE MOMENTO",
+        "url": "https://open.spotify.com/album/5A65LmVDvw8Qb6yQ2niqBL"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "DE MOMENTO",
+      "url": "https://open.spotify.com/track/36BPEKUIFzlkqbkraLzfuQ"
     },
     {
       "album": {
@@ -5190,7 +5298,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 210154,
       "name": "El viaje que puede esperar",
       "url": "https://open.spotify.com/track/6aq6LIMS06mIGtcMakP21i"
@@ -5570,6 +5678,24 @@
       "duration_ms": 217799,
       "name": "Es Una Ansiedad Tan Cool",
       "url": "https://open.spotify.com/track/1xK7iqWqzc6wLQOYzTJE1J"
+    },
+    {
+      "album": {
+        "name": "Esa boca de cristal - Cap.II",
+        "url": "https://open.spotify.com/album/7mJCHvM2qt8bMl2IeYkjKl"
+      },
+      "artists": [
+        {
+          "name": "Los Estanques",
+          "url": "https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218037,
+      "name": "Esa boca de cristal - Cap.II",
+      "url": "https://open.spotify.com/track/2NYpZFuDFLoAe34BJSq4ev"
     },
     {
       "album": {
@@ -6314,7 +6440,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 163316,
       "name": "Fuimos Felices Aqu\u00ed",
       "url": "https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7"
@@ -7202,7 +7328,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 207338,
       "name": "Junto Al Cenicero",
       "url": "https://open.spotify.com/track/6NQaIhAMoO2H9ty6UJo1Du"
@@ -7534,6 +7660,24 @@
       "duration_ms": 225569,
       "name": "La Guarida",
       "url": "https://open.spotify.com/track/7fE07t0An6dmhgeJvGiOcL"
+    },
+    {
+      "album": {
+        "name": "Una Extra\u00f1a Fuerza",
+        "url": "https://open.spotify.com/album/48uj0OvE2BNKpjITEKr0Ir"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178623,
+      "name": "La habitaci\u00f3n del p\u00e1nico",
+      "url": "https://open.spotify.com/track/0f890cLSlZ0Af6495W9bNy"
     },
     {
       "album": {
@@ -8074,7 +8218,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 484573,
       "name": "La Torre Picasso",
       "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
@@ -10296,7 +10440,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
@@ -11922,7 +12066,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -12620,7 +12764,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
@@ -13069,6 +13213,24 @@
     },
     {
       "album": {
+        "name": "De Butrones y Besos",
+        "url": "https://open.spotify.com/album/4fPHWDbK0MeYFhSk0g10zz"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180927,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/41PuLD8ngwwucn2i2fRTQh"
+    },
+    {
+      "album": {
         "name": "Rozando el aire",
         "url": "https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu"
       },
@@ -13216,7 +13378,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
@@ -15099,6 +15261,24 @@
     },
     {
       "album": {
+        "name": "Un minuto de emoci\u00f3n",
+        "url": "https://open.spotify.com/album/5ccHRKfwD4PHgdyChrTkKm"
+      },
+      "artists": [
+        {
+          "name": "091",
+          "url": "https://open.spotify.com/artist/0A6WBpDrr0afYnqRMvc7OC"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293547,
+      "name": "Un minuto de emoci\u00f3n",
+      "url": "https://open.spotify.com/track/6jcjC9YEy14mmzsMPhpsvQ"
+    },
+    {
+      "album": {
         "name": "Un mundo m\u00e1gico",
         "url": "https://open.spotify.com/album/1KaKbKB99XlidZZKj3wSap"
       },
@@ -15478,7 +15658,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 164915,
       "name": "Veinticinco",
       "url": "https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V"
@@ -15752,7 +15932,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 193111,
       "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6"

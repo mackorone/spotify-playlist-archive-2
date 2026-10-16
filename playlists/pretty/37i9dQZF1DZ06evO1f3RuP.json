@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 349,
+  "num_followers": 351,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "as10gAAAAABMH46y9zpAljJ7ZxU1dGdR",
+  "snapshot_id": "as7GAAAAAABIdeYtQwoCVCRB9Dhzs+gh",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/1JlBUmVN2rRyfJPaMfGyQz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "sushi for breakfast",
         "url": "https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy"
       },
@@ -43,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
       "artists": [
         {
@@ -52,9 +68,25 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/1JlBUmVN2rRyfJPaMfGyQz"
+      "duration_ms": 157802,
+      "name": "foreigner",
+      "url": "https://open.spotify.com/track/5W8Bhbhy33PBeEeCeQtsAx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
     },
     {
       "added_at": null,
@@ -79,38 +111,6 @@
       "duration_ms": 173016,
       "name": "POP GIRL (with BAYLI & Isabella Lovestory)",
       "url": "https://open.spotify.com/track/1Gc4HLasqihMmsAJQacNuO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "foreigner",
-      "url": "https://open.spotify.com/track/5W8Bhbhy33PBeEeCeQtsAx"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "think of drugs",
         "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
       },
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi_TEK MZK, VOL. 1",
-        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
-      },
-      "artists": [
-        {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "PURPLE APE",
-      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak County, Vol. 2",
         "url": "https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 180000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hi_TEK MZK, VOL. 1",
+        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "PURPLE APE",
+      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
     },
     {
       "added_at": null,

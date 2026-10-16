@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "come volevi essere di Lamante sta succedendo di nuovo e siamo molto felici",
+  "description": "ARIETE portaci a fare serata con te e a suonare tutti i campanelli di roma alle 2 di notte ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172918,
       "name": "Allucinazione",
       "url": "https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 191093,
       "name": "Bel venerd\u00ec",
       "url": "https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211111,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/3cDXvyqP0weh4a666mQNtu"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 172000,
       "name": "Castello di rabbia/BICHA",
       "url": "https://open.spotify.com/track/2vIaYwMYAjjtzBoh4M8MfX"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 178576,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155816,
       "name": "Dentro al fumo",
       "url": "https://open.spotify.com/track/52XbuKouJsjUpTzBiPXMQg"
@@ -2542,6 +2542,28 @@
       "duration_ms": 251642,
       "name": "dettagli",
       "url": "https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz"
+    },
+    {
+      "album": {
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/41vTySQadkMdvNU9SIcqZe"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173483,
+      "name": "Diamanti",
+      "url": "https://open.spotify.com/track/6zfxjkpJZNloKSCE7EfB50"
     },
     {
       "album": {
@@ -2770,6 +2792,24 @@
       "duration_ms": 172302,
       "name": "DUE GATTI A MILANO",
       "url": "https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95"
+    },
+    {
+      "album": {
+        "name": "N OI",
+        "url": "https://open.spotify.com/album/5BIniaS2H14UoLS5GgBXTM"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Due gocce d'acqua",
+      "url": "https://open.spotify.com/track/3XUkqKfIrqleWOqcmAHoOR"
     },
     {
       "album": {
@@ -3953,6 +3993,42 @@
     },
     {
       "album": {
+        "name": "La persona peggiore del mondo",
+        "url": "https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402531,
+      "name": "Guardami",
+      "url": "https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G"
+    },
+    {
+      "album": {
+        "name": "Guardia del corpo",
+        "url": "https://open.spotify.com/album/0y1WRlvE9QsRhuHmAguxQi"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218478,
+      "name": "Guardia del corpo",
+      "url": "https://open.spotify.com/track/6IuVQGqZd5aGEnc9frfLBV"
+    },
+    {
+      "album": {
         "name": "SINCERO!",
         "url": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI"
       },
@@ -4604,7 +4680,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 203720,
       "name": "Istruzioni",
       "url": "https://open.spotify.com/track/0s0PMCHKuqZrnypRt2a44D"
@@ -4640,7 +4716,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 220693,
       "name": "Kodak",
       "url": "https://open.spotify.com/track/0WzI1nlVnx7SuVfojiuLj5"
@@ -4984,6 +5060,24 @@
       "duration_ms": 208621,
       "name": "La felicit\u00e0 e basta",
       "url": "https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe"
+    },
+    {
+      "album": {
+        "name": "Da Tutta La Vita (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2dv4ir7Bq28L4SqxX21zbw"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "La fine sei tu",
+      "url": "https://open.spotify.com/track/53GwFaNdePRbszno6Oxwn3"
     },
     {
       "album": {
@@ -6002,7 +6096,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 199205,
       "name": "Maledizione",
       "url": "https://open.spotify.com/track/3PIFOW1UKwebiblSzb0Quk"
@@ -6496,7 +6590,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 256373,
       "name": "Mi arrendo (con Brunori Sas)",
       "url": "https://open.spotify.com/track/5kxpGaL0c3qfrls4riTdNm"
@@ -7042,7 +7136,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 151011,
       "name": "Nn \u00e8 divertente",
       "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
@@ -7452,6 +7546,24 @@
       "duration_ms": 154828,
       "name": "occhisalsadisoia",
       "url": "https://open.spotify.com/track/5GGONR3S3gJtarebmj2ISa"
+    },
+    {
+      "album": {
+        "name": "ODISSEA",
+        "url": "https://open.spotify.com/album/2gZlZ0G2Y0ixkobphItoeq"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207688,
+      "name": "ODISSEA",
+      "url": "https://open.spotify.com/track/2870hDGCjgRX37KIOhSSr3"
     },
     {
       "album": {
@@ -8670,7 +8782,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 207461,
       "name": "Punto di domanda (feat. Nayt, Mecna)",
       "url": "https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe"
@@ -9641,6 +9753,24 @@
     },
     {
       "album": {
+        "name": "senza di te",
+        "url": "https://open.spotify.com/album/4uz2qSBdzV9sz38BCcxZc0"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "senza di te",
+      "url": "https://open.spotify.com/track/1jlPTAI8hxWO3j695JYEvj"
+    },
+    {
+      "album": {
         "name": "Senza Stelle",
         "url": "https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC"
       },
@@ -10294,7 +10424,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194264,
       "name": "Su x gi\u00f9",
       "url": "https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby"
@@ -10417,6 +10547,50 @@
     },
     {
       "album": {
+        "name": "Temporale",
+        "url": "https://open.spotify.com/album/5AKHIJCkPQVPxAjhIeupxW"
+      },
+      "artists": [
+        {
+          "name": "Nervi",
+          "url": "https://open.spotify.com/artist/0chKXV04c85z3yZ5fjeXqm"
+        },
+        {
+          "name": "Dente",
+          "url": "https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256913,
+      "name": "Temporale",
+      "url": "https://open.spotify.com/track/5x4R9FJdr8YYsBdsBFxJhv"
+    },
+    {
+      "album": {
+        "name": "Tentacoli del cuore",
+        "url": "https://open.spotify.com/album/4vcjJ8QvatsVVDQTrcObLL"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        },
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Tentacoli del cuore",
+      "url": "https://open.spotify.com/track/1kcGs6vTDrUGBWV1B9HH49"
+    },
+    {
+      "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
       },
@@ -10490,7 +10664,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 138043,
       "name": "ti amo",
       "url": "https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK"
@@ -11094,7 +11268,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 227200,
       "name": "Tutto torna",
       "url": "https://open.spotify.com/track/4VU0ctmkbFPNKfNZl5Jrkv"

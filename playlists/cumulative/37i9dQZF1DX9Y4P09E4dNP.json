@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Mr Drew",
+  "description": "The big Hip-Life hits rn. Cover: Sarkodie",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -2097,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237561,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd"
+    },
+    {
+      "album": {
         "name": "Bar 7",
         "url": "https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G"
       },
@@ -4013,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
+    },
+    {
+      "album": {
         "name": "Yeesom Sika",
         "url": "https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e"
       },
@@ -4334,6 +4374,24 @@
       "duration_ms": 353572,
       "name": "MILLIONS ii",
       "url": "https://open.spotify.com/track/50IzCGQidECh5zojglWB6w"
+    },
+    {
+      "album": {
+        "name": "MIX MIX (KINGSIZE)",
+        "url": "https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9"
+      },
+      "artists": [
+        {
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "MIX MIX (KINGSIZE)",
+      "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
     },
     {
       "album": {
@@ -4844,6 +4902,24 @@
       "duration_ms": 196257,
       "name": "Obrempong",
       "url": "https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV"
+    },
+    {
+      "album": {
+        "name": "Odo Ankasa",
+        "url": "https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232155,
+      "name": "Odo Ankasa",
+      "url": "https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm"
     },
     {
       "album": {
@@ -7590,6 +7666,24 @@
       "duration_ms": 166666,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ"
+    },
+    {
+      "album": {
+        "name": "Your Body (Craze)",
+        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Your Body (Craze)",
+      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
       "album": {

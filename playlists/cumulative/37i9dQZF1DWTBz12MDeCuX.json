@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Morpheuz",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Domiziana, Souly",
   "name": "me right now",
   "tracks": [
     {
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 120061,
       "name": "29 grad",
       "url": "https://open.spotify.com/track/61YEx2pliYbXovYldVHJPp"
@@ -5837,6 +5837,28 @@
     },
     {
       "album": {
+        "name": "wir waren hier",
+        "url": "https://open.spotify.com/album/6LCDwbKdvjnJsLvEbo6ggy"
+      },
+      "artists": [
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        },
+        {
+          "name": "DXVE",
+          "url": "https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168251,
+      "name": "augenblick",
+      "url": "https://open.spotify.com/track/7JvROWDnjN5KUWr5hD9XdG"
+    },
+    {
+      "album": {
         "name": "Augenblick",
         "url": "https://open.spotify.com/album/0VrSTsqdT4I9BrDmqlA4lC"
       },
@@ -7116,7 +7138,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 170400,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
@@ -7674,6 +7696,32 @@
       "duration_ms": 131228,
       "name": "Bauchnabelpiercing",
       "url": "https://open.spotify.com/track/6IMyz7eNbGhmDrgdelmqgB"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -16988,7 +17036,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137996,
       "name": "DUBAI FORTNITE LABUBU",
       "url": "https://open.spotify.com/track/1zmokWFIoCwcSwMoX5Zi3X"
@@ -17176,6 +17224,24 @@
       "duration_ms": 138582,
       "name": "DVD",
       "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
+    },
+    {
+      "album": {
+        "name": "dynamite",
+        "url": "https://open.spotify.com/album/0zPc8uqnsyGAkFdUgvr3PK"
+      },
+      "artists": [
+        {
+          "name": "franz1",
+          "url": "https://open.spotify.com/artist/0puAw4gZrgsGHsRUfcC4kp"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "dynamite",
+      "url": "https://open.spotify.com/track/3nVrNnbOLSdREwlGDhSmQQ"
     },
     {
       "album": {
@@ -19704,6 +19770,28 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "album": {
@@ -24478,7 +24566,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 165785,
       "name": "gg",
       "url": "https://open.spotify.com/track/74mHDke3t5W8k4QsL2v49J"
@@ -25970,7 +26058,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 173206,
       "name": "Gro\u00dfe Fragen",
       "url": "https://open.spotify.com/track/4eXkBcQR26SLaoWYsPyZwJ"
@@ -29537,6 +29625,24 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "album": {
         "name": "how could u love somebody like me?",
         "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
       },
@@ -31562,7 +31668,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 155742,
       "name": "Ich versteh es jetzt",
       "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
@@ -33668,7 +33774,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
@@ -34572,7 +34678,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 279097,
       "name": "Kartenhaus",
       "url": "https://open.spotify.com/track/38xbNP5TeQM90LW0FVqbOo"
@@ -35422,6 +35528,24 @@
       "duration_ms": 199306,
       "name": "Kinder k\u00f6nnen fies sein",
       "url": "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2"
+    },
+    {
+      "album": {
+        "name": "Kinder mit Kippen",
+        "url": "https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213649,
+      "name": "Kinder mit Kippen",
+      "url": "https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8"
     },
     {
       "album": {
@@ -39953,6 +40077,28 @@
     },
     {
       "album": {
+        "name": "lovergirl",
+        "url": "https://open.spotify.com/album/4ROxylQpMHsKkoSpv0VOg3"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/5P46TidG49SHFNzdiiVHiN"
+    },
+    {
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
       },
@@ -40190,7 +40336,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 113761,
       "name": "Luftkuss",
       "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
@@ -41590,6 +41736,24 @@
       "duration_ms": 195745,
       "name": "Medizin (feat. Jamule)",
       "url": "https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y"
+    },
+    {
+      "album": {
+        "name": "Meer",
+        "url": "https://open.spotify.com/album/7pYClHMXTt7Gge4UG1CtFr"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199605,
+      "name": "Meer",
+      "url": "https://open.spotify.com/track/3z8uaAcm9s6u9RlBo5pZha"
     },
     {
       "album": {
@@ -46024,7 +46188,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 156223,
       "name": "nicht so deep",
       "url": "https://open.spotify.com/track/4UXp88yPEVX5iGbkUwjgUl"
@@ -48712,6 +48876,24 @@
       "duration_ms": 134480,
       "name": "Omg",
       "url": "https://open.spotify.com/track/78xlXER5UNOs7fQE1wKOIg"
+    },
+    {
+      "album": {
+        "name": "OMGott",
+        "url": "https://open.spotify.com/album/58mmrHRP0seKQsFsGm4D1J"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "OMGott",
+      "url": "https://open.spotify.com/track/4bLkgAJAirJLXfhK8nSDSJ"
     },
     {
       "album": {
@@ -51907,6 +52089,24 @@
     },
     {
       "album": {
+        "name": "prada",
+        "url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "prada",
+      "url": "https://open.spotify.com/track/6jMgG7UWL3rVZDdc4BVdpC"
+    },
+    {
+      "album": {
         "name": "Prada Sport",
         "url": "https://open.spotify.com/album/7mG2EsjB4abeeXXYZ1dgPV"
       },
@@ -52786,6 +52986,24 @@
       "duration_ms": 337600,
       "name": "Rapide (Feat. Boby Cornelius)",
       "url": "https://open.spotify.com/track/5KOoIgOLXhdqC70suGkoYW"
+    },
+    {
+      "album": {
+        "name": "Ski Aggu Musik",
+        "url": "https://open.spotify.com/album/34Ec9ndPZAQ1djUWyplYu1"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124346,
+      "name": "Rappenhustlenseshennochmal",
+      "url": "https://open.spotify.com/track/226gagMoqT9h9QdhwwdROS"
     },
     {
       "album": {
@@ -59532,7 +59750,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 137710,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex"
@@ -64653,6 +64871,24 @@
     },
     {
       "album": {
+        "name": "aus dem Koffer",
+        "url": "https://open.spotify.com/album/1oIqf0dnQ4NDUMz1IjFD8j"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/76hre90HwBjsFgmJXw4iWa"
+    },
+    {
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -64668,6 +64904,24 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
+        "name": "Verstr!ckt",
+        "url": "https://open.spotify.com/album/3KlCMGKj09fpSt2Y5wFM6Q"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/71iYzirTmJUZSD4M9E4Ong"
     },
     {
       "album": {
@@ -65248,7 +65502,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 147555,
       "name": "troubled man",
       "url": "https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL"
@@ -68091,6 +68345,28 @@
     },
     {
       "album": {
+        "name": "vielleicht w\u00e4r's besser",
+        "url": "https://open.spotify.com/album/1hft4mSFUjCvgNuAfIuoMe"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "vielleicht w\u00e4r's besser",
+      "url": "https://open.spotify.com/track/5ocfJbyBKgnZfSJK2paPcp"
+    },
+    {
+      "album": {
         "name": "VILLAIN / EXCITING",
         "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
       },
@@ -70056,7 +70332,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 168000,
       "name": "Wegrennen",
       "url": "https://open.spotify.com/track/58mI5BQfrgYxvSY1C6WrHg"
@@ -71410,6 +71686,28 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
       "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
+    },
+    {
+      "album": {
+        "name": "When A Dream Comes True, A Fantasy Dies",
+        "url": "https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "When A Dream Comes True, A Fantasy Dies",
+      "url": "https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE"
     },
     {
       "album": {
@@ -72854,7 +73152,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 140733,
       "name": "WOHER WILLST DU WISSEN",
       "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"
@@ -73104,7 +73402,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"

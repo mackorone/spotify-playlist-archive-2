@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Tracks voor de juiste vibe. Cover: Tiakola",
+  "description": "Tracks voor de juiste vibe. Cover: Ronnie Flex",
   "name": "Vibes",
   "tracks": [
     {
@@ -126,6 +126,28 @@
       "duration_ms": 197720,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "2am in toronto",
+      "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
     },
     {
       "album": {
@@ -570,7 +592,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 154960,
       "name": "Als Jij Het Weet",
       "url": "https://open.spotify.com/track/4X0txCyuKYVnJALD2AmFTD"
@@ -786,7 +808,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 211090,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 204000,
       "name": "Falling 4 Ya",
       "url": "https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 152979,
       "name": "GIRLS (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
@@ -3915,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
+    },
+    {
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -4018,7 +4058,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 125586,
       "name": "Jij Hebt Mij",
       "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
@@ -4458,6 +4498,28 @@
     {
       "album": {
         "name": "Lately",
+        "url": "https://open.spotify.com/album/52ZWpYHV5E01jofVuxyRs0"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Samoht",
+          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6e08Yav3ncOR1K15J2vh6y"
+    },
+    {
+      "album": {
+        "name": "Lately",
         "url": "https://open.spotify.com/album/33e34zasnjNgcu7bFMkkCB"
       },
       "artists": [
@@ -4755,6 +4817,28 @@
     },
     {
       "album": {
+        "name": "Love Like Her (Gypshan's Version)",
+        "url": "https://open.spotify.com/album/42QqN4NdMuUmz5mhRoK2CF"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150117,
+      "name": "Love Like Her - Gypshan's Version",
+      "url": "https://open.spotify.com/track/2ozfnyblKLTdmee4e11qZw"
+    },
+    {
+      "album": {
         "name": "Love Me Now",
         "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
       },
@@ -4894,6 +4978,28 @@
       "duration_ms": 133043,
       "name": "Make U Mine",
       "url": "https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5"
+    },
+    {
+      "album": {
+        "name": "Makkie",
+        "url": "https://open.spotify.com/album/5pnWB7QChEF12oNF11TzDg"
+      },
+      "artists": [
+        {
+          "name": "ENDS",
+          "url": "https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu"
+        },
+        {
+          "name": "Willybeatsz",
+          "url": "https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115369,
+      "name": "Makkie",
+      "url": "https://open.spotify.com/track/5Tj2SjmEqtqw2SzWlfDiWO"
     },
     {
       "album": {
@@ -5956,7 +6062,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
@@ -7134,7 +7240,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 124403,
       "name": "She Bad",
       "url": "https://open.spotify.com/track/5u4BgT0yYdr6w9kt1S4O9c"
@@ -8084,6 +8190,24 @@
       "duration_ms": 137600,
       "name": "They Do It",
       "url": "https://open.spotify.com/track/10zH36AZ0j6ee7pWKvHw1j"
+    },
+    {
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/28Mc4RzhwNKeJEKgbKmVvl"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190084,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4WVodmLQfyfMa5xoFyk1MU"
     },
     {
       "album": {
@@ -9210,7 +9334,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 135799,
       "name": "XCITED",
       "url": "https://open.spotify.com/track/10Zy0dxQPgiwaLw80UMljd"
@@ -9320,6 +9444,28 @@
       "duration_ms": 154285,
       "name": "ZAAZAA - Pearl Ramos & Janice Fierce Remix",
       "url": "https://open.spotify.com/track/5m4czfHsS163trYnoCGV7F"
+    },
+    {
+      "album": {
+        "name": "Zo Special",
+        "url": "https://open.spotify.com/album/1bvxTG0cqRo7khTw6HCuNt"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Zo Special",
+      "url": "https://open.spotify.com/track/6817A0akmUfk23M1CDHY0E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Featuring Cameron Winter and the concert of a lifetime 🌟  <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,407 likes - 127 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,383 likes - 127 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

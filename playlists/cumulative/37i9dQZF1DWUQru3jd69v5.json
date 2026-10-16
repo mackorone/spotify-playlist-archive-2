@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Clam\u00f6 in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "RIRI2K in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 125669,
       "name": "#hihaters (feat. Enny P)",
       "url": "https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 150423,
       "name": "100MILA (Grazie Mai) [feat. Yago]",
       "url": "https://open.spotify.com/track/6XJWF1hKe90aixK5haXMyy"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 148284,
       "name": "ACCENDINO",
       "url": "https://open.spotify.com/track/5Tji6xF6sSTunstcj1zVNR"
@@ -3574,6 +3574,24 @@
       "duration_ms": 121154,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/1ycn9FKyoyjQseu6lbFfPN"
+    },
+    {
+      "album": {
+        "name": "ALLA FINE",
+        "url": "https://open.spotify.com/album/6h4pCM54abtHOMwp0mmb7Q"
+      },
+      "artists": [
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195370,
+      "name": "ALLA FINE",
+      "url": "https://open.spotify.com/track/51exmtZgvJDmxdzW8dCXdQ"
     },
     {
       "album": {
@@ -6384,7 +6402,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 87346,
       "name": "Bello&Bravo",
       "url": "https://open.spotify.com/track/1rKb0VVbyEzRwx8dpEqvJi"
@@ -10023,6 +10041,32 @@
     },
     {
       "album": {
+        "name": "CODICE DA INCIS II",
+        "url": "https://open.spotify.com/album/1yykpKpeHXZaiLq2JoYxoZ"
+      },
+      "artists": [
+        {
+          "name": "Incis ZONE",
+          "url": "https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
+        },
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "CASSANO (feat. YD Frost)",
+      "url": "https://open.spotify.com/track/4n6SJU9F4B35KVtQX8Kius"
+    },
+    {
+      "album": {
         "name": "ECO",
         "url": "https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91"
       },
@@ -10042,6 +10086,28 @@
       "duration_ms": 89164,
       "name": "Cassetta di Sicurezza",
       "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
+    },
+    {
+      "album": {
+        "name": "Cassetta di Sicurezza 2",
+        "url": "https://open.spotify.com/album/1RHiRqzooJVw8bTRjC6GZq"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132167,
+      "name": "Cassetta di Sicurezza 2",
+      "url": "https://open.spotify.com/track/3CseK1LP2lC5tZ8GCfOnKd"
     },
     {
       "album": {
@@ -12018,7 +12084,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-16",
       "duration_ms": 113893,
       "name": "consapevolezzando",
       "url": "https://open.spotify.com/track/4NqcldjePWN9AxGZBgj1UB"
@@ -16397,6 +16463,28 @@
     },
     {
       "album": {
+        "name": "LA STRADA DEL SUCCESSO",
+        "url": "https://open.spotify.com/album/6LjE15J1DuDKE2Blx6X7jw"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7"
+        },
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133236,
+      "name": "EXCLUSIVE (feat. twentyone21)",
+      "url": "https://open.spotify.com/track/0qJNim6aHrOKjbADDVMcvX"
+    },
+    {
+      "album": {
         "name": "Exodus 23.1",
         "url": "https://open.spotify.com/album/4BmIACbPUjVdF5CYo3YXSi"
       },
@@ -18102,6 +18190,24 @@
       "duration_ms": 135130,
       "name": "FOLLIA",
       "url": "https://open.spotify.com/track/1Es5ce2ol45NvQbl4tgeW4"
+    },
+    {
+      "album": {
+        "name": "fomo :/",
+        "url": "https://open.spotify.com/album/63XNLA0BiSXp3zCdlwMJ3d"
+      },
+      "artists": [
+        {
+          "name": "RIRI2K",
+          "url": "https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "fomo :/",
+      "url": "https://open.spotify.com/track/1Ir0BU9fRhlESmLJnkkedC"
     },
     {
       "album": {
@@ -25997,6 +26103,28 @@
     },
     {
       "album": {
+        "name": "Lacrime Endorfine (feat. Clemi)",
+        "url": "https://open.spotify.com/album/327vT1jn37yM3PuaLULCla"
+      },
+      "artists": [
+        {
+          "name": "Sixty4",
+          "url": "https://open.spotify.com/artist/0egBeT7AHJDY8szSY8k1sj"
+        },
+        {
+          "name": "Clemi",
+          "url": "https://open.spotify.com/artist/315sdH2D4pWLT8Q45Bv6ai"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "Lacrime Endorfine (feat. Clemi)",
+      "url": "https://open.spotify.com/track/1ibovHNmrLu5bN6Jjf9sG7"
+    },
+    {
+      "album": {
         "name": "LACRIME ROSSE",
         "url": "https://open.spotify.com/album/05hCSIHycn6rB0v7MoV1sK"
       },
@@ -26860,6 +26988,28 @@
       "duration_ms": 121691,
       "name": "LILBABY",
       "url": "https://open.spotify.com/track/1f2FzUPg1jLOf08tbV5Z5t"
+    },
+    {
+      "album": {
+        "name": "Limite",
+        "url": "https://open.spotify.com/album/101b4k5g4gnYQmP8sRVg8k"
+      },
+      "artists": [
+        {
+          "name": "Fandino",
+          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "Limite",
+      "url": "https://open.spotify.com/track/3MoRM9naSTxiDZ9imxnnfP"
     },
     {
       "album": {
@@ -27908,6 +28058,28 @@
       "duration_ms": 122000,
       "name": "MAHATMA",
       "url": "https://open.spotify.com/track/7hILuJZtSKO6ZBmvyzgJ76"
+    },
+    {
+      "album": {
+        "name": "MAI COME VOI",
+        "url": "https://open.spotify.com/album/1VUVjZeuTglMpT1Gy6hVSd"
+      },
+      "artists": [
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        },
+        {
+          "name": "Enomoney",
+          "url": "https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "MAI COME VOI",
+      "url": "https://open.spotify.com/track/20FFyQ25Z6dIqoHYeYIStz"
     },
     {
       "album": {
@@ -37383,6 +37555,32 @@
     },
     {
       "album": {
+        "name": "MAMMA MUOIO LEGGENDA",
+        "url": "https://open.spotify.com/album/6d6xsaxQRqCcSulyNq3LYo"
+      },
+      "artists": [
+        {
+          "name": "Lewa Jr",
+          "url": "https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm"
+        },
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "N'Dreamer",
+          "url": "https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161647,
+      "name": "Paradiso Champagne",
+      "url": "https://open.spotify.com/track/63atLbrk93mGjwYDYI8a49"
+    },
+    {
+      "album": {
         "name": "Parano",
         "url": "https://open.spotify.com/album/4xnjv739wdqiq3RaXhw1E6"
       },
@@ -44445,6 +44643,28 @@
     },
     {
       "album": {
+        "name": "Scientology (feat. UNK)",
+        "url": "https://open.spotify.com/album/4DnSpPbjNXS89k8fq8B3bn"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169495,
+      "name": "Scientology (feat. UNK)",
+      "url": "https://open.spotify.com/track/23BcIx6OM3urMisZg3lTGR"
+    },
+    {
+      "album": {
         "name": "scogliera",
         "url": "https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1"
       },
@@ -48358,6 +48578,28 @@
       "duration_ms": 187972,
       "name": "Street Fight",
       "url": "https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS"
+    },
+    {
+      "album": {
+        "name": "STRESS",
+        "url": "https://open.spotify.com/album/16tuLU3i9A04mb9oED8y2l"
+      },
+      "artists": [
+        {
+          "name": "Ramzes",
+          "url": "https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR"
+        },
+        {
+          "name": "Plug Wave",
+          "url": "https://open.spotify.com/artist/310sSuP9k65SJ53YkcQDHM"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164634,
+      "name": "STRESS",
+      "url": "https://open.spotify.com/track/5BYrCxYlf1aKwdY1s0w0nr"
     },
     {
       "album": {

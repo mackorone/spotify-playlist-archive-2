@@ -1,13 +1,29 @@
 {
-  "description": "Musica dalla comunit\u00e0 LGBQTIA+ \ud83c\uddee\ud83c\uddf9  M\u00a5SS KETA in cover",
-  "num_followers": 7567,
+  "description": "Musica dalla comunit\u00e0 LGBQTIA+ \ud83c\uddee\ud83c\uddf9  Birthh in cover",
+  "num_followers": 7568,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMo4dNObV8prq+XpkwhAeHZfgYix",
+  "snapshot_id": "AAAAALh8tIU993zRAh1vO7t6pSklCsbC",
   "tracks": [
+    {
+      "added_at": "2026-10-15 08:39:52",
+      "album": {
+        "name": "SENZA FIATO",
+        "url": "https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "duration_ms": 184924,
+      "name": "Pi\u00f9 in Alto",
+      "url": "https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v"
+    },
     {
       "added_at": "2026-07-13 22:01:23",
       "album": {
@@ -233,6 +249,26 @@
       "url": "https://open.spotify.com/track/29vydXyOsVviJH0xuQammy"
     },
     {
+      "added_at": "2026-10-15 08:39:52",
+      "album": {
+        "name": "BBDV6?",
+        "url": "https://open.spotify.com/album/2F7lEU0q1esVUkpizjD28q"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "BBDV6?",
+      "url": "https://open.spotify.com/track/1zZm1WBeEsL8JhjhUx03Cv"
+    },
+    {
       "added_at": "2026-07-13 22:01:23",
       "album": {
         "name": "Am\u00e9lie",
@@ -295,6 +331,22 @@
       "duration_ms": 129874,
       "name": "ECO",
       "url": "https://open.spotify.com/track/6QCTxkk1mFF54CMNROO8A9"
+    },
+    {
+      "added_at": "2026-10-15 08:39:52",
+      "album": {
+        "name": "SENZA FIATO",
+        "url": "https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "duration_ms": 137575,
+      "name": "Bene (da sola)",
+      "url": "https://open.spotify.com/track/6tKreDNMIEnOlZpekRxKpE"
     },
     {
       "added_at": "2026-07-13 22:01:23",
@@ -361,6 +413,22 @@
       "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
     },
     {
+      "added_at": "2026-10-15 08:39:52",
+      "album": {
+        "name": "pioggia di luglio",
+        "url": "https://open.spotify.com/album/4Xr6tDddRXpvdBiRxicsYa"
+      },
+      "artists": [
+        {
+          "name": "imthatboi",
+          "url": "https://open.spotify.com/artist/4hOMc8Shbw9RgGtUUd9qFo"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "pioggia di luglio",
+      "url": "https://open.spotify.com/track/5JRkbwYu7d1nVr2EBYIS3Q"
+    },
+    {
       "added_at": "2026-07-13 22:01:23",
       "album": {
         "name": "Anime Storte",
@@ -423,6 +491,22 @@
       "duration_ms": 219310,
       "name": "Hora Dorada",
       "url": "https://open.spotify.com/track/2H9uhmMVABgcUHxppF1GK9"
+    },
+    {
+      "added_at": "2026-10-15 08:39:52",
+      "album": {
+        "name": "adesso guardami",
+        "url": "https://open.spotify.com/album/2Taqa2s82ztpG5d4BITYja"
+      },
+      "artists": [
+        {
+          "name": "Andera",
+          "url": "https://open.spotify.com/artist/36w6KBnm52UzITIjgaZGBB"
+        }
+      ],
+      "duration_ms": 147551,
+      "name": "adesso guardami",
+      "url": "https://open.spotify.com/track/5mkSONloWVTxrSuQ65WfL4"
     },
     {
       "added_at": "2026-07-13 22:01:23",
@@ -555,26 +639,6 @@
     {
       "added_at": "2026-07-13 22:01:23",
       "album": {
-        "name": "La parte pi\u00f9 profonda del cuore",
-        "url": "https://open.spotify.com/album/2rmrPqKDWivbquuLFlMRTq"
-      },
-      "artists": [
-        {
-          "name": "Mavie",
-          "url": "https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7"
-        },
-        {
-          "name": "sedd",
-          "url": "https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "La parte pi\u00f9 profonda del cuore",
-      "url": "https://open.spotify.com/track/2uI9eUfp9scihf97rS0Jt8"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
         "name": "Dancing on this",
         "url": "https://open.spotify.com/album/3mD2YvH6vj65ECzVKMUQuU"
       },
@@ -639,22 +703,6 @@
     {
       "added_at": "2026-07-13 22:01:23",
       "album": {
-        "name": "Side To Side",
-        "url": "https://open.spotify.com/album/3L3RSdDNuLskDQW8pKTbYM"
-      },
-      "artists": [
-        {
-          "name": "Viviana Edera",
-          "url": "https://open.spotify.com/artist/5vqN52ZlnYXs5WpE5Rd6Ik"
-        }
-      ],
-      "duration_ms": 103431,
-      "name": "Side To Side",
-      "url": "https://open.spotify.com/track/3CG0Igojrrbel5OdRoAMRf"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
         "name": "QALB",
         "url": "https://open.spotify.com/album/1QmA4zvBZrj5fZYIQ6r3AE"
       },
@@ -683,42 +731,6 @@
       "duration_ms": 127451,
       "name": "prophecy",
       "url": "https://open.spotify.com/track/0bcinVan26kFF819jeK6N2"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i"
-      },
-      "artists": [
-        {
-          "name": "Queen of Saba",
-          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "ACAB (Amami Come Ameresti Bambi)",
-      "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
-        "name": "Veleno Maledetto",
-        "url": "https://open.spotify.com/album/7BpGVSbjObJdfgnephRkbs"
-      },
-      "artists": [
-        {
-          "name": "MYDRAMA",
-          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "Veleno Maledetto",
-      "url": "https://open.spotify.com/track/71KbGQ9rR8oHJaxW1LhK4q"
     },
     {
       "added_at": "2026-07-13 22:01:23",
@@ -851,22 +863,6 @@
       "duration_ms": 223093,
       "name": "En nuit",
       "url": "https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
-        "name": "I Nostri Fiori",
-        "url": "https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa"
-      },
-      "artists": [
-        {
-          "name": "Blue Phelix",
-          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "I Nostri Fiori",
-      "url": "https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn"
     },
     {
       "added_at": "2026-07-13 22:01:23",
@@ -1007,22 +1003,6 @@
       "duration_ms": 139007,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/4PfEKbg8CrOOBimaK6OElN"
-    },
-    {
-      "added_at": "2026-07-13 22:01:23",
-      "album": {
-        "name": "Chi Ama Brucia",
-        "url": "https://open.spotify.com/album/1rVqCLxybZCUtyCfaF9SwO"
-      },
-      "artists": [
-        {
-          "name": "Ragazza Milano",
-          "url": "https://open.spotify.com/artist/0OY6LGQu7fk8V4X43c81zn"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Chi Ama Brucia",
-      "url": "https://open.spotify.com/track/6E72u7gme1bAjQjPs1H29m"
     },
     {
       "added_at": "2026-07-13 22:01:23",
